@@ -24,7 +24,7 @@ insert into blood_test_results(withdrawal, test, units, reference_interval_low_e
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL direct','mg/dL',30,60,51,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol LDL','mg/dL',0,100,109.7,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol VLDL','mg/dL',0,35,15.8,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
-  ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL ratio','unitless',1,5,3.3,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL ratio','unitless',0,5,3.3,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Serum triglycerides','mg/dL',0,150,79,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
   # -- TSH
   ('November 2017 Metropolis Healthcare vitamin tests','TSH','muIU/mL',0.35,4.94,2.30,'Sufficient','This test was taken to provide an initial measurement; there was no specific prior reason to believe that the readings would be out of range'),
