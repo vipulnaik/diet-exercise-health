@@ -3,7 +3,7 @@ create table blood_test_withdrawals(
   `withdrawal_date` date,
   `fasting` boolean,
   `withdrawal_lab` varchar(255),
-  `requester` varchar(255)
+  `requester` varchar(255),
   `notes` varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
