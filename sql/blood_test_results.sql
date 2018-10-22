@@ -1,15 +1,6 @@
-create table blood_test_withdrawals(
-  `withdrawal_slug` varchar(255) primary key not null,
-  `withdrawal_date` date,
-  `fasting` boolean,
-  `withdrawal_lab` varchar(255),
-  `requester` varchar(255)
-  `notes` varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
-
 create table blood_test_results(
   `withdrawal` varchar(255),
-  `test` enum('B12','D3','TSH','Basic lipid profile','WBC','RBC','Hemoglobin','Hematocrit'),
+  `test` varchar(255),
   `units` enum('nmol/L','ng/ml','pg/ml','muIU/ml','1000/muL','1000000/muL','g/dL','%','fL'),
   `reference_interval_low_end` float,
   `reference_interval_high_end` float,
@@ -18,12 +9,6 @@ create table blood_test_results(
   `notes` varchar(2000),
   unique key wt (`withdrawal`, `test`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
-
-insert into blood_test_withdrawals(withdrawal_slug, withdrawal_date, fasting, withdrawal_lab, requester, notes) values
-  ('December 2016 LabCorp gastro tests','2016-12-12',true,'LabCorp','Jeffrey M. Aron','A large number of blood tests were requested by the gastro doctor whom I visited because of stomach pains. Ultimately, no problems were discovered, and the stomach pains had improved after some diet changes, so no further action was necessary based on these tests'),
-  ('November 2017 Columbia Asia vitamin tests','2017-11-12',true,'Columbia Asia','Self','Tests for Vitamin B12, Vitamin D3, and basic lipid profile'),
-  ('November 2017 Metropolis Healthcare vitamin tests','2017-11-17',true,'Metropolis Healthcare','Self','Tests for Vitamin B12, Vitamin D3, and Thyroid Stimulating Hormone (TSH). The goal of the B12 and D3 tests was to validate and cross-check the low readings from the test done a few days before it at Columbia Asia'),
-  ('September 2018 LabCorp vitamin tests','2018-09-19',true,'LabCorp','Self (via Request A Test)','Tests for Vitamin B12 and Vitamin D3. The goal was to measure the effect of vitamin supplementation on vitamin levels after a few months of taking supplements. Prior to starting supplements, the last test (November 2017) had revealed low readings for both vitamins');
 
 insert into blood_test_results(withdrawal, test, units, reference_interval_low_end, reference_interval_high_end, measured_value, diagnosis, notes) values
   # -- D3 tests
@@ -60,4 +45,13 @@ insert into blood_test_results(withdrawal, test, units, reference_interval_low_e
   ('December 2016 LabCorp gastro tests','Immature granulocytes (absolute)','1000/muL',0.0,0.1,0.0,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro tests','HbA1c','%',4.8,5.6,5.5,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro tests','C-Reactive Protein (Cardiac)',0.00,3.00,0.21,'Normal; low risk of future cardiovascular event (< 1.00)','The test was a part of a battery of gastro tests'),
-  ('December 2016 LabCorp gastro tests','Antigliadin Abs (IgG)',..);
+  ('December 2016 LabCorp gastro tests','Antigliadin Abs (IgG)',NULL,0,19,2,'Negative','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro tests','t-Transglutaminase (tTG) IgA','U/mL',0,3,2,'Negative','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro tests','t-Transglutaminase (tTG) IgG','U/mL',0,5,2,'Negative','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro tests','Serum creatinine','mg/dL',0.76,1.27,0.62,'Low','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro tests','Alkaline phosphate','IU/L',39,117,53,'Normal','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro tests','AST (SGOT)','IU/L',0,40,18,'Normal','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro tests','ALT (SGPT)','IU/L',0,44,11,'Normal','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro tests','Serum lipase','U/L',0,59,30,'Normal','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro tests','Serum immunoglobulin G','mg/dL',700,1600,765,'Normal','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro tests','Serum immunoglobulin A','mg/dL',90,386,130,'Normal','The test was a part of a battery of gastro tests');
