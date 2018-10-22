@@ -1,5 +1,5 @@
-create table blood_test_results(
-  `withdrawal` varchar(255),
+create table test_results(
+  `collection` varchar(255),
   `test` varchar(255),
   `units` varchar(255),
   `reference_interval_low_end` float,
@@ -7,10 +7,10 @@ create table blood_test_results(
   `measured_value` float,
   `diagnosis` varchar(255),
   `notes` varchar(2000),
-  unique key wt (`withdrawal`, `test`)
+  unique key ct (`collection`, `test`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
-insert into blood_test_results(withdrawal, test, units, reference_interval_low_end, reference_interval_high_end, measured_value, diagnosis, notes) values
+insert into test_results(collection, test, units, reference_interval_low_end, reference_interval_high_end, measured_value, diagnosis, notes) values
   # -- D3 tests
   ('November 2017 Columbia Asia vitamin and lipid profile tests','D3','nmol/L',75,250,12.2,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','D3','ng/mL',30,100,3,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
@@ -28,7 +28,7 @@ insert into blood_test_results(withdrawal, test, units, reference_interval_low_e
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Serum triglycerides','mg/dL',0,150,79,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
   # -- TSH
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','TSH','muIU/mL',0.35,4.94,2.30,'Sufficient','This test was taken to provide an initial measurement; there was no specific prior reason to believe that the readings would be out of range'),
-  # -- Gastro profile tests
+  # -- Gastro blood tests
   ('December 2016 LabCorp gastro blood tests','WBC','1000/muL',3.4,10.8,4.3,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','RBC','1000000/muL',4.14,5.80,5.19,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','Hemoglobin','g/dL',12.6,17.7,15.4,'Normal','The test was a part of a battery of gastro tests'),
