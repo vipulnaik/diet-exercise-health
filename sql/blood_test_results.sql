@@ -12,13 +12,20 @@ create table blood_test_results(
 
 insert into blood_test_results(withdrawal, test, units, reference_interval_low_end, reference_interval_high_end, measured_value, diagnosis, notes) values
   # -- D3 tests
-  ('November 2017 Columbia Asia vitamin tests','D3','nmol/L',75,250,12.2,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','D3','nmol/L',75,250,12.2,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
   ('November 2017 Metropolis Healthcare vitamin tests','D3','ng/mL',30,100,3,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
   ('September 2018 LabCorp vitamin tests','D3','ng/mL',30,100,35.8,'Sufficient','This test was taken after about 10 months of regular Vitamin D3 supplementation, with the supplement amount mostly 1000 IUs but occasionally going to 2000 IUs'),
   # -- B12 tests
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','B12','pg/mL',180,914,167,'Intermediate','This test was taken before starting any regular Vitamin B12 supplementation. Guidance says: < 145 pg/mL is deficient, 145-180 is intermediate, and 180-914 is normal'),
   ('November 2017 Metropolis Healthcare vitamin tests','B12','pg/mL',187,883,173.6,'Deficient','This test was taken before starting any regular Vitamin B12 supplementation'),
   ('September 2018 LabCorp vitamin tests','B12','pg/mL',232,1245,1050,'Sufficient','This test was taken after about 10 months of regular Vitamin B12 supplementation, at 1000 mcg per tablet and a little over 1 tablet per day on average'),
-  # -- Lipid profile test (the data is missing?)
+  # -- Lipid profile test
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol total','mg/dL',0,200,168,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL direct','mg/dL',30,60,51,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol LDL','mg/dL',0,100,109.7,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol VLDL','mg/dL',0,35,15.8,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL ratio','unitless',1,5,3.3,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','Serum triglycerides','mg/dL',0,150,79,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
   # -- TSH
   ('November 2017 Metropolis Healthcare vitamin tests','TSH','muIU/mL',0.35,4.94,2.30,'Sufficient','This test was taken to provide an initial measurement; there was no specific prior reason to believe that the readings would be out of range'),
   # -- Gastro profile tests
