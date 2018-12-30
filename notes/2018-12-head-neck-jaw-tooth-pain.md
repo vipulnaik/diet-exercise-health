@@ -63,7 +63,7 @@ relaxation techniques. I was able to go back to sleep but it was not a
 blissful sleep. I woke up around 6 AM.
 
 I Googled a lot and thought the problem might be either TMD or tooth
-chipping or gum injury. I doubt it was a cavity but couldn' inspect
+chipping or gum injury. I doubt it was a cavity but couldn't inspect
 myself because of the location.
 
 ## Friday, December 28 (2018-12-28)
@@ -97,3 +97,5 @@ For lunch, I had lentil-rice (bisi bele bhat) along with salt lassi. I
 asked for fewer spices, and also mixed some of the lassi into the
 other food to make it less strenuous on the teeth. Otherwise, however,
 it was a normal meal.
+
+I went to sleep around 8:30.
