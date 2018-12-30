@@ -49,6 +49,8 @@ lower left, but not visible easily to me in the mirror because it was
 on the far left. At this point, I was also feeling more dryness and
 irritation in my throat.
 
+I went to sleep around 8:45.
+
 I had a lot of trouble sleeping that night, because I could not rest
 on my left side due to the pain, and had to basically rest on my right
 side almost all night.
@@ -76,12 +78,22 @@ Dr. Allison for 3 PM (only some doctors were available on Monday).
 
 I applied gum astringent (Himalaya HiOra) two more times.
 
+I went to sleep around 8:30.
+
 After reading some advice on sleeping with toothaches, I slept with more
 head elevation. While this reduced the tooth pains, it seems to have
 made me more uncomfortable in other ways. I eventually went back to
 sleeping the normal way.
 
+I woke up a couple times briefly at night, then properly woke up
+between 6:30 and 7.
+
 ## Saturday, December 29 (2018-12-29)
 
 I gargled with salt water and continued to exercise some dietary
 caution.
+
+For lunch, I had lentil-rice (bisi bele bhat) along with salt lassi. I
+asked for fewer spices, and also mixed some of the lassi into the
+other food to make it less strenuous on the teeth. Otherwise, however,
+it was a normal meal.
