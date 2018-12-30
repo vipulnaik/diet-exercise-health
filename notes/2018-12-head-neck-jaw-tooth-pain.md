@@ -99,3 +99,13 @@ other food to make it less strenuous on the teeth. Otherwise, however,
 it was a normal meal.
 
 I went to sleep around 8:30.
+
+I got up around 6:30, with a few night-time interruptions for
+alerts. I was more well-rested than the past couple of days. A few
+improvements that might have been causal: I wore my sweatshirt, which
+kept me warmer and reduced my need to huddle or coil while sleeping
+(which is normally not a problem, but in this case might have been
+stressing my muscles). I maintained a better pillow arrangement.
+
+Also, I didn't use gum astringent, but kept tissues handy so that when
+I salivated at night I was able to catch it and not wet the pillows.
