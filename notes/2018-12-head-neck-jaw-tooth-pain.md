@@ -109,3 +109,21 @@ stressing my muscles). I maintained a better pillow arrangement.
 
 Also, I didn't use gum astringent, but kept tissues handy so that when
 I salivated at night I was able to catch it and not wet the pillows.
+
+## Sunday, December 30 (2018-12-30)
+
+During the day, the pain wasn't too distracting. I did some
+acupressure exercise in the morning. I ate some takeout from Chaat
+Cafe, but breaking the food down finer, and then in the evening I
+cooked my usual food and ate a bit, again chopping things finer.
+
+I went to sleep at around 8:30. I applied the gum astringent right
+before going to sleep. I salivated a lot and used tissues to minimize
+wetting of the pillows.
+
+I was interrupted a lot at night by alerts, but otherwise the sleep
+was tolerable, comparable with the previous day. I got up organically
+around 6:30.
+
+## Monday, December 31 (2018-12-31)
+
