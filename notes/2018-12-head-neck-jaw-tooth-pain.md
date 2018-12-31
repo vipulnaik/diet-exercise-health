@@ -127,3 +127,14 @@ around 6:30.
 
 ## Monday, December 31 (2018-12-31)
 
+I had a bit of pain in the morning when eating and realized I was
+opening my mouth too much, then after becoming cautious again things
+were ok.
+
+Had breakfast, cooked, ate lunch.
+
+Dentist didnt' send email or phone call confirming appointment, and
+their office didn't pick up at the phone number. So I decided not to
+go since it seems the office is closed. Booked another appointment for
+Friday for a location closer to home.
+
