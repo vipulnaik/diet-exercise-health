@@ -138,3 +138,18 @@ their office didn't pick up at the phone number. So I decided not to
 go since it seems the office is closed. Booked another appointment for
 Friday for a location closer to home.
 
+Went to sleep at around 8:30; did not apply gum astringent before
+sleeping. No alerts overnight, woke up around 5:20. Good sleep
+overall; continued issues of salivation overnight.
+
+## Tuesday, January 1 (2019-01-01)
+
+While having breakfast, I realized that though the lower left gum area
+has mostly healed, I still have some swelling in my inner left cheek
+(further out left). I applied the gum astringent to that area; I had
+not previously applied the astringent there.
+
+Also applied a bit of astringent to my upper right gums, where I
+noticed a much more mild pain, possibly due to using the right side of
+my teeth for all my eating activities.
+
