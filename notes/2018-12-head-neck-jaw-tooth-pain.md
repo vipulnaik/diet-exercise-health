@@ -153,3 +153,25 @@ Also applied a bit of astringent to my upper right gums, where I
 noticed a much more mild pain, possibly due to using the right side of
 my teeth for all my eating activities.
 
+I had two normal meals. In the evening, I was craving
+lassi/butter-milk but didn't want to go out and get it. I used some
+diluted yogurt with cumin powder for the effect. It's possible I put more
+cumin than ideal.
+
+Toward late evening, I felt a lot of throat irritation which may have
+been due to the astringent or the cumin or just other factors; I
+wasn't sure. In any case, I decided not to apply astringent at night.
+
+I went to sleep around 8 PM. Sleep was relatively good. Got an alert
+around 4:40 when I was also naturally semi-awake.
+
+## Wednesday, January 1 (2019-01-02)
+
+I have to go in to the office, so it's a tricky day.
+
+I decided to take yogurt along so I could have diluted yogurt while in
+the office, as a replaecment for hot chocolate (that might be too hot
+for my throat, and have more caffeine/sugar than I would like).
+
+I ate breakfast at home at around 6:30, and left home around 7:45.
+
