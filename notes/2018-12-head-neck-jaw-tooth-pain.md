@@ -165,13 +165,28 @@ wasn't sure. In any case, I decided not to apply astringent at night.
 I went to sleep around 8 PM. Sleep was relatively good. Got an alert
 around 4:40 when I was also naturally semi-awake.
 
-## Wednesday, January 1 (2019-01-02)
+## Wednesday, January 2 (2019-01-02)
 
 I have to go in to the office, so it's a tricky day.
 
 I decided to take yogurt along so I could have diluted yogurt while in
-the office, as a replaecment for hot chocolate (that might be too hot
+the office, as a replacement for hot chocolate (that might be too hot
 for my throat, and have more caffeine/sugar than I would like).
 
 I ate breakfast at home at around 6:30, and left home around 7:45.
 
+I ended up having the diluted yogurt throughout the day. Left the
+office at around 5:15 but had a slow dinner on the way back. Reached
+home at around 10 PM and immediately went to sleep.
+
+Had some serious throat irritation for brief periods of time in the
+evening.
+
+## Thursday, January 3 (2019-01-03)
+
+I woke up around 5:30 (semi-awake by around 4:45). Feeling better. Had
+turmeric pills in the morning with breakfast.
+
+Got into the office around 9 AM.
+
+Had diluted yogurt again during the day while at the office.
