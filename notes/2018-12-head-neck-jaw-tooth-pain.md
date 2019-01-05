@@ -190,3 +190,22 @@ turmeric pills in the morning with breakfast.
 Got into the office around 9 AM.
 
 Had diluted yogurt again during the day while at the office.
+
+Picked up dinner from Chaat Cafe on the way back home. I didn't get
+the naan (due to chewing difficulties) and got extra veggies
+instead. I had no trouble having it. Also took turmeric pills. My
+throat irritation and tooth situation were much better in the evening.
+
+I went to sleep around 9 PM.
+
+## Friday, January 4 (2019-01-04)
+
+I woke up around 5:15. My light-sensitivity had improved to the point
+that I didn't mind turning the light on early in the morning, and
+turned it off only after sunrise.
+
+I did some work early in the morning, then ran -- couldn't run much
+because it was very cold -- then had breakfast. Got to the office
+around 10 AM. Had yougurt during the day again. Went back home at
+around 5:50 PM.
+
