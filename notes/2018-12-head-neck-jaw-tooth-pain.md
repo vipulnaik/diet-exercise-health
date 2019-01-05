@@ -209,3 +209,15 @@ because it was very cold -- then had breakfast. Got to the office
 around 10 AM. Had yougurt during the day again. Went back home at
 around 5:50 PM.
 
+Got home around 7:15, had dinner and went to sleep around 9:15.
+
+Sleep was quite high-quality, and the pain on my left side is mostly
+gone (but the swelling remains and I continue to need to exercise
+dietary caution).
+
+Got up around 6:10 and stayed in bed on phone till 6:30 or so.
+
+## Saturday January 5 (2010-01-05)
+
+It was raining so I didn't go for morning run. Ate (didn't take
+turmeric pills) and then starting on both work and personal tasks.
