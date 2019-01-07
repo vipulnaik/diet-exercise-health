@@ -231,3 +231,7 @@ I went to sleep around 7:45, and woke up at around 7 AM.
 
 Stayed at home all day due to rain. Pain much less, did usual stuff
 (one round of cooking).
+
+Went to sleep around 8 PM
+
+Got up around 5:15 AM the next morning.
