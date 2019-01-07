@@ -217,7 +217,17 @@ dietary caution).
 
 Got up around 6:10 and stayed in bed on phone till 6:30 or so.
 
-## Saturday January 5 (2010-01-05)
+## Saturday January 5 (2019-01-05)
 
 It was raining so I didn't go for morning run. Ate (didn't take
 turmeric pills) and then starting on both work and personal tasks.
+
+I did my usual day stuff, including eating out (Bisi Bele Bhat),
+buying food from Trader Joe's, and normal cooking.
+
+I went to sleep around 7:45, and woke up at around 7 AM.
+
+## Sunday January 6 (2019-01-06)
+
+Stayed at home all day due to rain. Pain much less, did usual stuff
+(one round of cooking).
