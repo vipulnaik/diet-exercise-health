@@ -35,7 +35,9 @@ The doctor examined me quite briefly. She noted that:
 
 * There was a lot of plaque on the inside teeth, though the outside
   was clean. There was also some bleeding when being poked with the
-  dental instruments, though I hadn't encountered bleeding on my own.
+  dental instruments, though I hadn't encountered bleeding on my
+  own. She mentioned it's mostly plaque but there's also some calculus
+  (tartar).
 
 Her recommendation was to:
 
