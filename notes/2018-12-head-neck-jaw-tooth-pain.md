@@ -1,3 +1,38 @@
+High level:
+
+* Starting around December 24, I was sleeping long durations
+
+* Starting around December 27, I identified tooth pains that seemed
+  related
+
+* I self-diagnosed as temporomandibular joint disorder (TMD) based on
+  the symptoms of head, neck and shoulder pain, heavy jaw pain, light
+  sensitivity, and lower left tooth pain. I followed a number of the
+  recommendations online related to TMD. These included not having
+  foods that needed heavy tooth movement, not opening my mouth too
+  widely, not putting pressure on the jaw (e.g., holding it on my
+  palm). I also applied hum astringent. I continued sleeping long
+  hours. I also used techniques like EFT and acupressure to address
+  the pains. I also stopped having hot chocolate and switched to
+  yogurt instead.
+
+* The combination of all these appears to have resulted in an
+  improvement in my well-being by around January, including a healing
+  of most of the gums, resolution of head/neck/shoulder pain, and
+  greater ease eating. I continued to exercise caution with diet and
+  sleep.
+
+* I had some throat inflammations that might have been triggered by
+  the gum astringent or by the original pains. I took turmeric to help
+  address the inflammation; even otherwise, it would come and go, but
+  the turmeric seems to have helped.
+
+* I stopped maintaining a daily log after Sunday January 6, after the
+  situation seemed to have reached a reasonably stable point.
+
+* I visited the dentist on Tuesday January 8. The dentist visit is
+  described [here](2019-01-08-dentist-visit.md).
+
 This document gives a rough timeline and sequence of events for head,
 neck, jaw and tooth pains that would lead to setting up a dentist
 visit.
@@ -235,3 +270,6 @@ Stayed at home all day due to rain. Pain much less, did usual stuff
 Went to sleep around 8 PM
 
 Got up around 5:15 AM the next morning.
+
+NOTE: I stopped taking notes at daily cadence starting Monday January
+7 because the pain was no longer significant.
