@@ -11,5 +11,6 @@ insert into vaccine_administrations(administration_slug, vaccine, location, admi
   ('2015 influenza vaccine','Influenza','Walgreens (San Pablo and Ashby), Berkeley','2015-08-29','Annual flu shot. Quadrivalent shot in right arm. No complications'),
   ('2016 influenza vaccine','Influenza','Walgreens (San Pablo and Ashby), Berkeley','2016-08-28','Annual flu shot. Quadrivalent shot in right arm Slight weakness in right arm after shot (as expected). No complications'),
   ('2017 influenza vaccine','Influenza','Walgreens (Shattuck and Allston), Berkeley','2017-09-23','Annual flu shot. Quadrivalent shot (Flucelvax) in right arm. No complications'),
-  ('2018 influenza vaccine','Influenza','Walgreens (Shattuck and Allston), Berkeley','2018-09-22','Annual flu shot. Quadrivalent shot in right arm. Spurt of bleeding, but no further complications');
+  ('2018 influenza vaccine','Influenza','Walgreens (Shattuck and Allston), Berkeley','2018-09-22','Annual flu shot. Quadrivalent shot in right arm. Spurt of bleeding, but no further complications'),
+  ('2019 influenza vaccine','Influenza','Walgreens (Shattuck and Allston), Berkeley','2019-09-07','Annual flu shot. Quadrivalent shot in right arm. No complications');
 
