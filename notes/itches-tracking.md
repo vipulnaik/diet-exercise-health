@@ -4,7 +4,9 @@ a week.
 
 The recording isn't necessarily comprehensive, as sometimes I scratch
 an itch without even consciously thinking about it. This might also
-explain why the number of recordings reduced over the days.
+explain why the number of recordings reduced over the days. But it
+could also be that I imagined itches in the earlier days because I was
+more primed to tracking them.
 
 Thursday October 17
 
