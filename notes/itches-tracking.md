@@ -2,6 +2,10 @@ A friend asked me to record when and how I had itches, to get a
 general measurement of how often people feel itchy. I'm doing this for
 a week.
 
+The recording isn't necessarily comprehensive, as sometimes I scratch
+an itch without even consciously thinking about it. This might also
+explain why the number of recordings reduced over the days.
+
 Thursday October 17
 
 - 2:46 PM: head scratching
@@ -28,4 +32,26 @@ Saturday October 19
 - 11:05 AM: scratched head and neck
 - 12:14 to 12:18 PM: scratched ear and various parts of face
 - 2 PM: scratched back of my hand
+- 2:10 PM: many minor scratches
+- 8:50 PM: many minor scratches
+- 9:15 to 9:20 PM: many minor scratches
+- 9:45 to 9:48: extensive scratching of back
 
+Sunday October 20
+
+- 7:30 AM: scratched head and left ear
+- 5:15 PM: scratched a few places
+
+Monday October 21
+
+- 3:35 PM: scrached torso and face
+- 4:25 PM: scratched left finger
+
+Tuesday October 22
+
+- 12:50 PM: scratched my back
+
+Wednesday October 23
+
+- 11:55: scratched head and right arm
+- 12:20: scatched back of right neck
