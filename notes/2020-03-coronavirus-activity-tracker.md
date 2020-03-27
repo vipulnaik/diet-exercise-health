@@ -1,7 +1,7 @@
 # Activity tracker listing times and places I was outside the house
 
 This will be useful in case either I come down with coronavirus, or
-somebody in my vicinity does and my activity may need to be tracked.
+somebody in my vicinity does and my activity needs to be tracked.
 
 I exclude trips for jogging and running during which I did not come in
 proximity to anybody.
@@ -23,9 +23,12 @@ proximity to anybody.
   tofu to go. I paid by cash. The cashier was one of the regular
   people and I can recognize her.
 
+See also https://github.com/vipulnaik/daily-updates/issues/136
+
 ## Thursday March 26
 
 * Around 4 to 5 PM: I went to Trader Joe's and bought some
   groceries. I had to wait in line to enter the store, maintaining six
   feet distance. I paid by card.
 
+See also https://github.com/vipulnaik/daily-updates/issues/138
