@@ -20,7 +20,7 @@ proximity to anybody.
 ## Wednesday March 25
 
 * Around 1 PM: I went to Bangkok Thai Cuisine and ordered yellow curry
-  tofu to go. I paid by cash. The cashier was one of the regular
+  tofu to go. I paid by cash. The server was one of the regular
   people and I can recognize her.
 
 See also https://github.com/vipulnaik/daily-updates/issues/136
@@ -32,3 +32,11 @@ See also https://github.com/vipulnaik/daily-updates/issues/136
   feet distance. I paid by card.
 
 See also https://github.com/vipulnaik/daily-updates/issues/138
+
+## Saturday March 28:
+
+* Around 1:57 PM: I went to Bangkok Thai Cuisine and ordered yellow
+  curry tofu to go. I waited in the restaurant (server wasn't near me
+  while I waited) and got the food arond 2:05 PM. The server was the
+  same one whom I saw on Wednesday March 25. There were also other
+  patrons who picked up orders but I did not get close to them.
