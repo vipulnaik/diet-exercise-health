@@ -39,4 +39,14 @@ See also https://github.com/vipulnaik/daily-updates/issues/138
   curry tofu to go. I waited in the restaurant (server wasn't near me
   while I waited) and got the food arond 2:05 PM. The server was the
   same one whom I saw on Wednesday March 25. There were also other
-  patrons who picked up orders but I did not get close to them.
+  patrons who picked up orders but I did not get close to them. The
+  walk to the restarant is around five minutes each way, so I was
+  outside the home from arouund 1:50 PM to 2:10 PM.
+
+* Around 6:14 PM: I bought some food from Trader Joe's. The cashier
+  was a young black female whom I haven't seen before. I arrived and
+  started waiting in line at 5:50 PM, got into the store around 6:10
+  PM, and left the store around 6:15 PM. I was outside the home from
+  around 5:30 PM to around 6:35 PM. While waiting in line, the person
+  in front of me was a young male wearing a black jacket; the person
+  behind me was an old man with a mustache and an umbrella.
