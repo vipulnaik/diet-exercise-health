@@ -50,3 +50,7 @@ See also https://github.com/vipulnaik/daily-updates/issues/138
   around 5:30 PM to around 6:35 PM. While waiting in line, the person
   in front of me was a young male wearing a black jacket; the person
   behind me was an old man with a mustache and an umbrella.
+
+## Tuesday March 31
+
+* Around 6:55 to 7:10 PM: I was at Bangkok Thai Cuisine getting yellow curry tofu. A waiter took my order and a waitress gave it to me at the door. Both wore masks and I recognize them. There were some other customers.
