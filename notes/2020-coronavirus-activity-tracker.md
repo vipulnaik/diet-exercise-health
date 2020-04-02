@@ -75,3 +75,4 @@ See also https://github.com/vipulnaik/daily-updates/issues/138
 * 4:13 PM: I finished purchasing groceries. The cashier's name was
   Cynthia. I paid by card.
 
+See also https://github.com/vipulnaik/daily-updates/issues/142
