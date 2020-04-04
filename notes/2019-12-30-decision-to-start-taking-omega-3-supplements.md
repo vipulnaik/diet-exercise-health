@@ -203,9 +203,20 @@ generally positive.
 I ordered two bottles (120 capsules) for delivery next week, with a
 delivery time range of January 7 to January 10, 2020.
 
-## Update on starting supplements
+## Update on starting and continuing supplements
 
 I received the supplements in the mail on Wednesday, January 8, 2020,
 and started taking them daily starting Friday, January 10, 2020. In
 the first few days, I didn't experience any obvious reaction (positive
 or negative) to the supplements.
+
+I finished the first bottle of 60 capsules around Friday, March 13,
+2020 and started on the second bottle.
+
+On Saturday, April 4, 2020, I ordered four more bottles (while partly
+through the second bottle). By this point, I had a generally positive
+impression of the supplement, although it's hard to get any kind of
+conclusive evidence since I didn't really run a controlled
+experiment. The rationale behind the bulk order was to reduce the
+number of shipments, and also stock up in preparation of supply chain
+disruption due to coronavirus.
