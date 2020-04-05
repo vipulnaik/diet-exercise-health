@@ -76,3 +76,9 @@ See also https://github.com/vipulnaik/daily-updates/issues/138
   Cynthia. I paid by card.
 
 See also https://github.com/vipulnaik/daily-updates/issues/142
+
+## Saturday April 4
+
+* Around 7:48 PM: I ordered yellow curry with tofu and white rice from
+  Bangkok Thai Cuisine. The waitress was the usual one. I paid by
+  cash. The food was prepared in about ten minutes.
