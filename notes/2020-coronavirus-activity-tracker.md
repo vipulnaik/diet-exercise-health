@@ -82,3 +82,11 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
 * Around 7:48 PM: I ordered yellow curry with tofu and white rice from
   Bangkok Thai Cuisine. The waitress was the usual one. I paid by
   cash. The food was prepared in about ten minutes.
+
+## Monday April 6
+
+* Around 8:40 AM to 9:35 AM: I went to Trader Joe's. I got to the line
+  at around 8:55 AM, got into the store around 9:12 AM, and finished
+  checkout at around 9:20 AM. I returned home around 9:35 AM. I paid
+  by card. I don't remember the face or identity of the checkout
+  person.
