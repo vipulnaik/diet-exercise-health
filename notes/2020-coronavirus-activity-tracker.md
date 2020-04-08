@@ -90,3 +90,10 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   checkout at around 9:20 AM. I returned home around 9:35 AM. I paid
   by card. I don't remember the face or identity of the checkout
   person.
+
+## Tuesday April 7
+
+* Somewhere in the 12:45 to 1:30 range: I went to Bangkok Thai Cuisine
+  to order yellow curry tofu with rice takeout. I paid by cash. It was
+  the usual waitress. They had a glass or plastic screen in front of
+  the counter for some protection.
