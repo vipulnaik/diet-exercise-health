@@ -97,3 +97,12 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   to order yellow curry tofu with rice takeout. I paid by cash. It was
   the usual waitress. They had a glass or plastic screen in front of
   the counter for some protection.
+
+## Wednesday April 8
+
+* 8:25 AM to 9:30 AM: Around 8:25 AM, I left to go to Trader Joe's to
+  buy groceries. I arrived there around 8:45 AM and stood in line. I
+  entered the store around 9:05 AM. I finished the purchase at 9:12 AM
+  and the male cashier insisted on putting my stuff in their brown
+  paper bags rather than letting me put it in my backpack. I returned
+  home around 9:30 AM.
