@@ -106,3 +106,10 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   and the male cashier insisted on putting my stuff in their brown
   paper bags rather than letting me put it in my backpack. I returned
   home around 9:30 AM.
+
+## Friday April 10
+
+* 12:08 PM to 12:30 PM: Around 12:10 PM, I left home to go to Bangkok
+  Thai Cuisine. Around 12:15 PM, I placed the order for yellow curry
+  with tofu. I paid by cash. The waitress was the usual one. I received
+  the food at 12:22 and got back home at 12:30.
