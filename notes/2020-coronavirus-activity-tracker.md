@@ -113,3 +113,10 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   Thai Cuisine. Around 12:15 PM, I placed the order for yellow curry
   with tofu. I paid by cash. The waitress was the usual one. I received
   the food at 12:22 and got back home at 12:30.
+
+## Sunday April 12
+
+* 9:01 AM to 9:13 AM: During this period, I was in the Walgreens
+  store. I bought a flask and face tissues. I checked out using my
+  phone number and debit card; the sales clerk was female and somebody
+  I had not seen before. The transaction happened at 9:11 AM.
