@@ -127,3 +127,14 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   customers in the restaurant sitting together and waiting for their
   order; they had masksk on. I maintained distance of 12 feet or more
   from them at all times.
+
+## Monday April 13
+
+* 8:40 AM to about 10 AM: During this period, I was out buying
+  groceries from Trader Joe's. I arrived at the store and got in the
+  line somewhere between 8:50 AM and 8:55 AM. I got into the store a
+  little after 9:15 AM. I checked out and paid by debit card at 9:31
+  AM. The clerk was a young black male with a beard. I walked back
+  home (a little slowly because I had bought a lot and it was all in
+  paper bags, because the store doesn't allow self-bagging any
+  more). I got home around 9:55 AM.
