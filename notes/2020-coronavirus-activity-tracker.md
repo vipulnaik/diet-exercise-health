@@ -120,3 +120,10 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   store. I bought a flask and face tissues. I checked out using my
   phone number and debit card; the sales clerk was female and somebody
   I had not seen before. The transaction happened at 9:11 AM.
+
+* Somewhere betwee 8:30 PM and 9 PM: I went to Bangkok Thai Cuisine
+  and ordered yellow curry tofu with rice to go. I paid by cash. The
+  waiter was one of the usual male ones. There were two other
+  customers in the restaurant sitting together and waiting for their
+  order; they had masksk on. I maintained distance of 12 feet or more
+  from them at all times.
