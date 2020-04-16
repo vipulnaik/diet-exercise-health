@@ -138,3 +138,10 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   home (a little slowly because I had bought a lot and it was all in
   paper bags, because the store doesn't allow self-bagging any
   more). I got home around 9:55 AM.
+
+## Wednesday April 15
+
+* 1:10 PM to 1:40 PM: During this period, I went to Bangkok Thai
+  Cuisine and ordered a yellow curry with tofu. I paid by cash. The
+  waitress was the usual one. I placed the order around 1:20 PM and
+  left a little after 1:30 PM.
