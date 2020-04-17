@@ -145,3 +145,11 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   Cuisine and ordered a yellow curry with tofu. I paid by cash. The
   waitress was the usual one. I placed the order around 1:20 PM and
   left a little after 1:30 PM.
+
+## Friday April 17
+
+* 9:25 AM to 10:35 AM: During this period, I went to Trader Joe's to
+  get groceries. I arrived at the store at around 9:40 AM, got inside
+  the store at around 10:05 AM, and finished paying at 10:15 AM. I got
+  back home around 10:35 AM. I used the checkout aisle farthest from
+  the street entrance; the cashier was male.
