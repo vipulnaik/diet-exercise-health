@@ -157,3 +157,10 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
 * 6:40 to 7:05 PM: During the period, I went to Bangkok Thai Cuisine
   and ordered a yellow curry with tofu. I paid by cash. The waiter was
   one of the usual male ones.
+
+## Saturday April 18
+
+* 9:50 AM to 10 AM: During this period, I was in the Walgreens on
+  Gilman Street. The cashier was the usual male one. I bought a number
+  of items including toothpaste, chewable vitamin C, and some toiletry
+  items. I checked out and paid with debit card at 9:59 AM.
