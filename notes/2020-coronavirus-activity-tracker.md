@@ -153,3 +153,7 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   the store at around 10:05 AM, and finished paying at 10:15 AM. I got
   back home around 10:35 AM. I used the checkout aisle farthest from
   the street entrance; the cashier was male.
+
+* 6:40 to 7:05 PM: During the period, I went to Bangkok Thai Cuisine
+  and ordered a yellow curry with tofu. I paid by cash. The waiter was
+  one of the usual male ones.
