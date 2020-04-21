@@ -164,3 +164,11 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   Gilman Street. The cashier was the usual male one. I bought a number
   of items including toothpaste, chewable vitamin C, and some toiletry
   items. I checked out and paid with debit card at 9:59 AM.
+
+## Monday April 20
+
+* 5:20 PM to 5:55 PM: During this period, I went out to get a yellow
+  curry tofu with rice from Bangkok Thai Cuisine. I placed the order
+  around 5:30, waited outside and inside the restaurant, and received
+  the order at 5:45. I paid by cash. The waiter was the usual male
+  one.
