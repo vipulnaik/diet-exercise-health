@@ -172,3 +172,22 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
   around 5:30, waited outside and inside the restaurant, and received
   the order at 5:45. I paid by cash. The waiter was the usual male
   one.
+
+## Thursday April 23
+
+I made a trip to downtown Berkeley. I wore a cloth mask (part of a
+pack purchased from Custom Ink) for the entire duration that I was in
+the downtown region.
+ 
+* 6 PM to 6:09 PM: I did some shopping at Trader Joe's. There was no
+  line when I entered the store at 6 PM. I checked out at 6:08 PM, the
+  cashier was male and it was the checkout counter farthest from the
+  door.
+
+* Around 6:11 to 6:13 PM: I ordered a spinach masala dosa takeout from
+  Udupi Palace.
+
+* 6:20 PM: I withdrew $200 USD from my checking account at the
+  Citibank ATM at Shattuck and University.
+
+* 6:27 PM: I picked up my order from Udupi Palace.
