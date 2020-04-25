@@ -191,3 +191,22 @@ the downtown region.
   Citibank ATM at Shattuck and University.
 
 * 6:27 PM: I picked up my order from Udupi Palace.
+
+## Saturday April 25
+
+I made a trip to downtown Berkeley. I wore a cloth mask (part of a
+pack purchased from Custom Ink) for the entire duration that I was in
+the downtown region as well as for the return trip.
+
+* Around 8:55 AM to 9:15 AM: I walked to the Trader Joe's.
+
+* Around 9:15 to 9:25 AM: I was in the line outside Trader Joe',
+  waiting to get in.
+
+* 9:25 AM to 9:40 AM: I shopped at Trader Joe's. I checked out and
+  paid by card at 9:37 AM. The cashier was one of the veteran female
+  employees.
+
+* Around 9:40 AM to 10 AM: I walked back home with the stuff purchased
+  from Trader Joe's.
+
