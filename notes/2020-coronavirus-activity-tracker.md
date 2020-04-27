@@ -210,3 +210,15 @@ the downtown region as well as for the return trip.
 * Around 9:40 AM to 10 AM: I walked back home with the stuff purchased
   from Trader Joe's.
 
+## Sunday April 26
+
+I made a trip to downtown Berkeley. I wore a cloth mask (part of a
+pack purchased from Custom Ink) for the entire duration that I was in
+the downtown region.
+
+* Around 3 PM: I placed the order for spinach masala dosa at Udupi Palace.
+
+* Around 3:07 PM: I made a cash withdrawal of $200 USD from the
+  Citibank ATM at Shattuck and University.
+
+* Around 3:14 PM: I picked up my order from Udupi Palace.
