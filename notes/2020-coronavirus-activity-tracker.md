@@ -222,3 +222,9 @@ the downtown region.
   Citibank ATM at Shattuck and University.
 
 * Around 3:14 PM: I picked up my order from Udupi Palace.
+
+## Monday April 27
+
+Between 5:35 PM and 5:55 PM, I was out of the house. During this time,
+I made a trip to Bangkok Thai Cuisine. I ordered yellow curry tofu
+with rice, and paid by cash. The waiter was the usual male one.
