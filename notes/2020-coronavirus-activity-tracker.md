@@ -228,3 +228,30 @@ the downtown region.
 Between 5:35 PM and 5:55 PM, I was out of the house. During this time,
 I made a trip to Bangkok Thai Cuisine. I ordered yellow curry tofu
 with rice, and paid by cash. The waiter was the usual male one.
+
+## Wednesday April 29
+
+Between 10:45 AM and noon, I made a trip to downtown Berkeley. I wore
+my cloth mask for the entire duration I was in the downtown Berkeley
+region, which was around 11 AM to 11:45 AM.
+
+* 11:13 AM: I entered the Citibank at Shattuck and University.
+
+* 11:16 AM: My teller deposit transiaction at Citibank was completed.
+
+* 11:18 AM: I exited the bank.
+
+* 11:23 AM: I arrived at Trader Joe's and got in line.
+
+* 11:26 AM: I entered the store.
+
+* 11:33 AM: I completed the transaction; the aisle was the one
+  farthest from the street entrance. The clerk was male.
+
+* 11:36 AM: I placed an order for spinach masala dosa at Udupi Palace
+  and paid by cash. I waited in the restaurant for my order.
+
+* 11:41 AM: My order was ready; I retrieved it and exited the
+  restaurant.
+
+* Noon: I returned home.
