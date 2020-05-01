@@ -255,3 +255,12 @@ region, which was around 11 AM to 11:45 AM.
   restaurant.
 
 * Noon: I returned home.
+
+## Friday May 1
+
+Between around 1:15 AM and 1:40 AM, I went to Bangkok Thai Cuisine and
+got yellow curry tofu with rice. I wore a cloth mask for the whole
+duration. I was in the restaurant from around 1:20 PM to 1:35 PM. The
+waitress who took my order was the usual female one. I paid by cash. I
+was using my phone in the restaurant sending text messages while
+waiting for my order.
