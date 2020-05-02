@@ -264,3 +264,26 @@ duration. I was in the restaurant from around 1:20 PM to 1:35 PM. The
 waitress who took my order was the usual female one. I paid by cash. I
 was using my phone in the restaurant sending text messages while
 waiting for my order.
+
+## Saturday May 2
+
+Between around 1 PM and 2:15 PM, I went to downtown Berkeley for some
+shopping. I wore a mask throutht the duration I was in downtown
+Berkeley.
+
+* Around 1:20 PM: I got in line at Trader Joe's.
+
+* Around 1:25 PM: I entered Trader Joe's.
+
+* Around 1:33 PM: I checked out from the second last counter from the
+  door. The clerk was female.
+
+* Around 1:38 PM: I placed an order for a spinach masala dosa at Udupi
+  Palace.
+
+* Around 1:48 PM: I finished purchasing stamps from the USPS office.
+
+* Around 1:58 PM: I picked up my order from Udupi Palace.
+
+* Around 2:15 PM: I was back home.
+
