@@ -287,3 +287,10 @@ Berkeley.
 
 * Around 2:15 PM: I was back home.
 
+## Monday May 4
+
+Between around 1:15 PM and 1:40 PM, I went to Bangkok Thai Cuisine to
+order yellow curry tofu with rice. The waiter was the usual male
+one. I paid by cash. I was in the restaurant from around 1:25 PM to
+around 1:35 PM. I wore my cloth mask while in the restaurant and on
+the way back.
