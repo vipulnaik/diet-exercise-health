@@ -294,3 +294,21 @@ order yellow curry tofu with rice. The waiter was the usual male
 one. I paid by cash. I was in the restaurant from around 1:25 PM to
 around 1:35 PM. I wore my cloth mask while in the restaurant and on
 the way back.
+
+## Wednesday May 6
+
+Between around 3:30 PM and around 4:30 PM, I was in downtown Berkeley
+buying groceries from Trader Joe's and getting takeout from Udupi
+Palace.
+
+* Around 3:50 PM: I got into the line outside Trader Joe's.
+
+* 3:56 PM: I entered Trader Joe's.
+
+* 4:01 PM: I finished checking out. The cashier's name was Amaya.
+
+* 4:04 PM: I ordered spinach masala dosa from Udupi Palace.
+
+* 4:10 PM: The order was ready and I left.
+
+* 4:13 PM: I exited the downtown Berkeley area and removed my mask.
