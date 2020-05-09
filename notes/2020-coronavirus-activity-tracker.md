@@ -312,3 +312,20 @@ Palace.
 * 4:10 PM: The order was ready and I left.
 
 * 4:13 PM: I exited the downtown Berkeley area and removed my mask.
+
+## Saturday Moy 9
+
+### Target trip
+
+Between around 2:55 PM and 3:32 PM, I made a trip to the Target at
+1414 University Avenue to purchase some toiletries.
+
+* Around 3:01 PM: I got in the line at Target.
+
+* Around 3:11 PM: I entered the store.
+
+* 3:22 PM: I finished checking out using the self-checkout.
+
+* Around 3:24 PM: I exited the store.
+
+* Around 3:32 PM: I returned home.
