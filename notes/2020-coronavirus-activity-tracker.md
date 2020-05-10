@@ -329,3 +329,20 @@ Between around 2:55 PM and 3:32 PM, I made a trip to the Target at
 * Around 3:24 PM: I exited the store.
 
 * Around 3:32 PM: I returned home.
+
+### Downtown Berkeley trip
+
+Between around 5 PM and around 6:30 PM, I went to downtown Berkeley
+for grocery shopping and getting takeout food. I wore a mask while in
+downtown Berkely and also on the way back.
+
+* Around 5:20 PM: I joined the line at Trader Joe's.
+
+* Around 5:35 PM: I entered the store.
+
+* Around 5:49 PM: I finished paying for the stuff.
+
+* Around 5:52 PM: I ordered spinach masala dosa from Udupi Palace.
+
+* Around 6 PM: I got my order and left Udupi Palace.
+
