@@ -346,3 +346,8 @@ downtown Berkely and also on the way back.
 
 * Around 6 PM: I got my order and left Udupi Palace.
 
+## Monday May 11
+
+Some time in the afternoon, I believe around 1 PM to 1:30 PM, I went
+to Bangkok Thai Cuisine and ordered yellow curry tofu with rice to
+go. I paid by cash.
