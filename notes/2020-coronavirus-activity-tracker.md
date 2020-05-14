@@ -351,3 +351,18 @@ downtown Berkely and also on the way back.
 Some time in the afternoon, I believe around 1 PM to 1:30 PM, I went
 to Bangkok Thai Cuisine and ordered yellow curry tofu with rice to
 go. I paid by cash.
+
+## Wednesday May 13
+
+I left home at around 3:30 PM to go to downtown Berkeley. I wore a
+cloth mask while I was in downtown Berkeley.
+
+* Around 3:48 PM: I entered Trader Joe's after waiting in line for a
+  few minutes (I used the line in the parking lot).
+
+* 3:53 PM: I finished checkout. The checkout clerk was Jimmmy and the
+  aisle was the one farthest from the street entrance.
+
+* 3:56 PM to 4:06 PM: I ordered spinach masala dosa from Udupi Palace,
+  paid by cash, then waited for my order in the restaurant. I picked
+  up the order after 10 minutes.
