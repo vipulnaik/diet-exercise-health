@@ -366,3 +366,10 @@ cloth mask while I was in downtown Berkeley.
 * 3:56 PM to 4:06 PM: I ordered spinach masala dosa from Udupi Palace,
   paid by cash, then waited for my order in the restaurant. I picked
   up the order after 10 minutes.
+
+## Friday May 15
+
+I ordered a yellow curry tofu (no rice, no bag) at Bangkok Thai
+Cuisine and paid by cash. The waitress was the usual female one. I
+left homee around 1:09, placed the order around 1:13, and left with
+the food around 1:20. I returned home around 1:25.
