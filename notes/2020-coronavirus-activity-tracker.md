@@ -373,3 +373,15 @@ I ordered a yellow curry tofu (no rice, no bag) at Bangkok Thai
 Cuisine and paid by cash. The waitress was the usual female one. I
 left homee around 1:09, placed the order around 1:13, and left with
 the food around 1:20. I returned home around 1:25.
+
+## Sunday May 17
+
+I made a trip to downtown Berkeley.
+
+* Around 1:25 PM: I entered Trader Joe's. There was no line.
+
+* Around 1:34 PM: I checked out. The clerk was Luciano.
+
+* Around 1:37 PM: I went to Udupi Palace to order spinach masala dosa.
+
+* Around 1:45 PM: I exited the restaurant with my order.
