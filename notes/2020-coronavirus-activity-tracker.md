@@ -385,3 +385,12 @@ I made a trip to downtown Berkeley.
 * Around 1:37 PM: I went to Udupi Palace to order spinach masala dosa.
 
 * Around 1:45 PM: I exited the restaurant with my order.
+
+## Tuesday May 19
+
+Between 1 PM and 1:30 PM, I made a trip to Bangkok Thai Cuisine and
+ordered yellow curry with tofu. I paid with cash. The waitress was the
+usual female one.
+
+I coughed a little bit while waiting but nobody else was near me at
+the time.
