@@ -394,3 +394,24 @@ usual female one.
 
 I coughed a little bit while waiting but nobody else was near me at
 the time.
+
+## Thursday May 21
+
+I made a trip to downtown Berkeley. I wore a mask while I was in the
+downtown region.
+
+* Around 1:35 PM: I left my home.
+
+* Around 1:50 PM: I entered Trader Joe's.
+
+* 1:59 PM: I checked out from the counter closest to the door. The checkout clerk was Nicole.
+
+* Around 2:02 PM: I ordered a spinach masala dosa from Udupi Palace.
+
+* 2:08 PM: I entered the Citibank at Shattuck and University.
+
+* 2:10 PM: I finished my check deposit.
+
+* Around 2:17 PM: I picked up my order from Udupi Palace and paid by cash.
+
+* Around 2:35 PM: I was back home.
