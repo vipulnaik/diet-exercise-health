@@ -419,7 +419,7 @@ downtown region.
 ## Saturday May 23
 
 I made a trip to downtown Berkeley. I wore a mask while I was in the
-downtown rgion.
+downtown region.
 
 * Around 12:50 PM: I left my home.
 
@@ -432,3 +432,17 @@ downtown rgion.
 * Around 1:30 PM: I placed an order for spinach masala dosa at Udupi Palace.
 
 * Around 1:35 PM: I received my order and left the restaurant.
+
+## Monday May 25
+
+I made a trip to downtown Berkeley. I wore a mask while I was in the
+downtown region.
+
+* Around 3:38 PM: I entered Trader Joe's. I used the entrance from the
+  garage, that happened to not have a line.
+
+* 3:47 PM: I finished checking out. The store clerk's name was Rita.
+
+* 3:50 PM: I placed an order for spinach masala dosa at Udupi Palace.
+
+* 3:55 PM: I picked up my order and paid by cash.
