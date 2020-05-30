@@ -446,3 +446,27 @@ downtown region.
 * 3:50 PM: I placed an order for spinach masala dosa at Udupi Palace.
 
 * 3:55 PM: I picked up my order and paid by cash.
+
+## Wednesday May 27
+
+Some time in the evening, I went to Bangkok Thai Cuisine and got a
+yellow curry tofu for takeout. The waitress was the usual female one.
+
+## Saturday May 30
+
+I made a trip to downtown Berkeley. I wore a mask while in the
+downtown region.
+
+* Around noon: I set out from home.
+
+* Around 12:20 PM: I got in line at Trader Joe's (garage entrance).
+
+* Around 12:22 PM: I entered the store.
+
+* 12:30 PM: I finished checkout. The cashier was John.
+
+* 12:33 PM: I placed an order for spinach masala dosa at Udupi Palace.
+
+* 12:36 PM: I received my order and left the restaurant.
+
+* Around 12:55 PM: I was back home.
