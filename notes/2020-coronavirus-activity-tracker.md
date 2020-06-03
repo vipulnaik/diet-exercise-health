@@ -470,3 +470,11 @@ downtown region.
 * 12:36 PM: I received my order and left the restaurant.
 
 * Around 12:55 PM: I was back home.
+
+## Monday June 1
+
+I ordered yellow curry tofu for takeout in the evening (no rice, paid
+by card). I was in the restaurant around 6:35 to 7 PM. There were a
+lot of people doing takeout, possibly due to early closure of the
+restaurant due to curfew imposed as a result of George Floyd
+protests. Both the male waiter and the female waitress were present.
