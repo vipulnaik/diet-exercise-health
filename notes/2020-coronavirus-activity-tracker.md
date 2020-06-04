@@ -478,3 +478,23 @@ by card). I was in the restaurant around 6:35 to 7 PM. There were a
 lot of people doing takeout, possibly due to early closure of the
 restaurant due to curfew imposed as a result of George Floyd
 protests. Both the male waiter and the female waitress were present.
+
+## Wednesday June 3
+
+I made a trip to downtown Berkeley. I wore a mask while in the
+downtown region.
+
+* 1:55 PM: I entered the Citibank branch at Shattuck and University.
+
+* 1:57 PM: I finished depositing a check.
+
+* 2:07 PM: Around this time, I got in line at Trader Joe's.
+
+* 2:27 PM: Around this time, I entered the Trader Joe's.
+
+* 2:37 PM: I checked out. The cashier was Joel.
+
+* 2:41 PM: I placed a takeout order for spinach masala dosa at Udupi
+  Palace and paid by cash.
+
+* 2:45 PM: I left Udupi Palace with my order.
