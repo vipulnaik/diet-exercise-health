@@ -498,3 +498,18 @@ downtown region.
   Palace and paid by cash.
 
 * 2:45 PM: I left Udupi Palace with my order.
+
+## Saturday June 6
+
+I made a trip to downtown Berkeley. I wore a mask while in the
+downtown region.
+
+* 3:42 PM: I got in the line at Trader Joe's.
+
+* Around 3:49 PM: I entered Trader Joe's.
+
+* 3:56 PM: I finished checking out. The clerk was Duane.
+
+* Around 4 PM: I ordered spinach masala dosa from Udupi Palace.
+
+* Around 4:05 PM: I picked up my order and left Udupi Palace.
