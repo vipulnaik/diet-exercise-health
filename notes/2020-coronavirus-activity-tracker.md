@@ -514,7 +514,7 @@ downtown region.
 
 * Around 4:05 PM: I picked up my order and left Udupi Palace.
 
-## Saturday June 6
+## Wednesday June 10
 
 I made a trip to downtown Berkeley. I wore a mask while in the
 downtown region and for most of the journey.
@@ -529,3 +529,19 @@ downtown region and for most of the journey.
 
 * 1:20 PM: I returned home.
 
+## Friday June 12
+
+I made a trip to downtown Berkeley. I wore a mask while in the
+downtown region and for most of the journey.
+
+* Around 3:05 PM: I entered the downtown region.
+
+* Around 3:10 PM: I entered the Citibank at Shattuck and University.
+
+* 3:21 PM: I finished depositing a check at Citibank.
+
+* Around 3:26 PM: I ordered spinach masala dosa.
+
+* Around 3:35 PM: I picked up my order and left.
+
+* Around 3:55 PM: I returned home.
