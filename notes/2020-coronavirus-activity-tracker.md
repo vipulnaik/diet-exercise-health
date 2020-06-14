@@ -545,3 +545,12 @@ downtown region and for most of the journey.
 * Around 3:35 PM: I picked up my order and left.
 
 * Around 3:55 PM: I returned home.
+
+## Saturday June 13
+
+In the early afternoon (around 2 PM) I went to Bangkok Thai Cuisine
+and ordered a yellow curry tofu.
+
+In the evening, I went to downtown Berkeley to buy groceries. I got in
+the line a little after 5:30 PM, got in the store around 5:50 PM, and
+checked out at 6 PM. The clerek was Crystal.
