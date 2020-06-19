@@ -554,3 +554,20 @@ and ordered a yellow curry tofu.
 In the evening, I went to downtown Berkeley to buy groceries. I got in
 the line a little after 5:30 PM, got in the store around 5:50 PM, and
 checked out at 6 PM. The clerek was Crystal.
+
+## Wednesday June 17
+
+I went to downtown Berkeley, with the intention of shopping at Trader
+Joe's. I arrived in the downtown area around 5:10 PM. The line at
+Trader Joe's was too long, so I instead simply went to Udupi Palace
+and ordered a spinach masala dosa there. I left the restaurant around
+5:16 PM.
+
+I wore a mask fully covering my nose and mouth while in the downtown
+region, and covering only my mouth for most of the journey.
+
+## Thursday June 18
+
+Between 7:30 PM and 8 PM, I went to Bangkok Thai Cuisine and ordered a
+yellow curry with tofu. The waitress was a different female one from
+the usual.
