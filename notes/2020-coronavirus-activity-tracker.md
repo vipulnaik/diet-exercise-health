@@ -571,3 +571,10 @@ region, and covering only my mouth for most of the journey.
 Between 7:30 PM and 8 PM, I went to Bangkok Thai Cuisine and ordered a
 yellow curry with tofu. The waitress was a different female one from
 the usual.
+
+## Friday June 19
+
+### Morning visit to Walgreens
+
+Shortly after 10 AM, I entered the Walgreens on Gilman Street. I
+checked out and paid by card at 10:11 AM.
