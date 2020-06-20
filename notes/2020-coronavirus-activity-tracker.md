@@ -586,3 +586,10 @@ Berkeley. I got in line at the parking lot at Trader Joe's around 4:20
 PM, entered soon after, and checked out at 4:34 PM with cashier
 Myron. I then ordered spinach masala dosa from Udupi Palace at around
 4:37 PM and left around 4:50 PM.
+
+## Saturday June 20
+
+### Morning visit to Walgreens
+
+Around 9:05 AM, I entered the Walgreens on Gilam Street. I checked out
+and paid by card at 9:12 AM.
