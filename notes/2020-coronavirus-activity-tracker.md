@@ -578,3 +578,11 @@ the usual.
 
 Shortly after 10 AM, I entered the Walgreens on Gilman Street. I
 checked out and paid by card at 10:11 AM.
+
+### Evening visit to downtown Berkeley
+
+Between around 4 PM and arouond 5 PM, I made a trip to downtown
+Berkeley. I got in line at the parking lot at Trader Joe's around 4:20
+PM, entered soon after, and checked out at 4:34 PM with cashier
+Myron. I then ordered spinach masala dosa from Udupi Palace at around
+4:37 PM and left around 4:50 PM.
