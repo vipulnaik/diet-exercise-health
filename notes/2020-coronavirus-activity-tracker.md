@@ -599,3 +599,10 @@ and paid by card at 9:12 AM.
 In the late afternoon, I visited Trader Joe's. I joined the line
 outside the store at a little before 3:50 PM. I entered the store
 around 3:52 PM, and checked out at 3:59 PM. The clerk was Nick.
+
+## Sunday June 21
+
+### Evening visit to Walgreens
+
+Between 6 PM and 7 PM, I went to the Walgreens at Gilman Street and
+purchased toilet paper and paper towels. I paid by card.
