@@ -606,3 +606,10 @@ around 3:52 PM, and checked out at 3:59 PM. The clerk was Nick.
 
 Between 6 PM and 7 PM, I went to the Walgreens at Gilman Street and
 purchased toilet paper and paper towels. I paid by card.
+
+## Wednesday June 24
+
+Between 3:30 PM and 5 PM, I visited downtown Berkeley. I was in the
+line at Trader Joe's starting a little before 4 PM, entered at around
+4:07 PM, and checked out with cashier Drew at 4:18 PM. I then ordered
+spinach masala dosa from Udupi Palace and left around 4:40 PM.
