@@ -613,3 +613,10 @@ Between 3:30 PM and 5 PM, I visited downtown Berkeley. I was in the
 line at Trader Joe's starting a little before 4 PM, entered at around
 4:07 PM, and checked out with cashier Drew at 4:18 PM. I then ordered
 spinach masala dosa from Udupi Palace and left around 4:40 PM.
+
+## Saturday June 27
+
+Between around 5 PM and around 6:30 PM, I visited downtown Berkeley. I
+first went to Trader Joe's, and finished purchasing stuff there at
+5:37 PM with cashier Scott. I then ordered spinach masala dosa from
+Udupi Palace, waited over 10 minutes, and left after paying by cash.
