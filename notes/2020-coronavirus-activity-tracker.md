@@ -620,3 +620,9 @@ Between around 5 PM and around 6:30 PM, I visited downtown Berkeley. I
 first went to Trader Joe's, and finished purchasing stuff there at
 5:37 PM with cashier Scott. I then ordered spinach masala dosa from
 Udupi Palace, waited over 10 minutes, and left after paying by cash.
+
+## Monday June 29
+
+In the afternoon (a little after 1 PM) I went to Bangkok Thai Cuisine
+and ordered yello curry with tofu. I waited around 5 minutes, then
+picked up my order.
