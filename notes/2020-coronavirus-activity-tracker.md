@@ -624,7 +624,7 @@ Udupi Palace, waited over 10 minutes, and left after paying by cash.
 ## Monday June 29
 
 In the afternoon (a little after 1 PM) I went to Bangkok Thai Cuisine
-and ordered yello curry with tofu. I waited around 5 minutes, then
+and ordered yellow curry with tofu. I waited around 5 minutes, then
 picked up my order.
 
 ## Wednesday July 1
@@ -633,3 +633,9 @@ Between around 5 PM and a little after 6 PM, I went to downtown
 Berkeley. I first went to Trader Joe's, where I checked out at 5:38 PM
 with cashier Baylee. I then went to Udupi Palace, where I ordered
 spinach masala dosa and paid by cash.
+
+## Friday July 3
+
+In the evening (between 4 PM and 5 PM) I went to downtown Berkeley and
+ordered spinach masala dosa from Udupi Palace. I considered going to
+Trader Joe's but was dissuaded by the long line there.
