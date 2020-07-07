@@ -639,3 +639,9 @@ spinach masala dosa and paid by cash.
 In the evening (between 4 PM and 5 PM) I went to downtown Berkeley and
 ordered spinach masala dosa from Udupi Palace. I considered going to
 Trader Joe's but was dissuaded by the long line there.
+
+## Monday July 6
+
+In the evening (between 4 PM and 5:30 PM) I went to downtown
+Berkeley. I purchased groceries at Trader Joe's (checked out at 4:38
+PM) and then ordered spinach masala dosa from Udupi Palace.
