@@ -645,3 +645,20 @@ Trader Joe's but was dissuaded by the long line there.
 In the evening (between 4 PM and 5:30 PM) I went to downtown
 Berkeley. I purchased groceries at Trader Joe's (checked out at 4:38
 PM) and then ordered spinach masala dosa from Udupi Palace.
+
+## Tuesday July 7
+
+In the evening, I got a yellow curry with tofu from Bangkok Thai
+Cuisine.
+
+## Thursday July 9
+
+I made a trip to downtown Berkeley.
+
+At 3:52 PM I finished depositing a check at Citibank at Shattuck and
+University.
+
+At 4:13 PM I finished checking out at Trader Joe's. The cashier was
+Arcenia.
+
+After that, I went to Udupi Palace and ordered a spinach masala dosa.
