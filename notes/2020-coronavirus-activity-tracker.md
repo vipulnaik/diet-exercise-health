@@ -665,5 +665,14 @@ After that, I went to Udupi Palace and ordered a spinach masala dosa.
 
 ## Saturday July 11
 
+### Morning trip to Walgreens
+
 I purchased some toiletries from the Walgreeens at Gilman Street in
 the morning. My checkout time was 9:31 AM.
+
+### Evening trip to T-Mobile
+
+In the evening, between 5:30 PM and 6:30 PM, I visited the Trader
+Joe's on San Pablo Avenue to replace my SIM card and switch to a
+cheaper plan. There were two employees at the store; Kaya was the main
+person who helped me.
