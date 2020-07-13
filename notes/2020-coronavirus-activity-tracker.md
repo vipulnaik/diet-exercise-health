@@ -676,3 +676,9 @@ In the evening, between 5:30 PM and 6:30 PM, I visited the Trader
 Joe's on San Pablo Avenue to replace my SIM card and switch to a
 cheaper plan. There were two employees at the store; Kaya was the main
 person who helped me.
+
+## Sunday July 12
+
+In the evening, I made a trip to downtown Berkeley. I purchased
+groceries from Trader Joe's, checking out with Patrick at 5:50 PM. I
+then went to Udupi Palace and got a spinach masala dosa.
