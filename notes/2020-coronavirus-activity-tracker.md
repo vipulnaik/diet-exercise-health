@@ -682,3 +682,8 @@ person who helped me.
 In the evening, I made a trip to downtown Berkeley. I purchased
 groceries from Trader Joe's, checking out with Patrick at 5:50 PM. I
 then went to Udupi Palace and got a spinach masala dosa.
+
+## Wednesday July 15
+
+Somem time in the evening, I went to Bangkok Thai Cuisine and got a
+yellow curry tofu for takeout.
