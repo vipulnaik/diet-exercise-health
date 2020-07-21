@@ -693,3 +693,12 @@ yellow curry tofu for takeout.
 Between 3 PM and 4 PM, I went to downtown Berkeley. I first went to
 Trader Joe's, and checked out at 3:35 PM with Michael. I then got a
 spinach masala dosa from Udupi Palace.
+
+## Monday July 20
+
+Between 2 PM and 3:30 PM, I went to downtown Berkeley. I first went
+to Trader Joe's, and checked out at 2:56 PM with Tenzin. I then got a
+spinach masala dosa from Udupi Palace.
+
+This was the first time in a while that I took my bag and bagged my
+items in the store.
