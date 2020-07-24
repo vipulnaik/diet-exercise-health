@@ -702,3 +702,10 @@ spinach masala dosa from Udupi Palace.
 
 This was the first time in a while that I took my bag and bagged my
 items in the store.
+
+## Thursday July 23
+
+I went to downtown Berkeley. I had originally planned to shop at
+Trader Joe's, but the line there was too long. So, I just ordered a
+spinach masala dosa at Udupi Palace. I was in the restaurant at around
+4:50 PM.
