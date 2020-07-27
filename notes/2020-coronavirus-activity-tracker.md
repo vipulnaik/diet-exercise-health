@@ -712,6 +712,12 @@ spinach masala dosa at Udupi Palace. I was in the restaurant at around
 
 ## Sunday July 26
 
-I weent to downtown Berkley. I bought groceries from Trader Joe's
+I went to downtown Berkley. I bought groceries from Trader Joe's
 (checked out at 5:06 PM) and then ordered a spinach masala dosa from
 Udupi Palace.
+
+## Monday July 27
+
+I went to Bangkok Thai Cuisine around 2:40 PM and got a yellow curry
+tofu. I was in the restaurant between around 2:46 PM and 2:55 PM. The
+waiter was the usual male one.
