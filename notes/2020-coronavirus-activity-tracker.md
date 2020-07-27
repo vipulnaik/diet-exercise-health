@@ -709,3 +709,9 @@ I went to downtown Berkeley. I had originally planned to shop at
 Trader Joe's, but the line there was too long. So, I just ordered a
 spinach masala dosa at Udupi Palace. I was in the restaurant at around
 4:50 PM.
+
+## Sunday July 26
+
+I weent to downtown Berkley. I bought groceries from Trader Joe's
+(checked out at 5:06 PM) and then ordered a spinach masala dosa from
+Udupi Palace.
