@@ -721,3 +721,6 @@ Udupi Palace.
 I went to Bangkok Thai Cuisine around 2:40 PM and got a yellow curry
 tofu. I was in the restaurant between around 2:46 PM and 2:55 PM. The
 waiter was the usual male one.
+
+Early in the day I was feeling fatigue and a headache, this continued
+in mild form through the day but was reduced by a partial nap.
