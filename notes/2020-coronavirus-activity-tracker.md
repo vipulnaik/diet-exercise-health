@@ -724,3 +724,17 @@ waiter was the usual male one.
 
 Early in the day I was feeling fatigue and a headache, this continued
 in mild form through the day but was reduced by a partial nap.
+
+## Tuesday July 28
+
+I slept from around 9:15 to 8:20; after waking up, I sent this email to housemates:
+
+> Hi all,
+> 
+> I was feeling somewhat feverish last night and had a slight headache. I'm feeling almost normal now after sleeping for 11 hours last night, but just letting you know because of the whole COVID thing. I'll self-monitor for the next couple of days and if I continue to feel feverish I will look into getting tested.
+> 
+> I think if I did get infected, it's unlikely to be COVID or anything human-to-human, because I've not been in close contact with anybody. Nonetheless, for the sake of precaution, I will be staying in my room for the next couple of days except trips to the kitchen and restroom, and will sanitize surfaces I touch. I encourage people to avoid me in person for the next few days!
+> 
+> Thank you,
+> 
+> Vipul
