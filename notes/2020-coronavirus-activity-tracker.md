@@ -738,3 +738,14 @@ I slept from around 9:15 to 8:20; after waking up, I sent this email to housemat
 > Thank you,
 > 
 > Vipul
+
+## Wednesday July 29
+
+By the evening I felt fully normal again, so I decided to resume
+normal operations from the next day onward.
+
+## Thursday July 30
+
+I made a trip to downtown Berkeley for shopping. I checked out at
+Trader Joe's at 2:37 PM with Jimmy. I then went to Udupi Palace and
+ordered a spinach masala dosa. I was back home around 3:10 PM.
