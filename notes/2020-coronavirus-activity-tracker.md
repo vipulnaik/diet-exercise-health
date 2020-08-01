@@ -749,3 +749,9 @@ normal operations from the next day onward.
 I made a trip to downtown Berkeley for shopping. I checked out at
 Trader Joe's at 2:37 PM with Jimmy. I then went to Udupi Palace and
 ordered a spinach masala dosa. I was back home around 3:10 PM.
+
+## Saturday August 1
+
+I made a trip to the Walgreens on Gilman Street. I entered the
+Walgreens around 10:09 AM, checked out at 10:16 AM, and exited the
+store at 10:17 AM.
