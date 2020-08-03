@@ -755,3 +755,9 @@ ordered a spinach masala dosa. I was back home around 3:10 PM.
 I made a trip to the Walgreens on Gilman Street. I entered the
 Walgreens around 10:09 AM, checked out at 10:16 AM, and exited the
 store at 10:17 AM.
+
+## Sunday August 2
+
+I made a trip to downtown Berkeley. I stood in line to get into Trader
+Joe's. I checked out of Trader Joe's at 5:49 PM with cashier Lauren. I
+then went to Udupi Palace and ordered a spinach masala dosa.
