@@ -761,3 +761,8 @@ store at 10:17 AM.
 I made a trip to downtown Berkeley. I stood in line to get into Trader
 Joe's. I checked out of Trader Joe's at 5:49 PM with cashier Lauren. I
 then went to Udupi Palace and ordered a spinach masala dosa.
+
+## Tuesday August 4
+
+Between 2:30 PM and 3 PM, I went to Bangkok Thai Cuisine and ordered a
+yellow curry tofu there. The waitress was the usual female one.
