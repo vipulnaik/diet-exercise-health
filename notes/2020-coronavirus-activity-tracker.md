@@ -766,3 +766,9 @@ then went to Udupi Palace and ordered a spinach masala dosa.
 
 Between 2:30 PM and 3 PM, I went to Bangkok Thai Cuisine and ordered a
 yellow curry tofu there. The waitress was the usual female one.
+
+## Saturday August 8
+
+In the evening, I went to downtown Berkeley. I bought groceries from
+Trader Joe's, checking out at 5:47 PM with Lauren. I then went to
+Udupi Palace and got a spinach masala dosa.
