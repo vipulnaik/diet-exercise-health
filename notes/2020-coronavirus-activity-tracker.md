@@ -772,3 +772,9 @@ yellow curry tofu there. The waitress was the usual female one.
 In the evening, I went to downtown Berkeley. I bought groceries from
 Trader Joe's, checking out at 5:47 PM with Lauren. I then went to
 Udupi Palace and got a spinach masala dosa.
+
+## Monday August 10
+
+In the afternoon (between 2:20 PM and 2:40 PM) I went to Bangkok Thai
+Cuisine where I ordered a yellow curry with tofu. The waiter was the
+usual male one.
