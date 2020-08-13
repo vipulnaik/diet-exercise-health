@@ -778,3 +778,11 @@ Udupi Palace and got a spinach masala dosa.
 In the afternoon (between 2:20 PM and 2:40 PM) I went to Bangkok Thai
 Cuisine where I ordered a yellow curry with tofu. The waiter was the
 usual male one.
+
+## Wednesday August 12
+
+In the afternoon (between around 3 PM and around 5 PM) I went to
+downtown Berkeley. I first went to Citibank to deposit a check and get
+quarters; I finished the transaction at 3:46 PM. I then went to Trader
+Joe's to buy groceries. I checked out with Melissa at 4:01
+PM. Finally, I went to Udupi Palace and got a spinach masala dosa.
