@@ -786,3 +786,10 @@ downtown Berkeley. I first went to Citibank to deposit a check and get
 quarters; I finished the transaction at 3:46 PM. I then went to Trader
 Joe's to buy groceries. I checked out with Melissa at 4:01
 PM. Finally, I went to Udupi Palace and got a spinach masala dosa.
+
+## Saturday August 15
+
+In the afternoon (between around 2 PM and around 4 PM) I went to
+downtown Berkeley for shopping. I checked out of Trader Joe's with
+mmccomb, silas at 3:02 PM. I then went to Udupi Palace and ordered a
+spinach masala dosa.
