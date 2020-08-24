@@ -805,3 +805,9 @@ In the afternoon, I went to downtown Berkeley for grocery shopping. I
 waited in line outside Trader Joe's for a few minutes, and entered
 around 3:52 PM. I checked out of Trader Joe's at 4 PM with Kendall. I
 then went to Udupi Palace and ordered a spinach masala dosa.
+
+## Monday August 24
+
+In the afternoon (between 2:20 PM and 2:50 PM), I went to Bangkok Thai
+Cuisine and got a yellow curry tofu. I paid by cash. The waiter was
+the usual one.
