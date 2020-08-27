@@ -811,3 +811,10 @@ then went to Udupi Palace and ordered a spinach masala dosa.
 In the afternoon (between 2:20 PM and 2:50 PM), I went to Bangkok Thai
 Cuisine and got a yellow curry tofu. I paid by cash. The waiter was
 the usual one.
+
+## Wednesday August 26
+
+In the afternoon (between 4:30 PM and 6 PM), I was out in downtown
+Berkeley for some shopping. I first went to Trader Joe's. There was no
+line. I checked out at 5:03 PM with Kendall. I then went to Udupi
+Palace and got a spinach masala dosa.
