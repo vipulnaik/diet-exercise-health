@@ -818,3 +818,10 @@ In the afternoon (between 4:30 PM and 6 PM), I was out in downtown
 Berkeley for some shopping. I first went to Trader Joe's. There was no
 line. I checked out at 5:03 PM with Kendall. I then went to Udupi
 Palace and got a spinach masala dosa.
+
+## Saturday August 29
+
+### Morning trip to Walgreens
+
+In the morning, I went to te Walgreens at Gilman Street. I purchased
+supplements and toiletries. I checked out at 8:58 AM.
