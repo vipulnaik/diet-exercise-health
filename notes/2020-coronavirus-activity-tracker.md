@@ -825,3 +825,10 @@ Palace and got a spinach masala dosa.
 
 In the morning, I went to te Walgreens at Gilman Street. I purchased
 supplements and toiletries. I checked out at 8:58 AM.
+
+### Evening trip to downtown Berkeley
+
+In the evening, I went to downtown Berkeley. I first did grocery
+shopping at Trader Joe's; I checked out of there at 4:15 PM with
+Lauren. After that, I went to Udupi Palace and ordered a spinach
+masala dosa.
