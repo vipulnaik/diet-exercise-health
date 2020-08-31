@@ -832,3 +832,8 @@ In the evening, I went to downtown Berkeley. I first did grocery
 shopping at Trader Joe's; I checked out of there at 4:15 PM with
 Lauren. After that, I went to Udupi Palace and ordered a spinach
 masala dosa.
+
+## Sunday August 30
+
+In the morning, I went to Walgreens at Gilman Street. I purchased
+toiletries. I checked out at 9:25 AM.
