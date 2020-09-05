@@ -837,3 +837,15 @@ masala dosa.
 
 In the morning, I went to Walgreens at Gilman Street. I purchased
 toiletries. I checked out at 9:25 AM.
+
+## Wednesday September 2
+
+In the afternoon, a little after 2 PM, I got a Thai yellow curry from
+Bangkok Thai Cuisine.
+
+## Friday September 4
+
+In the evening, I went to downtown Berkeley for grocery shopping. I
+stood in line outside Trader Joe's for around 20 minutes and entered
+around 5 PM. I checked out at around 5:09 PM with Lauren. I then went
+to Udupi Palace and ordered a spinach masala dosa.
