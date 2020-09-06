@@ -849,3 +849,43 @@ In the evening, I went to downtown Berkeley for grocery shopping. I
 stood in line outside Trader Joe's for around 20 minutes and entered
 around 5 PM. I checked out at around 5:09 PM with Lauren. I then went
 to Udupi Palace and ordered a spinach masala dosa.
+
+## Saturday September 5
+
+This was the first day (since March 6, 2020) that I took BART, and
+also the first day (since March 6, 2020) that I went to San
+Francisco. Here is the timeline:
+
+* A little after 3 PM: I headed out fromm home.
+
+* Around 3:10 PM: I entered North Berkeley BART.
+
+* Around 3:20 PM: I boarded a San Francisco/Daly City train. I sat in
+  the last car of the train.
+
+* Around 3:43 PM: I exited the train at Powell Street Station and went
+  to Westfield Mall.
+
+* Around 4 PM: I got in line at Shoe Palace on the third floor.
+
+* Around 4:05 PM: I entered the store.
+
+* 4:29 PM to 4:31 PM: I checked out of the store (time based on receipt).
+
+* 4:40 PM: I re-entered Powell Street Station.
+
+* Around 4:45 PM: I boarded a BART train in the direction of Daly City.
+
+* Around 4:50 PM: I exited the 16th Street Mission station.
+
+* 5:01 PM: I finished placing a takeout order at Pakwan.
+
+* Around 5:07 PM: I received my order.
+
+* Around 5:15 PM: I re-entered BART.
+
+* Around 5:25 PM: I boarded the train back to the East Bay.
+
+* Around 5:57 PM: I exited the train at North Berkeley BART.
+
+* Around 6:05 PM: I was back home.
