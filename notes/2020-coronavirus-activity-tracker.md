@@ -896,3 +896,9 @@ Francisco. Here is the timeline:
 
 I went to the Walgreens at Gilman Street. I entered the store around
 10:12 AM and checked out at 10:21 AM.
+
+### Afternoon trip to Target
+
+A little after 1 PM, I headed out to the Target at 1414 University
+Avenue. I entered the store around 1:20 PM and finished checking out
+at 1:25 PM. I was back home around 1:35 PM.
