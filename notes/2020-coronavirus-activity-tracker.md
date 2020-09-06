@@ -889,3 +889,10 @@ Francisco. Here is the timeline:
 * Around 5:57 PM: I exited the train at North Berkeley BART.
 
 * Around 6:05 PM: I was back home.
+
+## Sunday September 6
+
+### Morning trip to Walgreens
+
+I went to the Walgreens at Gilman Street. I entered the store around
+10:12 AM and checked out at 10:21 AM.
