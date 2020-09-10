@@ -902,3 +902,17 @@ I went to the Walgreens at Gilman Street. I entered the store around
 A little after 1 PM, I headed out to the Target at 1414 University
 Avenue. I entered the store around 1:20 PM and finished checking out
 at 1:25 PM. I was back home around 1:35 PM.
+
+## Tuesday September 8
+
+I went to Bangkok Thai Cuisine in the afternoon and ordered a yellow
+curry with tofu. I left my house at 1:10 PM, entereed the restaurant
+at 1:17 PM, left it with my order at 1:23 PM, and returned home around
+1:30 PM. The waitress was the usual female one.
+
+## Wednesday September 9
+
+I went to downtown Berkeley in the evening. I left my home at around
+6:11 PM. I first went to Trader Joe's, where I checked out at 6:38 PM
+with Celina. I then went to Udupi Palace where I got a spinach masala
+dosa.
