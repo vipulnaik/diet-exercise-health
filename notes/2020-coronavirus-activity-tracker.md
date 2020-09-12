@@ -916,3 +916,9 @@ I went to downtown Berkeley in the evening. I left my home at around
 6:11 PM. I first went to Trader Joe's, where I checked out at 6:38 PM
 with Celina. I then went to Udupi Palace where I got a spinach masala
 dosa.
+
+## Friday September 11
+
+I went to downtown Berkeley in the evening. I first went to Trader
+Joe's; I checked out at 6:24 PM with Kara. I then visited Udupi Palace
+and got takeout for spinach masala dosa.
