@@ -922,3 +922,14 @@ dosa.
 I went to downtown Berkeley in the evening. I first went to Trader
 Joe's; I checked out at 6:24 PM with Kara. I then visited Udupi Palace
 and got takeout for spinach masala dosa.
+
+## Monday September 14
+
+I went to downtown Berkeley in the afternoon. I left my house at
+around 3:32 PM. I walked pretty fast to get to Citibank before its
+scheduled closing time at 4 PM. I arrived around 3:50 PM and was done
+with my transactions at 3:54 PM.
+
+I then went to Trader Joe's where I checked out at 4:17 PM.
+
+I then went to Udupi Palace and got a spinach masala dosa for takeout.
