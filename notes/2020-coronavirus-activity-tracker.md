@@ -933,3 +933,9 @@ with my transactions at 3:54 PM.
 I then went to Trader Joe's where I checked out at 4:17 PM.
 
 I then went to Udupi Palace and got a spinach masala dosa for takeout.
+
+## Thursday September 17
+
+In the late evening, I went to downtown Berkeley and got a spinach
+masala dosa from Udupi Palace. I left my home around 7:15 PM, but came
+back for something. I reached the restaurant around 7:42 PM.
