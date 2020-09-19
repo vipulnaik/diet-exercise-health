@@ -939,3 +939,12 @@ I then went to Udupi Palace and got a spinach masala dosa for takeout.
 In the late evening, I went to downtown Berkeley and got a spinach
 masala dosa from Udupi Palace. I left my home around 7:15 PM, but came
 back for something. I reached the restaurant around 7:42 PM.
+
+## Saturday September 19
+
+In the afternoon, I went to Mehak Indian Cuisine and ordered a number
+of dishes. I left home around 1:47 PM. I reached the restaurant and
+placed my order at 2:05 PM. I left the restaurant with my order at
+2:20 PM.
+
+This was my first visit to Mehak Indian Cuisine since May 19, 2016.
