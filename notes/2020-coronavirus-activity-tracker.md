@@ -948,3 +948,11 @@ placed my order at 2:05 PM. I left the restaurant with my order at
 2:20 PM.
 
 This was my first visit to Mehak Indian Cuisine since May 19, 2016.
+
+## Sunday September 20
+
+In the late morning, I went to the Target at 1414 University Avenue
+for an emergency purchase of toothpaste. I checked out at 11:36 AM. I
+was in the store around 5 minutes; adding the journey back and forth
+would still be under 20 minutes.
+
