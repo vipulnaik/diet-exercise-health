@@ -956,3 +956,8 @@ for an emergency purchase of toothpaste. I checked out at 11:36 AM. I
 was in the store around 5 minutes; adding the journey back and forth
 would still be under 20 minutes.
 
+## Tuesday September 22
+
+In the early afternoon, I went to Bangkok Thai Cuisine and got a
+yellow curry tofu. The waitress was the usual one.
+
