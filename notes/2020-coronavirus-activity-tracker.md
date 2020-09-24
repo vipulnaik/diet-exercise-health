@@ -961,3 +961,8 @@ would still be under 20 minutes.
 In the early afternoon, I went to Bangkok Thai Cuisine and got a
 yellow curry tofu. The waitress was the usual one.
 
+## Wednesday September 23
+
+In the evening, I went to downtown Berkeley to buy groceries. I
+checked out of Trader Joe's at 5:19 PM. Then I went to Udupi Palace
+and ordered a spinach masala dosa.
