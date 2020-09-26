@@ -966,3 +966,17 @@ yellow curry tofu. The waitress was the usual one.
 In the evening, I went to downtown Berkeley to buy groceries. I
 checked out of Trader Joe's at 5:19 PM. Then I went to Udupi Palace
 and ordered a spinach masala dosa.
+
+## Saturday September 26
+
+### Morning trip to Walgreens for flu shot and purchases
+
+In the morning, I made a trip to the Walgreens at Gilman Street. I
+headed out from home a little before 10 AM and arrived at the store at
+around 10:20 AM.
+
+I first visited the pharmacy and got a quadrivalent flu shot. I was
+done with the flu shot a little after 10:30 AM. I paid just $25 for
+it; the discount was due to Balance Rewards with Walgreens.
+
+After that, I shopped and checked out. My checkout was at 10:38 AM.
