@@ -980,3 +980,9 @@ done with the flu shot a little after 10:30 AM. I paid just $25 for
 it; the discount was due to Balance Rewards with Walgreens.
 
 After that, I shopped and checked out. My checkout was at 10:38 AM.
+
+### Afternoon/evening trip to downtown Berkeley
+
+In the afternoon/evening, I went to downtown Berkeley. I first did grocery
+shopping at Trader Joe's, where I checked out at 4:29 PM. I then went
+to Udupi Palace and ordered a spinach masala dosa for takeout.
