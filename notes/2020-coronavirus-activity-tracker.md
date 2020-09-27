@@ -987,3 +987,11 @@ In the afternoon/evening, I went to downtown Berkeley. I first did
 grocery shopping at Trader Joe's, where I checked out at 4:29 PM. I
 then went to Udupi Palace and ordered a spinach masala dosa for
 takeout.
+
+### Night time
+
+I had a fitful and long sleep at night (from around 8:45 PM to around
+8 AM), including feeling slightly feverish, feeling very physically
+fatigued and lethargic, having mild muscle aches, and urinating
+frequently at night. It is not clear what role the flu shot played in
+that experience.
