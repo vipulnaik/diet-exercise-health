@@ -995,3 +995,10 @@ I had a fitful and long sleep at night (from around 8:45 PM to around
 fatigued and lethargic, having mild muscle aches, and urinating
 frequently at night. It is not clear what role the flu shot played in
 that experience.
+
+## Saturday October 3
+
+In the late afternoon, I went to downtown Berkeley. I arrived in the
+line outside Trader Joe's at 4:30 PM, entered the store at 4:39 PM,
+and exited at 4:49 PM. I then went to Udupi Palace and got a spinach
+masala dosa.
