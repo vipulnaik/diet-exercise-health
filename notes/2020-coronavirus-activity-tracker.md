@@ -1002,3 +1002,10 @@ In the late afternoon, I went to downtown Berkeley. I arrived in the
 line outside Trader Joe's at 4:30 PM, entered the store at 4:39 PM,
 and exited at 4:49 PM. I then went to Udupi Palace and got a spinach
 masala dosa.
+
+## Monday October 5
+
+An incident at the apartment led to a number of police being in and
+out of the place between ~5:30 PM and ~8:30 PM. I tried to wear masks
+when interacting with them but had to take down the mask due to a lot
+of need for clarity when talking.
