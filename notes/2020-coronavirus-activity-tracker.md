@@ -1009,3 +1009,18 @@ An incident at the apartment led to a number of police being in and
 out of the place between ~5:30 PM and ~8:30 PM. I tried to wear masks
 when interacting with them but had to take down the mask due to a lot
 of need for clarity when talking.
+
+## Friday October 9
+
+In the later afternoon, I went to downtown Berkeley. I first went to
+Citibank at Shattuck and University to deposit a check and get
+quarters. I entered the bank around 3:50 PM and completed the
+transaction around 3:58 PM. I then tried going to Copy Central and
+Krishna Copy. The former was shut down and the latter was not
+accepting walk-ins.
+
+I next went to Trader Joe's. I stood in line for a few minutes, got
+into the store, and finished my purchase at 4:27 PM with Akiva.
+
+I then went to Udupi Palace and ordered a spinach masala dosa for
+takeout.
