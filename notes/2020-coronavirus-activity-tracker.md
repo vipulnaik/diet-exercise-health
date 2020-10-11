@@ -1024,3 +1024,11 @@ into the store, and finished my purchase at 4:27 PM with Akiva.
 
 I then went to Udupi Palace and ordered a spinach masala dosa for
 takeout.
+
+## Sunday October 11
+
+### Morning trip to Walgreens
+
+In the morning, I visited Walgreens to buy some toiletries. I left my
+home a little after 8 AM, entered the store a little after 8:20 AM,
+and checked out at 8:29 AM.
