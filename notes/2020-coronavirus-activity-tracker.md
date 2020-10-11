@@ -1032,3 +1032,9 @@ takeout.
 In the morning, I visited Walgreens to buy some toiletries. I left my
 home a little after 8 AM, entered the store a little after 8:20 AM,
 and checked out at 8:29 AM.
+
+### Afternoon trip to Mehak Indian Cuisine
+
+In the afternoon, I visited Mehak Indian Cuisine for take-out. I left
+my apartment around 1:55 PM. I arrived and placed my order around 2:10
+PM. I left with my order at 2:28 PM.
