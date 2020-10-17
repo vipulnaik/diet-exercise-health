@@ -1038,3 +1038,12 @@ and checked out at 8:29 AM.
 In the afternoon, I visited Mehak Indian Cuisine for take-out. I left
 my apartment around 1:55 PM. I arrived and placed my order around 2:10
 PM. I left with my order at 2:28 PM.
+
+## Friday October 16
+
+In the afternoon, I went to Citibank to deposit a couple of checks and
+take out quarters. I finished my transactions at Citibank at 3:40 PMM.
+
+I then went to Trader Joe's and bought groceries; I checked out with
+Darien at 3:58 PM. I then went to Udupi Palace and got a spinach
+masala dosa for takeout.
