@@ -1047,3 +1047,9 @@ take out quarters. I finished my transactions at Citibank at 3:40 PMM.
 I then went to Trader Joe's and bought groceries; I checked out with
 Darien at 3:58 PM. I then went to Udupi Palace and got a spinach
 masala dosa for takeout.
+
+## Sunday October 18
+
+In the afternoon, I went to Mehak Indian Cuisine to get takeout
+food. I arrived at around 2:05 PM and left with the food a little
+after 2:20 PM.
