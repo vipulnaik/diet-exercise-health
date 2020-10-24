@@ -1053,3 +1053,9 @@ masala dosa for takeout.
 In the afternoon, I went to Mehak Indian Cuisine to get takeout
 food. I arrived at around 2:05 PM and left with the food a little
 after 2:20 PM.
+
+## Friday October 23
+
+In the evening, I went to downtown Berkeley. I first went to Trader
+Joe's, where I bought groceries and checked out at 5:04 PM. I then
+went to Udupi Palace where I got a spinach masala dosa.
