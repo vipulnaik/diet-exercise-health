@@ -1059,3 +1059,19 @@ after 2:20 PM.
 In the evening, I went to downtown Berkeley. I first went to Trader
 Joe's, where I bought groceries and checked out at 5:04 PM. I then
 went to Udupi Palace where I got a spinach masala dosa.
+
+## Thursday October 29
+
+In the afternoon, I went to downtown Berkeley.
+
+I first went to Citibank to deposit a rent check. The deposit was
+completed att 3:54 PM.
+
+I then went to the post office to send a letter. I completed the
+process a little after 4:15 PM.
+
+Next, I went to Trader Joe's to buy groceries. I finished checkout at
+4:50 PM.
+
+Finally, I went to Udupi Palace and got a spinach masala dosa for
+takeout.
