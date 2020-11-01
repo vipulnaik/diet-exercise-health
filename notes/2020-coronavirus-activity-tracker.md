@@ -1075,3 +1075,9 @@ Next, I went to Trader Joe's to buy groceries. I finished checkout at
 
 Finally, I went to Udupi Palace and got a spinach masala dosa for
 takeout.
+
+## Saturday October 31
+
+In the afternoon, I went to the Berkeley Ace Hardware store to buy a
+dry broom. I left my home around 3:25 PM; I finished checking out of
+the store at 4:03 PM. I was back home around 4:30 PM.
