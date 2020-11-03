@@ -1081,3 +1081,10 @@ takeout.
 In the afternoon, I went to the Berkeley Ace Hardware store to buy a
 dry broom. I left my home around 3:25 PM; I finished checking out of
 the store at 4:03 PM. I was back home around 4:30 PM.
+
+## Monday November 2
+
+In the afternoon, I went to Bangkok Thai Cuisine and ordered a yellow
+curry tofu. I left my home around 12:30, I placed the order around
+12:38 PM, I left the restaurant at 12:45 PM, and I got back home
+around 12:53 PM.
