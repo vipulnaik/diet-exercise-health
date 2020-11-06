@@ -1088,3 +1088,12 @@ In the afternoon, I went to Bangkok Thai Cuisine and ordered a yellow
 curry tofu. I left my home around 12:30, I placed the order around
 12:38 PM, I left the restaurant at 12:45 PM, and I got back home
 around 12:53 PM.
+
+## Thursday November 5
+
+In the afternoon, I went to Target to buy tape measure; I checked out
+at 2:03 PM.
+
+I then proceeded to downtown Berkeley. I bought groceries from Trader
+Joe's, checking out with Lily at 2:29 PM. I then went to Udupi Palace
+and got a spinach masala dosa.
