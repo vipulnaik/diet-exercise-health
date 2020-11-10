@@ -1097,3 +1097,8 @@ at 2:03 PM.
 I then proceeded to downtown Berkeley. I bought groceries from Trader
 Joe's, checking out with Lily at 2:29 PM. I then went to Udupi Palace
 and got a spinach masala dosa.
+
+## Sunday November 8
+
+In the afternoon, I went to Mehak Indian Cuisine to pick up an online
+order. I left my home around 1 PM and returned a little after 1:30 PM.
