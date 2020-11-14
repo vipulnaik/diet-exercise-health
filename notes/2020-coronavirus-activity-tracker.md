@@ -1102,3 +1102,9 @@ and got a spinach masala dosa.
 
 In the afternoon, I went to Mehak Indian Cuisine to pick up an online
 order. I left my home around 1 PM and returned a little after 1:30 PM.
+
+## Friday November 13
+
+In the evening, I went to downtown Berkeley. I left my home around
+5:10 PM. I finished checking out of Trader Joe's at 5:44 PM. I then
+went to Udupi Palace from where I ordered a spinach masala dosa.
