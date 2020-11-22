@@ -1108,3 +1108,17 @@ order. I left my home around 1 PM and returned a little after 1:30 PM.
 In the evening, I went to downtown Berkeley. I left my home around
 5:10 PM. I finished checking out of Trader Joe's at 5:44 PM. I then
 went to Udupi Palace from where I ordered a spinach masala dosa.
+
+## Wednesday November 18
+
+In the afternoon, I went to Bangkok Thai Cuisine and got a yellow
+curry with tofu. For the first time, I placed my order online and
+simply did the pickup from the store.
+
+## Friday November 20
+
+In the late afternoon/evening, I went to downtown Berkeley. I first
+went to Citibank to deposit a check and withdraw quarters; my
+transactions finished at 4:37 PM. I then went to Trader Joe's and
+bought groceries; I checked out at 5:09 PM. I then went to Udupi
+Palace and got a spinach masala dosa.
