@@ -1122,3 +1122,8 @@ went to Citibank to deposit a check and withdraw quarters; my
 transactions finished at 4:37 PM. I then went to Trader Joe's and
 bought groceries; I checked out at 5:09 PM. I then went to Udupi
 Palace and got a spinach masala dosa.
+
+## Sunday November 22
+
+In the morning, I went to the Walgreens on Gilman Street to buy
+toiletries. I checked out at 8:29 AM.
