@@ -1127,3 +1127,8 @@ Palace and got a spinach masala dosa.
 
 In the morning, I went to the Walgreens on Gilman Street to buy
 toiletries. I checked out at 8:29 AM.
+
+## Tuesday November 24
+
+In the afternoon I went to Mehak Indian Cuisine to pick up an online
+order. I had very limited contact.
