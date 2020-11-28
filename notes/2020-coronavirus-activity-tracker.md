@@ -1140,3 +1140,8 @@ Hardware and bought the city of Berkeley's pre-paid refuse bags; I
 checked out at 4:22 PM. I then went to Trader Joe's for grocery
 shopping; I checked out at 4:38 PM. Finally, I went to Udupi Palace
 and got a spinach masala dosa.
+
+## Saturday November 28
+
+In the morning I went Walgreens to buy toiletries. I checked out of
+the store at 9:29 AM.
