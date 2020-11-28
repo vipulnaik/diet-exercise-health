@@ -1144,4 +1144,9 @@ and got a spinach masala dosa.
 ## Saturday November 28
 
 In the morning I went Walgreens to buy toiletries. I checked out of
-the store at 9:29 AM.
+the store at 9:29 AM. This trip included a purchase of a pack of
+single-use surgical masks that I intend to use for situations with
+high exposure risk. I still intend to use cloth face masks for the
+majority of my interactions; my current thinking is to possibly use
+the surgical masks in Trader Joe's and BART but I haven't figured out
+the precise demarcation.
