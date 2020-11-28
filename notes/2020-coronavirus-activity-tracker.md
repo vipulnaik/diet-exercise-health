@@ -1132,3 +1132,11 @@ toiletries. I checked out at 8:29 AM.
 
 In the afternoon I went to Mehak Indian Cuisine to pick up an online
 order. I had very limited contact.
+
+## Friday November 27
+
+In the late afternoon I went to downtown Berkeley. I first went to Ace
+Hardware and bought the city of Berkeley's pre-paid refuse bags; I
+checked out at 4:22 PM. I then went to Trader Joe's for grocery
+shopping; I checked out at 4:38 PM. Finally, I went to Udupi Palace
+and got a spinach masala dosa.
