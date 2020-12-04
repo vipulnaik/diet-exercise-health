@@ -1155,3 +1155,9 @@ the precise demarcation.
 
 In the late morning I went to Target to buy baking soda. I checked out of
 the store at 10:40 AM.
+
+## Thursday December 3
+
+In the evening I went to downtown Berkeley. I first went to Trader
+Joe's where I purchased groceries; I checked out at 6:25 PM. I then
+went to Udupi Palace and got a spinach masala dosa.
