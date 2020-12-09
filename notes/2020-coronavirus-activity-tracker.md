@@ -1161,3 +1161,20 @@ the store at 10:40 AM.
 In the evening I went to downtown Berkeley. I first went to Trader
 Joe's where I purchased groceries; I checked out at 6:25 PM. I then
 went to Udupi Palace and got a spinach masala dosa.
+
+## Wednesday December 9
+
+In the afternoon I went to the Claremont DMV in Oakland to renew my
+California state ID card. I left home a little before 1 PM. I arrived
+at Rockridge station around 1:25 PM and reached the DMV around 1:40
+PM. I got my number around 1:45 PM. I then waited until 2:05 PM when I
+was called; I finished around 2:20 PM and then walked back to
+Rockridge station. After a 15-minute wait in between at MacArthur, I
+took the next train to downtown Berkeley.
+
+I then did grocery shopping at Trader Joe's, finishing the checkout
+process at 3:40 PM. After that, I went to Udupi Palace and got a
+spinach masala dosa.
+
+I wore a surgical mask for the whole trip. This was the first time I
+used a surgical mask instead of a cloth face mask.
