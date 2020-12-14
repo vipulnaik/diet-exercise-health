@@ -1178,3 +1178,9 @@ spinach masala dosa.
 
 I wore a surgical mask for the whole trip. This was the first time I
 used a surgical mask instead of a cloth face mask.
+
+## Sunday December 13
+
+In the afternoon I went to Mehak Indian Cuisine to pick up food for an
+online order. I left home a little before 2 PM. I used a cloth face
+mask and had minimal interaction.
