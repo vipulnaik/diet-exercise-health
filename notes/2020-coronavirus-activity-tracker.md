@@ -1189,5 +1189,5 @@ mask and had minimal interaction.
 
 In the afternoon, I went to downtown Berkeley. I first went to Trader
 Joe's where I bought groceries. I checked out at 4:21 PM. After that,
-I went to Udupi Palace and got a spinach masal dosa. I wore a surgical
+I went to Udupi Palace and got a spinach masala dosa. I wore a surgical
 mask.
