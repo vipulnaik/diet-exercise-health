@@ -1184,3 +1184,10 @@ used a surgical mask instead of a cloth face mask.
 In the afternoon I went to Mehak Indian Cuisine to pick up food for an
 online order. I left home a little before 2 PM. I used a cloth face
 mask and had minimal interaction.
+
+## Friday December 18
+
+In the afternoon, I went to downtown Berkeley. I first went to Trader
+Joe's where I bought groceries. I checked out at 4:21 PM. After that,
+I went to Udupi Palace and got a spinach masal dosa. I wore a surgical
+mask.
