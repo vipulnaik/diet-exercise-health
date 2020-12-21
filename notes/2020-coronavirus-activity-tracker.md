@@ -1191,3 +1191,8 @@ In the afternoon, I went to downtown Berkeley. I first went to Trader
 Joe's where I bought groceries. I checked out at 4:21 PM. After that,
 I went to Udupi Palace and got a spinach masala dosa. I wore a surgical
 mask.
+
+## Sunday December 20
+
+In the afternoon, I went to the Target at University Avenue to get
+cleaning supplies. I finished checkout at 2:28 PM.
