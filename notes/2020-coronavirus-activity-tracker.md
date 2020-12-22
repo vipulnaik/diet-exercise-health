@@ -1196,3 +1196,14 @@ mask.
 
 In the afternoon, I went to the Target at University Avenue to get
 cleaning supplies. I finished checkout at 2:28 PM.
+
+## Monday December 21
+
+In the afternoon, around 2 PM, I went to Bangkok Thai Cuisine and got
+a yellow curry with tofu. The waiter was the usual male one.
+
+## Tuesday December 22
+
+At 11 AM, a person came to take a look at the vacant room, with an eye
+toward a move-in in the near term. I wore a surgical mask while
+interacting with him.
