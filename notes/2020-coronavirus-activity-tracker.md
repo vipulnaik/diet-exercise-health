@@ -1221,3 +1221,11 @@ I then went to Trader Joe's. I checked out at 4:51 PM.
 
 I finally went to Udupi Palace and got a spinach masala dosa for
 takeout.
+
+I wore a surgical mask during the trip.
+
+## Thursday December 24
+
+In the morning, I went to Walgreens (Gilman Street) and bought some
+toiletries. My checkout was att 8:50 AM. I wore a cloth face mask
+during the trip.
