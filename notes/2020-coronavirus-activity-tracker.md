@@ -1207,3 +1207,17 @@ a yellow curry with tofu. The waiter was the usual male one.
 At 11 AM, a person came to take a look at the vacant room, with an eye
 toward a move-in in the near term. I wore a surgical mask while
 interacting with him.
+
+## Wednesday December 23
+
+In the afternoon/evening, I went to downtown Berkeley for some
+shopping. I first went to Ace Hardware to get some city of Berkeley
+trash bags. I checked out at 4:20 PM.
+
+I then checked the status of the Goodwill store (it's closed this
+week).
+
+I then went to Trader Joe's. I checked out at 4:51 PM.
+
+I finally went to Udupi Palace and got a spinach masala dosa for
+takeout.
