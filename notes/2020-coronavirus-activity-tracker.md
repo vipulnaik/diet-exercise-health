@@ -1229,3 +1229,9 @@ I wore a surgical mask during the trip.
 In the morning, I went to Walgreens (Gilman Street) and bought some
 toiletries. My checkout was att 8:50 AM. I wore a cloth face mask
 during the trip.
+
+## Sunday December 27
+
+In the afternoon, I went to downtown Berkeley for shopping. I bought
+groceries from Trader Joe's and finished checkout at 2:28 PM. I then
+went to Udupi Palace and ordered a spinach masala dosa.
