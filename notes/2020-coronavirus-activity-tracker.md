@@ -1235,3 +1235,11 @@ during the trip.
 In the afternoon, I went to downtown Berkeley for shopping. I bought
 groceries from Trader Joe's and finished checkout at 2:28 PM. I then
 went to Udupi Palace and ordered a spinach masala dosa.
+
+## Thursday December 31
+
+In the evening, I went to downtown Berkeley for shopping. I bought
+groceries from Trader Joe's and finished checkout at 5:08 PM. I then
+went to Udupi Palace and ordered a spinach masala dosa.
+
+Thus ends 2020!
