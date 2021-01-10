@@ -36,3 +36,10 @@ a fairly long wait, and there were other people waiting in the area as
 well. I was indoors for about 10 to 15 minutes with others (not very
 close to me, all masked). I did the rest of my waiting outdoors. I
 finally left the restaurant with my order at around 6:25 PM.
+
+## Sunday January 10
+
+### Morning trip to Walgreens
+
+In the morning, I went to the Walgreens at Gilman Street to buy
+toiletries. I finished checkout at 8:37 AM.
