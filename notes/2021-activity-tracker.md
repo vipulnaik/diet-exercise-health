@@ -43,3 +43,9 @@ finally left the restaurant with my order at around 6:25 PM.
 
 In the morning, I went to the Walgreens at Gilman Street to buy
 toiletries. I finished checkout at 8:37 AM.
+
+### Evening trip to downtown Berkeley
+
+In the evening, I went to downtown Berkeley. I first went to Trader
+Joes' and did grocery shopping. I finished checkout at 4:50 PM. I then
+went to Udupi Palace and got a spinach masala dosa.
