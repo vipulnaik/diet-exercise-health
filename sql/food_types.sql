@@ -13,3 +13,6 @@ create table food_types(
   `calcium` int(11),
   `notes` varchar(200)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+insert into food_types(short_name, long_name, url, calories, trans_fat, sodium, total_carb, fiber, sugar, vitamin_a, vitamin_c, calcium) values
+  ('TJ Sauerkraut');
