@@ -49,3 +49,14 @@ toiletries. I finished checkout at 8:37 AM.
 In the evening, I went to downtown Berkeley. I first went to Trader
 Joes' and did grocery shopping. I finished checkout at 4:50 PM. I then
 went to Udupi Palace and got a spinach masala dosa.
+
+## Wednesday January 13
+
+I went to Bangkok Thai Cuisine and ordered a yellow curry with tofu. I
+paid by cash.
+
+## Saturday January 16
+
+I went to downtown Berkeley. I began by doing some shopping at Trader
+Joe's. I finished checkout at 2:25 PM. I then went to Udupi Palace and
+got a spinach masala dosa.
