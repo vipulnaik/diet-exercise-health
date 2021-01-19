@@ -1,7 +1,7 @@
 Current list of planned tests. I'll target doing them around July 2021
 assuming COVID vaccine rollout is a success:
 
-Total: $246, nontrivial but affordable.
+Total: $375, nontrivial but affordable.
 
 Past test results at https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql (some of these are referenced without details below, so linking to the SQL file for those interested in checking details).
 
@@ -52,6 +52,15 @@ Test details: https://requestatest.com/cbc-with-differential-testing ($34)
 This is hopefully a one-time baseline. I'm not looking for anything
 specific but it would be good to get information related to white
 blood cells and immunity.
+
+## Omega-3
+
+Test details: https://requestatest.com/omega-3-blood-test ($129)
+
+I [started omega-3
+supplementation](2019-12-30-decision-to-start-taking-omega-3-supplements.md)
+in early 2020. I want to get a baseline measurement after one year of
+supplementation.
 
 ## Tests that didn't make the cut
 
