@@ -19,6 +19,12 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('November 2017 Columbia Asia vitamin and lipid profile tests','B12','pg/mL',180,914,167,'Intermediate','This test was taken before starting any regular Vitamin B12 supplementation. Guidance says: < 145 pg/mL is deficient, 145-180 is intermediate, and 180-914 is normal'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','B12','pg/mL',187,883,173.6,'Deficient','This test was taken before starting any regular Vitamin B12 supplementation'),
   ('September 2018 LabCorp vitamin tests','B12','pg/mL',232,1245,1050,'Sufficient','This test was taken after about 10 months of regular Vitamin B12 supplementation, at 1000 mcg per tablet and a little over 1 tablet per day on average'),
+  /* Lipid profile tests: September 2005 Iravatham Chennai */
+  ('September 2005 Iravatham Chennai lipid profile tests','Cholesterol total','mg/dL',0,200,180,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('September 2005 Iravatham Chennai lipid profile tests','Cholesterol HD direct','mg/dL',30,60,48,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('September 2005 Iravatham Chennai lipid profile tests','Cholesterol LDL','mg/dL',0,100,116,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('September 2005 Iravatham Chennai lipid profile tests','Cholesterol VLDL','mg/dL',0,35,16,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
+  ('September 2005 Iravatham Chennai lipid profile tests','Serum triglycerides','mg/dL',0,150,80,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
   /* Lipid profile tests: July 2006 SRL Bangalore */
   ('July 2006 SRL Bangalore lipid profile tests','Cholesterol total','mg/dL',0,200,164,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
   ('July 2006 SRL Bangalore lipid profile tests','Cholesterol HD direct','mg/dL',30,60,41.4,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies'),
