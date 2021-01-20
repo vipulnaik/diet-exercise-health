@@ -60,3 +60,8 @@ paid by cash.
 I went to downtown Berkeley. I began by doing some shopping at Trader
 Joe's. I finished checkout at 2:25 PM. I then went to Udupi Palace and
 got a spinach masala dosa.
+
+## Tuesday January 19
+
+In the evening (between around 5:30 PM and 6:30 PM) I went to Mehak
+Indian Cuisine to pick up an online order.
