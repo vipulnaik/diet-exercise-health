@@ -65,3 +65,11 @@ got a spinach masala dosa.
 
 In the evening (between around 5:30 PM and 6:30 PM) I went to Mehak
 Indian Cuisine to pick up an online order.
+
+## Monday January 25
+
+In the evening (between 5:30 PM and 6:45 PM) I went to downtown
+Berkeley. I first went to Trader Joe's, from where I checked out at
+6:06 PM. I then went to Udupi Palace where I got a spinach masala dosa.
+
+This was my first time wearing a KN95 mask.
