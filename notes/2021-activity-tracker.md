@@ -73,3 +73,9 @@ Berkeley. I first went to Trader Joe's, from where I checked out at
 6:06 PM. I then went to Udupi Palace where I got a spinach masala dosa.
 
 This was my first time wearing a KN95 mask.
+
+## Thursday January 28
+
+In the evening, betweeen 5:30 PM and 6 PM, I went to Bangkok Thai
+Cuisine and ordered a yellow curry with tofu. I wore a cloth face
+mask.
