@@ -79,3 +79,12 @@ This was my first time wearing a KN95 mask.
 In the evening, betweeen 5:30 PM and 6 PM, I went to Bangkok Thai
 Cuisine and ordered a yellow curry with tofu. I wore a cloth face
 mask.
+
+## Sunday January 31
+
+In the evening, between around 4 PM and around 5:40 PM, I went to
+downtown Berkeley. I first went to the Walgreens on Shattuck Avenue
+for some toiletries. I checked out at 4:43 PM. After that, I went to
+Trader Joe's and checked out at 5:07 PM. I then went to Udupi Palace
+and ordered a spinach masala dosa; I left around 5:20 PM. I was back
+home a little before 5:40 PM.
