@@ -88,3 +88,9 @@ for some toiletries. I checked out at 4:43 PM. After that, I went to
 Trader Joe's and checked out at 5:07 PM. I then went to Udupi Palace
 and ordered a spinach masala dosa; I left around 5:20 PM. I was back
 home a little before 5:40 PM.
+
+## Tuesday February 2
+
+In the evening, between 5:15 PM and 6:15 PM, I went to Mehak Indian
+Cuisine to pick up an online order. I wore a cloth face mask and had
+minimal human interaction in the journey and during pickup.
