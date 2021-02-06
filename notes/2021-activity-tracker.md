@@ -94,3 +94,11 @@ home a little before 5:40 PM.
 In the evening, between 5:15 PM and 6:15 PM, I went to Mehak Indian
 Cuisine to pick up an online order. I wore a cloth face mask and had
 minimal human interaction in the journey and during pickup.
+
+## Saturday February 6
+
+### Morning trip to Walgreens
+
+In the morning, I went to Walgreens to buy toiletries. I checked out
+at 9:07 AM. I wore a (new) KN95 mask while in the store. As part of
+the checkout process, I switched to getting digital receipts.
