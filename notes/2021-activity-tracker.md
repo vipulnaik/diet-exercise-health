@@ -102,3 +102,10 @@ minimal human interaction in the journey and during pickup.
 In the morning, I went to Walgreens to buy toiletries. I checked out
 at 9:07 AM. I wore a (new) KN95 mask while in the store. As part of
 the checkout process, I switched to getting digital receipts.
+
+### Afternoon trip to downtown Berkeley
+
+In the afternoon, I went to downtown Berkeley. I first went to Trader
+Joe's where I bought groceries. My time of checkout was 3:43 PM. After
+that, I went to Udupi Palace and got a spinach masala dosa. I wore a
+KN-95 mask for the trip.
