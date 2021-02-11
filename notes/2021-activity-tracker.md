@@ -109,3 +109,10 @@ In the afternoon, I went to downtown Berkeley. I first went to Trader
 Joe's where I bought groceries. My time of checkout was 3:43 PM. After
 that, I went to Udupi Palace and got a spinach masala dosa. I wore a
 KN-95 mask for the trip.
+
+## Wednesday February 10
+
+In the evening, around 6:05 PM, I left my home to go to Bangkok Thai
+Cuisine. There, I ordered a yellow curry with tofu. I wore a KN-95
+mask (my last wear of the mask that I started wearing Saturday) and
+spent most of my waiting time outside the restaurant.
