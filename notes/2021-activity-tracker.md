@@ -116,3 +116,9 @@ In the evening, around 6:05 PM, I left my home to go to Bangkok Thai
 Cuisine. There, I ordered a yellow curry with tofu. I wore a KN-95
 mask (my last wear of the mask that I started wearing Saturday) and
 spent most of my waiting time outside the restaurant.
+
+## Saturday February 13
+
+In the evening, I went to downtown Berkeley. I first bought groceries
+from Trader Joe's. Then, I went to Udupi Palace and got a spinach
+masala dosa.
