@@ -27,7 +27,7 @@ baseline insulin readings may be helpful.
 I generally have a reasonably stable diet, and I'm not doing any of
 the vitamin supplements right now that would affect insulin testing.
 
-## HbA1c: Followup measurement because of diabetic tendencis
+## HbA1c: Followup measurement because of diabetic tendencies
 
 Test details: https://requestatest.com/hemoglobin-a1c-with-eag-testing ($39)
 
@@ -62,9 +62,17 @@ supplementation](2019-12-30-decision-to-start-taking-omega-3-supplements.md)
 in early 2020. I want to get a baseline measurement after one year of
 supplementation.
 
+## Calcium: test the success of both calcium and vitamin D supplementation in recent years
+
+Test details: https://requestatest.com/calcium-testing ($34)
+
+I have been taking both calcium and vitamin D for a while, so I want
+to test my blood calcium levels to make sure that the end result for
+my calcium is good.
+
 ## Tests that didn't make the cut
 
-I decided against these:
+I considered and ultimately decided against these:
 
 * https://requestatest.com/vitamin-b12-testing ($59): I was at upper
   end of range last time and I have been taking supplements regularly,
@@ -73,3 +81,10 @@ I decided against these:
   and https://requestatest.com/c-reactive-protein-quantitative-testing
   because they don't seem necessary yet, and because I got a normal
   result for the latter in 2016.
+* Various creatine/creatinine tests: I am still thinking about
+  these. This is an area where I am likely to be deficient (per my
+  2016 test results) but I also don't currently expect to take
+  significant action even if I were deficient.
+* Magnesium
+* Zinc
+* Vitamin K
