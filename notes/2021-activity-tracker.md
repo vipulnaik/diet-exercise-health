@@ -122,3 +122,10 @@ spent most of my waiting time outside the restaurant.
 In the evening, I went to downtown Berkeley. I first bought groceries
 from Trader Joe's. Then, I went to Udupi Palace and got a spinach
 masala dosa.
+
+## Tuesday February 16
+
+In the evening, around 6 PM, I went to Mehak Indian Cuisine to pick up
+an online order. I wore my KN95 mask in the restaurant and for most of
+the journey; I had minimal human contact in the restaurant and none
+for the journey.
