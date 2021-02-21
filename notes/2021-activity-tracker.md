@@ -129,3 +129,11 @@ In the evening, around 6 PM, I went to Mehak Indian Cuisine to pick up
 an online order. I wore my KN95 mask in the restaurant and for most of
 the journey; I had minimal human contact in the restaurant and none
 for the journey.
+
+## Saturday February 20
+
+In the evening, I went to downtown Berkeley. I first bought groceries
+from Trader Joe's, finishing checkout at 5:03 PM. I then went to Udupi
+Palace and got a spinach masala dosa. The inside and outside of the
+restaurant had a few people -- I mostly waited outside. I wore a KN95
+mask for the whole trip, as usual.
