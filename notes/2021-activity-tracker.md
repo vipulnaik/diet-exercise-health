@@ -137,3 +137,9 @@ from Trader Joe's, finishing checkout at 5:03 PM. I then went to Udupi
 Palace and got a spinach masala dosa. The inside and outside of the
 restaurant had a few people -- I mostly waited outside. I wore a KN95
 mask for the whole trip, as usual.
+
+## Tuesday February 23
+
+In the evening, I went to Bangkok Thai Cuisine and got a yellow curry
+with tofu. I paid by cash. I spent most of my waiting time outside the
+restaurant. I wore a KN95 mask.
