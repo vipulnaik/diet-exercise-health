@@ -143,3 +143,11 @@ mask for the whole trip, as usual.
 In the evening, I went to Bangkok Thai Cuisine and got a yellow curry
 with tofu. I paid by cash. I spent most of my waiting time outside the
 restaurant. I wore a KN95 mask.
+
+## Thursday February 25
+
+In the evening, I went to downtown Berkeley. I first went to Trader
+Joe's to buy groceries; I finished checkout at 4:35 PM. I then went to
+Udupi Palace and got a spinach masala dosa.
+
+I wore a KN95 mask.
