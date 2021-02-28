@@ -151,3 +151,8 @@ Joe's to buy groceries; I finished checkout at 4:35 PM. I then went to
 Udupi Palace and got a spinach masala dosa.
 
 I wore a KN95 mask.
+
+## Sunday February 28
+
+In the morning, I went to Walgreens to buy some toiletries. I finished
+my checkout at 9:35 AM. I wore a KN95 mask while in the store.
