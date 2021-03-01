@@ -9,7 +9,7 @@ proximity to anybody.
 I am making one more change from 2020: I'm also listing nontrivial
 contact with people inside my household.
 
-## Sunday January 3 takeout from Mehak Indian Cuisine
+## Sunday January 3
 
 I went for picking up takeout from Mehak Indian Cuisine. For most of
 the journey both ways, I was talking on the phone. I was not close to
