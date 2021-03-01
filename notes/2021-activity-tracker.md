@@ -156,3 +156,9 @@ I wore a KN95 mask.
 
 In the morning, I went to Walgreens to buy some toiletries. I finished
 my checkout at 9:35 AM. I wore a KN95 mask while in the store.
+
+## Monday March 1
+
+In the morning, I went to Target to buy drain cleaner. I finished
+checkout at 9:23 AM. I wore a KN95 mask and had very little human
+contact during the trip.
