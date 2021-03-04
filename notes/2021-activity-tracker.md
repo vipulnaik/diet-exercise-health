@@ -162,3 +162,11 @@ my checkout at 9:35 AM. I wore a KN95 mask while in the store.
 In the morning, I went to Target to buy drain cleaner. I finished
 checkout at 9:23 AM. I wore a KN95 mask and had very little human
 contact during the trip.
+
+## Wednesday March 3
+
+In the evening, I went to downtown Berkeley. I first went to Trader
+Joe's to buy groceries; I finished checkout at 5:17 PM. I then went to
+Udupi Palace and got a spinach masala dosa.
+
+I wore a KN95 mask.
