@@ -170,3 +170,8 @@ Joe's to buy groceries; I finished checkout at 5:17 PM. I then went to
 Udupi Palace and got a spinach masala dosa.
 
 I wore a KN95 mask.
+
+## Friday March 5
+
+In the afternoon I went to Mehak Indian Cuisine to pick up an online
+order. I had minimal human contact. I wore a KN95 mask.
