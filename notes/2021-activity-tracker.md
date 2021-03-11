@@ -175,3 +175,20 @@ I wore a KN95 mask.
 
 In the afternoon I went to Mehak Indian Cuisine to pick up an online
 order. I had minimal human contact. I wore a KN95 mask.
+
+## Wednesday March 10
+
+In the late afternooon, I went to downtown Berkeley. I first went to
+Citibank to deposit money orders and get coins for laundry. The
+transactions completed at 4:04 PM. I then went to Berkeley Ace
+Hardware to get Drainbo. The transaction completed at 4:13 PM. After
+that, I went to Trader Joe's to buy groceries. The transaction
+completed at 4:27 PM. Finally, I went to Udupi Palace and got a
+spinach masala dosa. I returned to my apartment building around 5 PM.
+
+When I returned, there was a situation outside the apartment
+building. I stayed outside, working with a bunch of people to resolve
+it. Everybody was masked and reasonably distant. The final steps of
+resolution were inside the apartment, and completed a little after 6
+PM.
+
