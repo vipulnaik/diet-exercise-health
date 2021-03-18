@@ -192,3 +192,8 @@ it. Everybody was masked and reasonably distant. The final steps of
 resolution were inside the apartment, and completed a little after 6
 PM.
 
+## Wednesday March 17
+
+In the late afternoon, I went to downtown Berkeley. I first got
+groceries from Trader Joe's. I finished checkout at 5:11 PM. After
+that, I went to Udupi Palace and got a spinach masala dosa.
