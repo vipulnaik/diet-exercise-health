@@ -197,3 +197,12 @@ PM.
 In the late afternoon, I went to downtown Berkeley. I first got
 groceries from Trader Joe's. I finished checkout at 5:11 PM. After
 that, I went to Udupi Palace and got a spinach masala dosa.
+
+Later in the evening, I had a ~15-minute indoor chat with a
+housemate. I was wearing my KN-95 mask and we maintained distance but
+my housemate was unmasked.
+
+## Friday March 19
+
+In the evening I went to Bangkok Thai Cuisine and got a yellow curry
+with tofu, along with rice.
