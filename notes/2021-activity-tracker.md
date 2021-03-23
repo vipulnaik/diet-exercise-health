@@ -206,3 +206,9 @@ my housemate was unmasked.
 
 In the evening I went to Bangkok Thai Cuisine and got a yellow curry
 with tofu, along with rice.
+
+## Monday March 22
+
+In the evening, I went to downtown Berkeley. I first went to Trader
+Joe's and bought groceries, finishing my checkout at 6:10 PM. I then
+went to Udupi Palace and got a spinach masala dosa.
