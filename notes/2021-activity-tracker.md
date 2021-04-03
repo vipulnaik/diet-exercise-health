@@ -227,3 +227,10 @@ and got a spinach masala doosa. I wore a KN95 mask.
 
 I also had some nontrivial in-person conversations with housemates; I
 was masked but they were not.
+
+## Saturday April 3
+
+### Morning trip to Walgreens
+
+In the morning, I went to Walgreens and bought toilet paper. I wore a
+KN95 mask while in the store. The checkout finished at 9:36 AM.
