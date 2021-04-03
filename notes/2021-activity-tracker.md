@@ -223,7 +223,7 @@ order. I had minimal human interaction. I wore a KN-95 mask.
 In the afternoon, I went to downtown Berkeley. I first went to Ace
 Hardware and bought trash bags. I then went to Trader Joe's and bought
 groceries, checking out at 3:07 PM. Finally, I went to Udupi Palace
-and got a spinach masala doosa. I wore a KN95 mask.
+and got a spinach masala dosa. I wore a KN95 mask.
 
 I also had some nontrivial in-person conversations with housemates; I
 was masked but they were not.
