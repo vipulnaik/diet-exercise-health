@@ -232,5 +232,6 @@ was masked but they were not.
 
 ### Morning trip to Walgreens
 
-In the morning, I went to Walgreens and bought toilet paper. I wore a
-KN95 mask while in the store. The checkout finished at 9:36 AM.
+In the morning, I went to the Walgreens on Gilman Street and bought
+toilet paper. I wore a KN95 mask while in the store. The checkout
+finished at 9:36 AM.
