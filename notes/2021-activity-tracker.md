@@ -235,3 +235,9 @@ was masked but they were not.
 In the morning, I went to the Walgreens on Gilman Street and bought
 toilet paper. I wore a KN95 mask while in the store. The checkout
 finished at 9:36 AM.
+
+### Evening trip to downtown Berkeley
+
+In the evening, I went to downtown Berkeley to buy groceries. I
+finished checkout at 5:30 PM. I then went to Udupi Palace and got a
+spinach masala dosa.
