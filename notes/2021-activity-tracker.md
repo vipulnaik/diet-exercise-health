@@ -241,3 +241,10 @@ finished at 9:36 AM.
 In the evening, I went to downtown Berkeley to buy groceries. I
 finished checkout at 5:30 PM. I then went to Udupi Palace and got a
 spinach masala dosa.
+
+## Tuesday April 6
+
+### Afternoon trip to Bangkok Thai Cuisine
+
+In the afternoon, around 2 PM, I went to Bangkok Thai Cuisine and got
+a yellow curry with tofu. I wore a KN95 mask for the trip.
