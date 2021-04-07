@@ -248,3 +248,8 @@ spinach masala dosa.
 
 In the afternoon, around 2 PM, I went to Bangkok Thai Cuisine and got
 a yellow curry with tofu. I wore a KN95 mask for the trip.
+
+## Wednesday April 7
+
+In the morning, around 7 AM, I went to Target to get dish soap to help
+clear a toilet clog. My self-checkout from Target was at 7:17 AM.
