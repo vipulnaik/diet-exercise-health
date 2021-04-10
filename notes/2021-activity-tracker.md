@@ -253,3 +253,9 @@ a yellow curry with tofu. I wore a KN95 mask for the trip.
 
 In the morning, around 7 AM, I went to Target to get dish soap to help
 clear a toilet clog. My self-checkout from Target was at 7:17 AM.
+
+## Friday April 9
+
+In the early afternoon I went to downtown Berkeley. I first completed
+grocery shopping at Trader Joe's. I checked out around 1:05 PM. I then
+went to Udupi Palace and ordered a spinach masala dosa.
