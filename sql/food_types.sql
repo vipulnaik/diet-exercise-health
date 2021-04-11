@@ -38,7 +38,7 @@ create table food_types(
   /* notes column */
   `notes` varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
-o
+
 insert into food_types(short_name, long_name, url, calories,
   /* fat-related columns */ total_fat_in_grams, saturated_fat_in_grams, trans_fat_in_grams, monounsaturated_fat_in_grams, polyunsaturated_fat_in_grams,
   /* cholesterol */ cholesterol_in_mg,
@@ -135,7 +135,7 @@ insert into food_types(short_name, long_name, url, calories,
   /* sodium and potassium (mostly from salts) */ 65,270,
   /* carbohydrate-related columns */ 8,3,5,
   /* protein-related columns */ 1,
-  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 1800,6,20,0.36,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 1800,6,0,20,0.36,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* notes */ 'The website did not specify number of servings per container, so I assumed it is 1 (that is consistent with the size as I remember it).'),
 
