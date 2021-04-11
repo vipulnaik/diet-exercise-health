@@ -239,8 +239,8 @@ finished at 9:36 AM.
 ### Evening trip to downtown Berkeley
 
 In the evening, I went to downtown Berkeley to buy groceries. I
-finished checkout at 5:30 PM. I then went to Udupi Palace and got a
-spinach masala dosa.
+finished checkout from Trader Joe's at 5:30 PM. I then went to Udupi
+Palace and got a spinach masala dosa.
 
 ## Tuesday April 6
 
