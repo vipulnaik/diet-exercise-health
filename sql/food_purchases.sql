@@ -77,5 +77,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-04-09','Beefsteak tomato',8), /* Could be anywhere 7 to 9 */
   ('2021-04-09','Green bell pepper',2),
   ('2021-04-09','Red bell pepper',2),
+  ('2021-04-09','TJ Sauerkraut',2),
   /* 2021-04-09 Udupi Palace */
   ('2021-04-09','Udupi Palace spinach masala dosa',1);
