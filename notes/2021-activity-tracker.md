@@ -259,3 +259,9 @@ clear a toilet clog. My self-checkout from Target was at 7:17 AM.
 In the early afternoon I went to downtown Berkeley. I first completed
 grocery shopping at Trader Joe's. I checked out around 1:05 PM. I then
 went to Udupi Palace and ordered a spinach masala dosa.
+
+## Tuesday April 13
+
+In the evening, around 5:16 PM to 5:40 PM, I made a trip to Bangkok
+Thai Cuisine to get a yellow curry with tofu, along with rice. I
+exited the restaurant at 5:30 PM.
