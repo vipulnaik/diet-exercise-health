@@ -265,3 +265,9 @@ went to Udupi Palace and ordered a spinach masala dosa.
 In the evening, around 5:16 PM to 5:40 PM, I made a trip to Bangkok
 Thai Cuisine to get a yellow curry with tofu, along with rice. I
 exited the restaurant at 5:30 PM.
+
+## Friday April 16
+
+In the evening, I went to downtown Berkeley. I first did grocery
+shopping at Trader Joe's, finishing checkout at 5:58 PM. I then went
+to Udupi Palace and got a spinach masala dosa.

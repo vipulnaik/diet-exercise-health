@@ -82,5 +82,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-04-09','Udupi Palace spinach masala dosa',1),
   /* 2021-04-13 Bangkok Thai Cuisine */
   ('2021-04-13','Bangkok Thai Cuisine yellow curry tofu',1),
-  ('2021-04-13','Bangkok Thai Cuisine white rice',1);
-
+  ('2021-04-13','Bangkok Thai Cuisine white rice',1),
+  /* 2021-04-16 (verified with receipt) */
+  ('2021-04-16','Beefsteak tomato',10),
+  ('2021-04-16','TJ Misal Curry',2),
+  ('2021-04-16','TJ Veg Biryani',6),
+  ('2021-04-16','Green bell pepper',2),
+  ('2021-04-16','Eggplant',2),
+  ('2021-04-16','TJ Carrots',1),
+  ('2021-04-16','Red bell pepper',2),
+  ('2021-04-16','TJ Baby Spinach',1),
+  ('2021-04-16','TJ Whole Wheat Wraps',3),
+  /* 2021-04-16 Udupi Palace */
+  ('2021-04-16','Udupi Palace spinach masala dosa',1);
