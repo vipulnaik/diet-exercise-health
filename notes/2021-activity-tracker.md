@@ -271,3 +271,9 @@ exited the restaurant at 5:30 PM.
 In the evening, I went to downtown Berkeley. I first did grocery
 shopping at Trader Joe's, finishing checkout at 5:58 PM. I then went
 to Udupi Palace and got a spinach masala dosa.
+
+## Tuesday April 20
+
+In the evening, I went to Mehak Indian Cuisine to pick up an online
+order. I was in the restaurant at around 6 PM. I wore a KN-95 mask
+while in the restaurant and for most of the trip.
