@@ -277,3 +277,9 @@ to Udupi Palace and got a spinach masala dosa.
 In the evening, I went to Mehak Indian Cuisine to pick up an online
 order. I was in the restaurant at around 6 PM. I wore a KN-95 mask
 while in the restaurant and for most of the trip.
+
+## Friday April 23
+
+In the morning, I went to Walgreens to buy toiletries. I enteered the
+store around 9:33 AM and finished checkout at 9:36 AM. I wore a KN95
+mask while in the store and on the way back.
