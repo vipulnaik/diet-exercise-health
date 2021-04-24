@@ -283,3 +283,11 @@ while in the restaurant and for most of the trip.
 In the morning, I went to Walgreens to buy toiletries. I enteered the
 store around 9:33 AM and finished checkout at 9:36 AM. I wore a KN95
 mask while in the store and on the way back.
+
+## Saturday April 24
+
+In the afternoon, I went to downtown Berkeley. My first trip was to
+Citibank, where I deposited a check and a money order and got $20
+worth of quarters. I then went to Trader Joe's to get groceries,
+finishing my checkat at 2:08 PM. Finally, I went to Udupi Palace and
+got a spinach masala dosa.
