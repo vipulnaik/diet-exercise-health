@@ -291,3 +291,9 @@ Citibank, where I deposited a check and a money order and got $20
 worth of quarters. I then went to Trader Joe's to get groceries,
 finishing my checkat at 2:08 PM. Finally, I went to Udupi Palace and
 got a spinach masala dosa.
+
+## Wednesday April 28
+
+In the early afternoon, I went to downtown Berkeley. I first went to
+Trader Joe's to buy groceries, finishing checkout at 12:40 PM. I then
+went to Udupi Palace where I got a spinach masala dosa.
