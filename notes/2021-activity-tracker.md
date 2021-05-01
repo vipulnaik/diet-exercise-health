@@ -280,9 +280,9 @@ while in the restaurant and for most of the trip.
 
 ## Friday April 23
 
-In the morning, I went to Walgreens to buy toiletries. I enteered the
-store around 9:33 AM and finished checkout at 9:36 AM. I wore a KN95
-mask while in the store and on the way back.
+In the morning, I went to the Walgreens at Gilman Street to buy
+toiletries. I entered the store around 9:33 AM and finished checkout
+at 9:36 AM. I wore a KN95 mask while in the store and on the way back.
 
 ## Saturday April 24
 
