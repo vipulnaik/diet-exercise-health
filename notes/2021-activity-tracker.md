@@ -297,3 +297,10 @@ got a spinach masala dosa.
 In the early afternoon, I went to downtown Berkeley. I first went to
 Trader Joe's to buy groceries, finishing checkout at 12:40 PM. I then
 went to Udupi Palace where I got a spinach masala dosa.
+
+## Saturday May 1
+
+In the morning I went to Walgreens at Gilman Street to buy some
+toiletries. I finished checkout at 9:50 AM. I wore a KN95 mask in the
+store but did not wear it for most of the outdoor journey to and from
+the store.
