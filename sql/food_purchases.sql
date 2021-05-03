@@ -121,4 +121,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-04-28','TJ Veg Biryani',5),
   ('2021-04-28','TJ Misal Curry',2),
   /* 2021-04-28 Udupi Palace */
-  ('2021-04-28','Udupi Palace spinach masala dosa',1);
+  ('2021-04-28','Udupi Palace spinach masala dosa',1),
+  /* 2021-05-02 Bangkok Thai Cuisine */
+    /* 2021-04-13 Bangkok Thai Cuisine */
+  ('2021-04-13','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2021-04-13','Bangkok Thai Cuisine white rice',1);

@@ -304,3 +304,10 @@ In the morning I went to Walgreens at Gilman Street to buy some
 toiletries. I finished checkout at 9:50 AM. I wore a KN95 mask in the
 store but did not wear it for most of the outdoor journey to and from
 the store.
+
+## Sunday May 2
+
+In the evening, around 6 PM, I went to Bangkok Thai Cuisine and got a
+yellow curry with tofu, along with wite rice. I wore my KN95 mask
+while inside, and also waited outside the restaurant for most of the
+duration.
