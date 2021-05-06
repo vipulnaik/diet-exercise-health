@@ -311,3 +311,9 @@ In the evening, around 6 PM, I went to Bangkok Thai Cuisine and got a
 yellow curry with tofu, along with wite rice. I wore my KN95 mask
 while inside, and also waited outside the restaurant for most of the
 duration.
+
+## Wednesday May 5
+
+In the evening I went to downtown Berkeley. I first bought groceries
+from Trader Joe's, finishing checkout at 5:25 PM. I then went to Udupi
+Palace and bought a spinach masala dosa.
