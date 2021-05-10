@@ -317,3 +317,10 @@ duration.
 In the evening I went to downtown Berkeley. I first bought groceries
 from Trader Joe's, finishing checkout at 5:25 PM. I then went to Udupi
 Palace and bought a spinach masala dosa.
+
+## Sunday May 9
+
+In the afternoon I went to Mehak Indian Cuisine to pick up an online
+order. I left my house around 1:55 PM and picked up the order around
+2:15 PM. I wore a KN95 mask in the restaurant and had minimal human
+contact during the trip.
