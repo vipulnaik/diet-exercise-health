@@ -5,7 +5,7 @@ create table food_purchases(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into food_purchases(purchase_date, food_type, quantity) values
-  /* 2021-03-10 (verified with receipt) */
+  /* 2021-03-10 Trader Joe's (verified with receipt) */
   ('2021-03-10','Beefsteak tomato',8),
   ('2021-03-10','TJ Baby Spinach',1),
   ('2021-03-10','TJ Whole Wheat Wraps',3),
@@ -17,7 +17,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-03-10','TJ Misal Curry',2),
   /* 2021-03-10 Udupi Palace */
   ('2021-03-10','Udupi Palace spinach masala dosa',1),
-  /* 2021-03-17 (verified with receipt) */
+  /* 2021-03-17 Trader Joe's (verified with receipt) */
   ('2021-03-17','TJ Veg Biryani',5),
   ('2021-03-17','TJ Misal Curry',2),
   ('2021-03-17','TJ Whole Wheat Wraps',3),
@@ -42,7 +42,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-03-22','Udupi Palace spinach masala dosa',1),
   /* 2021-03-25 Mehak Indian Cuisine */
   ('2021-03-25','Mehak Indian Cuisine standard set',1),
-  /* 2021-03-29 (verified with receipt) */
+  /* 2021-03-29 Trader Joe's (verified with receipt) */
   ('2021-03-29','TJ Veg Biryani',5),
   ('2021-03-29','TJ Misal Curry',2),
   ('2021-03-29','TJ Almond Milk',1),
@@ -56,7 +56,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-03-29','Orange bell pepper',2),
   /* 2021-03-29 Udupi Palace */
   ('2021-03-29','Udupi Palace spinach masala dosa',1),
-  /* 2021-04-03 (verified with receipt) */
+  /* 2021-04-03 Trader Joe's (verified with receipt) */
   ('2021-04-03','TJ Almond Milk',1),
   ('2021-04-03','Trader Giotto''s Olive Oil',2),
   ('2021-04-03','TJ Sauerkraut',1),
@@ -83,7 +83,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-04-13 Bangkok Thai Cuisine */
   ('2021-04-13','Bangkok Thai Cuisine yellow curry tofu',1),
   ('2021-04-13','Bangkok Thai Cuisine white rice',1),
-  /* 2021-04-16 (verified with receipt) */
+  /* 2021-04-16 Trader Joe's (verified with receipt) */
   ('2021-04-16','Beefsteak tomato',10),
   ('2021-04-16','TJ Misal Curry',2),
   ('2021-04-16','TJ Veg Biryani',6),
@@ -97,7 +97,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-04-16','Udupi Palace spinach masala dosa',1),
   /* 2021-04-20 Mehak Indian Cuisine */
   ('2021-04-20','Mehak Indian Cuisine standard set',1),
-  /* 2021-04-24 (verified with receipt) */
+  /* 2021-04-24 Trader Joe's (verified with receipt) */
   ('2021-04-24','TJ Almond Milk',1),
   ('2021-04-24','TJ Veg Biryani',6),
   ('2021-04-24','TJ Misal Curry',2),
@@ -111,7 +111,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-04-24','TJ Baby Spinach',1),
   /* 2021-04-24 Udupi Palace */
   ('2021-04-24','Udupi Palace spinach masala dosa',1),
-  /* 2021-04-28 (verified with receipt) */
+  /* 2021-04-28 Trader Joe's (verified with receipt) */
   ('2021-04-28','TJ Almond Milk',1),
   ('2021-04-28','TJ Whole Wheat Wraps',2),
   ('2021-04-28','Red bell pepper',2),
@@ -125,7 +125,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-05-02 Bangkok Thai Cuisine */
   ('2021-04-13','Bangkok Thai Cuisine yellow curry tofu',1),
   ('2021-04-13','Bangkok Thai Cuisine white rice',1),
-  /* 2021-05-05 (verified with receipt) */
+  /* 2021-05-05 Trader Joe's (verified with receipt) */
   ('2021-05-05','TJ Carrots',1),
   ('2021-05-05','TJ Whole Wheat Wraps',2),
   ('2021-05-05','Beefsteak tomato',8),
@@ -138,6 +138,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-05-05 Udupi Palace */
   ('2021-05-05','Udupi Palace spinach masala dosa',1),
   /* 2021-05-09 Mehak Indian Cuisine */
-  ('2021-05-09','Mehak Indian Cuisine standard set',1);
-
-
+  ('2021-05-09','Mehak Indian Cuisine standard set',1),
+  /* 2021-05-13 Trader Joe's */
+  ('2021-05-13','TJ Veg Biryani',6),
+  ('2021-05-13','TJ Misal Curry',2),
+  ('2021-05-13','TJ Almond Milk',1),
+  ('2021-05-13','TJ Baby Spinach',1),
+  ('2021-05-13','TJ Whole Wheat Wraps',3),
+  ('2021-05-13','Eggplant',2),
+  ('2021-05-13','TJ Carrots',1),
+  ('2021-05-13','Red bell pepper',2),
+  ('2021-05-13','Green bell pepper',2),
+  ('2021-05-13','Beefsteak tomato',8);
