@@ -149,4 +149,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-05-13','TJ Carrots',1),
   ('2021-05-13','Red bell pepper',2),
   ('2021-05-13','Green bell pepper',2),
-  ('2021-05-13','Beefsteak tomato',8);
+  ('2021-05-13','Beefsteak tomato',8),
+  /* 2021-05-16 Udupi Palace */
+  ('2021-05-16','Udupi Palace spring dosa',1),
+  /* 2021-05-16 Trader Joe's (verified with receipt) */
+  ('2021-05-16','Red bell pepper',2),
+  ('2021-05-16','Orange bell pepper',2),
+  ('2021-05-16','TJ Whole Wheat Wraps',2),
+  ('2021-05-16','Beefsteak tomato',8),
+  ('2021-05-16','Eggplant',2);
+
+  
