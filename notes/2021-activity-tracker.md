@@ -330,3 +330,9 @@ contact during the trip.
 In the evening I went to downtown Berkeley. I first visited Trader
 Joe's for groceries; I checked out at 6:06 PM. I then went to Udupi
 Palace and got a spinach masala dosa.
+
+## Sunday May 16
+
+In the evening I went to downtown Berkeley. I first visited Trader
+Joe's for groceries; I checked out at 5:20 PM. I then went to Udupi
+Palace and got a spring dosa.
