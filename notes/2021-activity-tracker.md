@@ -336,3 +336,10 @@ Palace and got a spinach masala dosa.
 In the evening I went to downtown Berkeley. I first visited Trader
 Joe's for groceries; I checked out at 5:20 PM. I then went to Udupi
 Palace and got a spring dosa.
+
+## Wednesday May 19
+
+In the late afternoon, I went to downtown Berkeley. I first went to
+Citibank for some financial transactions. I finished at 4:02 PM. I
+then went to Trader Joe's to get groceries, finishing checkout at 4:14
+PM. I then went to Udupi Palace and got a spinach masala dosa.
