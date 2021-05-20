@@ -157,6 +157,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-05-16','Orange bell pepper',2),
   ('2021-05-16','TJ Whole Wheat Wraps',2),
   ('2021-05-16','Beefsteak tomato',8),
-  ('2021-05-16','Eggplant',2);
+  ('2021-05-16','Eggplant',2),
+  /* 2021-05-19 Udupi Palace */
+  ('2021-05-05','Udupi Palace spinach masala dosa',1),
+  /* 2021-05-19 Trader Joe's (verified with receipt) */
+  ('2021-05-19','TJ Misal Curry',4),
+  ('2021-05-19','TJ Veg Biryani',6),
+  ('2021-05-19','TJ Sauerkraut',3);
 
-  
