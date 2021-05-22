@@ -325,6 +325,11 @@ order. I left my house around 1:55 PM and picked up the order around
 2:15 PM. I wore a KN95 mask in the restaurant and had minimal human
 contact during the trip.
 
+## Wednesday May 12
+
+In the evening I went to the Laundry Room (a laundromat on San Pablo
+Avenue) to do my regular laundry. I was in there at around 5:30 PM.
+
 ## Thursday May 13
 
 In the evening I went to downtown Berkeley. I first visited Trader
@@ -343,3 +348,14 @@ In the late afternoon, I went to downtown Berkeley. I first went to
 Citibank for some financial transactions. I finished at 4:02 PM. I
 then went to Trader Joe's to get groceries, finishing checkout at 4:14
 PM. I then went to Udupi Palace and got a spinach masala dosa.
+
+## Friday May 21
+
+In the evening I went to the Laundry Room (a laundromat on San Pablo
+Avenue) to do my heavy laundry.
+
+## Saturday May 22
+
+In the afternoon I went to the Laundy Room (a laundromat on San Pablo
+Avenue) to do my regular laundry. I was in there around 3 PM to 3:30
+PM.
