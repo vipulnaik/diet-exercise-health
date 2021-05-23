@@ -359,3 +359,9 @@ Avenue) to do my heavy laundry.
 In the afternoon I went to the Laundy Room (a laundromat on San Pablo
 Avenue) to do my regular laundry. I was in there around 3 PM to 3:30
 PM.
+
+Later in the evening I went to downtown Berkeley. I first went to Ace
+Hardware to buy trash bags, finishing checkout at 4:37 PM. After that,
+I went to Trader Joe's to buy groceries, finishing checkout at 4:51
+PM. I finally went to Udupi Palace and got a takeout of spinach masala
+dosa.
