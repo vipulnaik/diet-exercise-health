@@ -365,3 +365,24 @@ Hardware to buy trash bags, finishing checkout at 4:37 PM. After that,
 I went to Trader Joe's to buy groceries, finishing checkout at 4:51
 PM. I finally went to Udupi Palace and got a takeout of spinach masala
 dosa.
+
+## Wednesday May 26
+
+In the afternoon I went to the Goodwill on 67th Street in North
+Oakland to try to dump my clothes (walking both ways). I left my home
+around 1:15 PM and got back around 3 PM. I arrived five minutes after
+the donation station closed (2:05 PM versus 2 PM) so was unable to
+dump my clothes. On the way back, I took a peek and a photo of my old
+residence.
+
+I had minimal human contact in the trip.
+
+## Thursday May 27
+
+### Afternoon dumping trip
+
+In the afternoon (leaving home shortly after noon) I went to the
+Goodwill on 67th Street in North Oakland to dump my clothes. I
+finished the dumping at 12:55 PM and then went to Photolab at 2235 5th
+Street where I donated an old camera (around 1:35 PM). I got back home
+around 2 PM.
