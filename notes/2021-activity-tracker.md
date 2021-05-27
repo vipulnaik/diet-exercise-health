@@ -386,3 +386,17 @@ Goodwill on 67th Street in North Oakland to dump my clothes. I
 finished the dumping at 12:55 PM and then went to Photolab at 2235 5th
 Street where I donated an old camera (around 1:35 PM). I got back home
 around 2 PM.
+
+### Evening COVID shot trip
+
+In the early evening, I went to get my COVID shot. I left my home
+around 2:55 PM, entered the BART station around 3 PM, took the
+Berryessa-bound train around 3:14 PM, and exited MacArthur station
+around 3:22 PM. I arrived at the Safeway Pharmacy at 3889 San Pablo
+Avenue at around 3:40 PM.
+
+I submitted my vaccine sheet, showed my state ID card, and showed my
+BlueShield ID card. The nurse injected me with the Pfizer shot.
+
+I was asked to wait for 15 minutes before leaving to monitor for any
+adverse effects.
