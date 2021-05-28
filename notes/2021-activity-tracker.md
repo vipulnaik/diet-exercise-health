@@ -387,7 +387,7 @@ finished the dumping at 12:55 PM and then went to Photolab at 2235 5th
 Street where I donated an old camera (around 1:35 PM). I got back home
 around 2 PM.
 
-### Evening COVID shot trip
+### Evening COVID shot trip followed by downtown Berkeley trip
 
 In the early evening, I went to get my COVID shot. I left my home
 around 2:55 PM, entered the BART station around 3 PM, took the
@@ -400,3 +400,8 @@ BlueShield ID card. The nurse injected me with the Pfizer shot.
 
 I was asked to wait for 15 minutes before leaving to monitor for any
 adverse effects.
+
+I left and rode the BART back from MacArthur. I got down at the
+downtown Berkeley BART, then went to Trader Joe's for grocery
+shopping, finishing checkout at 5:05 PM. Finally, I went to Udupi
+Palace and got a spinach masala dosa.
