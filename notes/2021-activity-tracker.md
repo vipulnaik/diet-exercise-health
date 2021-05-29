@@ -405,3 +405,11 @@ I left and rode the BART back from MacArthur. I got down at the
 downtown Berkeley BART, then went to Trader Joe's for grocery
 shopping, finishing checkout at 5:05 PM. Finally, I went to Udupi
 Palace and got a spinach masala dosa.
+
+## Friday May 28
+
+Around 3:20 PM, I headed out to the e-waste recycling center at 620
+Page Street where I disposed of some electronics. I then went to the
+Berkeley Recycling Center at 2nd and Gilman Street, but I arrived
+around 4:20 PM and the center closes at 4 PM. I got back home a little
+before 5 PM.
