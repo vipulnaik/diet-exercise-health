@@ -413,3 +413,14 @@ Page Street where I disposed of some electronics. I then went to the
 Berkeley Recycling Center at 2nd and Gilman Street, but I arrived
 around 4:20 PM and the center closes at 4 PM. I got back home a little
 before 5 PM.
+
+## Saturday May 29
+
+### Afternoon trip for e-waste disposal
+
+In the afternoon, I went to San Francisco for e-waste disposal. At
+around 2 PM, I took the BART from North Berkeley to 16th Street /
+Mission. I then went to eWasteSF and dropped off CDs/DVDs, wires, and
+my old cellphone. I then went to Pakwan and placed an order at 2:52
+PM. I waited outside the restaurant. When the order was ready, I
+headed back to thee 16th Street / Mission BART and headed home.
