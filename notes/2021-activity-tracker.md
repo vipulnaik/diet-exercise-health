@@ -424,3 +424,9 @@ Mission. I then went to eWasteSF and dropped off CDs/DVDs, wires, and
 my old cellphone. I then went to Pakwan and placed an order at 2:52
 PM. I waited outside the restaurant. When the order was ready, I
 headed back to thee 16th Street / Mission BART and headed home.
+
+### Evening trip for laundry
+
+In the evening, around 7 PM, I went to the Laundry Room on San Pablo
+Avenue to wash my laundry. I started the load at around 7:13 PM. The
+load took 25 minutes. After it was done I headed back home.
