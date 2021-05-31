@@ -182,5 +182,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-05-27 Trader Joe's (verified with receipt) */
   ('2021-05-27','TJ Misal Curry',4),
   ('2021-05-27','TJ Veg Biryani',2),
-  ('2021-05-27','TJ Whole Wheat Wraps',2);
+  ('2021-05-27','TJ Whole Wheat Wraps',2),
+  /* 2021-05-29 Pakwan */
+  ('2021-05-29','Pakwan meal set (2 basmati rices; dal, chana aloo, aloo sag, mixed veg curry)',1);
 
