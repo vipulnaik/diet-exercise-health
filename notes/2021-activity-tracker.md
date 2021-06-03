@@ -430,3 +430,9 @@ headed back to thee 16th Street / Mission BART and headed home.
 In the evening, around 7 PM, I went to the Laundry Room on San Pablo
 Avenue to wash my laundry. I started the load at around 7:13 PM. The
 load took 25 minutes. After it was done I headed back home.
+
+## Wednesday June 2
+
+In the evening, I went to downtown Berkeley. I first went to Trader
+Joe's and bought groceries, finishing checkout at 5:02 PM. I then went
+to Udupi Palace and got a spinach masala dosa.
