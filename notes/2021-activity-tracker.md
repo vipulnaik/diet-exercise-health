@@ -436,3 +436,14 @@ load took 25 minutes. After it was done I headed back home.
 In the evening, I went to downtown Berkeley. I first went to Trader
 Joe's and bought groceries, finishing checkout at 5:02 PM. I then went
 to Udupi Palace and got a spinach masala dosa.
+
+## Thursday June 3
+
+In the late afternoon, I took a trip. I first went to the Berkeley
+Recycling Center to drop off a light bulb. They did not accept broken
+light bulbs, so I trashed it. On the way back, I went to the Walgreens
+at Gilman Street and bought various toiletries, finishing checkout at
+3:35 PM.
+
+I wore my KN95 mask while inside the Recycling Center and inside the
+Walgreens but not for most of the trip.
