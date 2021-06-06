@@ -447,3 +447,13 @@ at Gilman Street and bought various toiletries, finishing checkout at
 
 I wore my KN95 mask while inside the Recycling Center and inside the
 Walgreens but not for most of the trip.
+
+## Saturday June 5
+
+In the late afternoon / early evening, I went to downtown Berkeley. My
+first stop was at Trader Joe's for grocery shopping. I finished
+checkout at 4:12 PM. I then went to Udupi Palace and got a spinach
+masala dosa.
+
+I wore my KN95 mask while in the downtown Berkeley area but not for
+most of the trip walking back and forth.
