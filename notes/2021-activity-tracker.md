@@ -457,3 +457,12 @@ masala dosa.
 
 I wore my KN95 mask while in the downtown Berkeley area but not for
 most of the trip walking back and forth.
+
+## Sunday June 6
+
+In the evening, I went to the Laundry Room, a laundromat on Sacramento
+Street, to do my heavy laundry (sheets etc.). I used the washer
+between around 5:50 PM and 6:15 PM.
+
+I wore a KN95 mask while in the laundromat and while walking to and
+from it on Sacramento Street, but not during the rest of my journey.
