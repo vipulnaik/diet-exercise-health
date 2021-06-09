@@ -466,3 +466,10 @@ between around 5:50 PM and 6:15 PM.
 
 I wore a KN95 mask while in the laundromat and while walking to and
 from it on Sacramento Street, but not during the rest of my journey.
+
+## Wednesday June 9
+
+In the afternoon, I went to downtown Berkeley. I first went to
+Citibank to do some financial transactions. I finished at 2:02 PM. I
+then went to Trader Joe's to get groceries, finishing checkout at 2:14
+PM. Finally, I went to Udupi Palace and got a spinach masala dosa.
