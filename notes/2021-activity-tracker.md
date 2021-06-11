@@ -473,3 +473,11 @@ In the afternoon, I went to downtown Berkeley. I first went to
 Citibank to do some financial transactions. I finished at 2:02 PM. I
 then went to Trader Joe's to get groceries, finishing checkout at 2:14
 PM. Finally, I went to Udupi Palace and got a spinach masala dosa.
+
+## Thursday June 10
+
+In the evening, I went to the Laundry Room, a laundromat on Sacramento
+Street, to do my regular laundry. I started at around 7:35 PM. I took
+the load out a little after 8 PM. I wore a KN95 mask while in the
+laundromat and while walking on Sacramento Street, but not for the
+rest of the journey.
