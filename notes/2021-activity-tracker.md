@@ -460,12 +460,12 @@ most of the trip walking back and forth.
 
 ## Sunday June 6
 
-In the evening, I went to the Laundry Room, a laundromat on Sacramento
-Street, to do my heavy laundry (sheets etc.). I used the washer
+In the evening, I went to the Laundry Room, a laundromat on San Pablo
+Avenue, to do my heavy laundry (sheets etc.). I used the washer
 between around 5:50 PM and 6:15 PM.
 
 I wore a KN95 mask while in the laundromat and while walking to and
-from it on Sacramento Street, but not during the rest of my journey.
+from it on San Pablo Avenue, but not during the rest of my journey.
 
 ## Wednesday June 9
 
@@ -476,8 +476,8 @@ PM. Finally, I went to Udupi Palace and got a spinach masala dosa.
 
 ## Thursday June 10
 
-In the evening, I went to the Laundry Room, a laundromat on Sacramento
-Street, to do my regular laundry. I started at around 7:35 PM. I took
+In the evening, I went to the Laundry Room, a laundromat on San Pablo
+Avenue, to do my regular laundry. I started at around 7:35 PM. I took
 the load out a little after 8 PM. I wore a KN95 mask while in the
-laundromat and while walking on Sacramento Street, but not for the
+laundromat and while walking on San Pablo Avenue, but not for the
 rest of the journey.
