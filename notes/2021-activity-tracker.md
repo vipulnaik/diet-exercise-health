@@ -494,3 +494,11 @@ In the early afternoon, I went to Mehak Indian Cuisine to pick up an
 online order. I was in the restaurant around 1:20 PM, for a few
 minutes. I wore a KN95 mask while in the restaurant but not for most
 of the journey.
+
+### Friday June 18
+
+In the evening, I went to the Laundry Room, a laundromat on San Pablo
+Avenue, to do my heavy laundry. I started at around 4:55 PM. I took
+the load out at around 5:25 PM. I wore a KN95 mask while in the
+laundromat and while walking on San Pablo Avenue, but not for the rest
+of the journey.
