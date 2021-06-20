@@ -233,4 +233,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-06-12 Udupi Palace */
   ('2021-06-12','Udupi Palace spinach masala dosa',1),
   /* 2021-06-15 Mehak Indian Cuisine */
-  ('2021-06-15','Mehak Indian Cuisine standard set',1);
+  ('2021-06-15','Mehak Indian Cuisine standard set',1),
+  /* 2021-06-19 Trader Joe's (verified with receipt) */
+  ('2021-06-19','TJ Misal Curry',4),
+  ('2021-06-19','TJ Veg Biryani',3),
+  ('2021-06-19','TJ Carrots',1),
+  ('2021-06-19','TJ Baby Spinach',1),
+  ('2021-06-19','TJ Whole Wheat Wraps',2),
+  ('2021-06-19','Red bell pepper',2),
+  ('2021-06-19','Beefsteak tommato',7),
+  ('2021-06-19','Eggplant',2),
+  ('2021-06-19','Green bell pepper',2),
+  /* 2021-06-19 Udupi Palace */
+  ('2021-06-19','Udupi Palace spinach masala dosa',1);
