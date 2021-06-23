@@ -509,3 +509,11 @@ In the evening, I went to downtown Berkeley. I first went to Trader
 Joe's and bought groceries. I finished checkout at 4:11 PM. I then
 went to Udupi Palace and got a spinach masala dosa. I wore a KN95 mask
 while in downtown Berkeley.
+
+## Tuesday June 22
+
+In the evening, I went to the Laundry Room, a laundromat on San Pablo
+Avenue, to do my regular laundry. I started at around 4:30 PM. I took
+the load out at around 5:05 PM. I wore a KN95 mask while in the
+laundromat and while walking on San Pablo Avenue, but not for the rest
+of the journey.
