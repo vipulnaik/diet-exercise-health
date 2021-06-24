@@ -524,3 +524,10 @@ In the afternoon I went to downtown Berkeley. I first went to Trader
 Joe's where I bought groceries. I then went to Udupi Palace and got a
 spinach masala dosa. I wore a KN95 mask while in downtown Berkeley and
 on the way back.
+
+## Thursday June 24
+
+In the afternoon I went to downtown Berkeley. I got a few items from
+Ace Hardware. I paid by cash and finished checkout at 2:07 PM. I wore
+a surgical mask while in the store and most of the downtown area but
+not for the rest of the journey.
