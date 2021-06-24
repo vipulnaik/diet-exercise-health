@@ -517,3 +517,10 @@ Avenue, to do my regular laundry. I started at around 4:30 PM. I took
 the load out at around 5:05 PM. I wore a KN95 mask while in the
 laundromat and while walking on San Pablo Avenue, but not for the rest
 of the journey.
+
+## Wednesday June 23
+
+In the afternoon I went to downtown Berkeley. I first went to Trader
+Joe's where I bought groceries. I then went to Udupi Palace and got a
+spinach masala dosa. I wore a KN95 mask while in downtown Berkeley and
+on the way back.
