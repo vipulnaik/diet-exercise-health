@@ -396,10 +396,12 @@ around 3:22 PM. I arrived at the Safeway Pharmacy at 3889 San Pablo
 Avenue at around 3:40 PM.
 
 I submitted my vaccine sheet, showed my state ID card, and showed my
-BlueShield ID card. The nurse injected me with the Pfizer shot.
+BlueShield ID card. The nurse injected me with the Pfizer shot (I
+selected Pfizer among all the options available: Pfizer, Moderna, and
+Johnson & Johnson).
 
 I was asked to wait for 15 minutes before leaving to monitor for any
-adverse effects.
+adverse effects. I did not notice any adverse effects.
 
 I left and rode the BART back from MacArthur. I got down at the
 downtown Berkeley BART, then went to Trader Joe's for grocery
@@ -407,6 +409,16 @@ shopping, finishing checkout at 5:05 PM. Finally, I went to Udupi
 Palace and got a spinach masala dosa.
 
 ## Friday May 28
+
+### Mental and physical state in the morning
+
+Althouhg I experienced a slightly higher general level of physical
+fatigue than usual this morning, it's not clear how much of this was
+due to the Pfizer COVID shot and how much of this was due to the huge
+amount of walking I had done in the past few days. Mentally, I was as
+sharp as ever.
+
+### Afternoon trip
 
 Around 3:20 PM, I headed out to the e-waste recycling center at 620
 Page Street where I disposed of some electronics. I then went to the
