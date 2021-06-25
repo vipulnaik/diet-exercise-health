@@ -423,7 +423,7 @@ around 2 PM, I took the BART from North Berkeley to 16th Street /
 Mission. I then went to eWasteSF and dropped off CDs/DVDs, wires, and
 my old cellphone. I then went to Pakwan and placed an order at 2:52
 PM. I waited outside the restaurant. When the order was ready, I
-headed back to thee 16th Street / Mission BART and headed home.
+headed back to the 16th Street / Mission BART and headed home.
 
 ### Evening trip for laundry
 
