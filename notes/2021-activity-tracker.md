@@ -579,6 +579,8 @@ relieved as I was worried that I hadn't even gotten injected!
 
 ## Saturday June 26
 
+### Monitoring for effects of yesterday's COVID vaccine
+
 I felt fine in the morning; very slight soreness continued and a
 general slight physical fatigue and small aches (the kind you get
 after extensive exercise). My temperature was 98.8 degrees
@@ -588,3 +590,9 @@ energy to fighting the pseudovirus.
 
 When I actually went to run, I did in fact run a little bit but at the
 lower end of usual; I walked around as much as usual though.
+
+At 11:10 AM I took my temperature again and noticed that it had
+increased to 99.4 degrees Fahrenheit, which is trending toward a
+fever. The temperature roughly matches my subjective state; I have a
+perception of being somewhat hotter than usual, but not to the point
+where it's causing me discomfort.
