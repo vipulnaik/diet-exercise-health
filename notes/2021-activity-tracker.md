@@ -546,12 +546,15 @@ not for the rest of the journey.
 
 ## Friday June 25
 
-In the evening I went to get my COVID shot. I left my home around 4:05
-PM and arrived at the North Berkeley BART at around 4:13 PM. I took
-the BART train at around 4:25 PM and arrived at MacArthur around 4:35
-PM. I then walked to the Safeway Pharmacy at 3889 San Pablo Avenue,
-arriving there at around 4:52 PM. I submitted my paperwork at 5 PM and
-then got my Pfizer second dose COVID vaccine at 5:05 PM.
+In the evening I went to get my COVID shot. My temperature before
+leaving was 98.3 degrees Fahrenheit.
+
+I left my home around 4:05 PM and arrived at the North Berkeley BART
+at around 4:13 PM. I took the BART train at around 4:25 PM and arrived
+at MacArthur around 4:35 PM. I then walked to the Safeway Pharmacy at
+3889 San Pablo Avenue, arriving there at around 4:52 PM. I submitted
+my paperwork at 5 PM and then got my Pfizer second dose COVID vaccine
+at 5:05 PM.
 
 The dose felt very quick and the prick felt very light to me compared
 to flu shots I've had. I asked the pharmacist, Maggie, who said it
@@ -565,3 +568,20 @@ North Berkeley BART at around 6 PM, and got home a few minutes later.
 
 I wore a new KN95 mask while in BART and while in Safeway, but not for
 the entire journey walking back and forth.
+
+My temperature upon my return was 98.6 degreess Fahrenheit.
+
+I felt perfectly fine but started getting sleepy a little earlier,
+which may be related to the vaccine or may be because I slept late the
+previous night; in any case I went to sleep around 9 PM. I had a
+slight soreness in my arm while sleeping, which actually made me
+relieved as I was worried that I hadn't even gotten injected!
+
+## Saturday June 26
+
+I felt fine in the morning; very slight soreness continued and a
+general slight physical fatigue and small aches (the kind you get
+after extensive exercise). My temperature was 98.8 degrees
+Fahrenheit. I decided I will not run too much this morning, because
+even thouh I'm feeling fine so far I might need to direct more of my
+energy to fighting the pseudovirus.
