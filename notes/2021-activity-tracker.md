@@ -596,3 +596,7 @@ increased to 99.4 degrees Fahrenheit, which is trending toward a
 fever. The temperature roughly matches my subjective state; I have a
 perception of being somewhat hotter than usual, but not to the point
 where it's causing me discomfort.
+
+At 11:54 AM I took another reading and got 100.0 degrees Fahrenheit. I
+was not feeling subjectively worse than at the time of my previous
+reading (in fact, if anything, I was feeling a bit better).
