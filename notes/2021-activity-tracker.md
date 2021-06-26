@@ -583,5 +583,8 @@ I felt fine in the morning; very slight soreness continued and a
 general slight physical fatigue and small aches (the kind you get
 after extensive exercise). My temperature was 98.8 degrees
 Fahrenheit. I decided I will not run too much this morning, because
-even thouh I'm feeling fine so far I might need to direct more of my
+even though I'm feeling fine so far I might need to direct more of my
 energy to fighting the pseudovirus.
+
+When I actually went to run, I did in fact run a little bit but at the
+lower end of usual; I walked around as much as usual though.
