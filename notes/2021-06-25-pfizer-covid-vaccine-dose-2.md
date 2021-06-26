@@ -17,6 +17,8 @@ Time (may be approximate) | Context | Reading in degrees Fahrenheit
 2021-06-26 11:54 AM | Periodic check to see if I'm still hot | 100.0
 2021-06-26 12:30 PM | Check after clearing my bowels | 99.3
 2021-06-26 1:52 PM | Periodic check to see if I'm still hot | 99.5
+2021-06-26 3:25 PM | Periodic check to see if I'm still hot | 99.5
+2021-06-26 4:29 PM | Periodic check to see if I'm still hot | 99.1
 
 ## Friday June 25
 
@@ -86,3 +88,6 @@ Fahrenheit.
 
 I took another reading at 1:52 PM and got 99.5 degrees Fahrenheit; I
 wasn't feeling meaningfully different since my previous reading.
+
+A further reading at 3:25 PM came to 99.5 degrees Fahrenheit and
+another reading at 4:29 PM came to 99.1 degrees Fahrenheit.
