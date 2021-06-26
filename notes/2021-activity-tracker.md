@@ -569,7 +569,7 @@ North Berkeley BART at around 6 PM, and got home a few minutes later.
 I wore a new KN95 mask while in BART and while in Safeway, but not for
 the entire journey walking back and forth.
 
-My temperature upon my return was 98.6 degreess Fahrenheit.
+My temperature upon my return was 98.6 degrees Fahrenheit.
 
 I felt perfectly fine but started getting sleepy a little earlier,
 which may be related to the vaccine or may be because I slept late the
@@ -581,33 +581,7 @@ relieved as I was worried that I hadn't even gotten injected!
 
 ### Monitoring for effects of yesterday's COVID vaccine
 
-I felt fine in the morning; very slight soreness continued and a
-general slight physical fatigue and small aches (the kind you get
-after extensive exercise). My temperature was 98.8 degrees
-Fahrenheit. I decided I will not run too much this morning, because
-even though I'm feeling fine so far I might need to direct more of my
-energy to fighting the pseudovirus.
-
-I had only a partial bowel movement in the morning. While it's not
-clear that this was caused by the vaccine, it is rare enough (happens
-less than once a month) that I think the vaccine may have played a
-role. Rough theory: my body diverted resources from food processing to
-fighting the pseudovirus.
-
-When I actually went to run, I did in fact run a little bit but at the
-lower end of usual; I walked around as much as usual though.
-
-At 11:10 AM I took my temperature again and noticed that it had
-increased to 99.4 degrees Fahrenheit, which is trending toward a
-fever. The temperature roughly matches my subjective state; I have a
-perception of being somewhat hotter than usual, but not to the point
-where it's causing me discomfort.
-
-At 11:54 AM I took another reading and got 100.0 degrees Fahrenheit. I
-was not feeling subjectively worse than at the time of my previous
-reading (in fact, if anything, I was feeling a bit better).
-
-A little before 12:30 PM I cleared my bowels a second time, this time
-reaching a feeling of completeness. After finishing, I took another
-temperature reading at around 12:30 PM; it came to 99.3 degrees
-Fahrenheit.
+See
+[2021-06-25-pfizer-covid-vaccine-dose-2.md](2021-06-25-pfizer-covid-vaccine-dose-2.md)
+for details. The TL;DR is that I had a slight temperature increase and
+slight aches, but little impact on my mental acuity and little pain.
