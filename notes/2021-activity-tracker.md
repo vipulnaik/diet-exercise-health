@@ -560,7 +560,7 @@ the dose volume for the Pfizer COVID shot is smaller than for flu
 shots.
 
 I waited in the pharmacy till about 5:20 PM (15-minute observation
-period). I feelt fine, so I left. I took the BART back and arrived at
+period). I felt fine, so I left. I took the BART back and arrived at
 North Berkeley BART at around 6 PM, and got home a few minutes later.
 
 I wore a new KN95 mask while in BART and while in Safeway, but not for
