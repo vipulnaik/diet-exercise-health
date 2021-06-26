@@ -543,3 +543,25 @@ In the afternoon I went to downtown Berkeley. I got a few items from
 Ace Hardware. I paid by cash and finished checkout at 2:07 PM. I wore
 a surgical mask while in the store and most of the downtown area but
 not for the rest of the journey.
+
+## Friday June 25
+
+In the evening I went to get my COVID shot. I left my home around 4:05
+PM and arrived at the North Berkeley BART at around 4:13 PM. I took
+the BART train at around 4:25 PM and arrived at MacArthur around 4:35
+PM. I then walked to the Safeway Pharmacy at 3889 San Pablo Avenue,
+arriving there at around 4:52 PM. I submitted my paperwork at 5 PM and
+then got my Pfizer second dose COVID vaccine at 5:05 PM.
+
+The dose felt very quick and the prick felt very light to me compared
+to flu shots I've had. I asked the pharmacist, Maggie, who said it
+depends on the pharmacist's skill (ouch). But she also mentioned that
+the dose volume for the Pfizer COVID shot is smaller than for flu
+shots.
+
+I waited in the pharmacy till about 5:20 PM (15-minute observation
+period). I feelt fine, so I left. I took the BART back and arrived at
+North Berkeley BART at around 6 PM, and got home a few minutes later.
+
+I wore a new KN95 mask while in BART and while in Safeway, but not for
+the entire journey walking back and forth.
