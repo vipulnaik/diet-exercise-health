@@ -588,6 +588,12 @@ Fahrenheit. I decided I will not run too much this morning, because
 even though I'm feeling fine so far I might need to direct more of my
 energy to fighting the pseudovirus.
 
+I had only a partial bowel movement in the morning. While it's not
+clear that this was caused by the vaccine, it is rare enough (happens
+less than once a month) that I think the vaccine may have played a
+role. Rough theory: my body diverted resources from food processing to
+fighting the pseudovirus.
+
 When I actually went to run, I did in fact run a little bit but at the
 lower end of usual; I walked around as much as usual though.
 
@@ -600,3 +606,8 @@ where it's causing me discomfort.
 At 11:54 AM I took another reading and got 100.0 degrees Fahrenheit. I
 was not feeling subjectively worse than at the time of my previous
 reading (in fact, if anything, I was feeling a bit better).
+
+A little before 12:30 PM I cleared my bowels a second time, this time
+reaching a feeling of completeness. After finishing, I took another
+temperature reading at around 12:30 PM; it came to 99.3 degrees
+Fahrenheit.
