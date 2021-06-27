@@ -20,6 +20,8 @@ Time (may be approximate) | Context | Reading in degrees Fahrenheit
 2021-06-26 3:25 PM | Periodic check to see if I'm still hot | 99.5
 2021-06-26 4:29 PM | Periodic check to see if I'm still hot | 99.1
 2021-06-26 6:12 PM | Periodic check to see if I'm still hot | 100.8, 101.9, 101.8, 101.3
+2021-06-26 7:26 PM | Periodic check to see if I'm still hot | 101.6
+2021-06-26 8:04 PM | Periodic check to see if I'm still hot | 100.3
 
 ## Friday June 25
 
@@ -97,3 +99,6 @@ At 6:12 PM I took a reading four times. I got values of 100.8, 101.9,
 101.8, and 101.3 degrees Fahrenheit, even though I actually felt
 better than I had felt in the morning when I first started feeling
 hot.
+
+A reading at 7:26 PM came to 101.6 degrees Fahrenheit and a reading
+at 8:04 PM came to 100.3 degrees Fahrenheit.
