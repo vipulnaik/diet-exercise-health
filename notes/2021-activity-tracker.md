@@ -533,9 +533,9 @@ of the journey.
 ## Wednesday June 23
 
 In the afternoon I went to downtown Berkeley. I first went to Trader
-Joe's where I bought groceries. I then went to Udupi Palace and got a
-spinach masala dosa. I wore a KN95 mask while in downtown Berkeley and
-on the way back.
+Joe's where I bought groceries, finishing checkout at 5:58 PM. I then
+went to Udupi Palace and got a spinach masala dosa. I wore a KN95 mask
+while in downtown Berkeley and on the way back.
 
 ## Thursday June 24
 
@@ -587,3 +587,30 @@ for details. The TL;DR is that I had a slight temperature increase and
 slight aches, but little impact on my mental acuity and little
 pain. By Sunday late morning, I had returned to normal
 temperature-wise.
+
+## Sunday June 27
+
+In the afternoon, I went to downtown Berkeley. I first went to Trader
+Joe's where I bought some groceries, checking out at 2:41 PM. I then
+went to Udupi Palace and got a spinach masala dosa.
+
+## Discontinuation of activity tracking for routine trips starting July 1
+
+Starting July 1, I am discontinuing the recording of activity tracking
+for routine trips within Berkeley. Trips in scope include trips to
+Trader Joe's and the restaurants I order takeout from. I will continue
+to record trips to stores for non-food purchases, or trips during
+which something significant happens.
+
+There are a couple of reasons for pausing the activity tracker
+recording of food purchases.:
+
+* COVID community transmission is down to zero, so that particular
+  motivation has ended.
+
+* I now record food purchases in
+  [food_purchases.sql](../sql/food_purchases.sql), which has more
+  detail except the timestamp of checkout. I'll start adding timestamp
+  of checkout in a comment in the SQL file, thereby making the
+  information in the activity tracker redundant.
+
