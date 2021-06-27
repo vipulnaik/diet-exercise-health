@@ -606,7 +606,9 @@ There are a couple of reasons for pausing the activity tracker
 recording of food purchases.:
 
 * COVID community transmission is down to zero, so that particular
-  motivation has ended.
+  motivation has ended. I have also received both doses of the COVID
+  vaccine, further reducing my likelihood of getting infected or
+  transmitting the virus.
 
 * I now record food purchases in
   [food_purchases.sql](../sql/food_purchases.sql), which has more
