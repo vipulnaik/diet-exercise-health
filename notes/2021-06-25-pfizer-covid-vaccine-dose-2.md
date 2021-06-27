@@ -22,6 +22,10 @@ Time (may be approximate) | Context | Reading in degrees Fahrenheit
 2021-06-26 6:12 PM | Periodic check to see if I'm still hot | 100.8, 101.9, 101.8, 101.3
 2021-06-26 7:26 PM | Periodic check to see if I'm still hot | 101.6
 2021-06-26 8:04 PM | Periodic check to see if I'm still hot | 100.3
+2021-06-26 8:52 PM | Periodic check to see if I'm still hot | 100.1
+2021-06-26 11:29 PM | Periodic check to see if I'm still hot | 99.0
+2021-06-27 5:37 AM | Periodic check to see if I'm still hot | 99.6
+2021-06-27 6:54 AM | Periodic check to see if I'm still hot | 99.3
 
 ## Friday June 25
 
@@ -102,3 +106,17 @@ hot.
 
 A reading at 7:26 PM came to 101.6 degrees Fahrenheit and a reading
 at 8:04 PM came to 100.3 degrees Fahrenheit.
+
+I was feeling sleepy by around 8:52 PM. I took a reading that came to
+100.1 degrees Fahrenheit, then I lay down in bed to sleep.
+
+I got up twice shortly after, to urinate, once at around 9:25 PM and
+once at around 11:29 PM. I took a temperature reading at 11:29 PM that
+came to 99.0 degrees Fahrenheit.
+
+## Sunday June 27
+
+I reached a semi-awake state around 5:30 AM. I took a temperature
+reading at 5:37 AM that came to 99.6 degrees Fahrenheit. I got more
+fully awake at 6:54 AM, when my temperature reading came to 99.3
+degrees Fahrenheit.
