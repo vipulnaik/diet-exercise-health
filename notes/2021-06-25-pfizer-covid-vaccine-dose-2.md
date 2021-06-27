@@ -29,6 +29,7 @@ Time (may be approximate) | Context | Reading in degrees Fahrenheit
 2021-06-27 9:22 AM | Periodic check to see if I'm still hot | 98.7
 2021-06-27 11:30 AM | Confirmation that I have cooled down | 98.6
 2021-06-27 11:50 AM | Confirmation that I have cooled down | 98.4
+2021-06-27 2:06 PM | Confirmation that I have cooled down | 98.1
 
 ## Friday June 25
 
@@ -128,3 +129,8 @@ By the late morning my temperature was within its normal range. It was
 98.7 degrees at 9:22, 98.6 degrees at 11:30, and 98.4 degrees at
 11:50. I also went for a run -- though with a reduced amount of
 running similar to yesterday -- shortly after the 9:22 AM reading.
+
+I took another temperature reading at 2:06 PM, shortly before heading
+out to get food. The reading came out to 98.1 degrees Fahrenheit. I
+believe this concludes my sequence of temperature readings and my
+proactive monitoring of COVID vaccine response.
