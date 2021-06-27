@@ -26,6 +26,9 @@ Time (may be approximate) | Context | Reading in degrees Fahrenheit
 2021-06-26 11:29 PM | Periodic check to see if I'm still hot | 99.0
 2021-06-27 5:37 AM | Periodic check to see if I'm still hot | 99.6
 2021-06-27 6:54 AM | Periodic check to see if I'm still hot | 99.3
+2021-06-27 9:22 AM | Periodic check to see if I'm still hot | 98.7
+2021-06-27 11:30 AM | Confirmation that I have cooled down | 98.6
+2021-06-27 11:50 AM | Confirmation that I have cooled down | 98.4
 
 ## Friday June 25
 
@@ -120,3 +123,8 @@ I reached a semi-awake state around 5:30 AM. I took a temperature
 reading at 5:37 AM that came to 99.6 degrees Fahrenheit. I got more
 fully awake at 6:54 AM, when my temperature reading came to 99.3
 degrees Fahrenheit.
+
+By the late morning my temperature was within its normal range. It was
+98.7 degrees at 9:22, 98.6 degrees at 11:30, and 98.4 degrees at
+11:50. I also went for a run -- though with a reduced amount of
+running similar to yesterday -- shortly after the 9:22 AM reading.
