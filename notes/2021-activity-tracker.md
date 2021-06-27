@@ -577,7 +577,7 @@ previous night; in any case I went to sleep around 9 PM. I had a
 slight soreness in my arm while sleeping, which actually made me
 relieved as I was worried that I hadn't even gotten injected!
 
-## Saturday June 26 and Sunday June 27
+## Saturday June 26 and Sunday June 27 morning
 
 ### Monitoring for effects of yesterday's COVID vaccine
 
