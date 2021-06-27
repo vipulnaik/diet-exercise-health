@@ -584,4 +584,6 @@ relieved as I was worried that I hadn't even gotten injected!
 See
 [2021-06-25-pfizer-covid-vaccine-dose-2.md](2021-06-25-pfizer-covid-vaccine-dose-2.md)
 for details. The TL;DR is that I had a slight temperature increase and
-slight aches, but little impact on my mental acuity and little pain.
+slight aches, but little impact on my mental acuity and little
+pain. By Sunday late morning, I had returned to normal
+temperature-wise.
