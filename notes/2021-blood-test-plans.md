@@ -110,3 +110,13 @@ purpose). So, I ended up going with Quest Diagnostics.
 
 The location I selected was 2999 Regent Street, Berkeley, CA 94705
 open M-F 7:00 am-5:30 pm.
+
+### Getting my blood taken
+
+I got my blood work done at Quest Diagnostics on 2999 Regent Street on
+Wednesday, June 30, around 8:35 AM. This was almost 15 hours after I
+had last eaten (I finished my last meal a little after 5:30 PM on
+Tuesday).
+
+More details of my trip are in the [2021 activity
+tracker](2021-activity-tracker#wednesday-june-30).
