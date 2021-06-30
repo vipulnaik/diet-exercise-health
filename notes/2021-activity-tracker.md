@@ -616,3 +616,26 @@ recording of food purchases.:
   of checkout in a comment in the SQL file, thereby making the
   information in the activity tracker redundant.
 
+## Wednesday June 30
+
+In the morning, I went to Quest Diagnostics at 2999 Regent Street for
+blood work. General context is in the [2021 blood test plans
+file](2021-blood-teest-plans.md).
+
+Before leaving my home, I took a temperature reading; it came to 98.4
+degrees Fahrenheit.
+
+I left my home a little before 7:30 AM and arrived at the North
+Berkeley BART at 7:34 AM. I took the Berryessa train at 7:44 AM and
+arrived at Ashby station at around 7:50 AM. I then walked to 2999
+Regent Street and did the kiosk checkin, finishing around 8:15 AM. I
+then waited, mostly outside, till around 8:25 AM when the counter
+person confirmed that my blood tests were being readied. Around 8:30
+AM, I was called in and my blood was withdrawn at 8:35 AM.
+
+I left the place around 8:40 AM and walked back to the Ashby BART,
+getting there around 9 AM. I took the Richmond train at 9:11 AM,
+arrived at North Berkeley BART around 9:16 AM, and then walked home.
+
+I wore my KN95 mask while in BART and while in the Quest Diagnostic
+building, but not for large parts of the walking journeys.
