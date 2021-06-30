@@ -1,11 +1,16 @@
-Current list of planned tests. I'll target doing them around July 2021
-assuming COVID vaccine rollout is a success:
+This page documents the thought process behind deciding on my blood
+tests, as well as the process of getting them.
 
-Total: LabCorp: $409, Quest Diagnostics: $373, nontrivial but affordable.
+## Test shortlist
+
+I worked on this test shortlist in January and February 2021.
+
+Total cost of tests in shortlist: LabCorp: $409, Quest Diagnostics:
+$373, nontrivial but affordable.
 
 Past test results at https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql (some of these are referenced without details below, so linking to the SQL file for those interested in checking details).
 
-## Vitamin D: test the success of supplementation in the last 3 years
+### Vitamin D: test the success of supplementation in the last 3 years
 
 Test details: https://requestatest.com/vitamin-d-25-hydroxy-testing (LabCorp: $75, Quest Diagnostics: $59)
 
@@ -16,7 +21,7 @@ mid-to-high range given that I increased my supplement dose. If I get
 in that range, I may continue supplementing at current levels and skip
 Vitamin D testing for the next few years.
 
-## Insulin: First baseline test because of diabetic tendencies
+### Insulin: First baseline test because of diabetic tendencies
 
 Test details: https://requestatest.com/insulin-testing (LabCorp: $59; Quest Diagnostics: $49)
 
@@ -27,7 +32,7 @@ baseline insulin readings may be helpful.
 I generally have a reasonably stable diet, and I'm not doing any of
 the vitamin supplements right now that would affect insulin testing.
 
-## HbA1c: Followup measurement because of diabetic tendencies
+### HbA1c: Followup measurement because of diabetic tendencies
 
 Test details: https://requestatest.com/hemoglobin-a1c-with-eag-testing (LabCorp: $39; Quest Diagnostics: $36)
 
@@ -36,7 +41,7 @@ My last HbA1c test, in December 2016, came back normal (reading of
 another reading (almost 5 years after the previous reading) makes
 sense.
 
-## Lipid panel: Followup measurement because of diabetic tendencies
+### Lipid panel: Followup measurement because of diabetic tendencies
 
 Test details: https://requestatest.com/lipid-panel-testing (LabCorp: $39; Quest Diagnostics: $36)
 
@@ -45,7 +50,7 @@ have made a few dietary changes since then, and given diabetes in my
 family members, I want to get another test almost four years after the
 previous one.
 
-## Complete blood count: one-time baseline
+### Complete blood count: one-time baseline
 
 Test details: https://requestatest.com/cbc-with-differential-testing (LabCorp: $34; Quest Diagnostics: $35)
 
@@ -53,7 +58,7 @@ This is hopefully a one-time baseline. I'm not looking for anything
 specific but it would be good to get information related to white
 blood cells and immunity.
 
-## Omega-3
+### Omega-3
 
 Test details: https://requestatest.com/omega-3-blood-test (LabCorp: $129; Quest Diagnostics: $129)
 
@@ -62,7 +67,7 @@ supplementation](2019-12-30-decision-to-start-taking-omega-3-supplements.md)
 in early 2020. I want to get a baseline measurement after one year of
 supplementation.
 
-## Calcium: test the success of both calcium and vitamin D supplementation in recent years
+### Calcium: test the success of both calcium and vitamin D supplementation in recent years
 
 Test details: https://requestatest.com/calcium-testing (LabCorp: $34; Quest Diagnostics: $29)
 
@@ -70,7 +75,7 @@ I have been taking both calcium and vitamin D for a while, so I want
 to test my blood calcium levels to make sure that the end result for
 my calcium is good.
 
-## Tests that didn't make the cut
+### Tests that didn't make the cut
 
 I considered and ultimately decided against these:
 
@@ -88,3 +93,20 @@ I considered and ultimately decided against these:
 * Magnesium
 * Zinc
 * Vitamin K
+
+## Process of getting the test
+
+### Booking the test
+
+On June 29, 2021, I reviewed the test shortlist that I had created in
+January and February, and decided to book and do the tests. My first
+step was to check the prices again and add Quest Diagnostics prices as
+well after noticing that they were a little lower than LabCorp
+prices. After noting down prices from both labs for all tests, I
+confirmed that Quest Diagnostics would come out cheaper. Both labs had
+accessible locations in my city of residence Berkeley (though LabCorp
+had slightly more, the difference wasn't really significant for my
+purpose). So, I ended up going with Quest Diagnostics.
+
+The location I selected was 2999 Regent Street, Berkeley, CA 94705
+open M-F 7:00 am-5:30 pm.
