@@ -618,6 +618,8 @@ recording of food purchases.:
 
 ## Wednesday June 30
 
+### Morning trip to Quest Diagnostics
+
 In the morning, I went to Quest Diagnostics at 2999 Regent Street for
 blood work. General context is in the [2021 blood test plans
 file](2021-blood-teest-plans.md).
@@ -639,3 +641,8 @@ arrived at North Berkeley BART around 9:16 AM, and then walked home.
 
 I wore my KN95 mask while in BART and while in the Quest Diagnostic
 building, but not for large parts of the walking journeys.
+
+### Evening laundry trip
+
+In the evening, around 4 PM, I went to the Laundry Room (Golden Bear),
+a laundromat on San Pablo Aveue, to do my heavy laundry.
