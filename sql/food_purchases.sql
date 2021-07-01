@@ -123,8 +123,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-04-28 Udupi Palace */
   ('2021-04-28','Udupi Palace spinach masala dosa',1),
   /* 2021-05-02 Bangkok Thai Cuisine */
-  ('2021-04-13','Bangkok Thai Cuisine yellow curry tofu',1),
-  ('2021-04-13','Bangkok Thai Cuisine white rice',1),
+  ('2021-05-02','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2021-05-02','Bangkok Thai Cuisine white rice',1),
   /* 2021-05-05 Trader Joe's (verified with receipt) */
   ('2021-05-05','TJ Carrots',1),
   ('2021-05-05','TJ Whole Wheat Wraps',2),
@@ -150,22 +150,22 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-05-13','Red bell pepper',2),
   ('2021-05-13','Green bell pepper',2),
   ('2021-05-13','Beefsteak tomato',8),
-  /* 2021-05-16 Udupi Palace */
-  ('2021-05-16','Udupi Palace spring dosa',1),
+  /* 2021-05-13 Udupi Palace */
+  ('2021-05-13','Udupi Palace spring dosa',1),
   /* 2021-05-16 Trader Joe's (verified with receipt) */
   ('2021-05-16','Red bell pepper',2),
   ('2021-05-16','Orange bell pepper',2),
   ('2021-05-16','TJ Whole Wheat Wraps',2),
   ('2021-05-16','Beefsteak tomato',8),
   ('2021-05-16','Eggplant',2),
-  /* 2021-05-19 Udupi Palace */
-  ('2021-05-05','Udupi Palace spinach masala dosa',1),
+  /* 2021-05-16 Udupi Palace */
+  ('2021-05-16','Udupi Palace spring dosa',1),
   /* 2021-05-19 Trader Joe's (verified with receipt) */
   ('2021-05-19','TJ Misal Curry',4),
   ('2021-05-19','TJ Veg Biryani',6),
   ('2021-05-19','TJ Sauerkraut',3),
-  /* 2021-05-22 Udupi Palace */
-  ('2021-05-22','Udupi Palace spinach masala dosa',1),
+  /* 2021-05-19 Udupi Palace */
+  ('2021-05-19','Udupi Palace spinach masala dosa',1),
   /* 2021-05-22 Trader Joe's (verified with receipt) */
   ('2021-05-22','TJ Almond Milk',1),
   ('2021-05-22','TJ Baby Spinach',1),
@@ -177,12 +177,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-05-22','Red bell pepper',2),
   ('2021-05-22','TJ Misal Curry',4),
   ('2021-05-22','TJ Veg Biryani',2),
-  /* 2021-05-27 Udupi Palace */
-  ('2021-05-27','Udupi Palace spinach masala dosa',1),
+  /* 2021-05-22 Udupi Palace */
+  ('2021-05-22','Udupi Palace spinach masala dosa',1),
   /* 2021-05-27 Trader Joe's (verified with receipt) */
   ('2021-05-27','TJ Misal Curry',4),
   ('2021-05-27','TJ Veg Biryani',2),
   ('2021-05-27','TJ Whole Wheat Wraps',2),
+  /* 2021-05-27 Udupi Palace */
+  ('2021-05-27','Udupi Palace spinach masala dosa',1),
   /* 2021-05-29 Pakwan */
   ('2021-05-29','Pakwan meal set (2 basmati rices; dal, chana aloo, aloo sag, mixed veg curry)',1),
   /* 2021-06-02 Trader Joe's (verified with receipt) */
