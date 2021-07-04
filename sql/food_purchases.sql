@@ -279,4 +279,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-07-01','Beefsteak tomato',8),
   ('2021-07-01','TJ Whole Wheat Wraps',1),
   /* 2021-07-01 Udupi Palace */
-  ('2021-07-01','Udupi Palace spinach masala dosa',1);
+  ('2021-07-01','Udupi Palace spinach masala dosa',1),
+  /* 2021-07-02 Mehak Indian Cuisine */
+  ('2021-07-02','Mehak Indian Cuisine standard set',1);
