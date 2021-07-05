@@ -281,4 +281,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-07-01 Udupi Palace */
   ('2021-07-01','Udupi Palace spinach masala dosa',1),
   /* 2021-07-02 Mehak Indian Cuisine */
-  ('2021-07-02','Mehak Indian Cuisine standard set',1);
+  ('2021-07-02','Mehak Indian Cuisine standard set',1),
+  /* 2021-07-05 Bangkok Thai Cuisine: order at 1 PM, total cost $15.82 */
+  ('2021-07-05','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2021-07-05','Bangkok Thai Cuisine white rice',1);

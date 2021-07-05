@@ -645,10 +645,10 @@ building, but not for large parts of the walking journeys.
 ### Evening laundry trip
 
 In the evening, around 4 PM, I went to the Laundry Room (Golden Bear),
-a laundromat on San Pablo Aveue, to do my heavy laundry.
+a laundromat on San Pablo Avenue, to do my heavy laundry.
 
 ## Saturday July 3
 
 In the afternoon, I went to the Laundry Room (Golden Bear), a
-laundromat on San Pablo Aveue, to do my regular laundry. I was in the
+laundromat on San Pablo Avenue, to do my regular laundry. I was in the
 place from around 1:50 PM till around 2:20 PM.
