@@ -138,7 +138,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('December 2016 LabCorp gastro blood tests','Serum lipase','U/L',0,59,30,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','Serum immunoglobulin G','mg/dL',700,1600,765,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','Serum immunoglobulin A','mg/dL',90,386,130,'Normal','The test was a part of a battery of gastro tests'),
-  # -- Gastro stool tests
+  /* Gastro stool tests */
   ('December 2016 LabCorp gastro stool tests','Fecal pancreatic elastase','mug Elast./g',200,NULL,500,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro stool tests','Fecal calprotectin','mug/g',0,50,29,'Normal; Ranges: < 16 - 50 is normal, 50 - 120 is borderline and needs retesting, > 120 is abnormal and needs clinical evaluation','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro stool tests','H. pylori stool Ag, EIA',NULL,NULL,NULL,NULL,'Negative','The test was a part of a battery of gastro tests');
