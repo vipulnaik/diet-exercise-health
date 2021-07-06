@@ -120,3 +120,9 @@ Tuesday).
 
 More details of my trip are in the [2021 activity
 tracker](2021-activity-tracker#wednesday-june-30).
+
+### Test results
+
+The results were posted on the morning of Tuesday July 6 (I got the
+email at 8:37 AM Pacific Time). I am in the process of data entry and
+followup decisions and will make further commits as I proceed.
