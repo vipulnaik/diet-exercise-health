@@ -642,6 +642,18 @@ arrived at North Berkeley BART around 9:16 AM, and then walked home.
 I wore my KN95 mask while in BART and while in the Quest Diagnostic
 building, but not for large parts of the walking journeys.
 
+Minor tidbits:
+
+* They used 5 tubes even though there were 7 tests. It looks like some
+  tests got bundled togethr probably because they were related.
+* I asked the nurse how much blood would be used before she withdrew
+  it. She just pointed to the tubes and left the addition of volumes
+  to me, but she said it's not a lot of blood.
+* The blood collection was painful in the moment, but less exhausting
+  than the blood tests in December 2016 that left me more depleted.
+* After the blood was withdrawn, the nurse suggested keeping the
+  bandage for 15 minutes, but I kept it for a few hours.
+
 ### Evening laundry trip
 
 In the evening, around 4 PM, I went to the Laundry Room (Golden Bear),
