@@ -15,6 +15,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('November 2017 Columbia Asia vitamin and lipid profile tests','D3','nmol/L',75,250,12.2,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','D3','ng/mL',30,100,3,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
   ('September 2018 LabCorp vitamin tests','D3','ng/mL',30,100,35.8,'Sufficient','This test was taken after about 10 months of regular Vitamin D3 supplementation, with the supplement amount mostly 1000 IUs but occasionally going to 2000 IUs'),
+  ('June 2021 Quest Diagnostics tests','D3','ng/mL',30,100,62,'Sufficient','This test was taken almost three years after the previous test (reading of 35.8) after supplementation witht 1000 IU and later 2000 IU capsules , and an average of 2+ capsules per day.'),
   /* B12 tests */
   ('November 2017 Columbia Asia vitamin and lipid profile tests','B12','pg/mL',180,914,167,'Intermediate','This test was taken before starting any regular Vitamin B12 supplementation. Guidance says: < 145 pg/mL is deficient, 145-180 is intermediate, and 180-914 is normal'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','B12','pg/mL',187,883,173.6,'Deficient','This test was taken before starting any regular Vitamin B12 supplementation'),
@@ -102,6 +103,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol VLDL','mg/dL',0,35,15.8,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL ratio','unitless',0,5,3.3,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Serum triglycerides','mg/dL',0,150,79,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  /* Lipid profile test: June 2021 Quest Diagnostics */
   /* TSH */
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','TSH','muIU/mL',0.35,4.94,2.30,'Sufficient','This test was taken to provide an initial measurement; there was no specific prior reason to believe that the readings would be out of range'),
   /* Gastro blood tests */
