@@ -653,6 +653,8 @@ Minor tidbits:
   than the blood tests in December 2016 that left me more depleted.
 * After the blood was withdrawn, the nurse suggested keeping the
   bandage for 15 minutes, but I kept it for a few hours.
+* The nurse asked me to confirm my name on the stickers she put on all
+  the tubes.
 
 ### Evening laundry trip
 
