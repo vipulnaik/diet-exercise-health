@@ -20,6 +20,12 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('November 2017 Columbia Asia vitamin and lipid profile tests','B12','pg/mL',180,914,167,'Intermediate','This test was taken before starting any regular Vitamin B12 supplementation. Guidance says: < 145 pg/mL is deficient, 145-180 is intermediate, and 180-914 is normal'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','B12','pg/mL',187,883,173.6,'Deficient','This test was taken before starting any regular Vitamin B12 supplementation'),
   ('September 2018 LabCorp vitamin tests','B12','pg/mL',232,1245,1050,'Sufficient','This test was taken after about 10 months of regular Vitamin B12 supplementation, at 1000 mcg per tablet and a little over 1 tablet per day on average'),
+  /* HbA1c tests */
+  ('June 2021 Quest Diagnostics tests','HbA1c','percentage',0,5.7,5.0,'Normal','This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
+  ('June 2021 Quest Diagnostics tests','HbA1c eAG','mg/dL',NULL,NULL,97,NULL,'This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
+  ('June 2021 Quest Diagnostics tests','HbA1c eAG','mmol/L',NULL,NULL,5.4,NULL,'This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
+  /* Calcium tests */
+  ('June 2021 Quest Diagnostics tests','Calcium','mg/dL',8.6,10.3,9.6,'Normal','This test was taken to provide a baseline caclium measurement, after 3.5 years of Vitamin D supplementation and about 2 years of calcium supplementation.'),
   /* July 2004 blood group test */
   ('July 2004 Eskay Lab blood group test','Blood group',NULL,NULL,NULL,NULL,NULL,'Blood group was measured as O-positive.'),
   /* June 2005 Iravatham Chennai blood profile tests */
@@ -101,9 +107,14 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL direct','mg/dL',30,60,51,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol LDL','mg/dL',0,100,109.7,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol VLDL','mg/dL',0,35,15.8,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
-  ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL ratio','unitless',0,5,3.3,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL ratio','unitless',1,5,3.3,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Serum triglycerides','mg/dL',0,150,79,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   /* Lipid profile test: June 2021 Quest Diagnostics */
+  ('June 2021 Quest Diagnostics tests','Cholesterol total','mg/dL',0,200,191,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol HDL direct','mg/dL',40,NULL,46,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol LDL','mg/dL',0,100,124,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol HDL ratio','unitless',1,5,4.2,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol non-HDL','mg/dL',0,130,145,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   /* TSH */
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','TSH','muIU/mL',0.35,4.94,2.30,'Sufficient','This test was taken to provide an initial measurement; there was no specific prior reason to believe that the readings would be out of range'),
   /* Gastro blood tests */
