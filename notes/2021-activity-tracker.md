@@ -603,7 +603,7 @@ to record trips to stores for non-food purchases, or trips during
 which something significant happens.
 
 There are a couple of reasons for pausing the activity tracker
-recording of food purchases.:
+recording of food purchases:
 
 * COVID community transmission is down to zero, so that particular
   motivation has ended. I have also received both doses of the COVID
@@ -666,3 +666,16 @@ a laundromat on San Pablo Avenue, to do my heavy laundry.
 In the afternoon, I went to the Laundry Room (Golden Bear), a
 laundromat on San Pablo Avenue, to do my regular laundry. I was in the
 place from around 1:50 PM till around 2:20 PM.
+
+## Thursday July 8
+
+In the evening, I went to the Walgreens at Gilman Street to get some
+toiletries. I was not in any rush to get them; I just wanted to take a
+break, take a walk, noticed a low probability of rain, and so decided
+to get rid of a TODO item as well.
+
+I wore a KN95 mask while in the store, but not for the journey back
+and forth.
+
+I completed my checkout at 5:47 PM. I should have received a digital
+receipt by email but haven't yet received it.
