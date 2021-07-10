@@ -284,4 +284,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-07-02','Mehak Indian Cuisine standard set',1),
   /* 2021-07-05 Bangkok Thai Cuisine: order at 1 PM, total cost $15.82 */
   ('2021-07-05','Bangkok Thai Cuisine yellow curry tofu',1),
-  ('2021-07-05','Bangkok Thai Cuisine white rice',1);
+  ('2021-07-05','Bangkok Thai Cuisine white rice',1),
+  /* 2021-07-09 Trader Joe's; order at 5:21 PM; total cost $45.64 */
+  ('2021-07-09','TJ Misal Curry',5),
+  ('2021-07-09','TJ Veg Biryani',3),
+  ('2021-07-09','Eggplant',2),
+  ('2021-07-09','TJ Carrots',1),
+  ('2021-07-09','Beefsteak tomato',7),
+  ('2021-07-09','TJ Baby Spinach',1),
+  ('2021-07-09','TJ Whole Wheat Wraps',3),
+  ('2021-07-09','Green bell pepper',4),
+  /* 2021-07-09 Udupi Palace; ordeer at 5:27 PM; total cost 13.06 */
+  ('2021-07-09','Udupi Palace spinach masala dosa',1);
