@@ -26,6 +26,8 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('June 2021 Quest Diagnostics tests','HbA1c eAG (mmol/L)','mmol/L',NULL,NULL,5.4,NULL,'This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
   /* Calcium tests */
   ('June 2021 Quest Diagnostics tests','Calcium','mg/dL',8.6,10.3,9.6,'Normal','This test was taken to provide a baseline caclium measurement, after 3.5 years of Vitamin D supplementation and about 2 years of calcium supplementation.'),
+  /* Insulin test */
+  ('June 2021 Quest Diagnostics tests','Insulin','uIU/L',0,19.6,3.6,'Normal','This test was taken to provide a baseline insulin measurement in light of diabetic tendencies.'),
   /* Omega 3 tests */
   ('June 2021 Quest Diagnostics tests','Omega-3 total','%',5.5,NULL,4.6,'Moderate','The measurement is of the percentage by weight of omega-3 fatty acids. This test was taken to provide a first baseline measurement after almost 1.5 years of supplementation. The provided reference interval for this metric is >= 5.5 for optimal, 3.8-5.4 for moderate and <= 3.7 for high. I fell in the middle of the moderate range. The measurement sums up the values for eicosapentaenoic acid (EPA), docosapentaenoic acid (DPA), and docosahexonic acid (DHA).'),
   ('June 2021 Quest Diagnostics tests','Arachidonic acid/EPA ratio','unitless',3.7,40.7,19.6,'Normal','This was part of a set of omega-3 tests taken to provide a first baseline measurement after almost 1.5 years of supplementation.'),
@@ -125,6 +127,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('June 2021 Quest Diagnostics tests','Cholesterol LDL','mg/dL',0,100,124,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('June 2021 Quest Diagnostics tests','Cholesterol HDL ratio','unitless',1,5,4.2,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('June 2021 Quest Diagnostics tests','Cholesterol non-HDL','mg/dL',0,130,145,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('June 2021 Quest Diagnostics tests','Serum triglycerides','mg/dL',0,150,124,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   /* TSH */
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','TSH','muIU/mL',0.35,4.94,2.30,'Sufficient','This test was taken to provide an initial measurement; there was no specific prior reason to believe that the readings would be out of range'),
   /* Gastro blood tests */
@@ -185,5 +188,4 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('June 2021 Quest Diagnostics tests','Lymphocytes','%',NULL,NULL,33.0,'Normal','This test was part of a complete blood count (CBC).'),
   ('June 2021 Quest Diagnostics tests','Monocytes','%',NULL,NULL,6.6,'Normal','This test was part of a complete blood count (CBC).'),
   ('June 2021 Quest Diagnostics tests','Eosinophils','%',NULL,NULL,5.4,'Normal','This test was part of a complete blood count (CBC).'),
-  ('June 2021 Quest Diagnostics tests','Basophils','%',NULL,NULL,0.2,'Normal','This test was part of a complete blood count (CBC).'),
-  ('June 2021 Quest Diagnostics tests','Insulin','uIU/L',0,19.6,3.6,'Normal','This test was part of a complete blood count (CBC).');
+  ('June 2021 Quest Diagnostics tests','Basophils','%',NULL,NULL,0.2,'Normal','This test was part of a complete blood count (CBC).');
