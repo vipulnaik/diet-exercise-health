@@ -679,3 +679,18 @@ and forth.
 
 I completed my checkout at 5:47 PM. I should have received a digital
 receipt by email but haven't yet received it.
+
+## Update to my protocols after achieving "fully vaccinated" status
+
+See [2021-07-10: COVID ongoing precautions
+update](2021-07-10-covid-ongoing-precautions-update.md).
+
+## Sunday July 11
+
+In the afternoon I went to the Laundry Room (Golden Bear), a
+laundromat on San Pablo Avenue, to do my heavy laundry. I was in the
+place between around 1:55 PM and 2:25 PM. I wore a KN95 mask while
+indoors but not for any of the journey.
+
+This will probably be my last laundromat trip for a while, since a new
+laundry machine has now been installed in my apartment building.
