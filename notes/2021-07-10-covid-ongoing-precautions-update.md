@@ -1,5 +1,12 @@
 # 2021-07-10: COVID ongoing precautions update
 
+ETA 2021-07-17: It looks like the area where I live has reestablished
+indoor masking as a guideline for restaurants, so despite my
+asseessment of the low risk of short visits, I'll probably mask up in
+restaurants. I may, however, choose just a cloth mask if I don't have
+a KN95 mask handy, given that my own assessment of the risk is that a
+mask is unnecessary.
+
 I [got my second Pfizer COVID dose on June
 25](2021-06-25-pfizer-covid-vaccine-dose-2.md), and therefore achieved
 "fully vaccinated" status by the end of July 9. This allows me to
