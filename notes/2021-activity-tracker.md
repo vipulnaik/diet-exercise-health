@@ -694,3 +694,12 @@ indoors but not for any of the journey.
 
 This will probably be my last laundromat trip for a while, since a new
 laundry machine has now been installed in my apartment building.
+
+## Friday July 23
+
+In my downtown Berkeley trip on this date, I made a stop at the
+Citibank in downtown Berkeley to deposit checks and get quarters. I
+finished my Citibank transactions at 3:48 PM.
+
+Later visits to Trader Joe's and Udupi Palace in the same trip are
+covered in [food_purchases.sql](../sql/food_purchases.sql).
