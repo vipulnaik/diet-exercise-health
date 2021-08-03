@@ -177,4 +177,14 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 1,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 21.4,95.7,0,11.9,0.4,
   /* columns for other less commonly reported vitamins and minerals */ 0.3,0,0.4,8.8,11.9,23.8,0.2,0.1,
-  /* notes */ 'The data as shown on this website may differ from actual data for the bell peppers. Other information is on the site.');
+  /* notes */ 'The data as shown on this website may differ from actual data for the bell peppers. Other information is on the site.'),
+
+  ('TJ Walnuts','Trader Joe''s Organic Raw Walnuts: Halves & Pieces',NULL,2186,
+  /* fat-related columns */ 218.6,18.2,0,157.9,30.4,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,1457,
+  /* protein-related columns */ 48.6,
+  /* carbohydrate-related columns */ 48.6,24.3,0,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,36.4,9.7,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'Data was provided for a serving size of 28g, and the conotainer size was 340g. All amounts have been scaled appropriately.');
