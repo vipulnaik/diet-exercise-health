@@ -703,3 +703,12 @@ finished my Citibank transactions at 3:48 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
 covered in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Monday August 2
+
+In my downtown Berkeley trip on this date, I went to the Berkeley
+Public Library to donate books to the "Friends of the Library"
+area. I donated about 10 books. I finished around 3:45 PM.
+
+Later visits to Trader Joe's and Udupi Palace in the same trip are
+covered in [food_purchases.sql](../sql/food_purchases.sql).
