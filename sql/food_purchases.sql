@@ -350,4 +350,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-08-02','Green bell pepper',2),
   ('2021-08-02','Eggplant',2),
   /* 2021-08-02 Udupi Palace; total cost $13.06 */
-  ('2021-08-02','Udupi Palace spinach masala dosa',1);
+  ('2021-08-02','Udupi Palace spinach masala dosa',1),
+  /* 2021-08-05 Bangkok Thai Cuisine; total cost $15.82; trip around 2:05 PM to 2:10 PM */
+  ('2021-08-05','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2021-08-05','Bangkok Thai Cuisine white rice',1);
