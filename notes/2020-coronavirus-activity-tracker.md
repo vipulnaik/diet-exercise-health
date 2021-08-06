@@ -237,7 +237,7 @@ region, which was around 11 AM to 11:45 AM.
 
 * 11:13 AM: I entered the Citibank at Shattuck and University.
 
-* 11:16 AM: My teller deposit transiaction at Citibank was completed.
+* 11:16 AM: My teller deposit transaction at Citibank was completed.
 
 * 11:18 AM: I exited the bank.
 
