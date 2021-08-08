@@ -12,3 +12,4 @@ Date and time | Reading (in degrees Fahrenheit) | Notes
 2021-08-07 6:45 AM | 98.4 | This was about half an hour after waking up.
 2021-08-07 9:22 AM | 98.1 | I returned from running + cool-down walking.
 2021-08-08 11:46 AM | 98.1 | I had just finished post-breakfast cleanup and started a load of regular laundry.
+2021-08-08 4:04 PM | 98.3 | I had just finished lunch.
