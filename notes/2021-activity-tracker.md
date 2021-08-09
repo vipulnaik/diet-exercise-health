@@ -712,3 +712,9 @@ area. I donated about 10 books. I finished around 3:45 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
 covered in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday August 8
+
+In the evening, I made a trip to the Walgreens on Gilman Street for
+some toiletry purchases. I wore a KN95 mask while in the store but not
+on the way to or from the store. I finished checkout at 5:52 PM.
