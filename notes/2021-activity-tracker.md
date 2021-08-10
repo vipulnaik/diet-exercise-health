@@ -718,3 +718,12 @@ covered in [food_purchases.sql](../sql/food_purchases.sql).
 In the evening, I made a trip to the Walgreens on Gilman Street for
 some toiletry purchases. I wore a KN95 mask while in the store but not
 on the way to or from the store. I finished checkout at 5:52 PM.
+
+## Monday August 9
+
+In my downtown Berkeley trip on this date, I went to the Berkeley
+Public Library to donate books to the "Friends of the Library"
+area. I donated about 10 books. I finished around 3:20 PM.
+
+Later visits to Trader Joe's and Udupi Palace in the same trip are
+covered in [food_purchases.sql](../sql/food_purchases.sql).
