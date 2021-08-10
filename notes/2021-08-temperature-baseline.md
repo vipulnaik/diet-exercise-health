@@ -18,3 +18,4 @@ Date and time | Reading (in degrees Fahrenheit) | Notes
 2021-08-09 6:30 AM | 98.8 | This was a little while after waking up and just before I started work.
 2021-08-09 4:52 PM | 98.3 | This was after finishing eating takeout food, which I got after a trip to downtown Berkeley.
 2021-08-09 7:15 PM | 98.9 | This was after brushing my teeth; I was feeling a little overwhelmed by the open window and closed it right after taking the reading.
+2021-08-10 7:20 AM | 98.2 | This was taken about 30 minutes after waking up.
