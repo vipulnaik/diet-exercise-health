@@ -16,3 +16,4 @@ Date and time | Reading (in degrees Fahrenheit) | Notes
 2021-08-08 7:14 PM | 98.7 | It was about 45 minutes after I had returned from a trip to Walgreens.
 2021-08-08 8:08 PM | 98.7 |
 2021-08-09 6:30 AM | 98.8 | This was a little while after waking up and just before I started work.
+2021-08-09 4:52 PM | 98.3 | This was after finishing eating takeout food, which I got after a trip to downtown Berkeley.
