@@ -727,3 +727,14 @@ area. I donated about 10 books. I finished around 3:20 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
 covered in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday August 11
+
+On this day I went to Total Health Dental Care at 3017 Telegraph
+Avenue for a dental cleaning.
+
+I left my home around 1:30 PM, arrived at the North Berkeley BART
+around 1:38 PM, took the Berryessa train around 1:45 PM, got to Ashby
+BART around 1:50 PM, and reached the Total Health Dental Care office
+at around 2:10 PM. The initial step involved me making my payment and
+signing a form.
