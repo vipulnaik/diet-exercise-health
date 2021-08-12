@@ -736,5 +736,13 @@ Avenue for a dental cleaning.
 I left my home around 1:30 PM, arrived at the North Berkeley BART
 around 1:38 PM, took the Berryessa train around 1:45 PM, got to Ashby
 BART around 1:50 PM, and reached the Total Health Dental Care office
-at around 2:10 PM. The initial step involved me making my payment and
+at around 2:07 PM. The initial step involved me making my payment and
 signing a form.
+
+The cleaning began around 2:30 PM and finished around 3:20 PM. I then
+opted to sign up for an annual membership and pay some extra money. I
+finished the process around 3:35 PM, then rode the BART back home. I
+was back home around 4:15 PM.
+
+More details about the dental cleaning trip are in
+[2021-08-11-dental-cleaning-trip.md](2021-08-11-dental-cleaning-trip.md).
