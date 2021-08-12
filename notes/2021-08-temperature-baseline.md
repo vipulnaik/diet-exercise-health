@@ -20,3 +20,4 @@ Date and time | Reading (in degrees Fahrenheit) | Notes
 2021-08-09 7:15 PM | 98.9 | This was after brushing my teeth; I was feeling a little overwhelmed by the open window and closed it right after taking the reading.
 2021-08-10 7:20 AM | 98.2 | This was taken about 30 minutes after waking up.
 2021-08-11 6:53 AM | 98.6 | This was shortly after waking up.
+2021-08-11 4:20 PM | 98.4 | This was after my return from a trip to the dentist.
