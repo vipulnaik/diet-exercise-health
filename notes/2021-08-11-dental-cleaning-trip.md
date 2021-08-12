@@ -113,3 +113,9 @@ Further details about Phase I periodontal therapy:
   however, this was expected to go down in steady state. I didn't get
   specifics but my guess is that in general there would be a lag of
   2-3 weeks for booking an appointment.
+
+### Guidance on appointment booking
+
+The receptionist recommended that for deep cleaning, booking an
+appointment online would be tricky, so I should instetad phone them at
+510 356 0688 and book it.
