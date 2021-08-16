@@ -117,5 +117,5 @@ Further details about Phase I periodontal therapy:
 ### Guidance on appointment booking
 
 The receptionist recommended that for deep cleaning, booking an
-appointment online would be tricky, so I should instetad phone them at
+appointment online would be tricky, so I should instead phone them at
 510 356 0688 and book it.
