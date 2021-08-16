@@ -119,3 +119,10 @@ Further details about Phase I periodontal therapy:
 The receptionist recommended that for deep cleaning, booking an
 appointment online would be tricky, so I should instead phone them at
 510 356 0688 and book it.
+
+## Followup: appointment booking
+
+On Monday, August 16, around 8:30 AM, I made ea phonee call to the
+number (510 356 0688) and booked periodontal therapy appointments for
+Wednesday September 22 11 AM and Wednesday September 29 1 PM. I made
+the advance payment at the time of booking.
