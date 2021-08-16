@@ -367,4 +367,18 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-08-09 Udupi Palace; order at 3:31 PM, pickup around 3:45 PM; total cost $13.06 */
   ('2021-08-09','Udupi Palace spinach masala dosa',1),
   /* 2021-08-11 Mehak Indian Cuisine; online order a 6:02 PM, departure around 6:12 PM, pickup around 6:30 PM */
-  ('2021-08-11','Mehak Indian Cuisine standard set',1);
+  ('2021-08-11','Mehak Indian Cuisine standard set',1),
+  /* 2021-08-16 Trader Joe's; checkout at 3:25 PM; total cost $49.44 */
+  ('2021-08-16','TJ Almond Milk',1),
+  ('2021-08-16','TJ Sauerkraut',2),
+  ('2021-08-16','TJ Baby Spinach',1),
+  ('2021-08-16','TJ Carrots',1),
+  ('2021-08-16','Eggplant',2),
+  ('2021-08-16','TJ Whole Wheat Wraps',2),
+  ('2021-08-16','Beefsteak tomato',7),
+  ('2021-08-16','Red bell pepper',2),
+  ('2021-08-16','Green bell pepper',2),
+  ('2021-08-16','TJ Misal Curry',4),
+  ('2021-08-16','TJ Veg Biryani',2),
+  /* 2021-08-16 Udupi Palace; order around 3:15 PM; pickup around 3:28 PM */
+  ('2021-08-16','Udupi Palace spinach masala dosa',1);

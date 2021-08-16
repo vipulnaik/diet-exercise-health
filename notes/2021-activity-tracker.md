@@ -746,3 +746,12 @@ was back home around 4:15 PM.
 
 More details about the dental cleaning trip are in
 [2021-08-11-dental-cleaning-trip.md](2021-08-11-dental-cleaning-trip.md).
+
+## Monday August 16
+
+In my downtown Berkeley trip on this date, I went to the Berkeley
+Public Library to donate books to the "Friends of the Library"
+area. I donated about 10 books. I finished around 3 PM.
+
+Later visits to Trader Joe's and Udupi Palace in the same trip are
+covered in [food_purchases.sql](../sql/food_purchases.sql).
