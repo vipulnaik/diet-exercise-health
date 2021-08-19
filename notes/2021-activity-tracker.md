@@ -755,3 +755,12 @@ area. I donated about 10 books. I finished around 3 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
 covered in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday August 18
+
+In the evening, I met with a friend. We were masked and stayed
+outdoors together (walking side by side) from around 4:30 PM to around
+6:15 PM.
+
+Later visits to Trader Joe's and Udupi Palace in the same trip are
+covered in [food_purchases.sql](../sql/food_purchases.sql).
