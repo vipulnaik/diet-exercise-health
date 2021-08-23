@@ -11,6 +11,11 @@ At 7:30 PM I took a measurement and got a temperature of 100.0 degrees
 Fahrenheit. Subsequent readings in the next hour gave 99.5, 99.6, and
 99.3 degrees.
 
+After taking a bath in net-lukewarm water, I re-measured my
+temperature and got 98.2, which puts me out of fever territory. The
+itches haven't healed so I need to continue to monitor for a little
+longer.
+
 Possible culprits:
 
 * I had been doing a lot of house cleaning recently, and as part of
