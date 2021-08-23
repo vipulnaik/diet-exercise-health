@@ -764,3 +764,11 @@ outdoors together (walking side by side) from around 4:30 PM to around
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
 covered in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday August 22
+
+In the late morning / early afternoon, I dealt with a house showing
+and move.
+
+In the afternoon / evening, I had some itchiness and a fever. Details
+are [here](2021-08-22-fever-and-itchiness.md).
