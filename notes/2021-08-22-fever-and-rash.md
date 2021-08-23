@@ -16,7 +16,7 @@ temperature and got 98.2, which puts me out of fever territory. The
 itches haven't healed so I need to continue to monitor for a little
 longer.
 
-Possible culprits:
+## Possible culprits
 
 * I had been doing a lot of house cleaning recently, and as part of
   that I cleaned out a nest and spider webs (th nest cleaning was on
@@ -38,3 +38,12 @@ The following were some early indicators that I did not pay a lot of attention t
 
 * In the morning I felt a bit hotter than usual but chalked it up to
   closing the window early in the morning.
+
+## Followup overnight and next morning
+
+I continued to feel somewhat itchy overnight on Sunday August 22 and
+the morning of Monday August 23. I kept moisturizer handy so that I
+could use it while in bed and could resist the urge to scratch.
+
+My morning temperature readings came to 98.7 (at around 5:37 AM) and
+98.4 (at around 6:57 AM).
