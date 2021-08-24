@@ -772,3 +772,12 @@ and move.
 
 In the afternoon / evening, I had some itchiness and a fever. Details
 are [here](2021-08-22-fever-and-itchiness.md).
+
+## Monday August 23
+
+In the evening of Monday August 23, I tried to dispose of some books
+at the Friends of the Library at Berkeley Public Library. However, by
+the time I arrived (5:15 PM), it had already closed.
+
+Later visits to Trader Joe's and Udupi Palace in the same trip are
+covered in [food_purchases.sql](../sql/food_purchases.sql).

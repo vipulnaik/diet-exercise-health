@@ -386,4 +386,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-08-18','Trader Giotto''s Olive Oil',2),
   ('2021-08-18','TJ Walnuts',1),
   /* 2021-08-18 Udupi Palace; order around 6:30 PM; pickup around 6:40 PM */
-  ('2021-08-18','Udupi Palace spinach masala dosa',1);
+  ('2021-08-18','Udupi Palace spinach masala dosa',1),
+  /* 2021-08-23 Trader Joe's; checkout at 5:33 PM; total cost $22.42 */
+  ('2021-08-23','TJ Misal Curry',3),
+  ('2021-08-23','TJ Veg Biryani',1),
+  ('2021-08-23','TJ Almond Milk',1),
+  ('2021-08-23','TJ Whole Whet Wraps',3),
+  /* 2021-08-23 Udupi Palace; order around 5:22 PM; pickup around 5:35 PM; total cost $13.06 */
+  ('2021-08-23','Udupi Palace spinach masala dosa',1);
