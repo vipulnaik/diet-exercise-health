@@ -47,3 +47,7 @@ could use it while in bed and could resist the urge to scratch.
 
 My morning temperature readings came to 98.7 (at around 5:37 AM) and
 98.4 (at around 6:57 AM).
+
+In the afternoon/evening, around 4:15 PM, I took a reading that came
+to 98.5. After a downtown Berkeley trip followed by dinner, I took a
+reading that came to 99.2.
