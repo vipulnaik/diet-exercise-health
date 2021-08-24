@@ -12,7 +12,8 @@ Date and time | Temperature | Notes
 2021-08-23 6:57 AM | 98.4 | I had been out of bed for a while now
 2021-08-23 4:15 PM | 98.5 | Precautionary reading before making a downtown Berkeley trip
 2021-08-23 7:00 PM | 99.2 | Reading after returning from trip and dinner
-2021-08-23 8:25 PM | 99.4 | Reading after closing windows for about an hourx
+2021-08-23 8:25 PM | 99.4 | Reading after closing windows for about an hour
+2021-08-24 9:08 AM | 98.6 | Temperature reading after a few hours of being awake
 
 ## August 22 symptoms
 
