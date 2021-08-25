@@ -14,6 +14,7 @@ Date and time | Temperature | Notes
 2021-08-23 7:00 PM | 99.2 | Reading after returning from trip and dinner
 2021-08-23 8:25 PM | 99.4 | Reading after closing windows for about an hour
 2021-08-24 9:08 AM | 98.6 | Temperature reading after a few hours of being awake
+2021-08-24 6:50 PM | 99.1 | Evening temperature reading after closing window for a while
 
 ## August 22 symptoms
 
