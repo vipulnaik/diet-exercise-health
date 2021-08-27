@@ -781,3 +781,16 @@ the time I arrived (5:15 PM), it had already closed.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
 covered in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Thursday August 26
+
+In the evening of Thursday August 26, I tried to dispose of some books
+at the Friends of the Library at Berkeley Public Library. However, by
+the time I arrived (3:55 PM), it had already closed. This was the case
+even though the expected hours are up to 4 PM.
+
+I then went to Rex Key & Security for some work with keys. I checked
+out at 4:15 PM.
+
+Later visits to Trader Joe's and Udupi Palace in the same trip are
+covered in [food_purchases.sql](../sql/food_purchases.sql).
