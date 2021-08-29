@@ -12,12 +12,19 @@ I do not have a fever or any other symptoms of viral infection.
 
 I identified a few causes and expect to continue monitoring:
 
+* **Long chat under mask**: On Wednesday August 18, I had a long chat
+    with a friend, in-person, wearing a mask. Talking for a long time
+    with a mask probably wasn't good for my throat. My high frequency
+    of soreness started, on and off, around this time.
+
 * **Consumption of red chillies**: Recently, I had consumed a red
     chillie (red hot pepper) whole in a spinach masala dosa I got from
-    Udupi Palace. The next few times, I hadn't consumed it whole but
-    had kept pieces of it and extracted juice. My practice
-    historically had been to just throw out the chillies and not
-    extract juice. I suspect that the spiciness of this was working against me.
+    Udupi Palace (this was the same day as the chat under mask, and
+    likely interacted to further worsen soreness). The next few times,
+    I hadn't consumed it whole but had kept pieces of it and extracted
+    juice. My practice historically had been to just throw out the
+    chillies and not extract juice. I suspect that the spiciness of
+    this was working against me.
 
 * **Ongoing dental issues**: My gum disease (that I expect to [get
     periodontal therapy for in
