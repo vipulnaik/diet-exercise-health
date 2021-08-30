@@ -60,3 +60,13 @@ I plan to continue to use warm water with salt and turmeric if I get
 strong symptoms, but for the most part I expect to avoid chillies,
 minimize consumption of biryani, and defer getting spinach masala dosa
 for a few days.
+
+## Update Monday August 30
+
+I had similar symptoms (sore throat shortly after meals) on Sunday and
+again on Monday. The intensity of symptoms was less than on
+Saturday. I also noticed a sore throat a little after exercise (not
+right after, maybe starting about 10 minutes after).
+
+I plan to continue to monitor and maintain elevated caution for a
+while.
