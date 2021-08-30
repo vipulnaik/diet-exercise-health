@@ -68,5 +68,11 @@ again on Monday. The intensity of symptoms was less than on
 Saturday. I also noticed a sore throat a little after exercise (not
 right after, maybe starting about 10 minutes after).
 
+I tried a misal curry on the morning of Monday August 30, albeit
+having only a part of the curry and using heavy dilution with almond
+milk. This led me to overeat a bit on Monday morning causing a slight
+bloated stomach, but I expect that to self-correct in a few hours and
+I'll adjust with a smaller later meal.
+
 I plan to continue to monitor and maintain elevated caution for a
 while.
