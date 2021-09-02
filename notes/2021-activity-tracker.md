@@ -794,3 +794,16 @@ out at 4:15 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
 covered in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday September 1
+
+In the afternoon, I made a trip to downtown Berkeley:
+
+* 3:10 PM: Finished disposing of some books at the Friends of the
+  Library at Berkeley Public Library
+* 3:21 PM: Finished purchasing City of Berkeley trash bags at Ace
+  Hardware
+* 3:26 PM: Finished taking out quarters at Citibank
+
+I then got some food from Udupi Palace and Trader Joe's; details are
+in [food_purchases.sql](../sql/food_purchases.sql).
