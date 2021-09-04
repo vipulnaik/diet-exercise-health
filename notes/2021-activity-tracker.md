@@ -807,3 +807,12 @@ In the afternoon, I made a trip to downtown Berkeley:
 
 I then got some food from Udupi Palace and Trader Joe's; details are
 in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday September 3
+
+In the evening, a couple of my friends came over. Both are fully
+vaccinated. We initially walked outdoors for about half an hour. We
+were all masked for most of that duration. We then went to Bangkok
+Thai Cuisine at around 5:15 PM and had dinner. We were masked for most
+of the duration except when eating, which may have been about 10 to 15
+minutes. I got my uneaten food packed and brought it back home.

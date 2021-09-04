@@ -414,5 +414,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-09-01','TJ Whole Wheat Wraps',3),
   ('2021-09-01','TJ Carrots',1),
   ('2021-09-01','Green bell pepper',2),
-  /* 2021-08-26 Udupi Palace; order around 3:35 PM; pickup around 3:55 PM; total cost $13.17 */
-  ('2021-09-01','Udupi Palace spinach masala dosa',1);
+  /* 2021-09-01 Udupi Palace; order around 3:35 PM; pickup around 3:55 PM; total cost $13.17 */
+  ('2021-09-01','Udupi Palace spinach masala dosa',1),
+  /* 2021-09-03 Bangkok Thai Cuisine; total cost $18 ($16 + $2 tip) */
+  ('2021-09-03','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2021-09-03','Bangkok Thai Cuisine white rice',1);
