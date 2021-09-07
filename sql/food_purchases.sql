@@ -418,4 +418,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-09-01','Udupi Palace spinach masala dosa',1),
   /* 2021-09-03 Bangkok Thai Cuisine; total cost $18 ($16 + $2 tip) */
   ('2021-09-03','Bangkok Thai Cuisine yellow curry tofu',1),
-  ('2021-09-03','Bangkok Thai Cuisine white rice',1);
+  ('2021-09-03','Bangkok Thai Cuisine white rice',1),
+  /* 2021-09-07 Bangkok Thai Cuisine; total cost $3.31 */
+  ('2021-09-07','Bangkok Thai Cuisine white rice',2);
