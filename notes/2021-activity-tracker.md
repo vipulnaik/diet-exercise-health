@@ -816,3 +816,12 @@ were all masked for most of that duration. We then went to Bangkok
 Thai Cuisine at around 5:15 PM and had dinner. We were masked for most
 of the duration except when eating, which may have been about 10 to 15
 minutes. I got my uneaten food packed and brought it back home.
+
+## Wednesday September 8
+
+I went to downtown Berkeley. I first went to the Berkeley Public
+Library to donate books. Then I went to Citibank to get quarters in
+exchange for $40, finishing checkout at 3:04 PM.
+
+After that I made some food purchases, documented in
+[food_purchases.sql](../sql/food_purchases.sql).

@@ -420,4 +420,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-09-03','Bangkok Thai Cuisine yellow curry tofu',1),
   ('2021-09-03','Bangkok Thai Cuisine white rice',1),
   /* 2021-09-07 Bangkok Thai Cuisine; total cost $3.31 */
-  ('2021-09-07','Bangkok Thai Cuisine white rice',2);
+  ('2021-09-07','Bangkok Thai Cuisine white rice',2),
+  /* 2021-09-08 Trader Joe's; total cost $41.47; checkout at 3:22 PM; total cost $41.47 (paid by card) */
+  ('2021-09-08','TJ Misal Curry',3),
+  ('2021-09-08','TJ Almond Milk',1),
+  ('2021-09-08','TJ Carrots',1),
+  ('2021-09-08','Beefsteak tomato',7),
+  ('2021-09-08','TJ Baby Spinach',1),
+  ('2021-09-08','Eggplant',2),
+  ('2021-09-08','Red bell pepper',2),
+  ('2021-09-08','Green bell pepper',2),
+  ('2021-09-08','TJ Walnuts',1),
+  ('2021-09-08','TJ Whole Wheat Wraps',3),
+  /* 2021-09-08 Udupi Palace; order around 3:13 PM; pickup araound 3:25 PM; total cost $13.17 (paid by cash) */
+  ('2021-09-08','Udupi Palace spinach masala dosa',1);
