@@ -825,3 +825,8 @@ exchange for $40, finishing checkout at 3:04 PM.
 
 After that I made some food purchases, documented in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Thursday September 9
+
+In the evening I went to Walgreens to purchase toiletries. I finished
+checkout at 7:12 PM Pacific Time.
