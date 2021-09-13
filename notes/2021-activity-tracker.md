@@ -830,3 +830,8 @@ After that I made some food purchases, documented in
 
 In the evening I went to Walgreens to purchase toiletries. I finished
 checkout at 7:12 PM Pacific Time.
+
+## Sunday September 12
+
+In the evening I went to Target to get toiletries, mainly motivated by
+a toilet clog. I finished checkout at 5:44 PM.
