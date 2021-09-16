@@ -421,7 +421,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-09-03','Bangkok Thai Cuisine white rice',1),
   /* 2021-09-07 Bangkok Thai Cuisine; total cost $3.31 */
   ('2021-09-07','Bangkok Thai Cuisine white rice',2),
-  /* 2021-09-08 Trader Joe's; total cost $41.47; checkout at 3:22 PM; total cost $41.47 (paid by card) */
+  /* 2021-09-08 Trader Joe's; checkout at 3:22 PM; total cost $41.47 (paid by card) */
   ('2021-09-08','TJ Misal Curry',3),
   ('2021-09-08','TJ Almond Milk',1),
   ('2021-09-08','TJ Carrots',1),
@@ -435,4 +435,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-09-08 Udupi Palace; order around 3:13 PM; pickup araound 3:25 PM; total cost $13.17 (paid by cash) */
   ('2021-09-08','Udupi Palace spinach masala dosa',1),
   /* 2021-09-11 Mehak Indian Cuisine; online order at 1:27 PM; pickup around 2 PM */
-  ('2021-09-11','Mehak Indian Cuisine standard set',1);
+  ('2021-09-11','Mehak Indian Cuisine standard set',1),
+  /* 2021-09-15 Trader Joe's; checkout at 4:16 PM; total cost $32.90 (paid by card);
+     I did not go to Udupi Palace on this day as I wanted to keep spicy food
+     consumption low given anal issues + upcoming periodontal therapy */
+  ('2021-09-15','TJ Almond Milk',1),
+  ('2021-09-15','Beefsteak tomato',7),
+  ('2021-09-15','TJ Carrots',1),
+  ('2021-09-15','Eggplant',2),
+  ('2021-09-15','TJ Baby Spinach',1),
+  ('2021-09-15','Green bell pepper',2),
+  ('2021-09-15','Red bell pepper',2),
+  ('2021-09-15','TJ Whole Wheat Wraps',4);
+
