@@ -446,5 +446,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-09-15','TJ Baby Spinach',1),
   ('2021-09-15','Green bell pepper',2),
   ('2021-09-15','Red bell pepper',2),
-  ('2021-09-15','TJ Whole Wheat Wraps',4);
+  ('2021-09-15','TJ Whole Wheat Wraps',4),
+  /* 2021-09-20 Trader Joe's; checkout at 3:02 PM; total cost $27.91 (paid by cash);
+     I did not go to Udupi Palace on this day as I wanted to keep spicy food
+     consumption low given anal issues + upcoming periodontal therapy */
+  ('2021-09-20','TJ Carrots',1),
+  ('2021-09-20','TJ Baby Spinach',1),
+  ('2021-09-20','Beefsteak tomato',8),
+  ('2021-09-20','Red bell pepper',2),
+  ('2021-09-20','Eggplant',2),
+  ('2021-09-20','Green bell pepper',2),
+  ('2021-09-20','TJ Whole Wheat Wraps',3);
 
