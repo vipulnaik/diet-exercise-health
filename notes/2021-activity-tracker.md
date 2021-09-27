@@ -835,3 +835,19 @@ checkout at 7:12 PM Pacific Time.
 
 In the evening I went to Target to get toiletries, mainly motivated by
 a toilet clog. I finished checkout at 5:44 PM.
+
+## Wednesday September 22
+
+I made a trip to Total Health Dental Care (riding BART both ways from
+North Berkeley to Ashby) for my periodontal therapy appointment. At
+the location I discovered that the appointmeent was canceled, so I
+spent only a couple of minutes at the location.
+
+I left my home around 10:15 AM, reached the place around 10:45 AM, and
+returned home around 11:20 AM.
+
+## Monday September 27
+
+Shortly after noon, I made a trip to Target to buy toiletries (largely
+motivated by running short on some supplies due to a toilet clog). My
+checkout was at 12:39 PM.
