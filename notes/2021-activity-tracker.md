@@ -851,3 +851,6 @@ returned home around 11:20 AM.
 Shortly after noon, I made a trip to Target to buy toiletries (largely
 motivated by running short on some supplies due to a toilet clog). My
 checkout was at 12:39 PM.
+
+Later in the day, I made a trip to Ace Hardware to get a toilet
+auger. My checkout was at 2:07 PM.
