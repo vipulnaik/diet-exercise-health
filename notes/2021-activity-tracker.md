@@ -854,3 +854,6 @@ checkout was at 12:39 PM.
 
 Later in the day, I made a trip to Ace Hardware to get a toilet
 auger. My checkout was at 2:07 PM.
+
+I made another trip to Target, finishing checkout at 9:21 PM. Later, I
+made a trip to Safeway, finishing checkout at 10:25 PM.
