@@ -857,3 +857,15 @@ auger. My checkout was at 2:07 PM.
 
 I made another trip to Target, finishing checkout at 9:21 PM. Later, I
 made a trip to Safeway, finishing checkout at 10:25 PM.
+
+## Tuesday September 28
+
+In the morning, between 7:15 AM and 7:45 AM, I made a trip to
+Target. I used the restroom there. I didn't buy anything because I
+couldn't find what I was looking for.
+
+## Wednesday September 29
+
+In the morning, between 7 AM and 7:30 AM I made a trip to Target. I
+used the restroom, and later bought paper towels. I finished checkout
+at 7:28 AM.
