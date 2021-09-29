@@ -2,7 +2,8 @@
 
 This is an attempt to describe, from recollection, the events of the
 dental cleaning trip on 2021-08-11. General context is in the [2021
-activity tracker](2021-activity-tracker.md#wednesday-august-11).
+activity tracker](2021-activity-tracker.md#wednesday-august-11). My
+dental hygienist was Haylee.
 
 ## Pre-cleaning monitoring
 
