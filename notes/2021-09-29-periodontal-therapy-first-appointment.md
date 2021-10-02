@@ -90,3 +90,10 @@ mouth.
 
 My next appointment was booked for next Wednesday, October 6, at 1 PM.
 
+## Later followup
+
+My anesthetic mostly wore out within 4 hours and fully wore out within
+5 hours. As the anesthetic wore out, I identified one area in the
+upper right where there was a bit of swelling. I ate around 6:30 PM
+(5.5 hours after the anesthetic). Before eating, I did my first rinse
+with the provided mouthwash.

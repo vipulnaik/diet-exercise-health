@@ -869,3 +869,9 @@ couldn't find what I was looking for.
 In the morning, between 7 AM and 7:30 AM I made a trip to Target. I
 used the restroom, and later bought paper towels. I finished checkout
 at 7:28 AM.
+
+## Friday October 1
+
+In the evening, I made a trip to downtown Berkeley. I first went to
+Citibank to deposit cash, finishing at 4:37 PM. I then went to Udupi
+Palace and Trader Joe's. I didn't buy anything from Trader Joe's.

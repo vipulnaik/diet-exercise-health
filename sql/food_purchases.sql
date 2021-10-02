@@ -476,6 +476,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-09-28','Eggplant',2),
   ('2021-09-28','Beefsteak tomato',4),
   ('2021-09-28','TJ Baby Spinach',1),
-  ('2021-09-28','TJ Whole Wheat Wraps',4);
-
-
+  ('2021-09-28','TJ Whole Wheat Wraps',4),
+  /* 2021-10-01 Udupi Palace; total cost $13.17;
+     I went to Trader Joe's and didn't buy anything */
+  ('2021-10-01','Udupi Palace spinach masala dosa',1);
