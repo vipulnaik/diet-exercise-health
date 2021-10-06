@@ -870,6 +870,10 @@ In the morning, between 7 AM and 7:30 AM I made a trip to Target. I
 used the restroom, and later bought paper towels. I finished checkout
 at 7:28 AM.
 
+Later in the day I made a trip to the dentist for periodontal
+therapy. Details are
+[here](2021-09-29-periodontal-therapy-first-appointment.md).
+
 ## Friday October 1
 
 In the evening, I made a trip to downtown Berkeley. I first went to
