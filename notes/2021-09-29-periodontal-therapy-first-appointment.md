@@ -1,25 +1,36 @@
 # 2021-09-29 periodontal therapy first appointment
 
 This is an attempt to describe, from recollection, the events of the
-first periodontal therapy appointment on 2021-09-29. This was intended
-to be the date of the second periodontal therapy appointment, but the
-first appointment date got canceled. My dental hygienist was Diane.
+first periodontal therapy appointment with Total Health Dental Care on
+2021-09-29. For background, see [my previous dental cleaning
+trip](2021-08-11-dental-cleaning-trip.md).
+
+This was intended to be the date of the second periodontal
+therapy appointment, but the first appointment date got canceled.
+
+My dental hygienist was Diane.
 
 My appointment was for 1 PM but the hygienist was ready a little
 earlier so we got started around 12:50 PM. We finished around 1:43 PM.
 
+## Mouthwash
+
+I was initially asked to rinse with a mouthwash.
 ## Initial X-rays
 
 Since I did not have any X-rays on file, the hygienist first took my
 X-rays for the right side of the mouth, which was the side where she
-planned to clean today. The X-rays took about 5 to 10 minutes.
+planned to clean today. The X-rays took about 5 to 10 minutes. (EDIT:
+Actually, per information gathered in the second appointment it looks
+like my X-rays for the other side of the mouth were also completed).
 
 ## Local anesthetic
 
-The hygienist applied a local anesthetic. My memory of the name
-was "nobivac" but Googling that it sounds like a canine vaccine and
-not a dental anesthetic. So I don't know the name, but I did gather a
-few facts:
+The hygienist applied a local anesthetic. My memory of the name was
+"nobivac" but Googling that it sounds like a canine vaccine and not a
+dental anesthetic (EDIT: Based on information gathered in the next
+visit, I think it was lidocaine). So I don't know the name, but I did
+gather a few facts:
 
 * The anesthetic can take between 1 to 5 hours to wear off -- varies a
   lot by person. The duration is long enough for finishing the
@@ -58,8 +69,13 @@ Near the end, the hygienist did some scraping.
 
 ### Flossing
 
-At the end, the hygienist flossed the teeth in the right half of the
+Near the end, the hygienist flossed the teeth in the right half of the
 mouth.
+
+### Mouthwash spray
+
+At the end, the hygienist used an antibacterial spray (a mouthwash) on
+the pockets.
 
 ## Feedback and aftercare guidance
 
@@ -80,7 +96,7 @@ mouth.
   seemed like a general recommendation not tied to the specifics of my
   teeth.
 
-* Part of the kit provided after treatment was a mouthwash fromm
+* Part of the kit provided after treatment was a mouthwash from
   [Dr. H and Co](https://www.drhandco.com/). Though the bottle says to
   rinse thrice for 2 minutes each, she recommended rinsing at least
   twice for 1 minute each. She also suggested using saltwater if the

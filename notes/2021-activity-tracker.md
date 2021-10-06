@@ -870,8 +870,11 @@ In the morning, between 7 AM and 7:30 AM I made a trip to Target. I
 used the restroom, and later bought paper towels. I finished checkout
 at 7:28 AM.
 
-Later in the day I made a trip to the dentist for periodontal
-therapy. Details are
+Later in the day I made a trip to Total Health Dental Care for
+periodontal therapy. I left home around 12:10 PM, took BART (from
+North Berkeley to Ashby) and arrived a little before 12:50 PM. The
+work happened from 12:50 PM to 1:43 PM. I took BART back home and got
+back around 2:15 PM. Details of the actual appointment are
 [here](2021-09-29-periodontal-therapy-first-appointment.md).
 
 ## Friday October 1
@@ -879,3 +882,13 @@ therapy. Details are
 In the evening, I made a trip to downtown Berkeley. I first went to
 Citibank to deposit cash, finishing at 4:37 PM. I then went to Udupi
 Palace and Trader Joe's. I didn't buy anything from Trader Joe's.
+
+## Wednesday October 6
+
+I made a trip to Total Health Dental Care for periodontal therapy. I
+left home around 12:10 PM, took BART (from North Berkeley to Ashby)
+and arrived around 12:49 PM. I waited a little while for the
+receptionist and hygienist. The work started around 1:10 PM and
+finished around 2:05 PM. I took BART back home and got back around
+2:45 PM. Details of the actual appointment are
+[here](2021-10-06-periodontal-therapy-second-appointment.md).
