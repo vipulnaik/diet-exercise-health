@@ -89,4 +89,8 @@ Around 5 PM, the anesthetic started wearing off fast. By a little
 after 6 PM, it had completely worn off. Around 6:30 PM, I got white
 rice from Bangkok Thai Cuisine (chosen because it's softer on the
 teeth than whole wheat wraps). I then ate dinner including the rice
-and my existing cooked vegetables, along with almond milk.
+and my existing cooked vegetables, along with almond milk. Within my
+cooked foods I avoided carrots since these need biting.
+
+By the next day I had mostly returned to normal food consumption.
+

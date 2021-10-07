@@ -117,3 +117,5 @@ with the provided mouthwash.
 For my food, I got white rice from Bangkok Thai Cuisine (chosen
 because it's softer on the teeth than whole wheat wraps) and had it
 with my cooked vegetables and almmond milk.
+
+By the next day I had mostly returned to normal food consumption.
