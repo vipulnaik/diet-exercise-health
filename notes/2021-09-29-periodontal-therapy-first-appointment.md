@@ -113,3 +113,7 @@ My anesthetic mostly wore out within 4 hours and fully wore out within
 upper right where there was a bit of swelling. I ate around 6:30 PM
 (5.5 hours after the anesthetic). Before eating, I did my first rinse
 with the provided mouthwash.
+
+For my food, I got white rice from Bangkok Thai Cuisine (chosen
+because it's softer on the teeth than whole wheat wraps) and had it
+with my cooked vegetables and almmond milk.

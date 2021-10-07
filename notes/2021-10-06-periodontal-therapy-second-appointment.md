@@ -84,3 +84,9 @@ extending above my mouth to my left nostril and left cheek, including
 the area right below the eye. As of 3:30 PM, the anesthetic was still
 fairly strong and I did not identify any areas of pain, swelling, or
 bleeding.
+
+Around 5 PM, the anesthetic started wearing off fast. By a little
+after 6 PM, it had completely worn off. Around 6:30 PM, I got white
+rice from Bangkok Thai Cuisine (chosen because it's softer on the
+teeth than whole wheat wraps). I then ate dinner including the rice
+and my existing cooked vegetables, along with almond milk.

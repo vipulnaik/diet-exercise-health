@@ -491,4 +491,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-10-03','TJ Almond Milk',1),
   ('2021-10-03','TJ Whole Wheat Wraps',4),
   /* 2021-10-03 Udupi Palace; total cost $13.17 */
-  ('2021-10-03','Udupi Palace spinach masala dosa',1);
+  ('2021-10-03','Udupi Palace spinach masala dosa',1),
+  /* 2021-10-06 Bangkok Thai Cuisine; total cost $3.31*/
+  ('2021-10-06','Bangkok Thai Cuisine white rice',2);
