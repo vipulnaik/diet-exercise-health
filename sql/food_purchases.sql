@@ -493,4 +493,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-10-03 Udupi Palace; total cost $13.17 */
   ('2021-10-03','Udupi Palace spinach masala dosa',1),
   /* 2021-10-06 Bangkok Thai Cuisine; total cost $3.31*/
-  ('2021-10-06','Bangkok Thai Cuisine white rice',2);
+  ('2021-10-06','Bangkok Thai Cuisine white rice',2),
+  /* 2021-10-08 Udupi Palace; order at 5:14 PM; total cost $13.17 */
+  ('2021-10-08','Udupi Palace spinach masala dosa',1),
+  /* 2021-10-08 Trader Joe's; checkout at 5:25 PM; total cost $32.98 (paid by cash) */
+  ('2021-10-08','TJ Misal Curry',3),
+  ('2021-10-08','TJ Carrots',1),
+  ('2021-10-08','Green bell pepper',1),
+  ('2021-10-08','Eggplant',2),
+  ('2021-10-08','TJ Baby Spinach',1),
+  ('2021-10-08','TJ Whole Wheat Wraps',2),
+  ('2021-10-08','Red bell pepper',2),
+  ('2021-10-08','Orange bell pepper',1),
+  ('2021-10-08','Beefsteak tomato',9);

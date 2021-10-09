@@ -892,3 +892,10 @@ receptionist and hygienist. The work started around 1:10 PM and
 finished around 2:05 PM. I took BART back home and got back around
 2:45 PM. Details of the actual appointment are
 [here](2021-10-06-periodontal-therapy-second-appointment.md).
+
+## Friday October 8
+
+In the evening, I made a trip to downtown Berkeley. I first went to
+Ace Hardware and bought Drainbo, paying by cash and checking out at
+5:07 PM. I then made some trips for food purchases, recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
