@@ -1,8 +1,9 @@
 # 2021-09-29 periodontal therapy first appointment
 
 This is an attempt to describe, from recollection, the events of the
-first periodontal therapy appointment with Total Health Dental Care on
-2021-09-29. For background, see [my previous dental cleaning
+first periodontal therapy appointment with Total Health Dental Care at
+3017 Telegraph Avenue, Suite 300 on 2021-09-29. For background, see
+[my previous dental cleaning
 trip](2021-08-11-dental-cleaning-trip.md).
 
 This was intended to be the date of the second periodontal

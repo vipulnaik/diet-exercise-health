@@ -1,7 +1,8 @@
 # 2021-08-11 dental cleaning trip
 
 This is an attempt to describe, from recollection, the events of the
-dental cleaning trip on 2021-08-11. General context is in the [2021
+dental cleaning trip to Total Health Dental Care at 3017 Telegraph
+Avenue, Suite 300 on 2021-08-11. General context is in the [2021
 activity tracker](2021-activity-tracker.md#wednesday-august-11). My
 dental hygienist was Haylee.
 

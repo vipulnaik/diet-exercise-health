@@ -2,7 +2,8 @@
 
 This is an attempt to describe, from recollection, the events of the
 second periodontal therapy appointment with Total Health Dental Care
-on 2021-10-06. For background, see my [first
+at 3017 Telegraph Avenue, Suite 300 on 2021-10-06. For background, see
+my [first
 appointment](2021-09-29-periodontal-therapy-first-appointment.md).
 
 My dental hygienist was Danielle. She was filling in for Diane, my
