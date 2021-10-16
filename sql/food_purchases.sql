@@ -517,4 +517,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-10-13','Eggplant',2),
   ('2021-10-13','Red bell pepper',2),
   ('2021-10-13','Green bell pepper',2),
-  ('2021-10-13','TJ Whole Wheat Wraps',4);
+  ('2021-10-13','TJ Whole Wheat Wraps',4),
+  /* 2021-10-16 Mehak Indian Cuisine (order ~1:30 PM, pickup ~2:10 PM) */
+  ('2021-10-16','Mehak Indian Cuisine standard set',1);
