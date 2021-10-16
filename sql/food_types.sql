@@ -188,3 +188,11 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,36.4,9.7,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* notes */ 'Data was provided for a serving size of 28g, and the conotainer size was 340g. All amounts have been scaled appropriately.');
+
+/* Mehak Indian Cuisine standard set:
+  - two colored rices (complementary)
+  - aloo gobi
+  - aloo saag
+  - vegetable masala
+  - two dal soups
+ */
