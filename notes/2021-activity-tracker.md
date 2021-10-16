@@ -906,3 +906,11 @@ In the evening, I made a trip to downtown Berkeley. I first went to
 Citibank and got quarters for 20 dollars, finishing checkout at 4:05
 PM. I then made some trips for food purchases, recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday October 15
+
+In the evening, I went to the Walgreens at Gilman Street and bought
+some toiletries. In addition, I asked about getting an influenza
+vaccine, and I was asked to book the appointment online or by phone.
+
+My checkout for the stuff I bought was at 7:49 PM.
