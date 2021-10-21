@@ -519,4 +519,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-10-13','Green bell pepper',2),
   ('2021-10-13','TJ Whole Wheat Wraps',4),
   /* 2021-10-16 Mehak Indian Cuisine (order ~1:30 PM, pickup ~2:10 PM) */
-  ('2021-10-16','Mehak Indian Cuisine standard set',1);
+  ('2021-10-16','Mehak Indian Cuisine standard set',1),
+  /* 2021-10-20 Trader Joe's; checkout at 3:32 PM; total cost $40.76 (paid by card);
+     remarkably identical to the previous purchase! */
+  ('2021-10-20','TJ Almond Milk',1),
+  ('2021-10-20','Beefsteak tomato',8),
+  ('2021-10-20','TJ Carrots',1),
+  ('2021-10-20','TJ Baby Spinach',1),
+  ('2021-10-20','Red bell pepper',2),
+  ('2021-10-20','Eggplant',2),
+  ('2021-10-20','TJ Whole Wheat Wraps',4),
+  ('2021-10-20','TJ Misal Curry',3),
+  ('2021-10-20','Green bell pepper',2),
+  /* 2021-10-20 Udupi Palace; checkout at 3:22 PM */
+  ('2021-10-20','Udupi Palace spinach masala dosa',1);
