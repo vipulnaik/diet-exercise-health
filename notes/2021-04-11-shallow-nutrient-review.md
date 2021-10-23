@@ -15,7 +15,7 @@ month, to get an overall sense for how off-base my consumption is.
   it's only a month-long period, this affects some purchases that
   happen in bulk, such as sauerkraut and olive oil.
 
-* Some of the purchases are reconstructeed from memory as we don't
+* Some of the purchases are reconstructed from memory as we don't
   have receipts, so they may be inaccurate.
 
 * For many foods, we don't have information on the "less important"
