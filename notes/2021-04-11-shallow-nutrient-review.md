@@ -45,6 +45,13 @@ which is strong on potassium).
 This isn't concerning enough, but I do hope to come back and examine
 this a bit more.
 
+EDIT 2021-10-23: I noticed that my original data entry for beefsteak
+tomato had *not* included potassium because the source I used did not
+have a potassium measurement. Tomatoes are a rich source of potassium
+so fixing this led to an increase in my estimated potassium
+intake. But it still seems under the RDA right now (though accounting
+for non-home foods may further close the gap).
+
 ### Carbohydrate/fat imbalance
 
 My calorie consumption seems to be a little more towards fats of all
@@ -72,6 +79,11 @@ should get me well past that.
 For Vitamin A and iron, I am at ~70% of where I need to be, but I
 expect that incorporating the non-home food consumption will get me
 closer to where I need to be.
+
+EDIT 2021-10-23: For Vitamin A, an updated check on this date revealed
+adequate intake even without accounting for non-home foods. Iron is
+also close to where it needs to be without accounting for non-home
+foods.
 
 ### Vitamin C: well above RDA
 
