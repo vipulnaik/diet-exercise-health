@@ -532,4 +532,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-10-20','TJ Misal Curry',3),
   ('2021-10-20','Green bell pepper',2),
   /* 2021-10-20 Udupi Palace; checkout at 3:22 PM */
-  ('2021-10-20','Udupi Palace spinach masala dosa',1);
+  ('2021-10-20','Udupi Palace spinach masala dosa',1),
+  /* 2021-10-25 Trader Joe's; checkout at 4:43 PM; tota l cost $43.11 (paid by card) */
+  /* I bought two bottles of vinegar, but these are *not* intended for human consumption */
+  ('2021-10-25','Trader Giotto''s Olive Oil',2),
+  ('2021-10-25','TJ Carrots',1),
+  ('2021-10-25','TJ Baby Spinach',1),
+  ('2021-10-25','TJ Whole Wheat Wraps',3),
+  ('2021-10-25','Beefsteak tomato',8),
+  ('2021-10-25','Eggplant',2),
+  /* 2021-10-25 Udupi Palace */
+  ('2021-10-25','Udupi Palace spinach masala dosa',1);
