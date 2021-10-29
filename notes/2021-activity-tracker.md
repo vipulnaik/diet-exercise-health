@@ -914,3 +914,9 @@ some toiletries. In addition, I asked about getting an influenza
 vaccine, and I was asked to book the appointment online or by phone.
 
 My checkout for the stuff I bought was at 7:49 PM.
+
+## Friday October 29
+
+In the late morning / early afternoon, I went for an eye exam
+appointment at the Tang Center at the University of California,
+Berkeley. The details are [here](2021-10-29-eye-exam.md).
