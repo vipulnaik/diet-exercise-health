@@ -485,7 +485,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-09-29','Bangkok Thai Cuisine white rice',2),
   /* 2021-10-01 Udupi Palace; total cost $13.17;
      I went to Trader Joe's and didn't buy anything */
-  ('2021-10-01','Udupi Palace spinach masala dosa',1)
+  ('2021-10-01','Udupi Palace spinach masala dosa',1),
   /* 2021-10-03 Trader Joe's; total cost $18.84 (paid by card) */
   ('2021-10-03','TJ Veg Biryani',1),
   ('2021-10-03','TJ Almond Milk',1),
@@ -533,13 +533,20 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-10-20','Green bell pepper',2),
   /* 2021-10-20 Udupi Palace; checkout at 3:22 PM */
   ('2021-10-20','Udupi Palace spinach masala dosa',1),
-  /* 2021-10-25 Trader Joe's; checkout at 4:43 PM; tota l cost $43.11 (paid by card) */
+  /* 2021-10-25 Trader Joe's; checkout at 4:43 PM; total cost $43.11 (paid by card) */
   /* I bought two bottles of vinegar, but these are *not* intended for human consumption */
   ('2021-10-25','Trader Giotto''s Olive Oil',2),
   ('2021-10-25','TJ Carrots',1),
   ('2021-10-25','TJ Baby Spinach',1),
-  ('2021-10-25','TJ Whole Wheat Wraps',3),
+  ('2021-10-25','TJ Whole Wheat Tortillas',3),
   ('2021-10-25','Beefsteak tomato',8),
   ('2021-10-25','Eggplant',2),
   /* 2021-10-25 Udupi Palace */
-  ('2021-10-25','Udupi Palace spinach masala dosa',1);
+  ('2021-10-25','Udupi Palace spinach masala dosa',1),
+  /* 2021-10-30 Trader Joe's; checkout at 4:06 PM; total cost $30.73 (paid by card) */
+  ('2021-10-30','TJ Misal Curry',5),
+  ('2021-10-30','TJ Carrots',1),
+  ('2021-10-30','Beefsteak tomato',8),
+  ('2021-10-30','TJ Whole Wheat Tortillas',3),
+  /* 2021-10-30 Udupi Palace, order placed 3:55 PM, pickup around 4:10 PM */
+  ('2021-10-30','Udupi Palace spinach masala dosa',1);
