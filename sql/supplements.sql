@@ -21,6 +21,17 @@ insert into supplements(supplement_shorthand, supplement_url, num_pieces, start_
   ('Freshfield Vegan Omega-3','https://www.amazon.com/gp/product/B07H9GL3Y8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1',60,'2021-04-19','2021-06-01','This is the tenth time I am taking this supplement (or any omega-3 supplement for that matter). I targeted taking about one per day; I took more than one some days and none on other days. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2019-12-30-decision-to-start-taking-omega-3-supplements.md'),
   ('Freshfield Vegan Omega-3','https://www.amazon.com/gp/product/B07H9GL3Y8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1',60,'2021-06-02','2021-07-14','This is the eleventh time I am taking this supplement (or any omega-3 supplement for that matter). I targeted taking about one per day; I took more than one some days and none on other days. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2019-12-30-decision-to-start-taking-omega-3-supplements.md'),
   ('Freshfield Vegan Omega-3','https://www.amazon.com/gp/product/B07H9GL3Y8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1',60,'2021-07-15','2021-09-14','This is the twelfth time I am taking this supplement (or any omega-3 supplement for that matter). I targeted taking about one per day; I took more than one some days and none on other days. I averaged about one per day. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2019-12-30-decision-to-start-taking-omega-3-supplements.md'),
+
+  /* Around 2021-09-15, I accidentally opened two bottles of omega-3 and ended up consuming then concurrently! 
+     One of them might actually have been opened a little before 2021-09-14 and might have caused a delay in 
+     the finishing of the previous consumption as well. */
+
+  /* On 2021-11-02 I discovered three bottles with an earlier expiration date of June 2022 
+     (that I thought I had lost). I decided that once I finish my two already-open bottles
+     I will switch to those three bottles before going to the one unoopened newer bottle.
+     This was based on calculations that suggested that even with such a plan I still expected
+     to finish by the expiration time. */
+
   /* Vitamin D3: Finest Nutrition 2000 IU Vitamin D3 */
   ('Finest Nutrition 2000 IU Vitamin D3','https://www.walgreens.com/store/c/finest-nutrition-d3-vitamin-2000-iu-dietary-supplement-softgels/ID=prod6112628-product',220,'2020-03-01','2020-05-31','This was not the first time for me taking this supplement; it''s just the first actively recorded start date. I don''t remember the exact start date, so the entered date of 2020-03-01 is an approximate estimate. I target taking 1 gel a day, but err on the side of taking more so I expect average consumption to be 7 to 10 per week. Looking at the total consumption (220 over 92 days) it looks like the mean consumption was way higher than my expected average consumption.'),
   ('Finest Nutrition 2000 IU Vitamin D3','https://www.walgreens.com/store/c/finest-nutrition-d3-vitamin-2000-iu-dietary-supplement-softgels/ID=prod6112628-product',220,'2020-06-01','2020-08-24','I target taking 1 gel a day, but err on the side of taking more so I expect average consumption to be 7 to 10 per week. Looking at the total consumption (220 over 85 days) it looks like the mean consumption was way higher than my expected average consumption.'),
