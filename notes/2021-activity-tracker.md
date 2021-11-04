@@ -920,3 +920,10 @@ My checkout for the stuff I bought was at 7:49 PM.
 In the late morning / early afternoon, I went for an eye exam
 appointment at the Tang Center at the University of California,
 Berkeley. The details are [here](2021-10-29-eye-exam.md).
+
+## Wednesday November 3
+
+In the evening, I made a trip to downtown Berkeley. I first went to
+Citibank for some transactions, finishing checkout at 4:16 PM. I then
+made some trips for food purchases, recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
