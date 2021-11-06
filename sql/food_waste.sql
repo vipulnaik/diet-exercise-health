@@ -7,4 +7,5 @@ create table food_waste(
 -- I started keeping track of food waste on 2021-10-31!
 
 insert into food_waste(waste_date, food_type, quantity) values
-  ('2021-10-31','Eggplant',1);
+  ('2021-10-31','Eggplant',1),
+  ('2021-11-06','Green bell pepper',1);
