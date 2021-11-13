@@ -934,3 +934,10 @@ In the late evening, I made a trip to the Walgreens at Gilman Street
 for my flu shot. Details of my flu shot experience are described
 [here](2021-11-05-flu-shot.md). After getting the flu shut, I bought
 toiletries and finished checkout at 7:23 PM.
+
+## Friday November 12
+
+In the evening, I made a trip to downtown Berkeley. I first went to
+Citibank for some transactions, finishing checkout at 4:12 PM. I then
+made some trips for food purchases, recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
