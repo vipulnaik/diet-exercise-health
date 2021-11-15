@@ -941,3 +941,30 @@ In the evening, I made a trip to downtown Berkeley. I first went to
 Citibank for some transactions, finishing checkout at 4:12 PM. I then
 made some trips for food purchases, recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday November 14
+
+In the afternoon, I made a trip to downtown San Francisco for clothes
+shopping.
+
+From around 1:15 PM to 2:15 PM, I took BART from North Berkeley to
+Powell Street (this includes time walking to the station, waiting for
+the train (for 18 minutes), taking the train, switching trains at
+MacArthur) and then walked to the Target near it.
+
+At Target, I bought three sweatshirts and finished checkout at 2:39
+PM.
+
+I then went to Old Navy. They had sweatshirts too but I had bought
+enough at Target. I found one pair of shorts that was small enough for
+my waist; I bought it and checked out at 3:06 PM.
+
+I then took BART to 16th Street / Mission. Again, the wait was long
+(17 minutes) and the ride was short. I walked to Pakwan and placed an
+order at 3:43 PM. I waited, partly by walking outside and partly
+inside, then picked up my order around 4:10 PM.
+
+I then walked back to BART, arriving at 4:14 PM. Again it was a long
+wait (14 minutes) for the train back. The train had some delays due to
+police activity at 19th Street; I reached North Berkeley BART at 5:09
+PM and then walked back home, arriving around 5:15 PM.
