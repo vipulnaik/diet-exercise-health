@@ -968,3 +968,9 @@ I then walked back to BART, arriving at 4:14 PM. Again it was a long
 wait (14 minutes) for the train back. The train had some delays due to
 police activity at 19th Street; I reached North Berkeley BART at 5:09
 PM and then walked back home, arriving around 5:15 PM.
+
+## Friday November 19
+
+In the evening, I first went to the Target on University Avenue. I
+didn't find what I was looking for, so I then went to the Walgreens at
+Gilman Street. I finished purchasing at 8:26 PM.
