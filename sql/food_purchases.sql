@@ -595,6 +595,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-11-18','Beefsteak tomato',9),
   /* 2021-11-18 Udupi Palace; order at 5:32 PM, pickup around 5:55 PM */
   ('2021-11-18','Udupi Palace spinach masala dosa',1),
+  /* 2021-11-23 (probably) Bangkok Thai Cuisine around 2:15 PM, total cost ~$3.41 (paid by cash) */
+  ('2021-11-23','Bangkok Thai Cuisine white rice',2),
   /* 2021-11-24 Trader Joe's; checkout at 4:38 PM; total cost $52.77 (paid by card) */
   ('2021-11-24','Trader Giotto''s Olive Oil',2),
   ('2021-11-24','TJ Sauerkraut',1),
@@ -617,4 +619,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-11-29','Beefsteak tomato',6),
   ('2021-11-29','Green bell pepper',2),
   /* 2021-11-29 Udupi Place; pickup around 5 PM */
-  ('2021-11-29','Udupi Palace spinach masala dosa',1);
+  ('2021-11-29','Udupi Palace spinach masala dosa',1),
+  /* 2021-12-01 Bangkok Thai Cuisine around 2:30 PM to 2:45 PM */
+  ('2021-12-01','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2021-12-01','Bangkok Thai Cuisine white rice',1);
