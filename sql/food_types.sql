@@ -197,7 +197,17 @@ insert into food_types(short_name, long_name, url, calories,
   /* carbohydrate-related columns */ 48.6,24.3,0,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,36.4,9.7,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes */ 'Data was provided for a serving size of 28g, and the conotainer size was 340g. All amounts have been scaled appropriately.');
+  /* notes */ 'Data was provided for a serving size of 28g, and the container size was 340g. All amounts have been scaled appropriately.'),
+
+  ('TJ Madras Lentils','Trader Joe''s Indian Fare Madras Lentils',NULL,300,
+  /* fat-related columns */ 13,6,0,NULL,NULL,
+  /* cholesterol */ 25,
+  /* sodium and potassium (mostly from salts) */ 1040,720,
+  /* carbohydrate-related columns */ 35,10,3,
+  /* protein-related columns */ 13,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0.3,90,4.3,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'Data was provided for the full containe (280 g) that is said to be two servings (140 g each).');
 
 /* Mehak Indian Cuisine standard set:
   - two colored rices (complementary)

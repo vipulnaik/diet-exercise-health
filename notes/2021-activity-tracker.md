@@ -974,3 +974,10 @@ PM and then walked back home, arriving around 5:15 PM.
 In the evening, I first went to the Target on University Avenue. I
 didn't find what I was looking for, so I then went to the Walgreens at
 Gilman Street. I finished purchasing at 8:26 PM.
+
+## Friday December 3
+
+In the evening, I made a trip to downtown Berkeley. I first went to
+Citibank for some transactions, finishing checkout at 4:16 PM. I then
+made some trips for food purchases, recorded in
+[food_purchases.sql](../sql/food_purchases.sql).

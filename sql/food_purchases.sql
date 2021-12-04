@@ -622,4 +622,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-11-29','Udupi Palace spinach masala dosa',1),
   /* 2021-12-01 Bangkok Thai Cuisine around 2:30 PM to 2:45 PM */
   ('2021-12-01','Bangkok Thai Cuisine yellow curry tofu',1),
-  ('2021-12-01','Bangkok Thai Cuisine white rice',1);
+  ('2021-12-01','Bangkok Thai Cuisine white rice',1),
+  /* 2021-12-03 Trader Joe's; checkout at 4:36 PM; total cost $31.31 (paid by card) */
+  ('2021-12-03','Eggplant',2),
+  ('2021-12-03','TJ Madras Lentils',2),
+  ('2021-12-03','TJ Carrots',1),
+  ('2021-12-03','Red bell pepper',2),
+  ('2021-12-03','TJ Baby Spinach',1),
+  ('2021-12-03','Beefsteak tomato',9),
+  ('2021-12-03','TJ Sprouted Wheat Tortillas',2),
+  /* 2021-12-03 Udupi Place; pickup around 4:40 PM */
+  ('2021-12-03','Udupi Palace spinach masala dosa',1);
