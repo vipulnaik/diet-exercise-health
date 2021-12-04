@@ -614,7 +614,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-11-29','TJ Carrots',1),
   ('2021-11-29','TJ Baby Spinach',1),
   ('2021-11-29','Yellow squash',2),
-  ('2021-11-29','TJ Sprouted Wheat Tortillas',2),
+  ('2021-11-29','Alvarado Sprouted Wheat Tortillas',2),
   ('2021-11-29','Eggplant',2),
   ('2021-11-29','Beefsteak tomato',6),
   ('2021-11-29','Green bell pepper',2),
@@ -630,6 +630,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-12-03','Red bell pepper',2),
   ('2021-12-03','TJ Baby Spinach',1),
   ('2021-12-03','Beefsteak tomato',9),
-  ('2021-12-03','TJ Sprouted Wheat Tortillas',2),
+  ('2021-12-03','Alvarado Sprouted Wheat Tortillas',2),
   /* 2021-12-03 Udupi Place; pickup around 4:40 PM */
   ('2021-12-03','Udupi Palace spinach masala dosa',1);

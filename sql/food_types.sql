@@ -207,7 +207,17 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 13,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0.3,90,4.3,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes */ 'Data was provided for the full containe (280 g) that is said to be two servings (140 g each).');
+  /* notes */ 'Data was provided for the full containe (280 g) that is said to be two servings (140 g each).'),
+
+  ('Alvarado Sprouted Wheat Tortillas','Alvarado St. Bakery Freshly Sprouted Wheat Burrito Size Tortillas',NULL,1020,
+  /* fat-related columns */ 15,0,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 1920,870,
+  /* carbohydrate-related columns */ 180,30,6,
+  /* protein-related columns */ 42,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,90,6,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes column */ 'Data was provided for a serving size of 1 tortilla (62 g) and the container had 6 tortillas. Therefore all numbers were multiplied by 6.');
 
 /* Mehak Indian Cuisine standard set:
   - two colored rices (complementary)
