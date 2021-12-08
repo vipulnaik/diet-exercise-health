@@ -981,3 +981,8 @@ In the evening, I made a trip to downtown Berkeley. I first went to
 Citibank for some transactions, finishing checkout at 4:16 PM. I then
 made some trips for food purchases, recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Tuesday December 7
+
+In the evening, I made a trip to Target for some toiletries
+purchases. I finished checkout at 6:10 PM.
