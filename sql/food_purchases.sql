@@ -632,4 +632,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-12-03','Beefsteak tomato',9),
   ('2021-12-03','Alvarado Sprouted Wheat Tortillas',2),
   /* 2021-12-03 Udupi Place; pickup around 4:40 PM */
-  ('2021-12-03','Udupi Palace spinach masala dosa',1);
+  ('2021-12-03','Udupi Palace spinach masala dosa',1),
+  /* 2021-12-07 Mehak Indian Cuisine order at 1:25 PM; pickup around 2:15 PM */
+  ('2021-12-07','Mehal Indian Cuisine standard set',1);

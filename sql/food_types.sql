@@ -117,7 +117,7 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 8,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 1600,96,0,320,8,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes */ 'I used information printed on the back of an actual item. The information was specified in per-serving terms, with 4 srevings per container, so I multiplied the values by 4 for reporting.'),
+  /* notes */ 'I used information printed on the back of an actual item. The information was specified in per-serving terms, with 4 servings per container, so I multiplied the values by 4 for reporting.'),
 
   ('Trader Giotto''s Olive Oil','Trader Giotto''s Extra Virgin Olive Oil',NULL,8000,
   /* fat-related columns */ 933,133,0,667,100,
