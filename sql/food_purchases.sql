@@ -1,7 +1,7 @@
 create table food_purchases(
   `purchase_date` date not null,
   `food_type` varchar(200),
-  `quantity` int(11)
+  `quantity` float(11,2)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into food_purchases(purchase_date, food_type, quantity) values
