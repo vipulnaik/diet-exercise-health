@@ -992,7 +992,10 @@ purchases. I finished checkout at 6:10 PM.
 I made a trip to Total Health Dental Care (on Telegraph Avenue) for my
 periodontal therapy followup appointment. I left home around 12:05 PM,
 arrived at the North Berkeley BART at 12:13 PM, exited the Ashby BART
-at 12:22 PM, and arrived at Total Health Dental Care at 12:40 PM.
+at 12:22 PM, and arrived at Total Health Dental Care at 12:40
+PM. Although it was rainy on these days, I managed to avoid the rain
+in my trip to the place.
 
-Although it was rainy on these days, I managed to avoid the rain in my
-trip to the place.
+I left around 1:55 PM and arrived at the Ashby BART at 2:13 PM. I got
+home around 2:30 PM. On my way back, it was drizzling so I needed to
+use my umbrella.o
