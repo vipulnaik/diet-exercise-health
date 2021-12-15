@@ -998,4 +998,4 @@ in my trip to the place.
 
 I left around 1:55 PM and arrived at the Ashby BART at 2:13 PM. I got
 home around 2:30 PM. On my way back, it was drizzling so I needed to
-use my umbrella.o
+use my umbrella.
