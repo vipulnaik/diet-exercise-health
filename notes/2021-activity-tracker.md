@@ -986,3 +986,13 @@ made some trips for food purchases, recorded in
 
 In the evening, I made a trip to Target for some toiletries
 purchases. I finished checkout at 6:10 PM.
+
+## Wednesday December 15
+
+I made a trip to Total Health Dental Care (on Telegraph Avenue) for my
+periodontal therapy followup appointment. I left home around 12:05 PM,
+arrived at the North Berkeley BART at 12:13 PM, exited the Ashby BART
+at 12:22 PM, and arrived at Total Health Dental Care at 12:40 PM.
+
+Although it was rainy on these days, I managed to avoid the rain in my
+trip to the place.
