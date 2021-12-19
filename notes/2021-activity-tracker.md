@@ -999,3 +999,10 @@ in my trip to the place.
 I left around 1:55 PM and arrived at the Ashby BART at 2:13 PM. I got
 home around 2:30 PM. On my way back, it was drizzling so I needed to
 use my umbrella.
+
+## Saturday December 18
+
+I made a trip to downtown Berkeley. I first got 20 city of Berkeley
+trash bags from Ace Hardware, paying by cash and finishing checkoout
+at 5:03 PM. I then made some food purchases, recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
