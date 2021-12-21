@@ -3,6 +3,7 @@
 Times are approximate, based on recollection.
 
 Date and time | Temperature | Notes
+-- | -- | --
 2021-08-22 7:30 PM | 100.0 | First reading after feeling hot
 2021-08-22 7:45 PM | 99.5 | Followup reading
 2021-08-22 8:00 PM | 99.6 | Followup reading
