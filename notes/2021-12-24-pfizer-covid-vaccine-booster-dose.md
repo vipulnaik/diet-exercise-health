@@ -16,6 +16,7 @@ Time (may be approximate) | Hours since vaccine (2021-12-24 3:10 PM) | Context |
 2021-12-25 7:40 AM | 16 | After properly waking up | 100.1
 2021-12-25 9:43 AM | 19 | After bowel movement | 98.5
 2021-12-25 11:03 AM | 20 | After eating and cleaning up | 98.2
+2021-12-25 11:55 AM | 21 | After doing some desk work for day job | 101.1, 100.4
 
 Compare with a similar table for the [second
 dose](2021-06-25-pfizer-covid-vaccine-dose-2.md).
@@ -192,6 +193,10 @@ A reading I took at 9:43 AM, after my bowel movement, came to 98.5
 degrees Fahrenheit. Despite the return of the temperature to a normal
 range, my subjective experience had not returned to normal, and I
 expect there may be further bouts of fever during the day.
+
+I took another normal reading at 11:03 AM (after eating) of 98.2. At
+11:55 AM, I took another reading and got 101.1. I retook the reading
+after a minute and got 100.4.
 
 ### No morning run
 
