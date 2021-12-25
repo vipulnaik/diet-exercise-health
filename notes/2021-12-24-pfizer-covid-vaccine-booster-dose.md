@@ -14,6 +14,7 @@ Time (may be approximate) | Hours since vaccine (2021-12-24 3:10 PM) | Context |
 2021-12-24 9:36 PM | 6 | Random reading to check in | 99.1
 2021-12-25 5:52 AM | 15 | After mid-sleep trip to urinate | 99.1
 2021-12-25 7:40 AM | 16 | After properly waking up | 100.1
+2021-12-25 9:43 AM | 19 | After bowel movement | 98.5
 
 Compare with a similar table for the [second
 dose](2021-06-25-pfizer-covid-vaccine-dose-2.md).
@@ -131,7 +132,7 @@ I did feel a little bit fatigued for a couple of minutes after the
 booster, but this was likely due to my double-masking + sunglasses and
 the physical effect of the prick, than the actual stuff injected.
 
-## Aftereffects
+## Aftereffects: day of vaccine (2021-12-24)
 
 ### Evening of the booster shot
 
@@ -139,6 +140,11 @@ I felt a few random body aches, similar to what I might get after
 vigorous exercise, in the evening. The locations including my lower leg
 and stomach. The aches were not enough to meaningfully distract me from
 my work. My evening temperature reading was 99.1.
+
+While I would normally do some exercises including weightlifting and
+pushups in the evening (I do these exercises on alternate days) I
+skipped those exercises to conserve my physical energy and in light of
+my soreness.
 
 ### Sleep on the night of the booster shot
 
@@ -148,12 +154,30 @@ the injection area on my right arm as well as on my legs. Usually my
 body is a bit sore when I go to sleep but very relaxed by the time I
 wake up, but this time, my body was a bit more sore when I woke up.
 
+## Aftereffects: next day (2021-12-25)
+
+### Early morning
+
 Around 5:48 AM, I woke up to urinate, then took a temperature reading
 (got 99.1) and went back to sleep. Frequent urination had also been an
 aftereffect of my COVID shot last time.
 
 I got up properly around 7:25 AM. At 7:40 AM I took another
 temperature reading and got 100.1.
+
+### Bowel movement
+
+I did not feel the pressure to have a bowel movement right after
+waking up, unlike most days. Some time after 9 AM, I decided to try
+and get a bowel movement anyway. I got one that was a little less than
+usual.
+
+Reduced bowel pressure was something I had also experienced after the
+previous COVID dose, and likely reflects the body diverting resources
+away from food processing and toward generating the immune response.
+
+A reading I took at 9:43 AM, after my bowel movement, came to 98.5
+degrees Fahrenheit.
 
 ## Comparison with last time
 
