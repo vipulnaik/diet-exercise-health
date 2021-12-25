@@ -6,12 +6,20 @@ Walgreens on Gilman Street.
 
 ## Temperature readings
 
-Time (may be approximate) | Context | Reading in degrees Fahrenheit
--- | -- | --
-2021-12-24 2:10 PM | Before heading out for my COVID shot | 98.7
-2021-12-24 4:00 PM | After returning from my COVID shot | 97.7
-2021-12-24 5:54 PM | After having dinner and cleaning up | 98.4
-2021-12-24 9:36 PM | Random reading to check in | 99.1
+Time (may be approximate) | Hours since vaccine (2021-12-24 3:10 PM) | Context | Reading in degrees Fahrenheit
+-- | -- | -- | --
+2021-12-24 2:10 PM | -1 | Before heading out for my COVID shot | 98.7
+2021-12-24 4:00 PM | 1 | After returning from my COVID shot | 97.7
+2021-12-24 5:54 PM | 3 | After having dinner and cleaning up | 98.4
+2021-12-24 9:36 PM | 6 | Random reading to check in | 99.1
+2021-12-25 5:52 AM | 15 | After mid-sleep trip to urinate | 99.1
+2021-12-25 7:40 AM | 16 | After properly waking up | 100.1
+
+Compare with a similar table for the [second
+dose](2021-06-25-pfizer-covid-vaccine-dose-2.md).
+
+For more on my baseline temperature readings, see
+[2021-08-temperature-baseline.md](2021-08-temperature-baseline.md).
 
 ## Appointment booking (Tuesday December 7)
 
@@ -46,6 +54,38 @@ Reactions](https://www.lesswrong.com/posts/QHBBeSYqdFdnNcFut/quick-poll-booster-
 by Elizabeth informed my priors before getting the booster. I did not
 have access to this post when I booked my appointment (it was
 published on December 20).
+
+## Impact minimization strategies
+
+I had anticipated some probability of feeling feverish after the
+vaccine. I took the following steps to minimize the impact:
+
+* I chose a time of year when things are generally calmer work-wise,
+  i.e., the Christmas/New Year's lull.
+
+* I reviewed my pattern of reactions to the [second
+  dose](2021-06-25-pfizer-covid-vaccine-dose-2.md) to know what to
+  expect for the third dose; I also read [Quick Poll: Booster
+  Reactions](https://www.lesswrong.com/posts/QHBBeSYqdFdnNcFut/quick-poll-booster-reactions).
+
+* I booked the appointment for a Friday where the next three days were
+  holidays, so that even if there was an adverse reaction it would be
+  less likely to affect the work week where availability requirements
+  and activity levels are higher.
+
+* I already had a no-contact infrared thermometer and took frequent
+  readings to monitor.
+
+* I scheduled meal prep for the day after the vaccine. Since meal prep is a more mechanical
+  activity, I was more confident of being able to do it even if I were
+  a little bit unwell.
+
+* I made sure I still had and could locate the Tylenol I had purchased
+  before my second vaccine dose. My general plan was to *not* take it
+  unless the pain was severe. In general, taking painkillers
+  preeemptively can dampen immune response, so the painkiller should
+  only be taken once the immune response is under way and the pain is
+  hard to tolerate.
 
 ## Booster shot (Friday December 24)
 
@@ -96,6 +136,28 @@ the physical effect of the prick, than the actual stuff injected.
 ### Evening of the booster shot
 
 I felt a few random body aches, similar to what I might get after
-vigorus exercise, in the evening. The locations including my lower leg
-and stomach. The aches were not enough to meaninfully distract me from
-my work.
+vigorous exercise, in the evening. The locations including my lower leg
+and stomach. The aches were not enough to meaningfully distract me from
+my work. My evening temperature reading was 99.1.
+
+### Sleep on the night of the booster shot
+
+My sleep on the night of the booster shot was somewhat fitful. I felt
+a mix of feverishness and chills, and some body aches and soreness in
+the injection area on my right arm as well as on my legs. Usually my
+body is a bit sore when I go to sleep but very relaxed by the time I
+wake up, but this time, my body was a bit more sore when I woke up.
+
+Around 5:48 AM, I woke up to urinate, then took a temperature reading
+(got 99.1) and went back to sleep. Frequent urination had also been an
+aftereffect of my COVID shot last time.
+
+I got up properly around 7:25 AM. At 7:40 AM I took another
+temperature reading and got 100.1.
+
+## Comparison with last time
+
+Comparing with my [second
+dose](2021-06-25-pfizer-covid-vaccine-dose-2.md), it looks like my
+reaction was a little bit *faster* this time, but qualitatively
+similar. It remains to be seen whether it also subsides more quickly.

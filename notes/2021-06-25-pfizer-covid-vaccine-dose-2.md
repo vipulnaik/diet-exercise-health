@@ -9,27 +9,67 @@ tracker](2021-activity-tracker.md).
 
 ## Temperature readings
 
-Time (may be approximate) | Context | Reading in degrees Fahrenheit
--- | -- | --
-2021-06-25 4:00 PM | Before heading out for my COVID shot | 98.3
-2021-06-25 6:15 PM | After returning from my COVID shot | 98.6
-2021-06-26 11:10 AM | Feeling hot so I decided to measure | 99.4
-2021-06-26 11:54 AM | Periodic check to see if I'm still hot | 100.0
-2021-06-26 12:30 PM | Check after clearing my bowels | 99.3
-2021-06-26 1:52 PM | Periodic check to see if I'm still hot | 99.5
-2021-06-26 3:25 PM | Periodic check to see if I'm still hot | 99.5
-2021-06-26 4:29 PM | Periodic check to see if I'm still hot | 99.1
-2021-06-26 6:12 PM | Periodic check to see if I'm still hot | 100.8, 101.9, 101.8, 101.3
-2021-06-26 7:26 PM | Periodic check to see if I'm still hot | 101.6
-2021-06-26 8:04 PM | Periodic check to see if I'm still hot | 100.3
-2021-06-26 8:52 PM | Periodic check to see if I'm still hot | 100.1
-2021-06-26 11:29 PM | Periodic check to see if I'm still hot | 99.0
-2021-06-27 5:37 AM | Periodic check to see if I'm still hot | 99.6
-2021-06-27 6:54 AM | Periodic check to see if I'm still hot | 99.3
-2021-06-27 9:22 AM | Periodic check to see if I'm still hot | 98.7
-2021-06-27 11:30 AM | Confirmation that I have cooled down | 98.6
-2021-06-27 11:50 AM | Confirmation that I have cooled down | 98.4
-2021-06-27 2:06 PM | Confirmation that I have cooled down | 98.1
+Time (may be approximate) | Hours since vaccine (2021-06-25 5 PM) | Context | Reading in degrees Fahrenheit
+-- | -- | -- | --
+2021-06-25 4:00 PM | -1 | Before heading out for my COVID shot | 98.3
+2021-06-25 6:15 PM | 1 | After returning from my COVID shot | 98.6
+2021-06-26 11:10 AM | 18 | Feeling hot so I decided to measure | 99.4
+2021-06-26 11:54 AM | 19 | Periodic check to see if I'm still hot | 100.0
+2021-06-26 12:30 PM | 19 | Check after clearing my bowels | 99.3
+2021-06-26 1:52 PM | 21 | Periodic check to see if I'm still hot | 99.5
+2021-06-26 3:25 PM | 22 | Periodic check to see if I'm still hot | 99.5
+2021-06-26 4:29 PM | 23 | Periodic check to see if I'm still hot | 99.1
+2021-06-26 6:12 PM | 25 | Periodic check to see if I'm still hot | 100.8, 101.9, 101.8, 101.3
+2021-06-26 7:26 PM | 26 | Periodic check to see if I'm still hot | 101.6
+2021-06-26 8:04 PM | 27 | Periodic check to see if I'm still hot | 100.3
+2021-06-26 8:52 PM | 28 | Periodic check to see if I'm still hot | 100.1
+2021-06-26 11:29 PM | 30 | Periodic check to see if I'm still hot | 99.0
+2021-06-27 5:37 AM | 37 | Periodic check to see if I'm still hot | 99.6
+2021-06-27 6:54 AM | 38 | Periodic check to see if I'm still hot | 99.3
+2021-06-27 9:22 AM | 40 | Periodic check to see if I'm still hot | 98.7
+2021-06-27 11:30 AM | 42 | Confirmation that I have cooled down | 98.6
+2021-06-27 11:50 AM | 43 | Confirmation that I have cooled down | 98.4
+2021-06-27 2:06 PM | 45 | Confirmation that I have cooled down | 98.1
+
+Compare with a similar table for the
+[booster](2021-12-24-pfizer-covid-vaccine-booster-dose.md).
+
+For more on my baseline temperature readings, see
+[2021-08-temperature-baseline.md](2021-08-temperature-baseline.md).
+
+## Impact minimization strategies
+
+I had anticipated some probability of feeling feverish after the
+vaccine. I took the following steps to minimize the impact:
+
+* I delayed getting my COVID vaccine dose till a time when things were
+  relatively calm work-wise (compared to early 2021) so that even if I
+  did get sick, there wouldn't be a crush load from work.
+
+* I delayed till long enough that there was widely available
+  information on the pattern of immune response and possible adverse
+  impacts, so that I could be well-prepared.
+
+* I booked the appointment for a Friday, so that even if there was an
+  adverse reaction it would be less likely to affect the work week
+  where availability requirements and activity levels are higher.
+
+* I already had a no-contact infrared thermometer and took frequent
+  readings to monitor.
+
+* Not sure how deliberate I was about this, but I scheduled meal prep
+  for the day after the vaccine. Since meal prep is a more mechanical
+  activity, I was more confident of being able to do it even if I were
+  a little bit unwell, and indeed meal prep turned out to be a good
+  fit. See my [2021-06-26 daily
+  update](https://github.com/vipulnaik/daily-updates/issues/559).
+
+* I bought some Tylenol ahead of the vaccine so that in case I felt
+  severe pain I could take it. My general plan was to *not* take it
+  unless the pain was severe. In general, taking painkillers
+  preemptively can dampen immune response, so the painkiller should
+  only be taken once the immune response is under way and the pain is
+  hard to tolerate. I did not end up taking Tylenol.
 
 ## Friday June 25
 
