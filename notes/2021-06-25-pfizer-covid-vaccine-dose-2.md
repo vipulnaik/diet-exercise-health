@@ -7,6 +7,16 @@ For more general background on my outside-the-home activities in that
 time period, see my [2021 activity
 tracker](2021-activity-tracker.md).
 
+Sections of the document:
+
+* [Temperature readings](#temperature-readings) since a slight fever was the main aftereffect
+* [Impact minimization strategies](#impact-minimization-strategies)
+  that I used to minimize the adverse effect of the vaccine on my life
+* [Summary of aftereffects](#summary-of-aftereffects) that lists the main aftereffects
+* [Friday June 25: day of vaccine](#friday-june-25-day-of-vaccine)
+* [Saturday June 26: day of peak aftereffects](#saturday-june-26-day-of-peak-aftereffects)
+* [Sunday June 27: return to normalcy](sunday-june-27-return-to-normalcy)
+
 ## Temperature readings
 
 Time (may be approximate) | Hours since vaccine (2021-06-25 5 PM) | Context | Reading in degrees Fahrenheit
@@ -71,7 +81,17 @@ vaccine. I took the following steps to minimize the impact:
   only be taken once the immune response is under way and the pain is
   hard to tolerate. I did not end up taking Tylenol.
 
-## Friday June 25
+## Summary of aftereffects
+
+* Fever, both as measured in readings and as subjectively experienced
+  with me; this seems to have peaked between 12 and 36 hours after the
+  vaccine dose
+* More frequent urination at night, and reduced bowel pressure (likely
+  due to resources being diverted from food processing to constructing
+  the immune response)
+* Body aches and soreness
+
+## Friday June 25: day of vaccine
 
 In the evening I went to get my COVID shot. My temperature before
 leaving (taken around 4 PM) was 98.3 degrees Fahrenheit.
@@ -104,7 +124,7 @@ previous night; in any case I went to sleep around 9 PM. I had a
 slight soreness in my arm while sleeping, which actually made me
 relieved as I was worried that I hadn't even gotten injected!
 
-## Saturday June 26
+## Saturday June 26: day of peak aftereffects
 
 I felt fine in the morning; very slight soreness continued and a
 general slight physical fatigue and small aches (the kind you get
@@ -158,7 +178,7 @@ I got up twice shortly after, to urinate, once at around 9:25 PM and
 once at around 11:29 PM. I took a temperature reading at 11:29 PM that
 came to 99.0 degrees Fahrenheit.
 
-## Sunday June 27
+## Sunday June 27: return to normalcy
 
 I reached a semi-awake state around 5:30 AM. I took a temperature
 reading at 5:37 AM that came to 99.6 degrees Fahrenheit. I got more
