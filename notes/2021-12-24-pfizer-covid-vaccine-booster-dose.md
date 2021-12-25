@@ -36,6 +36,14 @@ and December 24. I ultimately picked December 24 as it was a holiday
 three days after December 24 are also holidays, and I expect to be
 fully recovered by the next working day, December 28.
 
+## Priors
+
+The LessWrong post [Quick Poll: Booster
+Reactions](https://www.lesswrong.com/posts/QHBBeSYqdFdnNcFut/quick-poll-booster-reactions)
+informed my priors before getting the booster. I did not have access
+to this post when I booked my appointment (it was published on
+December 20).
+
 ## Booster shot (Friday December 24)
 
 I left my home around 2:30 PM. I took with me my COVID vaccine card as

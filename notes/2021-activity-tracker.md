@@ -1009,10 +1009,10 @@ at 5:03 PM. I then made some food purchases, recorded in
 
 ## Friday December 24
 
-I made a trip to Walgreens foor my Pfizer COVID vaccine booster
+I made a trip to Walgreens for my Pfizer COVID vaccine booster
 dose. The appointment was at 3 PM.
 
-I left home arouond 2:30 PM, arrived around 2:54 PM, and filled out
+I left home around 2:30 PM, arrived around 2:54 PM, and filled out
 some forms, then I waited for the pharmacist to be ready. After getting
 the booster at around 3:10 PM, I waited briefly in the observational
 area, then bought a few things and went back home.
