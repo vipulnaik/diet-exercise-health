@@ -1,4 +1,4 @@
-# 2012-12-24 Pfizer COVID vaccine: booster dose
+# 2021-12-24 Pfizer COVID vaccine: booster dose
 
 This document describes my experience after receiving the booster dose
 of the Pfizer COVID vaccine on Friday, December 24, 2021 at the
