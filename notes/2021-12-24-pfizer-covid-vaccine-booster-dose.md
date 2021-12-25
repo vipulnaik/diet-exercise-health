@@ -78,9 +78,14 @@ vaccine. I took the following steps to minimize the impact:
 * I already had a no-contact infrared thermometer and took frequent
   readings to monitor.
 
-* I scheduled meal prep for the day after the vaccine. Since meal prep is a more mechanical
-  activity, I was more confident of being able to do it even if I were
-  a little bit unwell.
+* I scheduled meal prep for the day after the vaccine. Since meal prep
+  is a more mechanical activity, I was more confident of being able to
+  do it even if I were a little bit unwell.
+
+* Additionally, I kept some relatively mechanical day job work as a
+  backup option for the day in case I didn't feel up to doing other
+  more exciting things. I did end up doing that mechanical day job
+  work, though it took only 30 minutes.
 
 * I made sure I still had and could locate the Tylenol I had purchased
   before my second vaccine dose. My general plan was to *not* take it
