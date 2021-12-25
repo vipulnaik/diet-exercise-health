@@ -183,7 +183,9 @@ previous COVID dose, and likely reflects the body diverting resources
 away from food processing and toward generating the immune response.
 
 A reading I took at 9:43 AM, after my bowel movement, came to 98.5
-degrees Fahrenheit.
+degrees Fahrenheit. Despite the return of the temperature to a normal
+range, my subjective experience had not returned to normal, and I
+expect there may be further bouts of fever during the day.
 
 ### No morning run
 
