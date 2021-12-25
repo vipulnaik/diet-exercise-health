@@ -10,6 +10,7 @@ Time (may be approximate) | Context | Reading in degrees Fahrenheit
 -- | -- | --
 2021-12-24 2:10 PM | Before heading out for my COVID shot | 98.7
 2021-12-24 4:00 PM | After returning from my COVID shot | 97.7
+2021-12-24 5:54 PM | After having dinner and cleaning up | 98.4
 
 ## Appointment booking (Tuesday December 7)
 
