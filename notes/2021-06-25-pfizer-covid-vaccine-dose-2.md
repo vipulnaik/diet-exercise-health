@@ -72,7 +72,9 @@ vaccine. I took the following steps to minimize the impact:
   activity, I was more confident of being able to do it even if I were
   a little bit unwell, and indeed meal prep turned out to be a good
   fit. See my [2021-06-26 daily
-  update](https://github.com/vipulnaik/daily-updates/issues/559).
+  update](https://github.com/vipulnaik/daily-updates/issues/559). (I
+  also spent 1 hour 52 minutes on my day job that day, so I was not
+  totally out of commission).
 
 * I bought some Tylenol ahead of the vaccine so that in case I felt
   severe pain I could take it. My general plan was to *not* take it
