@@ -1,7 +1,8 @@
 # 2012-12-24 Pfizer COVID vaccine: booster dose
 
 This document describes my experience after receiving the booster dose
-of the Pfizer COVID vaccine on Friday, December 24, 2021 at Walgreens.
+of the Pfizer COVID vaccine on Friday, December 24, 2021 at the
+Walgreens on Gilman Street.
 
 ## Temperature readings
 
@@ -40,9 +41,9 @@ fully recovered by the next working day, December 28.
 
 The LessWrong post [Quick Poll: Booster
 Reactions](https://www.lesswrong.com/posts/QHBBeSYqdFdnNcFut/quick-poll-booster-reactions)
-informed my priors before getting the booster. I did not have access
-to this post when I booked my appointment (it was published on
-December 20).
+by Elizabeth informed my priors before getting the booster. I did not
+have access to this post when I booked my appointment (it was
+published on December 20).
 
 ## Booster shot (Friday December 24)
 
