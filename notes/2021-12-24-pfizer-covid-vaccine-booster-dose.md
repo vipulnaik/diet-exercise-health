@@ -89,3 +89,12 @@ when I had remarked to her that the prick was very light).
 I did feel a little bit fatigued for a couple of minutes after the
 booster, but this was likely due to my double-masking + sunglasses and
 the physical effect of the prick, than the actual stuff injected.
+
+## Aftereffects
+
+### Evening of the booster shot
+
+I felt a few random body aches, similar to what I might get after
+vigorus exercise, in the evening. The locations including my lower leg
+and stomach. The aches were not enough to meaninfully distract me from
+my work.
