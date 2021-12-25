@@ -1006,3 +1006,16 @@ I made a trip to downtown Berkeley. I first got 20 city of Berkeley
 trash bags from Ace Hardware, paying by cash and finishing checkoout
 at 5:03 PM. I then made some food purchases, recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday December 24
+
+I made a trip to Walgreens foor my Pfizer COVID vaccine booster
+dose. The appointment was at 3 PM.
+
+I left home arouond 2:30 PM, arrived around 2:54 PM, and filled out
+some forms, then I waited for the pharmacist to be ready. After getting
+the booster at around 3:10 PM, I waited briefly in the observational
+area, then bought a few things and went back home.
+
+More details are in
+[2021-12-24-pfizer-covid-vaccine-booster-dose.md](2021-12-24-pfizer-covid-vaccine-booster-dose.md).

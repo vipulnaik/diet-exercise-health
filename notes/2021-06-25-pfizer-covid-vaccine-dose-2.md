@@ -1,11 +1,11 @@
+# 2021-06-25 Pfizer COVID vaccine: dose 2
+
 This document describes my experience after receiving dose 2 of the
 Pfizer COVID vaccine on Friday, June 25, 2021.
 
 For more general background on my outside-the-home activities in that
 time period, see my [2021 activity
-tracker](2021-activity-tracker.md). Note that the actual trip details
-ar found in both files; but the current file has more details on the
-aftereffects.
+tracker](2021-activity-tracker.md).
 
 ## Temperature readings
 
