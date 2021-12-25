@@ -146,6 +146,12 @@ pushups in the evening (I do these exercises on alternate days) I
 skipped those exercises to conserve my physical energy and in light of
 my soreness.
 
+Other than the slight fever and aches and the skipping of exercise,
+the evening of the booster shot was pretty normal. In fact, I'd say my
+productivity was higher than on a typical evening. See my [2021-12-24
+daily update](https://github.com/vipulnaik/daily-updates/issues/732)
+for more.
+
 ### Sleep on the night of the booster shot
 
 My sleep on the night of the booster shot was somewhat fitful. I felt
