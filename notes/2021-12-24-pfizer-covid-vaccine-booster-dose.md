@@ -179,6 +179,12 @@ away from food processing and toward generating the immune response.
 A reading I took at 9:43 AM, after my bowel movement, came to 98.5
 degrees Fahrenheit.
 
+### No morning run
+
+Since it was raining, I couldn't go for my usual morning run. If it
+hadn't been raining and had been a bit warmer, I might have gone for a
+brief run and walk, but I'm not sure.
+
 ## Comparison with last time
 
 Comparing with my [second
