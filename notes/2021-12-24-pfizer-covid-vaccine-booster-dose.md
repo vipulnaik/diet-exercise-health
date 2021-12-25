@@ -15,6 +15,7 @@ Time (may be approximate) | Hours since vaccine (2021-12-24 3:10 PM) | Context |
 2021-12-25 5:52 AM | 15 | After mid-sleep trip to urinate | 99.1
 2021-12-25 7:40 AM | 16 | After properly waking up | 100.1
 2021-12-25 9:43 AM | 19 | After bowel movement | 98.5
+2021-12-25 11:03 AM | 20 | After eating and cleaning up | 98.2
 
 Compare with a similar table for the [second
 dose](2021-06-25-pfizer-covid-vaccine-dose-2.md).
