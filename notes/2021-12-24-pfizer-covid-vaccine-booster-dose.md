@@ -15,6 +15,7 @@ Sections of the document:
 * [Booster shot (Friday December 24)](#booster-shot-friday-december-24)
 * [Aftereffects: day of vaccine (Friday December 24)](#aftereffects-day-of-vaccine-friday-december-24)
 * [Aftereffects: next day (Saturday December 25)](#aftereffects-next-day-saturday-december-25)
+* [Recovery (Sunday December 26)](#recovery-sunday-december-26)
 
 ## Temperature readings
 
@@ -35,6 +36,7 @@ Time (may be approximate) | Hours since vaccine (2021-12-24 3:10 PM) | Context |
 2021-12-25 7:34 PM | 28 | Evening checkin | 98.7
 2021-12-25 9:17 PM | 30 | Evening checkin | 100.3, 99.8, 98.9
 2021-12-25 9:43 PM | 31 | After bath | 98.6
+2021-12-26 8:16 AM | 41 | Shortly after waking up | 98.4
 
 Compare with a similar table for the [second
 dose](2021-06-25-pfizer-covid-vaccine-dose-2.md).
@@ -248,3 +250,13 @@ I took several other readings through the afternoon/evening. My
 temperature kept fluctuating between normal and high, and the
 temperature reading did not closely track my subjective experience
 over the time period.
+
+### Sleep
+
+I went to sleep around 9:45 PM. My sleep was initially fitful but then
+became more relaxed over time.
+
+## Recovery (Sunday December 26)
+
+I got up relatively late, a little after 8 AM. I felt refreshed. My
+temperature reading came to 98.4.
