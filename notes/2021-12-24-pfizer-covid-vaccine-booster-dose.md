@@ -19,6 +19,7 @@ Time (may be approximate) | Hours since vaccine (2021-12-24 3:10 PM) | Context |
 2021-12-25 11:55 AM | 21 | After doing some desk work for day job | 101.1, 100.4
 2021-12-25 1:48 PM | 23 | After doing part of meal prep | 99.4
 2021-12-25 5:00 PM | 26 | After finishing eating | 100.1, 99.8
+2021-12-25 5:54 PM | 27 | After post-dinner cleanup | 98.7
 
 Compare with a similar table for the [second
 dose](2021-06-25-pfizer-covid-vaccine-dose-2.md).
@@ -196,15 +197,22 @@ degrees Fahrenheit. Despite the return of the temperature to a normal
 range, my subjective experience had not returned to normal, and I
 expect there may be further bouts of fever during the day.
 
-I took another normal reading at 11:03 AM (after eating) of 98.2. At
-11:55 AM, I took another reading and got 101.1. I retook the reading
-after a minute and got 100.4.
-
 ### No morning run
 
 Since it was raining, I couldn't go for my usual morning run. If it
 hadn't been raining and had been a bit warmer, I might have gone for a
 brief run and walk, but I'm not sure.
+
+### Further readings
+
+I took another normal reading at 11:03 AM (after eating) of 98.2. At
+11:55 AM, I took another reading and got 101.1. I retook the reading
+after a minute and got 100.4.
+
+I took several other readings through the afternoon/evening. My
+temperature kept fluctuating between normal and high, and the
+temperature reading did not closely track my subjective experience
+over the time period.
 
 ## Comparison with last time
 
