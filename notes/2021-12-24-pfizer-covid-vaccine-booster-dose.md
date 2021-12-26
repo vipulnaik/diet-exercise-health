@@ -175,7 +175,7 @@ I did feel a little bit fatigued for a couple of minutes after the
 booster, but this was likely due to my double-masking + sunglasses and
 the physical effect of the prick, than the actual stuff injected.
 
-## Aftereffects: day of vaccine (2021-12-24)
+## Aftereffects: day of vaccine (Friday December 24)
 
 ### Evening of the booster shot
 
