@@ -18,6 +18,7 @@ Time (may be approximate) | Hours since vaccine (2021-12-24 3:10 PM) | Context |
 2021-12-25 11:03 AM | 20 | After eating and cleaning up | 98.2
 2021-12-25 11:55 AM | 21 | After doing some desk work for day job | 101.1, 100.4
 2021-12-25 1:48 PM | 23 | After doing part of meal prep | 99.4
+2021-12-25 5:00 PM | 26 | After finishing eating | 100.1, 99.8
 
 Compare with a similar table for the [second
 dose](2021-06-25-pfizer-covid-vaccine-dose-2.md).
