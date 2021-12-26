@@ -4,6 +4,18 @@ This document describes my experience after receiving the booster dose
 of the Pfizer COVID vaccine on Friday, December 24, 2021 at the
 Walgreens on Gilman Street.
 
+Sections of the document:
+
+* [Temperature readings](#temperature-readings) since a slight fever was the main aftereffect
+* [Appointment booking (Tuesday December 7)](#appointment-booking-tuesday-december-7)
+* [Priors](#priors)
+* [Impact minimization strategies](#impact-minimization-strategies)
+  that I used to minimize the adverse effect of the vaccine on my life
+* [Summary of aftereffects](#summary-of-aftereffects) that lists the main aftereffects
+* [Booster shot (Friday December 24)](#booster-shot-friday-december-24)
+* [Aftereffects: day of vaccine (Friday December 24)](#aftereffects-day-of-vaccine-friday-december-24)
+* [Aftereffects: next day (Saturday December 25)](#aftereffects-next-day-saturday-december-25)
+
 ## Temperature readings
 
 Time (may be approximate) | Hours since vaccine (2021-12-24 3:10 PM) | Context | Reading in degrees Fahrenheit
@@ -191,7 +203,7 @@ the injection area on my right arm as well as on my legs. Usually my
 body is a bit sore when I go to sleep but very relaxed by the time I
 wake up, but this time, my body was a bit more sore when I woke up.
 
-## Aftereffects: next day (2021-12-25)
+## Aftereffects: next day (Saturday December 25)
 
 ### Early morning
 
