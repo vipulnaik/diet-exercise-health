@@ -99,6 +99,26 @@ vaccine. I took the following steps to minimize the impact:
   only be taken once the immune response is under way and the pain is
   hard to tolerate.
 
+## Summary of aftereffects
+
+* Fever, both as measured in readings and as subjectively experienced
+  with me; this seems to have peaked between 6 and 26 hours after the
+  vaccine dose, with multiple spikes in the period.
+* More frequent urination at night, and reduced bowel pressure (likely
+  due to resources being diverted from food processing to constructing
+  the immune response).
+* Body aches and soreness, both at the injection site and at a couple
+  of other places.
+
+### Comparison with last time
+
+Comparing with my [second
+dose](2021-06-25-pfizer-covid-vaccine-dose-2.md), it looks like my
+reaction was a little bit *faster* this time, but qualitatively
+similar. It also appears to have subsided correspondingly sooner, but
+the verdict on that is not yet final (we need to wait till Sunday is
+over to be more confident).
+
 ## Booster shot (Friday December 24)
 
 I left my home around 2:30 PM. I took with me my COVID vaccine card as
@@ -214,10 +234,3 @@ I took several other readings through the afternoon/evening. My
 temperature kept fluctuating between normal and high, and the
 temperature reading did not closely track my subjective experience
 over the time period.
-
-## Comparison with last time
-
-Comparing with my [second
-dose](2021-06-25-pfizer-covid-vaccine-dose-2.md), it looks like my
-reaction was a little bit *faster* this time, but qualitatively
-similar. It remains to be seen whether it also subsides more quickly.
