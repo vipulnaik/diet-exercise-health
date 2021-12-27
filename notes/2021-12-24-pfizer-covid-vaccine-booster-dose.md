@@ -37,7 +37,7 @@ Time (may be approximate) | Hours since vaccine (2021-12-24 3:10 PM) | Context |
 2021-12-25 9:17 PM | 30 | Evening checkin | 100.3, 99.8, 98.9
 2021-12-25 9:43 PM | 31 | After bath | 98.6
 2021-12-26 8:16 AM | 41 | Shortly after waking up | 98.4
-2021-12-25 10:43 AM | 44 | Checkin | 98.5
+2021-12-26 10:43 AM | 44 | Checkin | 98.5
 
 Compare with a similar table for the [second
 dose](2021-06-25-pfizer-covid-vaccine-dose-2.md).
