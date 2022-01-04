@@ -48,6 +48,21 @@ meet, where we decided to meet virtually, and where the other person
 appears to have gotten sick before the meeting. I do not know if it
 was COVID though one of them suspected it was.
 
+People in situations different than mine may come to different
+conclusions even if they fully shared my epistemic priors. In
+particular:
+
+* If you are living with family, especially children, for whom it
+  isn't practical or desirable to take these precautions, it may
+  reasonably be the case that the risk exposure for the family unit as
+  a whole is high enough that these kinds of marginal precautions
+  aren't that important. Other precautions might make more sense if
+  you expect higher base rates of exposure, such as good ventilation
+  or investing in P100 masks.
+
+* If you experience significant personal disutility from COVID
+  precautions, you may prefer to take fewer of them.
+
 ## Precautions
 
 ### Stuff to defer or substitute
