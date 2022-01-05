@@ -80,7 +80,7 @@ substitute with a virtual equivalent if possible:
   goods are fine.
 
 * Use of BART and shopping in dense areas: I'll generally try to avoid
-  using BART and shopping in dense areas (with the exception oof
+  using BART and shopping in dense areas (with the exception of
   grocery shopping that I need to do).
 
 ### Additional precautions during trips
