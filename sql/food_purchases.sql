@@ -716,4 +716,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-01-10','Eggplant',2),
   ('2022-01-10','Green bell pepper',2),
   /* 2022-01-10 Udupi Palace */
-  ('2022-01-10','Udupi Palace spinach masala dosa',1);
+  ('2022-01-10','Udupi Palace spinach masala dosa',1),
+  /* 2022-01-13 Bangkok Thai Cuisine; cash payment of $17.47 around 8 PM*/
+  ('2022-01-13','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2022-01-13','Bangkok Thai Cuisine white rice',1);
