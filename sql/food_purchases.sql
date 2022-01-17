@@ -719,4 +719,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-01-10','Udupi Palace spinach masala dosa',1),
   /* 2022-01-13 Bangkok Thai Cuisine; cash payment of $17.47 around 8 PM*/
   ('2022-01-13','Bangkok Thai Cuisine yellow curry tofu',1),
-  ('2022-01-13','Bangkok Thai Cuisine white rice',1);
+  ('2022-01-13','Bangkok Thai Cuisine white rice',1),
+  /* 2022-01-16 Trader Joe's; checkout at 3:43 PM; total cost $47.16 (paid by card) */
+  ('2022-01-16','TJ Sauerkraut',2),
+  ('2022-01-16','TJ Carrots',1),
+  ('2022-01-16','TJ Baby Spinach 6oz',1),
+  ('2022-01-16','TJ English Shelled Peas',1),
+  ('2022-01-16','Red bell pepper',2),
+  ('2022-01-16','Green bell pepper',2),
+  ('2022-01-16','Alvarado Sprouted Wheat Tortillas',5),
+  ('2022-01-16','Eggplant',2),
+  ('2022-01-16','Beefsteak tomato',8),
+  /* 2022-01-16 Udupi Palace */
+  ('2022-01-16','Udupi Palace spinach masala dosa',1);
