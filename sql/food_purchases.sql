@@ -634,7 +634,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-12-03 Udupi Place; pickup around 4:40 PM */
   ('2021-12-03','Udupi Palace spinach masala dosa',1),
   /* 2021-12-07 Mehak Indian Cuisine order at 1:25 PM; pickup around 2:15 PM */
-  ('2021-12-07','Mehal Indian Cuisine standard set',1),
+  ('2021-12-07','Mehak Indian Cuisine standard set',1),
   /* 2012-12-09 Trader Joe's; checkout at 6:03 PM; total cost $48.52 (paid by card) */
   ('2021-12-09','TJ Almond Milk',1),
   ('2021-12-09','Trader Giotto''s Olive Oil',2),
@@ -694,7 +694,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-12-27 Udupi Palace */
   ('2021-12-27','Udupi Palace spinach masala dosa',1),
   /* 2021-12-29 Mehak Indian Cuisine; order at 6:04 PM */
-  ('2021-12-29','Mehal Indian Cuisine standard set',1),
+  ('2021-12-29','Mehak Indian Cuisine standard set',1),
   /* 2022-01-05 Trader Joe'; checkout at 5:58 PM; total cost $34.80 (paid by card) */
   ('2022-01-05','TJ Almond Milk',1),
   ('2022-01-05','TJ Carrots',1),
@@ -731,4 +731,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-01-16','Eggplant',2),
   ('2022-01-16','Beefsteak tomato',8),
   /* 2022-01-16 Udupi Palace */
-  ('2022-01-16','Udupi Palace spinach masala dosa',1);
+  ('2022-01-16','Udupi Palace spinach masala dosa',1),
+  /* 2022-01-20 Mehak Indian Cuisine */
+  ('2022-01-20','Mehak Indian Cuisine standard set',1);
