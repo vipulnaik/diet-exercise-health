@@ -645,7 +645,7 @@ building, but not for large parts of the walking journeys.
 Minor tidbits:
 
 * They used 5 tubes even though there were 7 tests. It looks like some
-  tests got bundled togethr probably because they were related.
+  tests got bundled together probably because they were related.
 * I asked the nurse how much blood would be used before she withdrew
   it. She just pointed to the tubes and left the addition of volumes
   to me, but she said it's not a lot of blood.
