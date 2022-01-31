@@ -93,6 +93,11 @@ vaccine. I took the following steps to minimize the impact:
   the immune response)
 * Body aches and soreness
 
+Overall, my aftereffects were generally consistent with what's usually
+observed; see
+[here](https://www.verywellhealth.com/when-to-expect-covid-19-vaccination-side-effects-5176621)
+for details.
+
 ## Friday June 25: day of vaccine
 
 In the evening I went to get my COVID shot. My temperature before

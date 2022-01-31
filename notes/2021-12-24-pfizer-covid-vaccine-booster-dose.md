@@ -127,6 +127,11 @@ vaccine. I took the following steps to minimize the impact:
 * Body aches and soreness, both at the injection site and at a couple
   of other places.
 
+Overall, my aftereffects were generally consistent with what's usually
+observed; see
+[here](https://www.verywellhealth.com/when-to-expect-covid-19-vaccination-side-effects-5176621)
+for details.
+
 ### Comparison with last time
 
 Comparing with my [second
