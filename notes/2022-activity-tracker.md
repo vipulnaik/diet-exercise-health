@@ -18,3 +18,10 @@ in the rest of my trip are recorded in
 
 In the late morning / early afternoon, I made a trip to Walgreens to
 purchase toiletries. I paid by card and finished checkout at 12:15 PM.
+
+## Wednesday February 2
+
+In the evening, I made a trip to Citibank in downtown Berkeley for
+some financial transactions, finishing at 4:56 PM. The food purchases
+in the rest of my trip are recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
