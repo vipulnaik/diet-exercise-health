@@ -786,4 +786,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-02-10','TJ English Shelled Peas',2),
   ('2022-02-10','TJ Almond Milk',1),
   /* 2022-02-10 Udupi Palace */
-  ('2022-02-10','Udupi Palace spinach masala dosa',1);
+  ('2022-02-10','Udupi Palace spinach masala dosa',1),
+  /* 2022-02-14 Bangkok Thai Cuisine ($17.47 cash, around 1:30 PM) */
+  ('2022-02-14','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2022-02-14','Bangkok Thai Cuisine white rice',2);
