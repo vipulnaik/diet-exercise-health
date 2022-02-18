@@ -5,6 +5,11 @@ This post is an update to a [similar post I wrote on
 my updated thinking on COVID-19 precautions in light of the Omicron
 update.
 
+UPDATE 2022-02-18: Based on a recent decline in COVID cases, I've
+decided to stop double-masking and overall return to my pre-Omicron
+level of precautions, with the exception of one practice I adopted
+(that I intend to continue): using sunglasses while in grocery stores.
+
 ## Background on Omicron
 
 * [Omicron: My Current
