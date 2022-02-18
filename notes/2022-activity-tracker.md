@@ -25,3 +25,10 @@ In the evening, I made a trip to Citibank in downtown Berkeley for
 some financial transactions, finishing at 4:56 PM. The food purchases
 in the rest of my trip are recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Thursday February 17
+
+In the evening, I made a trip to Ace Hardware in downtown Berkeley to
+buy city of Berkeley trash bags. I finished checkout at 4:33 PM. The
+food purchases in the rest of my trip are recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
