@@ -32,3 +32,10 @@ In the evening, I made a trip to Ace Hardware in downtown Berkeley to
 buy city of Berkeley trash bags. I finished checkout at 4:33 PM. The
 food purchases in the rest of my trip are recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday February 20
+
+In the afternoon, I made a trip to Target on University Avenue to buy
+toiletries. I finished checkout at 1:47 PM. I also did a food order
+pickup from Mehak Indian Cuisine, recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
