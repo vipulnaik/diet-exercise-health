@@ -805,4 +805,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-02-17 Udupi Palace */
   ('2022-02-17','Udupi Palace spinach masala dosa',1),
   /* 2022-02-20 Mehak Indian Cuisine */
-  ('2022-02-20','Mehak Indian Cuisine standard set',1);
+  ('2022-02-20','Mehak Indian Cuisine standard set',1),
+  /* 2022-02-24 Bangkok Thai Cuisine */
+  ('2022-02-24','Bangkok Thai Cuisine white rice',2),
+  /* 2022-02-25 Trader Joe's; checkout at 3:18 PM */
+  ('2022-02-25','Trader Giotto''s Olive Oil',1),
+  ('2022-02-25','TJ English Shelled Peas',2),
+  ('2022-02-25','TJ Carrots',1),
+  ('2022-02-25','TJ Baby Spinach',1),
+  ('2022-02-25','Beefsteak tomato',8),
+  ('2022-02-25','Eggplant',2),
+  ('2022-02-25','TJ Whole Wheat Wraps',5),
+  ('2022-02-25','Green bell pepper',2),
+  ('2022-02-25','Orange bell pepper',2);

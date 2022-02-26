@@ -39,3 +39,9 @@ In the afternoon, I made a trip to Target on University Avenue to buy
 toiletries. I finished checkout at 1:47 PM. I also did a food order
 pickup from Mehak Indian Cuisine, recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday February 25
+
+In the afternoon, I made a trip to Citibank in downtown Berkeley and
+got quarters for $20. The food purchases in the rest of my trip are
+recorded in [food_purchases.sql](../sql/food_purchases.sql).
