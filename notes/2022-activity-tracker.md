@@ -48,9 +48,9 @@ recorded in [food_purchases.sql](../sql/food_purchases.sql).
 
 ## Monday February 28
 
-During the day, I went to a WeWork to hang out with some friends. I
-was in the WeWork from 10 AM to 1 PM and again from 2:30 PM to 5:30
-PM.
+During the day, I went to the WeWork at 2120 University Avenue in
+downtown Berkeley to hang out with some friends. I was in the WeWork
+from 10 AM to 1 PM and again from 2:30 PM to 5:30 PM.
 
 On the way back after the first meeting, I went to Citibank where I
 withdrew quarters for 20 dollars. I finished that transaction at 1:02
