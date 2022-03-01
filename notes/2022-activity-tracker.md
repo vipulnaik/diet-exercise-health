@@ -45,3 +45,13 @@ pickup from Mehak Indian Cuisine, recorded in
 In the afternoon, I made a trip to Citibank in downtown Berkeley and
 got quarters for $20. The food purchases in the rest of my trip are
 recorded in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Monday February 28
+
+During the day, I went to a WeWork to hang out with some friends. I
+was in the WeWork from 10 AM to 1 PM and again from 2:30 PM to 5:30
+PM.
+
+On the way back, I dropped by the Walgreens in downtown Berkeley and
+then by Udupi Palace; the latter is recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
