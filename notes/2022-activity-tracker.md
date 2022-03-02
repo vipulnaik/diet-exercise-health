@@ -59,3 +59,14 @@ PM.
 On the way back after the second meeting, I dropped by the
 Walgreens in downtown Berkeley and then by Udupi Palace; the latter is
 recorded in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Tuesday March 1
+
+During the day, I went to the WeWork at 2120 University Avenue in
+downtown Berkeley to hang out with some friends. I was in the WeWork
+from 10 AM to 1 PM.
+
+I then went to Krishna Copy to print, sign, and scan a form.
+
+I later went to the UC Berkeley campus some time between 2 PM and 3
+PM.
