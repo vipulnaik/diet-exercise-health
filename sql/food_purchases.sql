@@ -821,4 +821,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-02-25 Udupi Palace */
   ('2022-02-25','Udupi Palace spinach masala dosa',1),
   /* 2022-02-28 Udupi Palace */
-  ('2022-02-28','Udupi Palace spinach masala dosa',1);
+  ('2022-02-28','Udupi Palace spinach masala dosa',1),
+  /* 2022-03-02 Bangkok Thai Cuisine ($20 cash, around 7:30 PM) */
+  ('2022-03-02','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2022-03-02','Bangkok Thai Cuisine white rice',2);
