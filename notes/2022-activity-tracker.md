@@ -70,3 +70,8 @@ I then went to Krishna Copy to print, sign, and scan a form.
 
 I later went to the UC Berkeley campus some time between 2 PM and 3
 PM.
+
+## Friday March 4
+
+In the morning, I made a trip to Target to buy some stuff. I finished
+checkout at 9:01 AM.
