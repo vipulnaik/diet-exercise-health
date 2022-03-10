@@ -75,3 +75,11 @@ PM.
 
 In the morning, I made a trip to Target to buy some stuff. I finished
 checkout at 9:01 AM.
+
+## Wednesday March 9
+
+In the afternoon, I had a planned lunch with two of my work
+colleagues. We met in downtown Berkeley around 1:10 PM near Jupiter,
+where we had been planning to eat but it was closed. We ultimately
+chose Tendergreens, where we availed of the outdoor dining. After
+that, we walked around the UC Berkeley campus for a while.
