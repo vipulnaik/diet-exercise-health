@@ -840,4 +840,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-03-07 Mehak Indian Cuisine; pickup around 2 PM */
   ('2022-03-07','Mehak Indian Cuisine standard set',1),
   /* 2022-03-09 Tendergreens, around 1:30 PM */
-  ('2022-03-09','Tendergreens happy vegan salad',1);
+  ('2022-03-09','Tendergreens happy vegan salad',1),
+  /* 2022-03-11 Trader Joe's; checkout at 5:52 PM; total cost $66.47 (paid by cash) */
+  ('2022-03-11','Trader Giotto''s Olive Oil',3),
+  ('2022-03-11','TJ Sauerkraut',2),
+  ('2022-03-11','TJ Baby Spinach',1),
+  ('2022-03-11','TJ Carrots',1),
+  ('2022-03-11','Beefsteak tomato',5),
+  ('2022-03-11','Red bell pepper',2),
+  ('2022-03-11','Green bell pepper',2),
+  ('2022-03-11','Eggplant',2),
+  ('2022-03-11','TJ Walnuts',1),
+  ('2022-03-11','TJ Whole Wheat Wraps',5), /* looks like they billed for 4 instead of 5? */
+  /* 2022-03-11 Udupi Palace */
+  ('2022-03-11','Udupi Palace spinach masala dosa',1);
