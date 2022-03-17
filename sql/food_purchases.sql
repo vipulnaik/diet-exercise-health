@@ -853,4 +853,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-03-11','TJ Walnuts',1),
   ('2022-03-11','TJ Whole Wheat Wraps',5), /* looks like they billed for 4 instead of 5? */
   /* 2022-03-11 Udupi Palace */
-  ('2022-03-11','Udupi Palace spinach masala dosa',1);
+  ('2022-03-11','Udupi Palace spinach masala dosa',1),
+  /* 2022-03-16 Trader Joe's; checkout at 4:34 PM; total cost $48.36 (paid by card) */
+  ('2022-03-16','TJ Carrots',1),
+  ('2022-03-16','TJ Almond Milk',1),
+  ('2022-03-16','TJ English Shelled Peas',2),
+  ('2022-03-16','TJ Baby Spinach',1),
+  ('2022-03-16','Beefsteak tomato',8),
+  ('2022-03-16','Red bell pepper',2),
+  ('2022-03-16','Eggplant',2),
+  ('2022-03-16','Green bell pepper',2),
+  ('2022-03-16','TJ Whole Wheat Wraps',5),
+  /* 2022-03-16 Udupi Palace; order at 4:24 PM */
+  ('2022-03-16','Udupi Palace spinach masala dosa',1);
