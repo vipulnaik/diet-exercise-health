@@ -18,3 +18,11 @@ on a mat because of the less stable surface of the mat).
 
 I'm starting with 2 lb weights and will progress to 3 lb after a few
 weeks.
+
+## Subsequent updates
+
+* In December 2021, I switched from just doing 2 lb to doing both 2 lb
+  and 3 lb.
+
+* In March 2022, I switched from doing 2 lb and 3 lb to doing 3 lb and
+  5 lb.
