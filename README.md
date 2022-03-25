@@ -17,7 +17,7 @@ make init
 ```
 
 Instead of editing the Makefile, you can also pass in the arguments to
-each make:
+make:
 
 ```bash
 make MYSQL_ARGS=<args> init
@@ -31,4 +31,11 @@ you can update the MYSQL_ARGS in the Makefile (such as `-u<username>
 
 ```bash
 make reset && make read
+```
+
+Instead of editing the Makefile, you can also pass in the arguments to
+make:
+
+```bash
+make MYSQL_ARGS=<args> reset && make MYSQL_ARGS=<args> read
 ```

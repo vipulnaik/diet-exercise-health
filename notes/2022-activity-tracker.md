@@ -83,3 +83,10 @@ colleagues. We met in downtown Berkeley around 1:10 PM near Jupiter,
 where we had been planning to eat but it was closed. We ultimately
 chose Tendergreens, where we availed of the outdoor dining. After
 that, we walked around the UC Berkeley campus for a while.
+
+## Thursday March 24
+
+In the afternoon, around 4:20 PM, I went to hang out with some
+relatives. We walked around outside and then spent some time at Asha
+Tea House. On the way back, I made some food purchasees recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
