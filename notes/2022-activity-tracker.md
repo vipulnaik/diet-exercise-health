@@ -90,3 +90,14 @@ In the afternoon, around 4:20 PM, I went to hang out with some
 relatives. We walked around outside and then spent some time at Asha
 Tea House. On the way back, I made some food purchasees recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday March 27
+
+In the afternoon of Sunday March 27, from about 1:05 PM till 4:11 PM,
+I walked aaround Berkeley, visiting a potential place to rent,
+checking another place fromm the outside, and looking at places in the
+neighborhoood.
+
+I ended with a food purchase recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
+
