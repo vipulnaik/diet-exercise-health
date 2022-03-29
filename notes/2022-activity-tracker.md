@@ -101,3 +101,11 @@ neighborhoood.
 I ended with a food purchase recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
 
+## Monday March 28
+
+In the afternoon, I went to view a rental property. I left home around
+2:15 PM, took BART from North Berkeley, and arrived at the Ashby BART
+around 2:30 PM. I left around 3:03 PM after finishing the viewing, and
+walked back instead of taking the BART. I got back home around 3:41
+PM.
+
