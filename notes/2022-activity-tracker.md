@@ -109,3 +109,8 @@ around 2:30 PM. I left around 3:03 PM after finishing the viewing, and
 walked back instead of taking the BART. I got back home around 3:41
 PM.
 
+## Tuesday March 29
+
+In the evening I went to the Ashby area to check out a place to
+rent. I took BART both ways.
+
