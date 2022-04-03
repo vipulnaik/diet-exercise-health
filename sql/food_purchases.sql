@@ -746,7 +746,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-01-24','Alvarado Sprouted Wheat Tortillas',6),
   /* 2022-01-24 Udupi Palace */
   ('2022-01-24','Udupi Palace spinach masala dosa',1),
-  /* 2022-01-27 Bangkok Thai Cuisine */
+  /* 2022-01-27 Bangkok Thai Cuisine; cost 1.66 */
   ('2022-01-27','Bangkok Thai Cuisine white rice',1),
   /* 2022-01-28 Mehak Indian Cuisine */
   ('2022-01-28','Mehak Indian Cuisine standard set',1),
@@ -773,7 +773,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-02-05','Eggplant',2),
   /* 2022-02-05 Udupi Palace */
   ('2022-02-05','Udupi Palace spinach masala dosa',1),
-  /* 2022-02-07 Bangkok Thai Cuisine */
+  /* 2022-02-07 Bangkok Thai Cuisine 1.66 */
   ('2022-02-07','Bangkok Thai Cuisine white rice',1),
   /* 2022-02-10 Trader Joe's; checkout at 6:03 PM; total cost $48.16 (paid by card) */
   ('2022-02-10','TJ Whole Wheat Tortillas',5),
@@ -806,7 +806,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-02-17','Udupi Palace spinach masala dosa',1),
   /* 2022-02-20 Mehak Indian Cuisine */
   ('2022-02-20','Mehak Indian Cuisine standard set',1),
-  /* 2022-02-24 Bangkok Thai Cuisine */
+  /* 2022-02-24 Bangkok Thai Cuisine $3.31 */
   ('2022-02-24','Bangkok Thai Cuisine white rice',2),
   /* 2022-02-25 Trader Joe's; checkout at 3:18 PM */
   ('2022-02-25','Trader Giotto''s Olive Oil',1),
@@ -884,4 +884,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-03-27 Udupi Palace */
   ('2022-03-27','Udupi Palace spinach masala dosa',1),
   /* 2022-03-29 Mehak Indian Cuisine */
-  ('2022-03-29','Mehak Indian Cuisine standard set',1);
+  ('2022-03-29','Mehak Indian Cuisine standard set',1),
+  /* 2022-04-02 Trader Joe's; checkout at 5:19 PM; total cost $49.97 (paid by card) */
+  ('2022-04-02','TJ Almond Milk',1),
+  ('2022-04-02','TJ Baby Spinach',1),
+  ('2022-04-02','TJ English Shelled Peas',1),
+  ('2022-04-02','TJ Carrots',1),
+  ('2022-04-02','Green bell pepper',2),
+  ('2022-04-02','Beefsteak tomato',7),
+  ('2022-04-02','TJ Walnuts',1),
+  ('2022-04-02','Red bell pepper',2),
+  ('2022-04-02','Eggplant',2),
+  ('2022-04-02','Alvarado Sprouted Wheat Tortillas',5),
+  /* 2022-04-02 Udupi Palace; checkout at 5:09 PM; total cost $13.17 (paid by cash) */
+  ('2022-04-02','Udupi Palace spinach masala dosa',1);
