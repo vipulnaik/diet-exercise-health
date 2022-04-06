@@ -1,5 +1,15 @@
 # 2022-04-05 fall and phone screen crack
 
+## Temperature readings
+
+Time (may be approximate) | Hours since injury (2022-04-05 9:10 AM PT) | Hours since T-Mobile store visit end (2022-04-05 5 PM PT) | Context | Reading
+-- | -- | -- | -- | --
+2022-04-06 9:17 AM | 24 | 14 | I was feeling a little hot that morning, and had also been feeling a bit hot the past night. | 99.8 (two identical readings)
+2022-04-06 11:15 AM | 26 | 16 | I was feeling less hot so I wanted to see how the reading reflected my subjective improvement. | 98.4
+2022-04-06 11:35 AM | 26 | 17 |  This was a sanity check on the previous reading | 98.0
+
+## Day of incident (2022-04-05)
+
 On the morning of 2022-04-05, around 9:10 AM Pacific Time, I fell when
 running on the sidewalk of Delaware Street somewhere between Franklin
 Street and West Street. I probably tripped between the tiles and fell
@@ -37,6 +47,16 @@ there. I expect to more fully recover by the end of the day, also
 because unlike the previous day (where I walked for over 4 hours and
 was outside the home for about 6 hours) I intend to mostly stay at
 home and exhaust myself less.
+
+At 9:17 AM I took a temperature reading and got a temperature of 99.8,
+i.e., a mild fever. I'm not sure if this fever reflects my body
+dealing with the physical injury and the huge amount of walking I did
+yesterday, or whether I got exposed to some infection as a result of
+my travels yesterday. I am leaning toward the former and will take
+more readings to see how the fever progresses.
+
+By 11:15 my temperature was back to normal (98.4) and at 11:35 it was
+down even further to 98.0.
 
 ## Takeaways
 
