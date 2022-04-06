@@ -114,3 +114,47 @@ PM.
 In the evening I went to the Ashby area to check out a place to
 rent. I took BART both ways.
 
+## Tuesday April 5
+
+In the morning, I fell when running, resulting in a phone screen crack
+(see [here](2022-04-05-fall-and-phone-screen-crack.md)).
+
+#### Morning
+
+To remedy this, I left home around 11 AM and went to the repair shop
+at 1008 University Avenue. The technician there was on vacation, so I
+couldn't get any repair done. I then went to the Walgreens at Gilman
+Street and bought some stuff, finishing checkout at noon. I got back
+home around 12:16 PM.
+
+#### Afternoon
+
+I left home again around 2 PM. I visited three mobile repair stores,
+starting with Joe's iPhone repair on 2081 Center Street, then going to
+Mobile Kangaroo at 133 Berkeley Square, and finally, going to the
+repair shop at 2387 Telegraph Avenue. None of them supported screen
+repair for my moto e5. The Mobile Kangaroo person said that he only
+does iPhone repairs now, but he doubted that anybody would support
+repairs of a moto e5 because the labor cost of replacing the glass
+exceeds the cost of a brand new replacement phone.
+
+I then went to the T-Mobile store on Shattuck Avenue (arriving at 3:26
+PM). I asked for the low-cost ph ones; the lowest-cost phone available
+was the moto g pure at $156. However, the demo phone wasn't turning
+on. I decided to come back later.
+
+I then went to Trader Joe's, arriving at 3:42 PM and finishing
+checkout at 3:48 PM. I left at 3:51 PM. I walked to the Berkeley
+library where I did some Googling to check the specs of the moto g
+pure. I then went back to the T-Mobile store (arriving at 4:06 PM),
+bought the moto g pure, and switched my plan to the $10 monthly
+plan. I left at 5:01 PM and got back home.
+
+#### Evening
+
+I then made a trip to Office Depot on Gilman Street to buy
+stationery. I finished checkout aat 6:52 PM. I then went to
+the Apple Store and bought the Macbook Air at 7:26 PM.
+
+I then went back home. Later I made a trip to Bangkok Thai Cuisine to
+get food.
