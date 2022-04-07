@@ -4,11 +4,12 @@
 
 Time (may be approximate) | Hours since injury (2022-04-05 9:10 AM PT) | Hours since T-Mobile store visit end (2022-04-05 5 PM PT) | Context | Reading
 -- | -- | -- | -- | --
-2022-04-06 9:17 AM | 24 | 14 | I was feeling a little hot that morning, and had also been feeling a bit hot the past night. | 99.8 (two identical readings)
+2022-04-06 9:17 AM | 24 | 16 | I was feeling a little hot that morning, and had also been feeling a bit hot the past night. | 99.8 (two identical readings)
 2022-04-06 11:15 AM | 26 | 16 | I was feeling less hot so I wanted to see how the reading reflected my subjective improvement. | 98.4
 2022-04-06 11:35 AM | 26 | 17 | This was a sanity check on the previous reading | 98.0
 2022-04-06 12:25 PM | 27 | 17 | This was a sanity check on the previous reading | 98.0
 2022-04-06 3:16 PM | 30 | 22 | Periodic reading | 97.8
+2022-04-06 5:28 PM | 32 | 24 | Periodic reading | 99.6
 
 ## Day of incident (2022-04-05)
 
