@@ -10,6 +10,9 @@ Time (may be approximate) | Hours since injury (2022-04-05 9:10 AM PT) | Hours s
 2022-04-06 12:25 PM | 27 | 17 | This was a sanity check on the previous reading | 98.0
 2022-04-06 3:16 PM | 30 | 22 | Periodic reading | 97.8
 2022-04-06 5:28 PM | 32 | 24 | Periodic reading | 99.6
+2022-04-06 6:45 PM | 34 | 26 | Periodic reading | 99.5
+2022-04-06 7:05 PM | 34 | 26 | Reading after COVID antigen test | 99.9
+2022-04-06 7:17 PM | 34 | 26 | Reading after COVID anttigen test results | 99.5
 
 ## Day of incident (2022-04-05)
 
@@ -60,6 +63,13 @@ more readings to see how the fever progresses.
 
 By 11:15 my temperature was back to normal (98.4) and at 11:35 it was
 down even further to 98.0.
+
+### COVID antigen test
+
+In the evening of 2022-04-06, I used a [COVID antigen test from
+iHealth](https://www.amazon.com/dp/B09KZ6TBNY/), using the guidance
+[here](https://www.youtube.com/watch?v=qBt_H4Gc-rU). The test came out
+negative.
 
 ## Takeaways
 
