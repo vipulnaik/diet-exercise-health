@@ -15,6 +15,8 @@ Time (may be approximate) | Hours since injury (2022-04-05 9:10 AM PT) | Hours s
 2022-04-06 7:17 PM | 34 | 26 | Reading after COVID anttigen test results | 99.5
 2022-04-06 8:50 PM | 36 | 28 | Periodic reading | 98.6, 98.8
 2022-04-06 9:30 PM | 36 | 28 | After returning from run | 97.9
+2022-04-06 10:20 PM | 37 | 29 | After bath | 98.4
+2022-04-07 7:15 AM | 46 | 38 | After waking up | 98.7
 
 ## Day of incident (2022-04-05)
 
