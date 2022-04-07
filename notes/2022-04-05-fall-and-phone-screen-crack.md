@@ -13,6 +13,7 @@ Time (may be approximate) | Hours since injury (2022-04-05 9:10 AM PT) | Hours s
 2022-04-06 6:45 PM | 34 | 26 | Periodic reading | 99.5
 2022-04-06 7:05 PM | 34 | 26 | Reading after COVID antigen test | 99.9
 2022-04-06 7:17 PM | 34 | 26 | Reading after COVID anttigen test results | 99.5
+2022-04-06 8:50 PM | 36 | 28 | Periodic reading | 98.6, 98.8
 
 ## Day of incident (2022-04-05)
 
