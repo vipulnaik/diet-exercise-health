@@ -158,3 +158,11 @@ the Apple Store and bought the Macbook Air at 7:26 PM.
 
 I then went back home. Later I made a trip to Bangkok Thai Cuisine to
 get food.
+
+## Thursday April 7
+
+In the evening, I went to Krishna Copy. I arrived at 3:47 PM. I had
+lease documents printed, signed them, and had them scanned back again.
+After that, I made some food purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
+
