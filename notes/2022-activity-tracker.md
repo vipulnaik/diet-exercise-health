@@ -166,3 +166,8 @@ lease documents printed, signed them, and had them scanned back again.
 After that, I made some food purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
 
+## Friday April 8
+
+In the afternoon I went to my new place near the Ashby BART to check
+out the keys and found an issue with the keys and got it resolved.
+
