@@ -171,3 +171,12 @@ After that, I made some food purchases, recorded at
 In the afternoon I went to my new place near the Ashby BART to check
 out the keys and found an issue with the keys and got it resolved.
 
+## Monday April 11
+
+In the afternoon I went to downtown Berkeley looking for a place with
+wi-fi (since there were issues with my home Internet). Asha Tea House
+didn't have it and the Starbucks was to-go-only. So I went to the
+Berkeley Public Library and hung out there between 3:05 PM and a
+little after 4:30 PM. By then I learned that my home Internet was
+fine, so I headed back, making some food purchases on the way back,
+recorded at [food_purchases.sql](../sql/food_purchases.sql).

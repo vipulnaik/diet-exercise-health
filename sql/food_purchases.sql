@@ -907,4 +907,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-04-05','Bangkok Thai Cuisine white rice',2),
   /* 2022-04-07 Trader Joe's; checkout at 4:14 PM; total cost $7.98 (paid by card) */
   ('2022-04-07','TJ English Shelled Peas',1),
-  ('2022-04-07','Alvarado Sprouted Wheat Tortillas',1);
+  ('2022-04-07','Alvarado Sprouted Wheat Tortillas',1),
+  /* 2022-04-07 Udupi Palace; total cost $13.17 (paid by cash) */
+  ('2022-04-07','Udupi Palace spinach masala dosa',1),
+  /* 2022-04-11 Trader Joe's; checkout at 4:59 PM; total cost $18.95 (paid by card) */
+  ('2022-04-11','TJ English Shelled Peas',2),
+  ('2022-04-11','Alvarado Sprouted Wheat Tortillas',3),
+  /* 2022-04-11 Udupi Palace; total cost $13.17 (paid by cash) */
+  ('2022-04-11','Udupi Palace spinach masala dosa',1);
