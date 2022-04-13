@@ -180,3 +180,14 @@ Berkeley Public Library and hung out there between 3:05 PM and a
 little after 4:30 PM. By then I learned that my home Internet was
 fine, so I headed back, making some food purchases on the way back,
 recorded at [food_purchases.sql](../sql/food_purchases.sql).
+
+## Tuesday April 12
+
+In the evening I went to my new place to set things up and check some
+things. I left around 6 PM taking BART from North Berkeley to Ashby,
+and arrived at the new place around 6:20 PM. I did various setup
+steps, then went to the nearby Walgreens (on Adeline Street) to stock
+up on toiletries, checking out of Walgreens at 7:57 PM. I was in the
+Walgreens from 7:42 to 8 PM. I then went back to the new place, did
+some more setup, then headed home a little after 8:30 PM and got back
+home around 9 PM.
