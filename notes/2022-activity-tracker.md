@@ -191,3 +191,10 @@ up on toiletries, checking out of Walgreens at 7:57 PM. I was in the
 Walgreens from 7:42 to 8 PM. I then went back to the new place, did
 some more setup, then headed home a little after 8:30 PM and got back
 home around 9 PM.
+
+## Friday April 15
+
+In the afternoon I went to downtown Berkeley. I started by going to
+Goodwill to donate some old clothes. I then went to Citibank for some
+stuff, finishing at 2:20 PM. I then did some food purchases recordd at
+[food_purchases.sql](../sql/food_purchases.sql).
