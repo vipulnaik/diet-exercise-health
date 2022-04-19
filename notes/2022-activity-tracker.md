@@ -198,3 +198,13 @@ In the afternoon I went to downtown Berkeley. I started by going to
 Goodwill to donate some old clothes. I then went to Citibank for some
 stuff, finishing at 2:20 PM. I then did some food purchases recordd at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Saturday April 16 and Sunday April 17
+
+I made several trips (using BART between North Berkeley and Ashby) to
+move stuff to my new place and set things up there. I also made a trip
+to the Walgreens at Adeline Street on the afternoon of Saturday April 16.
+
+## Monday April 18
+
+In the evening, I made a trip to the Citibank ATM.
