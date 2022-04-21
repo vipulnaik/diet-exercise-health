@@ -932,5 +932,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-04-19','Bangkok Thai Cuisine yellow curry tofu',1),
   ('2022-04-19','Bangkok Thai Cuisine white rice',1),
   /* 2022-04-20 Mehak Indian Cuisine */
-  ('2022-04-20','Mehak Indian Cuisne standard set',1);
-
+  ('2022-04-20','Mehak Indian Cuisne standard set',1),
+  /* 2022-04-21 Trader Joe's; checkout at 9:23 AM; paid by card */
+  ('2022-04-21','TJ Almond Milk',1),
+  ('2022-04-21','TJ Sauerkraut',2),
+  ('2022-04-21','Lemon',1),
+  ('2022-04-21','TJ Carrots',1),
+  ('2022-04-21','TJ Baby Spinach',1),
+  ('2022-04-21','Beefsteak tomato',9),
+  ('2022-04-21','TJ English Shelled Peas',2),
+  ('2022-04-21','Red bell pepper',2),
+  ('2022-04-21','Green bell pepper',2),
+  ('2022-04-21','Eggplant',2),
+  ('2022-04-21','TJ Walnuts',1),
+  ('2022-04-21','Alvarado Sprouted Wheat Tortillas',6);
