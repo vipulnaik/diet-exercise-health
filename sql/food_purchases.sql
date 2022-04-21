@@ -930,5 +930,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-04-18','Bangkok Thai Cuisine white rice',2),
   /* 2022-04-19 Bangkok Thai Cuisine; checkout at 2:40 PM; total cost $16.81 (paid by cash) */
   ('2022-04-19','Bangkok Thai Cuisine yellow curry tofu',1),
-  ('2022-04-19','Bangkok Thai Cuisine white rice',1);
-  
+  ('2022-04-19','Bangkok Thai Cuisine white rice',1),
+  /* 2022-04-20 Mehak Indian Cuisine */
+  ('2022-04-20','Mehak Indian Cuisne standard set',1);
+

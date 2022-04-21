@@ -208,3 +208,14 @@ to the Walgreens at Adeline Street on the afternoon of Saturday April 16.
 ## Monday April 18
 
 In the evening, I made a trip to the Citibank ATM.
+
+## Tuesday April 19
+
+In the evening I made a trip to the Apple Store to see if they had a
+charger, but they didn't.
+
+## Wednesday April 20
+
+I made a trip to the new place to set things up; later in the
+afternoon I had my stuff moved out with the help of movers and moved
+to my new place.
