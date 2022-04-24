@@ -225,3 +225,10 @@ to my new place.
 In the evening, I made two trips; the first trip was to a former
 housemate to drop off letters. The second trip was to my old place to
 pick up a few items and do some cleaning.
+
+## Saturday April 23
+
+In the late morning, I went to my old place to do some cleaning and
+disposal. I made two rounds of the Computer & Technology Resource
+Center (at 620 Page Street) to dispose of a bunch of hardware from
+former housemates. I finished around 4 PM and then headed back home.
