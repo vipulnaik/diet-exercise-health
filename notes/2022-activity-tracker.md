@@ -219,3 +219,9 @@ charger, but they didn't.
 I made a trip to the new place to set things up; later in the
 afternoon I had my stuff moved out with the help of movers and moved
 to my new place.
+
+## Friday April 22
+
+In the evening, I made two trips; the first trip was to a former
+housemate to drop off letters. The second trip was to my old place to
+pick up a few items and do some cleaning.
