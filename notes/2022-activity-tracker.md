@@ -232,3 +232,10 @@ In the late morning, I went to my old place to do some cleaning and
 disposal. I made two rounds of the Computer & Technology Resource
 Center (at 620 Page Street) to dispose of a bunch of hardware from
 former housemates. I finished around 4 PM and then headed back home.
+
+## Sunday April 24
+
+In the late morning, I went to my old place to do some cleaning and
+disposal. I used BART to get to the place. but walked back, dropping
+off some stuff at Goodwill and then picking up some Amazon packages
+from the Amazon locker at ASUC.
