@@ -239,3 +239,8 @@ In the late morning, I went to my old place to do some cleaning and
 disposal. I used BART to get to the place. but walked back, dropping
 off some stuff at Goodwill and then picking up some Amazon packages
 from the Amazon locker at ASUC.
+
+## Tuesday April 26
+
+In the evening, I went to Ace Hardware to buy a broom and pan and
+drain cleaner, as part of efforts to stock up at my new place.
