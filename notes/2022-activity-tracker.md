@@ -244,3 +244,10 @@ from the Amazon locker at ASUC.
 
 In the evening, I went to Ace Hardware to buy a broom and pan and
 drain cleaner, as part of efforts to stock up at my new place.
+
+## Wednesday April 27
+
+Around 11 AM, I left home to go to Tendergreens for a lunch; the lunch
+was 11:30 AM to 1 PM, after which I headed back home. On the way back,
+I stopped by the Walgreens and Target at Shattuck & Allston to check on
+the availability of some stuff.
