@@ -251,3 +251,13 @@ Around 11 AM, I left home to go to Tendergreens for a lunch; the lunch
 was 11:30 AM to 1 PM, after which I headed back home. On the way back,
 I stopped by the Walgreens and Target at Shattuck & Allston to check on
 the availability of some stuff.
+
+## Friday April 29
+
+In the morning, I went to my old place to coordinate a bunch of junk
+removal with a junk removal service. I was in the place from about
+9:30 AM to about 1 PM; the junk removal folks were in at around 10 AM.
+
+I made another trip in the evening to do some more cleaning.
+
+I took BART both ways both times.
