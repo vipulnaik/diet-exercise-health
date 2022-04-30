@@ -81,7 +81,7 @@ checkout at 9:01 AM.
 In the afternoon, I had a planned lunch with two of my work
 colleagues. We met in downtown Berkeley around 1:10 PM near Jupiter,
 where we had been planning to eat but it was closed. We ultimately
-chose Tendergreens, where we availed of the outdoor dining. After
+chose Tender Greens, where we availed of the outdoor dining. After
 that, we walked around the UC Berkeley campus for a while.
 
 ## Thursday March 24
@@ -247,7 +247,7 @@ drain cleaner, as part of efforts to stock up at my new place.
 
 ## Wednesday April 27
 
-Around 11 AM, I left home to go to Tendergreens for a lunch; the lunch
+Around 11 AM, I left home to go to Tender Greens for a lunch; the lunch
 was 11:30 AM to 1 PM, after which I headed back home. On the way back,
 I stopped by the Walgreens and Target at Shattuck & Allston to check on
 the availability of some stuff.
