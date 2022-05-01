@@ -196,7 +196,7 @@ home around 9 PM.
 
 In the afternoon I went to downtown Berkeley. I started by going to
 Goodwill to donate some old clothes. I then went to Citibank for some
-stuff, finishing at 2:20 PM. I then did some food purchases recordd at
+stuff, finishing at 2:20 PM. I then did some food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
 
 ## Saturday April 16 and Sunday April 17
@@ -261,3 +261,14 @@ removal with a junk removal service. I was in the place from about
 I made another trip in the evening to do some more cleaning.
 
 I took BART both ways both times.
+
+## Saturday April 30
+
+I made a trip to the old place to coordinate some stuff. From there, I
+went to Office Depot to deposit a used cartridge and then to the Apple
+Store to check on the availability of a charger. After returning, I
+walked to Goodwill to donate some stuff and then went to the Amazon
+Hub Locker to pick up an order. After returning home, I made a brief
+nearby trip to meet a former housemate. Then I set out for food
+purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).

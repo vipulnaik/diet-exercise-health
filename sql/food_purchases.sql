@@ -958,4 +958,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-04-25 Udupi Palace; total cost $13.17 (paid by cash) */
   ('2022-04-25','Udupi Palace spinach masala dosa',1),
   /* 2022-04-27 Tender Greens */
-  ('2022-04-27','Tender Greens happy vegan salad',1);
+  ('2022-04-27','Tender Greens happy vegan salad',1),
+  /* 2022-04-30 Trader Joe's; checkout at 5:20 PM; paid by card) */
+  ('2022-04-30','TJ Carrots',1),
+  ('2022-04-30','TJ English Shelled Peas',1),
+  ('2022-04-30','TJ English Shelled Peas',1),
+  ('2022-04-30','Alvarado Sprounted Wheat Tortillas',3),
+  ('2022-04-30','Beefsteak tomato',7),
+  ('2022-04-30','Red bell pepper',2),
+  ('2022-04-30','Eggplant',2),
+  ('2022-04-30','Green bell pepper',2),
+  /* 2022-04-30 Udupi Palace; total cost $13.17 (paid by cash) */
+  ('2022-04-30','Udupi Palace spinach masala dosa',1);
