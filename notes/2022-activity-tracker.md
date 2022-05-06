@@ -272,3 +272,31 @@ Hub Locker to pick up an order. After returning home, I made a brief
 nearby trip to meet a former housemate. Then I set out for food
 purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Monday May 2
+
+In the evening, I made a trip (via BART) to my old place, where I did
+some examination and cleaning work. I was in the place from 5:45 PM to
+9:22 PM.
+
+## Tuesday May 3
+
+I spent most of the day stationed at the old place. Part of the day
+was spent doing my day job work; the rest of the day was spent on
+house cleanup and associated scoping work, including one trip to
+Goodwill and Ace Hardware.
+
+## Wednesday May 4
+
+I spent most of the day stationed at the old place. This included time
+spent working with junk removal folks to get most of the junk
+removed. After that, it included a bunch of cleaning and clearing
+work, including two trips to Goodwill and two back-and-forth trips to
+deposit stuff at my new place.
+
+## Thursday May 5
+
+I spent a large part of the day at the old place. This mostly included
+some final cleanup before the final move-out cleaning. I made a total
+of four trips back-and-forth, carrying stuff to deposit at the new
+place.
