@@ -969,4 +969,10 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-04-30','Eggplant',2),
   ('2022-04-30','Green bell pepper',2),
   /* 2022-04-30 Udupi Palace; total cost $13.17 (paid by cash) */
-  ('2022-04-30','Udupi Palace spinach masala dosa',1);
+  ('2022-04-30','Udupi Palace spinach masala dosa',1),
+  /* 2022-05-03 Bangkok Thai Cuisine */
+  ('2022-05-03','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2022-05-03','Bangkok Thai Cuisine white rice',2),
+  /* 2022-05-04 Bangkok Thai Cuisine */
+  ('2022-05-04','Bangkok Thai Cuisine yellow curry tofu',1),
+  ('2022-05-04','Bangkok Thai Cuisine white rice',2);
