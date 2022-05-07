@@ -300,3 +300,10 @@ I spent a large part of the day at the old place. This mostly included
 some final cleanup before the final move-out cleaning. I made a total
 of four trips back-and-forth, carrying stuff to deposit at the new
 place.
+
+## Friday May 6
+
+In the evening, I took a long walking trip. My first stop was at the
+Amazon Hub Locker to pick up packages. I then went to the old place to
+wrap up some stuff. On the way back, I made some food purchases,
+recorded at at [food_purchases.sql](../sql/food_purchases.sql).

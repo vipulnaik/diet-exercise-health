@@ -963,7 +963,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-04-30','TJ Carrots',1),
   ('2022-04-30','TJ English Shelled Peas',1),
   ('2022-04-30','TJ English Shelled Peas',1),
-  ('2022-04-30','Alvarado Sprounted Wheat Tortillas',3),
+  ('2022-04-30','Alvarado Sprouted Wheat Tortillas',3),
   ('2022-04-30','Beefsteak tomato',7),
   ('2022-04-30','Red bell pepper',2),
   ('2022-04-30','Eggplant',2),
@@ -975,4 +975,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-05-03','Bangkok Thai Cuisine white rice',2),
   /* 2022-05-04 Bangkok Thai Cuisine */
   ('2022-05-04','Bangkok Thai Cuisine yellow curry tofu',1),
-  ('2022-05-04','Bangkok Thai Cuisine white rice',2);
+  ('2022-05-04','Bangkok Thai Cuisine white rice',2),
+  /* 2022-05-06 Trader Joe's; checkout at 7:55 PM; paid by card */
+  ('2022-05-06','TJ English Shelled Peas',2),
+  ('2022-05-06','TJ Carrots',1),
+  ('2022-05-06','Beefsteak tomato',8),
+  ('2022-05-06','Green bell pepper',2),
+  ('2022-05-06','TJ Walnuts',1),
+  ('2022-05-06','Red bell pepper',2),
+  ('2022-05-06','Eggplant',2),
+  ('2022-05-06','Alvarado Sprouted Wheat Tortillas',5),
+  /* 2022-05-06 Udupi Palace; total cost $13.17 (paid by cash) */
+  ('2022-05-06','Udupi Palace spinach masala dosa',1);
