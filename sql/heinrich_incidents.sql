@@ -1,4 +1,9 @@
-/* In honor of Heinrich's law, these are incidents where there is no ultimate damage but that got close */
+/* In honor of Heinrich's law, these are incidents where there is no ultimate damage but that got close;
+   Heinrich's law woud suggest that these are about 300x as frequent as accidents with damage.
+   In some cases, there are implications for protocol updates, but in many others, the frequency is within
+   the range of expectations, or the situation is sufficiently unusual, that no clear protocol updates
+   are needed.
+*/
 
 create table heinrich_incidents(
   date date,
