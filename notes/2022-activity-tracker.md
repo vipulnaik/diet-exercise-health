@@ -307,3 +307,9 @@ In the evening, I took a long walking trip. My first stop was at the
 Amazon Hub Locker to pick up packages. I then went to the old place to
 wrap up some stuff. On the way back, I made some food purchases,
 recorded at at [food_purchases.sql](../sql/food_purchases.sql).
+
+## Saturday May 7
+
+I visited a former housemate to hand over some stuff (two
+trips). Later, I went to Ace Hardware to buy laundry bags. Later in
+the day, another former housemate visited me to pick up more items.
