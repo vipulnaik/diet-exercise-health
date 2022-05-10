@@ -7,9 +7,11 @@ init:
 
 .PHONY: reset
 reset:
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists accidents;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists food_waste;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists food_purchases;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists food_types;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists heinrich_incidents;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists test_results;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists test_sample_collections;"
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists tests;"
@@ -18,9 +20,11 @@ reset:
 
 .PHONY: read
 read:
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/accidents.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_types.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_waste.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/heinrich_incidents.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/tests.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/test_sample_collections.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/test_results.sql
