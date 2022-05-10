@@ -61,6 +61,8 @@ objects.
 
 ## Dirt on clothes
 
+### Use shoes
+
 The first few times, I wore just my socks (no shoes) when cleaning the
 old place. The socks got caked with dirt, not all of it came off in a
 wash. For future trips, I chose to keep my shoes on, since the floor
