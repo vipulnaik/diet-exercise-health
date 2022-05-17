@@ -932,7 +932,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-04-19','Bangkok Thai Cuisine yellow curry tofu',1),
   ('2022-04-19','Bangkok Thai Cuisine white rice',1),
   /* 2022-04-20 Mehak Indian Cuisine */
-  ('2022-04-20','Mehak Indian Cuisne standard set',1),
+  ('2022-04-20','Mehak Indian Cuisine standard set',1),
   /* 2022-04-21 Trader Joe's; checkout at 9:23 AM; paid by card */
   ('2022-04-21','TJ Almond Milk',1),
   ('2022-04-21','TJ Sauerkraut',2),
@@ -988,7 +988,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-05-06 Udupi Palace; total cost $13.17 (paid by cash) */
   ('2022-05-06','Udupi Palace spinach masala dosa',1),
   /* 2022-05-09 Mehak Indian Cuisine */
-  ('2022-05-09','Mehak Indian Cuisne standard set',1),
+  ('2022-05-09','Mehak Indian Cuisine standard set',1),
   /*2022-05-13 Trader Joe's; checkout at 7:47 PM; $35.26 (paid by card) */
   ('2022-05-13','TJ Sauerkraut',2),
   ('2022-05-13','TJ Baby Spinach',1),
@@ -999,4 +999,10 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-05-13','Red bell pepper',2),
   ('2022-05-13','Green bell pepper',2),
   /* 2022-05-13 Udupi Palace; total cost $13.17 (paid by cash) */
-  ('2022-05-13','Udupi Palace spinach masala dosa',1);
+  ('2022-05-13','Udupi Palace spinach masala dosa',1),
+  /* 2022-05-16 Trader Joe's; checkout at 5:56 PM; total cost $21.64 (paid by card) */
+  ('2022-05-16','TJ Almond Milk',1),
+  ('2022-05-16','TJ English Shelled Peas',2),
+  ('2022-05-16','Alvarado Sprouted Wheat Tortillas',3),
+  /* 2022-05-16 Udupi Palace; checkout at 5:51 PM; total cost $13.17 (paid by cash) */
+  ('2022-05-16','Udupi Palace spinach masala dosa',1);
