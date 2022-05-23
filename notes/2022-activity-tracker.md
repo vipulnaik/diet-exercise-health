@@ -319,3 +319,10 @@ the day, another former housemate visited me to pick up more items.
 In the evening, I made a trip to the Amazon Hub Locker to pick up
 packages. On the way back, I made some food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday May 22
+
+In the evening, I made a trip to downtown Berkeley. In addition to
+food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql), I also withdrew some
+cash from the Citibank ATM at Shattuck and University.
