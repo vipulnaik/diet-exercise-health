@@ -1025,4 +1025,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-05-22','TJ Sauerkraut',2),
   ('2022-05-22','Alvarado Sprouted Wheat Tortillas',6),
   /* 2022-05-22 Udupi Palace; total cost $13.17 (paid by cash) */
-  ('2022-05-22','Udupi Palace spinach masala dosa',1);
+  ('2022-05-22','Udupi Palace spinach masala dosa',1),
+  /* 2022-05-26 Trader Joe's; checkout at 5:13 PM; total cost $35.32 (paid by card);
+     there was no trip to Udupi Palace on this day because the place was closed
+     due to technical issues */
+  ('2022-05-26','TJ English Shelled Peas',3),
+  ('2022-05-26','TJ Baby Spinach',1),
+  ('2022-05-26','TJ Carrots',1),
+  ('2022-05-26','Beefsteak tomato',7),
+  ('2022-05-26','Eggplant',2),
+  ('2022-05-26','Red bell pepper',2),
+  ('2022-05-26','Green bell pepper',2);

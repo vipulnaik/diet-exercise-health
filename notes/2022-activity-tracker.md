@@ -326,3 +326,10 @@ In the evening, I made a trip to downtown Berkeley. In addition to
 food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql), I also withdrew some
 cash from the Citibank ATM at Shattuck and University.
+
+## Thursday May 26
+
+In the evning, I made a trip to downtown Berkeley. In addition to food
+purchases recorded at [food_purchases.sql](../sql/food_purchases.sql),
+I also withdrew quarters from the Citibank teller at Shattuck and
+University.
