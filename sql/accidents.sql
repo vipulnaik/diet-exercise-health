@@ -1,7 +1,7 @@
 create table accidents(
   date date,
   date_precision enum('day','month','quarter','year'),
-  cause_of_accident enum('Walking fall','Running fall','Traffic accident','Object drop'),
+  cause_of_accident enum('Shaving cut','Walking fall','Running fall','Traffic accident','Object drop'),
   physical_injury_details varchar(2000),
   physical_injury_severity int(11),
   other_damage_details varchar(2000),
@@ -13,4 +13,5 @@ insert into accidents(date, date_precision, cause_of_accident, physical_injury_d
   ('2019-09-10','day','Traffic accident','I fell on my right side and my injuries were mainly to my right arm and a little below the waist. I also had stiffness in a few parts of my body.',4,NULL,'https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2019-09-10-traffic-accident.md'),
   ('2020-07-01','quarter','Object drop',NULL,NULL,'I dropped one of my glass food storage containers. I had placed it near the edge of the countertop due to the lack of space on the countertop near the sink (with stuff from my housemates having used up all the space), and it fell after a slight perturbation.',NULL),
   ('2022-04-05','day','Running fall','This was a relatively milder fall than my previous running fall; I scraped the side of my right knee as well as my right shoulder, and also got bruises on my left and right palm.',2,'I also cracked my phone screen that I had been holding in my left hand.','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-04-05-fall-and-phone-screen-crack.md'),
-  ('2022-04-21','day','Object drop',NULL,NULL,'While putting stuff in and out of my vegetable tray in the refrigerator at my new place, I failed to realize that the capacity of this vegetable tray is smaller, so it dropped. Though a very small drop, it caused a crack in the tray (albeit not one that could be felt) and also a chipping in a door handle facing the tray.',NULL);
+  ('2022-04-21','day','Object drop',NULL,NULL,'While putting stuff in and out of my vegetable tray in the refrigerator at my new place, I failed to realize that the capacity of this vegetable tray is smaller, so it dropped. Though a very small drop, it caused a crack in the tray (albeit not one that could be felt) and also a chipping in a door handle facing the tray.',NULL),
+  ('2022-05-27','day','Shaving cut','While shaving, I got cuts in the cheek area just to the right of my nose, as well as in a few places under my jaw. None of the cuts were too serious; they clotted on their own without need of bandages and there was very little bleeding. Nonetheless, the existence of several simultaneous cuts suggests that there was some systematic issue such as insufficiently moist or soft skin, or a badly functioning razor blade.',0,NULL,NULL);
