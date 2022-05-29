@@ -70,7 +70,9 @@ Everything felt normal with my eyes.
 
 I had a spontaneous slight bleeding of my middle knuckle of my left
 hand. I noticed it because of a couple of blood drops that came
-through my sweatshirt pocket in which I had my left hand. I initially thought it was a splatter of red paint; only when I took my hand out did I notice the bleeding.
+through my sweatshirt pocket in which I had my left hand. I initially
+thought it was a splatter of red paint; only when I took my hand out
+did I notice the bleeding.
 
 This was somewhat surprising since I had been using moisturizer
 regularly (though not focuse on that knuckle), and my frequency of
