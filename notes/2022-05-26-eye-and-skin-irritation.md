@@ -64,7 +64,9 @@ I did not notice any skin issues.
 
 ### Eye
 
-Everything felt normal with my eyes.
+Everything felt normal with my eyes in the morning. In the afternoon,
+for a while after doing laundry, I experienced a slight eye
+irritation, despite taking all required precautions.
 
 ### Skin
 
