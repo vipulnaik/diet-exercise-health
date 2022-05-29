@@ -30,3 +30,16 @@ and reassess next steps.
 
 I investigated potential remedies, including eye drops, but will defer
 purchases to a later date after seeing how things evolve.
+
+## 2022-05-28
+
+By this time, there was no clearly identifiable or distracting eye
+irritation, though when I self-probed there were times when I felt a
+little irritation in the eye.
+
+I also had occasion to do laundry again on this day, and I followed
+various precautions to reduce potential for eye irritation:
+
+* I used sunglasses while handling the laundry detergent.
+* I kept the laundry detergent open for as little as possible; most of
+  the time it was shut and enclosed in a plastic container.
