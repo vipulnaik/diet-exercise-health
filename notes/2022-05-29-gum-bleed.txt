@@ -8,8 +8,25 @@ was a gum injury that was self-healing but the act of vigorous brushng
 around the area reopened the wound a little bit.
 
 Occasional gum bleeding isn't concerning in and of itself, but I'm
-making a note here so I can see if it recurs. It's been almost six
-months since my last dentist appointment and about two weeks to my
-next appointment, so it's likely that there's some buildup that's
-making such incidents more likely, but overall the rest of my gums
-feel healthy.
+making a note here so I can see if it recurs.
+
+## Potential causes
+
+### Build-up
+
+It's been almost six months since my last dentist appointment and
+about two weeks to my next appointment, so it's likely that there's
+some buildup that's making such incidents more likely, but overall the
+rest of my gums feel healthy.
+
+### Some recent dietary or physical accident
+
+I've actually had less spicy food in the last week than usual, but
+it's possible that some food disagreed with me.
+
+### Side-effect of my generally greater irritation
+
+It could be a side-effect of the constellation of factors related to
+my recent [eye and skin
+irritation](2022-05-26-eye-and-skin-irritation.md).
+
