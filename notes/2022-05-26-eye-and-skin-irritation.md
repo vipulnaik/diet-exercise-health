@@ -82,3 +82,9 @@ hand-washing was not meaningfully different than usual. I had also not
 previously noticed anything particularly wrong with that knuckle. My
 suspicion is that the previous skin irritation had made my hands a bit
 more sensitive.
+
+## 2022-05-30
+
+I did not have any clearly identifiable eye or skin irritation outside
+of the normal range. I did think I was more sensitive to picking up
+smells than I usually am.
