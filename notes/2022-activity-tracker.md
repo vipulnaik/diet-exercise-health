@@ -333,3 +333,9 @@ In the evning, I made a trip to downtown Berkeley. In addition to food
 purchases recorded at [food_purchases.sql](../sql/food_purchases.sql),
 I also withdrew quarters from the Citibank teller at Shattuck and
 University.
+
+## Monday June 6
+
+In the morning, I made a trip to WeWork to meet some friends. I was in
+WeWork from 10 AM to around 12:20 PM. On the way back, I made a trip
+to Target to purchase some stuff.
