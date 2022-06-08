@@ -1047,4 +1047,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-06-01','TJ Baby Spinach',1),
   ('2022-06-01','Alvarado Sprouted Wheat Tortillas',5),
   /* 2022-06-01 Udupi Palace; total cost $13.17 (paid by cash) */
-  ('2022-06-01','Udupi Palace spinach masala dosa',1);
+  ('2022-06-01','Udupi Palace spinach masala dosa',1),
+  /* 2022-06-06 Mehak Indian Cuisine; total cost $49.56 (paid by PayPal) */
+  ('2022-06-06','Mehak Indian Cuisine standard set',1);
