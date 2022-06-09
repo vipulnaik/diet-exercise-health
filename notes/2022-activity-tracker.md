@@ -339,3 +339,11 @@ University.
 In the morning, I made a trip to WeWork to meet some friends. I was in
 WeWork from 10 AM to around 12:20 PM. On the way back, I made a trip
 to Target to purchase some stuff.
+
+## Thursday June 7
+
+In the morning, I made a three-stop trip: first the Target in downtown
+Berkeley, where I exchanged batteries (around 9:50 AM), then Citibank
+to withdraw quarters (around 10 AM) and then at the Amazon Hub Locker
+for package pickup (around 10:20 AM). I was out of my home from 9:20
+AM to 11 AM.
