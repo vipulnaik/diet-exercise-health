@@ -347,3 +347,8 @@ Berkeley, where I exchanged batteries (around 9:50 AM), then Citibank
 to withdraw quarters (around 10 AM) and then at the Amazon Hub Locker
 for package pickup (around 10:20 AM). I was out of my home from 9:20
 AM to 11 AM.
+
+## Monday June 13
+
+In the late evening / night, I went to Walgreens to buy toiletries. I
+was in the store from 9:05 PM to 9:21 PM.
