@@ -8,7 +8,7 @@ appointment](2021-09-29-periodontal-therapy-first-appointment.md) and
 [second
 appointment](2021-10-06-periodontal-therapy-second-appointment.md).
 
-My dental hygienist was Linnho. My appointment was for 1 PM and
+My dental hygienist was Lingho. My appointment was for 1 PM and
 started approximately on time.
 
 ## Mouthwash
