@@ -1061,4 +1061,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-06-10','TJ English Shelled Peas',2),
   ('2022-06-10','Yellow squash',3),
   /* 2022-06-10 Udupi Palace; order placed 8:31 PM; total cost $13.17 (paid by cash) */
-  ('2022-06-10','Udupi Palace spinach masala dosa',1);
+  ('2022-06-10','Udupi Palace spinach masala dosa',1),
+  /* 2022-06-15 Trader Joe's; checkouat at 7:59 PM (paid by card) */
+  ('2022-06-15','TJ Almond Milk',1),
+  ('2022-06-15','TJ Carrots',1),
+  ('2022-06-15','TJ English Shelled Peas',3),
+  ('2022-06-15','Green bell pepper',4),
+  ('2022-06-15','Red bell pepper',2),
+  ('2022-06-15','Beefsteak tomato',6),
+  ('2022-06-15','Yellow squash',2),
+  ('2022-06-15','Alvarado Sprouted Wheat Tortillas',5),
+  /* 2022-06-15 Udupi Palace; total cost $14.28 -- note the cost increase (paid by cash) */
+  ('2022-06-15','Udupi Palace spinach masala dosa',1);
