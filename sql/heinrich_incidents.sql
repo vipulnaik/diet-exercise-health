@@ -13,6 +13,14 @@ create table heinrich_incidents(
   protocol_updates varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
+/* There was an incident where a laptop screen cover flew while I was
+   carrying a laptop so I caught it with one hand and continued
+   holding my laptop in the other. This happened on my M1 laptop in
+   2022-04.  It doesn't count as an object drop or an object
+   near-drop, but still counts as a much higher risk than I should
+   have been taking. If I later expand the scope of Heinrich incidents
+   I might add this one.*/
+
 /* I started systematically recording these in 2022-05; the list of backfilled historical incidents
    is probably incomplete. */
 insert into heinrich_incidents(date, date_precision, incident_type, incident_details, protocol_updates) values
