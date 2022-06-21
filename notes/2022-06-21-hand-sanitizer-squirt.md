@@ -1,10 +1,15 @@
 # 2022-06-21: hand sanitizer squirt
 
-When going out for my run, when pumping alcohol, it squirted out and
-fell partly into my face, including hitting my eyes (that I closed, so
-it mostly didn't get in) and a drop on my lips. I kept my eyes closed
-for a few seconds, then walked to the restroom, I was able to flush my
-eyes and wash it off and didn't have any lasting damage.
+Right before going out for my run, I use hand sanitizer on my hands to
+clean them (I do this instead of handwashing since I prefer not to use
+my shoes to go into the restroom and get shoe dirt inside the house).
+
+On this day, for the morning run at around 10 AM, when I pumped the
+hand sanitizer, it squirted out and fell partly into my face,
+including hitting my eyes (that I closed, so it mostly didn't get in)
+and a drop on my lips. I kept my eyes closed for a few seconds, then
+walked to the restroom, I was able to flush my eyes and wash it off
+and didn't have any lasting damage.
 
 I experienced a bit of irritation in the next hour and did a few more
 round of flushing over the next two hours. I did not see any redness
