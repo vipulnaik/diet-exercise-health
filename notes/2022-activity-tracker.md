@@ -352,3 +352,11 @@ AM to 11 AM.
 
 In the late evening / night, I went to Walgreens to buy toiletries. I
 was in the store from 9:05 PM to 9:21 PM.
+
+## Wednesday June 22
+
+In the afternoon, I made a trip to the Apple Store at Union Square to
+pick up an adapter and a charging cable. I left home a bit before
+noon, took BART to Powell Street Station, picked up the order, then
+took BART back. I was at the store shortly before 1 PM and back home a
+little after 2 PM.
