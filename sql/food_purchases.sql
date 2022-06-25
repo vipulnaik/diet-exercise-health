@@ -1084,4 +1084,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-06-24','Green bell pepper',4),
   ('2022-06-24','Alvarado Sprouted Wheat Tortillas',6),
   /* 2022-06-24 Udupi Palace; total cost $14.28; order placed 7:21 PM; paid by cash */
-  ('2022-06-24','Udupi Palace spinach masala dosa',1);
+  ('2022-06-24','Udupi Palace spinach masala dosa',1),
+  /* 2022-06-25 Berkeley Bowl; total cost $5.98; checkout at 10:59 AM; paid by card */
+  ('2022-06-25','Eggplant',2);
