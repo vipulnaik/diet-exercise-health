@@ -360,3 +360,9 @@ pick up an adapter and a charging cable. I left home a bit before
 noon, took BART to Powell Street Station, picked up the order, then
 took BART back. I was at the store shortly before 1 PM and back home a
 little after 2 PM.
+
+## Friday June 24
+
+In the evening, I went to the Amazon Hub Locker for package pickup,
+then went for food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
