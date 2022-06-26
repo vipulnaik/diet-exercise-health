@@ -353,6 +353,12 @@ AM to 11 AM.
 In the late evening / night, I went to Walgreens to buy toiletries. I
 was in the store from 9:05 PM to 9:21 PM.
 
+## Wednesday June 15
+
+I made a trip to Total Health Dental Care for my regular dental
+cleaning. More details at
+[2022-06-15-dental-cleaning.md](2022-06-15-dental-cleaning.md).
+
 ## Wednesday June 22
 
 In the afternoon, I made a trip to the Apple Store at Union Square to
