@@ -372,3 +372,17 @@ little after 2 PM.
 In the evening, I went to the Amazon Hub Locker for package pickup,
 then went for food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday June 26
+
+In the morning, I made a trip to the Target at Albany to both pick up
+an online order and buy some more stuff. I left my home around 7:50
+AM; I caught the route 18 bus at Shattuck and Woolsey toward
+University Village, and got off at San Pablo and Buchanan Street at
+8:41 AM. I then walked to the Target and arrived at 9 AM. I first
+picked up my online order, then did some further shopping, finishing
+checkout at 9:22 AM.
+
+After that I walked back to the bus stop (San Pablo and Buchanan),
+waited for and boarded the route 18 bus, and got off at Shattuck and
+Ashby, from where I walked home.

@@ -37,7 +37,7 @@ The hygienist ended with flossing my teeth.
 
 ### Dental care recommendations
 
-The hygienstic suggested flossing in addition to using an interdental
+The hygienist suggested flossing in addition to using an interdental
 brush, particularly for hard-to-reach back teeth (she said the
 interdental brush isn't small enough to get into all the
 crevices). She also said I should get the wisdom tooth removed some
