@@ -375,6 +375,8 @@ then went for food purchases recorded at
 
 ## Sunday June 26
 
+### Morning
+
 In the morning, I made a trip to the Target at Albany to both pick up
 an online order and buy some more stuff. I left my home around 7:50
 AM; I caught the route 18 bus at Shattuck and Woolsey toward
@@ -386,3 +388,19 @@ checkout at 9:22 AM.
 After that I walked back to the bus stop (San Pablo and Buchanan),
 waited for and boarded the route 18 bus, and got off at Shattuck and
 Ashby, from where I walked home.
+
+### Afternoon
+
+In the afternoon, I made a walking trip. I left home around 2:31 PM,
+first stopping at the Ashby BART, where I added some money to my
+Clipper card, finishing around 2:36 PM. I then went to Walgreens to
+purchase supplements; the transaction finished at 2:57 PM.
+
+After that I went to The Mattress Firm to check out their in-store
+pillows. There wasn't anything suitable for my needs (they were too
+big and too expensive). I then went to Target, but the pillows there
+were too soft and too cheap ($4, $6 pillows) and likely weren't
+intended as primary sleeping pillows.
+
+I finished at Target around 3:30 PM and then walked back home. I got
+back home around 3:55 PM.
