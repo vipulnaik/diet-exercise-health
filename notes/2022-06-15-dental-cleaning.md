@@ -47,6 +47,21 @@ For flossing, she recommended using a floss pick and attaching it to a
 floss holder (that's similar to a toothbrush) so that it's easier to
 reach far back.
 
+#### Followup on use of floss holder
+
+I purchased [T.Smile Evolutionary Clean Dental
+Flossers](https://www.amazon.com/gp/product/B07F8P58PF/) (this
+includes a floss holder and a lot of floss pick refills). I placed the
+order on June 20, picked it up on June 24, and first used it on June
+26.
+
+I'm planning to use this daily (after one of the meals), while still
+continuing to use the interdental brush after each meal. Current
+planned order: interdental brush (every meal), salt-water rinse (every
+meal), floss (one meal per day), then after waiting between 30 minutes
+and 3 hours, brush (every meal). Also, a separate brushing round each
+morning.
+
 ## Followup appointment
 
 The next appointment has been booked for Wednesday, December 21, 2022
