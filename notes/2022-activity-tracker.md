@@ -404,3 +404,11 @@ intended as primary sleeping pillows.
 
 I finished at Target around 3:30 PM and then walked back home. I got
 back home around 3:55 PM.
+
+## Friday July 1
+
+In the evening, I made a trip to downtown Berkeley. I first went to
+Ace Hardware where I bought some stuff, finishing at 4:32 PM. I then
+went to the Citibank to get quarters, finishing at 4:42 PM. I then
+made some food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).

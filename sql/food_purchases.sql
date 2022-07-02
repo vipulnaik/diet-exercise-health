@@ -1086,4 +1086,18 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-06-24 Udupi Palace; total cost $14.28; order placed 7:21 PM; paid by cash */
   ('2022-06-24','Udupi Palace spinach masala dosa',1),
   /* 2022-06-25 Berkeley Bowl; total cost $5.98; checkout at 10:59 AM; paid by card */
-  ('2022-06-25','Eggplant',2);
+  ('2022-06-25','Eggplant',2),
+  /* 2022-07-01 Trader Joe's; total cost $70.60; checkout at 5:06 PM; paid by card */
+  ('2022-07-01','Trader Giotto''s Olive Oil',1),
+  ('2022-07-01','TJ English Shelled Peas',3),
+  ('2022-07-01','TJ Almond Milk',1),
+  ('2022-07-01','TJ Carrots',1),
+  ('2022-07-01','TJ Baby Spinach',1),
+  ('2022-07-01','Eggplant',2),
+  ('2022-07-01','Alvarado Sprouted Wheat Tortillas',6),
+  ('2022-07-01','TJ Walnuts',1),
+  ('2022-07-01','Beefsteak tomato',8),
+  ('2022-07-01','Green bell pepper',4),
+  ('2022-07-01','Red bell pepper',2),
+  /* 2022-07-01 Udupi Palace; total cost $14.28; paid by cash */
+  ('2022-07-01','Udupi Palace spinach masala dosa',1);
