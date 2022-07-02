@@ -65,7 +65,9 @@ while eating, brushing teeth, bathing, etc. Even with frequent
 changes, though, the total cost of the bandages won't come to much if
 the base frequency isn't that high. At each change assess the
 situation with the cut. Generally, it should take about a week to heal
-with bandages, and maybe two weeks without?
+with bandages, and maybe two weeks without? (If the wound doesn't
+bleed at all, and I remove the bandage carefully, I can even reuse the
+bandage after taking it off for activities where it gets in the way).
 
 I already have a lot of bandages and can stock up on more. Prevention
 of the small cuts in the first place is ideal, but if we do get past
@@ -74,6 +76,16 @@ it, it's better to splurge on bandages.
 ### Reduce frequency and intensity of handwashing and hand sanitizer use, and try to avoid hitting the injured areas
 
 I tried it this time but maybe not as much as I should have.
+
+One related tip is for drying: I generally dry vigorously with a
+towel. The towel works fine for healthy skin, but it might be too
+harsh to rub vigorously against injured skin. So I need to be delicate
+with the towel when using it against the injured skin.
+
+### Don't stretch the finger area too much
+
+Stretching the finger can place strain on the injury even if the
+injured area doesn't come into direct contact with anything.
 
 ### Use vaseline on injured areas (ideally e.g., five minutes before applying a new bandage)
 
