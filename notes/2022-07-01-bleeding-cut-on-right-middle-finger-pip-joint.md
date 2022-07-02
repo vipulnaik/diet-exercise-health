@@ -41,3 +41,41 @@ that), when I got up to get water, I put on the light, and I noticed
 bleeding of the cut. I applied vaseline and bandaged the cut. I'm not
 sure if bandaging will be feasible in the longer term, but I'm hoping
 to at least bandage overnight and for the morning run.
+
+## Retrospective
+
+### Avoid the initial cut on the knuckles
+
+Once there is an initial cut on the knuckles, it's pretty hard to
+avoid it getting to eventually bleed -- extreme care is needed and
+even then is not sufficient. The knuckle location has the downside of
+frequent exposure through hand activity, handwashing, and hand
+sanitization. Being extremely careful of what the knuckles come in
+contact with (e.g., zipper linings) and moisturizing them regularly,
+is key. Where possible, prefer to use the front of the hands than the
+back.
+
+### Once there is an initial cut, bandage it preemptively unless extremely inconvenient
+
+Bandage the cut, even if the location is such that the bandage won't
+last and will need to keep being changed. Remove the bandage
+preemptively for the tasks where it's inconvenient, then re-bandage
+the area. For instance, it may make sense to remove a hand bandage
+while eating, brushing teeth, bathing, etc. Even with frequent
+changes, though, the total cost of the bandages won't come to much if
+the base frequency isn't that high. At each change assess the
+situation with the cut. Generally, it should take about a week to heal
+with bandages, and maybe two weeks without?
+
+I already have a lot of bandages and can stock up on more. Prevention
+of the small cuts in the first place is ideal, but if we do get past
+it, it's better to splurge on bandages.
+
+### Reduce frequency and intensity of handwashing and hand sanitizer use, and try to avoid hitting the injured areas
+
+I tried it this time but maybe not as much as I should have.
+
+### Use vaseline on injured areas (ideally e.g., five minutes before applying a new bandage)
+
+I did it this time, it didn't seem to have prevented eventual bleeding
+but may have both delayed and reduced the magnitude.
