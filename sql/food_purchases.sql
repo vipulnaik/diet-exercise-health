@@ -1096,7 +1096,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-07-01','Eggplant',2),
   ('2022-07-01','Alvarado Sprouted Wheat Tortillas',6),
   ('2022-07-01','TJ Walnuts',1),
-  ('2022-07-01','Beefsteak tomato',8),
+  ('2022-07-01','Beefsteak tomato',9), /* I incorrectly told the cashier there were 8, but there were 9, so I ended up getting billed for 1 less than there were */
   ('2022-07-01','Green bell pepper',4),
   ('2022-07-01','Red bell pepper',2),
   /* 2022-07-01 Udupi Palace; total cost $14.28; paid by cash */
