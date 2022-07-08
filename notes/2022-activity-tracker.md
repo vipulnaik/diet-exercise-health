@@ -412,3 +412,10 @@ Ace Hardware where I bought some stuff, finishing at 4:32 PM. I then
 went to the Citibank to get quarters, finishing at 4:42 PM. I then
 made some food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Thursday July 7
+
+In the evening, I went to downtown Berkeley. I first made a trip to
+Citibank, where I was from around 4:40 PM to 4:53 PM. I then made some
+food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
