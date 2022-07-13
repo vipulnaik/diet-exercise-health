@@ -424,4 +424,4 @@ food purchases recorded at
 
 In the late evening I went to the Amazon Hub locker to pick up an
 online order. I left home around 8:05 PM, was in the place around 8:40
-PM, and got back around 9:10 PM.
+PM, and got back around 9:15 PM.
