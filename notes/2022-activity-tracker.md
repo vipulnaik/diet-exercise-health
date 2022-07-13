@@ -419,3 +419,9 @@ In the evening, I went to downtown Berkeley. I first made a trip to
 Citibank, where I was from around 4:40 PM to 4:53 PM. I then made some
 food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Tuesday July 12
+
+In the late evening I went to the Amazon Hub locker to pick up an
+online order. I left home around 8:05 PM, was in the place around 8:40
+PM, and got back around 9:10 PM.
