@@ -31,14 +31,12 @@ I did two things right:
 
 ### Placement changes
 
+I moved the hand sanitizer from a position above eye level to a
+position at about knee level.
+
 Also based on this I changed the position of hand sanitizer at one
 other place in my house (a third place already had it at almost floor
 level.
-
-Based on reading more online guidance, I also think that for such
-incidents in the future, I should flush my eyes for a couple extra
-minutes even after they feel fine. (I basically just did a few seconds
-of flushing and felt fine after that,
 
 Ideally I should have made these protocol updates earlier.
 
