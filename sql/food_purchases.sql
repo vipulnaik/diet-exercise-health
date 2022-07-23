@@ -1133,4 +1133,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-07-14 Udupi Palace; total cost $14.28; paid by cash */
   ('2022-07-14','Udupi Palace spinach masala dosa',1),
   /* 2022-07-18 Mehak Indian Cuisine; total cost $49.56 (paid by PayPal) */
-  ('2022-07-18','Mehak Indian Cuisine standard set',1);
+  ('2022-07-18','Mehak Indian Cuisine standard set',1),
+  /* 2022-07-22 Trader Joe's; checkout at 5:01 PM; total cost $54.51; paid by debit card */
+  ('2022-07-22','TJ Almond Milk',1),
+  ('2022-07-22','TJ Carrots',1),
+  ('2022-07-22','TJ English Shelled Peas',2),
+  ('2022-07-22','TJ Baby Spinach',1),
+  ('2022-07-22','Green bell pepper',2),
+  ('2022-07-22','Beefsteak tomato',11),
+  ('2022-07-22','Green bell pepper',4),
+  ('2022-07-22','Eggplant',2),
+  ('2022-07-22','Alvarado Sprouted Wheat Tortillas',5),
+  /* 2022-07-22 Udupi Palace; total cost $14.28; paid by cash */
+  ('2022-07-22','Udupi Palace spinach masala dosa',1);

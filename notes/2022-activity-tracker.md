@@ -425,3 +425,10 @@ food purchases recorded at
 In the late evening I went to the Amazon Hub locker to pick up an
 online order. I left home around 8:05 PM, was in the place around 8:40
 PM, and got back around 9:15 PM.
+
+## Friday July 22
+
+In the late afternoon / early evening, I went to downtown Berkeley. I
+first made a trip to Citibank for some transactions, finishing a
+little before 4:40 PM. I then made some food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
