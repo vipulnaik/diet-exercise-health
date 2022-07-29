@@ -1145,4 +1145,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-07-22','Eggplant',2),
   ('2022-07-22','Alvarado Sprouted Wheat Tortillas',5),
   /* 2022-07-22 Udupi Palace; total cost $14.28; paid by cash */
-  ('2022-07-22','Udupi Palace spinach masala dosa',1);
+  ('2022-07-22','Udupi Palace spinach masala dosa',1),
+  /* 2022-07-28 Trader Joe's; checkout at 4:50 PM; total cost $56.81; paid by debit card */
+  ('2022-07-28','Alvarado Sprouted Wheat Tortillas',6),
+  ('2022-07-28','TJ Sauerkraut',1),
+  ('2022-07-28','Green bell pepper',4),
+  ('2022-07-28','Red bell pepper',2),
+  ('2022-07-28','Beefsteak tomato',10),
+  ('2022-07-28','Trader Giotto''s Olive Oil',1),
+  ('2022-07-28','TJ Baby Spinach',1),
+  ('2022-07-28','Eggplant',2),
+  ('2022-07-28','TJ Beans',1),
+  ('2022-07-28','TJ Carrots',1),
+  /* 2022-07-28 Udupi Palace; total cost $14.28; paid by cash */
+  ('2022-07-28','Udupi Palace spinach masala dosa',1);
