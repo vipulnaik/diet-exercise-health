@@ -439,3 +439,10 @@ In the late afternoon / early evening, I went to downtown Berkeley. I
 first made a trip to Citibank for some transactions, finishing around
 4:25 PM. I then made some food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday August 3
+
+In the late afternoon / early evening, I went to downtown Berkeley. I
+first made a trip to Citibank for some transactions, finishing around
+4:45 PM. I then made some food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
