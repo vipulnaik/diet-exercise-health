@@ -454,5 +454,12 @@ was in the store from around 9:35 PM to around 9:50 PM.
 
 ## Friday August 5
 
-In the morning, I went to Walgreens to finish up some shopping I had
-started last night. I was in the store from around 8:50 AM to 9:10 AM.
+### Morning
+
+I went to Walgreens to finish up some shopping I had started last
+night. I was in the store from around 8:50 AM to 9:10 AM.
+
+### Afternoon
+
+I went to the Amazon Hub Locker at ASUC to pick up a bunch of
+packages. I was at the pickup location from 3 PM to 3:20 PM.
