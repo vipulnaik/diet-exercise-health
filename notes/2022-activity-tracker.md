@@ -463,3 +463,9 @@ night. I was in the store from around 8:50 AM to 9:10 AM.
 
 I went to the Amazon Hub Locker at ASUC to pick up a bunch of
 packages. I was at the pickup location from 3 PM to 3:20 PM.
+
+### Evening
+
+I made a trip to downtown Berkeley. I first stopped at Ace Hardware to
+purchase laundry bags. I then made some food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
