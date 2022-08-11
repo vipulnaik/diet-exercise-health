@@ -1183,7 +1183,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-08-10','TJ Carrots',1),
   ('2022-08-10','TJ Baby Spinach',1),
   ('2022-08-10','Beefsteak tomato',12),
-  ('2022-08-10','Red bell pepper',2), /* I was incorrectly billed for 4 */
+  ('2022-08-10','Red bell pepper',4),
   ('2022-08-10','Eggplant',2),
   ('2022-08-10','Carb-savvy tortillas',4),
   ('2022-08-10','Green bell pepper',4),
