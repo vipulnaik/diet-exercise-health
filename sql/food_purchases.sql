@@ -1177,4 +1177,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-08-05','Beefsteak tomato',8),
   ('2022-08-05','Alvarado Sprouted Wheat Tortillas',6),
   /* 2022-08-05 Udupi Palace; total cost $14.28; paid by cash */
-  ('2022-08-05','Udupi Palace spinach masala dosa',1);
+  ('2022-08-05','Udupi Palace spinach masala dosa',1),
+  /* 2022-08-10 Trader Joe's; checkout at 8:03 PM; total cost $68.66; paid by debit card */
+  ('2022-08-10','TJ English Shelled Peas',4),
+  ('2022-08-10','TJ Carrots',1),
+  ('2022-08-10','TJ Baby Spinach',1),
+  ('2022-08-10','Beefsteak tomato',12),
+  ('2022-08-10','Red bell pepper',2), /* I was incorrectly billed for 4 */
+  ('2022-08-10','Eggplant',2),
+  ('2022-08-10','Carb-savvy tortillas',4),
+  ('2022-08-10','Green bell pepper',4),
+  ('2022-08-10','TJ Turmeric',1),
+  ('2022-08-10','TJ Ceyenne Pepper',1),
+  /* 2022-08-10 Udupi Palace; total cost $14.28; paid by cash */
+  ('2022-08-10','Udupi Palace spinach masala dosa',1);
