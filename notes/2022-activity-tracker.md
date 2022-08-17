@@ -469,3 +469,10 @@ packages. I was at the pickup location from 3 PM to 3:20 PM.
 I made a trip to downtown Berkeley. I first stopped at Ace Hardware to
 purchase laundry bags. I then made some food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday August 17
+
+In the afternoon, I went to downtown Berkeley. I first made a trip to
+Citibank for some transactions, finishing a around 3:15 PM. I then
+made some food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
