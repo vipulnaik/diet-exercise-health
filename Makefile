@@ -7,16 +7,16 @@ init:
 
 .PHONY: reset
 reset:
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists accidents;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists food_waste;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists food_purchases;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists food_types;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists heinrich_incidents;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists test_results;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists test_sample_collections;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists tests;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists supplements;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists vaccine_administrations;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists accidents;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_waste;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_purchases;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_types;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists heinrich_incidents;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists test_results;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists test_sample_collections;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists tests;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists supplements;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists vaccine_administrations;"
 
 .PHONY: read
 read:
