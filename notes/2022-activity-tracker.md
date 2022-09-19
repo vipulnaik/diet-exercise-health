@@ -473,6 +473,13 @@ purchase laundry bags. I then made some food purchases recorded at
 ## Wednesday August 17
 
 In the afternoon, I went to downtown Berkeley. I first made a trip to
-Citibank for some transactions, finishing a around 3:15 PM. I then
+Citibank for some transactions, finishing at around 3:15 PM. I then
+made some food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
+
+## Monday September 19
+
+In the afternoon, I went to downtown Berkeley. I first made a trip to
+Citibank for some transactions, finishing at around 3:25 PM. I then
 made some food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
