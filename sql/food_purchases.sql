@@ -1252,7 +1252,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-09-15','Mehak Indian Cuisine standard set',1),
   /* 2022-09-19 Trader Joe's; total cost $51.86; checkout at 3:48 PM; paid by debit card */
   ('2022-09-19','TJ Carrots',1),
-  ('2022-09-19','Yellow squash',3),
+  ('2022-09-19','Yellow squash',4),
   ('2022-09-19','TJ English Shelled Peas',2),
   ('2022-09-19','Red bell pepper',2),
   ('2022-09-19','Green bell pepper',2),
