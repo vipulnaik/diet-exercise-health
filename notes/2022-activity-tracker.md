@@ -483,3 +483,15 @@ In the afternoon, I went to downtown Berkeley. I first made a trip to
 Citibank for some transactions, finishing at around 3:25 PM. I then
 made some food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday October 7
+
+I spent part of the day at Joinn Innovation Park. I left my home
+around noon. I took BART from Ashby to El Cerrito Del Norte. From
+there, I took AC Transit bus 72 to Hilltop Mall; I then walked from
+Hilltop Mall to the office.
+
+On the way back, I walked to Hilltop Mall and then took AC Transit buy
+76 from Hilltop Mall. The bus is headed to El Cerrito Del Norte BART,
+but stops at Richmond BART on the way. I got off at Richmond and then
+took the BART back to Ashby.
