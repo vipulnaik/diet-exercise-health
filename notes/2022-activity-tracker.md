@@ -495,3 +495,8 @@ On the way back, I walked to Hilltop Mall and then took AC Transit buy
 76 from Hilltop Mall. The bus is headed to El Cerrito Del Norte BART,
 but stops at Richmond BART on the way. I got off at Richmond and then
 took the BART back to Ashby.
+
+## Sunday October 9
+
+In the afternoon, I went to the Walgreens at Adeline Street for some
+shopping. I was in the store for a little while shortly after 3 PM.
