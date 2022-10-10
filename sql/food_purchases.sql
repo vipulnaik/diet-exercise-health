@@ -1283,7 +1283,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-10-02','Red bell pepper',2),
   ('2022-10-02','Eggplant',2),
   ('2022-10-02','Alvarado Sprouted Wheat Tortillas',6),
-  /* 2022-10-02 Udupi Palace; total cost $14.28; paid by cash */
+  /* 2022-10-02 Udupi Palace; total cost $14.28; order placed at 5:32 PM; paid by cash */
   ('2022-10-02','Udupi Palace spinach masala dosa',1),
   /* 2022-10-05 Trader Joe's; total cost $23.16; checkout at 6:06 PM; paid by credit card;
      no Udupi Palace purchase since the restaurant is now closed on Wednesdays */
@@ -1292,4 +1292,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-10-05','Green bell pepper',2),
   ('2022-10-05','Trader Giotto''s Olive Oil',1),
   ('2022-10-05','Beefsteak tomato',7),
-  ('2022-10-05','TJ Baby Spinach',1);
+  ('2022-10-05','TJ Baby Spinach',1),
+  /* 2022-10-09 Trader Joe's; total cost $29.11; checkout at 4:54 PM; paid by credit card */
+  ('2022-10-09','TJ Almond Milk',1),
+  ('2022-10-09','TJ Walnuts',1),
+  ('2022-10-09','TJ Baby Spinach',1),
+  ('2022-10-09','Alvarado Sprouted Wheat Tortillas',6),
+  /* 2022-10-09 Udupi Palace; total cost $14.28; order placed at 4:42 PM; paid by cash */
+  ('2022-10-09','Udupi Palace spinach masala dosa',1);
