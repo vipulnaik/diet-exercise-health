@@ -8,6 +8,7 @@ init:
 .PHONY: reset
 reset:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists accidents;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists doctor_visits;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_waste;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_purchases;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_types;"
@@ -21,6 +22,7 @@ reset:
 .PHONY: read
 read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/accidents.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/doctor_visits.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_types.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_waste.sql
