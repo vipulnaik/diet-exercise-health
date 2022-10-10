@@ -84,7 +84,6 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('December 2004 Gokula Metropolis lipid profile tests','Cholesterol LDL','mg/dL',0,100,108,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('December 2004 Gokula Metropolis lipid profile tests','Cholesterol VLDL','mg/dL',0,35,33,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('December 2004 Gokula Metropolis lipid profile tests','Serum triglycerides','mg/dL',0,150,164,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
-  ('December 2004 Gokula Metropolis lipid profile tests','Cholesterol HDL ratio','unitless',1,5,3.54,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   /* Lipid profile tests: July 2005 Gokula Metropolis */
   ('July 2005 Gokula Metropolis lipid profile tests','Cholesterol total','mg/dL',0,200,176,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('July 2005 Gokula Metropolis lipid profile tests','Cholesterol HDL direct','mg/dL',30,60,34,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
