@@ -163,7 +163,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('December 2016 LabCorp gastro blood tests','BUN','mg/dL',6,20,13,'Normal','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','Serum creatinine','mg/dL',0.76,1.27,0.62,'Low','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','Serum creatinine eGFR','mL/min/1.73',59,NULL,133,'Normal','The test was a part of a battery of gastro tests.'),
-  ('December 2016 LabCorp gastro blood tests','Alkaline phosphate','IU/L',39,117,53,'Normal','The test was a part of a battery of gastro tests.'),
+  ('December 2016 LabCorp gastro blood tests','Alkaline phosphatase, S','IU/L',39,117,53,'Normal','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','AST (SGOT)','IU/L',0,40,18,'Normal','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','ALT (SGPT)','IU/L',0,44,11,'Normal','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','Serum lipase','U/L',0,59,30,'Normal','The test was a part of a battery of gastro tests.'),
