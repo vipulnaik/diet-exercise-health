@@ -69,7 +69,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('April 2004 Dr. Lal lipid profile tests','Cholesterol LDL','mg/dL',0,100,99,'Normal','This test was taken to provide an initial baseline for periodic measurement, in light of family diabetic tendencies.'),
   ('April 2004 Dr. Lal lipid profile tests','Cholesterol VLDL','mg/dL',0,35,20,'Normal','This test was taken to provide an initial baseline for periodic measurement, in light of family diabetic tendencies.'),
   ('April 2004 Dr. Lal lipid profile tests','Serum triglycerides','mg/dL',0,150,154,'Above normal','This test was taken to provide an initial baseline for periodic measurement, in light of family diabetic tendencies.'),
-  ('April 2004 Dr. Lal lipid profile tests','Cholesterol HDL ratio','unitless',0,5,5.25,'Above normal','This test was taken to provide an initial baseline for periodic measurement, in light of family diabetic tendencies.'),
+  ('April 2004 Dr. Lal lipid profile tests','Cholesterol HDL ratio','unitless',1,5,5.25,'Above normal','This test was taken to provide an initial baseline for periodic measurement, in light of family diabetic tendencies.'),
   ('April 2004 Dr. Lal lipid profile tests','Chylomicrons','unitless',0,0,0,'Normal','This test was taken to provide an initial baseline for periodic measurement, in light of family diabetic tendencies.'),
   /* Lipid profile tests: July 2004 Dr. Lal */
   ('July 2004 Dr. Lal lipid profile tests','Cholesterol total','mg/dL',0,200,138,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
@@ -96,12 +96,14 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('September 2005 Iravatham Chennai lipid profile tests','Cholesterol LDL','mg/dL',0,100,116,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('September 2005 Iravatham Chennai lipid profile tests','Cholesterol VLDL','mg/dL',0,35,16,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('September 2005 Iravatham Chennai lipid profile tests','Serum triglycerides','mg/dL',0,150,80,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('September 2005 Iravatham Chennai lipid profile tests','Cholesterol HDL ratio','unitless',1,5,3.75,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   /* Lipid profile tests: July 2006 SRL Bangalore */
   ('July 2006 SRL Bangalore lipid profile tests','Cholesterol total','mg/dL',0,200,164,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('July 2006 SRL Bangalore lipid profile tests','Cholesterol HDL direct','mg/dL',30,60,41.4,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('July 2006 SRL Bangalore lipid profile tests','Cholesterol LDL','mg/dL',0,100,110,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('July 2006 SRL Bangalore lipid profile tests','Cholesterol VLDL','mg/dL',0,35,12.6,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('July 2006 SRL Bangalore lipid profile tests','Serum triglycerides','mg/dL',0,150,63,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('July 2006 SRL Bangalore lipid profile tests','Cholesterol HDL ratio','unitless',1,5,4,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   /* Lipid profile tests: July 2007 Gokula Metropolis */
   ('July 2007 Gokula Metropolis lipid profile tests','Cholesterol total','mg/dL',0,200,145,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('July 2007 Gokula Metropolis lipid profile tests','Cholesterol HDL direct','mg/dL',30,60,35.6,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
@@ -114,6 +116,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('July 2007 SRL Bangalore lipid profile tests','Cholesterol LDL','mg/dL',0,100,90,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('July 2007 SRL Bangalore lipid profile tests','Cholesterol VLDL','mg/dL',0,35,26.6,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('July 2007 SRL Bangalore lipid profile tests','Serum triglycerides','mg/dL',0,150,133,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('July 2007 SRL Bangalore lipid profile tests','Cholesterol HDL ratio','unitless',1,5,4.0,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   /* Vitamin and lipid profile tests: November 2017 Columbia Asia */
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol total','mg/dL',0,200,168,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL direct','mg/dL',30,60,51,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
@@ -124,7 +127,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   /* Lipid profile test: June 2021 Quest Diagnostics */
   ('June 2021 Quest Diagnostics tests','Cholesterol total','mg/dL',0,200,191,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('June 2021 Quest Diagnostics tests','Cholesterol HDL direct','mg/dL',40,NULL,46,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
-  ('June 2021 Quest Diagnostics tests','Cholesterol LDL','mg/dL',0,100,124,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol LDL','mg/dL',0,100,122,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('June 2021 Quest Diagnostics tests','Cholesterol HDL ratio','unitless',1,5,4.2,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('June 2021 Quest Diagnostics tests','Cholesterol non-HDL','mg/dL',0,130,145,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('June 2021 Quest Diagnostics tests','Serum triglycerides','mg/dL',0,150,124,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
@@ -157,7 +160,9 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('December 2016 LabCorp gastro blood tests','Antigliadin Abs (IgG)',NULL,0,19,2,'Negative','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','t-Transglutaminase (tTG) IgA','U/mL',0,3,2,'Negative','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','t-Transglutaminase (tTG) IgG','U/mL',0,5,2,'Negative','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro blood tests','BUN','mg/dL',6,20,13,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','Serum creatinine','mg/dL',0.76,1.27,0.62,'Low','The test was a part of a battery of gastro tests'),
+  ('December 2016 LabCorp gastro blood tests','Serum creatinine eGFR','mL/min/1.73',59,NULL,133,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','Alkaline phosphate','IU/L',39,117,53,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','AST (SGOT)','IU/L',0,40,18,'Normal','The test was a part of a battery of gastro tests'),
   ('December 2016 LabCorp gastro blood tests','ALT (SGPT)','IU/L',0,44,11,'Normal','The test was a part of a battery of gastro tests'),
@@ -170,7 +175,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('December 2016 LabCorp gastro stool tests','H. pylori stool Ag, EIA',NULL,NULL,NULL,NULL,'Negative','The test was a part of a battery of gastro tests'),
   /* June 2021 Quest Diagnostics complete blood count */
   ('June 2021 Quest Diagnostics tests','WBC','1000/uL',3.8,10.8,4.2,'Normal','This test was part of a complete blood count (CBC).'),
-  ('June 2021 Quest Diagnostics tests','RBC','1000000/uL',4.2,5.8,4.8,'Normal','This test was part of a complete blood count (CBC).'),
+  ('June 2021 Quest Diagnostics tests','RBC','1000000/uL',4.2,5.8,4.73,'Normal','This test was part of a complete blood count (CBC).'),
   ('June 2021 Quest Diagnostics tests','Hemoglobin','g/dL',13.2,17.1,14.3,'Normal','This test was part of a complete blood count (CBC).'),
   ('June 2021 Quest Diagnostics tests','Hematocrit','%',38.5,50,43.4,'Normal','This test was part of a complete blood count (CBC).'),
   ('June 2021 Quest Diagnostics tests','MCV','fL',80,100,91.8,'Normal','This test was part of a complete blood count (CBC).'),
