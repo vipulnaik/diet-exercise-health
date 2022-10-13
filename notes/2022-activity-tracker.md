@@ -500,3 +500,11 @@ took the BART back to Ashby.
 
 In the afternoon, I went to the Walgreens at Adeline Street for some
 shopping. I was in the store for a little while shortly after 3 PM.
+
+## Wednesday October 12
+
+In the afternoon, I went out for some errands. I began with a trip to
+a mailbox to post a rent check. After that, I went to the Citibank in
+downtown Berkeley for some financial transactions. I then completed
+food purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
