@@ -1309,4 +1309,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-10-12','Red bell pepper',4),
   ('2022-10-12','Eggplant',2),
   /* 2022-10-12 Udupi Palace; total cost $14.28; paid by cash */
-  ('2022-10-12','Udupi Palace spinach masala dosa',1);
+  ('2022-10-12','Udupi Palace spinach masala dosa',1),
+  /* 2022-10-17 Mehak Indian Cuisine; total cost $53.85 (paid by PayPal) */
+  ('2022-10-17','Mehak Indian Cuisine standard set',1);
