@@ -508,3 +508,14 @@ a mailbox to post a rent check. After that, I went to the Citibank in
 downtown Berkeley for some financial transactions. I then completed
 food purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday October 19
+
+I spent part of the day at Joinn Innovation Park. I left my home
+around noon. I took BART from Ashby to El Cerrito Del Norte. From
+there, I took AC Transit bus 76 to Hilltop Mall; I then walked from
+Hilltop Mall to the office.
+
+On the way back, I walked to Hilltop Mall and then took AC Transit buy
+72 from Hilltop Mall to El Cerrito Del Norte BART. I took the BART
+back from El Cerrito Del Norte BART to Ashby.
