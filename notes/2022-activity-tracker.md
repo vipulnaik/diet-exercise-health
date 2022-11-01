@@ -519,3 +519,10 @@ Hilltop Mall to the office.
 On the way back, I walked to Hilltop Mall and then took AC Transit buy
 72 from Hilltop Mall to El Cerrito Del Norte BART. I took the BART
 back from El Cerrito Del Norte BART to Ashby.
+
+## Monday October 31
+
+In the evening, I went to downtown Berkeley. I first went to Citibank
+for financial transactions, finishing around 4:40 PM. I then completed
+food purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
