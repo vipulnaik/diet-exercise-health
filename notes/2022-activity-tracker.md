@@ -526,3 +526,11 @@ In the evening, I went to downtown Berkeley. I first went to Citibank
 for financial transactions, finishing around 4:40 PM. I then completed
 food purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday November 2
+
+I spent the working day at Joinn Innovation Park; I also rideshared
+for part of the way to and from the park (I used BART for the rest of
+the journey).
+
+I had significant close-range exposure to several other people.
