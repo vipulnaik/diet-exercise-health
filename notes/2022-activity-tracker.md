@@ -534,3 +534,8 @@ for part of the way to and from the park (I used BART for the rest of
 the journey).
 
 I had significant close-range exposure to several other people.
+
+## Friday November 4
+
+Shortly after noon, I made a trip to the Amazon Hub Locker at ASUC to
+pick up some packages.
