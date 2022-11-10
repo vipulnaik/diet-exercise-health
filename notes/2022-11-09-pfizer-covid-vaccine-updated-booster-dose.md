@@ -20,6 +20,7 @@ Time (may be approximate) | Hours since vaccine (2021-12-24 3:54 PM) | Context |
 6:50 AM | 15 | First reading after initial waking up | 98.8
 9:10 AM | 17 | First reading after final waking up | 99.8
 9:50 AM | 18 | Reading after morning chores | 98.7
+1:50 PM | 21 | Random afternoon reading | 99.0
 
 ## Decision to get the booster
 
