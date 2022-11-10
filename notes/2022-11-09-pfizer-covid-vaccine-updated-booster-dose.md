@@ -9,11 +9,17 @@ Sections of this document (document still a work in progress):
 * [Decision to get the booster](#decision-to-get-the-booster)
 * [Appointment booking (Wednesday October 26)](#appointment-booking-wednesday-october-26)
 * [Booster shot (Wednesday November 9)](#booster-shot-wednesday-november-9)
+* [Aftereffects: day of vaccine (Wednesday November 9)](#aftereffects-day-of-vaccine-wednesday-november-9)
+* [Aftereffects: next day (Thursday November 10)](#aftereffects-next-day-thursday-november-10)
 
 ## Temperature readings
 
 Time (may be approximate) | Hours since vaccine (2021-12-24 3:54 PM) | Context | Reading in degrees Fahrenheit
 4:50 PM | 1 | First at-home reading since vaccine | 98.3
+10:10 PM | 6 | At-home readong shortly before going to sleep | 98.0
+6:50 AM | 15 | First reading after initial waking up | 98.8
+9:10 AM | 17 | First reading after final waking up | 99.8
+9:50 AM | 18 | Reading after morning chores | 98.7
 
 ## Decision to get the booster
 
@@ -111,3 +117,27 @@ I also received a new COVID vaccination card with the new booster dose
 listed. So I now have my COVID vaccine information split across two
 vaccination cards. I took a picture of the new card and saved it;
 after returning home I also stored the new vaccination card carefully.
+
+## Aftereffects: day of vaccine (Wednesday November 9)
+
+While I was feeling a little bit more fatigued in the hours after the
+vaccine, it wasn't enough to interfere with my regular activities
+until around 9 PM, when fatigue started to set in. I went to sleep at
+around 10:20, and by that time, I was feeling a little soreness in my
+arm.
+
+## Aftereffects: next day (Thursday November 10)
+
+I semi-woke up early in the morning and was semi-asleep in bed for a
+few hours, feeling soreness and shivering and feeling that the
+environment was cold compared to my warm body. Around 6:50 AM, I got
+out of bed to urinate and also took a temperature reading, that came
+to 98.8.
+
+I then went back to sleep and turned off my alarm, so I could get a
+proper night's sleep and compensate for some of the twisting and
+turning. I finally got up around 9:15 AM and took temperature readings
+again. The median reading came to 99.8.
+
+I took another reading around 9:50 AM; my temperature was back down to
+98.7.
