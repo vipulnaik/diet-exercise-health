@@ -8,6 +8,12 @@ Sections of this document (document still a work in progress):
 
 * [Decision to get the booster](#decision-to-get-the-booster)
 * [Appointment booking (Wednesday October 26)](#appointment-booking-wednesday-october-26)
+* [Booster shot (Wednesday November 9)](#booster-shot-wednesday-november-9)
+
+## Temperature readings
+
+Time (may be approximate) | Hours since vaccine (2021-12-24 3:54 PM) | Context | Reading in degrees Fahrenheit
+4:50 PM | 1 | First at-home reading since vaccine | 98.3
 
 ## Decision to get the booster
 
@@ -81,3 +87,27 @@ so I was limited to picking a date exactly two weeks from now. It so
 happened that Wednesday November 9 is a convenient time for a vaccine
 appointment, since Wednesday is a no-meeting day at work. So I ended
 up making the appointment for 3 PM on Wednesday, November 9, 2022.
+
+## Booster shot (Wednesday November 9)
+
+I left my home around 2:45 PM. I arrived at Walgreens around 2:51
+PM. There was a long line at the pharmacy; I wasn't sure if I could
+move to the head of the line due to my vacine appointment, so I just
+waited in line. I had to fill in a form. I had not carried my COVID
+vaccine card (I carry my insurance card always, though I didn't need
+to show it). I was asked for my COVID vaccine card, so instead of the
+actual card I showed the photo of the card after searching for it in
+my email on my phone.
+
+I then waited for the pharmacist to be available to give me my
+shot. After some waiting, I got the shot on my right arm. It was a
+very small dose.
+
+After finishing receiving the booster shot at around 3:54 PM, I sat
+for a few minutes and then did some shopping at the Walgreens that I
+had been meaning to do for some time.
+
+I also received a new COVID vaccination card with the new booster dose
+listed. So I now have my COVID vaccine information split across two
+vaccination cards. I took a picture of the new card and saved it;
+after returning home I also stored the new vaccination card carefully.

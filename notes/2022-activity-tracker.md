@@ -539,3 +539,11 @@ I had significant close-range exposure to several other people.
 
 Shortly after noon, I made a trip to the Amazon Hub Locker at ASUC to
 pick up some packages.
+
+## Wednesday November 9
+
+In the afternoon, I went to Walgreens to get a COVID booster dose. I
+reached the store around 2:51 PM and finished the booster dose process
+at 3:54 PM. More details are at
+[2022-11-09-pfizer-covid-vaccine-updated-booster-dose.md](2022-11-09-pfizer-covid-vaccine-updated-booster-dose.md). I
+then did some shopping and finally left Walgreens at around 4:30 PM.
