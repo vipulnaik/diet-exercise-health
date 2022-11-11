@@ -547,3 +547,12 @@ reached the store around 2:51 PM and finished the booster dose process
 at 3:54 PM. More details are at
 [2022-11-09-pfizer-covid-vaccine-updated-booster-dose.md](2022-11-09-pfizer-covid-vaccine-updated-booster-dose.md). I
 then did some shopping and finally left Walgreens at around 4:30 PM.
+
+## Friday November 11
+
+In the morning, I made a trip, first to Robert Silver Photography for
+my corporate headshot for Equator. My appointment was for 11 AM; I
+left my home around 10:15 AM and arrived a little before 10:50 AM. I
+left around 11:15 AM after finishing the headshots. On the way back, I
+stopped at Mancini's Sleepworld at 11:25 AM to buy pillows; I left the
+place at 11:41 AM and got back home a little after noon.
