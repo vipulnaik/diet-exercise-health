@@ -15,12 +15,14 @@ Sections of this document (document still a work in progress):
 ## Temperature readings
 
 Time (may be approximate) | Hours since vaccine (2021-12-24 3:54 PM) | Context | Reading in degrees Fahrenheit
-4:50 PM | 1 | First at-home reading since vaccine | 98.3
-10:10 PM | 6 | At-home readong shortly before going to sleep | 98.0
-6:50 AM | 15 | First reading after initial waking up | 98.8
-9:10 AM | 17 | First reading after final waking up | 99.8
-9:50 AM | 18 | Reading after morning chores | 98.7
-1:50 PM | 21 | Random afternoon reading | 99.0
+2022-11-09 4:50 PM | 1 | First at-home reading since vaccine | 98.3
+2022-11-09 10:10 PM | 6 | At-home readong shortly before going to sleep | 98.0
+2022-11-10 6:50 AM | 15 | First reading after initial waking up | 98.8
+2022-11-10 9:10 AM | 17 | First reading after final waking up | 99.8
+2022-11-10 9:50 AM | 18 | Reading after morning chores | 98.7
+2022-11-10 1:50 PM | 21 | Random afternoon reading | 99.0
+2022-11-10 9:30 PM | 30 | Reading shortly before going to sleep | 98.3
+2022-11-11 7:28 AM | 40 | Reading shortly after waking up and doing morning chores | 98.0
 
 ## Decision to get the booster
 
@@ -141,4 +143,14 @@ turning. I finally got up around 9:15 AM and took temperature readings
 again. The median reading came to 99.8.
 
 I took another reading around 9:50 AM; my temperature was back down to
-98.7.
+98.7. A reading at 1:50 PM came to 99.0.
+
+Throughout the day, I felt a little feverish and sore and had a slight
+headache. The fever was mostly cleared by the evening, and the
+soreness was clearing out by the time I went to bed around 9:30 PM. My
+temperature reading at the time came to 98.3.
+
+## Recovery (Friday November 11)
+
+By the morning of Friday November 11, I was feeling normal. My morning
+reading, taken at 7:28 AM, came to 98.0.
