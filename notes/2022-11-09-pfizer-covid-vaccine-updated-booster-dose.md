@@ -11,6 +11,7 @@ Sections of this document (document still a work in progress):
 * [Booster shot (Wednesday November 9)](#booster-shot-wednesday-november-9)
 * [Aftereffects: day of vaccine (Wednesday November 9)](#aftereffects-day-of-vaccine-wednesday-november-9)
 * [Aftereffects: next day (Thursday November 10)](#aftereffects-next-day-thursday-november-10)
+* [Recovery (Friday November 11)](#recovery-friday-november-11)
 
 ## Temperature readings
 
