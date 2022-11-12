@@ -16,6 +16,7 @@ Sections of this document (document still a work in progress):
 ## Temperature readings
 
 Time (may be approximate) | Hours since vaccine (2021-12-24 3:54 PM) | Context | Reading in degrees Fahrenheit
+-- | -- | -- | --
 2022-11-09 4:50 PM | 1 | First at-home reading since vaccine | 98.3
 2022-11-09 10:10 PM | 6 | At-home readong shortly before going to sleep | 98.0
 2022-11-10 6:50 AM | 15 | First reading after initial waking up | 98.8
