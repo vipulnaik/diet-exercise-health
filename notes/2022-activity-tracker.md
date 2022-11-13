@@ -556,3 +556,9 @@ left my home around 10:15 AM and arrived a little before 10:50 AM. I
 left around 11:15 AM after finishing the headshots. On the way back, I
 stopped at Mancini's Sleepworld at 11:25 AM to buy pillows; I left the
 place at 11:41 AM and got back home a little after noon.
+
+## Saturday November 12
+
+In the afternoon, I made a trip to Berkeley Ace Hardware to buy a
+wet/dry vac. I left my home around 3:20 PM. I was in the store from
+3:45 PM to 4 PM, and got back home around 4:25 PM.
