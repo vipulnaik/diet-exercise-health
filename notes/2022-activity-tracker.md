@@ -562,3 +562,10 @@ place at 11:41 AM and got back home a little after noon.
 In the afternoon, I made a trip to Berkeley Ace Hardware to buy a
 wet/dry vac. I left my home around 3:20 PM. I was in the store from
 3:45 PM to 4 PM, and got back home around 4:25 PM.
+
+## Monday November 21
+
+In the afternoon, I made a trip to downtown Berkeley. I first went to
+Citibank for financial transactions; I finished around 4:30 PM. I then
+did some food purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
