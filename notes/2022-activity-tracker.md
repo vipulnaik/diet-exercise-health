@@ -569,3 +569,10 @@ In the afternoon, I made a trip to downtown Berkeley. I first went to
 Citibank for financial transactions; I finished around 4:30 PM. I then
 did some food purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday November 23
+
+In the afternoon I made a trip to downtown Berkeley and North
+Berkeley. I first did some photocopying work in North Berkeley. I then
+did some food purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
