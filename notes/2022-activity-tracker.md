@@ -576,3 +576,14 @@ In the afternoon I made a trip to downtown Berkeley and North
 Berkeley. I first did some photocopying work in North Berkeley. I then
 did some food purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Saturday November 26
+
+In the afternoon, I went to Walgreens for my flu shot; after finishing
+the flu shot I did some shopping. I left home around 2:30 PM. I was in
+the store for my flu shot from around 2:45 PM to 3:10 PM; I then sat
+for about 5 minutes after which I did some shopping, finishing around
+3:30 PM. I got back home around 3:40 PM.
+
+For more details regarding the flu shot, see
+[2022-11-26-flu-shot.md](2022-11-26-flu-shot.md).
