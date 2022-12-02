@@ -587,3 +587,10 @@ for about 5 minutes after which I did some shopping, finishing around
 
 For more details regarding the flu shot, see
 [2022-11-26-flu-shot.md](2022-11-26-flu-shot.md).
+
+## Thursday December 1
+
+In the evening, I went to the Amazon Hub Locker at ASUC to pick up
+some packages. After that, I went to Trader Joe's for some food
+purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
