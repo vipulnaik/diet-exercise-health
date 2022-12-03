@@ -1407,4 +1407,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-12-01','TJ Almond Milk',1),
   ('2022-12-01','TJ English Shelled Peas',3),
   ('2022-12-01','Alvarado Sprouted Wheat Tortillas',3),
-  ('2022-12-01','Beefsteak tomato',8);
+  ('2022-12-01','Beefsteak tomato',8),
+  /* 2022-12-02 Trader Joe's total cost $35.17; checkout at 5:54 PM; paid by debit card */
+  ('2022-12-02','TJ Carrots',2),
+  ('2022-12-02','TJ Baby Spinach 6oz',2),
+  ('2022-12-02','Beefsteak tomato',7),
+  ('2022-12-02','Green bell pepper',4),
+  ('2022-12-02','Eggplant',2),
+  ('2022-12-02','Red bell pepper',4),
+  ('2022-12-02','TJ Flour Burrito',3),
+  /* 2022-12-02 Udupi Palace; total cost $14.28; order placed 5:39 PM; paid by cash */
+  ('2022-12-02','Udupi Palace spinach masala dosa',1);
