@@ -594,3 +594,10 @@ In the evening, I went to the Amazon Hub Locker at ASUC to pick up
 some packages. After that, I went to Trader Joe's for some food
 purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Tuesday December 13
+
+In the afternoon, I made a trip to downtown Berkeley. I first went to
+Citibank for financial transactions; I finished at 1:43 PM. I then did
+some food purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
