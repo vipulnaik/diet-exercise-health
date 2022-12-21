@@ -601,3 +601,9 @@ In the afternoon, I made a trip to downtown Berkeley. I first went to
 Citibank for financial transactions; I finished at 1:43 PM. I then did
 some food purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday December 21
+
+In the afternoon, I went to Total Health Dental Care on Telegraph
+Avenue for my regular dental cleaning. More details at
+[2022-12-21-dental-cleaning.md](2022-12-15-dental-cleaning.md).

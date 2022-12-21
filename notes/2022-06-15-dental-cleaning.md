@@ -1,8 +1,9 @@
 # 2022-06-15 dental cleaning
 
-This was a regular dental cleaning appointment. It was the successor
-to the [2021-12-15 periodontal therapy followup
-appointment](2021-12-15-periodontal-therapy-followup-appointment).
+This was a regular dental cleaning appointment at Total Health Dental
+Care at 3017 Telegraph Avenue. It was the successor to the [2021-12-15
+periodontal therapy followup
+appointment](2021-12-15-periodontal-therapy-followup-appointment.md).
 
 The hygienist, Lingho, was the same as last time.
 
