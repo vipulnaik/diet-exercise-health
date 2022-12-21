@@ -605,5 +605,10 @@ some food purchases, recorded at
 ## Wednesday December 21
 
 In the afternoon, I went to Total Health Dental Care on Telegraph
-Avenue for my regular dental cleaning. More details at
+Avenue for my regular dental cleaning. The appointment was from 1 PM
+to 2 PM; I arrived a little before 12:50 PM and left just after 2
+PM. More details of the actual appointment at
 [2022-12-21-dental-cleaning.md](2022-12-15-dental-cleaning.md).
+
+On the way back, I made a trip to the Walgreens at Adeline Street to
+buy some toiletries, finishing up at the store at about 2:30 PM.
