@@ -604,6 +604,8 @@ some food purchases, recorded at
 
 ## Wednesday December 21
 
+### Afternoon trip to dentist and Walgreens
+
 In the afternoon, I went to Total Health Dental Care on Telegraph
 Avenue for my regular dental cleaning. The appointment was from 1 PM
 to 2 PM; I arrived a little before 12:50 PM and left just after 2
@@ -612,3 +614,11 @@ PM. More details of the actual appointment at
 
 On the way back, I made a trip to the Walgreens at Adeline Street to
 buy some toiletries, finishing up at the store at about 2:30 PM.
+
+### Evening trip to social dinner and Trader Joe's
+
+In the evening, I went to downtown Berkeley. I first went to Revival
+Bar & Kitchen for an end-of-year social dinner with work colleagues; I
+was at the restaurant from about 5:25 PM to about 8:30 PM. After that,
+I went to Trader Joe's for some food purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
