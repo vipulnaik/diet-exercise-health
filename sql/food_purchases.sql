@@ -1443,4 +1443,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-12-21','TJ Almond Milk',1),
   ('2022-12-21','TJ Carrots',2),
   ('2022-12-21','TJ Baby Spinach',1),
-  ('2022-12-21','Alvarado Sprouted Wheat Tortillas',10);
+  ('2022-12-21','Alvarado Sprouted Wheat Tortillas',10),
+  /* 2022-12-22 Mehak Indian Cuisine; total cost $53.85 (paid by PayPal) */
+  ('2022-12-22','Mehak Indian Cuisine standard set',1);
