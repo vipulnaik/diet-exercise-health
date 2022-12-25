@@ -37,7 +37,7 @@ create table food_types(
   `copper_in_mg` float(13,2),
   /* notes column */
   `notes` varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into food_types(short_name, long_name, url, calories,
   /* fat-related columns */ total_fat_in_grams, saturated_fat_in_grams, trans_fat_in_grams, monounsaturated_fat_in_grams, polyunsaturated_fat_in_grams,

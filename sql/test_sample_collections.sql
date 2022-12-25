@@ -7,7 +7,7 @@ create table test_sample_collections(
   `requester` varchar(255),
   `notes` varchar(2000),
   `report_filename` varchar(255)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into test_sample_collections(collection_slug, collection_date, sample_type, fasting, collection_lab, requester, notes, report_filename) values
   ('April 2004 Dr. Lal lipid profile tests','2004-04-26','Blood',true,'Dr. Lal Delhi','Self','This test was taken to provide an initial baseline for periodic measurement, in light of family diabetic tendencies.',NULL),

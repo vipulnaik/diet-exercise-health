@@ -6,7 +6,7 @@ create table accidents(
   physical_injury_severity int(11),
   other_damage_details varchar(2000),
   notes_doc varchar(200)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into accidents(date, date_precision, cause_of_accident, physical_injury_details, physical_injury_severity, other_damage_details, notes_doc) values
   ('2014-12-15','day','Running fall','A significant scrape of the knee; this prompted me to get my Tdap vaccine the same day. For a few days, I needed to sit with my knees spread out.',5,NULL,NULL),

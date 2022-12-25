@@ -2,7 +2,7 @@ create table food_purchases(
   `purchase_date` date not null,
   `food_type` varchar(200),
   `quantity` float(11,2)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-03-10 Trader Joe's (verified with receipt) */

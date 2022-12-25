@@ -8,7 +8,7 @@ create table tests(
   `reference_interval_low_end` float,
   `reference_interval_high_end` float,
   `notes` varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into tests(test_slug, sample_type, fasting_required, labcorp_url, quest_diagnostics_url, typical_units, reference_interval_low_end, reference_interval_high_end, notes) values
   ('D3','Blood',false,'https://www.labcorp.com/test-menu/36721/vitamin-d-25-hydroxy','https://www.questdiagnostics.com/testcenter/BUOrderInfo.action?tc=17306&labCode=AMD','ng/mL',30,100,'General range: < 10 ng/ML is deficient, 10-30 ng/mL is insufficient, 30-100 ng/mL is sufficient, > 100 ng/mL is toxic'),

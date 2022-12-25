@@ -3,7 +3,7 @@ create table food_waste(
   `food_type` varchar(200),
   `quantity` float(11,2),
   `notes` varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- I started keeping track of food waste on 2021-10-31!
 

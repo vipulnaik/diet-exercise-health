@@ -5,7 +5,7 @@ create table supplements(
   `start_date` date,
   `end_date` date,
   `notes` varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into supplements(supplement_shorthand, supplement_url, num_pieces, start_date, end_date, notes) values
   /* Omega-3: Freshfield Vegan Omega-3 */

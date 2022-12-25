@@ -3,7 +3,7 @@ create table doctor_visits(
   `doctor` enum('Jeffrey M. Aron','Tang Eye Center','Total Health Dental Care'),
   `specialty` enum('gastro','eye','dental'),
   `visit_notes` varchar(200)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into doctor_visits(visit_date, doctor, specialty, visit_notes) values
   ('2016-12-05','Jeffrey M. Aron','gastro','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2016-11-to-2016-12-stomach-pain-and-resolution.md'),

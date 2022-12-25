@@ -11,7 +11,7 @@ create table heinrich_incidents(
   incident_type enum('Walking stumble','Running stumble','Object near-drop','Object drop without damage','Nearly missed refrigeration'),
   incident_details varchar(2000),
   protocol_updates varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 /* There was an incident where a laptop screen cover flew while I was
    carrying a laptop so I caught it with one hand and continued

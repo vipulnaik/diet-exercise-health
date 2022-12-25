@@ -4,7 +4,7 @@ create table vaccine_administrations(
   `location` varchar(255),
   `administration_date` date,
   `notes` varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into vaccine_administrations(administration_slug, vaccine, location, administration_date, notes) values
   ('2014 Tdap vaccine','Tdap (whooping cough)','Walgreens (Mission and 16th), San Francisco','2014-12-15','Due to a leg injury, preventive vaccination to address potential risk of tetanus'),
