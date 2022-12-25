@@ -1445,4 +1445,13 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-12-21','TJ Baby Spinach',1),
   ('2022-12-21','Alvarado Sprouted Wheat Tortillas',10),
   /* 2022-12-22 Mehak Indian Cuisine; total cost $53.85 (paid by PayPal) */
-  ('2022-12-22','Mehak Indian Cuisine standard set',1);
+  ('2022-12-22','Mehak Indian Cuisine standard set',1),
+  /* 2022-12-24 Trader Joe's; total cost $52.09; checkout at 3:43 PM; paid by credit card */
+  ('2022-12-24','TJ Sauerkraut',2),
+  ('2022-12-24','TJ Walnuts',1),
+  ('2022-12-24','Yellow squash',3),
+  ('2022-12-24','TJ English Shelled Peas',3),
+  ('2022-12-24','Beefsteak tomato',12),
+  ('2022-12-24','Eggplant',2),
+  /* 2022-12-24 Udupi Palace; total cost $14.28; order at 3:29 PM; paid by cash */
+  ('2022-12-24','Udupi Palace spinach masala dosa',1);
