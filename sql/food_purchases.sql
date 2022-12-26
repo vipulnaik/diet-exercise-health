@@ -1449,7 +1449,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-12-24 Trader Joe's; total cost $52.09; checkout at 3:43 PM; paid by credit card */
   ('2022-12-24','TJ Sauerkraut',2),
   ('2022-12-24','TJ Walnuts',1),
-  ('2022-12-24','Yellow squash',3),
+  ('2022-12-24','Yellow squash',4),
   ('2022-12-24','TJ English Shelled Peas',3),
   ('2022-12-24','Beefsteak tomato',12),
   ('2022-12-24','Eggplant',2),
