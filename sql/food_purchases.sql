@@ -1454,4 +1454,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-12-24','Beefsteak tomato',12),
   ('2022-12-24','Eggplant',2),
   /* 2022-12-24 Udupi Palace; total cost $14.28; order at 3:29 PM; paid by cash */
-  ('2022-12-24','Udupi Palace spinach masala dosa',1);
+  ('2022-12-24','Udupi Palace spinach masala dosa',1),
+  /* 2022-12-28 Trader Joe's; total cost $54.95; checkout at 5:03 PM; paid by debit card */
+  ('2022-12-28','TJ Almond Milk',1),
+  ('2022-12-28','Eggplant',2),
+  ('2022-12-28','TJ Beans',2),
+  ('2022-12-28','Beefsteak tomato',10),
+  ('2022-12-28','TJ Baby Spinach',1),
+  ('2022-12-28','Yellow squash',2),
+  ('2022-12-28','TJ Carrots',2),
+  ('2022-12-28','Carb-savvy tortillas',6),
+  /* 2022-12-28 Udupi Palace; total cost $14.28; checkout at 4:51 PM; paid by cash */
+  ('2022-12-28','Udupi Palace spinach masala dosa',1);

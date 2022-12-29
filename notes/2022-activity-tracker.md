@@ -622,3 +622,10 @@ Bar & Kitchen for an end-of-year social dinner with work colleagues; I
 was at the restaurant from about 5:25 PM to about 8:30 PM. After that,
 I went to Trader Joe's for some food purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday December 28
+
+In the evening, I made a trip to downtown Berkeley. I first went to
+Citibank for financial transactions; I finished at 4:38 PM. I then did
+some food purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
