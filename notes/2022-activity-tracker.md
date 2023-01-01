@@ -629,3 +629,15 @@ In the evening, I made a trip to downtown Berkeley. I first went to
 Citibank for financial transactions; I finished at 4:38 PM. I then did
 some food purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Saturday December 31
+
+I went to Udupi Palace on Valencia Street in the Mission in San
+Francisco for lunch with some former colleagues. I left my home a
+little before 11 AM. I took BART to 24th Street Mission and arrived at
+the location around 11:45 AM. I was in the restaurant from around noon
+to around 3 PM. I then headed back home via BART. I got back home at
+around 4:15 PM.
+
+This was my first trip in a long time that I undertook during heavy
+rain and amidst water accumulation on the streets.
