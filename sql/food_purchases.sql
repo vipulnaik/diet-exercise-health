@@ -1439,6 +1439,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-12-14','Eggplant',2),
   /* 2022-12-14 Udupi Palace; total cost $14.28; order placed at 4:04 PM; paid by cash */
   ('2022-12-14','Udupi Palace spinach masala dosa',1),
+  /* 2022-12-21 Revival Bar & Kitchen */
+  ('2022-12-21','Revival Bar & Kitchen paella',1),
   /* 2022-12-21 Trader Joe's; total cost $38.76; checkout at 8:48 PM; paid by debit card */
   ('2022-12-21','TJ Almond Milk',1),
   ('2022-12-21','TJ Carrots',2),
@@ -1465,4 +1467,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-12-28','TJ Carrots',2),
   ('2022-12-28','Carb-savvy tortillas',6),
   /* 2022-12-28 Udupi Palace; total cost $14.28; checkout at 4:51 PM; paid by cash */
-  ('2022-12-28','Udupi Palace spinach masala dosa',1);
+  ('2022-12-28','Udupi Palace spinach masala dosa',1),
+  /* 2022-12-31 Udupi Palace (Valencia Street in the Mission in San Francisco); in-restaurant lunch; paid for by former employer */
+  ('2022-12-31','Udupi Palace bisi bele bath',1),
+  ('2022-12-31','Udupi Palace sambhar',1);
