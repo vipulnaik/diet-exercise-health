@@ -1470,4 +1470,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-12-28','Udupi Palace spinach masala dosa',1),
   /* 2022-12-31 Udupi Palace (Valencia Street in the Mission in San Francisco); in-restaurant lunch; paid for by former employer */
   ('2022-12-31','Udupi Palace bisi bele bath',1),
-  ('2022-12-31','Udupi Palace sambhar',1);
+  ('2022-12-31','Udupi Palace sambhar',1),
+  /* 2023-01-03 Trader Joe's; total cost $46.93; checkout at 1:55 PM; paid by debit card;
+     no Udupi Palace visit as this was a Tuesday */
+  ('2023-01-03','TJ Almond Milk',1),
+  ('2023-01-03','TJ Walnuts',1),
+  ('2023-01-03','Beefsteak tomato',7),
+  ('2023-01-03','TJ English Shelled Peas',2),
+  ('2023-01-03','Alvarado Sprouted Wheat Tortillas',8); /* they billed me for 6; I noticed this after I got back home */
