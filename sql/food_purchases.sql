@@ -1477,4 +1477,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-01-03','TJ Walnuts',1),
   ('2023-01-03','Beefsteak tomato',7),
   ('2023-01-03','TJ English Shelled Peas',2),
-  ('2023-01-03','Alvarado Sprouted Wheat Tortillas',8); /* they billed me for 6; I noticed this after I got back home */
+  ('2023-01-03','Alvarado Sprouted Wheat Tortillas',8), /* they billed me for 6; I noticed this after I got back home */
+  /* 2023-01-06 Mehak Indian Cuisine; order placed at 12:08 PM; paid by PayPal */
+  ('2023-01-06','Mehak Indian Cuisine standard set',1);
