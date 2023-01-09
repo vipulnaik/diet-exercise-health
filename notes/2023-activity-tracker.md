@@ -10,6 +10,13 @@ get a sense for those trips by looking in
 ## Tuesday January 3
 
 In the afternoon, I made a trip to Citibank for some financial
-transactions. I finished around 1:35 PM. I them went to Trader Joe's
+transactions. I finished around 1:35 PM. I then went to Trader Joe's
+for food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday January 8
+
+In the late afternoon, I made a trip to Citibank for an ATM
+transaction.  I finished around 4:15 PM. I then went to Trader Joe's
 for food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).

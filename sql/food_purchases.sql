@@ -1479,4 +1479,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-01-03','TJ English Shelled Peas',2),
   ('2023-01-03','Alvarado Sprouted Wheat Tortillas',8), /* they billed me for 6; I noticed this after I got back home */
   /* 2023-01-06 Mehak Indian Cuisine; order placed at 12:08 PM; paid by PayPal */
-  ('2023-01-06','Mehak Indian Cuisine standard set',1);
+  ('2023-01-06','Mehak Indian Cuisine standard set',1),
+  /* 2023-01-08 Trader Joe's; total cost $57.36; checkout at 4:38 PM; paid by debit card */
+  ('2023-01-08','TJ Almond Milk',1),
+  ('2023-01-08','TJ Carrots',3),
+  ('2023-01-08','TJ English Shelled Peas',4),
+  ('2023-01-08','Yellow squash',3),
+  ('2023-01-08','TJ Baby Spinach',2),
+  ('2023-01-08','Beefsteak tomato',10),
+  ('2023-01-08','Alvarado Sprouted Wheat Tortillas',3),
+  /* 2023-01-08 Udupi Palace; total cost $14.28; order placed at 4:27 PM; paid by cash */
+  ('2023-01-08','Udupi Palace spinach masala dosa',1);
