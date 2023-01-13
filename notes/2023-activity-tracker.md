@@ -20,3 +20,10 @@ In the late afternoon, I made a trip to Citibank for an ATM
 transaction.  I finished around 4:15 PM. I then went to Trader Joe's
 for food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Thursday January 12
+
+In the evening, I made a trip to downtown Berkeley. I first stopped at
+the Walgreens at Adeline Street to purchase suppplements, finishing
+around 5:20 PM. I then did some food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
