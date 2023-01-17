@@ -1498,4 +1498,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-01-12','Trader Giotto''s Olive Oil',1),
   ('2023-01-12','Alvarado Sprouted Wheat Tortillas',9),
   /* 2023-01-12 Udupi Palace; total cost $14.28; order placed at 5:47 PM; paid by cash */
-  ('2023-01-12','Udupi Palace spinach masala dosa',1);
+  ('2023-01-12','Udupi Palace spinach masala dosa',1),
+  /* 2023-01-16 Mehak Indian Cuisine; order placed at 12:32 PM; paid by PayPal */
+  ('2023-01-16','Mehak Indian Cuisine standard set',1);
