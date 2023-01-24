@@ -27,3 +27,9 @@ In the evening, I made a trip to downtown Berkeley. I first stopped at
 the Walgreens at Adeline Street to purchase suppplements, finishing
 around 5:20 PM. I then did some food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Monday January 23
+
+I spent a large part of the day at Joinn Innovation Park with one of
+my work colleagues. I took BART + bus for the way to, and got a lift
+from my colleague for the way back.
