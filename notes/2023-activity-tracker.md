@@ -33,3 +33,10 @@ around 5:20 PM. I then did some food purchases recorded at
 I spent a large part of the day at Joinn Innovation Park with one of
 my work colleagues. I took BART + bus for the way to, and got a lift
 from my colleague for the way back.
+
+## Thursday January 26
+
+In the evening, I made a trip to Udupi Palace for an in-person dinner
+with a work colleague, after which I made a trip to Trader Joe's. I've
+recorded the food purchased in both places at
+[food_purchases.sql](../sql/food_purchases.sql).
