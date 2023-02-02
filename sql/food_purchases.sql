@@ -1516,10 +1516,23 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-01-26 Udupi Palace; in-person dinner; total cost ~$20 */
   ('2023-01-26','Udupi Palace bisi bele bath',1),
   ('2023-01-26','Udupi Palace sambhar',1),
-  /* 2023-01-26 Trader Joe's; total cost $47.03; order placed at 8:15 PM; paid by debit card */
+  /* 2023-01-26 Trader Joe's; total cost $47.03; checkout at 8:15 PM; paid by debit card */
   ('2023-01-26','TJ Carrots',1),
   ('2023-01-26','Green bell pepper',4),
   ('2023-01-26','Red bell pepper',4),
   ('2023-01-26','Beefsteak tomato',8),
   ('2023-01-26','Eggplant',2),
-  ('2023-01-26','Alvarado Sprouted Wheat Tortillas',8);
+  ('2023-01-26','Alvarado Sprouted Wheat Tortillas',8),
+  /* 2023-02-01 Trader Joe's; total cost $64.33; checkout at 6:26 PM; paid by debit card */
+  ('2023-02-01','Alvarado Sprouted Wheat Tortillas',5),
+  ('2023-02-01','Trader Giotto''s Olive Oil',1),
+  ('2023-02-01','TJ Almond Milk',1),
+  ('2023-02-01','TJ Baby Spinach',1),
+  ('2023-02-01','TJ Sauerkraut',2),
+  ('2023-02-01','TJ English Shelled Peas',4), /* billed for 3 */
+  ('2023-02-01','TJ Turmeric',1),
+  ('2023-02-01','TJ Cumin',1),
+  ('2023-02-01','TJ Ceyenne Pepper',1),
+  ('2023-02-01','TJ Walnuts',1),
+  /* 2023-02-01 Udupi Palace; order placed at 6:16 PM; paid by cash */
+  ('2023-02-01','Udupi Palace spinach masala dosa',1);
