@@ -1552,4 +1552,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-02-10 Mehak Indian Cuisine standard set + dal soup + chana masala */
   ('2023-02-10','Mehak Indian Cuisine standard set',1),
   ('2023-02-10','Mehak Indian Cuisine chana masala',1),
-  ('2023-02-10','Mehak Indian Cuisine dal soup',1);
+  ('2023-02-10','Mehak Indian Cuisine dal soup',1),
+  /* 2023-02-15 Trader Joe's; total cost $77.01; checkout at 3:46 PM; paid by credit card */
+  ('2023-02-15','TJ Walnuts',1),
+  ('2023-02-15','TJ Almond Milk',1),
+  ('2023-02-15','TJ English Shelled Peas',4),
+  ('2023-02-15','TJ Carrots',1),
+  ('2023-02-15','Red bell pepper',3),
+  ('2023-02-15','Beefsteak tomato',9),
+  ('2023-02-15','Alvarado Sprouted Wheat Tortillas',10),
+  /* 2023-02-15 Udupi Palace; total cost $14.28; paid bt cash */
+  ('2023-02-15','Udupi Palace spinach masala dosa',1);
