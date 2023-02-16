@@ -1561,5 +1561,5 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-02-15','Red bell pepper',3),
   ('2023-02-15','Beefsteak tomato',9),
   ('2023-02-15','Alvarado Sprouted Wheat Tortillas',10),
-  /* 2023-02-15 Udupi Palace; total cost $14.28; paid bt cash */
+  /* 2023-02-15 Udupi Palace; total cost $14.28; paid by cash */
   ('2023-02-15','Udupi Palace spinach masala dosa',1);
