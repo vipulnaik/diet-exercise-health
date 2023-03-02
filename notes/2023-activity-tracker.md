@@ -40,3 +40,10 @@ In the evening, I made a trip to Udupi Palace for an in-person dinner
 with a work colleague, after which I made a trip to Trader Joe's. I've
 recorded the food purchased in both places at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday March 1
+
+In the late afternoon/early evening, I went to Walgreens for some
+long-overdue toiletries purchases. I left my home around 3:15 PM. I
+finished checkout at Walgreens around 3:45 PM, and I was back home
+shortly after 4 PM.
