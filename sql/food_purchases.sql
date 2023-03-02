@@ -1593,4 +1593,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-02-25','Alvarado Sprouted Wheat Tortillas',10),
   ('2023-02-25','Trader Giotto''s Olive Oil',1),
   /* 2023-02-25 Udupi Palace; total cost $14.28; order placed at 3:44 PM; paid by cash */
-  ('2023-02-25','Udupi Palace spinach masala dosa',1);
+  ('2023-02-25','Udupi Palace spinach masala dosa',1),
+  /* 2023-03-01 Mehak Indian Cuisine; order placed at 4:30 PM (prior to evening open of 5 PM) for estimated pick 5:15 PM; total cost $53.85 */
+  ('2023-03-01','Mehak Indian Cuisine standard set',1);
