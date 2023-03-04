@@ -47,3 +47,9 @@ In the late afternoon/early evening, I went to Walgreens for some
 long-overdue toiletries purchases. I left my home around 3:15 PM. I
 finished checkout at Walgreens around 3:45 PM, and I was back home
 shortly after 4 PM.
+
+## Friday March 3
+
+In the later afternoon/early evening, I went to Walgreens for a FedEx
+package pickup of my work laptop for my upcoming job start on
+Monday. I was in the store from around 3:55 PM to around 4:10 PM.
