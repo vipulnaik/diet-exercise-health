@@ -53,3 +53,9 @@ shortly after 4 PM.
 In the later afternoon/early evening, I went to Walgreens for a FedEx
 package pickup of my work laptop for my upcoming job start on
 Monday. I was in the store from around 3:55 PM to around 4:10 PM.
+
+## Tuesday March 7
+
+In the late afternon/early evening, I made a trip to the Amazon Hub
+Locker pickup location at Whole Foods on Telegraph Avenue to pick up a
+package.
