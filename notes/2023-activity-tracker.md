@@ -58,4 +58,5 @@ Monday. I was in the store from around 3:55 PM to around 4:10 PM.
 
 In the late afternon/early evening, I made a trip to the Amazon Hub
 Locker pickup location at Whole Foods on Telegraph Avenue to pick up a
-package.
+package. I left my home shortly before 4 PM and got back shortly after
+4:30 PM.
