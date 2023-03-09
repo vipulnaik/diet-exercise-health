@@ -56,7 +56,14 @@ Monday. I was in the store from around 3:55 PM to around 4:10 PM.
 
 ## Tuesday March 7
 
-In the late afternon/early evening, I made a trip to the Amazon Hub
+In the late afternoon/early evening, I made a trip to the Amazon Hub
 Locker pickup location at Whole Foods on Telegraph Avenue to pick up a
 package. I left my home shortly before 4 PM and got back shortly after
+4:30 PM.
+
+## Wednesday March 8
+
+In the later afternoon/early evening, I made a trip to the Amazon Hub
+Locker pickup location at Whole Foods on Telegraph Avenue to pick up a
+package. I left my home shortly after 4 PM and got back shortly after
 4:30 PM.
