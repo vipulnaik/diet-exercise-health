@@ -74,3 +74,9 @@ In the evening, I made a trip to the Amazon Hub Locker pickup location
 at ASUC Berkeley to pick up a few packages. I then went to downtown
 Berkeley for my usual food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Saturday April 8
+
+In the afternoon, I made a trip to the Citibank in downtown Berkeley
+for some financial transactions. After finishing, I made my usual food
+purchases recorded at [food_purchases.sql](../sql/food_purchases.sql).
