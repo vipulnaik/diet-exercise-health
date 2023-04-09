@@ -80,3 +80,6 @@ Berkeley for my usual food purchases recorded at
 In the afternoon, I made a trip to the Citibank in downtown Berkeley
 for some financial transactions. After finishing, I made my usual food
 purchases recorded at [food_purchases.sql](../sql/food_purchases.sql).
+
+Later. in the evening, I made a trip to Walgreens for toiletries
+purchases. I finished checkout at 5:30 PM.
