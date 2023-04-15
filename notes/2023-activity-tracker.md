@@ -83,3 +83,10 @@ purchases recorded at [food_purchases.sql](../sql/food_purchases.sql).
 
 Later. in the evening, I made a trip to Walgreens for toiletries
 purchases. I finished checkout at 5:30 PM.
+
+## Friday April 14
+
+In the late afternoon / early evening, I made a trip to Walgreens to
+buy toiletries. The purchase was around 4:30 PM. After finishing, I
+made my usual food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
