@@ -90,3 +90,10 @@ In the late afternoon / early evening, I made a trip to Walgreens to
 buy toiletries. The purchase was around 4:30 PM. After finishing, I
 made my usual food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday April 28
+
+In the evening, I made a trip to Walgreens to top up on
+supplements. The purchase was made at 7:39 PM. After finishing, I made
+my usual food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
