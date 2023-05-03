@@ -97,3 +97,12 @@ In the evening, I made a trip to Walgreens to top up on
 supplements. The purchase was made at 7:39 PM. After finishing, I made
 my usual food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday May 3
+
+In the afternoon, I had lunch at Udupi Palace with another
+person. After the lunch, I dropped the other person off at the
+downtown Berkeley BART. Then I went to Citibank for some financial
+transactions and then to Trader Joe's to buy groceries. My food
+purchases are recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
