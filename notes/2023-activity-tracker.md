@@ -106,3 +106,9 @@ downtown Berkeley BART. Then I went to Citibank for some financial
 transactions and then to Trader Joe's to buy groceries. My food
 purchases are recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+Since it started raining around the time of my Trader Joe's trip, and
+I wasn't sure how long the rain will last, I took BART back (from
+downtown Berkeley to Ashby) instead of walking. The rain had stopped
+by the time the BART arrived at my home; had I known the rain wouldn't
+last so long I might have walked back.
