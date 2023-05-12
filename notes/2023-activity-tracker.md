@@ -112,3 +112,12 @@ I wasn't sure how long the rain will last, I took BART back (from
 downtown Berkeley to Ashby) instead of walking. The rain had stopped
 by the time the BART arrived at my home; had I known the rain wouldn't
 last so long I might have walked back.
+
+## Thursday May 11
+
+In the evening, around 6:45 PM to 7:45 PM, I had dinner at Imm Thai
+Street Food with another person. I walked to the location, arriving at
+6:20 PM, then waited for a spot to open up in the restaurant and for
+the other person to arrive. After the dinner, I went to Trader Joe's
+to buy groceries and walked back home. Food purchase details are
+recorded at [food_purchases.sql](../sql/food_purchases.sql).
