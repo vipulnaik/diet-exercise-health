@@ -1741,4 +1741,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-05-11','Beefsteak tomato',8),
   ('2023-05-11','Red bell pepper',4),
   ('2023-05-11','Green bell pepper',4),
-  ('2023-05-11','Alvarado Sprouted Wheat Tortillas',10);
+  ('2023-05-11','Alvarado Sprouted Wheat Tortillas',10),
+  /* 2023-05-16 Mehak Indian Cuisine; total cost $53.85; order placed at 7:46 PM; paid by debit card */
+  ('2023-05-16','Mehak Indian Cuisine standard set',1);
