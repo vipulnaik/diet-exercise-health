@@ -1743,4 +1743,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-05-11','Green bell pepper',4),
   ('2023-05-11','Alvarado Sprouted Wheat Tortillas',10),
   /* 2023-05-16 Mehak Indian Cuisine; total cost $53.85; order placed at 7:46 PM; paid by debit card */
-  ('2023-05-16','Mehak Indian Cuisine standard set',1);
+  ('2023-05-16','Mehak Indian Cuisine standard set',1),
+  /* 2023-05-20 Trader Joe's; total cost $50.99; checkout at 5:16 PM; paid by credit card */
+  ('2023-05-20','TJ Beans',2),
+  ('2023-05-20','Miso ginger broth',1),
+  ('2023-05-20','TJ Carrots',1),
+  ('2023-05-20','Beefsteak tomato',9),
+  ('2023-05-20','TJ Baby Spinach',1),
+  ('2023-05-20','TJ English Shelled Peas',1),
+  ('2023-05-20','Eggplant',2),
+  ('2023-05-20','Flatbread Indian Style',2),
+  ('2023-05-20','Alvarado Sprouted Wheat Tortillas',1),
+  ('2023-05-20','TJ Walnuts',1),
+  /* 2023-05-20 Udupi Palace; total cost $14.28; order placed at 5:05 PM; paid by cash */
+  ('2023-05-20','Udupi Palace spinach masala dosa',1);
