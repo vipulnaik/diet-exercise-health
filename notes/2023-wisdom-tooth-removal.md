@@ -26,6 +26,11 @@ matter. Let's say left first, barring any new information.
 I'm still debating whether to take a sedative. I probably will take a
 sedative as it makes the operation more comfortable for me.
 
+Some online guidance on the subject:
+
+* [SHOULD I GO UNDER FOR MY WISDOM TEETH REMOVAL OR STAY AWAKE?](https://www.keemsmile.com/should-i-go-under-for-my-wisdom-teeth-removal-or-stay-awake)
+* [Sedation Options for Wisdom Teeth Extractions](https://www.absolutedental.com/blog/sedation-options-for-wisdom-teeth-extractions/#:~:text=Is%20Sedation%20Necessary%20for%20Wisdom,local%20anesthesia%20before%20the%20surgery.)
+
 ### First operation around May
 
 I'd like to do the first phase of removal around May, by which time I
@@ -51,6 +56,14 @@ Here are some thoughts:
   this.
 
 ### Post-operation diet plan
+
+Some general guidance:
+
+* [What to Eat After You Get Your Wisdom Teeth
+  Out](https://www.dentisteorleans.ca/site/blog/2020/02/12/what-to-eat-after-you-get-your-wisdom-teeth-out)
+
+* [The Best (and Worst) Foods to Eat After Wisdom Teeth
+  Removal](https://www.goodrx.com/conditions/dental-care/eating-before-after-wisdom-teeth-removal)
 
 I've been investigating liquid foods and soft foods that I can
 have during the recovery phase. Here is my progress so far:
