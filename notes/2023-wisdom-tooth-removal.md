@@ -197,7 +197,33 @@ worth taking it once just to get a sense for the effet it has.
 
 This is self-explanatory.
 
-#### Try not to book any appointments for the 2-3 days after the surgery
+#### Try not to book any appointments (personal or work-related) for 5 days after the surgery
 
 This minimizes risk and maximizes flexibility of time in case I need
 to work on my dry socket.
+
+## Questions to ask when booking the appointment
+
+### Scheduling
+
+* I'd like to schedule my left side only first.
+
+* I prefer a time between Monday and Wednesday. Is that possible?
+
+* I will need to postpone my regular dental cleaning appointment to at
+  least 1 month after this surgery. Can that be done too?
+
+### Operation process
+
+* I'd like to get a (mild) sedative in addition to local anasthesia,
+  if recommended. What sedative will it be, what will the cost be, and
+  are there any pre-operation instructions (e.g., not to eat food for
+  x hours before the operation)?
+
+* Are there any recommendations for post-operation diet and dental care?
+
+* What is the recommendation in case of pain at the extraction site,
+  or dry socket, etc.? What medications are recommended for me to keep
+  in stock, if any? At what threshold of pain should I reach out to
+  the dental office?
+
