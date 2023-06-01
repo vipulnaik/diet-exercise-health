@@ -1597,7 +1597,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-03-01 Mehak Indian Cuisine; order placed at 4:30 PM (prior to evening open of 5 PM) for estimated pick 5:15 PM; total cost $53.85 */
   ('2023-03-01','Mehak Indian Cuisine standard set',1),
   /* 2023-03-03 Trader Joe's; total cost $58.34; checkout at 5:23 PM; paid by debit card */
-  ('2023-03-03','Miso ginger broth',1),
+  ('2023-03-03','TJ Miso Ginger Broth',1),
   ('2023-03-03','TJ Walnuts',1),
   ('2023-03-03','TJ Sauerkraut',2),
   ('2023-03-03','TJ Almond Milk',1),
@@ -1606,7 +1606,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-03-03 Udupi Palace; total cost $14.28; paid by cash */
   ('2023-03-03','Udupi Palace spinach masala dosa',1),
   /* 2023-03-08 Trader Joe's; total cost $73.25; checkout at 5:51 PM; paid by debit card */
-  ('2023-03-08','Miso ginger broth',1),
+  ('2023-03-08','TJ Miso Ginger Broth',1),
   ('2023-03-08','TJ English Shelled Peas',4),
   ('2023-03-08','TJ Carrots',2),
   ('2023-03-08','Red bell pepper',4),
@@ -1618,7 +1618,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-03-08 Udupi Palace; total cost: $14.28; paid by cash */
   ('2023-03-08','Udupi Palace spinach masala dosa',1),
   /* 2023-03-16 Trader Joe's; total cost $63.86; checkout at 6:06 PM; paid by credit card */
-  ('2023-03-16','Miso ginger broth',1),
+  ('2023-03-16','TJ Miso Ginger Broth',1),
   ('2023-03-16','TJ Almond Milk',1),
   ('2023-03-16','TJ Carrots',1),
   ('2023-03-16','Beefsteak tomato',6),
@@ -1644,7 +1644,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-03-31 Trader Joe's; total cost $63.31; checkout at 6:45 PM; paid by debit card */
   ('2023-03-31','TJ Almond Milk',1),
   ('2023-03-31','TJ Sauerkraut',2),
-  ('2023-03-31','Miso ginger broth',1),
+  ('2023-03-31','TJ Miso Ginger Broth',1),
   ('2023-03-31','Trader Giotto''s Olive Oil',1),
   ('2023-03-31','TJ Walnuts',1),
   ('2023-03-31','TJ Beans',2),
@@ -1656,7 +1656,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-04-03 Trdaer Joe's; total cost $27.88; checkout at 6:44 PM; paid by debit card */
   ('2023-04-03','Trader Giotto''s Olive Oil',1),
   ('2023-04-03','Organic Tomato and Roasted Red Pepper Soup',1),
-  ('2023-04-03','Miso ginger broth',1),
+  ('2023-04-03','TJ Miso Ginger Broth',1),
   ('2023-04-03','TJ Walnuts',1),
   ('2023-04-03','Green bell pepper',4),
   ('2023-04-03','Red bell pepper',4),
@@ -1674,7 +1674,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-04-05','Udupi Palace spinach masala dosa',1),
   /* 2023-04-08 Trader Joe's; total cost $50.81; checkout at 2:21 PM; paid by debit card */
   ('2023-04-08','TJ Almond Milk',1),
-  ('2023-04-08','Miso ginger broth',1),
+  ('2023-04-08','TJ Miso Ginger Broth',1),
   ('2023-04-08','Beefsteak tomato',5),
   ('2023-04-08','TJ Walnuts',1),
   ('2023-04-08','Alvarado Sprouted Wheat Tortillas',11),
@@ -1684,7 +1684,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-04-12','Mehak Indian Cuisine standard set',1),
   /* 2023-04-16 Trader Joe's; total cost $86.90; checkout at 5:45 PM; paid by debit card */
   ('2023-04-16','TJ Sauerkraut',2),
-  ('2023-04-16','Miso ginger broth',1),
+  ('2023-04-16','TJ Miso Ginger Broth',1),
   ('2023-04-16','TJ English Shelled Peas',5),
   ('2023-04-16','Beefsteak tomato',9),
   ('2023-04-16','Alvarado Sprouted Wheat Tortillas',13),
@@ -1692,7 +1692,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-04-16','Udupi Palace spinach masala dosa',1),
   /* 2023-04-19 Trader Joe's; total cost $38.77; checkout at 8:35 PM; paid by debit card */
   ('2023-04-19','TJ Almond Milk',1),
-  ('2023-04-19','Miso ginger broth',1),
+  ('2023-04-19','TJ Miso Ginger Broth',1),
   ('2023-04-19','TJ Walnuts',1),
   ('2023-04-19','TJ Carrots',1),
   ('2023-04-19','TJ Baby Spinach',1),
@@ -1706,7 +1706,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-04-28','TJ Walnuts',1),
   ('2023-04-28','Organic Tomato and Roasted Red Pepper Soup',1),
   ('2023-04-28','TJ Almond Milk',1),
-  ('2023-04-28','Miso ginger broth',1),
+  ('2023-04-28','TJ Miso Ginger Broth',1),
   ('2023-04-28','TJ Beans',2),
   ('2023-04-28','TJ Baby Spinach',1),
   ('2023-04-28','TJ Carrots',1),
@@ -1724,7 +1724,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-05-06 Trader Joe's; total cost $40.89; checkout at 6:31 PM; paid by debit card */
   ('2023-05-06','TJ Carrots',1),
   ('2023-05-06','TJ Baby Spinach 6oz',2),
-  ('2023-05-06','Miso ginger broth',1),
+  ('2023-05-06','TJ Miso Ginger Broth',1),
   ('2023-05-06','Trader Giotto''s Olive Oil',1),
   ('2023-05-06','Red bell pepper',2),
   ('2023-05-06','Eggplant',2),
@@ -1746,7 +1746,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-05-16','Mehak Indian Cuisine standard set',1),
   /* 2023-05-20 Trader Joe's; total cost $50.99; checkout at 5:16 PM; paid by credit card */
   ('2023-05-20','TJ Beans',2),
-  ('2023-05-20','Miso ginger broth',1),
+  ('2023-05-20','TJ Miso Ginger Broth',1),
   ('2023-05-20','TJ Carrots',1),
   ('2023-05-20','Beefsteak tomato',9),
   ('2023-05-20','TJ Baby Spinach',1),
@@ -1764,13 +1764,13 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-05-26','TJ Sauerkraut',2),
   ('2023-05-26','Trader Giotto''s Olive Oil',1),
   ('2023-05-26','Alvarado Sprouted Wheat Tortillas',10),
-  ('2023-05-26','Miso ginger broth',1),
+  ('2023-05-26','TJ Miso Ginger Broth',1),
   ('2023-05-26','TJ Almond Milk',1),
   /* 2023-05-26 Udupi Palace; total cost $14.28; order placed at 12:50 PM; paid by cash */
   ('2023-05-26','Udupi Palace spinach masala dosa',1),
   /* 2023-05-28 Trader Joe's; total cost $46.08; checkout at 5:58 PM; paid by debit card */
   ('2023-05-28','TJ Walnuts',1),
-  ('2023-05-28','Miso ginger broth',1),
+  ('2023-05-28','TJ Miso Ginger Broth',1),
   ('2023-05-28','TJ Carrots',1),
   ('2023-05-28','TJ Baby Spinach',1),
   ('2023-05-28','Alvarado Sprouted Wheat Tortillas',6),

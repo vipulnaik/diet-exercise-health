@@ -217,7 +217,27 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 42,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,90,6,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes column */ 'Data was provided for a serving size of 1 tortilla (62 g) and the container had 6 tortillas. Therefore all numbers were multiplied by 6.');
+  /* notes column */ 'Data was provided for a serving size of 1 tortilla (62 g) and the container had 6 tortillas. Therefore all numbers were multiplied by 6.'),
+
+  ('TJ English Shelled Peas','Trader Joe''s English Shelled Peas','http://exploringtraderjoes.blogspot.com/2015/01/trader-joes-english-peas.html',240,
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 15,690,
+  /* carbohydrate-related columns */ 42,15,15,
+  /* protein-related columns */ 15,
+  /* columns for commonly reported vitamins and minerals */ 405,162,0,60,2,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes column */ 'Data was provided for a serving size of 96g (2/3 cup). There are 3 servings in a container. Therefore all numbers were multiplied by 3.'),
+
+  ('TJ Miso Ginger Broth','Trader Joe''s Miso Ginger Broth 32 Oz','https://www.amazon.com/Trader-Joes-Miso-Ginger-Broth/dp/B00FO9RRXK',60,
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 2600,NULL,
+  /* carbohydrate-related columns */ 8,0,0,
+  /* protein-related columns */ 4,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,0,0,0,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes column */ 'Data was provided for a serving size of 240g. There are 4 servings in a container. Therefore all numbers were multiplied by 4.');
 
 /* Mehak Indian Cuisine standard set:
   - two colored rices (complementary)
