@@ -5,7 +5,7 @@ my 2023 wisdom tooth removal. The latest dental opinion I received on
 the subject can be found in the [2022-12-21 dental cleaning
 notes](2022-12-21-dental-cleaning.md).
 
-## Current plan
+## Plan as of ~2023-06-01 prior to booking appointment
 
 ### One side at a time
 
@@ -55,6 +55,42 @@ Here are some thoughts:
   experimentation. May to September again seems like a good time for
   this.
 
+### Pre-operation diet plan
+
+#### Find out if there are any pre-operation diet restrictions
+
+Some sedatives may require me to not eat for some time before the
+operation. Since I don't plan to eat for a while after the operation
+either, I should find out the details.
+
+### Post-operation dental care guidance
+
+#### Brushing
+
+Some general guidance:
+
+* [HOW TO BRUSH TEETH AFTER WISDOM TOOTH EXTRACTION](https://bafdentistry.com/blogs/news/how-to-brush-teeth-after-wisdom-tooth-extraction)
+* [Tips for Brushing Your Teeth After Wisdom Teeth Removal](https://drnathanielchan.com/tips-for-brushing-your-teeth-after-wisdom-teeth-removal#:~:text=On%20the%20same%20day%20of,right%20after%20wisdom%20tooth%20extraction.)
+
+The general guidance seems to be to not brush teeth for 24 hours after
+wisdom tooth removal, and then after that to brush manually (without
+an electric toothbrush) and with care to be particularly gentle when
+near the extraction site.
+
+#### Rinsing
+
+Similar to the case of brushing, rinsing is not advised for the first
+24 hours after wisdom tooth removal. Even after that, avoid vigorous
+rinsing and avoid spitting out excess water, as this might dislodge
+the blood clot.
+
+#### Flossing
+
+While some of the guidance above suggests waiting 24 hours to start
+flossing, [other
+guidance](https://www.wacosurgicalarts.com/post/flossing-after-wisdom-teeth-extraction-yes-or-no)
+recommends 48 hours.
+
 ### Post-operation diet plan
 
 Some general guidance:
@@ -65,7 +101,13 @@ Some general guidance:
 * [The Best (and Worst) Foods to Eat After Wisdom Teeth
   Removal](https://www.goodrx.com/conditions/dental-care/eating-before-after-wisdom-teeth-removal)
 
-### Liquid foods and soft foods for the first 5 days
+#### Fast for the first 24 hours after wisdom tooth removal
+
+Given the significant restrictions on whoat I can eat as well as the
+restrictions against brushing, rinsing, and flossing, it may be best
+to fast for about 24 hours after the wisdom tooth removal.
+
+#### Liquid foods and soft foods for the first 5 days
 
 I've been investigating liquid foods and soft foods that I can
 have during the recovery phase. Here is my progress so far:
@@ -107,13 +149,55 @@ idea of sticking to that diet for a few weeks even if I can't have
 other kinds of food (such as tortillas or my usual mixed vegetables)
 *at all* over the period.
 
-### Preferences for the first 1-2 weeks
+#### Preferences for the first 1-2 weeks
 
 I'll try to get more rice from outside rather than have tortillas
 since rice is a little easier to chew.
 
-### Foods to avoid for about 3 weeks after the surgery
+It is also recommended to avoid using straws as the suction can
+dislodge blood clots.
+
+#### Foods to avoid for about 3 weeks after the surgery
 
 * Carrots (hard and can't be chewed, need to be bitten)
 * Nuts
 * Sauerkraut (very acidic)
+
+### Risk of dry socket
+
+Dry socket means that the blood clot either doesn't happen or is
+dislodged after wisdom tooth extraction.
+
+Guidance:
+
+* [Dry Socket - Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/17731-dry-socket)
+* [Dry Socket - Mayo Clinic](https://my.clevelandclinic.org/health/diseases/17731-dry-socket)
+
+The precautions described in the preceding sections regarding
+post-operation dental care and post-operation diet should reduce the
+risk of dry socket. However, there's still some nontrivial risk, so
+here are the precuationary / responsive measures.
+
+#### Preferentially book the appointment for Wednesday or earlier
+
+Since the risk of dry socket is highest in the 1-2 days after the
+wisdom tooth extraction, booking the appointment earlier increases the
+chances that it'll be a weekday when dry socket develops, which makes
+it easier to access dental care (dental offices will be open at the
+time).
+
+#### Have Tylenol handy and take it in case the pain is unbearable
+
+I already have a bit of Tylenol. Check that I still have it and that
+it's not past the expiration date, and keep it handy to take in case
+the pain is unbearable. I haven't taken Tylenol before, so it may be
+worth taking it once just to get a sense for the effet it has.
+
+#### Contact the dental office in case of suspected dry socket
+
+This is self-explanatory.
+
+#### Try not to book any appointments for the 2-3 days after the surgery
+
+This minimizes risk and maximizes flexibility of time in case I need
+to work on my dry socket.
