@@ -1502,7 +1502,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-01-16 Mehak Indian Cuisine; order placed at 12:32 PM; paid by PayPal */
   ('2023-01-16','Mehak Indian Cuisine standard set',1),
   /* 2023-01-21 Trader Joe's; total cost $.74.44; checkout at 4:26 PM; paid by credit card */
-  ('2023-01-21','Organic Tomato and Roasted Red Pepper Soup',1),
+  ('2023-01-21','TJ Organic Tomato and Roasted Red Pepper Soup',1),
   ('2023-01-21','TJ Almond Milk',1),
   ('2023-01-21','TJ Baby Spinach',1),
   ('2023-01-21','TJ English Shelled Peas',4),
@@ -1577,7 +1577,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-02-22','TJ Baby Spinach',1),
   ('2023-02-22','Zucchini squash',3), /* pack of 3, so counted as 1 in their receipt */
   ('2023-02-22','TJ English Shelled Peas',4),
-  ('2023-02-22','Organic Tomato and Roasted Red Pepper Soup',1),
+  ('2023-02-22','TJ Organic Tomato and Roasted Red Pepper Soup',1),
   ('2023-02-22','TJ Walnuts',1),
   ('2023-02-22','Alvarado Sprouted Wheat Tortillas',7),
   ('2023-02-22','TJ Almond Milk',1),
@@ -1655,7 +1655,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-03-31','Udupi Palace spinach masala dosa',1),
   /* 2023-04-03 Trdaer Joe's; total cost $27.88; checkout at 6:44 PM; paid by debit card */
   ('2023-04-03','Trader Giotto''s Olive Oil',1),
-  ('2023-04-03','Organic Tomato and Roasted Red Pepper Soup',1),
+  ('2023-04-03','TJ Organic Tomato and Roasted Red Pepper Soup',1),
   ('2023-04-03','TJ Miso Ginger Broth',1),
   ('2023-04-03','TJ Walnuts',1),
   ('2023-04-03','Green bell pepper',4),
@@ -1704,7 +1704,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-04-19','Udupi Palace spinach masala dosa',1),
   /* 2023-04-28 Trader Joe's; total cost $46.41; checkout at 8:17 PM; paid by debit card */
   ('2023-04-28','TJ Walnuts',1),
-  ('2023-04-28','Organic Tomato and Roasted Red Pepper Soup',1),
+  ('2023-04-28','TJ Organic Tomato and Roasted Red Pepper Soup',1),
   ('2023-04-28','TJ Almond Milk',1),
   ('2023-04-28','TJ Miso Ginger Broth',1),
   ('2023-04-28','TJ Beans',2),
@@ -1759,7 +1759,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-05-20','Udupi Palace spinach masala dosa',1),
   /* 2023-05-26 Trader Joe's; total cost $82.79; checkout at 12:59 PM; paid by debit card */
   ('2023-05-26','TJ Walnuts',1),
-  ('2023-05-26','Organic Tomato and Roasted Red Pepper Soup',1),
+  ('2023-05-26','TJ Organic Tomato and Roasted Red Pepper Soup',1),
   ('2023-05-26','TJ English Shelled Peas',4),
   ('2023-05-26','TJ Sauerkraut',2),
   ('2023-05-26','Trader Giotto''s Olive Oil',1),

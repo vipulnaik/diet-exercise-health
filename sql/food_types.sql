@@ -237,7 +237,17 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 4,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,0,0,0,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes column */ 'Data was provided for a serving size of 240g. There are 4 servings in a container. Therefore all numbers were multiplied by 4.');
+  /* notes column */ 'Data was provided for a serving size of 240g. There are 4 servings in a container. Therefore all numbers were multiplied by 4.'),
+
+  ('TJ Organic Tomato and Roasted Red Pepper Soup','Trader Joe''s Organic Tomato & Roasted Red Pepper Soup','https://www.amazon.com/Trader-Joes-Organic-Tomato-Roasted/dp/B00B4K8QTW',400,
+  /* fat-related columns */ 8,6,0,0,0,
+  /* cholesterol */ 40,
+  /* sodium and potassium (mostly from salts) */ 3000,2000,
+  /* carbohydrate-related columns */ 64,4,40,
+  /* protein-related columns */ 20,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 360,14.4,0,600,0.64,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes column */ 'Data was provided for a serving size of 240 mL. There are 4 servings in a container. Therefore all numbers were multiplied by 4.');
 
 /* Mehak Indian Cuisine standard set:
   - two colored rices (complementary)
