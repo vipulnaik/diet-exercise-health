@@ -65,6 +65,8 @@ Some general guidance:
 * [The Best (and Worst) Foods to Eat After Wisdom Teeth
   Removal](https://www.goodrx.com/conditions/dental-care/eating-before-after-wisdom-teeth-removal)
 
+### Liquid foods and soft foods for the first 5 days
+
 I've been investigating liquid foods and soft foods that I can
 have during the recovery phase. Here is my progress so far:
 
@@ -88,6 +90,13 @@ Liquid foods:
   calories): Although liquid enough, this may be a bit more spicy to
   be used against fragile teeth.
 
+Soft foods:
+
+* Mashed potatoes: I need to figure out the right method of home
+  preparation for these, to the extent possible.
+
+* My regular mixed vegetables are fine as long as I exclude carrots
+
 I still need to explore food that is richer in carbohydrates and also
 liquid or soft enough. Ideas include crushed or liquid rice and mashed
 potatoes.
@@ -97,3 +106,14 @@ caloric and nutrient values of the foods so that I can explore the
 idea of sticking to that diet for a few weeks even if I can't have
 other kinds of food (such as tortillas or my usual mixed vegetables)
 *at all* over the period.
+
+### Preferences for the first 1-2 weeks
+
+I'll try to get more rice from outside rather than have tortillas
+since rice is a little easier to chew.
+
+### Foods to avoid for about 3 weeks after the surgery
+
+* Carrots (hard and can't be chewed, need to be bitten)
+* Nuts
+* Sauerkraut (very acidic)
