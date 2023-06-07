@@ -5,7 +5,7 @@ my 2023 wisdom tooth removal. The latest dental opinion I received on
 the subject can be found in the [2022-12-21 dental cleaning
 notes](2022-12-21-dental-cleaning.md).
 
-## Plan as of ~2023-06-01 prior to booking appointment
+## Plan for appointment time and details prior to booking appointment
 
 ### One side at a time
 
@@ -31,19 +31,21 @@ Some online guidance on the subject:
 * [SHOULD I GO UNDER FOR MY WISDOM TEETH REMOVAL OR STAY AWAKE?](https://www.keemsmile.com/should-i-go-under-for-my-wisdom-teeth-removal-or-stay-awake)
 * [Sedation Options for Wisdom Teeth Extractions](https://www.absolutedental.com/blog/sedation-options-for-wisdom-teeth-extractions/#:~:text=Is%20Sedation%20Necessary%20for%20Wisdom,local%20anesthesia%20before%20the%20surgery.)
 
-### First operation around July
+### First operation around July, second operation around August, dental cleaning deferred to September
 
-I'd like to do the first phase of removal around July, by which time I
-expect to be caught up with the most time-sensitive portions of my
-backlog. Depending on the experience with that operation, I'll figure
-out when to get my second operation.
+I'd like to do the first phase of removal (left side) around July, by
+which time I expect to be caught up with the most time-sensitive
+portions of my backlog. Also, if possible, I'd like to do the second
+phase of removal around August, and then book the dental cleaning
+appointment for September. About 4-6 weeks of gap between the phases
+seems reasonable.
 
 ### Timing constraints
 
 Here are some thoughts:
 
 * I'd like to choose a time that is not otherwise busy or packed. As
-  of now, May seems the earliest.
+  of now, July seems the earliest.
 
 * I want to choose a time when it's moderately warm, as my caloric
   needs are higher in colder times, and the soft/liquid foods I've
@@ -54,6 +56,34 @@ Here are some thoughts:
   anticipate I may need to make more grocery store trips for food
   experimentation. May to September again seems like a good time for
   this.
+
+## Plan for pre- and post-operation measures
+
+### Preparatory measures in the week before the operation
+
+Make sure that my food purchases are in line with the plans. In
+particular:
+
+### Medicine to stock up on
+
+* Tylenol
+* Ibuprofen
+
+### Food to stock up on
+
+* Miso ginger broth
+* Tomato soup
+* Almond milk
+* Potatoes
+* Regular mixed vegetable components, excluding carrots
+
+### Food to not build excess stocks for prior to operation
+
+* Peas (assume I won't have for 1 week after operation)
+* Carrots (assume I won't have for 2 weeks after operation)
+* Tortillas (assume I won't have for 2 weeks after operation)
+* Nuts (assume I won't have for 3 weeks after operation)
+* Sauerkraut (assume I won't have for 3 weeks after operation)
 
 ### Pre-operation diet plan
 
@@ -135,7 +165,10 @@ Liquid foods:
 Soft foods:
 
 * Mashed potatoes: I need to figure out the right method of home
-  preparation for these, to the extent possible.
+  preparation for these, to the extent possible. NOTE: I have prepared
+  sliced potatoes, not quite mashed potatoes, but that might be fine
+  enough for the purpose as long as I wait at least 24 hours before
+  eating anything.
 
 * My regular mixed vegetables are fine as long as I exclude carrots
 
@@ -186,12 +219,12 @@ chances that it'll be a weekday when dry socket develops, which makes
 it easier to access dental care (dental offices will be open at the
 time).
 
-#### Have Tylenol handy and take it in case the pain is unbearable
+#### Have Tylenol and Ibuprofen handy and take it in case the pain is unbearable
 
-I already have a bit of Tylenol. Check that I still have it and that
-it's not past the expiration date, and keep it handy to take in case
-the pain is unbearable. I haven't taken Tylenol before, so it may be
-worth taking it once just to get a sense for the effet it has.
+The Tylenol I have at home has expired, so I need to get a new batch
+of tylenol. I should also get ibuprofen. I might also explore trying a
+small dose of both in advance to check if I have any adverse reactions
+to either medication.
 
 #### Contact the dental office in case of suspected dry socket
 
@@ -210,8 +243,11 @@ to work on my dry socket.
 
 * I prefer a time between Monday and Wednesday. Is that possible?
 
-* I will need to postpone my regular dental cleaning appointment to at
-  least 1 month after this surgery. Can that be done too?
+* I'd like to schedule my second appointment for about 6 weeks after
+  my first appointment. Is that possible?
+
+* I'd like to defer my regular dental cleaning appointment to about 6
+  weeks after my second appointment. Is that psosible?
 
 ### Operation process
 
