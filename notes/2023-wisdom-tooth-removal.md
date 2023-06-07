@@ -31,9 +31,9 @@ Some online guidance on the subject:
 * [SHOULD I GO UNDER FOR MY WISDOM TEETH REMOVAL OR STAY AWAKE?](https://www.keemsmile.com/should-i-go-under-for-my-wisdom-teeth-removal-or-stay-awake)
 * [Sedation Options for Wisdom Teeth Extractions](https://www.absolutedental.com/blog/sedation-options-for-wisdom-teeth-extractions/#:~:text=Is%20Sedation%20Necessary%20for%20Wisdom,local%20anesthesia%20before%20the%20surgery.)
 
-### First operation around May
+### First operation around July
 
-I'd like to do the first phase of removal around May, by which time I
+I'd like to do the first phase of removal around July, by which time I
 expect to be caught up with the most time-sensitive portions of my
 backlog. Depending on the experience with that operation, I'll figure
 out when to get my second operation.
