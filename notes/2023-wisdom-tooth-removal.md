@@ -31,15 +31,6 @@ Some online guidance on the subject:
 * [SHOULD I GO UNDER FOR MY WISDOM TEETH REMOVAL OR STAY AWAKE?](https://www.keemsmile.com/should-i-go-under-for-my-wisdom-teeth-removal-or-stay-awake)
 * [Sedation Options for Wisdom Teeth Extractions](https://www.absolutedental.com/blog/sedation-options-for-wisdom-teeth-extractions/#:~:text=Is%20Sedation%20Necessary%20for%20Wisdom,local%20anesthesia%20before%20the%20surgery.)
 
-### First operation around July, second operation around August, dental cleaning deferred to September
-
-I'd like to do the first phase of removal (left side) around July, by
-which time I expect to be caught up with the most time-sensitive
-portions of my backlog. Also, if possible, I'd like to do the second
-phase of removal around August, and then book the dental cleaning
-appointment for September. About 4-6 weeks of gap between the phases
-seems reasonable.
-
 ### Timing constraints
 
 Here are some thoughts:
@@ -56,6 +47,26 @@ Here are some thoughts:
   anticipate I may need to make more grocery store trips for food
   experimentation. May to September again seems like a good time for
   this.
+
+### Constraints for gap between operations
+
+[Healthline
+article](https://www.healthline.com/health/how-long-does-it-take-the-hole-to-close-after-tooth-extraction)
+gives a timeframeo f 6 weeks for close-to-full-healing of surgically
+extracted teeth, including wisdom teeth. Therefore, a 6-week gap
+between extractions seems reasonable.
+
+### First operation around July, second operation around August, dental cleaning deferred to September
+
+* I'd like to do the first phase of removal (left side) around July,
+  by which time I expect to be caught up with the most time-sensitive
+  portions of my backlog.
+
+* Also, if possible, I'd like to do the second phase of removal around
+  August, about 6 weeks after my first appointment.
+
+* I'd like to defer my regular dental cleaning appointment to
+  September, about 6 weeks after the second appointment.
 
 ## Plan for pre- and post-operation measures
 
@@ -244,10 +255,18 @@ to work on my dry socket.
 * I prefer a time between Monday and Wednesday. Is that possible?
 
 * I'd like to schedule my second appointment for about 6 weeks after
-  my first appointment. Is that possible?
+  my first appointment. The same day-of-week constraint (Monday to
+  Wednesday) applies. Is that possible?
 
 * I'd like to defer my regular dental cleaning appointment to about 6
-  weeks after my second appointment. Is that psosible?
+  weeks after my second appointment. Wednesday is my preferred day. Is
+  that psosible?
+
+### Flexibility for rescheduling
+
+* What is the advance notice needed for rescheduling each appointment?
+
+* In general, how much in advance do I need to book an appointment?
 
 ### Operation process
 
@@ -262,4 +281,3 @@ to work on my dry socket.
   or dry socket, etc.? What medications are recommended for me to keep
   in stock, if any? At what threshold of pain should I reach out to
   the dental office?
-
