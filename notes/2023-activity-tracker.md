@@ -121,3 +121,12 @@ Street Food with another person. I walked to the location, arriving at
 the other person to arrive. After the dinner, I went to Trader Joe's
 to buy groceries and walked back home. Food purchase details are
 recorded at [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday June 7
+
+In the late afternoon / early evening, I made a trip to the Citibank
+in downtown Berkeley for some financial transactions. I was in the
+branch from abour 4:40 PM to about 4:55 PM. After that, I went to the
+nearby Ace Hardware where I purchased a few items, finishing checkout
+at 5:08 PM. After being done with that, I made some food purchases
+recorded at [food_purchases.sql](../sql/food_purchases.sql).
