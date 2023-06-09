@@ -281,3 +281,7 @@ to work on my dry socket.
   or dry socket, etc.? What medications are recommended for me to keep
   in stock, if any? At what threshold of pain should I reach out to
   the dental office?
+
+## Notes from actual appointment booking phone call
+
+Failed call attempt on 2023-06-09 at 11:45 AM: No representative available
