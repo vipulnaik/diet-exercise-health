@@ -285,3 +285,50 @@ to work on my dry socket.
 ## Notes from actual appointment booking phone call
 
 Failed call attempt on 2023-06-09 at 11:45 AM: No representative available
+
+Second call attempt on 2023-06-09 shortly before 3 PM:
+
+* I tentatively booked the appointment for the left side for Wednesday
+  July 5 at 2 PM. The appointment is at the [Rotunda Treatment
+  Center](https://totalhealthdentalcare.com/rotunda-treatment-center)
+  in downtown Oakland.
+
+* Final booking is pending confirmation of the exact cost, which will
+  be sent to me over email, after which I can ask them to charge my
+  card for a prepay.
+
+* The appointment can be cancelled up to 72 hours prior to the
+  appointment time. Since it's on a Wednesday, this means that I
+  should cancel it by the previous Friday (June 30).
+
+* I will *not* be getting sedation, but will be getting nitrous oxide
+  (laughing gas) to calm my anxiety, in addition to local
+  anesthesia. After discussion, I opted out of the option of sedation,
+  because it requires a bunch of additional constraints:
+
+  * Somebody needs to shepherd me to and from the appointment.
+  * It costs $1040 (compared to laughing gas, that's much cheaper).
+  * I need to not be sick for 2 weeks prior to the appointment.
+  * I need to fast for 8 hours prior to the appointment.
+
+* The right side appointment will be booked as of when I go in for my
+  left side appointment.
+
+* I have deferred my regular cleaning appointment (originally
+  scheduled for Wednesday June 28) to Wednesday September 27 1 PM.
+
+* The doctor in charge of the wisdom tooth removal will also provide
+  post-operative care instructions at the appointment.
+
+* Total Health Dental Care has a person monitoring incoming phone
+  calls over the weekend so in case of extreme pain after the
+  appointment, I can call the phone number and report the situation,
+  even if on a weekend. However, in-person appointments can only be
+  made for weekdays. The person on-call will be able to direct me
+  regarding whether to go to urgent care / emergency room or wait till
+  the next appointment.
+
+* I provided information on my closest pharmacy; a package of
+  painkillers and antibiotics will be sent to that location as part of
+  the post-operative care. The payment details will depend on my
+  insurance setup.
