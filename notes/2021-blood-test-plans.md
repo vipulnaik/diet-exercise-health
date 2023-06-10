@@ -95,7 +95,7 @@ have made a few dietary changes since then, and given diabetes in my
 family members, I want to get another test almost four years after the
 previous one.
 
-### Test results and takeaways
+#### Test results and takeaways
 
 In all respects, my lipid profile came out worse than the previous
 lipid profile taken November 2017, but the only thing bad in absolute
@@ -146,7 +146,7 @@ I have been taking both calcium and vitamin D for a while, so I want
 to test my blood calcium levels to make sure that the end result for
 my calcium is good.
 
-### Test results and takeaways
+#### Test results and takeaways
 
 The reading came within range (at 9.6, it was in between the range
 from 8.6 to 10.3). I plan to continue my existing supplementation and
