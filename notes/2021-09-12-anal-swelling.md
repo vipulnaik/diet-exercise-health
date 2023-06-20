@@ -57,4 +57,4 @@ As of Tuesday 2021-09-21 I consider the issue resolved.
 ## Possible causes and aggravating factors
 
 * Spicy food from Mehak Indian Cuisine on 2021-09-11, more than usual.
-* Suppression of urine and bowel nmovements due to toilet clog.
+* Suppression of urine and bowel movements due to toilet clog.
