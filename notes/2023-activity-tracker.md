@@ -130,3 +130,9 @@ branch from abour 4:40 PM to about 4:55 PM. After that, I went to the
 nearby Ace Hardware where I purchased a few items, finishing checkout
 at 5:08 PM. After being done with that, I made some food purchases
 recorded at [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday June 25
+
+In the afternoon, I made a trip, first for some
+printing/copying/scanning, then for food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
