@@ -332,3 +332,10 @@ Second call attempt on 2023-06-09 shortly before 3 PM:
   painkillers and antibiotics will be sent to that location as part of
   the post-operative care. The payment details will depend on my
   insurance setup.
+
+## Appointment time change to 2023-07-05 1 PM
+
+On Friday 2023-06-30, I received a phone call from Total Health Dental
+Care and based on discussion in the phone call, my appointment time
+was moved from 2023-07-05 2 PM to 2023-07-05 1 PM. Everything else
+remains the same.
