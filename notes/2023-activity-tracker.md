@@ -136,3 +136,8 @@ recorded at [food_purchases.sql](../sql/food_purchases.sql).
 In the afternoon, I made a trip, first for some
 printing/copying/scanning, then for food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday June 30
+
+In the evening, I made a trip to a party. I stayed there for a couple
+of hours and then went to Target for clothes shopping.
