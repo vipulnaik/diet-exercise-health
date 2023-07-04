@@ -23,3 +23,11 @@ range of 97.9 to 98.3 degrees Fahrenheit.
 ## Time of consumption
 
 I had one capsule (500 mg) at 9:20 PM at night on 2023-07-03.
+
+## Checkin after 1.5 hours
+
+At 10:50 PM, I took another temperature reading. The reading came to
+98.2, within range of the previous readings.
+
+There appears to have been no other subjective impact of the
+acetaminophen consumption.
