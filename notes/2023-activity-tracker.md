@@ -141,3 +141,8 @@ printing/copying/scanning, then for food purchases recorded at
 
 In the evening, I made a trip to a party. I stayed there for a couple
 of hours and then went to Target for clothes shopping.
+
+## Monday July 3
+
+In the late afternoon / early evening, a little after 4 PM, I made a
+trip to Walgreens to stock up on a few items.
