@@ -146,3 +146,9 @@ of hours and then went to Target for clothes shopping.
 
 In the late afternoon / early evening, a little after 4 PM, I made a
 trip to Walgreens to stock up on a few items.
+
+## Wednesday July 5
+
+In the early afternoon, I went for my wisdom tooth removal (left side)
+appointment. Details are in
+[2023-07-05-wisdom-tooth-removal-left-side.md](2023-07-05-wisdom-tooth-removal-left-side.md).

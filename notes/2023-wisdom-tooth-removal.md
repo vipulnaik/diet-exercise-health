@@ -339,3 +339,16 @@ On Friday 2023-06-30, I received a phone call from Total Health Dental
 Care and based on discussion in the phone call, my appointment time
 was moved from 2023-07-05 2 PM to 2023-07-05 1 PM. Everything else
 remains the same.
+
+## Actual first appointment
+
+For details of the appointment, see
+[2023-07-05-wisdom-tooth-removal-left-side.md](2023-07-05-wisdom-tooth-removal-left-side.md).
+
+## Second appointment (right side) on 2023-08-16 at 1 PM
+
+After I finished my first appointment, while I was still at the
+Rotunda Treatment Center, I booked a followup appointment for
+Wednesday August 16 at 1 PM. The followup appointment was somewhat
+cheaper as there was no need for the X-ray step that had been
+completed in this appointment.
