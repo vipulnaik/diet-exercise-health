@@ -106,3 +106,22 @@ temporarily closed, so I waited in line for it to open. When my turn
 came, the person at the counter said that my order has been received
 but has not yet been prepared because they're a little behind. He
 asked me to come in an hour (around 3:30 PM).
+
+### Second trip
+
+I made my second trip to Walgreens shortly after 3:30
+PM. Unfortunately there was a long line at the Walgreens so I stood
+there for a long time. I got three of the four prescriptions. The
+prescriptions I received were as follows:
+
+* Hydrocodone / acetaminophen: 10 tablets with the instruction to
+  "take 1 tablet by mouth every 6 hours as needed for pain"
+
+* Ibuprofen 800 mg: 20 tablets with the instruction to "take 1 tablet
+  by mouth every 6 hours as needed for pain"
+
+* Clindamycin 300 mg: 28 tablets with the instruction to "take 1
+  capsule by mouth four times daily for 7 days"
+
+The fourth prescription was marked pending as a
+confirmation/clarification was needed from the prescribing doctor.
