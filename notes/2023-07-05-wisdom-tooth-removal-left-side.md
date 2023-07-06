@@ -137,6 +137,17 @@ confirmation/clarification was needed from the prescribing doctor.
 
 ## Bleeding and gauze changes
 
+### Summary of gauze changes
+
+| Gauze index | Start time | End time | Duration in minutes (approx) |
+| -- | -- | -- | -- |
+| 1 | 1:40 PM | 2:45 PM | 65 |
+| 2 | 2:45 PM | 3:05 PM | 20 |
+| 3 | 3:05 PM | 3:30 PM | 25 |
+| 4 | 3:30 PM | 4:45 PM | 75 |
+| 5 | 4:45 PM | 6:00 PM | 75 |
+| 6 | 6:00 PM | ?? | ?? |
+
 ### Bleeding prior to my return home
 
 Shortly before arriving at the Walgreens for the first trip (coming
@@ -190,6 +201,14 @@ In panic about what might happen if I used up all my gauzes and the
 bleeding still hadn't stopped, I made another trip to Walgreens to buy
 more gauze. This time my trip wasn't to the pharmacy but the regular
 counter, so it was much quicker.
+
+### Sixth gauze use
+
+After returning from Walgreens, I switched to my sixth gauze around 6
+PM. This time, I used one of the pieces of gauze that I had just
+purchased from Walgreens rather than the one the dentist gave me -- I
+wanted to leave the dentist's gauze for last and try the Walgreens one
+to see if it worked well.
 
 ## Consumption of medications
 
