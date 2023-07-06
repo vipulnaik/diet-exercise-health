@@ -19,6 +19,7 @@ Sections of this document:
 * [Application of ice pack](#application-of-ice-pack)
 * [Consumption of medications](#consumption-of-medications)
 * [Meals](#meals)
+* [Sleep](#sleep)
 * [Communication challenges](#communication-challenges)
 
 ## Temperature readings
@@ -27,6 +28,7 @@ Date and time | Significance | Temperature reading
 -- | -- | --
 2023-07-05 12 PM | Right before leaving for operation | 98.2
 2023-07-05 6:30 PM | After finishing all trips for the day | Three readings: 98.2, 97.8, 98.0
+2023-07-06 9:15 AM | After waking up the next day | 97.8 (measured twice)
 
 ## Preparations the previous two days
 
@@ -123,7 +125,12 @@ After they came back, they checked again how things were going. I
 noticed some numbness in my right hand and foot, and I wasn't sure if
 this is due to the laughing gas or the local anesthesia. Dr. Connors
 suspected it's the laughing gas, and that it should subside after I'm
-taken off of it.
+taken off of it. However, upon further thought I think this is more
+likely an effect of local anesthesia. This is based on additional
+anecdotes as well as the fact that the effect was only on my right
+side; we know that the left face maps to the right side of the body,
+and the local anesthetic was on the left side, whereas the laughing
+gas inhalation should have affected both sides uniformly.
 
 ### Actual removal
 
@@ -374,9 +381,35 @@ I had another slow meal of cool liquid foods, starting a little after
 midnight on 2023-07-06 and ending a little after 1 AM. The composition
 and format of the meal was very similar to my preceding meal.
 
+## Sleep
+
+### Sleep at night on 2023-07-05 (or rather, past midnight on 2023-07-06)
+
+I deliberately delayed going to sleep after my wisdom tooth removal
+appointment, so that my teeth were further ahead in the healing
+process; during sleep, because of my reduced awareness, I am slightly
+more at risk for injuring them, so it felt important to delay sleep.
+
+I finally went to sleep around 1:30 AM, by which time I felt tired and
+also felt that my healing was far enough ahead.
+
+I slept on my right side and with my pillow slightly raised. As far as
+I can make out, I was able to spend most of the night sleeping on my
+right side, with small segments spent sleeping on my back. I vaguely
+remember almost switching to sleeping on my left side around 6 AM and
+then remembering not to. I didn't check the time; just guessing the
+time based on the level of illumination.
+
+I got semi-awake around 7:30 AM but then continued to sleep in. At
+8:40 AM, I preemptively paused my alarm for 8:45 AM. I got out of bed
+around 9:10 AM.
+
+Despite having spent most of the night sleeping on my right side, I
+did not feel any pain on my right side.
+
 ## Communication challenges
 
 I had difficulty talking while the gauze was still in my mouth, which
-was the case for my three Walgreens trips. I used hand gestures,
-nodding and shaking, and brief verbal statements to communicate my
-intent.
+was the case for my three Walgreens trips on the afternoon of
+2023-07-05. I used hand gestures, nodding and shaking, and brief
+verbal statements to communicate my intent.
