@@ -293,7 +293,7 @@ smoothly. It's hard to separate correlation and causation: I felt
 comfortable removing the gauze because things were improving, but the
 removal of the gauze may also have helped improve things.
 
-## Applicaion of ice pack
+## Application of ice pack
 
 ### First application starting 2023-07-05 at 7:10 PM
 
