@@ -204,3 +204,10 @@ On 2023-07-05 around 5 PM, I had, along with water:
 I did not have the clindamycin just yet, as I wanted to have it once I
 was home for a more extended period of time, and possibly along with
 some food to replenish myself.
+
+## Communication challenges
+
+I had difficulty talking while the gauze was still in my mouth, which
+was the case for my three Walgreens trips. I used hand gestures,
+nodding and shaking, and brief verbal statements to communicate my
+intent.
