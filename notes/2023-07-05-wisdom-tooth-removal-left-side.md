@@ -18,7 +18,7 @@ Sections of this document:
 * [Bleeding and gauze changes](#bleeding-and-gauze-changes)
 * [Application of ice pack](#application-of-ice-pack)
 * [Consumption of medications](#consumption-of-medications)
-* [Meals](#meals)
+* [Food](#food)
 * [Sleep](#sleep)
 * [Communication challenges](#communication-challenges)
 
@@ -317,9 +317,9 @@ Around 1:20 AM, I applied the ice pack for a little over 10 minutes.
 
 Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
 -- | -- | -- | -- | --
-hydrocodone / acetaminophen | 10 | 2 | 6 hours | 2023-07-06 between midnight and 1 AM
-ibuprofen 800 mg | 20 | 2 | 6 hours | 2023-07-06 between midnight and 1 AM
-clindamycin | 28 | 2 | not explicit, but target 4 per day | 2023-07-06 between midnight and 1 AM
+hydrocodone / acetaminophen | 10 | 3 | 6 hours | 2023-07-06 between 10:30 AM and 11:30 AM
+ibuprofen 800 mg | 20 | 3 | 6 hours | 2023-07-06 between 10:30 AM and 11:30 AM
+clindamycin | 28 | 3 | not explicit, but target 4 per day | 2023-07-06 between 10:30 AM and 11:30 AM
 
 ### Pain medications on 2023-07-05 5 PM
 
@@ -351,7 +351,18 @@ On 2023-07-06 shortly after midnight, I had, along with water and the
 
 * 1 tablet of ibuprofen 800 mg
 
-## Meals
+### All three medications on 2023-07-06 between 10:30 AM and 11:30 AM
+
+On 2023-07-06, between 10:30 AM and 11:30 AM, I had, along with water
+and the "cool liquid foods" meal I was having:
+
+* 1 capsule of clindamycin
+
+* 1 tablet of hydrocodone / acetaminophen
+
+* 1 tablet of ibuprofen 800 mg
+
+## Food
 
 ### Cool liquid foods for dinner on 2023-07-05 around 8 PM to 9 PM
 
@@ -375,11 +386,19 @@ better.
 
 I did not do any brushing, rinsing, or flossing after the meal.
 
-### Cool liquid foods for dinner on 2023-07-06 from shortly after midnight to about 1 AM
+### Cool liquid foods for second dinner on 2023-07-06 from shortly after midnight to about 1 AM
 
 I had another slow meal of cool liquid foods, starting a little after
 midnight on 2023-07-06 and ending a little after 1 AM. The composition
 and format of the meal was very similar to my preceding meal.
+
+### Cool liquid foods for breakfast on 2023-07-06 between 10:30 AM and 11:30 AM
+
+I had another slow meal of cool liquid foods, starting a little after
+10:30 AM on 2023-07-06 and ending around 11:30 AM. The composition and
+format of the meal was very similar to my first two meals. One
+difference was that along with this meal, in addition to my
+medications, I also took my daily supplements.
 
 ## Sleep
 
