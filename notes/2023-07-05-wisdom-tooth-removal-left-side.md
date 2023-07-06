@@ -302,7 +302,17 @@ a time.
 
 Shortly after 10 PM, I applied the ice pack again for about 15 minutes.
 
+### Third application starting 2023-07-06 around 1:20 AM
+
+Around 1:20 AM, I applied the ice pack for a little over 10 minutes.
+
 ## Consumption of medications
+
+Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
+-- | -- | -- | -- | --
+hydrocodone / acetaminophen | 10 | 2 | 6 hours | 2023-07-06 between midnight and 1 AM
+ibuprofen 800 mg | 20 | 2 | 6 hours | 2023-07-06 between midnight and 1 AM
+clindamycin | 28 | 2 | not explicit, but target 4 per day | 2023-07-06 between midnight and 1 AM
 
 ### Pain medications on 2023-07-05 5 PM
 
@@ -319,9 +329,20 @@ some food to replenish myself.
 ### Clindamycin on 2023-07-05 8 PM
 
 On 2023-07-05 around 8 PM, shortly after starting my cool liquid foods
-dinner (about 5 minutes into the start of the meal), I took one tablet
+dinner (about 5 minutes into the start of the meal), I took one capsule
 of clindamycin along with water. See a [later section](#meals) for details
 regarding my meals.
+
+### All three medications on 2023-07-06 shortly after midnight
+
+On 2023-07-06 shortly after midnight, I had, along with water and the
+"cool liquid foods" meal I was having:
+
+* 1 capsule of clindamycin
+
+* 1 tablet of hydrocodone / acetaminophen
+
+* 1 tablet of ibuprofen 800 mg
 
 ## Meals
 
@@ -346,6 +367,12 @@ was also helpful for me to relax and refocus. At the end of it, I felt
 better.
 
 I did not do any brushing, rinsing, or flossing after the meal.
+
+### Cool liquid foods for dinner on 2023-07-06 from shortly after midnight to about 1 AM
+
+I had another slow meal of cool liquid foods, starting a little after
+midnight on 2023-07-06 and ending a little after 1 AM. The composition
+and format of the meal was very similar to my preceding meal.
 
 ## Communication challenges
 
