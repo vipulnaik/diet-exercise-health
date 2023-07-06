@@ -1,9 +1,25 @@
 # 2023-07-05 wisdom tooth removal (left side)
 
 This document describes the process of wisdom tooth removal for my
-left side. For more general context on the wisdom tooth removal
-procedure, see
+left side. The appointment was on Wednesday 2023-07-05 at 1 PM at the
+[Rotunda Treatment
+Center](https://totalhealthdentalcare.com/rotunda-treatment-center). For
+more general context on the wisdom tooth removal procedure, see
 [2023-wisdom-tooth-removal.md](2023-wisdom-tooth-removal.md).
+
+Sections of this document:
+
+* [Temperature readings](#temperature-readings)
+* [Arrival at office](#arrival-at-office)
+* [X-Rays](#x-rays)
+* [Operation process](#operation-process)
+* [Exit process](#exit-process)
+* [Walgreens trip](#walgreens-trip)
+* [Bleeding and gauze changes](#bleeding-and-gauze-changes)
+* [Application of ice pack](#application-of-ice-pack)
+* [Consumption of medications](#consumption-of-medications)
+* [Meals](#meals)
+* [Communication challenges](#communication-challenges)
 
 ## Temperature readings
 
@@ -11,6 +27,50 @@ Date and time | Significance | Temperature reading
 -- | -- | --
 2023-07-05 12 PM | Right before leaving for operation | 98.2
 2023-07-05 6:30 PM | After finishing all trips for the day | Three readings: 98.2, 97.8, 98.0
+
+## Preparations the previous two days
+
+### Reduced exercise, to conserve energy and reduce risks
+
+* I did not do weights and pushups for the two days prior to the
+  appointment. My last weights/pushups was on Sunday 2023-07-02.
+
+* I did not go out jogging the day prior to the appointment. The last
+  time I went jogging was on the morning of Monday 2023-07-03, a
+  little over two days prior to the appointment.
+
+### Getting on top of personal chores to reduce personal chores load immediately following the appointment
+
+As you can see from my [daily-updates issue for Tuesday
+2023-07-04](https://github.com/vipulnaik/daily-updates/issues/1255) I
+spent the day doing a bunch of personal chores, including food prep
+and laundry, so that I was as well-set as possible to not need to do
+personal chores immediately after the appointment. I also did a bunch
+of related shopping on Monday 2023-07-03 (see [daily-updates issue for
+Monday
+2023-07-03](https://github.com/vipulnaik/daily-updates/issues/1254)). There
+were three reasons to split to have the outside stuff on Monday and the
+home stuff on Tuesday:
+
+* Tuesday is the Fourth of July so some places may be closed; it
+  seemed better to do all outside shopping on Monday.
+
+* There were some dependencies where some of the stuff purchased was
+  needed for the stuff at home; specifically, a lot of the food
+  purchases were necessary for the food prep.
+
+* I wanted to minimize vigorous out-of-the-home exertion the day
+  before the appointment; I thought that just doing stuff at home was
+  less likely to be fatiguing (this was approximately true, though I
+  underestimated the amount of stuff I ended up having to do at home).
+
+### Clearing out a bunch of things to reduce the risk of things coming up Wednesday
+
+I wanted to reduce the chances that stuff would come up Wednesday that
+might distract me from the operation or inconvenience others due to me
+being unavailable. So I spent some time Monday and Tuesday clearing
+out the things I needed to do Wednesday, either doing them in advance
+of Wednesday or postponing them to later.
 
 ## Arrival at office
 
@@ -219,6 +279,13 @@ wanted to drink some soup with my antibiotics soon and I couldn't do
 that with a gauze, so I removed the gauze to see how bad the bleeding
 situation was.
 
+### Seeming improvement after removal of gauze
+
+After the removal of gauze, I felt that my recovery proceeded more
+smoothly. It's hard to separate correlation and causation: I felt
+comfortable removing the gauze because things were improving, but the
+removal of the gauze may also have helped improve things.
+
 ## Applicaion of ice pack
 
 ### First application starting 2023-07-05 at 7:10 PM
@@ -244,6 +311,37 @@ On 2023-07-05 around 5 PM, I had, along with water:
 I did not have the clindamycin just yet, as I wanted to have it once I
 was home for a more extended period of time, and possibly along with
 some food to replenish myself.
+
+### Clindamycin on 2023-07-05 8 PM
+
+On 2023-07-05 around 8 PM, shortly after starting my cool liquid foods
+dinner (about 5 minutes into the start of the meal), I took one tablet
+of clindamycin along with water. See a [later section](#meals) for details
+regarding my meals.
+
+## Meals
+
+### Cool liquid foods for dinner on 2023-07-05 around 8 PM to 9 PM
+
+I had a slow dinner with cool liquid foods on 2023-07-05 starting a
+little before 8 PM and ending a little after 9 PM. This was my first
+meal after the operation.
+
+I had originally thought I might just skip having anything for 24
+hours after the operation, but it seemed like an empty stomach was not
+a good idea for the antibiotic (clindamycin). Also, I was at least
+somewhat hungry/thirsty; the bleeding would also have led to the loss
+of some nutrients so refurbishing them was important.
+
+My "cool liquid foods" dinner was obtained by mixing almond milk, miso
+soup, and tomato soup. I had about 6-8 cups of the mix. I consumed it
+one spoon at a time, sipping very gently. I really enjoyed the meal
+and felt it was soothing to my recovering wisdom tooth area. It was
+also emotionally helpful with my recovery. The slow pace of drinking
+was also helpful for me to relax and refocus. At the end of it, I felt
+better.
+
+I did not do any brushing, rinsing, or flossing after the meal.
 
 ## Communication challenges
 
