@@ -5,6 +5,13 @@ left side. For more general context on the wisdom tooth removal
 procedure, see
 [2023-wisdom-tooth-removal.md](2023-wisdom-tooth-removal.md).
 
+## Temperature readings
+
+Date and time | Significance | Temperature reading
+-- | -- | --
+2023-07-05 12 PM | Right before leaving for operation | 98.2
+2023-07-05 6:30 PM | After finishing all trips for the day | Three readings: 98.2, 97.8, 98.0
+
 ## Arrival at office
 
 I took BART from Ashby to 19th Street Oakland and then walked over to
@@ -24,9 +31,11 @@ the dentist's chair.
 
 ### Explanation
 
-Soon, Dr. James Connors, the lead doctor for the surgery,
-arrived. He confirmed that I'll be getting my left side teeth removed
-and that I've opted in to laughing gas and local anesthesia.
+Soon, [Dr. James
+Connors](https://totalhealthdentalcare.com/james-connors), the lead
+doctor for the surgery, arrived. He confirmed that I'll be getting my
+left side teeth removed and that I've opted in to laughing gas and
+local anesthesia.
 
 He said I should expect a day of bleeding, a week of pain, and a month
 of healing.
@@ -125,3 +134,73 @@ prescriptions I received were as follows:
 
 The fourth prescription was marked pending as a
 confirmation/clarification was needed from the prescribing doctor.
+
+## Bleeding and gauze changes
+
+### Bleeding prior to my return home
+
+Shortly before arriving at the Walgreens for the first trip (coming
+straight from the Rotunda Treatment Center), I experienced a bit of
+drooling. I wiped the drool off with a tissue, then masked up before
+entering the Walgreens. While in line at the Walgreens, I experienced
+more drooling; this time the drooling was harder to control and it
+just landed inside my mask. It didn't feel too bad or painful (my
+local anesthesia had still not worn off) but when I exited the
+Walgreens and took off my mask, I saw blood on the nose bridge. I also
+saw bloody saliva dripping down my neck and a bit of it on my
+sweatshirt. I masked up again to prevent blood falling around, then
+got back home.
+
+### Gauze changes at home
+
+By the time I got a chance to change my gauze, it was about 2:45 PM,
+it had been about an hour since my first gauze (as applied in the
+operating room) and I hadn't had a chance to change because I had not
+gotten back home. I hastily unpacked the gauzes provided and switched
+my gauze. In my haste, I did not read/remember the instructions
+carefully so I also spat out some blood beyond just drooling it out.
+
+I then did two more changes of gauze over the nezt 45 minutes: At
+around 3:30 PM, I was on my fourth gauze when I headed out. By this
+time I was getting the hang of it, drool out and clear the excess
+blood/saliva but try to not spit because the force of spitting can get
+in the way of blood clot formation.
+
+I had to throw out the mask I had used for my first trip, since it was
+bloody and messy. So I used a new mask.
+
+By around the time of my departure, of 3:30 PM, the anesthetic
+appeared to have worn off fully, at least in the sense that I was no
+longer feeling numb.
+
+### Return from second Walgreens trip
+
+When I came back from my second Walgreens trip around 4:45 PM, I found
+that the mask had only a slight stain, so I kept it around for further
+trips over the next day or two, though I expect to throw this one out
+after that as well.
+
+I then changed my gauze again, so I was now on my fifth gauze. But
+upon doing so I noticed that the pack that the Rotunda Treatment
+Center gave me had only one additional gauze left.
+
+### Third Walgreens trip to stock up on more gauze
+
+In panic about what might happen if I used up all my gauzes and the
+bleeding still hadn't stopped, I made another trip to Walgreens to buy
+more gauze. This time my trip wasn't to the pharmacy but the regular
+counter, so it was much quicker.
+
+## Consumption of medications
+
+### Pain medications on 2023-07-05 5 PM
+
+On 2023-07-05 around 5 PM, I had, along with water:
+
+* 1 tablet of hydrocodone / acetaminophen
+
+* 1 tablet of ibuprofen 800 mg
+
+I did not have the clindamycin just yet, as I wanted to have it once I
+was home for a more extended period of time, and possibly along with
+some food to replenish myself.
