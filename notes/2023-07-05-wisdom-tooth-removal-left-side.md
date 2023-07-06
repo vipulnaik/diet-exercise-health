@@ -313,6 +313,10 @@ Shortly after 10 PM, I applied the ice pack again for about 15 minutes.
 
 Around 1:20 AM, I applied the ice pack for a little over 10 minutes.
 
+#### Fourth application starting 2023-07-06 around 1:15 PM
+
+Around 1:15 PM, I applied the ice pack for about 15 minutes.
+
 ## Consumption of medications
 
 Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
