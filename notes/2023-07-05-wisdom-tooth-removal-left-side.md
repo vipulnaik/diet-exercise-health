@@ -146,7 +146,7 @@ confirmation/clarification was needed from the prescribing doctor.
 | 3 | 3:05 PM | 3:30 PM | 25 |
 | 4 | 3:30 PM | 4:45 PM | 75 |
 | 5 | 4:45 PM | 6:00 PM | 75 |
-| 6 | 6:00 PM | ?? | ?? |
+| 6 | 6:00 PM | 7:05 PM | 65 |
 
 ### Bleeding prior to my return home
 
@@ -209,6 +209,27 @@ PM. This time, I used one of the pieces of gauze that I had just
 purchased from Walgreens rather than the one the dentist gave me -- I
 wanted to leave the dentist's gauze for last and try the Walgreens one
 to see if it worked well.
+
+### Removal of sixth gauze
+
+Around 7:05 PM, I removed my sixth gauze and then kept no gauze inside
+for a while. Since heavy bleeding had stopped, I wanted to see if not
+having a gauze could help with clot formation faster. In any case I
+wanted to drink some soup with my antibiotics soon and I couldn't do
+that with a gauze, so I removed the gauze to see how bad the bleeding
+situation was.
+
+## Applicaion of ice pack
+
+### First application starting 2023-07-05 at 7:10 PM
+
+I applied my regular Wellbox ice pack starting 7:10 PM or so, shortly
+after removing my sixth gauze. Even though there wasn't any swelling
+yet, the online resources I had read suggested that applying an ice
+pack within the first 24 hours could help reduce the risk of swelling
+later, and it wasn't much use to apply it later after the swelling had
+already started. My plan is to apply the ice pack for 15-20 minutes at
+a time.
 
 ## Consumption of medications
 
