@@ -298,6 +298,10 @@ later, and it wasn't much use to apply it later after the swelling had
 already started. My plan is to apply the ice pack for 15-20 minutes at
 a time.
 
+### Second application starting 2023-07-05 around 10 PM
+
+Shortly after 10 PM, I applied the ice pack again for about 15 minutes.
+
 ## Consumption of medications
 
 ### Pain medications on 2023-07-05 5 PM
