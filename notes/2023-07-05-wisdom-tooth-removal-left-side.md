@@ -20,6 +20,7 @@ Sections of this document:
 * [Consumption of medications](#consumption-of-medications)
 * [Food](#food)
 * [Sleep](#sleep)
+* [Dental self-care](#dental-self-care)
 * [Communication challenges](#communication-challenges)
 
 ## Temperature readings
@@ -321,9 +322,9 @@ Around 1:15 PM, I applied the ice pack for about 15 minutes.
 
 Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
 -- | -- | -- | -- | --
-hydrocodone / acetaminophen | 10 | 3 | 6 hours | 2023-07-06 between 10:30 AM and 11:30 AM
-ibuprofen 800 mg | 20 | 3 | 6 hours | 2023-07-06 between 10:30 AM and 11:30 AM
-clindamycin | 28 | 3 | not explicit, but target 4 per day | 2023-07-06 between 10:30 AM and 11:30 AM
+hydrocodone / acetaminophen | 10 | 4 | 6 hours | 2023-07-06 around 6:45 PM
+ibuprofen 800 mg | 20 | 4 | 6 hours | 2023-07-06 around 6:45 PM
+clindamycin | 28 | 4 | not explicit, but target 4 per day | 2023-07-06 around 6:45 PM
 
 ### Pain medications on 2023-07-05 5 PM
 
@@ -359,6 +360,17 @@ On 2023-07-06 shortly after midnight, I had, along with water and the
 
 On 2023-07-06, between 10:30 AM and 11:30 AM, I had, along with water
 and the "cool liquid foods" meal I was having:
+
+* 1 capsule of clindamycin
+
+* 1 tablet of hydrocodone / acetaminophen
+
+* 1 tablet of ibuprofen 800 mg
+
+### All three medications on 2023-07-06 around 6:45 PM
+
+On 2023-07-06, around 6:45 PM, I had, along with water and my first
+"soft solid foods" meal I was having:
 
 * 1 capsule of clindamycin
 
@@ -404,6 +416,20 @@ format of the meal was very similar to my first two meals. One
 difference was that along with this meal, in addition to my
 medications, I also took my daily supplements.
 
+### Soft solid food for dinner on 2023-07-06 between 6 PM and 7 PM
+
+I had a meal of soft solid food around 6 PM on 2023-07-06. The items in the meal include:
+
+* Cut and cooked potatoes from Tuesday (not literally mashed, but still fairly soft)
+* Cooked peas from Tuesday
+* Mixed vegetables cooked on Tuesday
+
+In addition, I continued to mix in almond milk and miso soup. I did
+not include tomato soup this time as tomatoes were in any case part of
+the mixed vegetables so adding tomato soup as well would be overkill.
+
+I mixed the medications in near the end of the meal, around 6:45 PM.
+
 ## Sleep
 
 ### Sleep at night on 2023-07-05 (or rather, past midnight on 2023-07-06)
@@ -429,6 +455,29 @@ around 9:10 AM.
 
 Despite having spent most of the night sleeping on my right side, I
 did not feel any pain on my right side.
+
+## Dental self-care
+
+### First saltwater rinse on 2023-07-06 around 3:30 PM
+
+I did not brush, rinse, or floss for around 26 hours after the wisdom
+tooth removal. I finally did a saltwater rinse on 2023-07-06 around
+3:30 PM. This followed recommendations to not brush, rinse, or floss
+for the first day after the wisdom tooth removal.
+
+After the saltwater rinse, I also washed my glass, as I'd been
+drinking water from it along with having a bunch of cool liquid foods,
+and I wanted my future water-drinking to have a fresh feel.
+
+### Regular saltwater rinse and flossing around 7:15 PM on 2023-07-06 after dinner
+
+After finishing my dinner on 2023-07-06 between 6 PM and 7 PM, I
+proceeded to do the usual post-dinner dental care, with slight tweaks.
+
+I did my saltwater rinse first. After that, I flossed my teeth using
+the floss pick. However, I left out the area near the wisdom teeth and
+the vicinity (about 2 of the surviving teeth each on the upper and
+lower left side).
 
 ## Communication challenges
 
