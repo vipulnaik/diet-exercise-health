@@ -456,6 +456,19 @@ around 9:10 AM.
 Despite having spent most of the night sleeping on my right side, I
 did not feel any pain on my right side.
 
+### Sleep at night on 2023-07-06 (or rather, past midnight on 2023-07-07)
+
+I went to sleep around 2:30 AM on 2023-07-07, and got up around 9
+AM. For the entire duration, I slept on my right side. I did not
+elevate my pillow as much as last time, so other than sleeping only on
+my right side, this was a normal sleep for me.
+
+The reason for sleeping so late was to continue to put a decent gap
+between time of surgery and the time of sleep. However, beyond 2 days,
+I expect this consideration to be minimal. So, I expect to return to an
+earlier sleep / earlier wake-up pattern starting the night of Friday
+2023-07-07.
+
 ## Dental self-care
 
 ### First saltwater rinse on 2023-07-06 around 3:30 PM
@@ -498,6 +511,13 @@ included in my spit, which might have been some food/drink remains or
 might have been a bit of dried blood. There was no sensation of
 bleeding and overall no discomfort or pain during or immediately after
 brushing.
+
+### Second brushing of my teeth around 10:30 AM on 2023-07-07
+
+On 2023-07-07, about an hour after waking up and before having any
+food, I brushed my teeth. This was my second time brushing my teeth
+since the operation. This time, I brushed a little bit closer to the
+region operated on, but was still very gentle around the area.
 
 ## Communication challenges
 
