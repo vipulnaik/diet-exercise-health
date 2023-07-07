@@ -474,10 +474,30 @@ and I wanted my future water-drinking to have a fresh feel.
 After finishing my dinner on 2023-07-06 between 6 PM and 7 PM, I
 proceeded to do the usual post-dinner dental care, with slight tweaks.
 
-I did my saltwater rinse first. After that, I flossed my teeth using
+I did my saltwater rinse first. I took care to not spit out forcefully
+but just let the accumulated spit fall with gravity.
+
+After that, I flossed my teeth using
 the floss pick. However, I left out the area near the wisdom teeth and
 the vicinity (about 2 of the surviving teeth each on the upper and
 lower left side).
+
+### First brushing of my teeth around 12:40 AM on 2023-07-07
+
+On 2023-07-07 around 12:40 AM, about five hours after I had rinsed and
+flossed, I brushed my teeth for the first time since the wisdom tooth
+removal operation. The gap from the wisdom tooth removal to the first
+brushing was about 35 hours.
+
+I took care to not brush in the wisdom tooth area, and overall was a
+little gentler with my strokes. I also tried to not spit out too
+vigorously.
+
+The only somewhat unusual thing was a small amount of dark stuff
+included in my spit, which might have been some food/drink remains or
+might have been a bit of dried blood. There was no sensation of
+bleeding and overall no discomfort or pain during or immediately after
+brushing.
 
 ## Communication challenges
 
