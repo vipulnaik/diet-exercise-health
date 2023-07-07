@@ -322,9 +322,9 @@ Around 1:15 PM, I applied the ice pack for about 15 minutes.
 
 Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
 -- | -- | -- | -- | --
-hydrocodone / acetaminophen | 10 | 4 | 6 hours | 2023-07-06 around 6:45 PM
-ibuprofen 800 mg | 20 | 4 | 6 hours | 2023-07-06 around 6:45 PM
-clindamycin | 28 | 4 | not explicit, but target 4 per day | 2023-07-06 around 6:45 PM
+hydrocodone / acetaminophen | 10 | 5 | 6 hours | 2023-07-07 around 11:15 AM
+ibuprofen 800 mg | 20 | 5 | 6 hours | 2023-07-07 around 11:15 AM
+clindamycin | 28 | 5 | not explicit, but target 4 per day | 2023-07-07 around 11:15 AM
 
 ### Pain medications on 2023-07-05 5 PM
 
@@ -370,7 +370,7 @@ and the "cool liquid foods" meal I was having:
 ### All three medications on 2023-07-06 around 6:45 PM
 
 On 2023-07-06, around 6:45 PM, I had, along with water and my first
-"soft solid foods" meal I was having:
+"soft solid food" meal I was having:
 
 * 1 capsule of clindamycin
 
@@ -378,9 +378,17 @@ On 2023-07-06, around 6:45 PM, I had, along with water and my first
 
 * 1 tablet of ibuprofen 800 mg
 
+### No more further notes
+
+I expect to take the medications with every meal. I'll continue to
+update the table at the beginning of this section with my number
+consumed and latest consumption, but will stop recording notes for
+each round of medication consumption as it's predictable and
+repetitive.
+
 ## Food
 
-### Cool liquid foods for dinner on 2023-07-05 around 8 PM to 9 PM
+### Cool liquid food for dinner on 2023-07-05 around 8 PM to 9 PM
 
 I had a slow dinner with cool liquid foods on 2023-07-05 starting a
 little before 8 PM and ending a little after 9 PM. This was my first
@@ -402,7 +410,7 @@ better.
 
 I did not do any brushing, rinsing, or flossing after the meal.
 
-### Cool liquid foods for second dinner on 2023-07-06 from shortly after midnight to about 1 AM
+### Cool liquid food for second dinner on 2023-07-06 from shortly after midnight to about 1 AM
 
 I had another slow meal of cool liquid foods, starting a little after
 midnight on 2023-07-06 and ending a little after 1 AM. The composition
@@ -429,6 +437,13 @@ not include tomato soup this time as tomatoes were in any case part of
 the mixed vegetables so adding tomato soup as well would be overkill.
 
 I mixed the medications in near the end of the meal, around 6:45 PM.
+
+### Soft solid food for breakfast/brunch on 2023-07-07 between 11 AM and 12 PM
+
+I had a meal of soft solid food starting 11 AM on 2023-07-07. The
+composition and format of the meal was similar to that of my previous
+dinner. I also took my daily supplements as well as prescribed
+medications along with this meal.
 
 ## Sleep
 
@@ -518,6 +533,12 @@ On 2023-07-07, about an hour after waking up and before having any
 food, I brushed my teeth. This was my second time brushing my teeth
 since the operation. This time, I brushed a little bit closer to the
 region operated on, but was still very gentle around the area.
+
+### No further notes
+
+Starting 2023-07-07 I plan to do regular brushing, flossing, and
+rinsing, while still being gentle and careful near the removed wisdom
+teeth. I won't record further notes.
 
 ## Communication challenges
 
