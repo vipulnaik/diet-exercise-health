@@ -323,8 +323,8 @@ Around 1:15 PM, I applied the ice pack for about 15 minutes.
 Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
 -- | -- | -- | -- | --
 hydrocodone / acetaminophen | 10 | 5 | 6 hours | 2023-07-07 around 11:15 AM
-ibuprofen 800 mg | 20 | 5 | 6 hours | 2023-07-07 around 11:15 AM
-clindamycin | 28 | 5 | not explicit, but target 4 per day | 2023-07-07 around 11:15 AM
+ibuprofen 800 mg | 20 | 6 | 6 hours | 2023-07-07 around 5:15 PM
+clindamycin | 28 | 6 | not explicit, but target 4 per day | 2023-07-07 around 5:15 PM
 
 ### Pain medications on 2023-07-05 5 PM
 
@@ -444,6 +444,13 @@ I had a meal of soft solid food starting 11 AM on 2023-07-07. The
 composition and format of the meal was similar to that of my previous
 dinner. I also took my daily supplements as well as prescribed
 medications along with this meal.
+
+### Soft solid food for dinner on 2023-07-07 between 5 PM and 6 PM
+
+I had a meal of soft solid good starting 5 PM on 2023-07-07. The
+composition and format of the meal was similar to my previous two
+meals. I took two of the medications (ibuprofen and clindamycin)
+skipping acetaminophen + hydrocodone.
 
 ## Sleep
 
