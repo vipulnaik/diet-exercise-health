@@ -32,7 +32,8 @@ Date and time | Significance | Temperature reading
 2023-07-06 9:15 AM | After waking up the next day | 97.8 (measured twice)
 2023-07-08 5 AM | Waking up in the middle of my sleep for urination and failed attempt to pass stool | 98.3
 2023-07-08 9:30 AM | After properly waking up and urinating but before passing stool | 98.6
-2023-07-08 10:36 AM | After successfully passing stool and spending some time on the computer
+2023-07-08 10:36 AM | After successfully passing stool and spending some time on the computer | 98.2
+2023-07-08 3:10 PM | After having a meal including the medications | 98.8 (high fluctuation between readings but the central forehead gave 98.8 across multiple readings)
 
 ## Preparations the previous two days
 
@@ -325,9 +326,9 @@ Around 1:15 PM, I applied the ice pack for about 15 minutes.
 
 Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
 -- | -- | -- | -- | --
-hydrocodone / acetaminophen | 10 | 5 | 6 hours | 2023-07-07 around 11:15 AM
-ibuprofen 800 mg | 20 | 6 | 6 hours | 2023-07-07 around 5:15 PM
-clindamycin | 28 | 6 | not explicit, but target 4 per day | 2023-07-07 around 5:15 PM
+hydrocodone / acetaminophen | 10 | 6 | 6 hours | 2023-07-08 around 1:30 PM
+ibuprofen 800 mg | 20 | 6 | 6 hours | 2023-07-08 around 1:30 PM
+clindamycin | 28 | 6 | not explicit, but target 4 per day | 2023-07-08 around 1:30 PM
 
 ### Pain medications on 2023-07-05 5 PM
 
@@ -455,6 +456,22 @@ composition and format of the meal was similar to my previous two
 meals. I took two of the medications (ibuprofen and clindamycin)
 skipping acetaminophen + hydrocodone.
 
+### Almost normal food for lunch 2023-07-08 1:30 PM to 2:30 PM
+
+At 1:30 PM, I had lunch. Unlike with previous meals, this time I
+included whole wheat tortillas as part of my meal, thereby also
+reducing the amount of potatoes that I had in this meal. Along with
+the food, I took all three medications (ibuprofen, acetaminophen +
+hydrocodone, clindamycin).
+
+I also took a temperature measurement after the meal, coming to 98.8
+degrees Fahrenheit for my central forehead. After the temperature
+measurement, I felt like my heart was beating fast, so I tried to
+measure my pulse to get a crude estimate of my heart rate. My rough
+measure came to around 80 beats per minute, i.e., well under the
+official threshold for tachycardia (of 100 beats per minute), but
+likely higher than *my* average.
+
 ## Sleep
 
 ### Sleep at night on 2023-07-05 (or rather, past midnight on 2023-07-06)
@@ -577,18 +594,19 @@ fact different symptoms may correspond to different explanations:
   * Hydrocodone acetaminophen (note that hydrocodone is an opioid)
     seems to be implicated in bradycardia (slow heart rate) and
     perhaps also in tachycardia. Basically it does interfere with
-    heart functioning. I'm thinking I will stop taking this as I have
-    not experienced any pain so far in the surgery site.
+    heart functioning. I initially thought I will stop taking this as
+    I have not experienced any pain so far in the surgery site, but
+    then I decided to continue taking it for now.
 
   * Ibuprofen has been implicated in heart issues, though not
     specifically in tachycardia. In fact, ibuprofen is expected to
-    slow heart rate.
+    slow heart rate. I've decided to continue taking it for now.
 
   * Clindamycin has been implicated in tachycardia; see
     e.g. [here](https://www.mayoclinic.org/drugs-supplements/clindamycin-oral-route/side-effects/drg-20110243)
     that lists "fast heartbeat". I feel inclined to stop it; however,
     the directions for the antibiotic suggest taking the full course
-    if I start it.
+    if I start it. I've decided to continue taking it for now.
 
 * Reduced exercise: I haven't exercised since Tuesday, though I did do
   a bunch of physical exertion on Tuesday and Wednesday. The lack of
