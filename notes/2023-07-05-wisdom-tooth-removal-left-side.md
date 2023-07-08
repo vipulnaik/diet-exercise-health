@@ -34,6 +34,7 @@ Date and time | Significance | Temperature reading
 2023-07-08 9:30 AM | After properly waking up and urinating but before passing stool | 98.6
 2023-07-08 10:36 AM | After successfully passing stool and spending some time on the computer | 98.2
 2023-07-08 3:10 PM | After having a meal including the medications | 98.8 (high fluctuation between readings but the central forehead gave 98.8 across multiple readings)
+2023-07-08 3:25 PM | After doing a little bit of relaxation to lower my heart rate and tempeature | 98.2 (two readings), 98.4 (one reading)
 
 ## Preparations the previous two days
 
@@ -471,6 +472,14 @@ measure my pulse to get a crude estimate of my heart rate. My rough
 measure came to around 80 beats per minute, i.e., well under the
 official threshold for tachycardia (of 100 beats per minute), but
 likely higher than *my* average.
+
+I did some EFT tapping and relaxed breathing for a little while and
+then re-measured my heart rate around 3:25 PM; this time I got a rate
+closer to 60 beats per minute. So perhaps the spike in heart rate was
+temporary; nonetheless it happening right after taking food +
+medications suggests that it's something in the food + medications,
+and my guess is it's the antibiotic (clindamycin). I also re-measured
+my temperature and got 98.2 / 98.4.
 
 ## Sleep
 
