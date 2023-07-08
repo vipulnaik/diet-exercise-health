@@ -30,6 +30,9 @@ Date and time | Significance | Temperature reading
 2023-07-05 12 PM | Right before leaving for operation | 98.2
 2023-07-05 6:30 PM | After finishing all trips for the day | Three readings: 98.2, 97.8, 98.0
 2023-07-06 9:15 AM | After waking up the next day | 97.8 (measured twice)
+2023-07-08 5 AM | Waking up in the middle of my sleep for urination and failed attempt to pass stool | 98.3
+2023-07-08 9:30 AM | After properly waking up and urinating but before passing stool | 98.6
+2023-07-08 10:36 AM | After successfully passing stool and spending some time on the computer
 
 ## Preparations the previous two days
 
@@ -490,6 +493,115 @@ between time of surgery and the time of sleep. However, beyond 2 days,
 I expect this consideration to be minimal. So, I expect to return to an
 earlier sleep / earlier wake-up pattern starting the night of Friday
 2023-07-07.
+
+### Fitful sleep on the night of 2023-07-07
+
+I went to sleep around 11:45 PM on 2023-07-07, moving my sleep time
+closer to normal after staying up late for the first two days. I
+experienced some bad symptoms, none of them seemingly directly related
+to the area of surgery.
+
+* Even before going to bed, I felt a little colder than usual. The
+  ambient night temperature of about 61 degrees fahrenheit / 16
+  degrees celsius was a little lower than comparable night
+  temperatures of the past few days, so it wasn't clear how much this
+  was just an objective read of the environment.
+
+* After a little while in bed, I felt I had some form of tachycardia,
+  i.e., my heart was beating faster than usual, even though there
+  didn't seem to be any mental/emotional source of excitement that
+  could be driving it.
+
+* I also felt like my stomach was heavy and a bit cramped.
+
+I continued to sleep, only on my right side.
+
+I woke up around 5 AM, urinated, and tried but failed to pass stool. I
+also noticed that I had drooled a bit in my sleep -- something I
+hadn't done in the last two days, though there had been some past
+incidents of drooling. I took another temperature reading and it came
+to 98.3. I also noticed that when trying and failing to pass stool, my
+left leg went to sleep, though I was able to get it back to normal
+within a few seconds of getting back up on my feet.
+
+I switched my pillow side and went to sleep. Around 6 AM, on a hunch,
+I decided to switch to sleeping on my left side. Correlation isn't
+obviously causation, but it did seem like allowing myself to make that
+switch was helpful to my comfort level.
+
+I was still a bit sleepy (though gradually waking up) when the 8:45 AM
+alarm rung. After I stopped the alarm, I slept in for another 30
+minutes or so, then woke up properly. I urinated, then took another
+temperature reading; this one came to 98.6 degrees Fahrenheit. I then
+did some morning checks (email, messages, Slack, etc.) then
+successfully passed stool. Again, my left leg went to sleep while
+passing stool, but this effect was less extreme than the time I tried
+and failed to pass stool earlier in the day.
+
+After passing stool and spending some time on my computer, I took
+another temperature reading and it came to 98.0. By this time I was
+feeling normal as well.
+
+#### Possible explaantions
+
+There are several possibilities to explain the various symptoms; in
+fact different symptoms may correspond to different explanations:
+
+* Food: The composition and format of my food is different from usual,
+  and this could be affecting my stomach. In particular, I've noticed
+  that increasing my potato consumption and miso soup consumption has
+  led to very minor stomach cramps before, so the even more
+  significant increase to these two in the last few days could explain
+  the stomach side of things.
+
+  More specifically, my food differs from usual in these respects:
+
+  * More protein than usual: I've been having a bunch of potatoes,
+    peas, and almond milk, more than usual; all of these have a bunch
+    of protein (particularly the peas).
+
+  * Fewer carbohydrates than usual: My only carbohydrate-heavy food of
+    late has been potatoes. I haven't had wheat or rice recently.
+
+  * More salt: I had a lot of tomato soup, which has a bit of salt
+    mixed into it. While not significant at the quantities I used to
+    have it previously, I did have a bunch more now. Salt should
+    allegedly reduce heart rate and increase blood pressure, and I
+    felt I had increased heart rate -- but I didn't actually measure
+    my heart rate so it's possible I misunderstood the symptom
+    directionally.
+
+* Medications: The medications seem to be a likely culprit
+  particularly for hitherto unseen symptoms. In particular:
+
+  * Hydrocodone acetaminophen (note that hydrocodone is an opioid)
+    seems to be implicated in bradycardia (slow heart rate) and
+    perhaps also in tachycardia. Basically it does interfere with
+    heart functioning. I'm thinking I will stop taking this as I have
+    not experienced any pain so far in the surgery site.
+
+  * Ibuprofen has been implicated in heart issues, though not
+    specifically in tachycardia. In fact, ibuprofen is expected to
+    slow heart rate.
+
+  * Clindamycin has been implicated in tachycardia; see
+    e.g. [here](https://www.mayoclinic.org/drugs-supplements/clindamycin-oral-route/side-effects/drg-20110243)
+    that lists "fast heartbeat". I feel inclined to stop it; however,
+    the directions for the antibiotic suggest taking the full course
+    if I start it.
+
+* Reduced exercise: I haven't exercised since Tuesday, though I did do
+  a bunch of physical exertion on Tuesday and Wednesday. The lack of
+  exercise might have affected my metabolism somewhat.
+
+* Slightly less sleep than usual: I stayed up late on Wednesday and
+  Thursday night, while still getting up not correspondingly late. I
+  don't think this was extreme, but it's possible that it contributed
+  a bit to symptoms.
+
+* Sleeping only on my right side: This might have somehow affected the
+  balance of my body. Subjectively, I felt much better this night
+  after allowing myself to sleep on my left side.
 
 ## Dental self-care
 
