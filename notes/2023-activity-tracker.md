@@ -152,3 +152,10 @@ trip to Walgreens to stock up on a few items.
 In the early afternoon, I went for my wisdom tooth removal (left side)
 appointment. Details are in
 [2023-07-05-wisdom-tooth-removal-left-side.md](2023-07-05-wisdom-tooth-removal-left-side.md).
+
+## Saturday July 8
+
+In the evening, I went to the Amazon Hub Locker at the ASUC Student
+Union to pick up a package. I was done shortly before the weekend
+closing time of 5 PM. After that, I made my usual food purchases
+recorded at [food_purchases.sql](../sql/food_purchases.sql).
