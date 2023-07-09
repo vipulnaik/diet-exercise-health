@@ -21,7 +21,7 @@ Sections of this document:
 * [Food](#food)
 * [Sleep](#sleep)
 * [Dental self-care](#dental-self-care)
-* [Communication challenges](#communication-challenges)
+* [Other notes](#other-notes)
 
 ## Temperature readings
 
@@ -725,9 +725,19 @@ spit. It didn't look like there was active bleeding, so this is
 probably fine, but I should probably refrain from brushing around the
 area of the wisdom teeth for another 3-4 days.
 
-## Communication challenges
+## Other notes
+
+### Communication challenges on 2023-07-05
 
 I had difficulty talking while the gauze was still in my mouth, which
 was the case for my three Walgreens trips on the afternoon of
 2023-07-05. I used hand gestures, nodding and shaking, and brief
 verbal statements to communicate my intent.
+
+### Additional stool on afternoon of 2023-07-09
+
+I had an additional stool (in addition to my regular morning stool) on
+the afternoon of Sunday 2023-07-09 around 2 PM. This was a more liquid
+stool and I suspect that it's a reset to catch up since I didn't pass
+stool on 2023-07-06 (the day right after the operation) and I had a
+heavily liquid diet on 2023-07-05 and 2023-07-06.
