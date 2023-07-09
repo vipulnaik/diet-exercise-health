@@ -481,6 +481,13 @@ medications suggests that it's something in the food + medications,
 and my guess is it's the antibiotic (clindamycin). I also re-measured
 my temperature and got 98.2 / 98.4.
 
+### Udupi Palace food on 2023-07-08 at 6:30 PM
+
+I had a takeout meal of spinach masala dosa from Udupi Palace on
+2023-07-08 at 6:30 PM. This was my typical takeout from Udupi
+Palace. I had a Vitamin C tablet but none of my other supplements and
+medications with this meal.
+
 ## Sleep
 
 ### Sleep at night on 2023-07-05 (or rather, past midnight on 2023-07-06)
@@ -568,7 +575,7 @@ After passing stool and spending some time on my computer, I took
 another temperature reading and it came to 98.0. By this time I was
 feeling normal as well.
 
-#### Possible explaantions
+#### Possible explanations
 
 There are several possibilities to explain the various symptoms; in
 fact different symptoms may correspond to different explanations:
