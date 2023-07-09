@@ -691,7 +691,16 @@ region operated on, but was still very gentle around the area.
 
 Starting 2023-07-07 I plan to do regular brushing, flossing, and
 rinsing, while still being gentle and careful near the removed wisdom
-teeth. I won't record further notes.
+teeth. I won't record further notes unless something unusual happens.
+
+### Slight blood spit when brushing at night on 2023-07-08
+
+When brushing at night on 2023-07-08, more than 72 hours after the
+surgery, I brushed a little bit in the area of the wisdom teeth. When
+I spat out after that (not forcefully) there was a bit of blood in the
+spit. It didn't look like there was active bleeding, so this is
+probably fine, but I should probably refrain from brushing around the
+area of the wisdom teeth for another 3-4 days.
 
 ## Communication challenges
 
