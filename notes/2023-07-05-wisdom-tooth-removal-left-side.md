@@ -488,6 +488,12 @@ I had a takeout meal of spinach masala dosa from Udupi Palace on
 Palace. I had a Vitamin C tablet but none of my other supplements and
 medications with this meal.
 
+### No further notes unless something unusual happens
+
+I will stop recording notes for every meal. I will still record if
+anything unusual happens that seems related to actions I've taken in
+connection with wisdom tooth removal.
+
 ## Sleep
 
 ### Sleep at night on 2023-07-05 (or rather, past midnight on 2023-07-06)
@@ -637,6 +643,21 @@ fact different symptoms may correspond to different explanations:
   balance of my body. Subjectively, I felt much better this night
   after allowing myself to sleep on my left side.
 
+### Reasonably normal sleep on 2023-07-08 night
+
+On 2023-07-08, I went to sleep a little after midnight, and woke up a
+little after 10 AM (I was semi-awake before then, but decided to sleep
+in a bit as I didn't need to wake up). I think I'm now having a normal
+sleep pattern, sleeping on both sides, and also that I caught up a
+slight sleep backlog from the past few days.
+
+### No more notes until something unusual happens
+
+I won't record further notes regarding my sleep unless something
+unusual happens. If something unusual happens that seems plausibly
+related to the actions taken in connection with my wisdom tooth
+removal, I will record them here.
+
 ## Dental self-care
 
 ### First saltwater rinse on 2023-07-06 around 3:30 PM
@@ -687,11 +708,13 @@ food, I brushed my teeth. This was my second time brushing my teeth
 since the operation. This time, I brushed a little bit closer to the
 region operated on, but was still very gentle around the area.
 
-### No further notes
+### No further notes unless something unusual happens
 
 Starting 2023-07-07 I plan to do regular brushing, flossing, and
 rinsing, while still being gentle and careful near the removed wisdom
-teeth. I won't record further notes unless something unusual happens.
+teeth. I won't record further notes unless something unusual happens
+that seems related to actions taken in connection with the wisdom
+tooth removal.
 
 ### Slight blood spit when brushing at night on 2023-07-08
 
