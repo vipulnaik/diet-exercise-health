@@ -788,6 +788,11 @@ PM, but stayed in bed for an hour continuing to relax. At around 12:50
 PM, I took my temperature readings again, getting stuff in the range
 of 98.1 to 98.5. Then I got out of bed.
 
+I caught up with a few things then had my first meal of the day
+starting a little before 3 PM and ending around 3:30 PM. After
+wrapping up post-meal, I had a watery stool. I returned to my computer
+around 4:30 PM.
+
 [Clindamycin
 side-effects](https://www.drugs.com/sfx/clindamycin-side-effects.html)
 suggests that side-effects of the sort I'm seeing are common (1% to
