@@ -787,3 +787,12 @@ I went back to bed around 8:10 AM. I sort-of-got-up again around 11:45
 PM, but stayed in bed for an hour continuing to relax. At around 12:50
 PM, I took my temperature readings again, getting stuff in the range
 of 98.1 to 98.5. Then I got out of bed.
+
+[Clindamycin
+side-effects](https://www.drugs.com/sfx/clindamycin-side-effects.html)
+suggests that side-effects of the sort I'm seeing are common (1% to
+10%) and are expected to resolve in a few days.
+
+I'm thinking of calling the doctor's office tomorrow with an update on
+the situation, especially if it hasn't gotten better, but possibly
+even if it has, to provide them further data points on side-effects.
