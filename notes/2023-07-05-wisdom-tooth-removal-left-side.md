@@ -38,6 +38,7 @@ Date and time | Significance | Temperature reading
 2023-07-08 3:25 PM | After doing a little bit of relaxation to lower my heart rate and tempeature | 98.2 (two readings), 98.4 (one reading)
 2023-07-10 7:30 AM | Feeling unwell in the morning, taking temperature reading for benchmarking | 98.6, 98.8, 98.9, 99.1 (not in order, different points on forehead a few seconds apart)
 2023-07-10 12:50 PM | Followup reading after resting for a few hours | 98.5, 98.1, 98.4, 98.3 (different points on forehead a few seconds apart)
+2023-07-10 4:38 PM | Followup reading after watery stool | 98.1, 98.4, 98.2 (different points on forehead a few seconds apart)
 
 ## Preparations the previous two days
 
@@ -792,6 +793,9 @@ I caught up with a few things then had my first meal of the day
 starting a little before 3 PM and ending around 3:30 PM. After
 wrapping up post-meal, I had a watery stool. I returned to my computer
 around 4:30 PM.
+
+I took my temperature reading around 4:38 PM. I got readings in the
+range of 98.1 to 98.4.
 
 [Clindamycin
 side-effects](https://www.drugs.com/sfx/clindamycin-side-effects.html)
