@@ -796,3 +796,7 @@ suggests that side-effects of the sort I'm seeing are common (1% to
 I'm thinking of calling the doctor's office tomorrow with an update on
 the situation, especially if it hasn't gotten better, but possibly
 even if it has, to provide them further data points on side-effects.
+
+I should also consider reporting the side-effects to
+[MedWatch](https://www.accessdata.fda.gov/scripts/medwatch/index.cfm)
+to contribute my bit to the statistics.
