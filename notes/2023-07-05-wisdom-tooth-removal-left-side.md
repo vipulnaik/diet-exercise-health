@@ -36,7 +36,8 @@ Date and time | Significance | Temperature reading
 2023-07-08 10:36 AM | After successfully passing stool and spending some time on the computer | 98.2
 2023-07-08 3:10 PM | After having a meal including the medications | 98.8 (high fluctuation between readings but the central forehead gave 98.8 across multiple readings)
 2023-07-08 3:25 PM | After doing a little bit of relaxation to lower my heart rate and tempeature | 98.2 (two readings), 98.4 (one reading)
-2023-07-10 7:30 AM | 98.6, 98.8, 98.9, 99.1 (not in order, different points on forehead a few seconds apart)
+2023-07-10 7:30 AM | Feeling unwell in the morning, taking temperature reading for benchmarking | 98.6, 98.8, 98.9, 99.1 (not in order, different points on forehead a few seconds apart)
+2023-07-10 12:50 PM | Followup reading after resting for a few hours | 98.5, 98.1, 98.4, 98.3 (different points on forehead a few seconds apart)
 
 ## Preparations the previous two days
 
@@ -781,3 +782,8 @@ others' workflows.
 
 I took a set of temperature readings and they came in the 98.6-99.1
 range, suggesting a slight fever.
+
+I went back to bed around 8:10 AM. I sort-of-got-up again around 11:45
+PM, but stayed in bed for an hour continuing to relax. At around 12:50
+PM, I took my temperature readings again, getting stuff in the range
+of 98.1 to 98.5. Then I got out of bed.
