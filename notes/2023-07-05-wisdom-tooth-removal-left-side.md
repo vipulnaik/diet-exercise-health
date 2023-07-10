@@ -22,6 +22,7 @@ Sections of this document:
 * [Sleep](#sleep)
 * [Dental self-care](#dental-self-care)
 * [Other notes](#other-notes)
+* [Not feeling well on 2023-07-10](#not-feeling-well-on-2023-07-10)
 
 ## Temperature readings
 
@@ -35,6 +36,7 @@ Date and time | Significance | Temperature reading
 2023-07-08 10:36 AM | After successfully passing stool and spending some time on the computer | 98.2
 2023-07-08 3:10 PM | After having a meal including the medications | 98.8 (high fluctuation between readings but the central forehead gave 98.8 across multiple readings)
 2023-07-08 3:25 PM | After doing a little bit of relaxation to lower my heart rate and tempeature | 98.2 (two readings), 98.4 (one reading)
+2023-07-10 7:30 AM | 98.6, 98.8, 98.9, 99.1 (not in order, different points on forehead a few seconds apart)
 
 ## Preparations the previous two days
 
@@ -762,3 +764,20 @@ more I will start some additional precautions.
 See
 [here](https://www.medicalnewstoday.com/articles/326254#children-and-babies)
 for more details.
+
+## Not feeling well on 2023-07-10
+
+I had a reasonably good sleep at night on 2023-07-09, but on the
+morning of 2023-07-10 I got up around 5:30 to pass stool -- it was a
+looser motion than I am accustomed to. I then went back to sleep but
+had slight stomach cramps and also some chills, even more so than the
+slight chills I had experiened in previous days. Thinking it's better
+to be safe than sorry, I decided to execute on my sickness checklist
+for the day and rest in bed so as to have a smoother overall recovery.
+
+I got out of bed around 7:20 AM to start executing on my sickness
+checklist to be well-prepared to take the day off without disrupting
+others' workflows.
+
+I took a set of temperature readings and they came in the 98.6-99.1
+range, suggesting a slight fever.
