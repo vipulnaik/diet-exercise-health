@@ -741,3 +741,24 @@ the afternoon of Sunday 2023-07-09 around 2 PM. This was a more liquid
 stool and I suspect that it's a reset to catch up since I didn't pass
 stool on 2023-07-06 (the day right after the operation) and I had a
 heavily liquid diet on 2023-07-05 and 2023-07-06.
+
+### Resumption of exercise on 2023-07-09 / 2023-07-10
+
+I resumed jogging on 2023-07-09, about 100 hours after the
+operation. I expect to resume my weights and pushups on 2023-07-10. I
+had already done a few standing-on-one-leg-with-eyes-closed exercises
+the previous few days (inclduing on 2023-07-08).
+
+### Incident of watery flatulence on 2023-07-09
+
+I had one incident of watery flatulence on 2023-07-09 in the evening
+while walking back from my jog. I suspect this is related either to
+some mix of my heavily watery diet of late and my recent antibiotic
+consumption. I've reverted my diet to mostly normal, and stopped
+having the antibiotic and pain medications, so I expect this to not
+recur beyond the next few days. Nonetheless, if it happens even once
+more I will start some additional precautions.
+
+See
+[here](https://www.medicalnewstoday.com/articles/326254#children-and-babies)
+for more details.
