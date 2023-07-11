@@ -823,16 +823,24 @@ wasn't measuring in a reliable way. In any case I went back to sleep.
 I properly woke up at 11:15 AM, urinated, then spent some time on my
 computer. At 11:45 AM, I passed another round of stool.
 
-### Random investigation notes related to 2023-07-10 incident
+## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
 side-effects](https://www.drugs.com/sfx/clindamycin-side-effects.html)
 suggests that side-effects of the sort I'm seeing are common (1% to
 10%) and are expected to resolve in a few days.
 
-I'm thinking of calling the doctor's office tomorrow with an update on
-the situation, especially if it hasn't gotten better, but possibly
-even if it has, to provide them further data points on side-effects.
+My gut feeling (no pun intended) is that the antibiotic is basically
+out of my system was of noon 2023-07-11. However, to the extent that
+the antibiotic destroyed a bunch of bacteria that I use for digestion,
+the side-effects could last several more days. At least it shouldn't
+get *worse* now because the cause of damage is gone now, but it may
+not immediately get better. As of 2023-07-11 1 PM, I'm thinking I will
+monitor for one more day before planning a larger set of diet
+changes. Further advantage of waiting another day: in one day I'll be
+one week past the wisdom tooth removal time, which should be enough of
+a gap to free up some of the dietary constraints placed by the wisdom
+tooth removal.
 
 I should also consider reporting the side-effects to
 [MedWatch](https://www.accessdata.fda.gov/scripts/medwatch/index.cfm)
