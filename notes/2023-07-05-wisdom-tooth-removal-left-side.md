@@ -801,6 +801,28 @@ I did some light work for a few hours (including playing Chrome's Dino
 for a bit), then had dinner shortly after 7 PM. I was done with
 post-dinner wrap-up around 9 PM.
 
+I went to bed around 10:15 PM.
+
+## Not feeling well: update on 2023-07-11
+
+I got up around 3 AM and passed stool, that was still somewhat watery
+though not extremely so. After passing stool, I spent a bit of time on
+my computer (3:30 to 3:45)
+
+I then went back to bed.
+
+At around 7 AM, I experienced fast heartbeats and something like
+heartburn / palpitations, accompanied by unpleasant thoughts. I woke
+myself up enough to cut the link to unpleasant thoughts, after
+reminding myself that the symptoms were purely physical and that the
+unpleasant thoughts weren't true. I also took a bunch of temperature
+readings but they had a really wide range (97.6 to 101) suggesting
+that maybe my body temperature was fluctuating wildly or maybe I
+wasn't measuring in a reliable way. In any case I went back to sleep.
+
+I properly woke up at 11:15 AM, urinated, then spent some time on my
+computer. At 11:45 AM, I passed another round of stool.
+
 ### Random investigation notes related to 2023-07-10 incident
 
 [Clindamycin
