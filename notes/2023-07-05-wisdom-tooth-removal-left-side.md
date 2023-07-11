@@ -785,7 +785,7 @@ I took a set of temperature readings and they came in the 98.6-99.1
 range, suggesting a slight fever.
 
 I went back to bed around 8:10 AM. I sort-of-got-up again around 11:45
-PM, but stayed in bed for an hour continuing to relax. At around 12:50
+AM, but stayed in bed for an hour continuing to relax. At around 12:50
 PM, I took my temperature readings again, getting stuff in the range
 of 98.1 to 98.5. Then I got out of bed.
 
@@ -796,6 +796,12 @@ around 4:30 PM.
 
 I took my temperature reading around 4:38 PM. I got readings in the
 range of 98.1 to 98.4.
+
+I did some light work for a few hours (including playing Chrome's Dino
+for a bit), then had dinner shortly after 7 PM. I was done with
+post-dinner wrap-up around 9 PM.
+
+### Random investigation notes related to 2023-07-10 incident
 
 [Clindamycin
 side-effects](https://www.drugs.com/sfx/clindamycin-side-effects.html)
