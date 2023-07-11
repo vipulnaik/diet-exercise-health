@@ -39,6 +39,7 @@ Date and time | Significance | Temperature reading
 2023-07-10 7:30 AM | Feeling unwell in the morning, taking temperature reading for benchmarking | 98.6, 98.8, 98.9, 99.1 (not in order, different points on forehead a few seconds apart)
 2023-07-10 12:50 PM | Followup reading after resting for a few hours | 98.5, 98.1, 98.4, 98.3 (different points on forehead a few seconds apart)
 2023-07-10 4:38 PM | Followup reading after watery stool | 98.1, 98.4, 98.2 (different points on forehead a few seconds apart)
+2023-07-11 3:30 PM | Regular check-in reading | 98.4, 98.2, 98.3 (different points on forehead a few seconds apart)
 
 ## Preparations the previous two days
 
@@ -822,6 +823,16 @@ wasn't measuring in a reliable way. In any case I went back to sleep.
 
 I properly woke up at 11:15 AM, urinated, then spent some time on my
 computer. At 11:45 AM, I passed another round of stool.
+
+After doing some more work, I had food at around 1:30 PM. This time, I
+did not have any mixed vegetables (in any case, I had used up my
+cooked stock of them). I had just whole wheat tortilla + miso soup +
+potatoes + peas. I did not pass stool after this meal, unlike the last
+two days.
+
+At around 3:30 PM, about an hour after finished my meal, I took
+another set of temperature readings, getting 98.4, 98.2, and 98.3
+degrees Fahrenheit.
 
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
