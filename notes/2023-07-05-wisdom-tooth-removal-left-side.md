@@ -852,6 +852,19 @@ sleep. Around 7 AM I was having a somewhat unpleasant dream so I got
 up and did a bit of resetting, then went back to bed. I finally got
 out of bed a little before 9 AM and had another bowel movement.
 
+At around 11 AM, I went out to shop for some food that might be better
+suited for my situation. I first went to Berkeley Bowl; then I went to
+Tuk Tuk Thai to get rice. Details of what I purchased are in
+[food_purchases.sql](../sql/food_purchases.sql).
+
+After getting back home, I had a meal comprising some of the jasmine
+rice I had gotten from Tuk Tuk Thai and some of the cocojune I had
+gotten from Berkeley Bowl.
+
+The meal was fairly tasty; however, at the end of the meal I felt a
+little vomity. The feeling passed after a while after some time and
+after I had some more water.
+
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin

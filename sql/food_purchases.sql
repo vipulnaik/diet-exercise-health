@@ -1867,4 +1867,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-07-08','TJ Baby Spinach 6oz',2),
   ('2023-07-08','Alvarado Sprouted Wheat Tortillas',5),
   /* 2023-07-08 Udupi Place; total cost $14.28; order placed at 5:27 PM; paid by cash */
-  ('2023-07-08','Udupi Palace spinach masala dosa',1);
+  ('2023-07-08','Udupi Palace spinach masala dosa',1),
+  /* 2023-07-12 Berkeley Bowl; total cost $40.74; checkout at 11:49 AM; paid by debit card */
+  ('2023-07-12','Near East Couscous',1),
+  ('2023-07-12','Lundberg Organic California White Basmati Rice',2),
+  ('2023-07-12','Cocojune Organic Pure Coconut Dairy Free Yogurt',1),
+  ('2023-07-12','Kite Hill Unsweetened Plain Almond Milk Yogurt',2),
+  /* 2023-07-12 Tuk Tuk Thai; total cost $12.51; purchase around noon; paid by cash */
+  ('2023-07-12','Tuk Tuk Thai jasmine rice',3);
