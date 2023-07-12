@@ -834,6 +834,24 @@ At around 3:30 PM, about an hour after finished my meal, I took
 another set of temperature readings, getting 98.4, 98.2, and 98.3
 degrees Fahrenheit.
 
+Shortly before 5 PM, I started work on cutting potatoes for an unusual
+combination meal prep: potatoes, with a bit of spinach, carrots, and 1
+tomato. The idea was to try out a slightly different meal format in
+light of my stomach issues. I finished cooking and then finished
+eating and then finished cleaning a little after 8 PM.
+
+I then had a somewhat watery bowel movement and then went to sleep
+around 8:30 PM.
+
+## Update on 2023-07-12
+
+My sleep was mostly peaceful though occasionally fitful -- in
+particular, I got up around midnight to urinate, then had to sit up in
+bed for a few minutes, then went back to sleep and had a good
+sleep. Around 7 AM I was having a somewhat unpleasant dream so I got
+up and did a bit of resetting, then went back to bed. I finally got
+out of bed a little before 9 AM and had another bowel movement.
+
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
