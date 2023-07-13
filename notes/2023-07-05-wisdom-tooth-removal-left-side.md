@@ -878,6 +878,8 @@ didn't fully go back to sleep. I woke up around 7 AM again, checked
 email etc. from my phone, then passed stool and got ready to work on
 my computer.
 
+At around 9:10 AM, I needed to pass stool again.
+
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
