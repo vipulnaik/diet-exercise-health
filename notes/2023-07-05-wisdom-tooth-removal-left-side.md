@@ -869,6 +869,15 @@ At around 5:30 PM, I had dinner; this included jasmine rice and
 cocojune (coconut yogurt) as with my first meal of the day, but I also
 added a bit of my potatoes/spinach and a few peas.
 
+I went to sleep at about 8 PM.
+
+## Update on 2023-07-13
+
+I got up at around 5:30 AM to urinate, then went back to sleep but
+didn't fully go back to sleep. I woke up around 7 AM again, checked
+email etc. from my phone, then passed stool and got ready to work on
+my computer.
+
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
