@@ -858,12 +858,16 @@ Tuk Tuk Thai to get rice. Details of what I purchased are in
 [food_purchases.sql](../sql/food_purchases.sql).
 
 After getting back home, I had a meal comprising some of the jasmine
-rice I had gotten from Tuk Tuk Thai and some of the cocojune I had
-gotten from Berkeley Bowl.
+rice I had gotten from Tuk Tuk Thai and some of the cocojune (coconut
+yogurt) I had gotten from Berkeley Bowl.
 
 The meal was fairly tasty; however, at the end of the meal I felt a
 little vomity. The feeling passed after a while after some time and
 after I had some more water.
+
+At around 5:30 PM, I had dinner; this included jasmine rice and
+cocojune (coconut yogurt) as with my first meal of the day, but I also
+added a bit of my potatoes/spinach and a few peas.
 
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
