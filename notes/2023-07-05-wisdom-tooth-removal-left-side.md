@@ -880,6 +880,29 @@ my computer.
 
 At around 9:10 AM, I needed to pass stool again.
 
+I had my first meal of the day around 11:45 AM; I had the usual rice
+and vegan probiotic yogurts, and a little bit of tortilla, peas, and
+the potato-based mixed vegetables to test the waters with those. I
+then worked till about 4 PM (with breaks in between where I did my
+accumulated dishes), and then had my second and last meal of the day
+till about 5 PM. After that, I worked again.
+
+In the evening, around 8:45 PM, shortly before I was about to shut
+down, I had another incident of watery flatulence. This was less
+pronounced than the one that had happened on Sunday, and I didn't even
+realize until a little later that this had been an incident of watery
+flatulence.
+
+I initially tried going to sleep at 9:30 PM directly, but it was
+rather hot this evening so at 10 PM I ended up having a bath and then
+properly went to sleep at around 10:30 PM.
+
+## Update on 2023-07-14
+
+I got up at around 9:15 AM, feeling well-rested. Unlike many of the
+recent days, I did not have a fitful sleep. After getting up I passed
+stool; once again, this was watery.
+
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
