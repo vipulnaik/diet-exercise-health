@@ -1874,4 +1874,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-07-12','Cocojune Organic Pure Coconut Dairy Free Yogurt',1),
   ('2023-07-12','Kite Hill Unsweetened Plain Almond Milk Yogurt',2),
   /* 2023-07-12 Tuk Tuk Thai; total cost $12.51; purchase around noon; paid by cash */
-  ('2023-07-12','Tuk Tuk Thai jasmine rice',3);
+  ('2023-07-12','Tuk Tuk Thai jasmine rice',3),
+  /* 2023-07-15 Berkeley Bowl; total cost $43.93; checkout at 1:01 PM; paid by credit card */
+  ('2023-07-15','Cocojune Organic Pure Coconut Dairy Free Yogurt',3),
+  ('2023-07-15','Kite Hill Unsweetened Plain Almond Milk Yogurt',4);
