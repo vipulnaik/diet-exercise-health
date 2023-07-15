@@ -923,6 +923,9 @@ longer. I finally woke up fully around 10:20 AM. After spending about
 five minutes on my computer, I then passed stool, which was still
 somewhat watery.
 
+At 11:30 AM, I went for a quick follow-up stool (less than 5 minutes)
+that was likely due to my previous stool not being fully completed.
+
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
