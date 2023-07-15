@@ -907,7 +907,21 @@ I prepared basmati rice with cumin and ate it, along with Kite Hill
 yogurt and some of the mixed vegetables and peas, at around 2 PM.
 
 I had my dinner meal at around 6 PM, comprising the same items. I
-added a small amount of sauerkraut experimentally.
+added a small amount (slightly under 1 teaspoon) of sauerkraut
+experimentally.
+
+I was feeling fairly energetic so I continued working (on some
+relatively relaxed personal chores) till around 11 PM. Then I had a
+bath and went to sleep shortly before midnight.
+
+## Update on 2023-07-15
+
+I got up around 4:30 AM to urinate but then went back to sleep.
+
+I started feeling awake around 9 AM, but wanted to sleep in a little
+longer. I finally woke up fully around 10:20 AM. After spending about
+five minutes on my computer, I then passed stool, which was still
+somewhat watery.
 
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
