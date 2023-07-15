@@ -903,6 +903,12 @@ I got up at around 9:15 AM, feeling well-rested. Unlike many of the
 recent days, I did not have a fitful sleep. After getting up I passed
 stool; once again, this was watery.
 
+I prepared basmati rice with cumin and ate it, along with Kite Hill
+yogurt and some of the mixed vegetables and peas, at around 2 PM.
+
+I had my dinner meal at around 6 PM, comprising the same items. I
+added a small amount of sauerkraut experimentally.
+
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
