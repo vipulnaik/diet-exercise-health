@@ -776,7 +776,7 @@ I had a reasonably good sleep at night on 2023-07-09, but on the
 morning of 2023-07-10 I got up around 5:30 to pass stool -- it was a
 looser motion than I am accustomed to. I then went back to sleep but
 had slight stomach cramps and also some chills, even more so than the
-slight chills I had experiened in previous days. Thinking it's better
+slight chills I had experienced in previous days. Thinking it's better
 to be safe than sorry, I decided to execute on my sickness checklist
 for the day and rest in bed so as to have a smoother overall recovery.
 
