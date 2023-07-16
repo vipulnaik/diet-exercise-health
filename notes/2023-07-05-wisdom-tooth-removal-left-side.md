@@ -935,6 +935,19 @@ Around 4:30 PM, I started the process of preparing basmati rice. After
 soaking and cooking, it was ready a little before 6:30 PM, so I had my
 dinner then.
 
+I went to sleep around 11:30 PM.
+
+### 2023-07-16
+
+I was semi-awake around 8:23 AM, but decided to continue to sleep
+in. I finally got up around 10 AM, feeling well-rested. I did not wake
+up with an urgent need for a bowel movement; however, a few minutes
+after waking up, I did feel like passing a bowel movement.
+
+My bowel movement was not quite as watery as in the past few days,
+though still not quite as solid as it used to be before the onset of
+these issues.
+
 ### Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
