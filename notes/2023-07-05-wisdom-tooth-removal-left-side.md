@@ -926,6 +926,13 @@ somewhat watery.
 At 11:30 AM, I went for a quick follow-up stool (less than 5 minutes)
 that was likely due to my previous stool not being fully completed.
 
+I went out to Berkeley Bowl around 1 PM to get more yogurt. I had my
+first meal of the day around 1:30 PM.
+
+Around 4:30 PM, I started the process of preparing basmati rice. After
+soaking and cooking, it was ready a little before 6:30 PM, so I had my
+dinner then.
+
 ## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
