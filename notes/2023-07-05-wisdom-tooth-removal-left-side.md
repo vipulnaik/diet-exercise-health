@@ -22,7 +22,7 @@ Sections of this document:
 * [Sleep](#sleep)
 * [Dental self-care](#dental-self-care)
 * [Other notes](#other-notes)
-* [Not feeling well on 2023-07-10](#not-feeling-well-on-2023-07-10)
+* [Not feeling well starting 2023-07-10 likely due to antibiotic](#not-feeling-well-starting-2023-07-10-likely-due-to-antibiotic)
 
 ## Temperature readings
 
@@ -768,7 +768,9 @@ See
 [here](https://www.medicalnewstoday.com/articles/326254#children-and-babies)
 for more details.
 
-## Not feeling well on 2023-07-10
+## Not feeling well starting 2023-07-10 likely due to antibiotic
+
+### 2023-07-10
 
 I had a reasonably good sleep at night on 2023-07-09, but on the
 morning of 2023-07-10 I got up around 5:30 to pass stool -- it was a
@@ -804,7 +806,7 @@ post-dinner wrap-up around 9 PM.
 
 I went to bed around 10:15 PM.
 
-## Not feeling well: update on 2023-07-11
+### 2023-07-11
 
 I got up around 3 AM and passed stool, that was still somewhat watery
 though not extremely so. After passing stool, I spent a bit of time on
@@ -843,7 +845,7 @@ eating and then finished cleaning a little after 8 PM.
 I then had a somewhat watery bowel movement and then went to sleep
 around 8:30 PM.
 
-## Update on 2023-07-12
+### 2023-07-12
 
 My sleep was mostly peaceful though occasionally fitful -- in
 particular, I got up around midnight to urinate, then had to sit up in
@@ -871,7 +873,7 @@ added a bit of my potatoes/spinach and a few peas.
 
 I went to sleep at about 8 PM.
 
-## Update on 2023-07-13
+### 2023-07-13
 
 I got up at around 5:30 AM to urinate, then went back to sleep but
 didn't fully go back to sleep. I woke up around 7 AM again, checked
@@ -897,7 +899,7 @@ I initially tried going to sleep at 9:30 PM directly, but it was
 rather hot this evening so at 10 PM I ended up having a bath and then
 properly went to sleep at around 10:30 PM.
 
-## Update on 2023-07-14
+### 2023-07-14
 
 I got up at around 9:15 AM, feeling well-rested. Unlike many of the
 recent days, I did not have a fitful sleep. After getting up I passed
@@ -914,7 +916,7 @@ I was feeling fairly energetic so I continued working (on some
 relatively relaxed personal chores) till around 11 PM. Then I had a
 bath and went to sleep shortly before midnight.
 
-## Update on 2023-07-15
+### 2023-07-15
 
 I got up around 4:30 AM to urinate but then went back to sleep.
 
@@ -933,7 +935,7 @@ Around 4:30 PM, I started the process of preparing basmati rice. After
 soaking and cooking, it was ready a little before 6:30 PM, so I had my
 dinner then.
 
-## Random investigation notes related to 2023-07-10 / 2023-07-11 incident
+### Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
 side-effects](https://www.drugs.com/sfx/clindamycin-side-effects.html)
