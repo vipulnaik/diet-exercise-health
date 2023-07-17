@@ -948,6 +948,9 @@ My bowel movement was not quite as watery as in the past few days,
 though still not quite as solid as it used to be before the onset of
 these issues.
 
+Starting this point I plan to stop detailed daily recording, though
+I'll still take note of any unusual developments.
+
 ### Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
