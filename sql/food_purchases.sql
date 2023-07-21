@@ -1877,4 +1877,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-07-12','Tuk Tuk Thai jasmine rice',3),
   /* 2023-07-15 Berkeley Bowl; total cost $43.93; checkout at 1:01 PM; paid by credit card */
   ('2023-07-15','Cocojune Organic Pure Coconut Dairy Free Yogurt',3),
-  ('2023-07-15','Kite Hill Unsweetened Plain Almond Milk Yogurt',4);
+  ('2023-07-15','Kite Hill Unsweetened Plain Almond Milk Yogurt',4),
+  /* 2023-07-20 Trader Joe's; total cost $459.74; checkout at 7:17 PM; paid by debit card */
+  ('2023-07-20','TJ Carrots',1),
+  ('2023-07-20','Green bell pepper',2),
+  ('2023-07-20','TJ Baby Spinach',1),
+  ('2023-07-20','Red bell pepper',2),
+  ('2023-07-20','Beefsteak tomato',8),
+  ('2023-07-20','TJ English Shelled Peas',4),
+  ('2023-07-20','Eggplant',2),
+  ('2023-07-20','Alvarado Sprouted Wheat Tortillas',6),
+  /* 2023-07-20 Udupi Palace; total cost $14.28; order placed at 7:06 PM; paid by cash */
+  ('2023-07-20','Udupi Palace spinach masala dosa',1);
