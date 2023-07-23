@@ -951,7 +951,7 @@ these issues.
 Starting this point I plan to stop detailed daily recording, though
 I'll still take note of any unusual developments.
 
-## 2023-07-17
+### 2023-07-17
 
 I did not pass stool on this day at all. This might be partly due to
 not being able to get extra sleep (sleeping around midnight the
@@ -959,13 +959,31 @@ previous day and getting up around 8:15 AM).
 
 I went to sleep early, around 10:30 PM.
 
-## 2023-07-18
+### 2023-07-18
 
 I got up around 6:30 AM naturally. I urinated and then worked for a
 few hours. Although I didn't feel pressure to pass stool, I tried
 anyway, and after a bit of effort was able to pass stool. Unlike the
 past week, my stool was reasonably solid and close to the stool that I
 used to have before the digestive issues.
+
+### 2023-07-19
+
+I did not pass stool on this day.
+
+### 2023-07-20
+
+Starting this day, I resumed passing stool regularly in the morning
+and the quality of my stool was reasonably close to what it used to be
+before.
+
+### 2023-07-23
+
+This was the first day that I went jogging after I started to feel
+severely unwell. I went jogging in the morning. Although I think my
+energy levels are still not what they used to be historically when I
+used to go jogging, I was still able to comfortably do the standard
+one-way jog and walk back the other way.
 
 ### Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
