@@ -967,11 +967,11 @@ anyway, and after a bit of effort was able to pass stool. Unlike the
 past week, my stool was reasonably solid and close to the stool that I
 used to have before the digestive issues.
 
-### 2023-07-19
+### 2023-07-20
 
 I did not pass stool on this day.
 
-### 2023-07-20
+### 2023-07-21
 
 Starting this day, I resumed passing stool regularly in the morning
 and the quality of my stool was reasonably close to what it used to be
