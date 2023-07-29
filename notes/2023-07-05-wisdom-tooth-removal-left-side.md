@@ -985,6 +985,12 @@ energy levels are still not what they used to be historically when I
 used to go jogging, I was still able to comfortably do the standard
 one-way jog and walk back the other way.
 
+### 2023-07-27
+
+Starting this day I resumed daily jogging. I am still not back to my
+full exercise routine (in particular, I have not yet resumed
+weightlifting and pushups).
+
 ### Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
 [Clindamycin
