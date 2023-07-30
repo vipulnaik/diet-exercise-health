@@ -987,9 +987,14 @@ one-way jog and walk back the other way.
 
 ### 2023-07-27
 
-Starting this day I resumed daily jogging. I am still not back to my
-full exercise routine (in particular, I have not yet resumed
-weightlifting and pushups).
+Starting this day I resumed daily jogging.
+
+### 2023-07-30
+
+Starting this day I resumed weights and pushups. I was close to normal
+levels; however, I did do fewer pushups than the level I was at before
+stopping them for wisdom tooth removal. Specifically, I got to about
+10 pushups today, whereas previously I was at about 17-22 pushups.
 
 ### Random investigation notes related to 2023-07-10 / 2023-07-11 incident
 
