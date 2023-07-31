@@ -1901,4 +1901,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-07-27','Alvarado Sprouted Wheat Tortillas',3),
   ('2023-07-27','TJ Baby Spinach',1),
   /* 2023-07-27 Udupi Palace; total cost $14.28; order placed at 7:14 PM; paid by cash */
-  ('2023-07-27','Udupi Palace spinach masala dosa',1);
+  ('2023-07-27','Udupi Palace spinach masala dosa',1),
+  /* 2023-07-30 Trader Joe's; total cost $59.33; checkout at 4:46 PM; paid by debit card */
+  ('2023-07-30','Trader Giotto''s Olive Oil',1),
+  ('2023-07-30','Eggplant',2),
+  ('2023-07-30','TJ Baby Spinach',1),
+  ('2023-07-30','Alvarado Sprouted Wheat Tortillas',10),
+  ('2023-07-30','Red bell pepper',2),
+  ('2023-07-30','Green bell pepper',2),
+  ('2023-07-30','Beefsteak tomato',9),
+  /* 2023-07-30 Udupi Palace; total cost $14.28; paid by cash */
+  ('2023-07-30','Udupi Palace spinach masala dosa',1);
