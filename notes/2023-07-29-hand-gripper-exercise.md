@@ -16,8 +16,8 @@ Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
 
 * Generally, my right hand seems to have greater grip strength,
   *almost* fully crushing the hand gripper consistently. By my second
-  *day (2023-07-30) I was able to get my right hand to *fully* crush
-  *the hand gripper on the first try of each set of tries (e.g., if I
-  *would wait a few minutes and then try, the first try I would crush
-  *fully). But even so I was not able to crush it on the second try in
+  day (2023-07-30) I was able to get my right hand to *fully* crush
+  the hand gripper on the first try of each set of tries (e.g., if I
+  would wait a few minutes and then try, the first try I would crush
+  fully). But even so I was not able to crush it on the second try in
   *most cases, and never on the third try.
