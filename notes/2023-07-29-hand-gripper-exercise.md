@@ -20,4 +20,4 @@ Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
   the hand gripper on the first try of each set of tries (e.g., if I
   would wait a few minutes and then try, the first try I would crush
   fully). But even so I was not able to crush it on the second try in
-  *most cases, and never on the third try.
+  *most* cases, and never on the third try.
