@@ -1,4 +1,4 @@
-# Sauerkraut and sore throat
+# 2021-02-27 sauerkraut and sore throat
 
 On February 27, 2021, I noticed that I had had a sore and dry throat
 for a few days. The dietary factor that stood out most was that I had
