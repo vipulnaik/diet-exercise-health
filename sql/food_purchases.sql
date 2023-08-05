@@ -1923,4 +1923,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-08-04','Red bell pepper',2),
   ('2023-08-04','Alvarado Sprouted Wheat Tortillas',9),
   /* The Dutch yellow potatoes were missed by the sales clerk */
-  ('2023-08-04','Dutch yellow potatoes 1.5lb',1);
+  ('2023-08-04','Dutch yellow potatoes 1.5lb',1),
+  /* 2023-08-05 Berkeley Bowl; total cost $34.44; checkout at 12:34 PM; paid by debit card */
+  ('2023-08-05','Lundberg Organic California White Jasmine Rice',1),
+  ('2023-08-05','Cocojune Organic Pure Coconut Dairy Free Yogurt',2),
+  ('2023-08-05','Kite Hill Unsweetened Plain Almond Milk Yogurt',3);
