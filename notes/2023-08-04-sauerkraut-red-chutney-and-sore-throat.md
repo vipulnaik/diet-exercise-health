@@ -105,5 +105,18 @@ cold. Either way, I expect to be fully recovered in about a week.
 
 I woke up around 9:40 AM, after being semi-awake in bed for about 20
 minutes. I decided not to go out jogging today, as I seemed to still
-have a runny nose. Fortunately I don't have much by way of personal
-chores today so I'm planning to mostly be sedentary today.
+have a runny nose. Fortunately I didn't have much by way of personal
+chores on this day so I was able to stay mostly sedentary and overall
+had a more relaxed day.
+
+I continued to have a moderately runny nose through the day, but my
+productivity was otherwise close to normal (other than my skipping of
+exercise). I went to sleep shortly before midnight.
+
+### Actions at night
+
+I woke up once in the middle of the night to blow my nose but
+otherwise had a good sleep. I woke up a little before 8 AM. I might
+have chosen to sleep in more, but I know that I needed to get up soon
+for a meeting at 9:15 AM so I decided to get up rather than go back to
+sleep and be woken abruptly by the alarm.
