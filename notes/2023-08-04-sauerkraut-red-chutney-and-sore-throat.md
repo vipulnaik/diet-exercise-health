@@ -116,7 +116,64 @@ exercise). I went to sleep shortly before midnight.
 ### Actions at night
 
 I woke up once in the middle of the night to blow my nose but
-otherwise had a good sleep. I woke up a little before 8 AM. I might
-have chosen to sleep in more, but I know that I needed to get up soon
-for a meeting at 9:15 AM so I decided to get up rather than go back to
-sleep and be woken abruptly by the alarm.
+otherwise had a good sleep.
+
+## 2023-08-07
+
+### Actions during the day
+
+I woke up a little before 8 AM. I might have chosen to sleep in more,
+but I know that I needed to get up soon for a meeting at 9:15 AM so I
+decided to get up rather than go back to sleep and be woken abruptly
+by the alarm.
+
+My nose was less runny than the previous two days, but I did have a
+few incidents of coughing. I was in three meetings, two of which were
+multi-person meetings that required a few minutes of intermittent
+talking on my part and the third was a two-person meeting for about 20
+minutes and I was talking for about half the time. While I was able to
+handle the talking portions reasonably okay, I did end up coughing
+toward the end of my talking segments in some cases.
+
+In the evening, and at night as I was heading to bed, I felt an urge
+to incessantly clear my throat. I also blew my nose and sneezed a few
+times.
+
+### Actions at night
+
+I went to bed around 11 PM. I got up within an hour of going to bed
+and blew my nose; I had not fully fallen asleep by then. I then went
+to sleep and had a reasonably peaceful sleep.
+
+## 2023-08-08
+
+### Actions during the day
+
+I got up around 9:15 AM when I was ready to start my day.
+
+My nose continued to get less runny, but I did have sporadic instances
+of coughing throughout the day.
+
+I had two meetings that were about an hour long each, and where I was
+talking for about 50% of the time in both. I was able to handle both
+without tiring or coughing; however, after the first meeting ended I
+did have a bit of a bout of coughing.
+
+Overall, I felt better on this day than I have felt since Saturday,
+though probably a little worse than Friday. This suggests that if the
+getting-sicker and recovery are symmetric, I am within a couple of
+days of recovery.
+
+### Actions at night
+
+I went to sleep around midnight. Unlike the last few days, I slept
+through without needing to blow my nose even after I got up (around
+8:40 AM).
+
+## 2023-08-09
+
+### Actions during the day
+
+My waking-up experience around 8:40 AM was more like the waking-up
+experience of a fully recovered person, but I still had a slight sore
+throat.
