@@ -8,7 +8,7 @@ immediately start using the hand grippers.
 
 Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
 
-## Observations as of the first few days of using the hand gripper
+## Observations as of the first few days of using the 100 lb hand gripper
 
 * I can crush the hand gripper fully and consistently when I use both
   hands, with my left hand on one side and my right hand on the other
@@ -21,3 +21,9 @@ Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
   would wait a few minutes and then try, the first try I would crush
   fully). But even so I was not able to crush it on the second try in
   *most* cases, and never on the third try.
+
+### Update on 2023-08-08
+
+By this time I can consistently and comfortably crush the 100 lb hand
+gripper with my right hand. Also, I have been able to occasionally
+fully crush the hand gripper with my left hand, but not consistently.
