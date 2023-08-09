@@ -176,4 +176,7 @@ through without needing to blow my nose even after I got up (around
 
 My waking-up experience around 8:40 AM was more like the waking-up
 experience of a fully recovered person, but I still had a slight sore
-throat.
+throat. For instance, I had full stool pressure, unlike the last
+couple of days when my stool pressure and volume was lower. I suspect
+this means that my overnight energy was spent on normal bodily
+processing rather than being diverted into fixing my condition.
