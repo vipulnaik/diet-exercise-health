@@ -345,10 +345,25 @@ remains the same.
 For details of the appointment, see
 [2023-07-05-wisdom-tooth-removal-left-side.md](2023-07-05-wisdom-tooth-removal-left-side.md).
 
-## Second appointment (right side) on 2023-08-16 at 1 PM
+## Second appointment (right side) on 2023-08-23 at 1 PM
+
+### Originally scheduled 2023-08-16 at 1 PM
 
 After I finished my first appointment, while I was still at the
 Rotunda Treatment Center, I booked a followup appointment for
 Wednesday August 16 at 1 PM. The followup appointment was somewhat
 cheaper as there was no need for the X-ray step that had been
 completed in this appointment.
+
+### Rescheduled to 2023-08-23 at 1 PM
+
+As I had sore throat issues starting 2023-08-04 (see
+[here](2023-08-04-sauerkraut-red-chutney-and-sore-throat.md)), I
+decided to defer my second appointment by a week in order to give
+myself more time to achieve a full recovery before the appointment. I
+made the final decision around this on 2023-08-09. However, when I
+called the dental office on that day, their systems were slow so that
+I wasn't able to have the change made.
+
+I tried calling again on 2023-08-10 and successfully had the
+appointment rescheduled for 2023-08-23 at 1 PM.
