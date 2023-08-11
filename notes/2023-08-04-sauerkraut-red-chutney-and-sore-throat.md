@@ -180,3 +180,18 @@ throat. For instance, I had full stool pressure, unlike the last
 couple of days when my stool pressure and volume was lower. I suspect
 this means that my overnight energy was spent on normal bodily
 processing rather than being diverted into fixing my condition.
+
+The day proceeded fairly normally, without a runny nose and with some
+coughing but less than before.
+
+## 2023-08-10
+
+I continued to recover further, still having a slight sore throat and
+occasional bouts of coughing but otherwise recovered.
+
+## 2023-08-11
+
+I felt close to normal; however, I continued to choose to skip most of
+my exercise. I did have a scary bout of coughing when doing saltwater
+rinse after my meal, so I couldn't hold the rinse in my mouth for the
+full duration.
