@@ -1927,4 +1927,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-08-05 Berkeley Bowl; total cost $34.44; checkout at 12:34 PM; paid by debit card */
   ('2023-08-05','Lundberg Organic California White Jasmine Rice',1),
   ('2023-08-05','Cocojune Organic Pure Coconut Dairy Free Yogurt',2),
-  ('2023-08-05','Kite Hill Unsweetened Plain Almond Milk Yogurt',3);
+  ('2023-08-05','Kite Hill Unsweetened Plain Almond Milk Yogurt',3),
+  /* 2023-08-11 Trader Joe's; total cost $53.03; checkout at 2:27 PMl paid by debit card;
+      there was no trip to Udupi Palace on this date due to a sore throat */
+  ('2023-08-11','TJ English Shelled Peas',4),
+  ('2023-08-11','TJ Miso Ginger Broth',2),
+  ('2023-08-11','TJ Baby Spinach',1),
+  ('2023-08-11','TJ Almond Milk',1),
+  ('2023-08-11','TJ Cinnamon',1), /* I intended to buy cumin, but ended up buying cinnamon instead! Anyway I do use cinnamon so I'll let this be, but I need to buy cumin next time */
+  ('2023-08-11','Trader Giotto''s Olive Oil',1),
+  ('2023-08-11','TJ Turmeric',1),
+  ('2023-08-11','TJ Carrots',1),
+  ('2023-08-11','Dutch yellow potatoes 1.5lb',1),
+  ('2023-08-11','Red bell pepper',2),
+  ('2023-08-11','Green bell pepper',2);
