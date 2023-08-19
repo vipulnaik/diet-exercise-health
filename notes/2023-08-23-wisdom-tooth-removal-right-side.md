@@ -169,12 +169,13 @@ around 9:15 AM except on days where I have earlier appointments.
 
 ### Exercise
 
-#### Break from all exercise on Tuesday August 22 and Wednesday August 23
+#### Break from all exercise on Monday August 21, Tuesday August 22, and Wednesday August 23
 
 I want to be well-rested prior to the operation, so I'll take a break
-from all exercise on Tuesday August 22 and Wednesday August 23 prior
-to the operation. This includes jogging, weights/pushups, Buteyko
-breathing, and hand gripper exercises.
+from all exercise on Monday August 21, Tuesday August 22, and
+Wednesday August 23 prior to the operation. This includes jogging,
+weights/pushups, Buteyko breathing, and hand gripper exercises. I
+might use the freed-up time on Monday to fit in a Trader Joe's trip.
 
 I might make an exception for balance exercises (standing on one leg).
 
