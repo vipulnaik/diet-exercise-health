@@ -99,4 +99,7 @@ This was a few minutes after finishing post-eating cleanup.
 * SpO2: This stayed around 97%.
 
 * Heart rate (bpm): This was highly variable, between 65 and 85 bpm,
-  but for the most part was in the range of 70 to 80 bpm.
+  but for the most part was in the range of 70 to 80 bpm in the first
+  few minutes. After a few minutes while standing it went down to a
+  range of 60 to 70 bpm, still a few beats higher than my seated heart
+  rate.
