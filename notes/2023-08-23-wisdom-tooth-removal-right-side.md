@@ -52,7 +52,7 @@ My current plans for food trips are as follows:
 
 * Trip to Trader Joe's Friday August 18 for regular food purchase --
   during this trip, the only difference from my usual routine will be
-  that I will *not* purchase carrots, nuts, and sauerkraut.
+  that I will *not* purchase tortillas, carrots, nuts, and sauerkraut.
 
 * Trip to Berkeley Bowl some time between Saturday August 19 and
   Monday August 21: I'll use this trip to stock up on vegan yogurt,
@@ -152,6 +152,12 @@ This is my current plan:
   the next cooked meal can include carrots.
 
 * As for outside food, no outside food until Saturday September 2.
+
+#### When to go out for food purchases (to Trader Joe's, Berkeley Bowl etc.)
+
+Unless I run out of stuff and need something urgently, I should aim to
+stock up enough that I don't need to go out for food purchases until
+Monday August 28.
 
 #### When to start allowing food chewing on the right side
 
