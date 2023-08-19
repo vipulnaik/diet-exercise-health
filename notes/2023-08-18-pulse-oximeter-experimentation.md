@@ -4,7 +4,7 @@ On 2023-08-18, I got a pulse oximeter. I played a little bit with
 it. This shows continuous real-time readings for SpO2 (%) and heart
 rate (in bpm). Here are some things I found.
 
-## First take at night on 2023-08-18
+## Take 1: night on 2023-08-18 (shortly after eating)
 
 ### Seated rest
 
@@ -29,7 +29,7 @@ This is a blended average observation across a few readings:
 
 * Heart rate (bpm): My heart rate stayed within the 57-65 bpm range.
 
-## Second take at night on 2023-08-18
+## Take 2: night on 2023-08-18 (over an hour after eating)
 
 ### Seated rest
 
@@ -51,7 +51,7 @@ This is a blended average observation across a few readings:
   briefly to 46-51 bpm (near the end of my control pause) before
   rebounding to 53-59.
 
-## Third take in the morning on 2023-08-19 a few minutes after waking up
+## Take 3: morning on 2023-08-19 a few minutes after waking up
 
 ### Seated rest
 
@@ -67,7 +67,7 @@ This is a blended average observation across a few readings:
   went up to the 54-59 bpm range briefly during the breath hold before
   returning to normal.
 
-## Fourth take after coming back from jogging on 2023-08-19
+## Take 4: after coming back from jogging and before eating on 2023-08-19
 
 ### Seated rest
 
@@ -81,3 +81,22 @@ occasional jogging on the return journey), I took my readings again.
   range. After about a minute it was down to a 71-78 bpm range.
 
 I did not do a breath hold exercise this time.
+
+## Take 5: shortly after eating on 2023-08-19
+
+### Seated rest
+
+This was a few minutes after finishing post-eating cleanup.
+
+* SpO2: This was mostly at 97% but with the occasional fluctuation to
+  98% and 96%.
+
+* Heart rate (bpm): This stayed mostly in the 55-65 bpm range, with
+  one upward fluctuation to about 80 bpm when I burped.
+
+### Standing (while continually having the pulse oximeter on)
+
+* SpO2: This stayed around 97%.
+
+* Heart rate (bpm): This was highly variable, between 65 and 85 bpm,
+  but for the most part was in the range of 70 to 80 bpm.
