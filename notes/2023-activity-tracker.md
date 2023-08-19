@@ -159,3 +159,10 @@ In the evening, I went to the Amazon Hub Locker at the ASUC Student
 Union to pick up a package. I was done shortly before the weekend
 closing time of 5 PM. After that, I made my usual food purchases
 recorded at [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday August 18
+
+In the evening, I went to the Amazon Hub Locker at the ASUC Student
+Union to pick up a package. I was done shortly after 7 PM. After that,
+I made my usual food purchases recorded at
+[food_purchases.sql](../sql/food_purchases.sql).

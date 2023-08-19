@@ -1940,4 +1940,18 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-08-11','TJ Carrots',1),
   ('2023-08-11','Dutch yellow potatoes 1.5lb',1),
   ('2023-08-11','Red bell pepper',2),
-  ('2023-08-11','Green bell pepper',2);
+  ('2023-08-11','Green bell pepper',2),
+  /* 2023-08-18 Trader Joe's; total cost $50.26; checkout at 7:56 PM; paid by debit card */
+  ('2023-08-18','TJ Almond Milk',1),
+  ('2023-08-18','TJ Baby Spinach 60z',2),
+  ('2023-08-18','TJ Cumin',1),
+  ('2023-08-18','TJ Miso Ginger Broth',1),
+  ('2023-08-18','TJ Basmati Rice',1),
+  ('2023-08-18','TJ English Shelled Peas',3),
+  ('2023-08-18','Red bell pepper',2),
+  ('2023-08-18','Beefsteak tomato',8),
+  ('2023-08-18','Green bell pepper',2),
+  ('2023-08-18','Dutch yellow potatoes 1.5lb',1),
+  ('2023-08-18','Eggplant',2),
+  /* 2023-08-18 Udupi Palace; total cost $14.28; order placed at 7:41 PM; paid by cash */
+  ('2023-08-18','Udupi Palace spinach masala dosa',1);
