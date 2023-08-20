@@ -50,9 +50,10 @@ use if I need more after using up the ones at the location.
 
 My current plans for food trips are as follows:
 
-* Trip to Trader Joe's Friday August 18 for regular food purchase --
-  during this trip, the only difference from my usual routine will be
-  that I will *not* purchase tortillas, carrots, nuts, and sauerkraut.
+* DONE 2023-08-18: Trip to Trader Joe's Friday August 18 for regular
+  food purchase -- during this trip, the only difference from my usual
+  routine will be that I will *not* purchase tortillas, carrots, nuts,
+  and sauerkraut.
 
 * Trip to Berkeley Bowl some time between Saturday August 19 and
   Monday August 21: I'll use this trip to stock up on vegan yogurt,
@@ -99,15 +100,35 @@ These are my thoughts on foods to add in:
 These are my thoughts on timing:
 
 * **Finish second meals by 8 PM every day starting Saturday August 19**: This
-    is to keep my digestion in good shape.
+  is to keep my digestion in good shape.
+
+  How did I do?
+
+  * Saturday August 19: Finished around 7:30 PM
 
 * **Go to sleep by 11:30 PM every day starting Saturday August 19**: This is to
-    promote early sleep/waking and reduce the risk of digestive cycle
-    issues on the day of the procedure.
+  promote early sleep/waking and reduce the risk of digestive cycle
+  issues on the day of the procedure.
+
+  How did I do? See the sleep section.
 
 * **Finish first meals by 11:30 AM every day starting Saturday August
     19**: This is again so that the day of the operation is not
     unusual in terms of the timing of my first meal.
+
+  How did I do?
+
+  * Saturday August 19: Ended shortly after noon (about 30-45 minutes
+    late), because I slept late on Friday.
+
+  * Sunday August 20: Ended shortly after noon (about 30-45 minutes
+    late); that's because I woke up a bit late as I slept an
+    additional hour to catch up on a slight backlog.
+
+  But I expect Monday and Tuesday to be according to plan, as I don't
+  even plan to do a morning jog so even if I wake up the same time as
+  Sunday I'll be good (and probably I'll wake up earlier as I'll
+  continue to sleep earlier).
 
 #### Meal prep prior to procedure
 
@@ -172,6 +193,11 @@ As mentioned above, I aim to sleep by 11:30 PM every day starting Saturday Augus
 I also hope to wake up organically around 8:30 AM with natural bowel
 movement within 30-45 minutes of waking up. I will set an alarm for
 around 9:15 AM except on days where I have earlier appointments.
+
+How did I do?
+
+* Saturday August 19: I went to sleep around 11:35 PM, just five
+  minutes later than the target.
 
 ### Exercise
 
