@@ -103,3 +103,17 @@ This was a few minutes after finishing post-eating cleanup.
   few minutes. After a few minutes while standing it went down to a
   range of 60 to 70 bpm, still a few beats higher than my seated heart
   rate.
+
+## Take 6: after coming back from jogging and before weights/pushups on 2023-08-20
+
+### Seated rest
+
+* SpO2: This was at 97% as usual.
+
+* Heart rate (bpm): This started around 61 bpm and stabilized around
+  68-72 bpm.
+
+### Standing (while continually having the pulse oximeter on)
+
+* Heart rate (bpm): This went up to around 80-90 bpm and then came
+  down to about 72-77 bpm after a few minutes.
