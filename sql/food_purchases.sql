@@ -1967,4 +1967,9 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-08-21','Green bell pepper',4),
   ('2023-08-21','Dutch yellow potatoes 1.5lb',2),
   ('2023-08-21','Red bell pepper',2),
-  ('2023-08-21','Alvarado Sprouted Wheat Tortillas',1);
+  ('2023-08-21','Alvarado Sprouted Wheat Tortillas',1),
+  /* 2023-08-22 Berkeley Bowl; total cost $63.19; checkout at 9:22 AM; paid by debit card */
+  ('2023-08-22','Morton Iodized Sea Salt',1),
+  ('2023-08-22','Lundberg Organic California White Basmati Rice',2),
+  ('2023-08-22','Kite Hill Unsweetened Plain Almond Milk Yogurt',4),
+  ('2023-08-22','Cocojune Organic Pure Coconut Dairy Free Yogurt',4);
