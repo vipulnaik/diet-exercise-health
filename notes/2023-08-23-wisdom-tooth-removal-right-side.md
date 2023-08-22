@@ -280,3 +280,16 @@ operation, for about 5-6 hours.
 
 I plan to take regular readings of temperature and heart rate
 throughout the process.
+
+## Measurements taken prior to appointment
+
+### Measurement on 2023-08-22 around 2 PM
+
+My temperature on the middle and right side was fine; it came in the
+98 to 99 range. My temperature on the left side, however, came to 99.4
+across multiple measurements.
+
+On the pulse oximeter, my heart rate was within the 55-62 bpm range
+most of the time, with occasional upward fluctuation to 65 and
+occasional downward fluctuation to 51. My SpO2 was 97% most of the
+time with the occasional downward fluctuation to 96%.
