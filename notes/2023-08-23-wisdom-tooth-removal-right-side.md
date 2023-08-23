@@ -293,3 +293,16 @@ On the pulse oximeter, my heart rate was within the 55-62 bpm range
 most of the time, with occasional upward fluctuation to 65 and
 occasional downward fluctuation to 51. My SpO2 was 97% most of the
 time with the occasional downward fluctuation to 96%.
+
+### Measurement on 2023-08-23 around 7:50 AM
+
+This was after my bowel movement but before eating or doing any other
+significant work for the day.
+
+My temperature was around 98 degrees Faherenheit; different readings
+of different parts of the forehead ranged from 97.4 to 98.9, but most
+were between 97.7 and 98.2.
+
+On the pulse oximeter, my heart rate was in the range of 44 to 49 bpm,
+and my SpO2 showed as 99%. This is consistent with my previous
+observations of lower heart rate and higher SpO2 in the morning.
