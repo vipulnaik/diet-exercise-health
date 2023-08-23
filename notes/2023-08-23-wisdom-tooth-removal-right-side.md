@@ -326,6 +326,17 @@ rate initially showed up in the 57-65 bpm range, but then went up to
 the 65-72 bpm range in a few minutes, then started coming down. All in
 all, only mildly higher than usual.
 
+### Measurement on 2023-08-23 around 3:05 PM (after second gauze change)
+
+My temperature reading now came to 98 degrees, a little cooler than
+the previous set of measurements. This might reflect me cooling down a
+little bit after being indoors and applying the ice pack.
+
+On the pulse oximeter, my SpO2 was 97% with the occasional drop to
+96%. My heart rate was initially in the 57-65 bpm range, with
+occasional upward fluctuation to 66 bpm and occasional downward
+fluctuation to 55 bpm.
+
 ## Appointment
 
 ### Arrival at office
@@ -385,7 +396,7 @@ nothing to pick up from the pharmacy, so I headed straight back home.
 
 ## Bleeding and gauze changes
 
-### First gauze change after getting back home
+### First gauze change after getting back home around 2:10 PM
 
 After I got back home, changed clothes, unpacked stuff, etc. I did my
 first gauze change around 2:10 PM.
@@ -406,6 +417,16 @@ first gauze change around 2:10 PM.
 
 * Then I applied the new gauze pad and closed my mouth.
 
+### Second gauze change around 3 PM
+
+I did my second gauze change around 3 PM. I followed similar steps as
+with my first gauze change (drooling instead of spitting, drinking
+water from my left side in between gauze changes). I did still have a
+decent amount of blood in my drool, so although it wasn't totally
+clear if I was still bleeding, I decided to use the gauze pad at least
+one more time and re-evaluate the situation more carefully at the next
+gauze change.
+
 ## Application of ice pack
 
 My first application of the ice pack was from 2:15 PM to 2:30 PM,
@@ -414,3 +435,6 @@ after my return home from the operation and my first gauze change.
 I then put it back in the freezer, then took it out again at 2:40 PM
 for another round of application. I put it back in the freezer around
 2:50 PM.
+
+I took the ice pack out for the third time at 3:05 PM, shortly after
+my second gauze change.
