@@ -6,6 +6,14 @@ saga](2023-wisdom-tooth-removal.md). For the left side, done prior,
 see
 [2023-07-05-wisdom-tooth-removal-left-side.md](2023-07-05-wisdom-tooth-removal-left-side.md).
 
+Sections of this document:
+
+* [Prior preparation and review on 2023-08-18](#prior-preparation-and-review-on-2023-08-18)
+* [Measurements](#measurements)
+* [Appointment](#appointment)
+* [Bleeding and gauze changes](#bleeding-and-gauze-changes)
+* [Application of ice pack](#application-of-ice-pack)
+
 ## Prior preparation and review on 2023-08-18
 
 ### Medical stuff
@@ -281,9 +289,9 @@ operation, for about 5-6 hours.
 I plan to take regular readings of temperature and heart rate
 throughout the process.
 
-## Measurements taken prior to appointment
+## Measurements
 
-### Measurement on 2023-08-22 around 2 PM
+### Measurement on 2023-08-22 around 2 PM (about 24 hours before the operation)
 
 My temperature on the middle and right side was fine; it came in the
 98 to 99 range. My temperature on the left side, however, came to 99.4
@@ -294,7 +302,7 @@ most of the time, with occasional upward fluctuation to 65 and
 occasional downward fluctuation to 51. My SpO2 was 97% most of the
 time with the occasional downward fluctuation to 96%.
 
-### Measurement on 2023-08-23 around 7:50 AM
+### Measurement on 2023-08-23 around 7:50 AM (morning of the operation)
 
 This was after my bowel movement but before eating or doing any other
 significant work for the day.
@@ -306,3 +314,103 @@ were between 97.7 and 98.2.
 On the pulse oximeter, my heart rate was in the range of 44 to 49 bpm,
 and my SpO2 showed as 99%. This is consistent with my previous
 observations of lower heart rate and higher SpO2 in the morning.
+
+### Measurement on 2023-08-23 around 2:15 PM (shortly after return home and gauze change)
+
+My temperature readings were in the 98-99.5 degrees Fahrenheit range,
+with a lot of variation that could be driven by measurement errors or
+bodily fluctuations due to the ambient heat.
+
+On the pulse oximeter, my SpO2 was around 97% (as expected). My heart
+rate initially showed up in the 57-65 bpm range, but then went up to
+the 65-72 bpm range in a few minutes, then started coming down. All in
+all, only mildly higher than usual.
+
+## Appointment
+
+### Arrival at office
+
+I arrived at the office shortly after 12:30 PM and finished the forms
+stuff a little after 12:40 PM.
+
+### Pre-operation discussion with doctor
+
+Before the operation, I discussed with Dr. James Connors my previous
+experience with the antibiotic. He said that the antibiotic is
+optional, and that it's up to me whether to pick up the prescriptions
+from the pharmacy, but he'll prescribe them anyway so that I have the
+option of getting them from the pharmacy. As long as I don't pick them
+up, I won't have to pay for them, and the pharmacy will eventually put
+the pills back in their place so they won't go to waste.
+
+He also felt that the pharmacy had made a mistake regarding not giving
+me chlorhexidine.
+
+### Confusion regarding laughing gas
+
+There was some confusion regarding the administration of laughing
+gas. The written note that the doctor had didn't say that laughing gas
+was part of the procedure. I asked the doctor to double-check and to
+administer the laughing gas to me. He ended up administering it and
+later when I checked at the front desk they said that the laughing gas
+was already paid for. It was good that I double-checked otherwise I
+would have missed out on it.
+
+### Procedure
+
+The procedure began with the administration of a gel, after which the
+local anesthetic was injected into the right side of my teeth. With
+the laughing gas inhaler placed on my nose, I then had my wisdom teeth
+extracted. The assisting doctor was a different one this time (female,
+African-American). The procedure felt pretty similar to last time.
+
+For my lower wisdom tooth, a mouth prop was used to get my mouth wide
+open. However, the mouth prop wasn't wide enough for how wide I needed
+to open my mouth for the wupper wisdom tooth. So I was asked to open
+the mouth wider for that.
+
+As with last time, I felt a lot of pressure/force but very little by
+way of pain in the area, suggesting that the local anesthetic was
+doing its job.
+
+After the operation, the assisting doctor put a gauze pad in the area
+and gave me a post-operative care package similar to last time's.
+
+All the steps happened approximately between 1:20 PM and 1:40 PM.
+
+### Return home
+
+Unlike last time, I had no followup appointment to book, and also
+nothing to pick up from the pharmacy, so I headed straight back home.
+
+## Bleeding and gauze changes
+
+### First gauze change after getting back home
+
+After I got back home, changed clothes, unpacked stuff, etc. I did my
+first gauze change around 2:10 PM.
+
+* I unpacked the new gauzes and put them on the table for ready
+  access.
+
+* I removed the gauze pad that the doctor had put. It was soaked with
+  blood.
+
+* I then drooled out the accumulated blood and saliva. Based on
+  learnings from last time, I was careful not to spit it out but just
+  let it drool out. Also, since I was able to get back home earlier, I
+  didn't have a lot of drool so it was not as messy as last time.
+
+* I had a few sips of water, taking care to sip using my left side so
+  that the glass didn't get the blood/saliva mix on my right side.
+
+* Then I applied the new gauze pad and closed my mouth.
+
+## Application of ice pack
+
+My first application of the ice pack was from 2:15 PM to 2:30 PM,
+after my return home from the operation and my first gauze change.
+
+I then put it back in the freezer, then took it out again at 2:40 PM
+for another round of application. I put it back in the freezer around
+2:50 PM.
