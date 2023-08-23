@@ -427,6 +427,13 @@ clear if I was still bleeding, I decided to use the gauze pad at least
 one more time and re-evaluate the situation more carefully at the next
 gauze change.
 
+### Gauze removal around 3:30 PM
+
+Around 3:30 PM, I felt reasonably convinced that I was no longer
+actively bleeding, and the additional blood picked up was just the
+blood around the clot. So, I removed the gauze pad, drooled out, and
+drank some water.
+
 ## Application of ice pack
 
 My first application of the ice pack was from 2:15 PM to 2:30 PM,
@@ -437,4 +444,7 @@ for another round of application. I put it back in the freezer around
 2:50 PM.
 
 I took the ice pack out for the third time at 3:05 PM, shortly after
-my second gauze change.
+my second gauze change. I put it back in a little after 3:10 PM.
+
+I took the ice pack out for a fourth time (this time after the gauze
+removal) at around 3:40 PM.
