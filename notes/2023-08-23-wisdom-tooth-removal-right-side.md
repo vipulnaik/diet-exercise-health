@@ -337,6 +337,15 @@ On the pulse oximeter, my SpO2 was 97% with the occasional drop to
 occasional upward fluctuation to 66 bpm and occasional downward
 fluctuation to 55 bpm.
 
+### Measurement on 2023-08-23 around 5:05 PM
+
+My temperature readings came in the range of 98.3 to 99 degrees; the
+ambient indoor temperature had increased a bit as is typical due to
+buildup of heat from a hot afternoon.
+
+On the pulse oximeter, my SpO2 was around 97%. My heart rate was
+within my usual 57-65 bpm range.
+
 ## Appointment
 
 ### Arrival at office
