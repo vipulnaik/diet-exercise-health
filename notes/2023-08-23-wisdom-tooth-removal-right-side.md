@@ -293,6 +293,12 @@ throughout the process.
 
 ## Measurements
 
+For baseline temperature and pulse oximeter measurements to compare
+against, see these documents:
+
+* [2021-08 temperature baseline](2021-08-temperature-baseline.md)
+* [2023-08-18 pulse oximeter experimentation](2023-08-18-pulse-oximeter-experimentation.md)
+
 ### Measurement on 2023-08-22 around 2 PM (about 24 hours before the operation)
 
 My temperature on the middle and right side was fine; it came in the
@@ -347,6 +353,18 @@ buildup of heat from a hot afternoon.
 
 On the pulse oximeter, my SpO2 was around 97%. My heart rate was
 within my usual 57-65 bpm range.
+
+### Measurement on 2023-08-23 around 8 PM
+
+My temperature readings came to 97.8-97.9 degrees Fahrenheit. This was
+despite me feeling hot and sweaty.
+
+On the pulse oximeter, my SpO2 started at 97% and dropped to 96%. My
+heart rate was in the range of 50-55 bpm, with occasional upward
+fluctuation to about 60 bpm. These readings are a little low compared
+to what I generally see at this time of day. They might be a result of
+my painkiller consumption or the relatively physically relaxed last
+few hours making my body think it is night time.
 
 ## Appointment
 
