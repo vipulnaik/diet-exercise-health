@@ -15,6 +15,7 @@ Sections of this document:
 * [Application of ice pack](#application-of-ice-pack)
 * [Consumption of medications](#consumption-of-medications)
 * [Food](#food)
+* [Physical environment and stimulation](#physical-environment-and-stimulation)
 
 ## Prior preparation and review on 2023-08-18
 
@@ -370,8 +371,9 @@ few hours making my body think it is night time.
 
 ### Arrival at office
 
-I arrived at the office shortly after 12:30 PM and finished the forms
-stuff a little after 12:40 PM.
+I arrived at the office (Total Health Dental Care Rotunda Treatment
+Center) shortly after 12:30 PM and finished the forms stuff a little
+after 12:40 PM.
 
 ### Pre-operation discussion with doctor
 
@@ -492,6 +494,10 @@ I did a few more off-on iterations for the next 1.5 hours. The reason
 for the shorter on periods than last time is the greater ambient heat
 resulting in the pack not staying cold for too long.
 
+I took a break from ice pack application to have my meal. I resumed
+ice pack application at 8 PM, after finishing the meal and the
+post-meal wrap-up.
+
 ## Consumption of medications
 
 Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
@@ -530,3 +536,79 @@ barely opening my mouth. I had a mix of these:
 * Tomato soup: I added a small amount of this, less than last time but
   just enough to give that red tinge to the mix. This provided the
   substance/umami.
+
+## Physical environment and stimulation
+
+### Physical movement
+
+For the most part, since my return at 2 PM, I stayed seated on my
+chair and working on the table using my laptop. For the first few
+hours, the exceptions were bathroom breaks, gauze changes, trips to
+take the ice pack in or out of the freezer. For my meal, I needed to
+do a few additional back-and-forth walks to get food out of the
+fridge, and after the meal to put it back in the fridge and wash my
+dishware. All in all, I was able to keep physical movement to a
+minimum, and it was smooth with no jerkiness and low injury risk.
+
+This is a sharp contrast to last time, when I made multiple pharmacy
+trips (three!) and spent a long time waiting in line at the pharmacy
+for the first two trips.
+
+### Light
+
+After returning home, I've stayed indoors with curtains drawn, and
+(for the most part) without having turned on the lights. Therefore,
+I'm keeping light stimulation to a minimum. Most of the stuff I do on
+the computer is in dark mode and my illumination is relatively low. In
+the past, dental issues have correlated with light sensitivity (see
+[2018-12-head-neck-jaw-tooth-pain.md](2018-12-head-neck-jaw-tooth-pain.md))
+so following my general process of keeping light stimulation to a
+minimum is good.
+
+This is better than last time, when I had to make multiple pharmacy
+trips, exposing myself to sunlight, store light at the pharmacy, etc.
+
+### Sound and visual motion stimulus
+
+I did not watch any videos or listen to any music until my meal time
+at 5:45 PM. During my meal time, I watched my usual TV show (with
+Hulu) on my laptop, at a moderate volume and moderate
+illumination. The show I watched, *This Is Us*, is a relatively
+feel-good show without a lot of loud noises or sudden movements.
+
+This is better than last time, when my multiple pharmacy trips meant
+more stimulation.
+
+### Need to talk
+
+I was able to get away with talking very little after the procedure. I
+had to talk a little bit at the facility after the operation and
+before leaving, but because I knew most of what would happen, I could
+get most of my talking done *before* the procedure.
+
+After getting back home around 2 PM, I didn't need to talk for the
+rest of the day, as I had no outside trips and no phone calls or
+meetings.
+
+This is in sharp contrast with last time, where I had to talk more
+after the procedure to get the post-operative care instructions and
+book my appointment, then I had to talk at the pharmacy. And it was
+painful to talk with a gauze in my mouth, so I had to resort to some
+mix of uttering words and using sign language.
+
+### Temperature
+
+This is one respect in which the choice of date was unfortunate. This
+day was relatively hot by Berkeley standards, with the outdoor
+temperature about 80 degrees Fahrenheit (28 degrees Celsius) when I
+went for the appointment, and climbing to 85 degrees (30 degrees
+Celsius) later in the evening. The indoor temperature is generally a
+few degrees higher than the average outdoor temperature of the past
+few hours, so it was also pretty hot indoors. Fortunately, despite the
+heat, at least I was indoors so didn't get heat from sunlight
+exposire. I did a few rounds with a moist towel to keep myself mostly
+cool.
+
+This is one respect where things weren't clearly better than last
+time: though the outdoor trips last time were fatiguing, the
+temperature not being too high last time was a blessing.
