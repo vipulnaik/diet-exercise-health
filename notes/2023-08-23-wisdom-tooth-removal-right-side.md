@@ -15,6 +15,7 @@ Sections of this document:
 * [Application of ice pack](#application-of-ice-pack)
 * [Consumption of medications](#consumption-of-medications)
 * [Food](#food)
+* [Sleep](#sleep)
 * [Physical environment and stimulation](#physical-environment-and-stimulation)
 
 ## Prior preparation and review on 2023-08-18
@@ -367,6 +368,17 @@ to what I generally see at this time of day. They might be a result of
 my painkiller consumption or the relatively physically relaxed last
 few hours making my body think it is night time.
 
+### Measurement on 2023-08-24 morning around 8 AM about 15 minutes after waking up
+
+My temperature readings were in the 97.6-98.4 degrees Fahrenheit
+range.
+
+On the pulse oximeter, my SpO2 reading started at 98% and dropped to
+97% toward the end. My heart rate was in the range of 44-55 bpm, with
+one upward swing to 60 bpm.
+
+Both readings are broadly consistent with my morning readings.
+
 ## Appointment
 
 ### Arrival at office
@@ -536,6 +548,28 @@ barely opening my mouth. I had a mix of these:
 * Tomato soup: I added a small amount of this, less than last time but
   just enough to give that red tinge to the mix. This provided the
   substance/umami.
+
+## Sleep
+
+### Sleep on night of 2023-08-23
+
+I went to sleep on the night of 2023-08-23 at around 10:45 PM, about
+3.5 hours after my cool liquid food meal. This contrasted with last
+time, when I went to sleep around 1:30 AM, and had *two* cool liquid
+food meals before going to sleep.
+
+The earlier sleep time and reduced food need might reflect my greater
+degree of relaxation and more continuous time at home. It might also
+be a result of a longer cool liquid food meal that too the place of
+two.
+
+I slept mostly on my left side with occasional sleeping on my back or
+in a hybrid position (back leaning left). My sleep position was fairly
+comfortable and I felt well-rested through the night.
+
+I started waking up a little after 7 AM and got out of bed at around
+7:30 AM. My urine was a bit more colored than usual, which might
+reflect my unusual diet, medication, or a bit of swallowed blood.
 
 ## Physical environment and stimulation
 
