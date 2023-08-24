@@ -434,6 +434,11 @@ actively bleeding, and the additional blood picked up was just the
 blood around the clot. So, I removed the gauze pad, drooled out, and
 drank some water.
 
+### Drool-out around 4:45 PM
+
+Around 4:45 PM, I did another round of drooling out of my blood/saliva
+mix.
+
 ## Application of ice pack
 
 My first application of the ice pack was from 2:15 PM to 2:30 PM,
@@ -448,3 +453,7 @@ my second gauze change. I put it back in a little after 3:10 PM.
 
 I took the ice pack out for a fourth time (this time after the gauze
 removal) at around 3:40 PM.
+
+I did a few more off-on iterations for the next 1.5 hours. The reason
+for the shorter on periods than last time is the greater ambient heat
+resulting in the pack not staying cold for too long.
