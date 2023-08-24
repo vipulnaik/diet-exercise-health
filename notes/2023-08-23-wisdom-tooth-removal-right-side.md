@@ -13,6 +13,8 @@ Sections of this document:
 * [Appointment](#appointment)
 * [Bleeding and gauze changes](#bleeding-and-gauze-changes)
 * [Application of ice pack](#application-of-ice-pack)
+* [Consumption of medications](#consumption-of-medications)
+* [Food](#food)
 
 ## Prior preparation and review on 2023-08-18
 
@@ -448,6 +450,11 @@ drank some water.
 Around 4:45 PM, I did another round of drooling out of my blood/saliva
 mix.
 
+### Final mini-drool around 5:30 PM before eating
+
+I did a final mini-drool (mostly saliva, very little blood) around
+5:30 PM, shortly before eating.
+
 ## Application of ice pack
 
 My first application of the ice pack was from 2:15 PM to 2:30 PM,
@@ -466,3 +473,42 @@ removal) at around 3:40 PM.
 I did a few more off-on iterations for the next 1.5 hours. The reason
 for the shorter on periods than last time is the greater ambient heat
 resulting in the pack not staying cold for too long.
+
+## Consumption of medications
+
+Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
+-- | -- | -- | -- | --
+hydrocodone / acetaminophen | 4 | 1 | 6 hours | 2023-08-23 around 6:30 PM
+ibuprofen 800 mg | 14 | 1 | 6 hours | 2023-08-23 around 6:15 PM
+
+I took the painkillers spaced apart by a few minutes, after about 30
+minutes of having cool liquid foods (so around 1/3-1/2 of the meal was
+done by the time I had the painkillers).
+
+## Food
+
+### Cool liquid food for early dinner on 2023-08-23 from 5:45 PM to 7:15 PM
+
+Unlike last time, I had food a bit earlier this time. This was partly
+because I had had my morning meal earlier this time, and also partly
+because this time I stopped the gauze sooner since I was more tuned to
+when my bleeding had stopped. Also, I thought it'll be a good idea to
+get a first dose of the painkillers a little earlier.
+
+I had cool liquid foods for about 1.5 hours. I sipped very slowly,
+barely opening my mouth. I had a mix of these:
+
+* Vegan probiotic almond milk yogurt, including one already-opened
+  pack from the fridge and one new pack from the freezer. I started
+  with this as it was cooler and could help kick things off. I had not
+  had yogurt last time, but decided to include it this time.
+
+* Almond milk: I used this as filler to increase the volume on the
+  yogurt.
+
+* Miso ginger broth: I added a small amount of this with each bowl,
+  less than last time, but still nontrivial).
+
+* Tomato soup: I added a small amount of this, less than last time but
+  just enough to give that red tinge to the mix. This provided the
+  substance/umami.
