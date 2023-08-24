@@ -549,6 +549,15 @@ barely opening my mouth. I had a mix of these:
   just enough to give that red tinge to the mix. This provided the
   substance/umami.
 
+### Cool liquid food on 2023-08-24 from 10:15 AM to 11:15 AM
+
+For "breakfast" on 2023-08-24, I had another cool liquid food meal,
+with similar ingredients as my cool liquid food meal of the previous
+night.
+
+I had my regular daily supplements with this meal, but none of the
+pain medication.
+
 ## Sleep
 
 ### Sleep on night of 2023-08-23
