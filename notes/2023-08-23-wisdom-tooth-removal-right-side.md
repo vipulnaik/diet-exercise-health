@@ -642,6 +642,12 @@ meal, I took my usual post-meal dental self-care steps:
 * I did a saltwater rinse, being gentle with the swirling and the
   post-swirl spit.
 
+### Brushing my teeth (a little more completely) around 7:30 PM
+
+Around 7:30 PM, I brushed my teeth. This time, I brushed with a
+slightly more open mouth and went to the right side, still staying a
+couple of teeth away from the extraction site.
+
 ## Physical environment and stimulation
 
 ### Physical movement
