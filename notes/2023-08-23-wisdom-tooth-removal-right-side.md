@@ -16,6 +16,7 @@ Sections of this document:
 * [Consumption of medications](#consumption-of-medications)
 * [Food](#food)
 * [Sleep](#sleep)
+* [Dental self-care](#dental-self-care)
 * [Physical environment and stimulation](#physical-environment-and-stimulation)
 
 ## Prior preparation and review on 2023-08-18
@@ -56,7 +57,7 @@ I expect to get gauze and gauze pads at the location, but I also have
 a stock of gauze and gauze pads purchased from Walgreens, that I can
 use if I need more after using up the ones at the location.
 
-### Food
+### Food plans
 
 #### Food purchase trips
 
@@ -198,7 +199,7 @@ My current thinking is to start allowing food chewing on the right
 side on Friday August 30, a week after the operation, assuming that
 I've had at least a day without any significant pain.
 
-### Sleep
+### Sleep plans
 
 As mentioned above, I aim to sleep by 11:30 PM every day starting Saturday August 19.
 
@@ -256,7 +257,7 @@ should rest the next day and start daily jogging on Monday September
 
 I should resume weights and pushups around Wednesday September 6.
 
-### Dental self-care
+### Dental self-care plans
 
 My current plan is as follows:
 
@@ -515,11 +516,18 @@ post-meal wrap-up.
 Medication | Total number | Number consumed | Suggested gap between consumptions | Last consumption
 -- | -- | -- | -- | --
 hydrocodone / acetaminophen | 4 | 1 | 6 hours | 2023-08-23 around 6:30 PM
-ibuprofen 800 mg | 14 | 1 | 6 hours | 2023-08-23 around 6:15 PM
+ibuprofen 800 mg | 14 | 2 | 6 hours | 2023-08-24 around 4:30 PM
+
+### First consumption with cool liquid food consumed the evening of the operation
 
 I took the painkillers spaced apart by a few minutes, after about 30
 minutes of having cool liquid foods (so around 1/3-1/2 of the meal was
 done by the time I had the painkillers).
+
+### Second consumption with soft solid food the afternoon/evening after the operation
+
+I took ibuprofen only (no acetaminophen) along with my meal eaten
+between 3:45 PM and 4:45 PM, with the ibuprofen taken around 4:30 PM.
 
 ## Food
 
@@ -558,6 +566,19 @@ night.
 I had my regular daily supplements with this meal, but none of the
 pain medication.
 
+### Soft solid food on 2023-08-24 from 3:45 PM to 4:45 PM
+
+I had my first soft solid food meal on the afternoon of 2023-08-24
+between 3:45 PM and 4:45 PM. The meal included rice, potatoes and
+peas, and mixed vegetables, in addition to yogurt, almond milk, and
+miso soup. Since I was having mixed vegetables, I did not include
+tomato soup.
+
+I enjoyed this meal, though I did have a slight soreness of throat for
+a few minutes around the end of the meal. But it cleared quickly. It
+might be due to the swallowing of some residual blood/saliva with the
+meal.
+
 ## Sleep
 
 ### Sleep on night of 2023-08-23
@@ -579,6 +600,37 @@ comfortable and I felt well-rested through the night.
 I started waking up a little after 7 AM and got out of bed at around
 7:30 AM. My urine was a bit more colored than usual, which might
 reflect my unusual diet, medication, or a bit of swallowed blood.
+
+## Dental self-care
+
+### First rinse and brushing on 2023-08-24 around 3:30 PM
+
+On 2023-08-24 around 3:30 PM, about 26 hours after the operation and
+shortly before my first post-operation soft solid food meal, I took a
+few steps:
+
+* I did a saltwater rinse, being careful to swirl the saltwater gently
+  throughout my mouth and then spit it very gently.
+
+* I washed my glass so as to get a fresh start and get rid of
+  accumulated stuff from unbrushed consumption of cool liquid food.
+
+* I gently brushed my teeth, without opening my mouth too much, and
+  focusing on the left side and the left half of the right side. The
+  goal was to feel fresh before starting the consumption of my meal.
+
+### Gentle flossing and rinsing on 2023-08-24 around 5 PM
+
+Around 5 PM, after consuming my first post-operation soft solid food
+meal, I took my usual post-meal dental self-care steps:
+
+* I flossed, albeit using an interdental brush rather than a floss
+  pick since it requires less wide opening of the mouth and is less
+  likely to injure or put extreme force on the mouth. I skipped the
+  2-3 right-most teeth.
+
+* I did a saltwater rinse, being gentle with the swirling and the
+  post-swirl spit.
 
 ## Physical environment and stimulation
 
