@@ -390,6 +390,18 @@ in the vicinity.
 On the pulse oximeter, my SpO2 came at 97%. My heart rate stabilized
 in the range of 59-62 bpm.
 
+### Measurement on 2023-08-25 around 8:15 AM
+
+This measurement was taken shortly after waking up and completing a
+bowel movement.
+
+My temperature reading was in the range from 97.3 to 98.5 degrees
+Fahrenheit.
+
+On the pulse oximeter, my SpO2 started at 99% then dipped to 98%
+briefly before returning to 99%. My heart rate was in the range of 49
+to 55 bpm.
+
 ## Appointment
 
 ### Arrival at office
@@ -611,6 +623,17 @@ I started waking up a little after 7 AM and got out of bed at around
 7:30 AM. My urine was a bit more colored than usual, which might
 reflect my unusual diet, medication, or a bit of swallowed blood.
 
+### Sleep on night of 2023-08-24
+
+I went to sleep around 8:30 PM because I was feeling sleepy.
+
+I woke up around 12:15 AM to urinate, then went back to sleep. Shortly
+after this, I started sleeping on my right side, and from that point
+onward I was freely toggling sides to sleep on.
+
+I woke up for real at around 7:15 AM, after which I urinated, spent
+some time on my computer, and then had a regular bowel movement.
+
 ## Dental self-care
 
 ### First rinse and brushing on 2023-08-24 around 3:30 PM
@@ -647,6 +670,12 @@ meal, I took my usual post-meal dental self-care steps:
 Around 7:30 PM, I brushed my teeth. This time, I brushed with a
 slightly more open mouth and went to the right side, still staying a
 couple of teeth away from the extraction site.
+
+### Resumption of normal dental self-care starting 2023-08-25
+
+Starting the morning on 2023-08-25, I resumed normal dental self-care,
+with additional care brushing and flossing around the affected area,
+and care to not spit or rinse too vigorously.
 
 ## Physical environment and stimulation
 
