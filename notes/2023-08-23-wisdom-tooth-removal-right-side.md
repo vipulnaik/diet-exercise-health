@@ -646,13 +646,16 @@ meal, I took my usual post-meal dental self-care steps:
 
 ### Physical movement
 
-For the most part, since my return at 2 PM, I stayed seated on my
-chair and working on the table using my laptop. For the first few
-hours, the exceptions were bathroom breaks, gauze changes, trips to
-take the ice pack in or out of the freezer. For my meal, I needed to
-do a few additional back-and-forth walks to get food out of the
-fridge, and after the meal to put it back in the fridge and wash my
-dishware. All in all, I was able to keep physical movement to a
+For the most part, since my return on 2023-08-23 at 2 PM, I stayed
+seated on my chair and working on the table using my laptop. For the
+first few hours, the exceptions were bathroom breaks, gauze changes,
+trips to take the ice pack in or out of the freezer. For my meal, I
+needed to do a few additional back-and-forth walks to get food out of
+the fridge, and after the meal to put it back in the fridge and wash
+my dishware. I was able to stick to a mostly similar routine the next
+day (2023-08-24).
+
+All in all, I was able to keep physical movement to a
 minimum, and it was smooth with no jerkiness and low injury risk.
 
 This is a sharp contrast to last time, when I made multiple pharmacy
@@ -671,7 +674,10 @@ so following my general process of keeping light stimulation to a
 minimum is good.
 
 This is better than last time, when I had to make multiple pharmacy
-trips, exposing myself to sunlight, store light at the pharmacy, etc.
+trips, exposing myself to sunlight, store light at the pharmacy,
+etc. Also, since I went to sleep at 10:45 PM rather than having a
+late-night meal that required turning the light on, I was spared from
+late-night light stimulation.
 
 ### Sound and visual motion stimulus
 
@@ -680,6 +686,13 @@ at 5:45 PM. During my meal time, I watched my usual TV show (with
 Hulu) on my laptop, at a moderate volume and moderate
 illumination. The show I watched, *This Is Us*, is a relatively
 feel-good show without a lot of loud noises or sudden movements.
+
+After 8 PM I resumed watching "This Is Us" on the side while working,
+and stopped a little after 10 PM, shortly before going to sleep.
+
+The next day I continued watching "This Is Us" and also consumed some
+other video and music content. Things were back to normal albeit
+nothing at too high a volume/
 
 This is better than last time, when my multiple pharmacy trips meant
 more stimulation.
@@ -694,6 +707,10 @@ get most of my talking done *before* the procedure.
 After getting back home around 2 PM, I didn't need to talk for the
 rest of the day, as I had no outside trips and no phone calls or
 meetings.
+
+The next day, I participated a little bit in a casual meeting of
+teammates. In the meeting of about an hour, my effective talking time
+was around 10-15 minutes. I had no other need to talk during the day.
 
 This is in sharp contrast with last time, where I had to talk more
 after the procedure to get the post-operative care instructions and
