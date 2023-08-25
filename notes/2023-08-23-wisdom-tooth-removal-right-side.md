@@ -380,6 +380,16 @@ one upward swing to 60 bpm.
 
 Both readings are broadly consistent with my morning readings.
 
+### Measurement on 2023-08-24 around 5:20 PM (shortly after post-meal wrap-up)
+
+My forehead temperature readings were 96.5 and 97.6. However, the
+region with a reading of 96.5 had just been cooled with an ice pack
+(due to ambient heat) and the region with a reading of 97.6 was also
+in the vicinity.
+
+On the pulse oximeter, my SpO2 came at 97%. My heart rate stabilized
+in the range of 59-62 bpm.
+
 ## Appointment
 
 ### Arrival at office
