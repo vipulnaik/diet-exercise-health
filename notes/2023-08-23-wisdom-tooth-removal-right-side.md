@@ -402,6 +402,11 @@ On the pulse oximeter, my SpO2 started at 99% then dipped to 98%
 briefly before returning to 99%. My heart rate was in the range of 49
 to 55 bpm.
 
+### Stopping further measurements unless something unusual happens
+
+I'm stopping further measurements unless I feel unwell or unusual in
+some ways.
+
 ## Appointment
 
 ### Arrival at office
@@ -600,6 +605,14 @@ I enjoyed this meal, though I did have a slight soreness of throat for
 a few minutes around the end of the meal. But it cleared quickly. It
 might be due to the swallowing of some residual blood/saliva with the
 meal.
+
+### Soft solid food for the next few days; skipping detailed notes
+
+I'm continuing to have soft solid food starting 2023-08-25 for the
+next few days. This comprises rice, potatoes, peas, mixed vegetables
+(tomatoes, eggplant, bell peppers, spinach), miso soup, almond milk,
+and vegan probiotic yogurt (almond or coconut). I'll skip detailed
+notes for each meal but will record when I transition to other food.
 
 ## Sleep
 
