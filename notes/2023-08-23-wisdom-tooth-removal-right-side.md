@@ -235,7 +235,6 @@ getting up for toilet trips, and going to sleep.
 
 I should continue to take a break from all exercise until Monday
 August 28 (inclusive).
-operation, only if 
 
 #### Resume balance exercises on Tuesday August 29
 
