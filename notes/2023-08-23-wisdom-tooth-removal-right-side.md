@@ -16,6 +16,7 @@ Sections of this document:
 * [Consumption of medications](#consumption-of-medications)
 * [Food](#food)
 * [Sleep](#sleep)
+* [Exercise](#exercise)
 * [Dental self-care](#dental-self-care)
 * [Physical environment and stimulation](#physical-environment-and-stimulation)
 
@@ -212,7 +213,7 @@ How did I do?
 * Saturday August 19: I went to sleep around 11:35 PM, just five
   minutes later than the target.
 
-### Exercise
+### Exercise plans
 
 #### Break from all exercise on Monday August 21, Tuesday August 22, and Wednesday August 23
 
@@ -645,6 +646,32 @@ onward I was freely toggling sides to sleep on.
 
 I woke up for real at around 7:15 AM, after which I urinated, spent
 some time on my computer, and then had a regular bowel movement.
+
+## Exercise
+
+### Resumption of some exercises on 2023-08-29
+
+I resumed some exercises on 2023-08-29:
+
+* I did the standing-on-one-leg exercise, twice standing on the right
+  leg and once standing on the left leg. In all three cases, I was
+  able to clear the 10-second mark.
+
+* I did a few rounds with the hand gripper, two days ahead of the plan
+  (I was planning to resume using the hand gripper on
+  2023-08-31). However, I plan to not use the hand gripper any further
+  on 2023-08-29, and restrict its use to one round per day for the
+  next week. This is because the use of the hand gripper can cause
+  tensing of my jaw which can intensity the pain the area with the
+  wisdom teeth removed.
+
+* I did a flexibility exercise (touching my hands from behind).
+
+* I did a round of Buteyko breathing and was able to get a control
+  pause of 26 seconds.
+
+This was also the first day since the day of the operation that I left
+my home, although it was only for laundry.
 
 ## Dental self-care
 
