@@ -1972,4 +1972,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-08-22','Morton Iodized Sea Salt',1),
   ('2023-08-22','Lundberg Organic California White Basmati Rice',2),
   ('2023-08-22','Kite Hill Unsweetened Plain Almond Milk Yogurt',4),
-  ('2023-08-22','Cocojune Organic Pure Coconut Dairy Free Yogurt',4);
+  ('2023-08-22','Cocojune Organic Pure Coconut Dairy Free Yogurt',4),
+  /* 2023-09-01 Trader Joe's; total cost $35.90; checkout at 2:34 PM; paid by debit card;
+     no trip to Udupi Palace since I want to skip eating out until more fully recovered
+     from wisdom tooth removal */
+  ('2023-09-01','TJ Almond Milk',1),
+  ('2023-09-01','TJ Baby Spinach',1),
+  ('2023-09-01','TJ Carrots',1),
+  ('2023-09-01','TJ English Shelled Peas',1),
+  ('2023-09-01','TJ Miso Ginger Broth',1),
+  ('2023-09-01','Dutch yellow potatoes 1.5lb',1),
+  ('2023-09-01','Beefsteak tomato',8),
+  ('2023-09-01','Red bell pepper',2),
+  ('2023-09-01','Green bell pepper',3),
+  ('2023-09-01','Zucchini squash',3); /* 1 pack of 3, so counted as 1 in their receipt */
