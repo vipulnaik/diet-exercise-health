@@ -673,6 +673,21 @@ I resumed some exercises on 2023-08-29:
 This was also the first day since the day of the operation that I left
 my home, although it was only for laundry.
 
+### Resumption of jogging on 2023-09-04
+
+On Monday 2023-09-04, I went for jogging for the first time since the
+wisdom tooth removal, and after 14 days of not jogging (my last
+jogging trip was on 2023-08-20, three days before the operation). I
+was able to jog the usual basic length but did not jog extra. It might
+take me a few days to get back to my full energy level where I jog a
+little extra.
+
+This resumption of jogging is two days behind schedule (my original
+plan was to resume alternate-day jogging on 2023-09-02 and regular
+jogging on 2023-09-04). Since tomorrow is meeting-packed at work, I
+might end up resuming daily jogging starting 2023-09-06, also two days
+behind schedule.
+
 ## Dental self-care
 
 ### First rinse and brushing on 2023-08-24 around 3:30 PM
