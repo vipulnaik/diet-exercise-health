@@ -27,3 +27,20 @@ Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
 By this time I can consistently and comfortably crush the 100 lb hand
 gripper with my right hand. Also, I have been able to occasionally
 fully crush the hand gripper with my left hand, but not consistently.
+
+### Update on 2023-09-04
+
+I took a break for a few days before after my wisdom tooth removal
+(between Monday 2023-08-21 and Monday 2023-08-28). I resumed on
+Tuesday 2023-08-29, but limited to one round per day.
+
+On Monday 2023-09-04, I resumed the use of the 100 lb hand gripper for
+multiple rounds a day. I found that now I can comfortably and
+consistently close with both hands. With that said, it's still easier
+with the right hand.
+
+This led me to experiment (for the first time since I started using
+the hand gripper) with the 150 lb hand gripper. Unsurprisingly, I
+wasn't able to close this hand gripper with either hand (each hand
+individually was only able to partially close up to the "vertical"
+stage). With both hands together, I was able to close the 150 lb.
