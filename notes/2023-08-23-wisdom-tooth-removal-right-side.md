@@ -19,6 +19,7 @@ Sections of this document:
 * [Exercise](#exercise)
 * [Dental self-care](#dental-self-care)
 * [Physical environment and stimulation](#physical-environment-and-stimulation)
+* [Overall retrospective](#overall-retrospective)
 
 ## Prior preparation and review on 2023-08-18
 
@@ -614,6 +615,14 @@ next few days. This comprises rice, potatoes, peas, mixed vegetables
 and vegan probiotic yogurt (almond or coconut). I'll skip detailed
 notes for each meal but will record when I transition to other food.
 
+### Reintroduction of carrots on 2023-09-04
+
+In the meal I cooked on 2023-09-04, I reintroduced carrots into the
+mix. Carrots can sometimes be a bit hard, though they're very variable
+depend on how well the particular carrot piece got cooked, hence I
+avoided them for the first few days. However, I feel recovered enough
+to handle carrots.
+
 ## Sleep
 
 ### Sleep on night of 2023-08-23
@@ -823,3 +832,71 @@ cool.
 This is one respect where things weren't clearly better than last
 time: though the outdoor trips last time were fatiguing, the
 temperature not being too high last time was a blessing.
+
+## Overall retrospective
+
+### Trajectory of pain
+
+The pain came and went for the first few days. It didn't go down
+monotonically day after day; there were some days with a bit more pain
+than the previous day. The pain in the area had gone down to not being
+noticeable by around 2023-09-01 (nine days after the operation).
+
+### Not using the antibiotic seems to have worked well; there were no digestive issues
+
+I had no digestive issues. It looks like not using the antibiotic
+worked well (I did still take a few doses of the pain medication,
+though it was less than before, but based on my understanding the
+antibiotic was the likely culprit).
+
+I had the subjective sense of slightly more inflammation in the area
+than last time, and this could be chance, or a result of not using the
+antibiotic, or a result of not using painkillers that masked some of
+the pain. Regardless, I was still very much net positive.
+
+### The effect of taking less pain medication is less clear, but I feel it led to slightly better decisionmaking
+
+This is very much conjectural and could be false: I think that by
+taking fewer doses of pain medication, I experienced my pain and
+fatigue more clearly. This in turn may have led me to more accurately
+assessing how much effort I could put in, leading me to not
+overstretch myself, which ultimately helped my recovery.
+
+However, it's also the case that I set clearer and more relaxed plans
+for my recovery trajectory, and these plans might have helped too.
+
+### Learning from the left side experience was helpful in several ways
+
+The biggest help was the day of the operation: when I got back, I
+didn't make trips to Walgreens, which means I could be at home
+resting. This subjectively helped a lot with recovery.
+
+Other little things included:
+
+* By returning home earlier, I was able to do my first gauze change
+  earlier, which matters a lot.
+
+* I had internalized the maxim to drool, not spit or rinse, which
+  helped during the first few gauze changes.
+
+* I retired the use of gauze pads earlier, based on the learning from
+  last time and reading after that. This led to less pain and easier
+  recovery.
+
+* I had my first liquid food meal a little earlier, which helped with
+  my energy recovery.
+
+* Rather than staying up late and having a second meal, I was able to
+  sleep earlier. Last time, I stayed up late partly because of being
+  more amped up after the outdoor trip, and partly because I was
+  afraid of injury if I slept with improper posture. However, this
+  time I paid more importance to sleeping sooner and getting rest, and
+  it worked well.
+
+* By stocking up on rice and vegan yogurt, I had more variety than
+  just potatoes + cool liquid foods. This allowed me to get to a
+  normal-ish diet sooner, while also still postponing stuff like
+  tortillas, carrots, and outside food.
+
+* I set clearer plans for when to phase various things in; these were
+  less ambitious than before but still reasonable given my goals.
