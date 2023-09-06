@@ -693,9 +693,15 @@ little extra.
 
 This resumption of jogging is two days behind schedule (my original
 plan was to resume alternate-day jogging on 2023-09-02 and regular
-jogging on 2023-09-04). Since tomorrow is meeting-packed at work, I
-might end up resuming daily jogging starting 2023-09-06, also two days
-behind schedule.
+jogging on 2023-09-04).
+
+### Resumption of daily jogging and alternate-day weights/pushups on 2023-09-06
+
+After taking a break on 2023-09-05, I resumed daily jogging on
+2023-09-06. This was also the first day after over two weeks that I
+did weights and pushups. I was able to perform at just a little below
+the level I was at before stopping, and I expect to get back to fully
+normal over the coming week.
 
 ## Dental self-care
 
