@@ -1989,4 +1989,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-09-03 Berkeley Bowl; total cost $62.91; checkout at 11:05 AM; paid by debit card */
   ('2023-09-03','Lundberg Organic California White Basmati Rice',2),
   ('2023-09-03','Cocojune Organic Pure Coconut Dairy Free Yogurt',4),
-  ('2023-09-03','Kite Hill Unsweetened Plain Almond Milk Yogurt',3);
+  ('2023-09-03','Kite Hill Unsweetened Plain Almond Milk Yogurt',3),
+  /* 2023-09-06 Trader Joe's; total cost $47.15; checkout at 6:47 PM; paid by debit card */
+  ('2023-09-06','Beefsteak tomato',9),
+  ('2023-09-06','Zucchini squash',3), /* 1 pack of 3, so counted as 1 in their receipt */
+  ('2023-09-06','TJ Miso Ginger Broth',1),
+  ('2023-09-06','Red bell pepper',2),
+  ('2023-09-06','Dutch yellow potatoes 1.5lb',1),
+  ('2023-09-06','Green bell pepper',3),
+  ('2023-09-06','TJ Carrots',1),
+  ('2023-09-06','TJ Beans',1),
+  ('2023-09-06','TJ Baby Spinach',1),
+  ('2023-09-06','Alvarado Sprouted Wheat Tortillas',5),
+  /* 2023-09-06 Udupi Palace; total cost $14.28; paid by cash */
+  ('2023-09-06','Udupi Palace spinach masala dosa',1);
