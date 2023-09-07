@@ -44,3 +44,14 @@ the hand gripper) with the 150 lb hand gripper. Unsurprisingly, I
 wasn't able to close this hand gripper with either hand (each hand
 individually was only able to partially close up to the "vertical"
 stage). With both hands together, I was able to close the 150 lb.
+
+## Update on 2023-09-06
+
+For the first time ever, I was able to close the 150 lb hand gripper
+with my right hand. However, I was not able to repeat this feat
+immediately. I expect to be able to repeat it sporadically over the
+next week or so and to take at least a week before I can do a
+consistent close with my right hand.
+
+I felt pain in the area of my fingers that had pressed the gripper
+after closing this; it was clearly effortful.
