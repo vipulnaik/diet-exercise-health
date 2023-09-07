@@ -623,6 +623,12 @@ depend on how well the particular carrot piece got cooked, hence I
 avoided them for the first few days. However, I feel recovered enough
 to handle carrots.
 
+### Reintroduction of outside food (from Udupi Palace) and tortillas on 2023-09-06
+
+On 2023-09-06, for the first time since the operation, I got takeout
+from Udupi Palace. This was also the first day since the operation
+that I bought (and started eating) tortillas.
+
 ## Sleep
 
 ### Sleep on night of 2023-08-23
