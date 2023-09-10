@@ -201,7 +201,7 @@ PM. Unfortunately there was a long line at the Walgreens so I stood
 there for a long time. I got three of the four prescriptions. The
 prescriptions I received were as follows:
 
-* Hydrocodone / acetaminophen: 10 tablets with the instruction to
+* Hydrocodone / acetaminophen 325 mg: 10 tablets with the instruction to
   "take 1 tablet by mouth every 6 hours as needed for pain"
 
 * Ibuprofen 800 mg: 20 tablets with the instruction to "take 1 tablet
@@ -1015,6 +1015,504 @@ one week past the wisdom tooth removal time, which should be enough of
 a gap to free up some of the dietary constraints placed by the wisdom
 tooth removal.
 
-I should also consider reporting the side-effects to
-[MedWatch](https://www.accessdata.fda.gov/scripts/medwatch/index.cfm)
-to contribute my bit to the statistics.
+## MedWatch report made 2023-09-10
+
+On 2023-09-10, I reported to incident to MedWatch
+[here](https://www.accessdata.fda.gov/scripts/medwatch/index.cfm?action=consumer.reporting1)
+(Form 3500-B, voluntary reporting by consumers).
+
+I used the Form 3500B filled online (rather than downloading the PDF,
+filling it, and mailing it in).
+
+Prior to starting, I went through some of the material in
+MedWatchLearn, including fully completing [case study 1 (cosmetic:
+hair straightener at a
+salon)](https://www.accessdata.fda.gov/scripts/MedWatchLearn/index.cfm?action=cp.cosmetic)
+and looking briefly at [case study 2: dietary
+supplement](https://www.accessdata.fda.gov/scripts/MedWatchLearn/index.cfm?action=cp.dietarySupplement).
+
+I also watched these YouTube videos to learn more about MedWatch:
+
+* [MedWatch Tips & Tools: January 2016](https://www.youtube.com/watch?v=7b-fcRQ2Q7k) from the FDA
+* [MedWatch Minute for Consumers](https://www.youtube.com/watch?v=6QGBHQfg52Y) from the FDA
+* [MedWatch Forms](https://www.youtube.com/watch?v=Bu2nIVvUTJc) from Amrita Akhouri
+
+### Question: What kind of problem was it?
+
+- [x] Were hurt or had a bad side effect (including new or worsening symptoms)
+- [ ] Used a product incorrectly which could have or led to a problem
+- [ ] Noticed a problem with the quality of the product
+- [ ] Had problems after switching from one product maker to another maker
+
+My thoughts:
+
+The selection here is obvious. It is also consistent with the
+selection in the answer key for the [case
+study](https://www.accessdata.fda.gov/scripts/MedWatchLearn/index.cfm?action=cp.cosmetic#).
+
+### Question: Did any of the following happen?
+
+- [ ] Hospitalization - admitted or stayed longer
+- [ ] Required help to prevent permanent harm
+- [x] Disability or health problem
+- [ ] Birth defect
+- [ ] Life-threateningDeath (Date of Death) (mm/dd/yyyy)
+- [ ] Other serious/important medical incident
+
+My thoughts:
+
+The selection here was less clear to me, and I ultimately went with
+the same section as in the answer key for the [case
+study](https://www.accessdata.fda.gov/scripts/MedWatchLearn/index.cfm?action=cp.cosmetic#).
+
+### Question: Date the problem occurred
+
+My selection: July 10, 2023
+
+My thoughts:
+
+I wasn't totally sure whether to enter the date that I started having
+clear worrisome symptoms, or the date that I started taking the
+antibiotic, or some intermediate date where I noticed some small
+side-effects that were not too concerning. I ultimately opted for the
+former as it seemed most consistent with the wording. The two case
+studies
+([this](https://www.accessdata.fda.gov/scripts/MedWatchLearn/index.cfm?action=cp.cosmetic)
+and
+[this](https://www.accessdata.fda.gov/scripts/MedWatchLearn/index.cfm?action=cp.dietarySupplement))
+that I reviewed weren't directly helpful for disambiguation, because
+in the first case the product use and start of adverse reactions
+happened on the same day, whereas in the second case the problem
+appeared suddenly and the causal practice is unclear, so it makes
+sense to use the date that the symptoms started.
+
+### Question: Tell us what happened and how it happened
+
+My answer:
+
+On July 5, 2023, I went to the Rotunda Treatment Center of Total
+Health Dental Care
+https://totalhealthdentalcare.com/rotunda-treatment-center for a 1 PM
+appointment to have the wisdom teeth on my left side removed. The
+operation proceeded smoothly and after the operation I was prescribed
+painkillers and antibiotics. I then picked up the following
+prescriptions from the Walgreens Pharmacy at 2801 Adeline Street,
+Berkeley:
+
+* Hydrocodone / acetaminophen 325 mg: 10 tablets with the instruction
+  to "take 1 tablet by mouth every 6 hours as needed for pain"
+
+* Ibuprofen 800 mg: 20 tablets with the instruction to "take 1 tablet
+  by mouth every 6 hours as needed for pain"
+
+* Clindamycin 300 mg: 28 tablets with the instruction to "take 1
+  capsule by mouth four times daily for 7 days"
+
+On July 5 around 5 PM, I had, along with water:
+
+* 1 tablet of hydrocodone / acetaminophen
+
+* 1 tablet of ibuprofen 800 mg
+
+I did not have the clindamycin just yet, as I wanted to have it once I
+was home for a more extended period of time, and possibly along with
+some food to replenish myself.
+
+At 8 PM, along with a meal of cool liquid foods (I could not have
+solid foods yet due to my wisdom tooth removal) I took one capsule of
+clindamycin along with water.
+
+Shortly after midnight on July 6, I again took all three medications
+along with a meal of cool liquid foods:
+
+* 1 capsule of clindamycin
+
+* 1 tablet of hydrocodone / acetaminophen
+
+* 1 tablet of ibuprofen 800 mg
+
+I followed this pattern of taking all three medications with every
+meal for the next few meals. My last intake of the medications was on
+July 8 around 1:30 PM. I stopped taking the painkillers as I was no
+longer feeling much pain, and I stopped taking the antibiotic because
+I was noticing tachycardia and slight chills. By this time, I had had
+6 doses each of clindamycin, hydrocodone / acetaminophen, and
+ibuprofen.
+
+I resumed a limited amount of physical activity on July 8, going out
+for grocery shopping. On July 9, in the evening, I went jogging. While
+returning from jogging, I had an incident of watery flatulence, which
+is very unusual for me (the first time I can recall having this as an
+adult). However, I was otherwise feeling normal.
+
+On the morning of July 10, I got up around 5:30 AM to pass stool (this
+is 2-3 hours earlier than I usually wake up) and the stool was more
+watery/loose than usual. I then went back to sleep but had slight
+stomach cramps and also some chills, even more so than the slight
+chills I had experienced in previous days. My temperature readings
+showed a very slight fever (98.6 to 99.1 degrees Fahrenheit; my
+baseline is around 98 degrees Fahrenheit). I was a little low on
+energy so I slept in for part of the day and took time off work.
+
+On the morning of July 11, I got up around 3 AM to pass stool, that
+was still somewhat watery though less so. At 7 AM, I experienced
+tachycardia and what seemed like heartburn / palpitations accompanied
+by unpleasant thoughts. I woke up to cut out the unpleasant
+thoughts. I also took a bunch of temperature readings but they had a
+really wide range (97.6 to 101) suggesting that maybe my body
+temperature was fluctuating wildly or maybe I wasn't measuring in a
+reliable way. In any case I went back to sleep.
+
+I properly woke up at 11:15 AM, urinated, then spent some time on my
+computer. At 11:45 AM, I passed another round of stool.
+
+After post-dinner cleanup around 8 PM, I had a somewhat watery bowel
+movement and I then went to sleep at 8:30 PM.
+
+My stool quality improved gradually. It returned to a reasonably solid
+state on July 18. I transitioned to passing stool regularly every
+morning on July 21 (daily morning stool was my prior standard).
+
+See more detailed notes: https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-07-05-wisdom-tooth-removal-left-side.md
+
+For my right side wisdom tooth removal I took 2 tablets each of the
+painkillers but no clindamycin. I did not have the same symptoms this
+time.
+
+### Relevant Tests / Laboratory Data
+
+I left this section blank.
+
+### Question: Please select the cause of the problem that applies below:
+
+- [x] For a problem with a product, including:
+  - prescription or over-the-counter medicine
+  - biologics, such as blood transfusions, gene therapies, and human cells and tissues transplant (for example: tendons, bone and corneas)
+  - nutrition products, such as vitamins and minerals, herbal remedies, infant formulas, and medical foods
+  - cosmetics or make-up products
+  - foods (including beverages and ingredients added to foods)
+- [ ] For a problem with a medical device, including:
+  - any health-related test, tool, or piece of equipment
+  - health-related kits, such as glucose monitoring kits or blood pressure cuffs
+  - implants, such as breast implants, pacemakers, or catheters
+  - other consumer health products, such as contact lenses, hearing aids, and breast pumps
+
+My thoughts:
+
+This selection was obvious.
+
+### Question: Do you still have the product in case we need to evaluate it?
+
+My answer: Yes
+
+My thoughts:
+
+I'll keep all three medicines for up to a year (till around September
+2024) in case they're needed. However, I won't be using them, even the
+painkillers. If I do need pain medication I will use my
+over-the-counter stock of acetaminophen and ibuprofen.
+
+### Question: Do you have a picture of the product? (check yes if you are including a picture)
+
+My answer: No
+
+My thoughts: Although I could take pictures, these are probably not
+helpful. I still have the samples so I can take pictures if that's
+needed.
+
+### Question for Product 1: Product Information
+
+This report is about:
+
+- [ ] Cosmetic
+- [ ] Dietary supplement
+- [ ] Food/medical food
+- [x] Other
+
+My thoughts:
+
+This question seems different than the version in MedWatchLearn, that
+offered "Drug" as an option. I just selected "Other" since that seems best.
+
+### Question for Product 1: Check if therapy is on-going
+
+My answer: I did *not* check the box.
+
+### Question for Product 1: Name(s) of the product as it appears on the box, bottle, or package (Include as many names as you see)
+
+My answer: Clindamycin 300mg capsules
+
+### Question for Product 1: Name(s) of the company that makes (or compounds) the product
+
+My answer: Aurobindo Pharma
+
+My thoughts:
+
+This is based on the "MFG AUROBINDO" printed on the label.
+
+### Question for Product 1: Product Type: (Check all that apply)
+
+- [ ] OTC (Over-the-counter)
+- [ ] Compounded by a Pharmacy or an Outsourcing Facility
+- [x] Generic
+- [ ] Biosimilar
+
+My thoughts:
+
+I didn't receive this OTC but rather through a prescription. As an
+antibiotic, I don't think it is available OTC.
+
+The "Compounded by a Pharmacy" doesn't apply here because it is a
+standard prescription.
+
+This is a "Generic"; the original brand drug is Cleocin.
+
+### Question for Product 1: Other Identifying Information: Expiration Date (mm/dd/yyyy)
+
+My answer: 07/04/2024 (mm/dd/yyyy)
+
+### Question for Product 1: Lot number
+
+My answer: I left this blank as I couldn't find a lot number on the
+label. This is consistent with what the help page says: "This number
+is usually not found on dispensed pharmacy prescriptions, but on the
+original product label and/or packaging."
+
+### Question for Product 1: NDC number
+
+My answer: I left this blank as I couldn't find a NDC number on the
+label. This is consistent with what the help page says: "The national
+drug code (NDC number) is found on the original product label and/or
+packaging, but is usually not found on dispensed pharmacy
+prescriptions."
+
+### Question for Product 1: Strength and Unit
+
+My answer: 300 and mg
+
+### Question for Product 1: Quantity and Unit
+
+My answer: 6 and capsules
+
+### Question for Product 1: Frequency
+
+My answer: Other: Once per meal
+
+### Question for Product 1: How was it taken or used (for example, by mouth, injection, or on the skin)?
+
+My answer: Taken by mouth
+
+### Question for Product 1: Date the person first started taking or using the product
+
+My answer: 07/05/2023 (mm/dd/yyyy)
+
+### Question for Product 1: Date the person stopped taking or using the product
+
+My answer: 07/08/2023 (mm/dd/yyyy)
+
+### Question for Product 1: Why was the person using the product? (such as what condition was it supposed to treat)
+
+My answer: Preventing oral infection after wisdom tooth removal
+
+### Question for Product 1: Did the problem stop after the person reduced the dose or stopped taking or using the product?
+
+- [x] Yes
+- [ ] No
+
+### Question for Product 1: Did the problem return if the person started taking or using the product again?
+
+- [ ] Yes
+- [ ] No
+- [x] Didn't restart
+
+### Question for Product 2: Product Information
+
+This report is about:
+
+- [ ] Cosmetic
+- [ ] Dietary supplement
+- [ ] Food/medical food
+- [x] Other
+
+### Question for Product 2: Check if therapy is ongoing
+
+My answer: I did *not* check the box.
+
+### Question for Product 2: Name(s) of the product as it appears on the box, bottle, or package (Include as many names as you see)
+
+My answer: Hydrocodone/acetaminophen 10-325 T
+
+### Question for Product 2: Name(s) of the company that makes (or compounds) the product
+
+My answer: Mallinckrodt Pharmaceuticals
+
+### Question for Product 2: Product Type: (Check all that apply)
+
+- [ ] OTC (Over-the-counter)
+- [ ] Compounded by a Pharmacy or an Outsourcing Facility
+- [x] Generic
+- [ ] Biosimilar
+
+### Question for Product 2: Expiration Date
+
+My answer: 07/04/2024 (mm/dd/yyyy)
+
+### Question for Product 2: Lot number
+
+My answer: I left this blank as I couldn't find a lot number on the
+label. This is consistent with what the help page says: "This number
+is usually not found on dispensed pharmacy prescriptions, but on the
+original product label and/or packaging."
+
+### Question for Product 2: NDC number
+
+My answer: I left this blank as I couldn't find a NDC number on the
+label. This is consistent with what the help page says: "The national
+drug code (NDC number) is found on the original product label and/or
+packaging, but is usually not found on dispensed pharmacy
+prescriptions."
+
+### Question for Product 2: Strength and Unit
+
+My answer: 325 and mg
+
+### Question for Product 2: Quantity and Unit
+
+My answer: 6 and Tablets
+
+### Question for Product 2: Frequency
+
+My answer: Other: Once per meal
+
+### Question for Product 2: How was it taken or used
+
+My answer: Taken by mouth
+
+### Question for Product 2: Date the person first started taking or using the product
+
+My answer: 07/05/2023 (mm/dd/yyyy)
+
+### Question for Product 2: Date the person stopped taking or using the product
+
+My answer: 07/08/2023 (mm/dd/yyyy)
+
+### Question for Product 2: Why was the person using the product? (such as what condition was it supposed to treat)
+
+My answer: Pain relief after wisdom tooth removal
+
+### Question for Product 2: Did the problem stop after the person reduced the dose or stopped taking or using the product?
+
+- [x] Yes
+- [ ] No
+
+### Question for Product 2: Did the problem return if the person started taking or using the product again?
+
+- [ ] Yes
+- [x] No
+
+
+### Question: Person's Initials
+
+My answer: VN
+
+### Question: Sex: Enter the patient's sex at birth (the sex that a person has or was assigned to at birth)
+
+- [x] Male
+- [ ] Female
+
+### Question: Gender: Enter the patient's current gender (how the patient thinks of themself)
+
+- [x] Cisgender man/boy (gender corresponds with birth sex)
+- [ ] Cisgender woman/girl (gender corresponds with birth sex)
+- [ ] Transgender man/trans man/female-to-male (FTM)
+- [ ] Transgender woman/trans woman/male-to-female (MTF)
+- [ ] Other gender category; please specify:
+- [ ] Decline to answer
+
+### Question: Age or Date of Birth
+
+(Information omitted from the record here as it is a public repository)
+
+### Question: Weight and Unit
+
+(Information omitted from the record here as it is a public repository)
+
+### Question: Ethnicity: (Choose only one)
+
+- [ ] Hispanic/Latino
+- [x] Not Hispanic/Latino
+
+### Question: Race: (Check all that apply)
+
+- [ ] American Indian or Alaskan Native
+- [x] Asian
+- [ ] Black or African American
+- [ ] Native Hawaiian or Other Pacific Islander
+- [ ] White
+
+### Question: List known medical conditions (Such as diabetes, high blood pressure, cancer, heart disease, or others)Total of 2000 characters allowed.
+
+My answer:
+
+No known issues:
+
+* Last lipid profile (done in 2021) showed that I was not diabetic or
+  prediabetic, and not at near-term risk.
+
+* Last blood pressure measurement (done in 2021) gave a reading of
+  102/67 which is on the low end.
+
+* Cancer or heart disease: No indications.
+
+### Question: Please list all allergies: (such as to drugs, foods, pollen, or others)
+
+My answer: No known allergies
+
+### Question: List any other important information about the person (such as smoking, pregnancy, alcohol use, etc.)
+
+My answer: N/A
+
+### Question: List all current prescription medications and medical devices being used
+
+My answer:
+
+No ongoing prescription medications. At the time of this
+incident, I was taking the painkillers and antibiotics prescribed for
+managing the pain and infection risk after wisdom tooth removal on my
+left side. The details are included in my answer to "Tell us what
+happened and how it happened"; a brief summary of the prescriptions is below:
+
+* Hydrocodone / acetaminophen 325 mg: 10 tablets with the instruction
+  to "take 1 tablet by mouth every 6 hours as needed for pain"
+
+* Ibuprofen 800 mg: 20 tablets with the instruction to "take 1 tablet
+  by mouth every 6 hours as needed for pain"
+
+* Clindamycin 300 mg: 28 tablets with the instruction to "take 1
+  capsule by mouth four times daily for 7 days"
+
+I ended up taking 6 tablets/capsules of each of these, as documented
+in detail in my answer to "Tell us what happened and how it happened"
+earlier.
+
+### Question: List all over-the-counter medications and any vitamins, minerals, supplements, and herbal remedies being used
+
+* Vitamin D: Doctor's Best Vegan D3, 2500 IU, once a day
+
+* Omega-3: Freshfield Vegan Omega-3: once a day
+
+* Calcium/Magnesium/Zinc from Mature Made, once a day
+
+* Vitamin B12 timed release from Walgreens, once a day
+
+I was taking all these regularly throughout the incident.
+
+I also occasionally take Nature Made's Vitamin C when I am feeling
+unwell or suspect I might have been exposed to an infection. I don't
+believe I took it prior to the start of the problems but may have
+taken it once the problems started.
+
+### Question: Did you report this problem to the company that makes the product (the manufacturer/compounder)?
+
+- [ ] Yes
+- [x] No
