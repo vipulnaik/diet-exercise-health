@@ -172,3 +172,9 @@ I made my usual food purchases recorded at
 In the evening, I went to the house a visitor was staying at to meet
 the person. We chatted in the outdoor area of the house for about 1
 hour 45 minutes.
+
+## Sunday September 10
+
+In the late morning, I made a trip to Walgreens for my periodic
+toiletry purchases. This was a bigger and longer trip than usual, and
+the load I carried back was unusually heavy.
