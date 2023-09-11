@@ -1037,6 +1037,37 @@ I also watched these YouTube videos to learn more about MedWatch:
 * [MedWatch Minute for Consumers](https://www.youtube.com/watch?v=6QGBHQfg52Y) from the FDA
 * [MedWatch Forms](https://www.youtube.com/watch?v=Bu2nIVvUTJc) from Amrita Akhouri
 
+After submitting the report, I got an email confirmation of
+acceptance. I also downloaded the submitted report as a PDF and saved
+it.
+
+Here's what the email confirmation said:
+
+```
+Dear Reporter:
+
+
+Thank you for submitting your report to MedWatch, the FDA Safety Information and Adverse Event Reporting Program.
+
+This acknowledgment confirms that your report was received.  Reports are added to a post marketing safety database with similar reports and reviewed by the FDA's post marketing safety staff.  Voluntary reports are essential for ensuring the continued safety of FDA-regulated products.  One or two well documented case reports may provide an early signal of unexpected problems and lead to additional evaluation.  This may result in FDA regulatory actions that improve the safety of the products used in patient care each day.
+
+You will only be contacted for follow-up by FDA if additional information on this report is needed in our evaluation process.
+
+Again, thank you for taking the time to submit your report.  If you have any questions, please send them to:  druginfo@fda.hhs.gov .
+
+If this is a medical emergency, please call 911.
+
+If you have a mental health crisis, please call 988.
+
+Sincerely yours,
+
+FDA MedWatch Team
+```
+
+Below are details of the questions in the form as well as my
+answers. Some portions are redacted as they include personally
+identifiable information.
+
 ### Question: What kind of problem was it?
 
 - [x] Were hurt or had a bad side effect (including new or worsening symptoms)
