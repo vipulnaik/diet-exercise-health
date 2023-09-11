@@ -23,6 +23,7 @@ Sections of this document:
 * [Dental self-care](#dental-self-care)
 * [Other notes](#other-notes)
 * [Not feeling well starting 2023-07-10 likely due to antibiotic](#not-feeling-well-starting-2023-07-10-likely-due-to-antibiotic)
+* [MedWatch report made 2023-09-10](#medwatch-report-made-2023-09-10)
 
 ## Temperature readings
 
