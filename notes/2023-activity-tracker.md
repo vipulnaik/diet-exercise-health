@@ -178,3 +178,10 @@ hour 45 minutes.
 In the late morning, I made a trip to Walgreens for my periodic
 toiletry purchases. This was a bigger and longer trip than usual, and
 the load I carried back was unusually heavy.
+
+## Tuesday September 12
+
+In the late morning / early afternoon, I went to downtown Berkeley. I
+first went to Citibank for some banking transactions. After finishing,
+I went to Trader Joe's for grocery purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
