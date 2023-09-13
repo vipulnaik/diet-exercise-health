@@ -629,6 +629,19 @@ On 2023-09-06, for the first time since the operation, I got takeout
 from Udupi Palace. This was also the first day since the operation
 that I bought (and started eating) tortillas.
 
+### Reintroduction of walnuts on 2023-09-12
+
+On 2023-09-12, I bought walnuts during a Trader Joe's trip, and
+started eating them later in the day. I had been avoiding walnuts due
+to their hard nature.
+
+### Slight sore throat on 2023-09-12
+
+On 2023-09-12, I felt a slight sore throat, which was likely due to a
+combination of a lot of soup-y consumption, not enough water, and a
+lot of outdoor exertion. I expect this to self-resolve but may need to
+revert to a simpler diet if it doesn't resolve in a day or two.
+
 ## Sleep
 
 ### Sleep on night of 2023-08-23
