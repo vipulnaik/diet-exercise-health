@@ -642,6 +642,20 @@ combination of a lot of soup-y consumption, not enough water, and a
 lot of outdoor exertion. I expect this to self-resolve but may need to
 revert to a simpler diet if it doesn't resolve in a day or two.
 
+EDIT: It did resolve and so no further action was needed.
+
+### Reintroduction of sauerkraut on 2023-09-14
+
+On 2023-09-14, in my first meal of the day, I had a little bit of
+sauerkraut. I'm planning to resume sauerkraut, capped to a couple of
+teaspoons in one meal per day (I might increase it a little bit after
+that, though that cap makes sense in general as well).
+
+As of now, the only food type that I stopped in light of the wisdom
+tooth removal, and that I have *not* resumed, is red chutney. I'm
+planning to continue to refrain from red chutney until my next regular
+dental cleaning appointment.
+
 ## Sleep
 
 ### Sleep on night of 2023-08-23
