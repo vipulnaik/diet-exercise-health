@@ -2012,4 +2012,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-09-12','Beefsteak tomato',9),
   ('2023-09-12','TJ Baby Spinach',1),
   ('2023-09-12','Dutch yellow potatoes 1.5lb',1),
-  ('2023-09-12','Alvarado Sprouted Wheat Tortillas',8);
+  ('2023-09-12','Alvarado Sprouted Wheat Tortillas',8),
+  /* 2023-09-15 Trader Joe's; total cost $61.47; paid by credit card */
+  ('2023-09-15','Trader Giotto''s Olive Oil',1),
+  ('2023-09-15','Dutch yellow potatoes 1.5lb',1),
+  ('2023-09-15','TJ Baby Spinach',1),
+  ('2023-09-15','Alvarado Sprouted Wheat Tortillas',5),
+  ('2023-09-15','TJ Carrots',1),
+  ('2023-09-15','Zucchini squash',3), /* 1 pack of 3, so counted as 1 in their receipt */
+  ('2023-09-15','TJ English Shelled Peas',3),
+  ('2023-09-15','Green bell pepper',3),
+  ('2023-09-15','Red bell pepper',2),
+  ('2023-09-15','Beefsteak tomato',5),
+  /* 2023-09-15 Udupi Palace; total cost $14.28; paid by cash */
+  ('2023-09-15','Udupi Palace spinach masala dosa',1);
