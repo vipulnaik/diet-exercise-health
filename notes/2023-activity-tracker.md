@@ -185,3 +185,12 @@ In the late morning / early afternoon, I went to downtown Berkeley. I
 first went to Citibank for some banking transactions. After finishing,
 I went to Trader Joe's for grocery purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Saturday September 16
+
+In the early afternoon, I made a a trip to Walgreens to top up some of
+my stocks. Although this trip wasn't needed (my previous trip had
+already got me up to my desired amount of stocks) I thought of making
+this trip now so that I could benefit from some soon-to-expire coupons
+I had received with my previous visit, and also to increase the
+chances of being fully set for the rest of 2023.
