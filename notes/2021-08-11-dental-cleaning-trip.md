@@ -78,10 +78,10 @@ treatment cost. I had paid $230 out of pocket for the cleaning. The
 two new treatments proposed were:
 
 * Phase I: Full mouth periodontal therapy with 6 week eval / heal
-  rinse: The baseline cost was $1,830 with a 20% discount for
-  membership and a further 5% discount for prepayment. Since an annual
-  membership costs just $360, a membership would "pay for itself" if I
-  decideed to do this.
+  rinse: The baseline cost was $1,830 with a 20% discount ($366) for
+  membership and a further 5% discount ($73.20) for prepayment. Since
+  an annual membership costs just $360, a membership would "pay for
+  itself" if I decided to do this.
 
 * Phase II: PANO/nitrous wisdom tooth extraction: The baseline cost
   was $2,200 wit a 20% discount for membership and a further 5%
@@ -122,9 +122,28 @@ The receptionist recommended that for deep cleaning, booking an
 appointment online would be tricky, so I should instead phone them at
 510 356 0688 and book it.
 
-## Followup: appointment booking
+## Followup: appointment booking and appointments
+
+### Periodontal therapy appointments
 
 On Monday, August 16, around 8:30 AM, I made ea phonee call to the
 number (510 356 0688) and booked periodontal therapy appointments for
-Wednesday September 22 11 AM and Wednesday September 29 1 PM. I made
-the advance payment at the time of booking.
+Wednesday September 22 11 AM and Wednesday September 29 1 PM. The
+appointments would ultimately get delayed by a week due to constraints
+on Total Health Dental Care's side. I made the advance payment at the
+time of booking. More details are in the documents linked below:
+
+* [2021-09-29-periodontal-therapy-first-appointment.md](2021-09-29-periodontal-therapy-first-appointment.md)
+* [2021-10-06-periodontal-therapy-second-appointment.md](2021-10-06-periodontal-therapy-second-appointment.md)
+* [2021-12-15-periodontal-therapy-followup-appointment.md](2021-12-15-periodontal-therapy-followup-appointment.md)
+
+### Wisdom tooth removal appointments
+
+I would get my wisdom teeth removed about two years later. Since I got
+the left and right side done separately, the nitrous cost
+doubled. That, combined with cost increases in the interim, meant that
+overall I paid about $2200 even with the membership. See notes at:
+
+* [2023-wisdom-tooth-removal.md](2023-wisdom-tooth-removal.md)
+* [2023-07-05-wisdom-tooth-removal-left-side.md](2023-07-05-wisdom-tooth-removal-left-side.md)
+* [2023-08-23-wisdom-tooth-removal-right-side.md](2023-08-23-wisdom-tooth-removal-right-side.md)

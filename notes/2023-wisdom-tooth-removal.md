@@ -367,3 +367,8 @@ I wasn't able to have the change made.
 
 I tried calling again on 2023-08-10 and successfully had the
 appointment rescheduled for 2023-08-23 at 1 PM.
+
+### Actual second appointment
+
+For details of the second appointment, see
+[2023-08-23-wisdom-tooth-removal-right-side.md](2023-08-23-wisdom-tooth-removal-right-side.md).
