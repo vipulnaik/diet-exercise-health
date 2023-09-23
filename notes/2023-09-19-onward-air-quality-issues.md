@@ -114,5 +114,12 @@ average dropping below 100 consistently over several hours.
 ## 2023-09-23: window reopened
 
 On the morning of 2023-09-23, after over 12 hours with the AQI being
-below 100, I reopened a window. I continued to not go for my morning
-jog for now.
+below 100, I reopened a window. Although the outdoor air quality
+wasn't ideal, I felt a bit of lethargy likely arising from indoor CO2
+buildup, so I felt that opening a window passed a cost-benefit
+analysis. Also it looks like AQI is largely expected to get better
+from here, but I intend to keep checking the data regularly so that I
+can close the window again in case of deterioration.
+
+I continued to not go for my morning jog for now, but I'm hoping to
+resume tomorrow if things improve further by then.
