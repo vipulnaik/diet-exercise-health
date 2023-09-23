@@ -97,3 +97,22 @@ So, I made the following changes:
   doing desk work. I experienced a sense of relief/improvement after
   wearing the mask, suggesting that the air quality was indeed
   weighing me down.
+
+## 2023-09-21 and 2023-09-22: continued precautions
+
+On both 2023-09-21 and 2023-09-22, I continued keeping the windows
+closed and wearing the KN95 mask for large parts of the day as a
+precautionary measure.
+
+I stopped using the mask around the afternoon of 2023-09-22, after it
+seemed like the indoor air quality was decent and the costs of mask
+fatigue seemed to exceed any benefits of protection.
+
+Outdoor AQI started to improve on Friday evening, with the Berkeley
+average dropping below 100 consistently over several hours.
+
+## 2023-09-23: window reopened
+
+On the morning of 2023-09-23, after over 12 hours with the AQI being
+below 100, I reopened a window. I continued to not go for my morning
+jog for now.
