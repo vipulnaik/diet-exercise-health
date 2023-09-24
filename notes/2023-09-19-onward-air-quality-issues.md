@@ -123,3 +123,14 @@ can close the window again in case of deterioration.
 
 I continued to not go for my morning jog for now, but I'm hoping to
 resume tomorrow if things improve further by then.
+
+## 2023-09-24: return to normal
+
+The reported AQI of Berkeley in the morning on Sunday 2023-09-24 was
+39, which is in the Good range. This was in line with forecasts that
+AQI would improve significantly on Sunday (though the quality of air
+quality forecasts isn't great, so I didn't give too much credence to
+the forecast).
+
+I therefore resumed all normal activity, including exercise and
+outdoor trips.
