@@ -128,8 +128,8 @@ These are my thoughts on timing:
   How did I do? See the sleep section.
 
 * **Finish first meals by 11:30 AM every day starting Saturday August
-    19**: This is again so that the day of the operation is not
-    unusual in terms of the timing of my first meal.
+  19**: This is again so that the day of the operation is not unusual
+  in terms of the timing of my first meal.
 
   How did I do?
 
@@ -203,7 +203,8 @@ I've had at least a day without any significant pain.
 
 ### Sleep plans
 
-As mentioned above, I aim to sleep by 11:30 PM every day starting Saturday August 19.
+As mentioned above, I aim to sleep by 11:30 PM every day starting
+Saturday August 19.
 
 I also hope to wake up organically around 8:30 AM with natural bowel
 movement within 30-45 minutes of waking up. I will set an alarm for
