@@ -696,9 +696,9 @@ some time on my computer, and then had a regular bowel movement.
 
 I resumed some exercises on 2023-08-29:
 
-* I did the standing-on-one-leg exercise, twice standing on the right
-  leg and once standing on the left leg. In all three cases, I was
-  able to clear the 10-second mark.
+* I did the standing-on-one-leg-with-eyes-closed exercise, twice
+  standing on the right leg and once standing on the left leg. In all
+  three cases, I was able to clear the 10-second mark.
 
 * I did a few rounds with the hand gripper, two days ahead of the plan
   (I was planning to resume using the hand gripper on
@@ -710,7 +710,7 @@ I resumed some exercises on 2023-08-29:
 
 * I did a flexibility exercise (touching my hands from behind).
 
-* I did a round of Buteyko breathing and was able to get a control
+* I did a round of Buteyko breath hold and was able to get a control
   pause of 26 seconds.
 
 This was also the first day since the day of the operation that I left
