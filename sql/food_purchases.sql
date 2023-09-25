@@ -2026,7 +2026,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-09-15','Beefsteak tomato',5),
   /* 2023-09-15 Udupi Palace; total cost $14.28; paid by cash */
   ('2023-09-15','Udupi Palace spinach masala dosa',1),
-  /* 2023-09-24 Berkeley Bowl; total cost $33.96; paid by debit card */
+  /* 2023-09-24 Berkeley Bowl; total cost $33.95; paid by debit card */
   ('2023-09-24','Lundberg Organic California White Basmati Rice',1),
   ('2023-09-24','Kite Hill Unsweetened Plain Almond Milk Yogurt',2),
   ('2023-09-24','Cocojune Organic Pure Coconut Dairy Free Yogurt',2),
