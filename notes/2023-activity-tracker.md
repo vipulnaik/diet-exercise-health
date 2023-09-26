@@ -194,3 +194,11 @@ already got me up to my desired amount of stocks) I thought of making
 this trip now so that I could benefit from some soon-to-expire coupons
 I had received with my previous visit, and also to increase the
 chances of being fully set for the rest of 2023.
+
+## Tuesday September 26
+
+In the morning, I made a trip to downtown Berkeley. I first went to
+the post office to drop off mail for a former resident. I then went to
+Citibank for a few financial transactions. After that, I went to
+Trader Joe's for grocery purchases, recorded at
+[food_purchases.sql](../sql/food_purchases.sql).
