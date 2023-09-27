@@ -202,3 +202,11 @@ the post office to drop off mail for a former resident. I then went to
 Citibank for a few financial transactions. After that, I went to
 Trader Joe's for grocery purchases, recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday September 27
+
+In the afternoon, I went to Total Health Dental Care for a dental
+cleaning appointment scheduled for 1 PM. Details are in
+[2023-09-27-dental-cleaning.md](2023-09-27-dental-cleaning.md). After
+the appointment, I went to Walgreens to purchase soft toothbrushes.
+After that I returned home, getting back a little after 2:30 PM.
