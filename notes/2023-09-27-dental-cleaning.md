@@ -12,6 +12,8 @@ side](2023-08-23-wisdom-tooth-removal-right-side.md)).
 Sections of this document:
 
 * [Prior preparation and review on 2023-09-24](#prior-preparation-and-review-on-2023-09-24)
+* [Appointment](#appointment)
+* [Further actions](#further-actions)
 
 ## Prior preparation and review on 2023-09-24
 
@@ -181,3 +183,195 @@ procedure, and not prior to it.
 #### Resume normal exercises starting Thursday September 28
 
 I plan to resume normal exercises starting Thursday September 28.
+
+## Appointment
+
+### Arrival at 12:50 PM
+
+I arrived at the office at 12:50 PM, about ten minutes before the appointment time.
+
+### Initial cleaning
+
+The hygienist who saw me this time was different from the one who's
+seen me the past few times. The new hygienist's name started with F; I
+didn't catch the full name.
+
+The hygienist skipped the mouthwash step and directly went to starting
+to clean my teeth with the scraper., with the air blower being used
+throughout.
+
+### Dental examination: wisdom tooth healing and gum recession
+
+The dentist (Dr. Jessica Ngo) examined my teeth. She said the healing
+from my wisdom tooth removal had proceeded fine. She mentioned that my
+lower right gum area, for the tooth next to the wisdom tooth, was a
+little inflamed, and that might explain the pain I reported.
+
+Her other main feedback was regarding my upper left gum area. She
+mentioned that there had been some gum recession, and based on the
+assessment of overall health of my teeth, she said that this was
+likely caused by toothbrush trauma. She asked me if I was using a
+soft, medium, or hard toothbrush. I said I was using a medium
+toothbrush; she suggested switching to a soft toothbrush, and brushing
+softly and carefully. She was also unsure why the recession was
+localized to that area. I mentioned brushing more around the area
+after the wisdom tooth removal, and also that I had been eating much
+more using the left side of my mouth, which might be a contributing
+factor.
+
+This is the first dental assesssment where gum recession has been
+mentioned. It's possible that things have been building up for a while
+and got to a noticeable state just now. One additional point is that
+the last two examinations were done by other doctors (not Dr. Ngo) and
+different doctors may gravitate to checking slightly different
+things. The most recent examination in December 2022 was done remotely
+by another dentist, so it's possible that subtle indicators were
+missed in the process.
+
+### Other hygienist feedback
+
+The hygienist said that I had plaque on my cheek and suggested
+brushing in that area as well. She said that this has been leading to
+a bit of bone loss in the area (she first mentioned this based on the
+X-ray that she had pulled up, probably from my July visit, even before
+looking in my mouth).
+
+I had not received this feedback previously. I don't know if this
+reflects different focal areas of different hygienists, or the
+evolution of the state of my mouth.
+
+### Further cleaning
+
+After the dental examination, the hygienist did a bit of further
+cleaning using the scraper, but without the air blower.
+
+### Flossing
+
+The hygienist used a mint floss to clean the teeth.
+
+### Prophy/polish
+
+The hygienist did a round of polishing my teeth using a prophy cup.
+
+### Perio chart and gum recession chart
+
+The hygienist did perio charting of my teeth. Also, based on the
+dentist's feedback about early signs of gum recession, she also did a
+gum recession chart. Each of the charts had 6 measuremennts per tooth
+(3 front, 3 back) so a total of 360 numbers?
+
+The perio chart numbers were generally in the 0-3mm range, with the
+occasional 4mm. The gum recession chart numbers were generally like
+(1,1,1) or (1,2,1), but around the upper left area that the dentist
+mentioned, some of the numbers were in the 2-4mm range.
+
+The hygienist said that the perio chart was fine compared to last time
+(no sign of deterioration). As for the gum recession chart, this was
+the first time that that chart was being measured, so there was no
+previous reading to compare with. Reversing existing gum recession
+basically doesn't happen on its own, so the goal for now is to keep an
+eye out for further deterioration. If there's significant
+deterioration then it would be necessary for them to refer me to a
+specialist.
+
+### Next appointment
+
+The next appointment was booked for Wednesday, April 3, 2024, at 1 PM.
+
+## Further actions
+
+### Subjective assessment of dental state
+
+Overall, my teeth feel lighter and less sensitive/inflamed, so I think
+the cleaning worked as expected. In particular, I feel ready to use
+the right side of my mouth more now.
+
+### Cheek and gum roof brushing
+
+I'm planning to consciously brush the inside of both cheeks as well as
+the roof of my mouth with my morning round of brushing. This is based
+on the hygienist's feedback regarding buildup in the cheek area.
+
+### Actions related to gum recession
+
+#### Purchase of soft toothbrushes
+
+On the way back, I purchased 4 soft toothbrushes from Walgreens. After
+getting back home, I also double-checked the rating for my existing
+toothbrushes. It looks like the one I am currently using is in fact
+rated soft! But some of the additional toothbrushes I had previously
+bought for future use were rated medium, and some of the toothbrushes
+I had bought in the past were medium. Basically I had not been
+deliberately choosing soft toothbrushes. Going forward I will be
+careful to only use soft toothbrushes.
+
+#### Further diagnosis of what might be going on with the gum recession over the upper left teeth
+
+While it's possible that the gum recession has been building up over
+years. I'm in particular interested in hypotheses related to recent
+events over the past few months causing the gum recession to become
+notable over my upper left teeth.
+
+* One possibility is that I have been brushing more vigorously in the
+  area after the wisdom tooth removal in order to ensure that I
+  recover properly, and this has been excessive. I should scale back
+  my brushing.
+
+  Remedy: I should consider myself recovered and not in need of
+  special vigor or repetition in this area.
+
+* Another possibility is that the change to the shape of my mouth
+  after the wisdom tooth removal has led to me applying too much
+  pressure in my brushing movements, possibly because I'm pressing
+  assuming there's more stuff (teeth) to press than there actually
+  are. Basically that the amount of pressure that I'm applying has not
+  recalibrated to the absence of the wisdom tooth.
+
+  Remedy: deliberately halve the pressure when getting to an area of
+  the mouth that includes the now-missing wisdom tooth.
+
+* It's also possible that my heavy use of the left side for eating
+  over the last month has led to more wear and tear there, and in turn
+  also prompted me to brush more in the area. I was avoiding use the
+  right side much so as to let it heal fully and benefit from a dental
+  cleaning.
+
+  Remedy: it's time to get back to using the right side fully.
+
+* In the last few days I've been using the floss picks for both meals,
+  compared to the past where I used the interdental brush for one meal
+  and the floss pick for the other. My reason for using the floss pick
+  was the feeling of buildup. With that said, I don't think that
+  just a week of using floss picks a little more frequently could have
+  been responsible for such a big change.
+
+  Remedy: Now that I've got a dental
+  cleaning done I can revert to my old pattern, which might be a bit
+  less traumatic for the teeth.
+
+#### Some research into gum recession charting and periodontal charting
+
+It looks like there's less good online information on gum recession
+charting than on periodontal (pocket) charting. So I wasn't able to
+find authoritative information on how to interpret the numbers .I did
+find [this
+article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3713747/) that
+goes into some detail with pictures, and it has references to earlier
+similar efforts.
+
+I also watched a few videos:
+
+* [Gum Recession - is there a cure?](https://www.youtube.com/watch?v=DEv1GAf76sU)
+  * This provides good explanation regarding how to distinguish
+    between gum recession caused by gum disease and gum recession
+    caused by overbrushing. Among other things, it mentions:
+    * color of gums: pink in case of overbrushing, red/inflamed in
+      case of gum disease
+    * papilla (triangular areas of gums between teeth): filled in case
+      of overbrushing, possibly empty in case of gum disease
+  * It also talks about how thickness of gums can determine how easily
+    recession can occur due to toothbrush trauma
+  * It describes surgical treatments, such as connective tissue graft,
+    that can get the gum back to the cemento-enamel junction (CEJ)
+* [How to Measure Gingival Recession](https://www.youtube.com/watch?v=QoMK-VaTmLU)
+* [Stop Gum Disease with These Brushing Techniques](https://www.youtube.com/watch?v=tobt-klsltg)
