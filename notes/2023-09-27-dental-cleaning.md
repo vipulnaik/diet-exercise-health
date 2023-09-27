@@ -95,6 +95,8 @@ These are my thoughts on timing:
 * **Finish second meals by 8 PM every day starting Saturday September
   23**: This is to keep my digestion in good shape.
 
+  How did I do? I was able to adhere to this!
+
 * **Go to sleep by 11:30 PM every day starting Sunday September 24**:
   This is to promote early sleep/waking and reduce the risk of
   digestive cycle issues on the day of the procedure. My sleep cycle
@@ -102,9 +104,22 @@ These are my thoughts on timing:
   for a lot of document sorting, so it's important to reset my sleep
   cycle.
 
+  How did I do? I was approximately on time on Sunday September 24 (I
+  think I went to sleep just a little after 11:30 PM) and
+  significantly delayed on Monday September 25 (I went to sleep around
+  2:15 AM on Tuesday). The reason for the delay on Monday was the
+  delay related to doing laundry and finishing a work-related task.
+  
 * **Finish first meal by 11:30 AM on Tuesday September 26**: This will
   make sure my meal cycle is not too far off by the date of the
   appointment (Wednesday).
+
+  How did I do? I couldn't adhere to this. The reason was that I
+  wanted to do a grocery trip and given the temperature forecast, it
+  made sense to do the grocery trip in the morning rather than in the
+  afternoon when it would be hotter. Unfortunately this meant delaying
+  my meal, because I also got up a bit late, thanks to having slept
+  late the previous day.
 
 #### Meal prep prior to procedure
 
@@ -135,6 +150,16 @@ issues](2023-09-19-onward-air-quality-issues.md).
 I also hope to wake up organically around 8:30 AM with natural bowel
 movement within 30-45 minutes of waking up. I will set an alarm for
 around 9:15 AM except on days where I have earlier appointments.
+
+How did I do? I was approximately on time on Sunday September 24 (I
+think I went to sleep just a little after 11:30 PM) and significantly
+delayed on Monday September 25 (I went to sleep around 2:15 AM on
+Tuesday). The reason for the delay on Monday was the delay related to
+doing laundry and finishing a work-related task.
+
+Due to the delay going to sleep Monday night, I was also delayed
+getting up on Tuesday morning, getting up a little after 9 AM instead
+of by 8:30 AM as I had hoped.
 
 ### Exercise plans
 
