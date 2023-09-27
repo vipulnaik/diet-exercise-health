@@ -338,6 +338,12 @@ notable over my upper left teeth.
 
   Remedy: it's time to get back to using the right side fully.
 
+* I've also been obsessively probing my teeth with my tongue out of
+  fear of food being stuck in the wisdom tooth area. It's possible
+  that this obsessive probing puts stress on the nearby gums.
+
+  Remedy: cut down on the probing.
+
 * In the last few days I've been using the floss picks for both meals,
   compared to the past where I used the interdental brush for one meal
   and the floss pick for the other. My reason for using the floss pick
