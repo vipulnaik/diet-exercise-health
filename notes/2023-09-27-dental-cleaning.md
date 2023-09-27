@@ -380,4 +380,5 @@ I also watched a few videos:
   * It describes surgical treatments, such as connective tissue graft,
     that can get the gum back to the cemento-enamel junction (CEJ)
 * [How to Measure Gingival Recession](https://www.youtube.com/watch?v=QoMK-VaTmLU)
+* [Periodontal Charting Explained - Part 1](https://www.youtube.com/watch?v=Yv8MIZ2MxKw)
 * [Stop Gum Disease with These Brushing Techniques](https://www.youtube.com/watch?v=tobt-klsltg)
