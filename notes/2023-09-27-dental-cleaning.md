@@ -240,7 +240,8 @@ The hygienist said that I had plaque on my cheek and suggested
 brushing in that area as well. She said that this has been leading to
 a bit of bone loss in the area (she first mentioned this based on the
 X-ray that she had pulled up, probably from my July visit, even before
-looking in my mouth).
+looking in my mouth). She also asked if I have issues with grinding my
+teeth, to which I replied that I didn't.
 
 I had not received this feedback previously. I don't know if this
 reflects different focal areas of different hygienists, or the
@@ -297,6 +298,16 @@ the right side of my mouth more now.
 I'm planning to consciously brush the inside of both cheeks as well as
 the roof of my mouth with my morning round of brushing. This is based
 on the hygienist's feedback regarding buildup in the cheek area.
+
+### Jaw tightening and teeth grinding
+
+I had told the hyigenist that I don't grind my teeth, and I think this
+is overall a correct assessment. However, while in bed early the next
+morning, I noticed a tendency to clench my jaw occasionally in that
+sleepy state. So I think I should be a bit more careful about
+this. This might also connect with some of the issues observed in
+[December 2018 with head, neck, jaw, and tooth
+pain](2018-12-head-neck-jaw-tooth-pain.md).
 
 ### Actions related to gum recession
 
