@@ -31,4 +31,8 @@ on the morning of 2023-09-19 prior to the air quality issues. For
 2023-09-20 to 2023-09-23, I skipped jogging, strength exercises, as
 well as other exercises to keep my breathing needs to a minimum.
 
+## 2023-09-24: halved run, with running both ways
 
+I had limited time for my run as I needed to return for a meeting. So
+I did a half-run, but ran both forward and back, so that my total
+distance run was similar to the usual distance.
