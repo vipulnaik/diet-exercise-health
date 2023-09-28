@@ -273,3 +273,18 @@ Got up around 5:15 AM the next morning.
 
 NOTE: I stopped taking notes at daily cadence starting Monday January
 7 because the pain was no longer significant.
+
+## Further relevant material (discovered 2023-09-27)
+
+I found [this video segment (about pain
+radiation)](https://youtu.be/lTClWMfBCP0?t=241) to be helpful for
+understanding what might have happened. It was either one of these:
+
+* Stress exacerbated tooth inflammation that was already ready to go,
+  and he tooth inflammation radiated out to the TMJ, causing TMJ
+  disorder.
+
+* Stress caused TMJ disorder that then radiated to my teeth, that were
+  already in bad shape so that they were easily subject to toothaches.
+
+The former is likely what was happening.
