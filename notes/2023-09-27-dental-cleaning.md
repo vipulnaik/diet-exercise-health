@@ -210,14 +210,20 @@ little inflamed, and that might explain the pain I reported.
 Her other main feedback was regarding my upper left gum area. She
 mentioned that there had been some gum recession, and based on the
 assessment of overall health of my teeth, she said that this was
-likely caused by toothbrush trauma. She asked me if I was using a
-soft, medium, or hard toothbrush. I said I was using a medium
-toothbrush; she suggested switching to a soft toothbrush, and brushing
-softly and carefully. She was also unsure why the recession was
-localized to that area. I mentioned brushing more around the area
-after the wisdom tooth removal, and also that I had been eating much
-more using the left side of my mouth, which might be a contributing
-factor.
+likely caused by "toothbrush trauma" as she put it. She asked me if I
+was using a soft, medium, or hard toothbrush. I said I was using a
+medium toothbrush; she suggested switching to a soft toothbrush, and
+brushing softly and carefully.
+
+She was also unsure why the recession was localized to that area. She
+asked me if I was left-handed or right-handed, as her theory was that
+I was right-handed and therefore applying too much pressure on the
+left side. However, I replied that I'm left-handed and use my left
+hand for the toothbrush.
+
+I mentioned brushing more around the area after the wisdom tooth
+removal, and also that I had been eating much more using the left side
+of my mouth, which might be a contributing factor.
 
 This is the first dental assesssment where gum recession has been
 mentioned. It's possible that things have been building up for a while
