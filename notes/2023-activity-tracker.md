@@ -210,3 +210,10 @@ cleaning appointment scheduled for 1 PM. Details are in
 [2023-09-27-dental-cleaning.md](2023-09-27-dental-cleaning.md). After
 the appointment, I went to Walgreens to purchase soft toothbrushes.
 After that I returned home, getting back a little after 2:30 PM.
+
+## Friday September 29
+
+In the late afternoon / early evening, I made a trip, first for some
+printing work, then to the post office, and then to the Amazon Hub
+Locker at ASUC Berkeley to pick up packages. All in all, I was out and
+about for about 3 hours.
