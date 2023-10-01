@@ -40,15 +40,3 @@ See [here](2023-09-27-dental-cleaning.md#exercise-plans) for details.
 I had limited time for my run as I needed to return for a meeting. So
 I did a half-run, but ran both forward and back, so that my total
 distance run was similar to the usual distance.
-
-## 2023-09-30: deferred run due to probability of rain
-
-I decided to defer or skip my morning run, due to the cast weather and
-the 15% probability of rain, that seems too high to risk going
-out. However, I might go out later in the day even if the probability
-of rain doesn't go down; I'm hoping it goes down and I can go out with
-less risk.
-
-Oh wait ... as I was writing this, the probability did drop. However,
-it's getting late and I need to eat. So I'll probably go in the
-afternoon a couple of hours after eating.
