@@ -217,3 +217,9 @@ In the late afternoon / early evening, I made a trip, first for some
 printing work, then to the post office, and then to the Amazon Hub
 Locker at ASUC Berkeley to pick up packages. All in all, I was out and
 about for about 3 hours.
+
+## Tuesday October 3
+
+Shortly before noon, I made a trip to the USPS post office at 3175
+Adeline Street to send out priority mail and return mail that I had
+received for a former resident.
