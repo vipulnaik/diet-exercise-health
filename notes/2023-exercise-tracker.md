@@ -40,3 +40,11 @@ See [here](2023-09-27-dental-cleaning.md#exercise-plans) for details.
 I had limited time for my run as I needed to return for a meeting. So
 I did a half-run, but ran both forward and back, so that my total
 distance run was similar to the usual distance.
+
+## 2023-10-03: skipped run because it was getting late and the afternoon is hot
+
+I was wrapping up some work-related items and then needed to make a
+trip to the post office. By the time I got back, it was starting to
+get hot, and not ideal for my run. It was also late and I needed to
+wrap up other things. Since I'll be out a bunch tomorrow for my eye
+exam, I decided to skip jogging.
