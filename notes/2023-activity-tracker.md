@@ -221,5 +221,5 @@ about for about 3 hours.
 ## Tuesday October 3
 
 Shortly before noon, I made a trip to the USPS post office at 3175
-Adeline Street to send out priority mail and return mail that I had
-received for a former resident.
+Adeline Street to send out priority mail (for my California state tax
+return) and return mail that I had received for a former resident.
