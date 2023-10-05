@@ -48,3 +48,15 @@ trip to the post office. By the time I got back, it was starting to
 get hot, and not ideal for my run. It was also late and I needed to
 wrap up other things. Since I'll be out a bunch tomorrow for my eye
 exam, I decided to skip jogging.
+
+## 2023-10-04: skipped run due to eye exam
+
+I skipped my run this morning as I had an eye exam in the afternoon;
+see [2023-10-04-eye-exam.md](2023-10-04-eye-exam.md) for details.
+
+## 2023-10-05: skipped run due to missing the cool time window
+
+On 2023-10-05, I skipped my run as I wasn't able to go for the run
+during the time window when it was still cool, due to some morning
+tasks and meetings. By the time these were done. the temperature was
+too high.
