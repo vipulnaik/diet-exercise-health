@@ -223,3 +223,9 @@ about for about 3 hours.
 Shortly before noon, I made a trip to the USPS post office at 3175
 Adeline Street to send out priority mail (for my California state tax
 return) and return mail that I had received for a former resident.
+
+## Wednesday October 4
+
+In the early afternoon, I made a trip to the Tang Center for an eye
+exam. See [2023-10-04-eye-exam.md](2023-10-04-eye-exam.md) for more
+details.
