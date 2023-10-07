@@ -167,6 +167,12 @@ Union to pick up a package. I was done shortly after 7 PM. After that,
 I made my usual food purchases recorded at
 [food_purchases.sql](../sql/food_purchases.sql).
 
+## Friday August 23
+
+In the early afternoon, I went for my wisdom tooth removal (right
+side) appointment. Details are in
+[2023-00-23-wisdom-tooth-removal-left-side.md](2023-08-23-wisdom-tooth-removal-left-side.md).
+
 ## Friday September 1
 
 In the evening, I went to the house a visitor was staying at to meet
