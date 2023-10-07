@@ -61,13 +61,13 @@ during the time window when it was still cool, due to some morning
 tasks and meetings. By the time these were done. the temperature was
 too high.
 
-## 2023-10-05 and 2023-10-06: skipped strength exercises
+## 2023-10-05 to 2023-10-07: skipped strength exercises
 
 On 2023-10-05, I skipped strength exercises along with skipping my run
 (I generally do strength exercises after returning from my run as I'm
-warmed up). On 2023-10-06, I did go for my run; however, due to the
-heat I was exhausted by the time I returned, so I skipped strength
-exercises.
+warmed up). On 2023-10-06 and 2023-10-07, I did go for my run;
+however, due to the heat I was exhausted by the time I returned, so I
+skipped strength exercises.
 
 I aim to do strength exercises once every two days and record skips
 starting the third or fourth consecutive day of skipping. In this
