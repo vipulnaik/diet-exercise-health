@@ -73,3 +73,10 @@ I aim to do strength exercises once every two days and record skips
 starting the third or fourth consecutive day of skipping. In this
 case, I had already skipped strength exercises on 2023-10-03 and
 2023-10-04 as noted above.
+
+## 2023-10-09: halved run due to probability of rain
+
+On 2023-10-09, the probability of rain was around 15%, so instead of
+taking the full run I took a halved run, but ran a large part of both
+ways, so that my total running distance was comparable to my usual
+running distance.
