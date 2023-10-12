@@ -657,6 +657,12 @@ tooth removal, and that I have *not* resumed, is red chutney. I'm
 planning to continue to refrain from red chutney until my next regular
 dental cleaning appointment.
 
+### Reintroduction of red chutney on 2023-10-12
+
+I reintroduced red chutney into my diet on 2023-10-12. This was 15
+days after my regular dental cleaning appointment. By this point, my
+dental situation appears to have returned to normal.
+
 ## Sleep
 
 ### Sleep on night of 2023-08-23
