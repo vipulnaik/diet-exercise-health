@@ -235,3 +235,9 @@ return) and return mail that I had received for a former resident.
 In the early afternoon, I made a trip to the Tang Center for an eye
 exam. See [2023-10-04-eye-exam.md](2023-10-04-eye-exam.md) for more
 details.
+
+## Friday October 13
+
+In the afternoon, I went to the Walgreens on Adeline Street for my flu
+shot; see [here](2023-10-13-flu-shot.md) for details. After that, I
+went for some printing work. I got back home around 5:30 PM.
