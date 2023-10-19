@@ -241,3 +241,10 @@ details.
 In the afternoon, I went to the Walgreens on Adeline Street for my flu
 shot; see [here](2023-10-13-flu-shot.md) for details. After that, I
 went for some printing work. I got back home around 5:30 PM.
+
+## Wednesday October 18
+
+In the early afternoon, I made a trip to the Claremont DMV. I was in
+the DMV from around 12:50 PM to around 1:20 PM. On the way back, I
+stopped at the post office at 3175 Adeline Street to mail some stuff;
+this was shortly after 2 PM.
