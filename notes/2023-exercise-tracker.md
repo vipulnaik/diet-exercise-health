@@ -80,3 +80,9 @@ On 2023-10-09, the probability of rain was around 15%, so instead of
 taking the full run I took a halved run, but ran a large part of both
 ways, so that my total running distance was comparable to my usual
 running distance.
+
+## 2023-10-20: halved run due to time crunch
+
+On 2023-10-20, I needed to get back for a meeting, so I took a halved
+run, but ran a large part of both ways, so that my total running
+distance was comparable to my usual running distance.
