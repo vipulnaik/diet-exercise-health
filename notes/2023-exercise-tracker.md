@@ -81,6 +81,15 @@ taking the full run I took a halved run, but ran a large part of both
 ways, so that my total running distance was comparable to my usual
 running distance.
 
+## 2023-10-14 to 2023-10-20: break from strength exercises
+
+Between 2023-10-14 and 2023-10-20, I took a break from strength
+exercises (except the hand gripper exercise, that I continued to do)
+due to slight soreness after my [flu
+shot](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-10-13-flu-shot.md)
+and in order to reduce the risk of exacerbating that soreness. I
+resumed strength exercises (weights and pushups) on 2023-10-21.
+
 ## 2023-10-20: halved run due to time crunch
 
 On 2023-10-20, I needed to get back for a meeting, so I took a halved
