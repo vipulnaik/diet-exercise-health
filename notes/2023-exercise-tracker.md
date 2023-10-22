@@ -74,7 +74,7 @@ starting the third or fourth consecutive day of skipping. In this
 case, I had already skipped strength exercises on 2023-10-03 and
 2023-10-04 as noted above.
 
-## 2023-10-09: halved run due to probability of rain
+## 2023-10-09: halved run (running both ways) due to probability of rain
 
 On 2023-10-09, the probability of rain was around 15%, so instead of
 taking the full run I took a halved run, but ran a large part of both
@@ -90,8 +90,15 @@ shot](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-1
 and in order to reduce the risk of exacerbating that soreness. I
 resumed strength exercises (weights and pushups) on 2023-10-21.
 
-## 2023-10-20: halved run due to time crunch
+## 2023-10-20: halved run (running both ways) due to time crunch
 
 On 2023-10-20, I needed to get back for a meeting, so I took a halved
 run, but ran a large part of both ways, so that my total running
 distance was comparable to my usual running distance.
+
+## 2023-10-22: halved run (running both ways) due to probability of rain
+
+On 2023-10-22, the probability of rain was around 15%, so instead of
+taking the full run I took a halved run, but ran a large part of both
+ways, so that my total running distance was comparable to my usual
+running distance.
