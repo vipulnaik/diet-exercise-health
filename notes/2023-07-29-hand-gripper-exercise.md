@@ -55,3 +55,11 @@ consistent close with my right hand.
 
 I felt pain in the area of my fingers that had pressed the gripper
 after closing this; it was clearly effortful.
+
+## Update on 2023-10-23 / 2023-10-24 / 2023-10-25
+
+I am now occasionally just about able to close the 150 lb hand gripper
+with my left hand. I can also now reasonably consistently close the
+150 lb hand gripper with my right hand. I continue to be able to
+comfortably close the 100 lb hand gripper with either hand, though
+with the left hand it still is a bit displaced sometimes.
