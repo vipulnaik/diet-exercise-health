@@ -248,3 +248,9 @@ In the early afternoon, I made a trip to the Claremont DMV. I was in
 the DMV from around 12:50 PM to around 1:20 PM. On the way back, I
 stopped at the post office at 3175 Adeline Street to mail some stuff;
 this was shortly after 2 PM.
+
+## Thursday October 26
+
+On the afternoon of 2023-10-26, around 1 PM, I made a brief trip to
+the Tarea Hall Pittman South Branch of the Berkeley Public
+Library. This was my first time checking the place out.
