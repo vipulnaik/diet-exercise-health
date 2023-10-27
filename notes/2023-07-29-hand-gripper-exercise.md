@@ -63,3 +63,24 @@ with my left hand. I can also now reasonably consistently close the
 150 lb hand gripper with my right hand. I continue to be able to
 comfortably close the 100 lb hand gripper with either hand, though
 with the left hand it still is a bit displaced sometimes.
+
+## Intermittently reduced right hand strength on 2023-10-27
+
+On Friday 2023-10-27, I tried the hand gripper at 9 AM. I was able to
+comfortably close the 100 lb with both hands, but was not able to
+close the 150 lb with either hand. Whereas not being able to close it
+with the left hand was as expected, not being able to close it with
+the right hand was unexpected.
+
+When I tried again shortly after 10 AM, the situation with my left
+hand hadn't changed, but my right hand had further deteriorated, with
+it just barely being able to close the 100 lb sometimes (and not even
+being able to close it at other times).
+
+I applied vaseline and waited a minute and tried again. The situation
+had now reverted to what it had been around 9 AM: I could close 100 lb
+comfortably with both hands, but I couldn't close 150 lb with either
+hand.
+
+I tried again after a minute, and now I was just barely able to cloe
+the 150 lb with my right hand.
