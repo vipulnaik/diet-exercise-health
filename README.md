@@ -87,8 +87,9 @@ considerations that lead me to private recording:
     actual results portion into
     [test_results.sql](sql/test_results.sql) and not make the reports
     public.
-  * Information about my neighbors or others incidentally in my life,
-    who may not consent to having such information available publicly
+  * Information about my family members, friends, neighbors or others
+    incidentally in my life, who may not consent to having such
+    information available publicly
   * Information about my work arrangements or events at work that
     might interact with my personal health incidents
 
@@ -97,22 +98,6 @@ considerations that lead me to private recording:
   situations I may opt for private recording. However, if the overall
   incident qualifies based on previous criteria, I'll at least record
   the overall contours of the incident publicly.
-
-I generally use private recording for free-form notes such as these:
-
-* Care notes: Basically, these are notes for things to keep in mind
-  for how to better care for myself; this has a focus on both my
-  personal health and my productivity/efficiency. I just keep jotting
-  down the notes as things occur that give me ideas (these could be
-  near-accidents, or things that I feel I should have done
-  differently, or ideas I got by observing or reflecting on a
-  situation). Most of these are a few steps removed from actual health
-  impacts, or affect it only probabilistically.
-
-* Violation counts: If I've decided on following some practice, but I
-  don't always follow it, I might record cases that I didn't follow it
-  in a document so I can review for patterns and reduce the incidence
-  of violations.
 
 I also have a few SQL files recorded privately; these correspond to
 private aspects of my health.
