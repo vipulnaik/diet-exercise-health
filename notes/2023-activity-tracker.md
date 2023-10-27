@@ -254,3 +254,8 @@ this was shortly after 2 PM.
 On the afternoon of 2023-10-26, around 1 PM, I made a brief trip to
 the Tarea Hall Pittman South Branch of the Berkeley Public
 Library. This was my first time checking the place out.
+
+## Friday October 27
+
+Between 11 AM and noon, I made a trip to the Tarea Hall Pittman South
+Branch of the Berkeley Public Library.
