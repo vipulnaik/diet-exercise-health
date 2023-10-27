@@ -27,13 +27,13 @@ appointment was made on November 29, 2016 for December 1,
 2016. However, it got rescheduled to December 5, 2016.
 
 The doctor asked me a bunch of questions in the appointment and took
-various notes. The end result was that he felt that since I've already
-started feeling better, there's probably nothing more to do for the
-time being. But to be on the safe side, he ordered a bunch of tests. I
-decided to get them done via LabCorp (he said using LabCorp or Quest
-Diagnostics would likely be cheaper than using their own center, and
-LabCorp's testing locations were conveniently placed relative to my
-residence).
+various notes. He also did a physical exam of me. The end result was
+that he felt that since I've already started feeling better, there's
+probably nothing more to do for the time being. But to be on the safe
+side, he ordered a bunch of tests. I decided to get them done via
+LabCorp (he said using LabCorp or Quest Diagnostics would likely be
+cheaper than using their own center, and LabCorp's testing locations
+were conveniently placed relative to my residence).
 
 ## Testing
 

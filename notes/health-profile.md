@@ -7,8 +7,20 @@ periodically. It does not include details of specific
 events/incidents, that are generally recorded in their own respective
 files.
 
+When updating this document:
+
+* Make sure to update the links to the last dental appointment and the
+  last eye exam.
+* Go through the whole document to see if anything else needs updating.
+
+Sections of this document:
+
 * [Vital signs](#vital-signs)
 * [Physical build](#physical-build)
+* [Dental status](#dental-status)
+* [Eye status](#eye-status)
+* [Physical exam](#physical-exam)
+* [Lipid profile](#lipid-profile)
 * [Diet](#diet)
 * [Supplements](#supplements)
 * [Exercise](#exercise)
@@ -93,6 +105,98 @@ My weight has stayed largely stable over the past several years as of
 I have a lean, athletic appearance. My waist size is at the "small"
 end, with shorts/trousers sizes of 28 and 30 generally working for me,
 and 32 being manageable with a tight belt.. I do not have a paunch.
+
+## Dental status
+
+* I generally get dental checkups and cleaning done every 6-7
+  months. As of 2023, my dental care is handled by Total Health Dental
+  Care, and I go to the branch at 3017 Telegraph Avenue. The notes for
+  the most recent appointment should reflect the current status of my
+  dental health. Look in my notes folder for files with the word
+  `dental-cleaning` in them to locate the most recent appointment. As
+  of the last major edit of this document,
+  [this](2023-09-27-dental-cleaning.md) is my most recent appointment.
+
+* All four of my wisdom teeth have been removed. The removal was done
+  in 2023: [overall doc](2023-wisdom-tooth-removal.md), [left
+  side](2023-07-05-wisdom-tooth-removal-left-side.md), and [right
+  side](2023-08-23-wisdom-tooth-removal-right-side.md).
+
+* I got periodontal therapy in September / October 2021, i.e., I had a
+  below-the-gumline deep cleaning done. For more details, see [first
+  appointment](2021-09-29-periodontal-therapy-first-appointment.md),
+  [second
+  appointment](2021-10-06-periodontal-therapy-second-appointment.md),
+  and [followup
+  appointment](2021-12-15-periodontal-therapy-followup-appointment.md).
+
+* My [December 2018 document on a bunch of related
+  pains](2018-12-head-neck-jaw-tooth-pain.md) that I experienced,
+  including dental pain, and that also marked the start of my
+  photosensitivity, may be worth reading.
+
+## Eye status
+
+* I get eye exams every 1-2 years. As of 2023, I get my eye exams from
+  UC Berkeley Optometry. Look in the notes folder for files with
+  `eye-exam` in them to locate information on my eye exams. The most
+  recent one is generally the one to pay attention to. As of the last
+  major edit of this document, [this](2023-10-04-eye-exam.md) is my
+  most recent eye exam.
+
+* I have some issues with distance vision, as evinced in the eye exam
+  results. Since I don't drive, and the issues haven't gotten in my
+  way so far, I have not chosen to get corrective lenses for these
+  issues.
+
+* Other things surfaced by my eye exam: (benevolent so far) melanosis,
+  and a difference in the inner/outer ratio between my left and right
+  eye (seen through fundus photos). To monitor for trends in either
+  eye, I get fundus photos taken with each eye exam (this costs an
+  extra $20).
+
+* I have a mild form of photosensitivity, whereby being in sunlight or
+  indoor lighting for an extended period of time (generally over an
+  hour) can cause me to get fatigued. I have adjusted to this by
+  getting sunglasses for outdoor trips, using dark mode and low-light
+  settings for my electronics use, and keeping the lights off in the
+  evening / at night most of the time. The photosensitivity started
+  along with my [Decemer 2018 head/neck/jaw/tooth
+  pain](2018-12-head-neck-jaw-tooth-pain.md).
+
+## Physical exam
+
+As of 2023, my last physical exam was in December 2016, when I went to
+a gastro specialist for my stomach pain issues. See
+[here](2016-11-to-2016-12-stomach-pain-and-resolution.md#doctor-visit)
+for more context.
+
+I have not had any physical exams beyond blood pressure measurement
+done as part of my eye exam.
+
+## HbA1c and lipid profile
+
+One of the sets of metrics I get tested every few years is my lipid
+profile and HbA1c. This is due to a family history of diabetes and
+other complications. For the full list of readings, see
+[test_results.sql](../sql/test_results.sql).
+
+### HbA1c
+
+The HbA1c is a percentage, though the percentage sign is usually
+omitted from the readings. 6.5 and higher is considered diabetic, 5.7
+to 6.4 is considered prediabetic, and 4 to 5.6 is considered normal.
+
+My HbA1c has never been measured in the prediabetic range. In December
+2016, when I was having stomach issues, and in general had a
+relatively unhealthy diet with more consumption of hot chocolate (a
+sugary drink) and outside food, my HbA1c was at 5.5, a little below
+the prediabetic range.
+
+However, my more recent reading as of June 2021 gives a HbA1c of 5.0,
+which is far enough away from the prediabetic range. This likely
+reflects improvements to diet (no sugary drinks, and less outside
+food).
 
 ## Diet
 
@@ -397,4 +501,3 @@ I do not recall taking any non-supplement medication other than these
 since 2018; I also don't recall taking non-supplement medication since
 2014, though I might have taken some prior to 2018 that I don't
 recall.
-
