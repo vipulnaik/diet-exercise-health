@@ -359,6 +359,9 @@ From 2007 to 2013 I was in Chicago and got clear-cut cases of the
 common cold (not attributable to anything dietary) once everty 1-2
 years.
 
+In my childhood, I used to get common colds quite often (perhaps even
+more frequently than my peers).
+
 ### Other cases of fever (excluding after vaccines)
 
 * [2022-04-05 fall and phone screen
@@ -373,11 +376,23 @@ years.
   episode](2020-coronavirus-activity-tracker#tuesday-july-28) that
   resolved after a long night's sleep.
 
+### Childhood diseases
+
+#### Chickenpox
+
+I got chickenpox when I was around 4 or 5.
+
+#### Ear infection
+
+I got an ear infection before the age of 4, due to which I lost about
+60% of my hearing. Fortunately, the infection was detected quickly and
+I was operated on and recovered my hearing.
+
 ## Injuries
 
 See [accidents.sql](../sql/accidents.sql) that includes accidents that
-injured me or damaged my stuff. The most significant injuries that
-affected me bodily are listed below:
+injured me or damaged my stuff. The most significant injuries since
+2014 that affected me bodily are listed below:
 
 * [2022-04-05 fall and phone screen
   crack](2022-04-05-fall-and-phone-screen-crack.md): This was a
@@ -480,6 +495,32 @@ taking a break from outdoor trips, closing windows, and masking up if
 I do need to go outdoors. See [2023-09-19 onward air quality
 issues](2023-09-19-onward-air-quality-issues.md) for an example of
 such an incident.
+
+### No smoking, alcohol, or recreational drugs
+
+#### Smoking
+
+I have never smoked or used other nicotine-based products.
+
+I have not been exposed to any significant amount of secondhand or
+thirdhand smoke. I haven't been indoors with somebody smoke for the
+past several years as of 2023, and have only briefly passed by or
+trailed people smoking outdoors occasionally.
+
+#### Alcohol
+
+I do not consume any alcoholic beverages, and have never consumed
+alcoholic beverages in a significant amount. I have sipped small
+amounts of alcoholic beverages to get a sense of how they taste and
+smell.
+
+Cough syrup that I consumed (and mostly didn't like) as a child did
+contain a nontrivial amount of alcohol.
+
+#### Recreational drugs
+
+I have not personally tried, or been in a closed room with other
+people trying, recreational drugs.
 
 ## Diet
 
