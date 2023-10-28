@@ -11,6 +11,8 @@ When updating this document:
 
 * Make sure to update the links to the last dental appointment and the
   last eye exam.
+* Make sure to update the HbA1c and lipid profile section to reflect
+  the latest test results.
 * Go through the whole document to see if anything else needs updating.
 
 Sections of this document:
@@ -20,7 +22,7 @@ Sections of this document:
 * [Dental status](#dental-status)
 * [Eye status](#eye-status)
 * [Physical exam](#physical-exam)
-* [Lipid profile](#lipid-profile)
+* [HbA1c and lipid profile](#hba1c-and-lipid-profile)
 * [Diet](#diet)
 * [Supplements](#supplements)
 * [Exercise](#exercise)
@@ -197,6 +199,65 @@ However, my more recent reading as of June 2021 gives a HbA1c of 5.0,
 which is far enough away from the prediabetic range. This likely
 reflects improvements to diet (no sugary drinks, and less outside
 food).
+
+### Lipid profile
+
+I've taken lipid profile measurements starting April 2004, with my
+most recent measurement being in June 2021 as part of my [2021 blood
+test plans](2021-blood-test-plans.md).
+
+Overall, my most recent lipid profile (as of 2021) is close enough to
+normal, but this is something I need to continue monitoring given
+family diabetic tendencies.
+
+#### Cholesterol total (acceptable range: 0-200 mg/dL)
+
+My cholesterol total has always stayed within range. Overall, it
+appears to have been increasing somewhat from ~150 in 2004 to being
+only slightly below the upper limit of 200 in the last test in 2021.
+
+It will be interesting to see how my cholesterol evolves as of the
+next measurement. I've made a number of improvements to diet and
+lifestyle since the previous measurement.
+
+#### Cholesterol HDL direct (acceptable range: 30-60 mg/dL)
+
+My first cholesterol HDL direct reading, done 2004, showed a result of
+28, below the acceptable range. Since then, my HDL has been generally
+increasing. The last two readings (2017 and 2021) were 51 and 46
+respectively, which are well within the range and specifically, in the
+upper half of the range.
+
+#### Cholesterol LDL (acceptable range: 0-100 mg/dL)
+
+My LDL measurements have always hovered around the threshold, with the
+very first reading in April 2004 being 99, just below the threshold of
+100. My last two measurements, in November 2017 and June 2021, have
+both come out above 100, at 109.7 and 122 respectively.
+
+#### Cholesterol VLDL (acceptable range: 0-35 mg/dL)
+
+My VLDL measurements have generally been within the acceptable range,
+though there were two outlier measurements, in 2005 and 2007
+respectively, both from the same lab. My November 2017 measurement of
+15.8 was safely within the limit.
+
+The June 2021 tests do not include any measurement of VLDL. According
+to [this page](https://medlineplus.gov/vldlcholesterol.html), VLDL
+*can't* be directly measured, and it is extrapolated based on serum
+triglycerides by taking 1/5 of the value of serum
+triglycerides. Empirically, it does look like the reported test
+results since September 2005 have followed the 1/5 formula, so if we
+applied the same formula to the June 2021 test results, then the VLDL
+would work out to 24.8, which would be within the normal range.
+
+### Serum triglycerides (acceptable range: 0-150 mg/dL)
+
+Using the 1/5 mapping of cholesterol VLDL and serum triglycerides, it
+seems that the threshold on triglycerides is a little stricter than on
+VLDL. Some of my older readings were above the threshold, but my most
+recent readings have been within the threshold, with the two recent
+readings being 79 (November 2017) and 124 (June 2021).
 
 ## Diet
 

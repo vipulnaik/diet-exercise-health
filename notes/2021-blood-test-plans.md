@@ -81,7 +81,9 @@ sense.
 
 My reading came to 5.0%, compared to a threshold 5.7% for increased
 risk of diabetes, and 6.5% for diabetes. My HbA1c seems to be in a
-fairly safe place. No action is needed.
+fairly safe place. No action is needed. This is also a relief because
+my previous measurement of 5.5% was close to the prediabetic threshold
+of 5.7%.
 
 I do not plan to get tested for HbA1c for the next two years unless
 I get a concerning lipid profile result before then.
