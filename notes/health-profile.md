@@ -322,20 +322,42 @@ July 2023](2023-07-29-hand-gripper-exercise.md).
 
 I have had occasional cases of sore throat / running nose, that I
 believe might be due to the common cold or other causes, such as
-dietary irritants. In many of the cases, I suspect dietary irritants
-as the likely cause.
+dietary irritants. In all the cases, I suspect dietary irritants
+rather than respiratory cold viruses as the cause, but I might be
+wrong in some of the cases.
 
 * [2023-08-04 sore throat suspected to be due to sauerkraut and red
   chutney
   consumption](2023-08-04-sauerkraut-red-chutney-and-sore-throat.md):
   This was during my recovery period from my [2023-07-05 wisdom tooth
-  removal (left side)](2023-07-05-wisdom-tooth-removal-left-side.md).
+  removal (left side)](2023-07-05-wisdom-tooth-removal-left-side.md),
+  and was likely due to aftereffects of the wisdom tooth removal
+  itself or my body's adverse reaction to the preventative antibiotic
+  (clindamycin) that I took after the procedure.
+
+* [2021-08-28 sore throat after
+  meals](2021-08-28-sore-throat-after-meals.md): Just a sore throat,
+  no runny nose; I addressed this with some remedial measures.
+
+* [2021-02-27 sauerkraut and sore
+  throat](2021-02-27-sauerkraut-and-sore-throat.md): Just a sore
+  throat, no runny nose; I addressed this by briefly taking a break
+  from sauerkraut.
 
 * [2019-08-30 Thai yellow curry and subsequent
   cold](2019-08-30-thai-yellow-curry-and-subsequent-cold.md): After
   having a huge amount of Thai yellow cury, I had a runny nose. The
   runny nose recovered quickly. I believe it was throat irritation and
   not a viral cold, but I'm not sure.
+
+Overall, my incidence of runny nose has been very low since I moved to
+Berkeley in 2014; the above incident list is likely comprehensive
+starting 2019, and there may have been equivalent/similar incidents at
+a similar frequency going back to 2014.
+
+From 2007 to 2013 I was in Chicago and got clear-cut cases of the
+common cold (not attributable to anything dietary) once everty 1-2
+years.
 
 ### Other cases of fever (excluding after vaccines)
 
@@ -445,6 +467,19 @@ Aspects that help keep things low-stress:
   the whole day because something came up in the morning)
 * Low meeting load and no strict requirement to turn the camera on
   during meetings
+
+### Low pollution
+
+Typically, the air quality index (AQI) in Berkeley is between 20 and
+35. This is considered good. Subjectively, I rarely feel like I'm in
+polluted settings.
+
+Air quality can sometimes get bad due to smoke from forest fires
+farther away. In such cases, I can take additional precautions such as
+taking a break from outdoor trips, closing windows, and masking up if
+I do need to go outdoors. See [2023-09-19 onward air quality
+issues](2023-09-19-onward-air-quality-issues.md) for an example of
+such an incident.
 
 ## Diet
 
@@ -607,12 +642,14 @@ of these with my first meal of the day.
 
 ### Other one-off supplement consumption
 
-Across late 2019, early 2020, and possibly a couple times in late 2020
-/ early 2021, I consumed a curcumin supplement from a left-over bottle
-given by a friend to deal with occasional inflammation issues (that
-happened once every few months). I used up the bottle around when it
-was expiring. I haven't bought anything similar since then, since I
-haven't had similar inflammation issues.
+Across late 2019, 2020, and 2021, I consumed a curcumin supplement
+from a left-over bottle given by a friend to deal with occasional
+inflammation issues (that happened once every few months). I used up
+the bottle in August 2021 in its expiration month while addressing the
+[2021-08-28 sore throat after
+meals](2021-08-28-sore-throat-after-meals.md). I haven't bought
+anything similar since then, since I haven't had similar inflammation
+issues.
 
 ## Exercise
 
