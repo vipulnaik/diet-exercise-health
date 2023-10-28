@@ -23,6 +23,7 @@ Sections of this document:
 * [Eye status](#eye-status)
 * [Physical exam](#physical-exam)
 * [HbA1c and lipid profile](#hba1c-and-lipid-profile)
+* [Lifestyle](#lifestyle)
 * [Diet](#diet)
 * [Supplements](#supplements)
 * [Exercise](#exercise)
@@ -258,6 +259,84 @@ seems that the threshold on triglycerides is a little stricter than on
 VLDL. Some of my older readings were above the threshold, but my most
 recent readings have been within the threshold, with the two recent
 readings being 79 (November 2017) and 124 (June 2021).
+
+## Lifestyle
+
+### Largely sedentary lifestyle with deliberate exercise
+
+Since the onset of the COVID-19 pandemic in March 2020, I have
+predominantly worked from home. Outside of daily jogging, I don't have
+daily outside-the-house trips. Beyond that, I do outside trips for
+grocery shopping, picking up takeout food, toiletry shopping, and some
+other chores.
+
+### Mostly computer-based day
+
+While at home, I spend most of the day on the computer, both when
+working and for most of my personal tasks. Even when eating and for
+the cutting portions of meal prep, particularly the cutting of
+vegetables, is in front of a computer (usually watching a movie, TV
+show, or other video, sometimes reading material). When doing at-home
+strength exercises, I sometimes have a podcast on.
+
+The above has been approximately true for several years, but it's been
+becoming more true since the switch to work-from-home and the increase
+in the extent to which things can be handled online.
+
+### Walking for most outside trips
+
+For most outside trips, I walk both ways. I use mass transit (usually
+Bay Area Rapid Transit, occasionally a bus) once every few months,
+generally only when the location I'm going to is more than 45 minutes
+away walking, and sometimes when walking is difficult due to weather
+conditions. I don't have a car and almost never use taxi or rideshare
+services.
+
+I used BART a lot more prior to the switch to work-from-home in March
+2020, and since I was using BART more in general to commute to work
+(that was quite far from my home) I was used to using it even for
+somewhat shorter trips. So the switch to work-from-home has really
+helped change the way I use and think about BART.
+
+The switch to part-time work in March 2023 has led me to switch
+further in the direction of walking. Specifically, it's changed the
+distance threshold at which I decide to use BART instead of
+walking. When time was scarcer, I would tend to use BART at distances
+of 30 minutes or more; now the threshold is about 45 minutes and in
+some cases even higher. In particular, in practice pretty much
+anything that can be done in Berkeley or in areas border Berkeley
+(such as North Oakland or Emeryville) I would do by walking.
+
+### Low-stress job
+
+Since my job is part-time, and the systems I am working on are mostly
+stable, there are rarely time-sensitive urgent things to handle, and
+the total amount of work is relatively easy to manage. Overall, I
+would describe my job as low-stress.
+
+This is a relatively recent development. The period from 2018 to 2020
+was a period of relatively high stress at the job. Starting 2021, my
+workload-related stress has been reducing. There was an increase in
+some aspects of stress after a job switch, but this was not so much
+due to "too much work" and more due to challenges related to the
+nature of the work. After my return to my old job in March 2023, and
+the switch to part-time, I haven't had any job-related stress. There
+have been brief bursts of working hard, but these have been mostly
+optional and a choice I made to get ahead on some fronts.
+
+Aspects that help keep things low-stress:
+
+* Part-time nature of job
+* Relative absence of urgent / time-sensitive tasks
+* Familiarity with the systems I'm working with (developed over
+  several years)
+* Good interpersonal relations at the job and lack of conflict
+* Work-from-home with fairly flexible hours (so commuting time is low,
+  I have flexibility regarding when I wake up, and I have enough
+  flexibility that I rarely have to worry about missing exercise for
+  the whole day because something came up in the morning)
+* Low meeting load and no strict requirement to turn the camera on
+  during meetings
 
 ## Diet
 
