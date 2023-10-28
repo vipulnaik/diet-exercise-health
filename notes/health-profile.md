@@ -23,6 +23,8 @@ Sections of this document:
 * [Eye status](#eye-status)
 * [Physical exam](#physical-exam)
 * [HbA1c and lipid profile](#hba1c-and-lipid-profile)
+* [Infectious diseases and vaccines](#infectious-diseases-and-vaccines)
+* [Injuries](#injuries)
 * [Lifestyle](#lifestyle)
 * [Diet](#diet)
 * [Supplements](#supplements)
@@ -259,6 +261,112 @@ seems that the threshold on triglycerides is a little stricter than on
 VLDL. Some of my older readings were above the threshold, but my most
 recent readings have been within the threshold, with the two recent
 readings being 79 (November 2017) and 124 (June 2021).
+
+## Infectious diseases and vaccines
+
+See [vaccine_administrations.sql](../sql/vaccine_administrations.sql)
+for a full list of vaccine administrations. For some vaccine
+administrations, I also have an individual notes file about the
+vaccine administration; the notes file is linked from the notes column
+of the SQL.
+
+### COVID-19
+
+I have never been diagnosed with COVID-19, and am fairly confident
+that I have not been infected with COVID-19.
+
+I tested myself once (on 2022-04-06) for COVID-19 using at at-home
+test, when I was having a fever. I tested negative. The fever was
+likely an aftereffect of an injury. See
+[here](2022-04-05-fall-and-phone-screen-crack.md#covid-19-antigent-test)
+for details.
+
+I got my primary COVID-19 vaccine series from Pfizer in 2021 (in May
+2021 and [June
+2021](2021-06-25-pfizer-covid-vaccine-dose-2.md)). Since then, I have
+been getting a booster every year, with the booster some time between
+November and January. As of the writing of this document, my most
+recent vaccine was in [November
+2022](2022-11-09-pfizer-covid-vaccine-updated-booster-dose.md).
+
+Starting with my second COVID-19 dose and then for each booster dose,
+I have reacted with a slight fever; the fever has generally subsided
+within 36 hours of getting the dose. With successive boosters, both
+the onset of the fever and its resolution have tended to get faster.
+
+### Influenza (flu)
+
+I'm reasonably confident that I have not had the flu or any other
+influenza-like illness (ILI) since 2014.
+
+I have been getting annual flu shots since around 2010 (though I might
+have missed a year or two in between). I generally get the flu shot
+some time between September and December each year.
+
+I have records of the date of vaccination starting 2015; this
+information is available in
+[vaccine_administrations.sql](../sql/vaccine_administrations.sql). My
+most recent administration was in [October
+2023](2023-10-13-flu-shot.md).
+
+In general, I have not had significant reactions to the flu shot. The
+main symptom has been slight soreness in the area of administration
+for the next day. For my [October 2023 flu
+shot](2023-10-13-flu-shot.md), the soreness continued in a relatively
+mild form for about a week, and might have been causal in some
+stiffness in the neck and shoulder as well. I believe this was due to
+an interaction with hand gripper exercises, that I [started doing in
+July 2023](2023-07-29-hand-gripper-exercise.md).
+
+### Common cold and sore throat / running nose
+
+I have had occasional cases of sore throat / running nose, that I
+believe might be due to the common cold or other causes, such as
+dietary irritants. In many of the cases, I suspect dietary irritants
+as the likely cause.
+
+* [2023-08-04 sore throat suspected to be due to sauerkraut and red
+  chutney
+  consumption](2023-08-04-sauerkraut-red-chutney-and-sore-throat.md):
+  This was during my recovery period from my [2023-07-05 wisdom tooth
+  removal (left side)](2023-07-05-wisdom-tooth-removal-left-side.md).
+
+* [2019-08-30 Thai yellow curry and subsequent
+  cold](2019-08-30-thai-yellow-curry-and-subsequent-cold.md): After
+  having a huge amount of Thai yellow cury, I had a runny nose. The
+  runny nose recovered quickly. I believe it was throat irritation and
+  not a viral cold, but I'm not sure.
+
+### Other cases of fever (excluding after vaccines)
+
+* [2022-04-05 fall and phone screen
+  crack](2022-04-05-fall-and-phone-screen-crack.md): I had a brief
+  fever after the injury; slight fever after injuries is expected.
+
+* [2021-08-22 fever and rash](2021-08-22-fever-and-rash.md): I had a
+  brief fever and rash the day after I cleaned out a nest and had a
+  bunch of stuff fall on me during the cleaning process.
+
+* [2020-07-28 fever
+  episode](2020-coronavirus-activity-tracker#tuesday-july-28) that
+  resolved after a long night's sleep.
+
+## Injuries
+
+See [accidents.sql](../sql/accidents.sql) that includes accidents that
+injured me or damaged my stuff. The most significant injuries that
+affected me bodily are listed below:
+
+* [2022-04-05 fall and phone screen
+  crack](2022-04-05-fall-and-phone-screen-crack.md): This was a
+  running fall accompanied by a phone screen crack.
+
+* [2019-09-10 traffic accident](2019-09-10-traffic-accident.md): I was
+  hit by a car at a stop sign (traveling very slowly).
+
+* 2014-12-15 running fall: This was a major running fall, that
+  prompted me to get a Tdap vaccine and sit with my knees spread out
+  for a few days.
 
 ## Lifestyle
 

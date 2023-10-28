@@ -68,9 +68,9 @@ more readings to see how the fever progresses.
 By 11:15 my temperature was back to normal (98.4) and at 11:35 it was
 down even further to 98.0.
 
-### COVID antigen test
+### COVID-19 antigen test
 
-In the evening of 2022-04-06, I used a [COVID antigen test from
+In the evening of 2022-04-06, I used a [COVID-19 antigen test from
 iHealth](https://www.amazon.com/dp/B09KZ6TBNY/), using the guidance
 [here](https://www.youtube.com/watch?v=qBt_H4Gc-rU). The test came out
 negative.
