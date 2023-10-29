@@ -126,8 +126,6 @@ I have a few different reasons for skipping:
 
 ## Standing-on-one-leg-with-eyes-closed exercise
 
-### Description
-
 This is a standard exercise of standing on one leg with both eyes
 closed. The exercise provides both a measurement of and helps improve
 balance.
@@ -135,40 +133,9 @@ balance.
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
 
-For each leg round, I do one or more iterations of the exercise as follows:
-
-* Stand on one leg (eyes open initially) facing a computer screen
-
-* When the second counter on the screen reaches a multiple of 5, close
-  my eyes
-
-* Open my eyes once I lose my balance, and note the time since I
-  closed my eyes
-
-My general policy is to do at least 1 iteration, and then keep doing
-more iterations until my median is in excess of 10 seconds. In most
-cases, I need to do just one iteration per leg round.
-
-Sometimes I do more iterations than strictly necessary (e.g., even
-after I got over 10 seconds on the first iteration, I still do a
-second iteration).
-
-### Frequency: aiming for daily, always at least before any strength exercises
-
-I have a number of triggers for the
-standing-on-one-leg-with-eyes-closed exercise:
-
-* I *always* do it right before strength exercises (weightlifting,
-  pushups, pullups); I find that doing the balance exercise serves as
-  a warmup to the strength exercises.
-
-* I sometimes do it before going out jogging.
-
-* In some cases, when I am not doing jogging or strength exercises,
-  due to reasons such as time constraints, fatigue, sickness, etc., I
-  might still do standing-on-one-leg-with-eyes-closed exercises, since
-  these exercises don't use up a lot of energy and have low likelihood
-  of causing injury or fatigue.
+See
+[2023-10-28-standing-on-one-leg-with-eyes-closed.md](2023-10-28-standing-on-one-leg-with-eyes-closed.md)
+for more details.
 
 ## Hand gripper exercise
 
