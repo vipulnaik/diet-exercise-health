@@ -66,6 +66,9 @@ consider doing the standing-on-one-leg-with-eyes-closed exercise if
 I'm feeling minimally healthy enough and the time constraints are not
 super-severe.
 
+I might also discretionarily do the
+standing-on-one-leg-with-eyes-closed at other times of the day.
+
 ## Standing on one leg with eyes open: standard version
 
 I already mentioned standing on one leg with eyes open as an exercise
