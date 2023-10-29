@@ -186,22 +186,29 @@ hand grippers.
 In each round, I try to do at least two attempted closes of the hand
 gripper.
 
-As of 2023-09-23, my situation is:
+As of 2023-10-28, my situation is:
 
-* Right hand on 100 lb: closes comfortably and consistently, including
-  on second attempts
+* Right hand on 100 lb: closes comfortably and consistently even after
+  many repetitions
 
-* Left hand on 100 lb: closes consistently except when fatigued, but
-  not as comfortable as right hand
+* Left hand on 100 lb: closes comfortably and consistently at least for
+  the first two repetitions
 
-* Right hand on 150 lb: closes 30-70% of the time, almost closes other
-  times
+* Right hand on 150 lb: closes consistently most of the time,
+  including on the first two repetitions
+
+* Left hand on 150 lb: has closed a few times but most of the time,
+  comes just short of closing
 
 The effective frequency may be about 4 to 8 rounds per day.
 
 If I use the hand gripper too much, I get calluses in the areas where
 I'm trying to grip hard. These are pretty harmless, but I still need
 to keep this in mind.
+
+See
+[2023-07-29-hand-gripper-exercise.md](2023-07-29-hand-gripper-exercise.md)
+for more history.
 
 ### Reasons for skipping
 
