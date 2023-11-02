@@ -259,3 +259,8 @@ Library. This was my first time checking the place out.
 
 Between 11 AM and noon, I made a trip to the Tarea Hall Pittman South
 Branch of the Berkeley Public Library.
+
+## Wednesday November 1
+
+In the evening, I made a trip to Walgreens to buy a few items,
+including an 8 lb dumb bell. I checked out shortly before 7 PM.
