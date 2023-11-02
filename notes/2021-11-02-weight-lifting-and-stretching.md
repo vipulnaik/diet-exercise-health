@@ -26,3 +26,6 @@ weeks.
 
 * In March 2022, I switched from doing 2 lb and 3 lb to doing 3 lb and
   5 lb.
+
+For the sequel, see
+[2023-11-01-weight-lifting-weight-increase.md](2023-11-01-weight-lifting-weight-increase.md).
