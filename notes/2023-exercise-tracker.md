@@ -102,3 +102,14 @@ On 2023-10-22, the probability of rain was around 15%, so instead of
 taking the full run I took a halved run, but ran a large part of both
 ways, so that my total running distance was comparable to my usual
 running distance.
+
+## 2023-11-02: halved run (running both ways) due to time crunch
+
+On 2023-11-02, I needed to get back for a meeting, so I took a halved
+run, but ran a large part of both ways, so that my total running
+distance was comparable to my usual running distance.
+
+Although in principle I could have gone for my run earlier, the lower
+morning temperatures led me to wait a bit before going to run, and I
+couldn't choose the exactly optimal time as I needed to be at a
+logical stopping point with work.
