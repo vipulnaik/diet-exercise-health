@@ -264,3 +264,10 @@ Branch of the Berkeley Public Library.
 
 In the evening, I made a trip to Walgreens to buy a few items,
 including an 8 lb dumb bell. I checked out shortly before 7 PM.
+
+## Friday November 3
+
+In the late afternoon / early evening, I made a multi-stop trip. I
+first did some printing of documents, then picked up Amazon packages
+from the Amazon Hub Locker, then on the way back I did some shopping
+at Walgreens.
