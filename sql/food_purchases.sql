@@ -2133,7 +2133,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-10-28','Beefsteak tomato',10),
   /* 2023-10-28 Udupi Palace; total cost $14.28; order placed at 6:46 PM; paid by cash */
   ('2023-10-28','Udupi Palace spinach masala dosa',1),
-  /* 2023-11-01 Udupi Palace; total cost $34.05; checkout at 7:55 PM; paid by debit card */
+  /* 2023-11-01 Trader Joe's; total cost $34.05; checkout at 7:55 PM; paid by debit card */
   ('2023-11-01','TJ Beans',1),
   ('2023-11-01','Gold potatoes 3 lb',1),
   ('2023-11-01','TJ Baby Spinach',1),
@@ -2142,4 +2142,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-11-01','Beefsteak tomato',6),
   ('2023-11-01','Flatbread Indian Style',3),
   /* 2023-11-01 Udupi Palace; total cost $14.28; paid by cash */
-  ('2023-11-01','Udupi Palace spinach masala dosa',1);
+  ('2023-11-01','Udupi Palace spinach masala dosa',1),
+  /* 2023-11-04 Trader Joe's; total cost $48.89; checkout at 6:27 PM; paid by debit card */
+  ('2023-11-04','Trader Giotto''s Olive Oil',1),
+  ('2023-11-04','TJ Miso Ginger Broth',1),
+  ('2023-11-04','Beefsteak tomato',7),
+  ('2023-11-04','TJ Baby Spinach',1),
+  ('2023-11-04','TJ Beans',1),
+  ('2023-11-04','Green bell pepper',3),
+  ('2023-11-04','Red bell pepper',2),
+  ('2023-11-04','Flatbread Indian Style',3),
+  ('2023-11-04','Alvarado Sprouted Wheat Tortillas',2),
+  /* 2023-11-04 Udupi Palace; total cost $14.28; paid by cash */
+  ('2023-11-04','Udupi Palace spinach masala dosa',1);
