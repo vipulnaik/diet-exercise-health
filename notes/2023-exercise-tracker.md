@@ -113,3 +113,10 @@ Although in principle I could have gone for my run earlier, the lower
 morning temperatures led me to wait a bit before going to run, and I
 couldn't choose the exactly optimal time as I needed to be at a
 logical stopping point with work.
+
+## 2023-11-06: skipped run due to recent rain (so wet sidewalks) and ongoing probability of rain
+
+On 2023-11-06, I skipped my run due to recent rain and wet sidewalks,
+as well as the moderately high ongoing probability of rain. This also
+effectively serves as a knee rest day, as it appears I haven't skipped
+my run for over 30 days so far.
