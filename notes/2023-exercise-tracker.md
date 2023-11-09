@@ -120,3 +120,14 @@ On 2023-11-06, I skipped my run due to recent rain and wet sidewalks,
 as well as the moderately high ongoing probability of rain. This also
 effectively serves as a knee rest day, as it appears I haven't skipped
 my run for over 30 days so far.
+
+## 2023-11-09: halved run (running both ways) due to time crunch
+
+On 2023-11-09, I needed to get back for a meeting, so I took a halved
+run, but ran a large part of both ways, so that my total running
+distance was comparable to my usual running distance.
+
+I had been planning to go for my run a little earlier, but a few
+things came up and I decided to stay on to resolve them. Even with the
+later time, I had some buffer to get back to the meeting, but decided
+to play it safe with a halved run.
