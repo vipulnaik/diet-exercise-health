@@ -449,7 +449,7 @@ distance threshold at which I decide to use BART instead of
 walking. When time was scarcer, I would tend to use BART at distances
 of 30 minutes or more; now the threshold is about 45 minutes and in
 some cases even higher. In particular, in practice pretty much
-anything that can be done in Berkeley or in areas border Berkeley
+anything that can be done in Berkeley or in areas bordering Berkeley
 (such as North Oakland or Emeryville) I would do by walking.
 
 ### Low-stress job
