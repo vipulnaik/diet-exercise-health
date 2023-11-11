@@ -271,3 +271,9 @@ In the late afternoon / early evening, I made a multi-stop trip. I
 first did some printing of documents, then picked up Amazon packages
 from the Amazon Hub Locker, then on the way back I did some shopping
 at Walgreens.
+
+## Friday November 10
+
+In the late afternoon, I made a multi-stop trip. My stops included the
+post office, the bank, and a photo studio, after which I did food
+purchases recorded [here](../sql/food_purchases.sql).
