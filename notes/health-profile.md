@@ -768,9 +768,9 @@ bowel movement.
 
 ### Dental routine
 
-* Brushing: Once in the morning, and once about 1-5 hours after each
+* Brushing: Once in the morning, and once about 1-6 hours after each
   meal (earlier if I need to go out after the meal so I can't wait the
-  2-6 hours). Total 3 times per day. I use a soft (manual, not
+  1-6 hours). Total 3 times per day. I use a soft (manual, not
   electric) toothbrush and change it every 3 months.
 
 * Saltwater rinse: Once after post-meal cleanup for each meal. Total 2
