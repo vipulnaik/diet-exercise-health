@@ -176,8 +176,8 @@ a gastro specialist for my stomach pain issues. See
 [here](2016-11-to-2016-12-stomach-pain-and-resolution.md#doctor-visit)
 for more context.
 
-I have not had any physical exams beyond blood pressure measurement
-done as part of my eye exam.
+Since then, I have not had any physical exams beyond blood pressure
+measurement done as part of my eye exam.
 
 ## HbA1c and lipid profile
 
@@ -356,7 +356,7 @@ starting 2019, and there may have been equivalent/similar incidents at
 a similar frequency going back to 2014.
 
 From 2007 to 2013 I was in Chicago and got clear-cut cases of the
-common cold (not attributable to anything dietary) once everty 1-2
+common cold (not attributable to anything dietary) once every 1-2
 years.
 
 In my childhood, I used to get common colds quite often (perhaps even
