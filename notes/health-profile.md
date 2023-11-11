@@ -320,6 +320,16 @@ stiffness in the neck and shoulder as well. I believe this was due to
 an interaction with hand gripper exercises, that I [started doing in
 July 2023](2023-07-29-hand-gripper-exercise.md).
 
+### Childhood vaccines
+
+I got the standard set of vaccines as a young child in India. Prior to
+moving to the United States for graduate study, I reviewed my vaccine
+history and got a few additional vaccines to be compliant with the
+requirements (including possibly vaccines that I had already gotten as
+a child but didn't have a record of). Details of my childhood vaccines
+have not yet been updated online, but physical copies of these are
+available, and I'm planning to digitize the information.
+
 ### Common cold and sore throat / running nose
 
 I have had occasional cases of sore throat / running nose, that I
