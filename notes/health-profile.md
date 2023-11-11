@@ -32,6 +32,8 @@ Sections of this document:
 * [Sleep](#sleep)
 * [Other routine elements](#other-routine-elements)
 * [Medications](#medications)
+* [Surgeries](#surgeries)
+* [Skin](#skin)
 
 ## Vital signs
 
@@ -827,3 +829,35 @@ I do not recall taking any non-supplement medication other than these
 since 2018; I also don't recall taking non-supplement medication since
 2014, though I might have taken some prior to 2018 that I don't
 recall.
+
+## Surgeries
+
+### No surgeries other than dental procedures as an adult
+
+As an adult (at least since I've turned 18) I haven't had any
+surgeries, unless you count the wisdom tooth removal procedure
+documented in my [dental status](#dental-status). For the wisdom tooth
+removal procedure in 2023, as well as periodontal therapy in 2021, I
+was administered local anesthetic. For the wisdom tooth removal, I was
+also administered laughing gas. Other than these two procedures, I
+have not received local anesthetic or laughing gas as an adult. I have
+not been any sedation as an adult.
+
+### Ear infection surgery as a child
+
+When I was around 4 years old, I had surgery for my ear infection,
+conducted by an ENT specialist.
+
+### Wart removal as an older child
+
+I had a wart above my upper lip as a child (I'm not sure exactly what
+age). I had two attempted wart removal procedures, with the second one
+being successful.
+
+## Skin
+
+My skin is on the dry side of the spectrum, so particularly in colder
+climates, it can get cuts if not adequately cared for. I generally
+apply vaseline lotion to my hands and legs daily, and may do
+additional rounds of application during cold weather. With moderate
+care, I don't have any noticeable skin issues.
