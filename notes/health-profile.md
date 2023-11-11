@@ -555,7 +555,7 @@ minor modifications. For a period of time in between, I used to
 consume hot chocolate drinks daily (from Starbucks or similar
 places). Although I didn't consume them for the sugar content, they
 did have higher sugar content than the rest of my diet. In 2019, after
-[encountering dental problems]((2018-12-head-neck-jaw-tooth-pain.md)
+[encountering dental problems](2018-12-head-neck-jaw-tooth-pain.md)
 that were partly related to this consumption, I phased out hot
 chocolate consumption by May 2019. Since then, I have had very low
 consumption of sugary foods.
