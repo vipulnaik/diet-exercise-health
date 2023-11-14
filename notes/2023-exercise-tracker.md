@@ -131,3 +131,11 @@ I had been planning to go for my run a little earlier, but a few
 things came up and I decided to stay on to resolve them. Even with the
 later time, I had some buffer to get back to the meeting, but decided
 to play it safe with a halved run.
+
+## 2023-11-13: skipped run due to scheduling constraints
+
+On Monday 2023-11-13, I couldn't go for my run in the morning due to
+an extended time-sensitive meeting. My plan at the time was to go in
+the afternoon/evening. However, by the time I had wrapped things up
+well enough to be able to step away, it was already past sunset, and
+so I decided it's better to skip.
