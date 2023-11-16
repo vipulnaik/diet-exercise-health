@@ -139,3 +139,16 @@ an extended time-sensitive meeting. My plan at the time was to go in
 the afternoon/evening. However, by the time I had wrapped things up
 well enough to be able to step away, it was already past sunset, and
 so I decided it's better to skip.
+
+## 2023-11-15: skipped strength exercises due to time constraints
+
+I returned from jogging around 9:30 AM and had a meeting at 10 AM, and
+I was planning to do strength exercises in the 30 minutes in
+between. However, a bunch of work-related stuff came up and I wasn't
+able to do strength exercises in those 30 minutes. The meeting went
+for very long, and once it had ended I needed to eat, so I ended up
+not getting any suitable time for strength exercise that day.
+
+This was my scheduled strength exercise day (Wednesday); my previous
+strength exercise day had been Sunday. I generally aim for Wednesday,
+Friday, and Sunday for strength exercise.
