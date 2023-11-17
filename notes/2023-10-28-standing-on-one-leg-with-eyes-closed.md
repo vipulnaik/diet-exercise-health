@@ -30,9 +30,11 @@ The standard version of the exercise is as follows:
 
 * Prior to 2023-10-28, the de facto threshold duration was 10 seconds
 
-* Starting 2023-10-28, the threshold duration was increased to 12 seconds
+* Starting 2023-10-28, the threshold duration was increased to 12
+  seconds
 
-* Starting 2023-11-18, the threshold duration was increased to 14 seconds
+* Starting 2023-11-18, the threshold duration was increased to 14
+  seconds
 
 ### How the threshold duration is used
 
