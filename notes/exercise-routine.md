@@ -24,13 +24,14 @@ pedestrian right of way. However, I do generally yield to others since
 I'm generally not in a hurry to get anywhere, and if there are
 significant traffic logjams I might change my route a little bit.
 
-I aim to jog for the full duration of at least one way (1 mile) minus
-some parts where I have to slow down (e.g., when crossing a road, or
-due to dogs or children nearby who might get excited by somebody
-moving fast, or when cars are moving out of parking spots).
-
-For the return trip, I try jogging off and on depending on my energy
-levels; otherwise I walk.
+I aim to jog for the full duration of at least one way (1 mile) plus
+at least a quarter of te other way (0.25 miles) minus some parts where
+I have to slow down (e.g., when crossing a road, or due to dogs or
+children nearby who might get excited by somebody moving fast, or when
+cars are moving out of parking spots). So in general I aim to jog at
+least 1.25 miles and walk the remaining 0.75 miles. When I have more
+energy, I may jog a larger portion, and therefore walk back a shorter
+residual duration.
 
 Overall, one way (the first 1 mile, mostly jogging) takes me about
 12-15 minutes and the return journey (mix of jogging and walking)

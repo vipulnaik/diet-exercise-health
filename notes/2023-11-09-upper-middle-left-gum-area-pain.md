@@ -7,3 +7,7 @@ the teeth side) though the situation wasn't totally clear. The pain
 continued for a few days, till at least 2023-11-12, but it came up
 *only* when I was brushing that area or manually probed it with my
 tongue.
+
+There was no clear improvement for a few days; around 2023-11-15 to
+2023-11-17 I started noticing clear improvements when probing with my
+tongue.

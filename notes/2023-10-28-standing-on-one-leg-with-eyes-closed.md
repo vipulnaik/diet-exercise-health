@@ -26,12 +26,20 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-As of 2023-10-28, if at my first try I stay for 12 seconds or more,
-then I consider it a success and don't retry that leg.
+### Threshold duration (currently 14 seconds)
 
-If I don't clear 12 seconds on my first attempt, I continue to do
-attempts (total odd number of attempts) until the median is 12 seconds
-or more. I try up to 7 attempts (so I could stop at 3, 5, or 7 attempts).
+* Prior to 2023-10-28, the de facto threshold duration was 10 seconds
+
+* Starting 2023-10-28, the threshold duration was increased to 12 seconds
+
+* Starting 2023-11-18, the threshold duration was increased to 14 seconds
+
+### How the threshold duration is used
+
+If I don't clear the threshold duration on my first attempt, I
+continue to do attempts (total odd number of attempts) until the
+median is the threshold duration or more. I try up to 9 attempts (so I
+could stop at 3, 5, 7, or 9 attempts).
 
 ### Full retry
 
