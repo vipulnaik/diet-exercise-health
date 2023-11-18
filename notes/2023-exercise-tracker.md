@@ -152,3 +152,9 @@ not getting any suitable time for strength exercise that day.
 This was my scheduled strength exercise day (Wednesday); my previous
 strength exercise day had been Sunday. I generally aim for Wednesday,
 Friday, and Sunday for strength exercise.
+
+## 2023-11-18: skipped run due to overnight rain resulting in wet sidewalks
+
+I skipped my run on this day due to overnight rain resulting in wet
+sidewalks. There is also a nontrivial probability of further rain,
+though it's not high enough in and of itself.
