@@ -11,3 +11,7 @@ tongue.
 There was no clear improvement for a few days; around 2023-11-15 to
 2023-11-17 I started noticing clear improvements when probing with my
 tongue.
+
+By the evening of 2023-11-20, I no longer felt pain when probing the
+area with my tongue, and could not make out any difference when
+comparing it with other parts of my mouth.
