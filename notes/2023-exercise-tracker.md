@@ -158,3 +158,9 @@ Friday, and Sunday for strength exercise.
 I skipped my run on this day due to overnight rain resulting in wet
 sidewalks. There is also a nontrivial probability of further rain,
 though it's not high enough in and of itself.
+
+## 2023-11-22: skipped run and strength exercises due to planned outside trip with lots of walking
+
+I'm planning to walk extensively during an outside trip later today,
+so I'm skipping my run and strength exercises in order to conserve my
+energy.
