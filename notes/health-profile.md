@@ -22,7 +22,7 @@ Sections of this document:
 * [Dental status](#dental-status)
 * [Eye status](#eye-status)
 * [Physical exam](#physical-exam)
-* [HbA1c and lipid profile](#hba1c-and-lipid-profile)
+* [HbA1c, lipid profile, insulin, and liver function tests](#hba1c-lipid-profile-insulin-and-liver-function-tests)
 * [Infectious diseases and vaccines](#infectious-diseases-and-vaccines)
 * [Injuries](#injuries)
 * [Lifestyle](#lifestyle)
@@ -181,7 +181,7 @@ for more context.
 Since then, I have not had any physical exams beyond blood pressure
 measurement done as part of my eye exam.
 
-## HbA1c and lipid profile
+## HbA1c, lipid profile, insulin, and liver function tests
 
 One of the sets of metrics I get tested every few years is my lipid
 profile and HbA1c. This is due to a family history of diabetes and
@@ -256,13 +256,47 @@ results since September 2005 have followed the 1/5 formula, so if we
 applied the same formula to the June 2021 test results, then the VLDL
 would work out to 24.8, which would be within the normal range.
 
-### Serum triglycerides (acceptable range: 0-150 mg/dL)
+#### Serum triglycerides (acceptable range: 0-150 mg/dL)
 
 Using the 1/5 mapping of cholesterol VLDL and serum triglycerides, it
 seems that the threshold on triglycerides is a little stricter than on
 VLDL. Some of my older readings were above the threshold, but my most
 recent readings have been within the threshold, with the two recent
 readings being 79 (November 2017) and 124 (June 2021).
+
+#### Triglyceride:HDL ratio
+
+Although my blood tests don't directly report this ratio, I've seen a
+bunch of online guidance suggesting that the ratio of triglycerides to
+HDL is more predictive of problems than the ratio of LDL to HDL.
+
+In my November 2017 test, I got a triglyceride:HDL ratio of 79/51
+which is a little over 1.5, which is at the boundary of the healthy
+range of 1.5 and below.
+
+My June 2021 test was not that great, with a triglyceride:HDL ratio of
+124/46 which is at 2.7, a little above 2.5. Above 2.5 is considered
+cause for concern. With that said, it's just one reading, and I really
+need a wider range of readings to get a clearer picture.
+
+### Insulin
+
+I have gotten tested for insulin only once, in June 2021. The reading
+came to 3.6, compared to a reference range of 0 to 19.6. Generally,
+lower is better. 6 and below is considered fairly healthy, so my
+reading is at a fairly healthy level.
+
+### Liver function tests
+
+I've goten liver function tests done in June 2005 and December
+2016. In June 2005, I got bilirubin, ALT, and AST. Bilirubin came
+above normal; ALT and AST came within the normal range, but for ALT in
+particular, the reading of 28 was above what I now understand to be
+the desired upper limit of 25.
+
+In December 2016, I only got ALT and AST (no bilirubin). Both readings
+came fairly healthy; the ALT reading in particular was just 11, well
+within the desired upper limit of 25.
 
 ## Infectious diseases and vaccines
 
