@@ -2194,4 +2194,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-11-21','Green bell pepper',3),
   ('2023-11-21','Red bell pepper',2),
   ('2023-11-21','Eggplant',2),
-  ('2023-11-21','Beefsteak tomato',7);
+  ('2023-11-21','Beefsteak tomato',7),
+  /* 2023-11-22 Pakwan */
+  ('2023-11-22','Pakwan meal set (aloo palak, chana aloo, dal, mix vegetable curry)',1);
