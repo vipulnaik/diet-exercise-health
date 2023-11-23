@@ -277,3 +277,13 @@ at Walgreens.
 In the late afternoon, I made a multi-stop trip. My stops included the
 post office, the bank, and a photo studio, after which I did food
 purchases recorded [here](../sql/food_purchases.sql).
+
+## Wednesday November 22
+
+In the afternoon and evening, I made a trip to San Francisco. I first
+took BART from Ashby to Powell Street, from where I went to the
+Westfield mall right next to the Powell Street station. After that, I
+walked over to the UCSF Helen Diller Medical Center at 400 Parnassus
+Avenue. From there, I walked to Pakwan, placed a takeout order, waited
+for it to be ready, then picked it up and walked to the 16th Street
+Mission BART. From there, I took a train to Ashby.
