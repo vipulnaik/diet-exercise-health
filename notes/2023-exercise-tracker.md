@@ -164,3 +164,17 @@ though it's not high enough in and of itself.
 I'm planning to walk extensively during an outside trip later today,
 so I'm skipping my run and strength exercises in order to conserve my
 energy.
+
+## 2023-11-22: natural exercise
+
+In total, I walked about 7 miles for about 2.5 hours spent walking,
+out of a total of about 5 hours spent continuously standing and/or
+walking. This included standing in BART for two journeys of about 30
+minutes each, without holding on to any support. The walking also
+included a fair amount of uphill and downhill walking, and included a
+stretch of about 1 hour 45 minutes of walking with no pauses longer
+than 2-3 minutes. Overall, this was a good real-world test of stamina
+(the length of walking and standing), aerobic exercise (the length of
+walking, including uphill and downhill walking), and balance +
+reflexes (standing in BART for two journeys of about 30 minutes each
+without holding any support).
