@@ -287,3 +287,7 @@ walked over to the UCSF Helen Diller Medical Center at 400 Parnassus
 Avenue. From there, I walked to Pakwan, placed a takeout order, waited
 for it to be ready, then picked it up and walked to the 16th Street
 Mission BART. From there, I took a train to Ashby.
+
+In total, I was out for about 5 hours, all of which was spent standing
+and walking (no sitting down). In total, I walked for about half the
+time, or about 2.5 hours, and about 7 miles in total.
