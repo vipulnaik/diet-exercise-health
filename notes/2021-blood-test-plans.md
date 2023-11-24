@@ -49,7 +49,7 @@ might have made more and other changes.
 
 I do not plan to get tested for Vitamin D for the next two years.
 
-### Insulin: First baseline test because of diabetic tendencies
+### Insulin: first baseline test because of diabetic tendencies
 
 Test details: https://requestatest.com/insulin-testing (LabCorp: $59; Quest Diagnostics: $49)
 
@@ -68,7 +68,7 @@ so it seems in a fairly safe place. No action is needed.
 I do not plan to get tested for insulin for the next two years unless
 I get a concerning lipid profile result before then.
 
-### HbA1c: Followup measurement because of diabetic tendencies
+### HbA1c: followup measurement because of diabetic tendencies
 
 Test details: https://requestatest.com/hemoglobin-a1c-with-eag-testing (LabCorp: $39; Quest Diagnostics: $36)
 
@@ -88,7 +88,7 @@ of 5.7%.
 I do not plan to get tested for HbA1c for the next two years unless
 I get a concerning lipid profile result before then.
 
-### Lipid panel: Followup measurement because of diabetic tendencies
+### Lipid panel: followup measurement because of diabetic tendencies
 
 Test details: https://requestatest.com/lipid-panel-testing (LabCorp: $39; Quest Diagnostics: $36)
 
