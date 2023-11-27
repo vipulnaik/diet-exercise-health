@@ -178,3 +178,9 @@ than 2-3 minutes. Overall, this was a good real-world test of stamina
 walking, including uphill and downhill walking), and balance +
 reflexes (standing in BART for two journeys of about 30 minutes each
 without holding any support).
+
+## 2023-11-26 onward: switch to afternoon for running
+
+Starting 2023-11-26, I made the switch to afternoon running, in light
+of morning temperatures being low enough that it's preferable to
+exercise in the afternoon.
