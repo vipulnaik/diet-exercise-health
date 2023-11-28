@@ -184,3 +184,8 @@ without holding any support).
 Starting 2023-11-26, I made the switch to afternoon running, in light
 of morning temperatures being low enough that it's preferable to
 exercise in the afternoon.
+
+## 2023-11-27: halved run due to time crunch
+
+On 2023-11-27, I halved my run, but ran most of both ways, so the
+overall distance I ran was comparable with my usual.
