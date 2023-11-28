@@ -2196,4 +2196,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-11-21','Eggplant',2),
   ('2023-11-21','Beefsteak tomato',7),
   /* 2023-11-22 Pakwan */
-  ('2023-11-22','Pakwan meal set (aloo palak, chana aloo, dal, mix vegetable curry)',1);
+  ('2023-11-22','Pakwan meal set (aloo palak, chana aloo, dal, mix vegetable curry)',1),
+  /* 2023-11-27 Trader Joe's; total cost $59.25; checkout at 6:22 PM; paid by debit card */
+  ('2023-11-27','TJ Miso Ginger Broth',1),
+  ('2023-11-27','TJ Beans',1),
+  ('2023-11-27','TJ Sauerkraut',2),
+  ('2023-11-27','TJ Carrots',1), /* I was incorrectly charged for 2 */
+  ('2023-11-27','Gold potatoes 3 lb',1),
+  ('2023-11-27','Beefsteak tomato',12),
+  ('2023-11-27','Flatbread Indian Style',2),
+  ('2023-11-27','TJ English Shelled Peas',1),
+  ('2023-11-27','Alvarado Sprouted Wheat Tortillas',3),
+  /* 2023-11-27 Udupi Palace; total cost $14.28; order placed at 6:08 PM; paid by cash */
+  ('2023-11-27','Udupi Palace spinach masala dosa',1);
