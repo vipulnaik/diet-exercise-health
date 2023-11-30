@@ -291,3 +291,15 @@ Mission BART. From there, I took a train to Ashby.
 In total, I was out for about 5 hours, all of which was spent standing
 and walking (no sitting down). In total, I walked for about half the
 time, or about 2.5 hours, and about 7 miles in total.
+
+## Wednesday November 29
+
+In the late afternoon and evening, I made a trip to San Francisco. I
+first took BART from Ashby to Powell Street, from where I went to the
+Westfield mall right next to the Powell Street station. There, I did
+currency exchange at Currency Exchange International and shoe shopping
+at Shoe Palace. After that, due to BART being held up by [a person
+having entered the
+trackway](https://abc7news.com/bart-delay-person-walking-tube-police-activity/14120051/),
+I took BART to 16th Street Mission, had dinner at Kitava, and then
+headed back home taking BARt from 16th Street Mission to Ashby.

@@ -189,3 +189,18 @@ exercise in the afternoon.
 
 On 2023-11-27, I halved my run, but ran most of both ways, so the
 overall distance I ran was comparable with my usual.
+
+## 2023-11-29: natural exercise
+
+I made a trip to San Francisco. This involved standing and a bit of
+walking for about 2 hours 50 mintues and then again for about 40
+minutes, with a 30-minute sitdown for eating in between. The standing
+was in BART (where I had to balance while the train was moving) and
+waiting at station platforms, including a one-hour wait due to a BART
+holdup. The walking around was on the station platform, to and from
+stations, and within Westfield Mall. Moreover, all my standing/walking
+time involved wearing a mask, which added to the extent of natural
+exercise.
+
+The extensive natural exercise took the place of deliberate exercise
+on this day.

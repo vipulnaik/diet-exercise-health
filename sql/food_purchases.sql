@@ -2208,4 +2208,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-11-27','TJ English Shelled Peas',1),
   ('2023-11-27','Alvarado Sprouted Wheat Tortillas',3),
   /* 2023-11-27 Udupi Palace; total cost $14.28; order placed at 6:08 PM; paid by cash */
-  ('2023-11-27','Udupi Palace spinach masala dosa',1);
+  ('2023-11-27','Udupi Palace spinach masala dosa',1),
+  /* 2023-11-29 Kitava (dine-in) */
+  ('2023-11-29','Kitava Power Bowl',1);
