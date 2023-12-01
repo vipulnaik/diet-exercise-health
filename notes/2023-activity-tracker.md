@@ -302,7 +302,7 @@ at Shoe Palace. After that, due to BART being held up by [a person
 having entered the
 trackway](https://abc7news.com/bart-delay-person-walking-tube-police-activity/14120051/),
 I took BART to 16th Street Mission, had dinner at Kitava, and then
-headed back home taking BARt from 16th Street Mission to Ashby.
+headed back home taking BART from 16th Street Mission to Ashby.
 
 ## Thursday November 30
 
