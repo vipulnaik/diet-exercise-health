@@ -303,3 +303,9 @@ having entered the
 trackway](https://abc7news.com/bart-delay-person-walking-tube-police-activity/14120051/),
 I took BART to 16th Street Mission, had dinner at Kitava, and then
 headed back home taking BARt from 16th Street Mission to Ashby.
+
+## Thursday November 30
+
+In the evening, I went to a social dinner at the Rose Garden Inn where
+I hung out for about 40 minutes. The entire event was outdoors and I
+did not eat there. I walked to and from the place.
