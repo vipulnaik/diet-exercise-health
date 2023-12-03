@@ -309,3 +309,10 @@ headed back home taking BART from 16th Street Mission to Ashby.
 In the evening, I went to a social dinner at the Rose Garden Inn where
 I hung out for about 40 minutes. The entire event was outdoors and I
 did not eat there. I walked to and from the place.
+
+## Sunday December 3
+
+In the late morning, I made a trip to downtown Berkeley; this included
+a trip to Ace Hardware to get higher-powered screwdrivers, plus a food
+purchase trip to Trader Joe's. The latter is recorded
+[here](../sql/food_purchases.sql).

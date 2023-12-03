@@ -215,7 +215,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-06-05','Udupi Palace spinach masala dosa',1),
   /* 2021-06-09 Trader Joe's (verified with receipt) */
   ('2021-06-09','TJ Baby Spinach',1),
-  ('2021-06-09','TJ Whole Wheap Wraps',3),
+  ('2021-06-09','TJ Whole Wheat Wraps',3),
   ('2021-06-09','TJ Kalamata Olive Oil',1),
   ('2021-06-09','TJ Sauerkraut',2),
   ('2021-06-09','TJ Veg Biryani',3),
@@ -2210,4 +2210,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-11-27 Udupi Palace; total cost $14.28; order placed at 6:08 PM; paid by cash */
   ('2023-11-27','Udupi Palace spinach masala dosa',1),
   /* 2023-11-29 Kitava (dine-in) */
-  ('2023-11-29','Kitava Power Bowl',1);
+  ('2023-11-29','Kitava Power Bowl',1),
+  /* 2023-12-03 Trader Joe's; total cost $64.45; checkout at 11:59 AM; paid by debit card;
+     there was no trip to Udupi Palace as I had already had two outside meals this week
+     and had also had a lot of outside food the previous week */
+  ('2023-12-03','TJ Almond Milk',1),
+  ('2023-12-03','TJ Carrots',1),
+  ('2023-12-03','TJ English Shelled Peas',4),
+  ('2023-12-03','TJ Baby Spinach',1),
+  ('2023-12-03','Red bell pepper',2),
+  ('2023-12-03','Green bell pepper',3),
+  ('2023-12-03','Flatbread Indian Style',2),
+  ('2023-12-03','Beefsteak tomato',5),
+  ('2023-12-03','Alvarado Sprouted Wheat Tortillas',6);
