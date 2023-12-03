@@ -204,3 +204,9 @@ exercise.
 
 The extensive natural exercise took the place of deliberate exercise
 on this day.
+
+## 2023-12-02: truncated run due to drizzle
+
+On Saturday 2023-12-02, it wasn't raining when I started my run, but
+it started drizzling lightly a minute or two into it, so I had to
+truncate my run and return home.
