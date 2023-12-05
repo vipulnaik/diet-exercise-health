@@ -570,6 +570,10 @@ people trying, recreational drugs.
 
 ## Diet
 
+See https://vipulnaik.com/diet/ for a page with more details on
+specific foodstuffs and places I eat or used to eat at, with a focus
+on dietary developments from 2014 to 2023.
+
 ### Childhood diet
 
 As a child, I followed a vegetarian diet, primarily as a
