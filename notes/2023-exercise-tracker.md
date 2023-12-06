@@ -210,3 +210,10 @@ on this day.
 On Saturday 2023-12-02, it wasn't raining when I started my run, but
 it started drizzling lightly a minute or two into it, so I had to
 truncate my run and return home.
+
+## 2023-12-06: halved run (running both ways) due to probability of rain
+
+On 2023-12-06, due to a small but nonneglible probability of rain
+(~10%), I did a halved run, running both ways. As the sidewalks and
+roads were wet from overnight rain, I ran a bit more slowly and
+carefully than usual.
