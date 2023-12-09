@@ -4,7 +4,7 @@ This document describes my experience after receiving the booster dose
 of the Pfizer COVID vaccine on Wednesday, November 9, 2022 at the
 Walgreens on Adeline Street.
 
-Sections of this document (document still a work in progress):
+Sections of this document:
 
 * [Decision to get the booster](#decision-to-get-the-booster)
 * [Appointment booking (Wednesday October 26)](#appointment-booking-wednesday-october-26)
