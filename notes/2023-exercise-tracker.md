@@ -217,3 +217,8 @@ On 2023-12-06, due to a small but nonneglible probability of rain
 (~10%), I did a halved run, running both ways. As the sidewalks and
 roads were wet from overnight rain, I ran a bit more slowly and
 carefully than usual.
+
+## 2023-12-09: skipped run due to natural exercise
+
+On 2023-12-09, as I went out for two trips, I walked a decent amount
+and was a bit fatigued, so I skipped my run.

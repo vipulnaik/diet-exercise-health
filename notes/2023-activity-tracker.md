@@ -316,3 +316,13 @@ In the late morning, I made a trip to downtown Berkeley; this included
 a trip to Ace Hardware to get higher-powered screwdrivers, plus a food
 purchase trip to Trader Joe's. The latter is recorded
 [here](../sql/food_purchases.sql).
+
+## Saturday December 9
+
+In the late morning, I made a trip to downtown Berkeley. I first met a
+friend for lunch at Udupi Palace. Then we went to Trader Joe's where I
+bought some stuff, after which my friend dropped me back home in his
+car (on his own way back home).
+
+Shortly after returning home, in the early afternoon I made a trip to
+the ASUC Amazon Hub to pick up an Amazon package.
