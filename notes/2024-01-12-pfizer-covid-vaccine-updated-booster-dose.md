@@ -1,4 +1,4 @@
-# 2024-01: Pfizer COVID vaccine: updated booster dose
+# 2024-01-12: Pfizer COVID vaccine: updated booster dose
 
 This document describes my plan for receiving the Pfizer COVID vaccine
 in January 2024, as well as my experience after actually receiving the
@@ -81,3 +81,20 @@ Since it looks like an appointment can be booked up to 2024-01-06, I'm
 expecting that if I check in a week from now, I'll be able to book an
 appointment for Friday 2024-01-12. So, I am setting a calendar
 reminder for next Saturday (2023-12-16) to book the appointment.
+
+### Appointment booking on 2023-12-16
+
+On Saturday 2023-12-16, I logged in to the Walgreens site to book a
+COVID-19 vaccine appointment for Friday 2024-01-12, as planned. The
+selected vaccine was the Pfizer-BioNTech vaccine, consistent with my
+previous vaccines that were also Pfizer-BioNTech vaccines. I booked
+the appointment for 3 PM.
+
+I also finished the consent form. The vaccine information statement it
+linked to is
+[here](https://www.walgreens.com/images/adaptive/pdf/pharmacy/COVID-19_Comirnaty_Pfizer-BioNTech_Fact-Sheet.pdf).
+
+I confirmed that I received the email about the appointment. The email
+(as well as the website) reminded me to bring my COVID-19 vaccine
+information card. The email also told me to arrive at the location 15
+minutes prior to the appointment, similar to previous emails.
