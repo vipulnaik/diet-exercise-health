@@ -222,3 +222,18 @@ carefully than usual.
 
 On 2023-12-09, as I went out for two trips, I walked a decent amount
 and was a bit fatigued, so I skipped my run.
+
+## 2023-12-17: skipped run due to short time window with low probability of rain
+
+On Sunday 2023-12-17, there was just a time window of about 2.5 hours
+with low enough probability of rain, and I needed to do a shopping
+trip in that time, so I skipped my run.
+
+## 2023-12-18: halved run (running both ways) plus slower-than-usual running due to nontrivial probability of rain and wet sidewalks
+
+On Monday 2023-12-18, the probability of rain in the afternoon was
+high, and the probability in the morning was nontrivial enough that it
+was okay for a halved run but not for the full run. So I took a halved
+run and ran both ways. Also, the roads and sidewalks were wet with a
+lot of fallen leaves on them, so I had to run more slowly and even
+switch to a walk for some segments of my run.
