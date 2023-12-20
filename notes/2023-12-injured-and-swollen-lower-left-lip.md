@@ -21,4 +21,6 @@ the mirror, and also the swelling covering a small area. However,
 unlike last time, it didn't hurt at all on probing; it just felt a bit
 awkward. I do not know for sure whether this is a continuation of the
 healing process of the previous injury, or something new, or something
-in-between (the old area being rawer was susceptible to new issues).
+in-between (the old area being rawer was susceptible to new
+issues). The current appearance seems to more closely match the
+definition and imagery for "canker sore" that I can gather online.
