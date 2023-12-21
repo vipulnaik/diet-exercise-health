@@ -237,3 +237,11 @@ was okay for a halved run but not for the full run. So I took a halved
 run and ran both ways. Also, the roads and sidewalks were wet with a
 lot of fallen leaves on them, so I had to run more slowly and even
 switch to a walk for some segments of my run.
+
+## 2023-12-19 and 2023-12-20: skipped run due to nontrivial probability of rain and wet sidewalks
+
+On Tuesday 2023-12-19 and Wednesday 2023-12-20, I skipped my run due
+to a nontrivial probability of rain, and fairly wet sidewalks. There
+were periods within the day when the probability of rain was low
+enough that I could have gone running, but these were brief and
+intermittent and didn't align with my schedule for the day.
