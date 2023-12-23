@@ -322,7 +322,15 @@ purchase trip to Trader Joe's. The latter is recorded
 In the late morning, I made a trip to downtown Berkeley. I first met a
 friend for lunch at Udupi Palace. Then we went to Trader Joe's where I
 bought some stuff, after which my friend dropped me back home in his
-car (on his own way back home).
+car (on his own way back home). The food purchases are recorded
+[here](../sql/food_purchases.sql).
 
 Shortly after returning home, in the early afternoon I made a trip to
 the ASUC Amazon Hub to pick up an Amazon package.
+
+## Saturday December 23
+
+In the early afternoon, I made a trip to downtown Berkeley. My trip
+included stops at Goodwill, Citibank, Foto Shop, and Target, after
+which I did my usual Trader Joe's and Udupi Palace trip. The food
+purchases are recorded [here](../sql/food_purchases.sql).
