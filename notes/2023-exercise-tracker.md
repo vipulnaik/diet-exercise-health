@@ -245,3 +245,15 @@ to a nontrivial probability of rain, and fairly wet sidewalks. There
 were periods within the day when the probability of rain was low
 enough that I could have gone running, but these were brief and
 intermittent and didn't align with my schedule for the day.
+
+## 2023-12-21 and 2023-12-22: skipped strength exercises
+
+On 2023-12-21, I had strength exercises due (I hadn't done them on
+2023-12-20 because of a skiped run meaning I hadn't warmed
+up). However, I got back deep into a work investigation after
+returning home, so I ended up skipping strength exercises.
+
+On 2023-12-22, I deliberately skipped strength exercises due to a
+[strained rib](2023-12-22-strained-rib.md). I also ran a little less
+(a little over 1 mile instead of the usual 1.25 miles or higher),
+though my total running + walking distance was as usual (2 miles).
