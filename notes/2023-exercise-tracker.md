@@ -257,3 +257,9 @@ On 2023-12-22, I deliberately skipped strength exercises due to a
 [strained rib](2023-12-22-strained-rib.md). I also ran a little less
 (a little over 1 mile instead of the usual 1.25 miles or higher),
 though my total running + walking distance was as usual (2 miles).
+
+## 2023-12-23: skipped jogging and strength exercises due to timing issues
+
+On 2023-12-23, I made a trip during the day, which was about 2 hours,
+and due to the timing of that trip and my need to eat after coming
+back, I couldn't find a good exercise slot.
