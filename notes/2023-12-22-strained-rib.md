@@ -1,5 +1,7 @@
 # 2023-12-22: strained rib
 
+## 2023-12-22
+
 Early in the morning, before waking up, I noticed that an area of my
 right rib was hurting and strained, likely as a result of bad posture
 or movement while I was sleeping. In the early hours of the morning, I
@@ -18,3 +20,15 @@ but my total jogging + walking distance was the usual 2 miles. I also
 skipped the strength exercises that I would normally do after
 returning from jogging, out of concern that the strength exercises
 would add to the strain.
+
+## 2023-12-23
+
+My overnight sleep was reasonably good and although I did experience
+the pain a few times intermittently, it was nowhere near as bad as on
+2023-12-22. One trick I used initially for sleeping on my right side
+was to have my right arm directly underneath the rib so that it bore
+the weight and reduced the stress on the rib.
+
+After waking up on 2023-12-23, I was abe to carry out my day as usual
+without being obviously hindered by the rib strain; I noticed the rib
+strain only a couple of times intermittently.
