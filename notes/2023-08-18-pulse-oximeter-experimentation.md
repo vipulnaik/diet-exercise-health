@@ -117,3 +117,20 @@ This was a few minutes after finishing post-eating cleanup.
 
 * Heart rate (bpm): This went up to around 80-90 bpm and then came
   down to about 72-77 bpm after a few minutes.
+
+## Checking the pulse oximeter after while on 2023-12-24
+
+I did a check of the pulse oximeter after a while on 2023-12-24.
+
+I noticed that my SpO2 reading in the pulse oximeter came to 80% when
+I used it right after washing hands (although I had tried my hands
+with the towel, they were still a little moist since it's cold and the
+moisture doesn't fully come off, also they were a little colder). The
+reading went up gradually to 96%+ over the next few minutes. Judging
+from
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8441519/#:~:text=A%20study%20of%20twelve%20volunteers,be%20due%20to%20local%20vasoconstriction. this
+seems to be a thing.
+
+My heart rate was uncomputable for a while though in a few runs it
+settled in the range of 65-75 bpm, which is higher than my historical
+55-65 bpm, likely due to the temperature and weather changes.
