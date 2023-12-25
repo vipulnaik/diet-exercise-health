@@ -263,3 +263,14 @@ though my total running + walking distance was as usual (2 miles).
 On 2023-12-23, I made a trip during the day, which was about 2 hours,
 and due to the timing of that trip and my need to eat after coming
 back, I couldn't find a good exercise slot.
+
+## 2023-12-24: halved run (running both ways) and skipped strength exercise due to timing issues
+
+On 2023-12-24, it was cold and dark when I left for my run, and I also
+needed to get back home soon for an appointment, so I did a halved
+exercise where I only went out half the distance but I ran both
+ways. For related reasons, I was not able to fit in strength
+exercises.
+
+There's now been an extended period without strength exercises, so I
+should make sure to not miss the next couple of times.
