@@ -2269,4 +2269,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-12-23','Orange bell pepper',2),
   ('2023-12-23','Alvarado Sprouted Wheat Tortillas',7),
   /* 2023-12-23 Udupi Palace; total cost $14.28; order placed at 2:01 PM; paid by cash */
-  ('2023-12-23','Udupi Palace spinach masala dosa',1);
+  ('2023-12-23','Udupi Palace spinach masala dosa',1),
+  /* 2023-12-26 Trader Joe's; total cost $48.74; checkout at 6:36 PM; paid by debit card;
+     I did not get anything from Udupi Palace as it's closed on Tuesdays */
+  ('2023-12-26','TJ Beans',2),
+  ('2023-12-26','TJ Walnuts',1),
+  ('2023-12-26','TJ Carrots',1),
+  ('2023-12-26','TJ Baby Spinach',1),
+  ('2023-12-26','Gold potatoes 3 lb',1),
+  ('2023-12-26','Green bell pepper',3),
+  ('2023-12-26','Eggplant',2),
+  ('2023-12-26','Beefsteak tomato',13),
+  ('2023-12-26','Alvarado Sprouted Wheat Tortillas',2);
