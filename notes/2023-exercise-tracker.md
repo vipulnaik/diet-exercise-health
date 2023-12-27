@@ -274,3 +274,14 @@ exercises.
 
 There's now been an extended period without strength exercises, so I
 should make sure to not miss the next couple of times.
+
+## 2023-12-26: skipped jogging due to timing issues
+
+On 2023-12-26, I anticipated for various runs (including weather
+forecasts and other scheduling considerations) that I might not be
+able to go shopping for the next few days, so I needed to fit a
+shopping trip. This, combined with delays in my eating time due to
+digging into some work stuff, meant that I ended up not being able to
+schedule a jog during the day. This is unfortunate, as the same
+considerations might also make it more difficult to go jogging in the
+next few days.
