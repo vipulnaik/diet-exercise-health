@@ -285,3 +285,8 @@ digging into some work stuff, meant that I ended up not being able to
 schedule a jog during the day. This is unfortunate, as the same
 considerations might also make it more difficult to go jogging in the
 next few days.
+
+## 2023-12-27: skipped jogging due to rain
+
+On 2023-12-27, it was raining throughout the day, so I skipped
+jogging.
