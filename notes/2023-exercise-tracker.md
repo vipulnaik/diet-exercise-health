@@ -290,3 +290,10 @@ next few days.
 
 On 2023-12-27, it was raining throughout the day, so I skipped
 jogging.
+
+## 2023-12-29: skipped jogging due to rain
+
+On 2023-12-29, it was raining for most of the day. There was a brief
+window in the morning where I could have gone jogging, but I thought
+the window was longer than it turned out to be (due to a weather
+forecast in flux) and ultimately missed my window.
