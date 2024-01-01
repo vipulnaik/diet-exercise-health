@@ -334,3 +334,9 @@ In the early afternoon, I made a trip to downtown Berkeley. My trip
 included stops at Goodwill, Citibank, Foto Shop, and Target, after
 which I did my usual Trader Joe's and Udupi Palace trip. The food
 purchases are recorded [here](../sql/food_purchases.sql).
+
+## Sunday December 31
+
+In the afternoon, I made a trip, first to the ASCU Amazon Hub to pick
+up a couple of packages, and then to Trader Joe's for food purchases
+recorded [here](../sql/food_purchases.sql).
