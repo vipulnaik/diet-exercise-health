@@ -2285,7 +2285,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-12-31','TJ Carrots',1),
   ('2023-12-31','TJ Baby Spinach',1),
   ('2023-12-31','Red bell pepper',2),
-  ('2023-12-31','Beefsteak tomato',12),
+  ('2023-12-31','Beefsteak tomato',13 /* I got billed for 12 due to counting error by the clerk */),
   ('2023-12-31','Green bell pepper',3),
   ('2023-12-31','Eggplant',2),
   ('2023-12-31','Alvarado Sprouted Wheat Tortillas',8);
