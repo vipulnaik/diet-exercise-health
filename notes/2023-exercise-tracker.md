@@ -277,7 +277,7 @@ should make sure to not miss the next couple of times.
 
 ## 2023-12-26: skipped jogging due to timing issues
 
-On 2023-12-26, I anticipated for various runs (including weather
+On 2023-12-26, I anticipated for various reasons (including weather
 forecasts and other scheduling considerations) that I might not be
 able to go shopping for the next few days, so I needed to fit a
 shopping trip. This, combined with delays in my eating time due to
@@ -297,3 +297,10 @@ On 2023-12-29, it was raining for most of the day. There was a brief
 window in the morning where I could have gone jogging, but I thought
 the window was longer than it turned out to be (due to a weather
 forecast in flux) and ultimately missed my window.
+
+## 2023-12-31: skipped jogging due to timing issues
+
+On 2023-12-31, I spent the afternoon on a trip for Amazon package
+pickup and Trader Joe's grocery shopping, and due to timing
+constraints didn't have a window of time to go jogging. It was also
+drizzling off and on, which further dissuaded me from going jogging.
