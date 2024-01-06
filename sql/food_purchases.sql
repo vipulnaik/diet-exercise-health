@@ -1943,7 +1943,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-08-11','Green bell pepper',2),
   /* 2023-08-18 Trader Joe's; total cost $50.26; checkout at 7:56 PM; paid by debit card */
   ('2023-08-18','TJ Almond Milk',1),
-  ('2023-08-18','TJ Baby Spinach 60z',2),
+  ('2023-08-18','TJ Baby Spinach 6oz',2),
   ('2023-08-18','TJ Cumin',1),
   ('2023-08-18','TJ Miso Ginger Broth',1),
   ('2023-08-18','TJ Basmati Rice',1),
@@ -2288,4 +2288,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-12-31','Beefsteak tomato',13 /* I got billed for 12 due to counting error by the clerk */),
   ('2023-12-31','Green bell pepper',3),
   ('2023-12-31','Eggplant',2),
-  ('2023-12-31','Alvarado Sprouted Wheat Tortillas',8);
+  ('2023-12-31','Alvarado Sprouted Wheat Tortillas',8),
+  /* 2024-01-05 Trader Joe's; total cost $68.22; checkout at 6:39 PM; paid by debit card */
+  ('2024-01-05','TJ Almond Milk',1),
+  ('2024-01-05','Trader Joe''s 250ml Olive Oil',3),
+  ('2024-01-05','TJ Miso Ginger Broth',2),
+  ('2024-01-05','TJ Sauerkraut',2),
+  ('2024-01-05','TJ Turmeric',1),
+  ('2024-01-05','TJ Walnuts',1),
+  ('2024-01-05','Carb-savvy tortillas',6),
+  ('2024-01-05','TJ Baby Spinach 6oz',2),
+  /* 2024-01-05 Udupi Palace; total cost $14.28; order placed at 6:24 PM */
+  ('2024-01-05','Udupi Palace spinach masala dosa',1);
