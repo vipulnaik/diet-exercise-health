@@ -2281,7 +2281,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-12-26','Eggplant',2),
   ('2023-12-26','Beefsteak tomato',13),
   ('2023-12-26','Alvarado Sprouted Wheat Tortillas',2),
-  /* 2023-12-31 Trader Joe's; total cost $51.71; checkout at 3:15 PM; paid by debit card */
+  /* 2023-12-31 Trader Joe's; total cost $51.71; checkout at 3:15 PM; paid by debit card; no Udupi Palace trip */
   ('2023-12-31','TJ Carrots',1),
   ('2023-12-31','TJ Baby Spinach',1),
   ('2023-12-31','Red bell pepper',2),
@@ -2299,4 +2299,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-01-05','Carb-savvy tortillas',6),
   ('2024-01-05','TJ Baby Spinach 6oz',2),
   /* 2024-01-05 Udupi Palace; total cost $14.28; order placed at 6:24 PM */
-  ('2024-01-05','Udupi Palace spinach masala dosa',1);
+  ('2024-01-05','Udupi Palace spinach masala dosa',1),
+  /* 2024-01-07 Trader Joe's; total cost $66.59; checkout at 4:35 PM; paid by debit card; no Udupi Palace trip */
+  ('2024-01-07','Gold potatoes 5 lb',1),
+  ('2024-01-07','TJ Broccoli Florets 12 oz',1),
+  ('2024-01-07','TJ Baby Spinach',1),
+  ('2024-01-07','TJ Shelled English Peas',4),
+  ('2024-01-07','TJ Carrots',1),
+  ('2024-01-07','Beefsteak tomato',14),
+  ('2024-01-07','Green bell pepper',3),
+  ('2024-01-07','Red bell pepper',2),
+  ('2024-01-07','Alvarado Sprouted Wheat Tortillas',4);
