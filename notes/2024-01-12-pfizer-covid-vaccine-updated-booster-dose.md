@@ -9,6 +9,7 @@ Sections of this document:
 * [Decision to get the booster and choice of timing](#decision-to-get-the-booster-and-choice-of-timing)
 * [Appointment booking](#appointment-booking)
 * [Appointment](#appointment)
+* [Aftereffects: day of vaccine](#aftereffects-day-of-vaccine)
 
 ## Decision to get the booster and choice of timing
 
@@ -110,7 +111,7 @@ line moved quite slowly, and I got to the counter at about 3:25 PM,
 when I was initially processed. At 3:40 PM, I signed the form (I had
 filled it online, so they just needed to print it out, but their
 system was slow). I then waited outside the vaccination room, and got
-vaccinated at 3:45 PM.
+vaccinated at 3:45 PM in my right arm.
 
 Perhaps due to the large backlog, the pharmacist was in a rush and I
 didn't get a chance to ask for my vaccine card to be updated before
@@ -126,3 +127,28 @@ I waited till around 4:30 PM, when another person at the pharmacy
 asked me what I was waiting for, and this bumped the matter back into
 their awareness. A couple of minutes after that, a pharmacist updated
 my card to indicate the vaccine I had just received.
+
+## Aftereffects: day of vaccine
+
+The two things I noticed were frequent urination and soreness at the
+injection site on my right arm. I did feel a little bit of holistic
+fatigue but this was already expected given that the past few days had
+been hectic; I was still able to get stuff done. The role of the
+vaccine in holistic fatigue is unclear.
+
+The soreness in my right arm seems to be more compared to what it was
+for the previous dose, but I don't have an objective measure for
+comparison. I suspect that the greater amount of muscle I have built
+in the area (through strength exercises, including weights, pushups,
+and hand gripper exercises) have increased the proportion of muscle in
+the area (relative to fat), making injections more painful. The good
+news is that this also correlates (in principle) with more
+*effectiveness*. With that said, the fact that I did not do strength
+exercises shortly before getting the vaccine means that my muscles
+were not fatigued, which was good in terms of making them ready to get
+the vaccine. See a [related Reddit
+thread](https://www.reddit.com/r/FTMFitness/comments/juvw73/do_injections_hurt_more_after_gaining_muscle/).
+
+My forehead no-contact thermometer is not super-reliable any more, so
+take it with a grain of salt, but even as of 11 PM, it was not showing
+a clear fever, with temperature in the range of 97.7 to 99.1.
