@@ -322,11 +322,12 @@ I got my primary COVID-19 vaccine series from Pfizer in 2021 (in May
 2021](2021-06-25-pfizer-covid-vaccine-dose-2.md)). Since then, I have
 been getting a booster every year, with the booster some time between
 November and January. As of the writing of this document, my most
-recent vaccine was in [November
-2022](2022-11-09-pfizer-covid-vaccine-updated-booster-dose.md).
+recent vaccine was on [January 12,
+2024](2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md).
 
-Starting with my second COVID-19 dose and then for each booster dose,
-I have reacted with a slight fever; the fever has generally subsided
+Starting with my second COVID-19 dose and then for each booster dose
+(NOTE: I do not yet have enough data for the January 2024 dose), I
+have reacted with a slight fever; the fever has generally subsided
 within 36 hours of getting the dose. With successive boosters, both
 the onset of the fever and its resolution have tended to get faster.
 
