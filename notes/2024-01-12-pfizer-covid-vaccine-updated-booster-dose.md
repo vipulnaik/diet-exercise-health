@@ -102,14 +102,15 @@ minutes prior to the appointment, similar to previous emails.
 
 ## Appointment
 
-I arrived at the appointment location at 2:45 PM, 15 minutes before
-the scheduled appointment time (the appointment instructions recommend
-arriving 15 minutes before the scheduled appointment time, so I
-followed those instructions precisely). The line moved quite slowly,
-and I got to the counter at about 3:25 PM, when I was initially
-processed. At 3:40 PM, I signed the form (I had filled it online, so
-they just needed to print it out, but their system was slow). I then
-waited outside the vaccination room, and got vaccinated at 3:45 PM.
+I arrived at the appointment location on Friday 2024-01-12 at 2:45 PM,
+15 minutes before the scheduled appointment time (the appointment
+instructions recommend arriving 15 minutes before the scheduled
+appointment time, so I followed those instructions precisely). The
+line moved quite slowly, and I got to the counter at about 3:25 PM,
+when I was initially processed. At 3:40 PM, I signed the form (I had
+filled it online, so they just needed to print it out, but their
+system was slow). I then waited outside the vaccination room, and got
+vaccinated at 3:45 PM.
 
 Perhaps due to the large backlog, the pharmacist was in a rush and I
 didn't get a chance to ask for my vaccine card to be updated before
