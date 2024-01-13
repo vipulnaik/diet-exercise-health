@@ -1,7 +1,7 @@
 # Activity tracker listing times and places I was outside the house
 
-This continues with the spirit of my [2021 activity
-tracker](2021-activity-tracker.md), recording my trips outside the
+This continues with the spirit of my [2022 activity
+tracker](2022-activity-tracker.md), recording my trips outside the
 home. I exclude trips for jogging and running. I also exclude trips
 for grocery purchases and picking up takeout from restaurants; you can
 get a sense for those trips by looking in

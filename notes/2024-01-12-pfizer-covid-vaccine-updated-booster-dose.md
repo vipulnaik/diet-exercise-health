@@ -8,6 +8,7 @@ Sections of this document:
 
 * [Decision to get the booster and choice of timing](#decision-to-get-the-booster-and-choice-of-timing)
 * [Appointment booking](#appointment-booking)
+* [Appointment](#appointment)
 
 ## Decision to get the booster and choice of timing
 
@@ -15,10 +16,10 @@ I think an annual frequency of getting the COVID booster is a
 reasonable trade-off between the benefits of regular vaccination for
 keeping my immunity reasonably okay (in the absence of actually
 getting the disease, which may be great for immunity, but is exactly
-what I'm trying to avoid). The COVID booster seems to be settling into
-an annual update cycle, and the update for the 2023-2024 season has
-been available since September 2023. So, getting a booster during the
-2023-2024 season makes sense.
+what I'm trying to avoid) and the adverse effects of the vaccine. The
+COVID booster seems to be settling into an annual update cycle, and
+the update for the 2023-2024 season has been available since September
+2023. So, getting a booster during the 2023-2024 season makes sense.
 
 My timing of January 2024 is mainly driven by a desire to have high
 immunity during my international flight to India and back; these
@@ -98,3 +99,29 @@ I confirmed that I received the email about the appointment. The email
 (as well as the website) reminded me to bring my COVID-19 vaccine
 information card. The email also told me to arrive at the location 15
 minutes prior to the appointment, similar to previous emails.
+
+## Appointment
+
+I arrived at the appointment location at 2:45 PM, 15 minutes before
+the scheduled appointment time (the appointment instructions recommend
+arriving 15 minutes before the scheduled appointment time, so I
+followed those instructions precisely). The line moved quite slowly,
+and I got to the counter at about 3:25 PM, when I was initially
+processed. At 3:40 PM, I signed the form (I had filled it online, so
+they just needed to print it out, but their system was slow). I then
+waited outside the vaccination room, and got vaccinated at 3:45 PM.
+
+Perhaps due to the large backlog, the pharmacist was in a rush and I
+didn't get a chance to ask for my vaccine card to be updated before
+the pharmacist left. So I went back to the counter and asked the
+person there, who told me to wait. The person at the counter told me
+that updating the card is now optional, but I felt it would still be a
+good idea to get mine updated in case the rules change suddenly and
+proof of vaccination is needed, particularly in light of my upcoming
+travel (I did not explain the reasoning, as it was not relevant to the
+person at the counter).
+
+I waited till around 4:30 PM, when another person at the pharmacy
+asked me what I was waiting for, and this bumped the matter back into
+their awareness. A couple of minutes after that, a pharmacist updated
+my card to indicate the vaccine I had just received.
