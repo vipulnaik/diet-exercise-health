@@ -130,6 +130,22 @@ my card to indicate the vaccine I had just received.
 
 ## Aftereffects: day of vaccine
 
+### Prior to 9 PM
+
+Prior to 9 PM, I didn't really notice anything concrete other than a
+bit of holistic fatigue (that further increased after 9 PM; see more
+in the next section). It's worth noting that on my return journey from
+Walgreens to my home (around 5 PM, a little over an hour after the
+vaccine), I carried a light load of toiletries in my right hand and an
+8 lb dumb bell (just purchased) in the other, and both worked fine for
+me with no carrying fatigue.In contrast, when I had purchased the
+other 8 lb dumb bell a little over two months ago, I remember having
+felt tired enough to need to switch hands. So it seems that the
+strength improvements from weight practice over the past two months
+overwhelmed any fatigue from the vaccine at that stage.
+
+### At night (9 PM to around midnight when I went to sleep)
+
 The two things I noticed were frequent urination and soreness at the
 injection site on my right arm. I did feel a little bit of holistic
 fatigue but this was already expected given that the past few days had
@@ -152,3 +168,7 @@ thread](https://www.reddit.com/r/FTMFitness/comments/juvw73/do_injections_hurt_m
 My forehead no-contact thermometer is not super-reliable any more, so
 take it with a grain of salt, but even as of 11 PM, it was not showing
 a clear fever, with temperature in the range of 97.7 to 99.1.
+
+By midnight, I had started feeling slight pain a bit more broadly, in
+my right neck/shoulder area and to a lesser extent also in my left
+neck/shoulder area.
