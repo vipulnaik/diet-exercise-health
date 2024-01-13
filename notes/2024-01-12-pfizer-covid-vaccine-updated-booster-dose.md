@@ -8,8 +8,9 @@ Sections of this document:
 
 * [Decision to get the booster and choice of timing](#decision-to-get-the-booster-and-choice-of-timing)
 * [Appointment booking](#appointment-booking)
-* [Appointment](#appointment)
-* [Aftereffects: day of vaccine](#aftereffects-day-of-vaccine)
+* [Appointment (2024-01-12)](#appointment-2024-01-12)
+* [Aftereffects: day of vaccine (2024-01-12)](#aftereffects-day-of-vaccine-2024-01-12)
+* [Aftereffects: overnight (from 2024-01-12 to 2024-01-13)](#aftereffects-overnight-overnight-from-2024-01-12-to-2024-01-13)
 
 ## Decision to get the booster and choice of timing
 
@@ -101,7 +102,7 @@ I confirmed that I received the email about the appointment. The email
 information card. The email also told me to arrive at the location 15
 minutes prior to the appointment, similar to previous emails.
 
-## Appointment
+## Appointment (2024-01-12)
 
 I arrived at the appointment location on Friday 2024-01-12 at 2:45 PM,
 15 minutes before the scheduled appointment time (the appointment
@@ -128,7 +129,7 @@ asked me what I was waiting for, and this bumped the matter back into
 their awareness. A couple of minutes after that, a pharmacist updated
 my card to indicate the vaccine I had just received.
 
-## Aftereffects: day of vaccine
+## Aftereffects: day of vaccine (2024-01-12)
 
 ### Prior to 9 PM
 
@@ -172,3 +173,19 @@ a clear fever, with temperature in the range of 97.7 to 99.1.
 By midnight, I had started feeling slight pain a bit more broadly, in
 my right neck/shoulder area and to a lesser extent also in my left
 neck/shoulder area.
+
+## Aftereffects: overnight (from 2024-01-12 to 2024-01-13)
+
+As the injection site was still a bit sore, I spent most of my night
+sleeping on my left side, though I did switch to my right side
+intermittently (with the weight distributed in a way that it wouldn't
+fall too much on the sore spot). Overall, I subjectively experienced
+feverishness, chills, and body aches, and felt the need to stay warm,
+but the subjective measurement of this is confounded by the fact that
+it tends to be cold at night anyway and I generally feel cold at
+night.
+
+I woke up a little after 10 AM (later than my usual time, though not
+by much) feeling okay though not in perfect health. My temperature
+readings were now in the 98.7 to 99.1 range, and I did not
+subjectively feel feverish.

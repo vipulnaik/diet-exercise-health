@@ -22,6 +22,6 @@ I was done there at around 2:36 PM. From there, I went to the
 Walgreens on Adeline Street, arriving at 2:45 PM. My process of
 getting the COVID-19 vaccine is described in the [appointment section
 of the doc on that
-topic](2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md#appointment). After
+topic](2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md#appointment-2024-01-12). After
 I was done with the vaccine card update, I bought a few items from
 Walgreens, checked out, and headed back home.
