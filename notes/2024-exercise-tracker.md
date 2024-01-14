@@ -19,7 +19,7 @@ seconds on the first try.
 I also did a halved run, running both ways, in order to get back in
 time for a meeting.
 
-## 2024-01-10 to 2024-01-12: skipped exercise for various reasons
+## 2024-01-10 to 2024-01-13: skipped exercise for various reasons
 
 On 2024-01-10, I had a long general catchup meeting with work
 colleagues, and after that had to catch up on other things, and it was
@@ -33,3 +33,6 @@ food prep, and I ended up not getting a chance to go jogging.
 On 2024-01-12, I had to get my COVID vaccine in the afternoon, and so
 I decided to skip exercise both for time reasons and to conserve my
 energy.
+
+On 2024-01-13, I skipped exercise as I was recovering from the COVID
+vaccine and also because it was raising.

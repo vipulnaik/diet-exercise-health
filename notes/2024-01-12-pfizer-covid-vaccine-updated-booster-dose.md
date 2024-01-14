@@ -11,6 +11,7 @@ Sections of this document:
 * [Appointment (2024-01-12)](#appointment-2024-01-12)
 * [Aftereffects: day of vaccine (2024-01-12)](#aftereffects-day-of-vaccine-2024-01-12)
 * [Aftereffects: overnight (from 2024-01-12 to 2024-01-13)](#aftereffects-overnight-overnight-from-2024-01-12-to-2024-01-13)
+* [Aftereffects: next day (2024-01-13)](#aftereffects-next-day-2024-01-13)
 
 ## Decision to get the booster and choice of timing
 
@@ -189,3 +190,15 @@ I woke up a little after 10 AM (later than my usual time, though not
 by much) feeling okay though not in perfect health. My temperature
 readings were now in the 98.7 to 99.1 range, and I did not
 subjectively feel feverish.
+
+## Aftereffects: next day (2024-01-13)
+
+On 2024-01-13, the day proceeded largely normally. I was more sluggish
+than usual, needing a little more TV show / movie entertainment to
+keep me going, and had fewer total accounted-for hours as a result. My
+mood started to recover by the late evening, and I was able to get
+some work done while rewatching a TV show. By the end of the day
+(after 1 AM) I was back to normal with the exception of continued
+soreness.
+
+I took the bandage off around 10 PM as it was getting loose anyway.
