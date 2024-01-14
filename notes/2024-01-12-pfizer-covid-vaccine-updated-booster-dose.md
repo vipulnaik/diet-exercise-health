@@ -199,6 +199,6 @@ keep me going, and had fewer total accounted-for hours as a result. My
 mood started to recover by the late evening, and I was able to get
 some work done while rewatching a TV show. By the end of the day
 (after 1 AM) I was back to normal with the exception of continued
-soreness.
+soreness in the injection area.
 
 I took the bandage off around 10 PM as it was getting loose anyway.
