@@ -2309,4 +2309,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-01-07','Beefsteak tomato',14),
   ('2024-01-07','Green bell pepper',3),
   ('2024-01-07','Red bell pepper',2),
-  ('2024-01-07','Alvarado Sprouted Wheat Tortillas',4);
+  ('2024-01-07','Alvarado Sprouted Wheat Tortillas',4),
+  /* 2024-01-14 Berkeley Bowl; total cost $14.98; checkout at 1:01 PM; paid by debit card */
+  ('2024-01-14','Lundberg Sustainable California White Jasmine Rice',1),
+  /* 2024-01-14 Trader Joe's; total cost $66.23; checkout at 1:36 PM; paid by debit card; no Udupi Palace trip */
+  ('2024-01-14','TJ Walnuts',1),
+  ('2024-01-14','Trader Giotto''s Olive Oil',1),
+  ('2024-01-14','TJ Almond Milk',1),
+  ('2024-01-14','TJ Cumin',1),
+  ('2024-01-14','TJ Beans',2),
+  ('2024-01-14','Beefsteak tomato',15),
+  ('2024-01-14','Alvarado Sprouted Wheat Tortillas',6);
