@@ -19,7 +19,7 @@ seconds on the first try.
 I also did a halved run, running both ways, in order to get back in
 time for a meeting.
 
-## 2024-01-10 to 2024-01-13: skipped exercise for various reasons
+## 2024-01-10 to 2024-01-14: skipped most exercise for various reasons
 
 On 2024-01-10, I had a long general catchup meeting with work
 colleagues, and after that had to catch up on other things, and it was
@@ -36,3 +36,20 @@ energy.
 
 On 2024-01-13, I skipped exercise as I was recovering from the COVID
 vaccine and also because it was raising.
+
+On 2024-01-14, I skipped most exercise again; although I had recovered
+more, I needed to go for food purchases and then prepare food and I
+wasn't able to slot my jogging in. However, I did do the
+standing-on-one-leg-with-eyes-closed exercise and did a little bit of
+hand gripper exercise.
+
+## 2024-01-15: shorter run due to less energy
+
+On 2024-01-15, instead of doing my usual 1.25 miles jogging + 0.75
+miles walking, I did about 0.8 miles jogging + 0.8 miles walking. The
+shorter distance was due to me feeling less energetic, which might be
+a reflection of my continuing recovery from the COVID vaccine, or a
+result of taking a break from jogging for a few days (I suspect the
+former). While I could have pushed myself to jog a bit more, I felt
+it's probably better to not push myself, so that I have more energy
+left over for recovery and for the other things I plan to do today.
