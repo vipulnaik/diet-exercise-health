@@ -26,7 +26,7 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 14 seconds)
+### Threshold duration (currently 18 seconds with adjustments for colder temperatures)
 
 * Prior to 2023-10-28, the de facto threshold duration was 10 seconds
 
@@ -35,6 +35,24 @@ The standard version of the exercise is as follows:
 
 * Starting 2023-11-18, the threshold duration was increased to 14
   seconds
+
+* Starting 2024-01-18, I'm planning to follow this rule:
+
+  * Baseline of 18 seconds
+
+  * If I am doing the exercise after I return from jogging, no
+    adjustment (18 seconds remains the target)
+
+  * If I am doing the exercise without jogging or similar warmup, then
+    temperature-based adjustment as follows. For every degree celsius
+    that the indoor temperature is less than 20 degrees Celsius (68
+    degrees Fahrenheit), I subtract 1 second.  For instance, if the
+    indoor temperature is 15 degrees Celsius (59 degrees Fahrenheit),
+    my target is 18 - (20 - 15) = 13 seconds.
+
+  This temperature-dependence is based on the observation that my
+  ability to stand on one leg with eyes closed is harder at colder
+  temperatures.
 
 ### How the threshold duration is used
 
