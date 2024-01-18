@@ -202,3 +202,33 @@ some work done while rewatching a TV show. By the end of the day
 soreness in the injection area.
 
 I took the bandage off around 10 PM as it was getting loose anyway.
+
+## Continued recovery
+
+After 2024-01-13, I did not have any clear-cut symptoms related to the
+COVID vaccine. A few notes:
+
+* **Soreness**: On 2024-01-14 and 2024-01-15, I continued to
+  experience slight soreness in the vaccine area when touching or
+  rubbing it deliberately, though the soreness wasn't enough for me to
+  spontaneously notice. By the evening of 2024-01-16, the soreness had
+  disappeared.
+
+* **Reduced energy for physical exercise**: I did not experience any
+  noticeable fatigue after 2024-01-13 for sedentary work; however, my
+  runs were a little shorter than usual on 2024-01-15 and 2024-01-17,
+  likely due to continued recovery from the COVID vaccine. They were
+  not, however, short in absolute terms for a healthy/fit person who
+  doesn't regularly do that exercise; just short relative to *my*
+  baseline. See [2024-exercise-tracker.md](2024-exercise-tracker.md)
+  for more.
+
+  Relatedly, I'm planning to resume strength exercises on 2024-01-19
+  or later, to avoid putting stress on the muscle area where the
+  vaccine was injected.
+
+* **Reduced work output**: On both 2024-01-13 and 2024-01-15, my total
+  accounted-for hours were lower than usual. While on 2024-01-13 I
+  also experienced subjective fatigue, the situation on 2024-01-15 was
+  different; I felt energetic but was a little slower than usual. By
+  2024-01-16, things appear to have fully returned to normal.
