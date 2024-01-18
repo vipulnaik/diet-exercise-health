@@ -53,3 +53,21 @@ result of taking a break from jogging for a few days (I suspect the
 former). While I could have pushed myself to jog a bit more, I felt
 it's probably better to not push myself, so that I have more energy
 left over for recovery and for the other things I plan to do today.
+
+## 2024-01-16: skipped run due to intermittent rain
+
+On 2024-01-16, it was raining intermittently throughout the afternoon
+and evening, so I skipped my run.
+
+## 2024-01-17: skipped strength exercises, slightly shorter running portion
+
+On 2024-01-17, my energy levels had still not recovered fully to what
+they used to be prior to the COVID vaccine. Instead of my usual
+pattern of at least 1.25 miles running and the remainder of the total
+2 miles spent walking, I only ran for 1 out of the 2 miles. This was
+still an improvement over 2024-01-15, when I had done 0.8 miles
+running + 0.8 miles walking.
+
+I also skipped strength exercises, partly due to fatigue from running
+and partly as a continued precautionary measure after the COVID
+vaccine.
