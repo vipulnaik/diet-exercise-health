@@ -71,3 +71,12 @@ running + 0.8 miles walking.
 I also skipped strength exercises, partly due to fatigue from running
 and partly as a continued precautionary measure after the COVID
 vaccine.
+
+## 2024-01-18: continued to skip strength exercises, slightly shorter running portion (though longer than before)
+
+On 2024-01-18, my energy levels had still not recovered fully to what
+they used to be prior to the COVID vaccine. Instead of my usual
+pattern of at least 1.25 miles running and the remainder of the total
+2 miles spent walking, I only ran for 1 out of the 2 miles. This was
+still an improvement over 2024-01-17, when I had done 1 mile
+running + 1 mile walking.

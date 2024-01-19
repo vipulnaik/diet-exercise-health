@@ -25,3 +25,8 @@ of the doc on that
 topic](2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md#appointment-2024-01-12). After
 I was done with the vaccine card update, I bought a few items from
 Walgreens, checked out, and headed back home.
+
+## Thursday January 18
+
+In the evening, I made a trip to Walgreens, checking out a little
+after 6 PM.
