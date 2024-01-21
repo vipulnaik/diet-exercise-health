@@ -80,3 +80,11 @@ pattern of at least 1.25 miles running and the remainder of the total
 2 miles spent walking, I only ran for 1 out of the 2 miles. This was
 still an improvement over 2024-01-17, when I had done 1 mile
 running + 1 mile walking.
+
+## 2024-01-19 and 2024-01-20: skipped most exercises due to rain
+
+On both these days, due to rain for large parts of the day, I skipped
+jogging. Since jogging serves as a warmup for strength exercises, I
+also skipped strength exercises. With that said, I did do the
+standing-on-one-leg exercise on 2024-01-20 and hand gripper exercises
+(probably) on both days.
