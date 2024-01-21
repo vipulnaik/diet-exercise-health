@@ -88,3 +88,13 @@ jogging. Since jogging serves as a warmup for strength exercises, I
 also skipped strength exercises. With that said, I did do the
 standing-on-one-leg exercise on 2024-01-20 and hand gripper exercises
 (probably) on both days.
+
+## 2024-01-21: back to normal
+
+On 2024-01-21, I did jogging (to my usual extent) and also resumed
+strength exercises; this was my first time doing strength exercises
+since the COVID vaccine that I had gotten on 2024-01-12. This was also
+my first time doing strength exercises with two 8 lb dumb bells (I had
+previously only been using one dumb bell so I had only been doing one
+hand at a time). For more on the weight increase, see
+[2024-01-21-weight-lifting-weight-increase.md](2024-01-21-weight-lifting-weight-increase.md).
