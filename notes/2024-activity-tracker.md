@@ -30,3 +30,11 @@ Walgreens, checked out, and headed back home.
 
 In the evening, I made a trip to Walgreens, checking out a little
 after 6 PM.
+
+## Sunday January 21
+
+In the afternoon, I made a trip to downtown Berkeley for some
+purchases. I first stopped at the Target in downtown Berkeley, then
+went to Berkeley Ace Hardware, then went to Trader Joe's; purchases at
+Trader Joe's are recorded in
+[food_purchases.sql](../sql/food_purchases.sql).

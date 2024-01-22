@@ -15,3 +15,14 @@ I was having more trouble completing the full number of repetitions
 (15) for one of the exercises, so I called it off at 10, and even for
 those 10 I broke it down into parts with a few seconds of rest in
 between.
+
+Later in the day, toward the end of my walking return journey from a
+shopping trip, I experienced pain in my right shoulder. I was carrying
+grocery bags in both hands, and also had a backpack on; the weight of
+the bag in my right hand had been a little higher than the weight of
+the bag in my left hand for most of the journey. To address this, I
+moved both bags to my left hand for a little while, and also moved the
+bagpack strap off my right shoulder so that it loosely rested on my
+upper right arm. After a little while, I transferred the lighter bag
+to my right hand but kept the strap off my right shoulder until I
+could get back home and take it all off.
