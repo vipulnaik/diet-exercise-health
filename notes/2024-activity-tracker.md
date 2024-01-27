@@ -38,3 +38,9 @@ purchases. I first stopped at the Target in downtown Berkeley, then
 went to Berkeley Ace Hardware, then went to Trader Joe's; purchases at
 Trader Joe's are recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday January 26
+
+In the evening, I made a trip related to my trip preparation. After
+being done with that, I did my usual food purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
