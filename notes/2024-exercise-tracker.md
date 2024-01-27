@@ -98,3 +98,11 @@ my first time doing strength exercises with two 8 lb dumb bells (I had
 previously only been using one dumb bell so I had only been doing one
 hand at a time). For more on the weight increase, see
 [2024-01-21-weight-lifting-weight-increase.md](2024-01-21-weight-lifting-weight-increase.md).
+
+## 2024-01-22: skipped jogging due to rain
+
+On 2024-01-22, I skipped jogging due to rain.
+
+## 2024-01-24: skipped jogging due to rain
+
+On 2024-01-24, I skipped jogging due to rain.
