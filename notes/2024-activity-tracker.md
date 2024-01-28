@@ -44,3 +44,10 @@ Trader Joe's are recorded in
 In the evening, I made a trip related to my trip preparation. After
 being done with that, I did my usual food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Saturday January 27
+
+In the later afternoon, I made a trip related to my trip
+preparation. After being done with that, I purchased groceries from
+Trader Joe's, as recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
