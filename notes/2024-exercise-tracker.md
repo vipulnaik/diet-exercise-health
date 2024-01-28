@@ -106,3 +106,8 @@ On 2024-01-22, I skipped jogging due to rain.
 ## 2024-01-24: skipped jogging due to rain
 
 On 2024-01-24, I skipped jogging due to rain.
+
+## 2024-01-27: skipped all exercise due to unusual day
+
+See [2024-01-27: unplanned 22-hour
+fast](2024-01-27-unplanned-22-hour-fast.md) for details of the day.
