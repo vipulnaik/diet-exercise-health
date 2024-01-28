@@ -43,6 +43,8 @@ emergency situations where I lack the time or resources to eat.
 
 ## Observations
 
+### Mood, fatigue, hunger
+
 Overall, I did start feeling a little bit hungry and tired around 3-4
 PM; however, I was able to execute on my two-hour trip (50% standing,
 50% walking) without too much physical and mental exhaustion, even
@@ -68,3 +70,11 @@ be good enough to eat nothing all day until the flight; a little bit
 of morning food consumption will probably be very helpful in avoiding
 the pangs of hunger I experienced at 8 PM, which would be close to the
 departure time of a late-evening/night-time flight.
+
+### Other symptoms
+
+I noticed a little more soreness of throat (though this didn't get in
+my way for my outside trip). I did try to deliberatel drink a bit more
+water, but probably didn't compensate enough for the lack of food. The
+soreness of throat was intermittent and returned to normal after I
+broke the fast.
