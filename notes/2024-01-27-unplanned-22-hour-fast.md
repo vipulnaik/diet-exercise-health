@@ -2,15 +2,21 @@
 
 ## Timeline
 
+### 2024-01-26 (prior day)
+
 On the evening of 2024-01-26, I had dinner a little late, around 9 PM
-(finishing around 10 PM). Then, on 2024-01-27, I did not have any food
-in the morning, as I got engrossed in some tax stuff. After that,
-around 3 PM, I had to make a trip to downtown Berkeley for some
-trip-related stuff, and it was a bit time-sensitive, so I
-intentionally held off. After I came back, a little before 6 PM, after
-being out for over two hours (of standing and walking, maybe about 50%
-standing and 50% walking), I spent time wrapping up some of the stuff
-triggered by my outside trip. Then I returned to the tax stuff.
+(finishing around 10 PM).
+
+### 2024-01-27 (day of fast and breaking thereof)
+
+On 2024-01-27, I did not have any food in the morning, as I got
+engrossed in some tax stuff. After that, around 3 PM, I had to make a
+trip to downtown Berkeley for some trip-related stuff, and it was a
+bit time-sensitive, so I intentionally held off. After I came back, a
+little before 6 PM, after being out for over two hours (of standing
+and walking, maybe about 50% standing and 50% walking), I spent time
+wrapping up some of the stuff triggered by my outside trip. Then I
+returned to the tax stuff.
 
 It was around 8 PM when I finally decided I was feeling hungry enough
 that I had to break for my "breakfast"; I had also exhausted my cooked
@@ -21,8 +27,13 @@ lunch/dinner. All in all, I had my second meal at around 11:30 PM, so
 I ended up having my full two meals, just shifted a lot in time from
 when I'd normally have them.
 
-It will be interesting to see how quickly I bounce back to normal on
-2024-01-28.
+### 2024-01-28 (next day)
+
+2024-01-28 shaped up to be a pretty normal Sunday. As it was warmer
+than usual, I was able to go jogging in the late morning / early
+afternoon (with the usual jogging / walking mix), after which I did
+strength exercises. My energy for strength exercises was just a tad
+less than average. After that, I was able to cook and eat normally.
 
 ## Not planned in advance, but still semi-intentional
 
