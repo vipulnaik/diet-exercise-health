@@ -6,8 +6,9 @@ bottles of garlic-flavored olive oil. As I started consuming the
 bottles, I noticed that my throat got a little more sore after
 eating. The soreness was intermittent and not too irritating, so I
 didn't connect it immediately with the garlic; however, upon more
-reflection on 2024-01-27 and 2024-01-28, it seems tied to the garlic
-flavor.
+reflection on 2024-01-27 and 2024-01-28 (when my
+[fast](2024-01-27-unplanned-22-hour-fast.md) seems to have exacerbated
+things), it seems tied to the garlic flavor.
 
 I've now stocked up on the regular olive oil, and I've just finished
 two bottles, so for now I will switch back to regular olive oil. I
