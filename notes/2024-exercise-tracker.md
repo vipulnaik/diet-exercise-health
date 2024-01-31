@@ -111,3 +111,15 @@ On 2024-01-24, I skipped jogging due to rain.
 
 See [2024-01-27: unplanned 22-hour
 fast](2024-01-27-unplanned-22-hour-fast.md) for details of the day.
+
+## 2024-01-30: accidentally skipped standing-on-one-leg-with-eyes-closed exercises
+
+I skipped standing-on-one-leg-with-eyes-closed exercises before
+heading out for my run; I noticed this as I was heading out, but
+thought I'll do the exercises after I come back. However, after coming
+back, I got busy responding to some work-related stuff and didn't get
+a chance to do the exercises. Things were hectic with day job and
+personal chores after that and the exercise slipped my mind. (I also
+skipped strength exercises that I was supposed to do that day, but
+this skipping doesn't yet reach the three-day threshold needed to
+report in this document).
