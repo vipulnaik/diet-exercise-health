@@ -123,3 +123,11 @@ personal chores after that and the exercise slipped my mind. (I also
 skipped strength exercises that I was supposed to do that day, but
 this skipping doesn't yet reach the three-day threshold needed to
 report in this document).
+
+## 2024-01-31 to 2024-02-02: skipped most exercise due to rain and wet sidewalks
+
+From 2024-01-31 to 2024-02-02, I skipped most exercise due to a
+combination of curent rain and wet sidewalks due to recent rain. While
+the rain was intermittent, and with sufficient monitoring I could have
+snuck a run in, it was difficult to plan around that while also
+getting other work done.
