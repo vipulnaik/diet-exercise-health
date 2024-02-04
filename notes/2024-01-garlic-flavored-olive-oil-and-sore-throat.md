@@ -15,3 +15,10 @@ two bottles, so for now I will switch back to regular olive oil. I
 might use a little bit of the garlic-flavored oil from time to time
 for seasoning on top but not for the base of the preparation (which is
 where the quantative majority of oil is).
+
+UPDATE 2024-02-03: I no longer experience the soreness of throat; the
+soreness improved even before my next meal prep using normal olive
+oil, but I think the garlic flavoring still has something to do with
+it (the garlic flavor is more pronounced in meals for more recently
+cooked food). However, it's also more likely in hindsight that my
+unplanned fast played a bigger role in the spike in soreness.
