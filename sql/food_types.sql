@@ -47,7 +47,7 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ protein_in_grams,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ vitamin_a_in_mcg, vitamin_c_in_mg, vitamin_d_in_mcg, calcium_in_mg, iron_in_mg,
   /* columns for other less commonly reported vitamins and minerals */ vitamin_b6_in_mg, vitamin_b12_in_mcg, vitamin_e_in_mg, vitamin_k_in_mcg, magnesium_in_mg, zinc_in_mg, phosphorus_in_mg, copper_in_mg,
-  /* notes column */notes) values
+  /* notes column */ notes) values
 
   ('TJ Sauerkraut','Raw & Fermented Trader Joe''s Sauerkraut with Pickled Persian Cucumbers','https://www.traderjoes.com/fearless-flyer/article/5455',85,
   /* fat-related columns */ 0,0,0,0,0,
@@ -109,7 +109,7 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* notes */ 'The dietary information in the link is somewhat outdated. I used the information from an actual item. The information there includes a column for total value per container; I used that instead of using the column for value per serving size and multiplying.'),
 
-  ('TJ Baby Spinach','Trader Joe''s Les Salades du Midi Baby Spinach','https://www.fooducate.com/product/Trader-Joe-s-Baby-Spinach/35B7FA44-169F-11E0-BF92-FEFD45A4D471',80,
+  ('TJ Baby Spinach','Trader Joe''s Les Salades du Midi Baby Spinach 12 oz','https://www.fooducate.com/product/Trader-Joe-s-Baby-Spinach/35B7FA44-169F-11E0-BF92-FEFD45A4D471',80,
   /* fat-related columns */ 0,0,0,0,0,
   /* cholesterol */ 0,
   /* sodium and potassium (mostly from salts) */ 260,1896,
@@ -118,6 +118,16 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 1600,96,0,320,8,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* notes */ 'I used information printed on the back of an actual item. The information was specified in per-serving terms, with 4 servings per container, so I multiplied the values by 4 for reporting.'),
+
+  ('TJ Baby Spinach 6 oz','Trader Joe''s Organic Baby Spinach 6 oz','https://www.myfooddiary.com/foods/7239846/trader-joes-organic-baby-spinach',40,
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 130,940,
+  /* carbohydrate-related columns */ 6,4,0,
+  /* protein-related columns */ 4,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 800,48,0,160,4.6,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The data given uses a serving size of 85 grams, half the size of the packet, so I multiplied all numbers by 2. Overall this is very similar to the full-sized non-organic baby spinach, just scaled down by 2, with the slight differences likely reflecting rounding errors rather than genuine differences.'),
 
   ('Trader Giotto''s Olive Oil','Trader Giotto''s Extra Virgin Olive Oil',NULL,8000,
   /* fat-related columns */ 933,133,0,667,100,
@@ -270,7 +280,7 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* notes */ 'Data was provided for the whole packet, that has a weight of 85 grams.'),
 
-  ('Dutch yellow potatoes 1.5lb','Dutch yellow potatoes 1.5lb (~15 potatoes)','https://www.nutritionix.com/i/melissas/baby-dutch-yellow-potatoes/541055571c634b9a52447fca',480,
+  ('Dutch yellow potatoes 1.5 lb','Dutch yellow potatoes 1.5lb (~15 potatoes)','https://www.nutritionix.com/i/melissas/baby-dutch-yellow-potatoes/541055571c634b9a52447fca',480,
   /* fat-related columns */ 0,0,0,0,0,
   /* cholesterol */ 0,
   /* sodium and potassium (mostly from salts) */ 108,2760,
@@ -280,6 +290,26 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* notes */ 'I adjusted the setting for number of potatoes to 18 (from the default of 3), so as to match the expected weight of 1.5lb.'),
 
+  ('Gold potatoes 3 lb','Gold potatoes 3 lb (~9 potatoes)','https://www.heb.com/product-detail/fresh-gold-potatoes/591301',990,
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,5580,
+  /* carbohydrate-related columns */ 234,18,9,
+  /* protein-related columns */ 27,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,243,0,180,9.9,
+  /* columns for other less commonly reported vitamins and minerals */ 1.8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The linked page isn''t for the brand I buy, but I expect the nutritional content to be similar. It gives the data per potato (148 grams, or about 1/3 of a lb), and there are approximately 9 potatoes in 3 lb. So I multiplied their numbers by 9.'),
+
+  ('Gold potatoes 5 lb','Gold potatoes 5 lb (~15 potatoes)','https://www.heb.com/product-detail/fresh-gold-potatoes/591301',1650,
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,9300,
+  /* carbohydrate-related columns */ 390,30,15,
+  /* protein-related columns */ 45,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,405,0,300,16.5,
+  /* columns for other less commonly reported vitamins and minerals */ 3.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The linked page isn''t for the brand I buy, but I expect the nutritional content to be similar. It gives the data per potato (148 grams, or about 1/3 of a lb), and there are approximately 15 potatoes in 5 lb. So I multiplied their numbers by 15.'),
+
   ('TJ Indian Style Flatbread','Trader Joe''s Traditional Indian Style Flatbread','https://www.aldireviewer.com/trader-joes-traditional-indian-style-flatbread/',1400,
   /* fat-related columns */ 20,2,0,NULL,NULL,
   /* cholesterol */ 0,
@@ -288,15 +318,58 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 44,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,4,760,16,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes */ 'The data on the page is for 128 grams. I used a quantity of 4 to get the data for one pack. The actual number of pieces is 6, but their weight is less than 128 grams. The reason for the serving size used is not clear. https://www.carbmanager.com/food-detail/md:560fc054a24643bed7780727d8d5252c/indian-style-flatbread shows similar results.');
+  /* notes */ 'The data on the page is for 128 grams. I used a quantity of 4 to get the data for one pack. The actual number of pieces is 6, but their weight is less than 128 grams. The reason for the serving size used is not clear. https://www.carbmanager.com/food-detail/md:560fc054a24643bed7780727d8d5252c/indian-style-flatbread shows similar results.'),
+
+  ('TJ Carb Savvy Tortillas','Trader Joe''s Carb Savvy Tortillas','https://www.facebook.com/itsfromtraderjoes/posts/pfbid0211r4kRZxWrdGwrLxyg2QsbRaa47ueBLNvCEpormKA4sYk8VgDLCitxZ5sPUmAEiel',450,
+  /* fat-related columns */ 15,0,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 1400,300,
+  /* carbohydrate-related columns */ 90,60,50,
+  /* protein-related columns */ 40,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,100,9,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The serving size is 1 tortilla, and there are 10 per container, so I multiplied by 10.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
    now; having them in the table has other benefits such as data
    validation. */
 
+/* Spices and condiments -- these don't have nutritional information to speak of */
+insert into food_types(short_name, long_name, url, notes) values
+  ('TJ Turmeric','Trader Joe''s Turmeric Powder 2 oz','https://www.amazon.com/Trader-Joes-Turmeric-2-Pack/dp/B00JU4BQ1Y','I use this turmeric powder for seasoning my prepared meals.'),
+  ('TJ Cumin','Trader Joe''s Ground Cumin 1.7 oz','https://www.amazon.com/Trader-Joes-Ground-Cumin-NET/dp/B07G1BV593','I use this ground cumin for seasoning my prepared meals.'),
+  ('TJ Cayenne Pepper','Trader Joe''s Cayenne Pepper','https://www.ebay.com/itm/175363234738','I use a little of this cayenne pepper as seasoning. It''s generally less in amount than the turmeric and cumin, and I might skip it in case of a sore throat.'),
+  ('TJ Cinnamon','Trader Joe''s Ground Cinnamon','https://www.amazon.com/Trader-Joes-Ground-Cinnamon-Pack/dp/B07TH176BQ','I put a small amount of this as seasoning. I started using this as there was some left over in my group house. I also accidentally bought another bottle on 2023-08-11, so I may continue using it for some time.');
+
 insert into food_types(short_name, long_name, notes) values
+  /* Udupi Palace */
   ('Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa with sambhar, white chutney, and red chutney','I generally order takeout for this when going to Trader Joe''s for grocery shopping.'),
+  ('Udupi Palace spring dosa','Udupi Palace spring dosa with sambhar, white chutney, and red chutney','I got this by mistake once when ordering the spinach masala dosa.'),
+  ('Udupi Palace bisi bele bath','Udupi Palace bisi bele bath (dine-in) with papad, raita, and pickles','I generally have this dish when dining in at Udupi Palace.'),
+  ('Udupi Palace sambhar','Udupi Palace sambhar','I sometimes order this as an extra dish when dining in at Udupi Palace.'),
+  ('Udupi Palace sambhar (small)','Udupi Palace sambhar (small)','I sometimes order this as an extra dish when dining in at Udupi Palace.'),
+  ('Udupi Palace medu vada','Udupi Palace medu vada','I had this once when dining in with a friend at Udupi Palace.'),
+  /* Mehak Indian Cuisine */
   ('Mehak Indian Cuisine standard set','Mehak Indian Cuisine standard set: two colored rices (complementary), aloo gobi, aloo saag, vegetable masala, two dal soups','I used to get one takeout of this every 2-3 weeks from September 2020 to (approximately) May 2023. I stopped after switching to part-time work and adding potatoes to my home meal prep.'),
+  ('Mehak Indian Cuisine chana masala','Mehak Indian Cuisine chana masala','I have occasionally ordered this as an additional dish in Mehak Indian Cuisine takeout, on top of my standard set.'),
+  ('Mehak Indian Cuisine bengan bharta','Mehak Indian Cuisine bengan bharta','I have occasionally ordered this as an additional dish in Mehak Indian Cuisine takeout, on top of my standard set.'),
+  ('Mehak Indian Cuisine dal soup','Mehak Indian Cuisine dal soup','The dal soup is part of my standard set (2 dal soups in a standard set) but I have on occasion ordered additional dal soups.'),
+  /* Bangkok Thai Cuisine */
   ('Bangkok Thai Cuisine white rice','Bangkok Thai Cuisine white rice','I used to get this as takeout from Bangkok Thai Cuisine occasionally, generally when I was running out of tortillas and wanted to get something quickly. I stopped after moving to a different part of town that was farther from the restaurant.'),
-  ('Bangkok Thai Cuisine yellow curry tofu','Bangkok Thai Cuisine yellow curry tofu','I used to get this as takeout from Bangkok Thai Cuisine occasionally. I stopped after moving to a different part of town that was farther from the restaurant.');
+  ('Bangkok Thai Cuisine yellow curry tofu','Bangkok Thai Cuisine yellow curry tofu','I used to get this as takeout from Bangkok Thai Cuisine occasionally. I stopped after moving to a different part of town that was farther from the restaurant.'),
+  /* Pakwan */
+  ('Pakwan meal set','Pakwan meal set (dal, chana aloo, aloo sag, mixed veg curry)','I sometimes order this meal combination when I''m on a trip to San Francisco and have time to order takeout from Pakwan.'),
+  ('Pakwan basmati rice','Pakwan basmati rice','On at least one occasion where I ordered takeout from Pakwan, I included basmati rice in the takeout. I didn''t do so on other occasions.'),
+  /* Tender Greens */
+  ('Tender Greens happy vegan salad','Tender Greens happy vegan salad','I occasionally visit Tender Greens for dine-in meals with others, and generally order the happy vegan salad during such meals.'),
+  /* Revival Bar & Kitchen */
+  ('Revival Bar & Kitchen paella','Revival Bar & Kitchen paella','I had this dish at the end-of-year group dinner for the company I worked for at the time.'),
+  /* Tuk Tuk Thai */
+  ('Tuk Tuk Thai jasmine rice','Tuk Tuk Thai jasmine rice','I had this by takeout once when I was feeling unwell and needed rice, but didn''t have a stock of rice and didn''t want to incur the time cost of buying + cooking rice.'),
+  /* Imm Thai Street Food */
+  ('Half spicy eggplant tofu and half yellow curry tofu','Imm Thai Street Food half spicy eggplant tofu and half yellow curry tofu','I had this special combination at a dine-in I did, sharing with another person, at Imm Thai Street Food.'),
+  /* Kitava */
+  ('Kitava Power Bowl','Kitava Power Bowl','I had this on 2023-11-29 when uenxpectedly dining in at Kitava.'),
+  /* Asha Tea House */
+  ('Asha Tea House ginger honey tea','Asha Tea House ginger honey tea','I have this on the occasional visit to Asha Tea House, usually whne meeting up with other people.');

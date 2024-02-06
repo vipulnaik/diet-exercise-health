@@ -186,7 +186,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2021-05-27 Udupi Palace */
   ('2021-05-27','Udupi Palace spinach masala dosa',1),
   /* 2021-05-29 Pakwan */
-  ('2021-05-29','Pakwan meal set (2 basmati rices; dal, chana aloo, aloo sag, mixed veg curry)',1),
+  ('2021-05-29','Pakwan meal set',1),
+  ('2021-05-29','Pakwan basmati rice',2),
   /* 2021-06-02 Trader Joe's (verified with receipt) */
   ('2021-06-02','TJ Almond Milk',1),
   ('2021-06-02','TJ Sauerkraut',2),
@@ -583,6 +584,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-11-12','TJ Misal Curry',1),
   /* 2021-11-12 Udupi Palace */
   ('2021-11-12','Udupi Palace spinach masala dosa',1),
+  /* 2021-11-14 Pakwan */
+  ('2021-11-14','Pakwan meal set',1),
   /* 2021-11-18 Trader Joe's; checkout at 4:28 PM; total cost $49.26 (paid by card) */
   ('2021-11-18','TJ Almond Milk',1),
   ('2021-11-18','TJ Carrots',1),
@@ -723,7 +726,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2022-01-16 Trader Joe's; checkout at 3:43 PM; total cost $47.16 (paid by card) */
   ('2022-01-16','TJ Sauerkraut',2),
   ('2022-01-16','TJ Carrots',1),
-  ('2022-01-16','TJ Baby Spinach 6oz',1),
+  ('2022-01-16','TJ Baby Spinach 6 oz',1),
   ('2022-01-16','TJ English Shelled Peas',1),
   ('2022-01-16','Red bell pepper',2),
   ('2022-01-16','Green bell pepper',2),
@@ -1185,7 +1188,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-08-10','Beefsteak tomato',12),
   ('2022-08-10','Red bell pepper',4),
   ('2022-08-10','Eggplant',2),
-  ('2022-08-10','Carb-savvy tortillas',4),
+  ('2022-08-10','TJ Carb Savvy Tortillas',4),
   ('2022-08-10','Green bell pepper',4),
   ('2022-08-10','TJ Turmeric',1),
   ('2022-08-10','TJ Ceyenne Pepper',1),
@@ -1350,7 +1353,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-11-04','Trader Giotto''s Olive Oil',1),
   ('2022-11-04','TJ Sauerkraut',2),
   ('2022-11-04','TJ Almond Milk',1),
-  ('2022-11-04','TJ Baby Spinach 6oz',2),
+  ('2022-11-04','TJ Baby Spinach 6 oz',2),
   ('2022-11-04','TJ Walnuts',1),
   ('2022-11-04','Beefsteak tomato',8),
   ('2022-11-04','TJ Beans',1),
@@ -1361,7 +1364,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-11-09','Mehak Indian Cuisine standard set',1),
   /* 2022-11-12 Trader Joe's; total cost $43.04; checkout at 5:30 PM; paid by debit card */
   ('2022-11-12','TJ Beans',1),
-  ('2022-11-12','TJ Baby Spinach 6oz',1),
+  ('2022-11-12','TJ Baby Spinach 6 oz',1),
   ('2022-11-12','TJ Carrots',1),
   ('2022-11-12','Red bell pepper',4),
   ('2022-11-12','Green bell pepper',4),
@@ -1377,7 +1380,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-11-16','TJ Carrots',1),
   ('2022-11-16','TJ Beans',1),
   ('2022-11-16','Beefsteak tomato',6),
-  ('2022-11-16','TJ Baby Spinach 6oz',1),
+  ('2022-11-16','TJ Baby Spinach 6 oz',1),
   ('2022-11-16','Alvarado Sprouted Wheat Tortillas',4),
   /* 2022-11-16 Udupi Palace; total cost $14.28; paid by cash */
   ('2022-11-16','Udupi Palace spinach masala dosa',1),
@@ -1410,7 +1413,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-12-01','Beefsteak tomato',8),
   /* 2022-12-02 Trader Joe's total cost $35.17; checkout at 5:54 PM; paid by debit card */
   ('2022-12-02','TJ Carrots',2),
-  ('2022-12-02','TJ Baby Spinach 6oz',2),
+  ('2022-12-02','TJ Baby Spinach 6 oz',2),
   ('2022-12-02','Beefsteak tomato',7),
   ('2022-12-02','Green bell pepper',4),
   ('2022-12-02','Eggplant',2),
@@ -1465,7 +1468,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-12-28','TJ Baby Spinach',1),
   ('2022-12-28','Yellow squash',2),
   ('2022-12-28','TJ Carrots',2),
-  ('2022-12-28','Carb-savvy tortillas',6),
+  ('2022-12-28','TJ Carb Savvy Tortillas',6),
   /* 2022-12-28 Udupi Palace; total cost $14.28; checkout at 4:51 PM; paid by cash */
   ('2022-12-28','Udupi Palace spinach masala dosa',1),
   /* 2022-12-31 Udupi Palace (Valencia Street in the Mission in San Francisco); in-restaurant lunch; paid for by former employer */
@@ -1587,7 +1590,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-02-25 Trader Joe's; total cost $53.19; checkout at 4:00 PM; paid by debit card */
   ('2023-02-25','TJ Baby Spinach',1),
   ('2023-02-25','TJ Carrots',1),
-  ('2023-02-25','Miso Ginger Broth',1),
+  ('2023-02-25','TJ Miso Ginger Broth',1),
   ('2023-02-25','Beefsteak tomato',5),
   ('2023-02-25','Eggplant',2),
   ('2023-02-25','Alvarado Sprouted Wheat Tortillas',10),
@@ -1723,7 +1726,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-05-03','Alvarado Sprouted Wheat Tortillas',12),
   /* 2023-05-06 Trader Joe's; total cost $40.89; checkout at 6:31 PM; paid by debit card */
   ('2023-05-06','TJ Carrots',1),
-  ('2023-05-06','TJ Baby Spinach 6oz',2),
+  ('2023-05-06','TJ Baby Spinach 6 oz',2),
   ('2023-05-06','TJ Miso Ginger Broth',1),
   ('2023-05-06','Trader Giotto''s Olive Oil',1),
   ('2023-05-06','Red bell pepper',2),
@@ -1814,7 +1817,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-06-19 Trader Joe's; total cost $50.65; checkout at 8:04 PM; paid by debit card */
   ('2023-06-19','TJ Walnuts',1),
   ('2023-06-19','TJ Carrots',1),
-  ('2023-06-19','TJ Baby Spinach 6oz',2),
+  ('2023-06-19','TJ Baby Spinach 6 oz',2),
   ('2023-06-19','Red bell pepper',2),
   ('2023-06-19','Eggplant',2),
   ('2023-06-19','Green bell pepper',2),
@@ -1828,7 +1831,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-06-23','TJ Almond Milk',1),
   ('2023-06-23','Trader Giotto''s Olive Oil',1),
   ('2023-06-23','TJ Baby Spinach',1),
-  ('2023-06-23','Dutch yellow potatoes 1.5lb',1),
+  ('2023-06-23','Dutch yellow potatoes 1.5 lb',1),
   ('2023-06-23','TJ Carrots',1),
   ('2023-06-23','Alvarado Sprouted Wheat Tortillas',3),
   ('2023-06-23','TJ English Shelled Peas',4),
@@ -1837,7 +1840,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-06-25 Trader Joe's; total cost $26.44; checkout at 2:29 PM; paid by debit card */
   ('2023-06-25','Beefsteak tomato',8),
   ('2023-06-25','TJ Miso Ginger Broth',1),
-  ('2023-06-25','Dutch yellow potatoes 1.5lb',1),
+  ('2023-06-25','Dutch yellow potatoes 1.5 lb',1),
   ('2023-06-25','Red bell pepper',2),
   ('2023-06-25','Green bell pepper',2),
   ('2023-06-25','Alvarado Sprouted Wheat Tortillas',2),
@@ -1850,7 +1853,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-07-03','TJ Miso Ginger Broth',2),
   ('2023-07-03','Beefsteak tomato',8),
   ('2023-07-03','Eggplant',2),
-  ('2023-07-03','Dutch yellow potatoes 1.5lb',2),
+  ('2023-07-03','Dutch yellow potatoes 1.5 lb',2),
   ('2023-07-03','Red bell pepper',2),
   ('2023-07-03','Green bell pepper',2),
   ('2023-07-03','Alvarado Sprouted Wheat Tortillas',2),
@@ -1860,11 +1863,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-07-08','TJ Almond Milk',1),
   ('2023-07-08','TJ Miso Ginger Broth',1),
   ('2023-07-08','TJ Carrots',1),
-  ('2023-07-08','Dutch yellow potatoes 1.5lb',2),
+  ('2023-07-08','Dutch yellow potatoes 1.5 lb',2),
   ('2023-07-08','Red bell pepper',2),
   ('2023-07-08','Green bell pepper',2),
   ('2023-07-08','Beefsteak tomato',8),
-  ('2023-07-08','TJ Baby Spinach 6oz',2),
+  ('2023-07-08','TJ Baby Spinach 6 oz',2),
   ('2023-07-08','Alvarado Sprouted Wheat Tortillas',5),
   /* 2023-07-08 Udupi Place; total cost $14.28; order placed at 5:27 PM; paid by cash */
   ('2023-07-08','Udupi Palace spinach masala dosa',1),
@@ -1895,7 +1898,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-07-27','TJ Miso Ginger Broth',1),
   ('2023-07-27','TJ Sauerkraut',2),
   ('2023-07-27','TJ Carrots',1),
-  ('2023-07-27','Dutch yellow potatoes 1.5lb',1),
+  ('2023-07-27','Dutch yellow potatoes 1.5 lb',1),
   ('2023-07-27','Trader Giotto''s Olive Oil',1),
   ('2023-07-27','TJ English Shelled Peas',3),
   ('2023-07-27','Alvarado Sprouted Wheat Tortillas',3),
@@ -1923,7 +1926,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-08-04','Red bell pepper',2),
   ('2023-08-04','Alvarado Sprouted Wheat Tortillas',9),
   /* The Dutch yellow potatoes were missed by the sales clerk */
-  ('2023-08-04','Dutch yellow potatoes 1.5lb',1),
+  ('2023-08-04','Dutch yellow potatoes 1.5 lb',1),
   /* 2023-08-05 Berkeley Bowl; total cost $34.44; checkout at 12:34 PM; paid by debit card */
   ('2023-08-05','Lundberg Organic California White Jasmine Rice',1),
   ('2023-08-05','Cocojune Organic Pure Coconut Dairy Free Yogurt',2),
@@ -1938,12 +1941,12 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-08-11','Trader Giotto''s Olive Oil',1),
   ('2023-08-11','TJ Turmeric',1),
   ('2023-08-11','TJ Carrots',1),
-  ('2023-08-11','Dutch yellow potatoes 1.5lb',1),
+  ('2023-08-11','Dutch yellow potatoes 1.5 lb',1),
   ('2023-08-11','Red bell pepper',2),
   ('2023-08-11','Green bell pepper',2),
   /* 2023-08-18 Trader Joe's; total cost $50.26; checkout at 7:56 PM; paid by debit card */
   ('2023-08-18','TJ Almond Milk',1),
-  ('2023-08-18','TJ Baby Spinach 6oz',2),
+  ('2023-08-18','TJ Baby Spinach 6 oz',2),
   ('2023-08-18','TJ Cumin',1),
   ('2023-08-18','TJ Miso Ginger Broth',1),
   ('2023-08-18','TJ Basmati Rice',1),
@@ -1951,7 +1954,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-08-18','Red bell pepper',2),
   ('2023-08-18','Beefsteak tomato',8),
   ('2023-08-18','Green bell pepper',2),
-  ('2023-08-18','Dutch yellow potatoes 1.5lb',1),
+  ('2023-08-18','Dutch yellow potatoes 1.5 lb',1),
   ('2023-08-18','Eggplant',2),
   /* 2023-08-18 Udupi Palace; total cost $14.28; order placed at 7:41 PM; paid by cash */
   ('2023-08-18','Udupi Palace spinach masala dosa',1),
@@ -1965,7 +1968,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-08-21','TJ Organic Tomato and Roasted Red Pepper Soup',1),
   ('2023-08-21','Beefsteak tomato',8),
   ('2023-08-21','Green bell pepper',4),
-  ('2023-08-21','Dutch yellow potatoes 1.5lb',2),
+  ('2023-08-21','Dutch yellow potatoes 1.5 lb',2),
   ('2023-08-21','Red bell pepper',2),
   ('2023-08-21','Alvarado Sprouted Wheat Tortillas',1),
   /* 2023-08-22 Berkeley Bowl; total cost $63.19; checkout at 9:22 AM; paid by debit card */
@@ -1981,7 +1984,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-09-01','TJ Carrots',1),
   ('2023-09-01','TJ English Shelled Peas',1),
   ('2023-09-01','TJ Miso Ginger Broth',1),
-  ('2023-09-01','Dutch yellow potatoes 1.5lb',1),
+  ('2023-09-01','Dutch yellow potatoes 1.5 lb',1),
   ('2023-09-01','Beefsteak tomato',8),
   ('2023-09-01','Red bell pepper',2),
   ('2023-09-01','Green bell pepper',3),
@@ -1995,7 +1998,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-09-06','Zucchini squash',3), /* 1 pack of 3, so counted as 1 in their receipt */
   ('2023-09-06','TJ Miso Ginger Broth',1),
   ('2023-09-06','Red bell pepper',2),
-  ('2023-09-06','Dutch yellow potatoes 1.5lb',1),
+  ('2023-09-06','Dutch yellow potatoes 1.5 lb',1),
   ('2023-09-06','Green bell pepper',3),
   ('2023-09-06','TJ Carrots',1),
   ('2023-09-06','TJ Beans',1),
@@ -2011,11 +2014,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-09-12','TJ English Shelled Peas',4),
   ('2023-09-12','Beefsteak tomato',9),
   ('2023-09-12','TJ Baby Spinach',1),
-  ('2023-09-12','Dutch yellow potatoes 1.5lb',1),
+  ('2023-09-12','Dutch yellow potatoes 1.5 lb',1),
   ('2023-09-12','Alvarado Sprouted Wheat Tortillas',8),
   /* 2023-09-15 Trader Joe's; total cost $61.47; paid by credit card */
   ('2023-09-15','Trader Giotto''s Olive Oil',1),
-  ('2023-09-15','Dutch yellow potatoes 1.5lb',1),
+  ('2023-09-15','Dutch yellow potatoes 1.5 lb',1),
   ('2023-09-15','TJ Baby Spinach',1),
   ('2023-09-15','Alvarado Sprouted Wheat Tortillas',5),
   ('2023-09-15','TJ Carrots',1),
@@ -2037,8 +2040,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-09-24','Beefsteak tomato',5),
   ('2023-09-24','TJ Carrots',1),
   ('2023-09-24','Zucchini squash',3), /* 1 pack of 3, so counted as 1 in their receipt */
-  ('2023-09-24','Dutch yellow potatoes 1.5lb',1),
-  ('2023-09-24','Carb-savvy tortillas',3),
+  ('2023-09-24','Dutch yellow potatoes 1.5 lb',1),
+  ('2023-09-24','TJ Carb Savvy Tortillas',3),
   ('2023-09-24','Red bell pepper',2),
   ('2023-09-24','Green bell pepper',3),
   /* 2023-09-24 Udupi Palace; total cost $14.28; paid by cash */
@@ -2054,7 +2057,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-09-26','Alvarado Sprouted Wheat Tortillas',6),
   /* 2023-10-01 Trader Joe's; total cost $56.23; paid by debit card */
   ('2023-10-01','TJ Walnuts',1),
-  ('2023-10-01','Dutch yellow potatoes 1.5lb',1),
+  ('2023-10-01','Dutch yellow potatoes 1.5 lb',1),
   ('2023-10-01','TJ Carrots',1),
   ('2023-10-01','TJ Beans',2),
   ('2023-10-01','TJ Baby Spinach',1),
@@ -2074,8 +2077,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-10-08','TJ Carrots',1),
   ('2023-10-08','Beefsteak tomato',10),
   ('2023-10-08','TJ English Shelled Peas',3),
-  ('2023-10-08','Dutch yellow potatoes 1.5lb',1),
-  ('2023-10-08','Carb-savvy tortillas',5),
+  ('2023-10-08','Dutch yellow potatoes 1.5 lb',1),
+  ('2023-10-08','TJ Carb Savvy Tortillas',5),
   /* 2023-10-11 Trader Joe's; total cost $46.81; paid by debit card */
   ('2023-10-11','TJ Baby Spinach',1),
   ('2023-10-11','TJ Walnuts',1),
@@ -2093,8 +2096,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-10-16','TJ English Shelled Peas',4),
   ('2023-10-16','TJ Baby Spinach',1),
   ('2023-10-16','TJ Carrots',1),
-  ('2023-10-16','Dutch yellow potatoes 1.5lb',2),
-  ('2023-10-16','Carb-savvy tortillas',1),
+  ('2023-10-16','Dutch yellow potatoes 1.5 lb',2),
+  ('2023-10-16','TJ Carb Savvy Tortillas',1),
   ('2023-10-16','Alvarado Sprouted Wheat Tortillas',1),
   ('2023-10-16','Beefsteak tomato',9),
   /* 2023-10-16 Udupi Palace; total cost $14.28; paid by cash */
@@ -2119,7 +2122,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-10-25','TJ Sauerkraut',2),
   ('2023-10-25','TJ English Shelled Peas',1),
   ('2023-10-25','TJ Baby Spinach',1),
-  ('2023-10-25','Dutch yellow potatoes 1.5lb',1),
+  ('2023-10-25','Dutch yellow potatoes 1.5 lb',1),
   ('2023-10-25','Alvarado Sprouted Wheat Tortillas',12),
   /* 2023-10-25 Udupi Palace; total cost $14.28; order placed at 5:31 PM; paid by cash */
   ('2023-10-25','Udupi Palace spinach masala dosa',1),
@@ -2196,7 +2199,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-11-21','Eggplant',2),
   ('2023-11-21','Beefsteak tomato',7),
   /* 2023-11-22 Pakwan */
-  ('2023-11-22','Pakwan meal set (aloo palak, chana aloo, dal, mix vegetable curry)',1),
+  ('2023-11-22','Pakwan meal set',1),
   /* 2023-11-27 Trader Joe's; total cost $59.25; checkout at 6:22 PM; paid by debit card */
   ('2023-11-27','TJ Miso Ginger Broth',1),
   ('2023-11-27','TJ Beans',1),
@@ -2245,7 +2248,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-12-14','Trader Joe''s 500ml Olive Oil',2),
   ('2023-12-14','TJ Baby Spinach',1),
   ('2023-12-14','TJ Indian Style Flatbread',2),
-  ('2023-12-14','Carb-savvy tortillas',3),
+  ('2023-12-14','TJ Carb Savvy Tortillas',3),
   /* 2023-12-14 Udupi Palace; total cost $14.28; order placed at 6:18 PM; paid by cash */
   ('2023-12-14','Udupi Palace spinach masala dosa',1),
   /* 2023-12-17 Trader Joe's; total cost $73.87; checkout at 3:56 PM; paid by debit card */
@@ -2296,15 +2299,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-01-05','TJ Sauerkraut',2),
   ('2024-01-05','TJ Turmeric',1),
   ('2024-01-05','TJ Walnuts',1),
-  ('2024-01-05','Carb-savvy tortillas',6),
-  ('2024-01-05','TJ Baby Spinach 6oz',2),
+  ('2024-01-05','TJ Carb Savvy Tortillas',6),
+  ('2024-01-05','TJ Baby Spinach 6 oz',2),
   /* 2024-01-05 Udupi Palace; total cost $14.28; order placed at 6:24 PM */
   ('2024-01-05','Udupi Palace spinach masala dosa',1),
   /* 2024-01-07 Trader Joe's; total cost $66.59; checkout at 4:35 PM; paid by debit card; no Udupi Palace trip */
   ('2024-01-07','Gold potatoes 5 lb',1),
   ('2024-01-07','TJ Broccoli Florets 12 oz',1),
   ('2024-01-07','TJ Baby Spinach',1),
-  ('2024-01-07','TJ Shelled English Peas',4),
+  ('2024-01-07','TJ English Shelled Peas',4),
   ('2024-01-07','TJ Carrots',1),
   ('2024-01-07','Beefsteak tomato',14),
   ('2024-01-07','Green bell pepper',3),
@@ -2336,7 +2339,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-01-18','TJ Carrots',1),
   ('2024-01-18','Green bell pepper',3),
   ('2024-01-18','Red bell pepper',2),
-  ('2024-01-18','Carb-savvy tortillas',2),
+  ('2024-01-18','TJ Carb Savvy Tortillas',2),
   ('2024-01-18','TJ Broccoli Florets 12 oz',2),
   ('2024-01-18','Alvarado Sprouted Wheat Tortillas',3),
   /* 2024-01-21 Trader Joe's; total cost $40.60; checkout at 3:35 PM; paid by debit card; no Udupi Palace trip */
