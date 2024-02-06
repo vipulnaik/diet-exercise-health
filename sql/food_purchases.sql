@@ -1191,7 +1191,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2022-08-10','TJ Carb Savvy Tortillas',4),
   ('2022-08-10','Green bell pepper',4),
   ('2022-08-10','TJ Turmeric',1),
-  ('2022-08-10','TJ Ceyenne Pepper',1),
+  ('2022-08-10','TJ Cayenne Pepper',1),
   /* 2022-08-10 Udupi Palace; total cost $14.28; paid by cash */
   ('2022-08-10','Udupi Palace spinach masala dosa',1),
   /* 2022-08-13  Mehak Indian Cuisine; total cost $49.56 (paid by PayPal) */
@@ -1535,7 +1535,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2023-02-01','TJ English Shelled Peas',4), /* billed for 3 */
   ('2023-02-01','TJ Turmeric',1),
   ('2023-02-01','TJ Cumin',1),
-  ('2023-02-01','TJ Ceyenne Pepper',1),
+  ('2023-02-01','TJ Cayenne Pepper',1),
   ('2023-02-01','TJ Walnuts',1),
   /* 2023-02-01 Udupi Palace; order placed at 6:16 PM; paid by cash */
   ('2023-02-01','Udupi Palace spinach masala dosa',1),
