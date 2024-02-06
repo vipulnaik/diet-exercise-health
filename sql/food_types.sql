@@ -258,15 +258,37 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 20,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 360,14.4,0,600,0.64,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes column */ 'Data was provided for a serving size of 240 mL. There are 4 servings in a container. Therefore all numbers were multiplied by 4.');
+  /* notes column */ 'Data was provided for a serving size of 240 mL. There are 4 servings in a container. Therefore all numbers were multiplied by 4.'),
 
-/* Mehak Indian Cuisine standard set:
-  - two colored rices (complementary)
-  - aloo gobi
-  - aloo saag
-  - vegetable masala
-  - two dal soups
- */
+  ('TJ Beans','Trader Joe''s Trimmed & Cleaned Green Beans','https://www.carbmanager.com/food-detail/md:eadc9717e5e9c4ce7062c1260532c563/trimmed-cleaned-green-beans',25,
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 5,NULL,
+  /* carbohydrate-related columns */ 6,3,3,
+  /* protein-related columns */ 2,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 150,15,0,40,0.7,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'Data was provided for the whole packet, that has a weight of 85 grams.'),
+
+  ('Dutch yellow potatoes 1.5lb','Dutch yellow potatoes 1.5lb (~15 potatoes)','https://www.nutritionix.com/i/melissas/baby-dutch-yellow-potatoes/541055571c634b9a52447fca',480,
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 108,2760,
+  /* carbohydrate-related columns */ 108,18,6,
+  /* protein-related columns */ 12,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,60,6,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'I adjusted the setting for number of potatoes to 18 (from the default of 3), so as to match the expected weight of 1.5lb.'),
+
+  ('TJ Indian Style Flatbread','Trader Joe''s Traditional Indian Style Flatbread','https://www.aldireviewer.com/trader-joes-traditional-indian-style-flatbread/',1400,
+  /* fat-related columns */ 20,2,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 3120,360,
+  /* carbohydrate-related columns */ 256,12,8,
+  /* protein-related columns */ 44,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,4,760,16,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The data on the page is for 128 grams. I used a quantity of 4 to get the data for one pack. The actual number of pieces is 6, but their weight is less than 128 grams. The reason for the serving size used is not clear. https://www.carbmanager.com/food-detail/md:560fc054a24643bed7780727d8d5252c/indian-style-flatbread shows similar results.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
@@ -275,4 +297,6 @@ insert into food_types(short_name, long_name, url, calories,
 
 insert into food_types(short_name, long_name, notes) values
   ('Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa with sambhar, white chutney, and red chutney','I generally order takeout for this when going to Trader Joe''s for grocery shopping.'),
-  ('Mehak Indian Cuisine standard set','Mehak Indian Cuisine standard set: two colored rices (complementary), aloo gobi, aloo saag, vegetable masala, two dal soups','I used to get one takeout of this every 2-3 weeks from September 2020 to (approximately) May 2023. I stopped after switching to part-time work and adding potatoes to my home meal prep.');
+  ('Mehak Indian Cuisine standard set','Mehak Indian Cuisine standard set: two colored rices (complementary), aloo gobi, aloo saag, vegetable masala, two dal soups','I used to get one takeout of this every 2-3 weeks from September 2020 to (approximately) May 2023. I stopped after switching to part-time work and adding potatoes to my home meal prep.'),
+  ('Bangkok Thai Cuisine white rice','Bangkok Thai Cuisine white rice','I used to get this as takeout from Bangkok Thai Cuisine occasionally, generally when I was running out of tortillas and wanted to get something quickly. I stopped after moving to a different part of town that was farther from the restaurant.'),
+  ('Bangkok Thai Cuisine yellow curry tofu','Bangkok Thai Cuisine yellow curry tofu','I used to get this as takeout from Bangkok Thai Cuisine occasionally. I stopped after moving to a different part of town that was farther from the restaurant.');
