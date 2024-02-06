@@ -338,7 +338,27 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 40,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,100,9,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes */ 'The serving size is 1 tortilla, and there are 10 per container, so I multiplied by 10.');
+  /* notes */ 'The serving size is 1 tortilla, and there are 10 per container, so I multiplied by 10.'),
+
+  ('Kite Hill Unsweetened Plain Almond Milk Yogurt','Kite Hill Unsweetened Plain Almond Milk Yogurt','https://www.amazon.com/Kite-Hill-Yogurt-Unsweetened-16/dp/B073QLS4SB',350,
+  /* fat-related columns */ 25,2.5,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 25,NULL,
+  /* carbohydrate-related columns */ 22.5,7.5,2.5,
+  /* protein-related columns */ 10,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,145,2.5,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The serving size used is 140 grams, with 2.5 servings per container. All values were therefore multiplied by 2.5.'),
+
+  ('Cocojune Organic Pure Coconut Dairy Free Yogurt','Cocojune Organic Pure Coconut Dairy Free Yogurt 16 oz','https://www.cocojune.co/products/pure-coconut/',760,
+  /* fat-related columns */ 72,60,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 40,600,
+  /* carbohydrate-related columns */ 24,8,8,
+  /* protein-related columns */ 8,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,40,2.24,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The serving size used is 4 oz, with 4 servings per container. All values were therefore multiplied by 4. For potassium the amount was given as 5% of RDA per serving; I used a RDA of 3000 for the calculation (this is the average between men and women). For calcium the amount was given as 1% of RDA per serving; I used an RDA of 1000 mg. For iron, the amount was given a s 7% of RDA per serving; I used an RDA of 8 mg.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
