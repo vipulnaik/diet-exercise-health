@@ -179,6 +179,16 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for other less commonly reported vitamins and minerals */ 0.3,0,1.9,5.8,14.3,30.9,0.3,0,
   /* notes */ 'The data as shown on this website may differ from actual data for the bell peppers. Other information: Manganese: 0.1 mg, Selenium: 0.1 mcg, Thiamine: 0.1 mg, Riboflavin: 0.1 mg, Niacin: 1.2 mg, Folate: 54.7 mcg, Choline: 6.7 mg.'),
 
+  ('Orange bell pepper','Trader Joe''s orange bell pepper','https://www.nutritionix.com/food/orange-bell-pepper',32,
+  /* fat-related columns */ 0.2,0,0,0,0.1,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 2.3,189.2,
+  /* carbohydrate-related columns */ 7.6,1.4,5,
+  /* protein-related columns */ 1,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 630 /* from https://www.eatthismuch.com/food/nutrition/orange-bell-pepper,1534951/ */,146.7 /* from https://www.eatthismuch.com/food/nutrition/orange-bell-pepper,1534951/ */,0,10,0.5,
+  /* columns for other less commonly reported vitamins and minerals (from https://www.eatthismuch.com/food/nutrition/orange-bell-pepper,1534951/ as nutritionix doesn't have the info) */ 0,0,0,0,0,0,0,0,
+  /* notes */ 'I used https://www.eatthismuch.com/food/nutrition/orange-bell-pepper,1534951/ for some of the data for vitamins and minerals, as the primary source https://www.nutritionix.com/food/orange-bell-pepper doesn''t have this data.'),
+
   ('Green bell pepper','Trader Joe''s green bell pepper','https://www.eatthismuch.com/food/nutrition/green-bell-pepper,2080/',23.8,
   /* fat-related columns */ 0.2,0.1,0,0,0.1,
   /* cholesterol */ 0,
@@ -188,6 +198,7 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 21.4,95.7,0,11.9,0.4,
   /* columns for other less commonly reported vitamins and minerals */ 0.3,0,0.4,8.8,11.9,23.8,0.2,0.1,
   /* notes */ 'The data as shown on this website may differ from actual data for the bell peppers. Other information is on the site.'),
+
 
   ('TJ Walnuts','Trader Joe''s Organic Raw Walnuts: Halves & Pieces',NULL,2186,
   /* fat-related columns */ 218.6,18.2,0,157.9,30.4,
@@ -256,3 +267,12 @@ insert into food_types(short_name, long_name, url, calories,
   - vegetable masala
   - two dal soups
  */
+
+/* The list below is for food types for which we either cannot obtain
+   nutritional information or don't want to spend the effort right
+   now; having them in the table has other benefits such as data
+   validation. */
+
+insert into food_types(short_name, long_name, notes) values
+  ('Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa with sambhar, white chutney, and red chutney','I generally order takeout for this when going to Trader Joe''s for grocery shopping.'),
+  ('Mehak Indian Cuisine standard set','Mehak Indian Cuisine standard set: two colored rices (complementary), aloo gobi, aloo saag, vegetable masala, two dal soups','I used to get one takeout of this every 2-3 weeks from September 2020 to (approximately) May 2023. I stopped after switching to part-time work and adding potatoes to my home meal prep.');
