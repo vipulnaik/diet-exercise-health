@@ -147,3 +147,9 @@ came up and I wasn't able to get to the strength exercises in time.
 
 On 2024-02-07, I skipped exercise as it was raining till the afternoon
 and the sidewalks were stil wet in the evening.
+
+## 2024-02-08: continued to skip strength exercises
+
+On 2024-02-08, I was able to jog again, so now I could do strength
+exercises. However, a bunch of stuff came up and I wasn't able to get
+to the strength exercises in time.
