@@ -131,3 +131,19 @@ combination of curent rain and wet sidewalks due to recent rain. While
 the rain was intermittent, and with sufficient monitoring I could have
 snuck a run in, it was difficult to plan around that while also
 getting other work done.
+
+## 2024-02-04 and 2024-02-05: skipped exercise due to rain
+
+On 2024-02-04 and 2024-02-05, I skipped exercise due to rain.
+
+## 2024-02-06: continued to skip strength exercises
+
+I got a break from strength exercises on 2024-02-04 and 2024-02-05 as
+I didn't go jogging on those days. On 2024-02-06, I was able to jog
+again, so now I could do strength exercises. However, a bunch of stuff
+came up and I wasn't able to get to the strength exercises in time.
+
+## 2024-02-07: skipped exercise due to rain and wet sidewalks
+
+On 2024-02-07, I skipped exercise as it was raining till the afternoon
+and the sidewalks were stil wet in the evening.
