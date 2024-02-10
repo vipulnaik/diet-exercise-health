@@ -54,7 +54,7 @@ Trader Joe's, as recorded in
 
 ## Saturday February 10
 
-In the early afternoon, I made a trip to downtownn Berkeley. I first
+In the early afternoon, I made a trip to downtown Berkeley. I first
 went to Citibank for some financial transactions. After that, I did my
 usual food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
