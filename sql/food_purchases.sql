@@ -2373,7 +2373,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-01-30','Red bell pepper',3),
   /* 2024-02-06 Berkeley Bowl; total cost $14.98; checkout at 7:55 PM; paid by debit card */
   ('2024-02-06','Lundberg Sustainable California White Basmati Rice',2),
-  /* 2024-02-06 Trader Joe's; total cost $71.49; checkout at 8:34 PM; paid by debit card */
+  /* 2024-02-06 Trader Joe's; total cost $71.49; checkout at 8:34 PM; paid by debit card; no trip to Udupi Palace as it was Tuesday */
   ('2024-02-06','TJ English Shelled Peas',4),
   ('2024-02-06','TJ Baby Spinach',1),
   ('2024-02-06','TJ Carrots',1),
@@ -2382,4 +2382,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-02-06','TJ Carb Savvy Tortillas',4),
   ('2024-02-06','Red bell pepper',3), /* One of these was billed as orange bell pepper, but I picked all of them from the red bell pepper pile and they all look more red than orange to me, though one of them is orange-ish */
   ('2024-02-06','Beefsteak tomato',11),
-  ('2024-02-06','Alvarado Sprouted Wheat Tortillas',4); /* I was billed for 3 but I did get 4 */
+  ('2024-02-06','Alvarado Sprouted Wheat Tortillas',4), /* I was billed for 3 but I did get 4 */
+  /* 2024-02-10 Trader Joe's; total cost $39.66; checkout at 12:41 PM; paid by debit card; no trip to Udupi Palace */
+  ('2024-02-10','TJ Walnuts',1),
+  ('2024-02-10','TJ Almond Milk',1),
+  ('2024-02-10','TJ English Shelled Peas',3),
+  ('2024-02-10','Green bell pepper',2),
+  ('2024-02-10','Beefsteak tomato',4),
+  ('2024-02-10','Alvarado Sprouted Wheat Tortillas',4); /* I was billed for 3 but I did get 4 */

@@ -51,3 +51,10 @@ In the later afternoon, I made a trip related to my trip
 preparation. After being done with that, I purchased groceries from
 Trader Joe's, as recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Saturday February 10
+
+In the early afternoon, I made a trip to downtownn Berkeley. I first
+went to Citibank for some financial transactions. After that, I did my
+usual food purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
