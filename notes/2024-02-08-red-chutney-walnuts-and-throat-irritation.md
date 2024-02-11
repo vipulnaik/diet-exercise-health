@@ -8,3 +8,6 @@ not completely) by the time I went to sleep, but the next morning it
 felt like it had moved down into my throat. This was not like a
 typical sore throat but felt like a more local and specific
 irritation.
+
+The irritation had faded quite a bit by the evening of 2024-02-09, and
+was almost completely gone by the morning of 2024-02-10.
