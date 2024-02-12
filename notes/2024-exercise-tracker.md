@@ -153,3 +153,9 @@ and the sidewalks were stil wet in the evening.
 On 2024-02-08, I was able to jog again, so now I could do strength
 exercises. However, a bunch of stuff came up and I wasn't able to get
 to the strength exercises in time.
+
+## 2024-02-11: slightly shorter running portion
+
+On 2024-02-11, I jogged only 1.1 miles and walked back the remaining
+0.9 miles, rather than the usual split that involves at least 1.25
+miles of jogging.
