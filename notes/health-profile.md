@@ -4,8 +4,9 @@ Last major update: October 27, 2023
 
 This is the health profile for Vipul Naik. It is updated
 periodically. It does not include details of specific
-events/incidents, that are generally recorded in their own respective
-files.
+events/incidents; these are generally recorded in their own respective
+files. Links to the most recent and/or relevant incidents are included
+here.
 
 When updating this document:
 
