@@ -467,7 +467,7 @@ other chores.
 While at home, I spend most of the day on the computer, both when
 working and for most of my personal tasks. Even when eating and for
 the cutting portions of meal prep, particularly the cutting of
-vegetables, is in front of a computer (usually watching a movie, TV
+vegetables, I am in front of a computer (usually watching a movie, TV
 show, or other video, sometimes reading material). When doing at-home
 strength exercises, I sometimes have a podcast on.
 
