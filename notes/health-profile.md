@@ -806,7 +806,8 @@ with taking melatonin a few times to improve my sleep quality. I did
 not find clear improvement (but did not test extensively enough to get
 conclusive information). In any case, my sleep issues resolved
 themselves over time. As of 2023, I don't have any ongoing sleep
-issues (such as difficult falling asleep, highly restless sleep, etc.)
+issues (such as difficulty falling asleep, highly restless sleep,
+etc.)
  
 ## Other routine elements
 
