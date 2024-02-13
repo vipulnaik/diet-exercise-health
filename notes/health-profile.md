@@ -13,6 +13,8 @@ When updating this document:
   last eye exam.
 * Make sure to update the HbA1c and lipid profile section to reflect
   the latest test results.
+* Update all occurrences of "as of `<year>`" to the correct year,
+  after verifying that the assertion still holds.
 * Go through the whole document to see if anything else needs updating.
 
 Sections of this document:
