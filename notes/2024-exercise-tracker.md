@@ -159,3 +159,8 @@ to the strength exercises in time.
 On 2024-02-11, I jogged only 1.1 miles and walked back the remaining
 0.9 miles, rather than the usual split that involves at least 1.25
 miles of jogging.
+
+## 2024-02-14: skipped exercise due to rain
+
+On 2024-02-14, I skipped exercise due to rain. I did, however, do hand
+gripper exercises.
