@@ -58,3 +58,8 @@ In the early afternoon, I made a trip to downtown Berkeley. I first
 went to Citibank for some financial transactions. After that, I did my
 usual food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Thursday February 15
+
+In the afternoon, I made a trip for administrative stuff. I was out
+from around 1:30 PM to around 2:30 PM.
