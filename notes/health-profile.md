@@ -103,12 +103,13 @@ average height for an adult male.
 
 ### Weight
 
-My weight is around 120 lb or 54 kg. According to online BMI
-calculators, this puts me in the underweight category for my height
-for an adult male.
+My weight is around 128 lb or 58 kg. According to online BMI
+calculators, this puts me at a BMI at the low end of the normal
+category, just a little above the underweight threashold.
 
-My weight has stayed largely stable over the past several years as of
-2023.
+My weight used to be about 120 lb or 54 kg around 2017, and appears to
+have gradually increased over the years, likely partly related to an
+increase in muscle mass.
 
 ### Waist size
 
