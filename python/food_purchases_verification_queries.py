@@ -49,9 +49,9 @@ queries = [
     "select * from previously_purchased_items_with_frequencies_and_nutrition where short_name is null;",
 
     """
-    drop table if exists recent_daily_amounts;
+    drop temporary table if exists recent_daily_amounts;
 
-    create table recent_daily_amounts as select
+    create temporary table recent_daily_amounts as select
     sum(calories * total_quantity) / 91 as daily_calories,
     sum(total_fat_in_grams * total_quantity) / 91 as daily_total_fat_in_grams,
     sum(saturated_fat_in_grams * total_quantity) / 91 as daily_saturated_fat_in_grams,
@@ -81,9 +81,9 @@ queries = [
     from recently_purchased_items_with_frequencies_and_nutrition;""",
 
     """
-    drop table if exists previous_daily_amounts;
+    drop temporary table if exists previous_daily_amounts;
 
-    create table previous_daily_amounts as select
+    create temporary table previous_daily_amounts as select
     sum(calories * total_quantity) / 91 as daily_calories,
     sum(total_fat_in_grams * total_quantity) / 91 as daily_total_fat_in_grams,
     sum(saturated_fat_in_grams * total_quantity) / 91 as daily_saturated_fat_in_grams,
@@ -112,15 +112,21 @@ queries = [
     sum(copper_in_mg * total_quantity) as daily_copper_in_mg
     from previously_purchased_items_with_frequencies_and_nutrition;""",
 
-    "select sum(calories * total_quantity) as summed_calories from previously_purchased_items_with_frequencies_and_nutrition having summed_calories < 91 * 1800 or summed_calories > 91 * 2500;",
+    """
+    drop table if exists daily_amounts_by_epoch;
 
-    "select sum(total_carb_in_grams * total_quantity) as summed_carbs_in_grams from recently_purchased_items_with_frequencies_and_nutrition having summed_carbs_in_grams < 91 * 225 or summed_carbs_in_grams > 91 * 325;",
+    create table daily_amounts_by_epoch as
+      select *, 'recent' as epoch from recent_daily_amounts
+    union
+      select *, 'previous' as epoch from previous_daily_amounts;""",
 
-    "select sum(total_fat_in_grams * total_quantity) as summed_fat_in_grams from recently_purchased_items_with_frequencies_and_nutrition having summed_fat_in_grams < 91 * 50 or summed_fat_in_grams > 91 * 100;",
+    "select * from daily_amounts_by_epoch where daily_total_carb_in_grams < 225 or daily_total_carb_in_grams > 325;",
 
-    "select sum(sugars_in_grams * total_quantity) as summed_sugar_in_grams from recently_purchased_items_with_frequencies_and_nutrition having summed_sugar_in_grams > 91 * 45;",
+    "select * from daily_amounts_by_epoch where daily_total_fat_in_grams < 50 or daily_total_fat_in_grams > 100;",
 
-    "select sum(protein_in_grams * total_quantity) as summed_protein_in_grams from recently_purchased_items_with_frequencies_and_nutrition having summed_protein_in_grams < 91 * 45;",
+    "select * from daily_amounts_by_epoch where daily_sugars_in_grams > 45;",
+
+    "select * from daily_amounts_by_epoch where daily_protein_in_grams < 45;",
 ]
 
 _connection = connection.connect()
