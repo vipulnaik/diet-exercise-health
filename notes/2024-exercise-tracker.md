@@ -164,3 +164,31 @@ miles of jogging.
 
 On 2024-02-14, I skipped exercise due to rain. I did, however, do hand
 gripper exercises.
+
+## 2024-02-15 to 2024-02-20: skipped most exercise due to travel and related pre- and post- adjustment and other bureaucratic stuff
+
+I was traveling from 2024-02-16 evening (in Pacific Standard Time) to
+2024-02-18 morning (in Indian Standard TIme). I didn't go out to
+exercise on 2024-02-15 and 2024-02-16 so that I could focus on travel
+preparation, and also to adhere to reduced risk mode (e.g., to reduce
+the risk of injuries when running). After arrival, I was busy for the
+first few days unpacking, making various updates to adjust to the new
+environment, and taking care of some bureaucratic stuff. I also wanted
+to stay in reduced risk mode until these were done, so I skipped
+exercise on these days.
+
+I did do some standing-on-one-leg-with-eyes-closed exercise, a little
+bit of hand gripper exercise, and a couple of breath holds over this
+period.
+
+## 2024-02-21: jogging resumed (in India)
+
+On 2024-02-21, I resumed jogging in India. I think the running
+distance and walking distance are fairly similar to those that I use
+in Berkeley. The path is somewhat different: rather than public
+sidewalks, it's an internal walkway within the apartment complex. One
+way this matters meaningfully is that there are no intersections where
+I need to cross vehicular traffic, so that my movement is effectively
+uninterrupted. In contrast, in Berkeley, I might have to pause for
+anywhere from a few seconds to a minute in light of vehiclular traffic
+conditions.
