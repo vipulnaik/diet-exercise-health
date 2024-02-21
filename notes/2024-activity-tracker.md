@@ -63,3 +63,23 @@ usual food purchases recorded in
 
 In the afternoon, I made a trip for administrative stuff. I was out
 from around 1:30 PM to around 2:30 PM.
+
+## Friday February 16 to Sunday February 18
+
+Over this period, I was on a flight from San Francisco to Bengaluru. I
+arrived in Bengaluru on Sunday and then went over to stay at my
+parents' place.
+
+## Monday February 19
+
+On this day, in the morning, I went for a brief administrative trip.
+
+## Tuesday February 20
+
+On this day, from the morning to the early afternoon, I went for a
+lengthy administrative trip.
+
+## Wednesday February 21
+
+In the afternoon (around 4 PM) I made a trip to a small toiletries
+store nearby to buy a few toiletries.
