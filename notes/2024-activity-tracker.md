@@ -83,3 +83,8 @@ lengthy administrative trip.
 
 In the afternoon (around 4 PM) I made a trip to a small toiletries
 store nearby to buy a few toiletries.
+
+## Sunday February 25
+
+In the morning and early afternoon, I made a trip, along with my
+parents, to meet relatives and then to the mall.
