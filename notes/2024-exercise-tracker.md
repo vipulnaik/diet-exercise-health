@@ -192,3 +192,8 @@ I need to cross vehicular traffic, so that my movement is effectively
 uninterrupted. In contrast, in Berkeley, I might have to pause for
 anywhere from a few seconds to a minute in light of vehiclular traffic
 conditions.
+
+## 2024-02-26: strength exercises resumed (in India)
+
+On 2024-02-26, I resumed strength exercises in India, including
+weights and pushups.
