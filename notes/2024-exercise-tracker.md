@@ -203,7 +203,7 @@ weights and pushups.
 I skipped jogging on this day to conserve time and energy for a
 bureaucratic trip in the morning.
 
-## 2024-03-02 to 2024-03-04: skipping most exercise
+## 2024-03-02 to 2024-03-05: skipping most exercise
 
 I'm skipping most exercise over this time period in order to focus on
-some bureaucratic stuff.
+some bureaucratic stuff (and then on recovery from it).
