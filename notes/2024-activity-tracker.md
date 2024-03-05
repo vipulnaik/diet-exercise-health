@@ -88,3 +88,16 @@ store nearby to buy a few toiletries.
 
 In the morning and early afternoon, I made a trip, along with my
 parents, to meet relatives and then to the mall.
+
+## Wednesday February 28
+
+In the afternoon I made an administrative trip.
+
+## Thursday February 29
+
+In the morning and early afternoon I made an administrative trip.
+
+## Sunday March 3 and Monday March 4
+
+On these two days, I was busy with a bureaucratic trip to Chennai. Not
+sharing more public details at this point.
