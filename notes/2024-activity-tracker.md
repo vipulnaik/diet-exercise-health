@@ -101,3 +101,7 @@ In the morning and early afternoon I made an administrative trip.
 
 On these two days, I was busy with a bureaucratic trip to Chennai. Not
 sharing more public details at this point.
+
+## Monday March 11
+
+During the afternoon, I went out for a bureaucratic task.
