@@ -767,14 +767,14 @@ time commitments.
 The switch to working-from-home in March 2020 (with the COVID-19
 pandemic) helped me be more regular with daily jogging, as there was
 less need to get ready at a specific time to commute. After an
-[injury](2022-04-05-fall-and-phone-screen-crack.md) and subsequent
+[injury](2022-04-05-fall-and-phone-screen-crack.md) and subsequently
 after moving my residence in April 2022, I increased the length and
 consistency of my daily jogging distance, and also reduced my peak
 jogging speed.
 
 I hadn't done weights or strength training as a regular part of my
-routine as an adult. I introduced it in November 2021 after purchasing
-dumb bells and an exercise mat. See
+routine as an adult until November 2021. I introduced it in November
+2021 after purchasing dumb bells and an exercise mat. See
 [here](2021-11-02-weight-lifting-and-stretching.md) for details of my
 initial progession. This was also around the time that I introduced
 pushups; I had introduced some balance exercises a little earlier.
