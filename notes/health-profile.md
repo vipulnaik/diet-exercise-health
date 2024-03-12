@@ -98,7 +98,7 @@ consistent with my expectations.
 
 ### Height
 
-My height is a tad under 5 feet 9 inches. This puts me a little below
+My height is a tad over 5 feet 9 inches. This puts me a little below
 average height for an adult male.
 
 ### Weight
