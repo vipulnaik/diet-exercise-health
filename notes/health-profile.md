@@ -115,7 +115,7 @@ increase in muscle mass.
 
 I have a lean, athletic appearance. My waist size is at the "small"
 end, with shorts/trousers sizes of 28 and 30 generally working for me,
-and 32 being manageable with a tight belt.. I do not have a paunch.
+and 32 being manageable with a tight belt. I do not have a paunch.
 
 ## Dental status
 
