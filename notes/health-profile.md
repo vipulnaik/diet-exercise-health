@@ -330,7 +330,7 @@ recent vaccine was on [January 12,
 2024](2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md).
 
 Starting with my second COVID-19 dose and then for each booster dose
-(NOTE: I do not yet have enough data for the January 2024 dose), I
+(though much less pronounced for the January 2024 dose), I
 have reacted with a slight fever; the fever has generally subsided
 within 36 hours of getting the dose. With successive boosters, both
 the onset of the fever and its resolution have tended to get faster.
