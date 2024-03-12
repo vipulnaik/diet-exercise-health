@@ -447,7 +447,27 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 60,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,260,0,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes */ 'The serving size used is 45 grams, 1/20 of the size of the container (907 grams). All amounts were scaled up by 20.');
+  /* notes */ 'The serving size used is 45 grams, 1/20 of the size of the container (907 grams). All amounts were scaled up by 20.'),
+
+  ('Health Factory Zero Maida Bread','Health Factory Zero Maida Bread - (Simply Whole Wheat) 250g','https://www.thehealthfactory.in/products/zero-maida-simply-whole-wheat',613.05,
+  /* fat-related columns */ 3.25,0.85,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ NULL,NULL,
+  /* carbohydrate-related columns */ 111.65,15.85,10.55,
+  /* protein-related columns */ 34.3,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,NULL,NULL,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The serving size used is 100 grams, whereas the container size is 250 grams. All amounts were scaled by 2.5.'),
+
+  ('Urban Platter Sauerkraut','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage with Beetroot, 450g / 15.8oz [Raw, Organic & Powered by Bombucha]','https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NQB9KKL',286.1,
+  /* fat-related columns */ 11.64,NULL,NULL,NULL,NULL,
+  /* cholesterol */ NULL,
+  /* sodium and potassium (mostly from salts) */ 4287.6,NULL,
+  /* carbohydrate-related columns */ 37.27,NULL,NULL,
+  /* protein-related columns */ 8.02,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,NULL,NULL,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The serving size used is 100 grams, whereas the container size is 710 grams. All amounts were scaled by 7.1.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
