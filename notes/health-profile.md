@@ -294,7 +294,7 @@ reading is at a fairly healthy level.
 
 ### Liver function tests
 
-I've goten liver function tests done in June 2005 and December
+I've gotten liver function tests done in June 2005 and December
 2016. In June 2005, I got bilirubin, ALT, and AST. Bilirubin came
 above normal; ALT and AST came within the normal range, but for ALT in
 particular, the reading of 28 was above what I now understand to be
