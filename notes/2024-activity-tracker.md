@@ -77,7 +77,8 @@ On this day, in the morning, I went for a brief administrative trip.
 ## Tuesday February 20
 
 On this day, from the morning to the early afternoon, I went for a
-lengthy administrative trip.
+lengthy administrative trip. The trip was to VFS Bengaluru (at Gopalan
+Innovation Mall) for document drop-off for my US visa application.
 
 ## Wednesday February 21
 
@@ -91,7 +92,9 @@ parents, to meet relatives and then to the mall.
 
 ## Wednesday February 28
 
-In the afternoon I made an administrative trip.
+In the afternoon I made an administrative trip. The trip was to VFS
+Bengaluru (at Gopalan Innovation Mall) for passport pickup (with
+221(g)) for my US visa application.
 
 ## Thursday February 29
 
@@ -99,8 +102,10 @@ In the morning and early afternoon I made an administrative trip.
 
 ## Sunday March 3 and Monday March 4
 
-On these two days, I was busy with a bureaucratic trip to Chennai. Not
-sharing more public details at this point.
+On these two days, I was busy with a bureaucratic trip to Chennai. The
+trip was for my US visa interview at the US consulate in Chennai. The
+interview itself was a walkin 221(g) interview. I went for the
+interview around 8:30 AM and was back a little after 10 AM.
 
 ## Monday March 11
 
