@@ -105,3 +105,8 @@ sharing more public details at this point.
 ## Monday March 11
 
 During the afternoon, I went out for a bureaucratic task.
+
+## Tuesday March 12
+
+In the late morning / early afternoon, I went out with my parents for
+lunch.

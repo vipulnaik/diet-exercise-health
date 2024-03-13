@@ -16,4 +16,9 @@ I continued to drink more water than usual on the evening of
 2024-03-11.
 
 The dry throat continued to be noticeable (though not too distracting)
-on the morning of 2024-03-12.
+on the morning of 2024-03-12. However, it didn't get in the way of my
+eating out and talking a decent amount through the day with my
+parents. It was somewhat less noticeable on the evening of
+2024-03-12. By the morning of 2024-03-13, it was not noticeable enough
+to be distracting to me, though I could still notice it if I focused
+attention toward it.
