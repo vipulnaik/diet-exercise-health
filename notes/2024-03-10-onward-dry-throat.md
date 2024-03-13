@@ -22,3 +22,6 @@ parents. It was somewhat less noticeable on the evening of
 2024-03-12. By the morning of 2024-03-13, it was not noticeable enough
 to be distracting to me, though I could still notice it if I focused
 attention toward it.
+
+After my morning meal on 2024-03-13, I felt pretty close to normal,
+even when consciously focusing on the throat.
