@@ -105,9 +105,10 @@ average height for an adult male.
 
 ### Weight
 
-My weight is around 128 lb or 58 kg. According to online BMI
-calculators, this puts me at a BMI at the low end of the normal
-category, just a little above the underweight threashold.
+My weight is between 56 kg and 58 kg, or between 123 lb and 128
+lb. According to online BMI calculators, this puts me at a BMI at the
+low end of the normal category, just a little above the underweight
+threashold.
 
 My weight used to be about 120 lb or 54 kg around 2017, and appears to
 have gradually increased over the years, likely partly related to an
