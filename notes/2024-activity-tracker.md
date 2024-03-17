@@ -115,3 +115,7 @@ During the afternoon, I went out for a bureaucratic task.
 
 In the late morning / early afternoon, I went out with my parents for
 lunch.
+
+## Friday March 15 and Saturday March 16
+
+Over this period, I flew back from Bengaluru to San Francisco.

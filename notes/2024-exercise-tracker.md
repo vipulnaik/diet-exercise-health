@@ -207,3 +207,11 @@ bureaucratic trip in the morning.
 
 I'm skipping most exercise over this time period in order to focus on
 some bureaucratic stuff (and then on recovery from it).
+
+## 2024-03-14 to 2024-03-18: skipping most exercise
+
+I'm skipping most exercise over this time period. My travel dates were
+2024-03-15 to 2024-03-16. I skipped exercise on 2024-03-14 to conserve
+energy for travel prep. I am skipping exercise on 2024-03-17 and
+2024-03-18 to preserve energy for recovery from travel and for the
+trips I need to make for setting things back up after my return.
