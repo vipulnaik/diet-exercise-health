@@ -84,3 +84,11 @@ hand.
 
 I tried again after a minute, and now I was just barely able to cloe
 the 150 lb with my right hand.
+
+## Update on 2024-03-17
+
+Starting this day, I am planning to do a daily practice of keeping the
+100 lb hand gripper closed for at least 5 consecutive seconds with
+each hand separately. 5 is about what I can reasonably do right
+now. I'm hoping to increase it gradually to a larger amount, like 10
+seconds.
