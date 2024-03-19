@@ -119,3 +119,28 @@ lunch.
 ## Friday March 15 and Saturday March 16
 
 Over this period, I flew back from Bengaluru to San Francisco.
+
+## Monday March 18
+
+In the afternoon, I went to the Amazon Hub Locker at ASUC Berkeley to
+pick up a bunch of stuff. This was an order I had placed to replace
+the stuff that I left behind in India -- with this one-time investment
+I expect the load of stuff I have to carry back-and-forth to be
+significantly less in the future.
+
+Since there was a lot of stuff to pick up, I carried my suitcase
+along, and indeed I needed to pack it 50-75% full for the return
+journey, along with putting a few smaller items in my bagpack.
+
+As I did not want to dirty the suitcase wheels on the uneven city
+sidewalks (I'm trying to restrict wheel use to smooth indoor surfaces
+such as those at home or in airports), I carried the suitcase both
+ways. This was not too difficult going to the place, because the
+weight was only the weight of the suitcase. However, for the return
+journey, the weight was quite a bit, and the process of coming home
+was slow. For the return journey, I did need to put the suitcase down
+for a few seconds a few times, so it did make contact with thecity
+sidewalks, but I didn't make the wheels roll over the sidewalks.
+
+When I got back home, and before I started unpacking,I weighed the
+suitcase and got a weight of around 9.1-9.3 kg.
