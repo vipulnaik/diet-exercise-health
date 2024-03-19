@@ -19,7 +19,10 @@ queries = [
 
     create table recently_purchased_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_purchases where datediff('2024-02-16', purchase_date) <= 91
+    from food_purchases where least(
+      datediff(curdate(), purchase_date),
+      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', purchase_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 */
+    ) <= 91
     group by food_type;
 
     drop table if exists recently_purchased_items_with_frequencies_and_nutrition;
@@ -33,8 +36,10 @@ queries = [
 
     create table previously_purchased_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_purchases where datediff('2024-02-16', purchase_date) >= 92
-    and datediff('2024-02-16', purchase_date) <= 183
+    from food_purchases where least(
+      datediff(curdate(), purchase_date),
+      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', purchase_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 (both ends inclusive) */
+    ) between 92 and 183
     group by food_type;
 
     drop table if exists previously_purchased_items_with_frequencies_and_nutrition;
