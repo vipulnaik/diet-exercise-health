@@ -144,3 +144,11 @@ sidewalks, but I didn't make the wheels roll over the sidewalks.
 
 When I got back home, and before I started unpacking,I weighed the
 suitcase and got a weight of around 9.1-9.3 kg.
+
+## Wednesday March 20
+
+In the evening (starting a little after 4 PM) I went out for a
+combination of a bureaucratic trip and food purchases. The
+bureaucratic portion of the trip ended shortly after 6 PM. After that,
+I did food purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
