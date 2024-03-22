@@ -146,3 +146,15 @@ My measured heart rate as shown by the pulse oximeter fluctuated
 betweeen 50 and 60 bpm. The modal value was between 53 and 57 bpm.
 
 My SpO2 value fluctuated between 99% and 100%.
+
+## Check later in the day after an outside trip
+
+Within about 30 minutes after an outside trip where I walked for
+around 1.5 hours and stood for around 15 minutes, with the entire
+walking/standing being a contiguous time block, I measured my seated
+heart rate and SpO2. The heart rate ranged between 66 bpm and 71 bpm,
+whereas the SpO2 fluctuated between 97% ad 98%.
+
+About an hour later, I took the reading again. This time I got a heart
+rate range of 62 to 68 bpm with brief spikes to 73 bpm and 71 bpm. The
+SpO2 fluctuated between 97% and 98%.

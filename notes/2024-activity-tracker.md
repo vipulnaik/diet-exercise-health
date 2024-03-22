@@ -152,3 +152,15 @@ combination of a bureaucratic trip and food purchases. The
 bureaucratic portion of the trip ended shortly after 6 PM. After that,
 I did food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday March 22
+
+In the morning I made a bureaucratic trip. The trip involved walking
+about 45 minutes each way and about 15 minutes at the location.
+
+Around 10 minutes into the return trip, I experienced mild shoulder
+pain in my right shoulder. I was carrying my bagpack on my shoulders
+but the load on it was minimal. The shoulder pain continued in mild
+form though it was alleviated by taking the bagpack partly off my
+right shoulder. The pain largely subsided after I got home and removed
+my bagpack.
