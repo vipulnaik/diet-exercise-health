@@ -134,3 +134,15 @@ seems to be a thing.
 My heart rate was uncomputable for a while though in a few runs it
 settled in the range of 65-75 bpm, which is higher than my historical
 55-65 bpm, likely due to the temperature and weather changes.
+
+## Checking the pulse oximeter in the morning (resting / lying down) on 2024-03-22
+
+I measured my lying-down morning heart rate on 2024-03-22 around 5:05
+AM, shortly after waking up but while still in bed (I had gotten up
+briefly to urinate at around 4:45 AM). I kept the measurement on for
+about 3 minutes.
+
+My measured heart rate as shown by the pulse oximeter fluctuated
+betweeen 50 and 60 bpm. The modal value was between 53 and 57 bpm.
+
+My SpO2 value fluctuated between 99% and 100%.
