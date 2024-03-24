@@ -208,10 +208,23 @@ bureaucratic trip in the morning.
 I'm skipping most exercise over this time period in order to focus on
 some bureaucratic stuff (and then on recovery from it).
 
-## 2024-03-14 to 2024-03-18: skipping most exercise
+## 2024-03-14 to 2024-03-23: skipping most exercise
 
 I'm skipping most exercise over this time period. My travel dates were
 2024-03-15 to 2024-03-16. I skipped exercise on 2024-03-14 to conserve
 energy for travel prep. I am skipping exercise on 2024-03-17 and
 2024-03-18 to preserve energy for recovery from travel and for the
 trips I need to make for setting things back up after my return.
+
+The period of 2024-03-19 to 2024-03-21, and 2024-03-22 morning, was
+busy with other chores, including outside trips, so that I couldn't
+get around to doing exercise.
+
+On 2024-03-22 afternoon/evening and 2024-03-23 it was raining or had a
+high probability of rain.
+
+## 2024-03-24: resumption of jogging
+
+On 2024-03-24, I resumed jogging. I was feeling a little lower on
+energy, but still did the usual running/walking mix, with the running
+part being a little slower than usual but not shorter.
