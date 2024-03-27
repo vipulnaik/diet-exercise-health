@@ -2420,4 +2420,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-03-25','Gold potatoes 3 lb',1),
   ('2024-03-25','TJ White Miso Paste',1),
   ('2024-03-25','Beefsteak tomato',13),
-  ('2024-03-25','Alvarado Sprouted Wheat Tortillas',10);
+  ('2024-03-25','Alvarado Sprouted Wheat Tortillas',10),
+  /* 2024-03-27 Trader Joe's; total cost $63.03; checkout at 9:15 AM; paid by debit card;
+     no Udupi Palace portion for this trip */
+  ('2024-03-27','TJ Almond Milk',1),
+  ('2024-03-27','TJ Walnuts',1),
+  ('2024-03-27','TJ Baby Spinach',1),
+  ('2024-03-27','TJ English Shelled Peas',4),
+  ('2024-03-27','TJ Carrots',1),
+  ('2024-03-27','Beefsteak tomato',9), /* I was billed for 7 but did get 9 */
+  ('2024-03-27','Alvarado Sprouted Wheat Tortillas',4),
+  ('2024-03-27','Red bell pepper',2),
+  ('2024-03-27','Eggplant',2),
+  ('2024-03-27','Green bell pepper',4);
