@@ -2432,4 +2432,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-03-27','Alvarado Sprouted Wheat Tortillas',4),
   ('2024-03-27','Red bell pepper',2),
   ('2024-03-27','Eggplant',2),
-  ('2024-03-27','Green bell pepper',4);
+  ('2024-03-27','Green bell pepper',4),
+  /* 2024-03-27 Tay Ho Oakland work colleagues lunch; paid for by company */
+  ('2024-03-27','Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom',1);

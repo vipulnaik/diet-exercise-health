@@ -164,3 +164,10 @@ but the load on it was minimal. The shoulder pain continued in mild
 form though it was alleviated by taking the bagpack partly off my
 right shoulder. The pain largely subsided after I got home and removed
 my bagpack.
+
+## Wednesday March 27
+
+From around noon to 5:45 PM, I made a trip to the WeWork at 1111
+Broadway Street in Oakland to hang out with work colleagues. As part
+of the trip, we ate out at Tay Ho Restaurant in Oakland, where I had a
+vegan braised eggplant with tofu and mushroom.
