@@ -171,3 +171,23 @@ From around noon to 5:45 PM, I made a trip to the WeWork at 1111
 Broadway Street in Oakland to hang out with work colleagues. As part
 of the trip, we ate out at Tay Ho Restaurant in Oakland, where I had a
 vegan braised eggplant with tofu and mushroom.
+
+## Thursday March 28
+
+In the late afternoon / early evening, I went to the Amazon Hub Locker
+for package pickup. I took my suitcase along; even though the total
+amount of stuff wasn't a lot, there were a few larger items that would
+be easier to carry in the suitcase rather than in my bagpack or in
+grocery bags.
+
+Indeed, I filled the suitcase about 25-30%.
+
+As I did not want to dirty the suitcase wheels on the uneven city
+sidewalks (I'm trying to restrict wheel use to smooth indoor surfaces
+such as those at home or in airports), I carried the suitcase both
+ways. This was not too difficult going to the place; it was a little
+harder during the return journey as the suitcase was heavier; however,
+it was nowhere near as hard as for my Monday March 18 trip.
+
+After I returned home, I immediately went out again with my bagpack to
+shop at Walgreens (I left the suitcase at home).
