@@ -228,3 +228,15 @@ high probability of rain.
 On 2024-03-24, I resumed jogging. I was feeling a little lower on
 energy, but still did the usual running/walking mix, with the running
 part being a little slower than usual but not shorter.
+
+## 2024-03-27: skipped jogging due to shopping and WeWork trip
+
+On 2024-03-27, I went to Trader Joe's for shopping in the morning, and
+made a trip to WeWork in the afternoon. As a result, I couldn't go
+jogging.
+
+## 2024-03-28: skipped jogging to preserve time and energy for package pickup and shopping
+
+On 2024-03-28, I spent a bunch of time and enery on package pickup
+from the Amazon locker and then a little more time shopping at
+Walgreens. As a result, I didn't have time to go jogging.
