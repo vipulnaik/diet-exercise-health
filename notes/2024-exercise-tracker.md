@@ -240,3 +240,14 @@ jogging.
 On 2024-03-28, I spent a bunch of time and enery on package pickup
 from the Amazon locker and then a little more time shopping at
 Walgreens. As a result, I didn't have time to go jogging.
+
+## 2024-03-29: skipped jogging due to rain
+
+On 2024-03-29, I skipped jogging due to rain and wet sidewalks through
+the day.
+
+## 2024-03-30: resumption of weight exercises and jogging
+
+On 2024-03-30, I resumed weight exercises. The last date of weight
+exercises was 2024-03-13. I also resumed jogging; the last date of
+jogging was 2024-03-26.
