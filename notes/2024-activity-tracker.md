@@ -191,3 +191,10 @@ it was nowhere near as hard as for my Monday March 18 trip.
 
 After I returned home, I immediately went out again with my bagpack to
 shop at Walgreens (I left the suitcase at home).
+
+## Monday April 1
+
+In the evening, I went to downtown Berkeley for shopping. I first went
+to Target to buy batteries. I was there from around 6 PM to around
+6:15 PM. After that, I did food purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).

@@ -2434,4 +2434,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-03-27','Eggplant',2),
   ('2024-03-27','Green bell pepper',4),
   /* 2024-03-27 Tay Ho Oakland work colleagues lunch; paid for by company */
-  ('2024-03-27','Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom',1);
+  ('2024-03-27','Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom',1),
+  /* 2024-04-01 Trader Joe's; total cost $74.33; checkout at 6:39 PM; paid by debit card */
+  ('2024-04-01','TJ Almond Milk',1),
+  ('2024-04-01','Trader Giotto''s Olive Oil',1),
+  ('2024-04-01','TJ Sauerkraut',2),
+  ('2024-04-01','TJ English Shelled Peas',4),
+  ('2024-04-01','TJ Walnuts',1),
+  ('2024-04-01','TJ White Miso Paste',1),
+  ('2024-04-01','TJ Baby Spinach',1),
+  ('2024-04-01','Alvarado Sprouted Wheat Tortillas',6),
+  /* 2024-04-01 Udupi Palace; total cost $14.28; paid by cash */
+  ('2024-04-01','Udupi Palace spinach masala dosa',1);
