@@ -198,3 +198,9 @@ In the evening, I went to downtown Berkeley for shopping. I first went
 to Target to buy batteries. I was there from around 6 PM to around
 6:15 PM. After that, I did food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Tuesday April 2
+
+At night, around 8 PM, I left for a trip to the Amazon Hub Locker at
+ASUC to pick up a package. After I was done, I went to the Walgreens
+on Adeline Street to purchase toiletries.
