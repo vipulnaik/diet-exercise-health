@@ -5,6 +5,13 @@ Telegraph Avenue for a regular dental cleaning at 1 PM. The previous
 dental cleaning had been on
 [2023-09-27](2023-09-27-dental-cleaning.md).
 
+Sections of this document:
+
+* [Prior preparation](#prior-preparation)
+* [Appointment](#appointment)
+* [Feedback](#feedback)
+* [Subjective assessment](#subjective-assessment)
+
 ## Prior preparation
 
 I did not do any special prior preparation. The main cautionary step I
@@ -128,3 +135,25 @@ The hygienist said that the staining wasn't a problem in and of itself
 six-monthly cleaning) but if I cared about it, she recommended using a
 toothpaste with baking soda, such as the Arm and Hammer toothpaste, as
 that has more grittiness that can wear off the stains.
+
+## Subjective assessment
+
+### Good cooperativeness and very little pain
+
+During the probing and cleaning process, I didn't experience any pain,
+nor did I experience fatigue from keeping my mouth open. In general, I
+was able to open my mouth wide enough for the hygienist and didn't get
+any complaints or offers for a mouth prop.
+
+The lack of pain might reflect good gum health. The lack of fatigue
+from keeping my mouth open might be a result of some practice with
+widely opening my mouth that I did over the past week.
+
+The main source of discomfort was from the irrigation building up
+water in my mouth, some of which I ended up swallowing to address the
+discomfort.
+
+### Teeth feeling somewhat cleaner and lighter but no big effect
+
+While my teeth did feel a little cleaner and lighter, the effect
+didn't seem huge.
