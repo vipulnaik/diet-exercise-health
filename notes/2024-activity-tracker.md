@@ -204,3 +204,10 @@ to Target to buy batteries. I was there from around 6 PM to around
 At night, around 8 PM, I left for a trip to the Amazon Hub Locker at
 ASUC to pick up a package. After I was done, I went to the Walgreens
 on Adeline Street to purchase toiletries.
+
+## Wednesday April 3
+
+In the early afternoon, I went for a dental cleaning appointment
+recorded in detail [here](2024-04-03-dental-cleaning.md). After that,
+I went to Berkeley Bowl to buy a few items, as recorded in
+[food_purchases.sql](../sql/food_purchases.sql).

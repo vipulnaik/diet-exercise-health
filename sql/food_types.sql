@@ -467,7 +467,17 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 8.02,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,NULL,NULL,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes */ 'The serving size used is 100 grams, whereas the container size is 710 grams. All amounts were scaled by 7.1.');
+  /* notes */ 'The serving size used is 100 grams, whereas the container size is 710 grams. All amounts were scaled by 7.1.'),
+
+  ('Wild Harvest Organic Lentils','Wild Harvest Organic Lentil','https://www.mywildharvest.com/our-products/product.organic-lentils-711535505730.html',1300,
+  /* fat-related columns */ 6.5,0,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 130,NULL,
+  /* carbohydrate-related columns */ 299,91,0,
+  /* protein-related columns */ 104,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,0,15.6,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The serving size used is 35 grams, with "about" 13 servings per container.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
@@ -510,5 +520,7 @@ insert into food_types(short_name, long_name, notes) values
   ('Half spicy eggplant tofu and half yellow curry tofu','Imm Thai Street Food half spicy eggplant tofu and half yellow curry tofu','I had this special combination at a dine-in I did, sharing with another person, at Imm Thai Street Food.'),
   /* Kitava */
   ('Kitava Power Bowl','Kitava Power Bowl','I had this on 2023-11-29 when uenxpectedly dining in at Kitava.'),
+  /* Tay Ho Oakland */
+  ('Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom','Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom','I had this on 2024-03-27 as part of lunch with work colleagues near the Oakland WeWork.'),
   /* Asha Tea House */
   ('Asha Tea House ginger honey tea','Asha Tea House ginger honey tea','I have this on the occasional visit to Asha Tea House, usually whne meeting up with other people.');
