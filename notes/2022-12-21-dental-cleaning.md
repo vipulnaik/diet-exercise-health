@@ -82,7 +82,10 @@ the base of my teeth, as there was a slight accumulation there.
 ### Polishing
 
 The hygienist began with application of polish (normally that is done
-later, not sure for the reason for changing the order?).
+later, not sure for the reason for changing the order? NOTE: See the
+[2024-04-03 dental cleaning's stained teeth
+section](2024-04-03-dental-cleaning.md#stained-teeth) for an
+explanation).
 
 ### Scraping/scaling
 

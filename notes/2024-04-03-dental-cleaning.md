@@ -1,0 +1,124 @@
+# 2024-04-03: dental cleaning
+
+On Wednesday 2024-04-03, I went to Total Health Dental Care at 3017
+Telegraph Avenue for a regular dental cleaning at 1 PM. The previous
+dental cleaning had been on
+[2023-09-27](2023-09-27-dental-cleaning.md).
+
+## Prior preparation
+
+I did not do any special prior preparation. The main cautionary step I
+took prior to the appointment was to skip having walnuts and
+sauerkrauts for the two meals that fell within the 24 hours prior to
+appointment, i.e., the evening meal on 2024-04-02 and the morning meal
+on 2024-04-03.
+
+## Appointment
+
+### Intake steps
+
+Prior to the appointment, I had to check in. When I arrived at the
+location, the in-person staff was out for lunch, so I was connected
+via teleconferencing to a tele-check-in person, who took my details
+and then sent me a few forms to fill and update. I finished these
+check-in procedures. The membership renewal payment itself was
+deferred to after the appointment once the staff had returned.
+
+### X-rays
+
+Once the hygienist was ready, she first took my X-rays. My last normal
+X-rays had been taking in the [2022-12-21 dental
+cleaning](2022-12-21-dental-cleaning.md); another set of X-rays had
+been taken as part of my wisdom tooth removal, but these were a
+different sort of X-rays (panoramic). So, the hygienist took my
+regular X-rays.
+
+### Gum review
+
+The hygienist probed my gumline to get an overall assessment of the
+state of my gums. The probes didn't hurt me, and after doing the
+review she declared that my gumline looked good.
+
+### Polishing
+
+The hygienist started with polishing my teeth, including the front and
+back of all teeth.
+
+After the cleaning waas over, I asked the hygienist for the reason for
+polishing first. See the section on [stained teeth](#stained-teeth) for more.
+
+### Scraping/scaling (interrupted by doctor dropping by)
+
+The hygienist then proceeded to do a bunch of scraping/scaling of the
+teeth. Some of this was done with irrigation / air blowing, but not
+all.
+
+The doctor came in the middle of the procedure for a review of the
+X-ray results and of my teeth.
+
+### Flossing and air blowing
+
+The hygienist did fossing of my teeth and then did a final round of
+air blowing.
+
+### Conclusion
+
+After the appointment, I asked the hygienist a few questions. Her
+feedback is included in the [feedback section](#feedback).
+
+She also confirmed my next appointment for Wednesday, October 9, at 1 PM.
+
+### Payment
+
+After being done with the appointment, I proceeded to talk to the
+front desk. I had a credit of $266 that was applied against my
+membership fee, and I got a membership for a year.
+
+## Feedback
+
+### Dentist feedback about recession
+
+The dentist said that overall, my teeth look fine. I asked her about
+the recession that she had commented on last time. She said that the
+recession level doesn't seem to have worsened much since last time
+(this time's data was based on visual examination; last time's data
+was from the chart), but that they would do another set of measurements
+at my next visit 6 months from now and then do a fuller comparison to
+see the trend.
+
+Based on the pattern of which teeth had the most recession, she
+suspected that there may be an issue with grinding my teeth. She asked
+me if I had noticed myself grinding my teeth. I said I noticed it
+occasionally but not often. She said that it's possible (though not
+clear if that's the case) that I might be grinding
+subconsciously. It's also possible that I used to grind more and am
+not grinding that much now, which is why it's not worsened much. She
+said that people who grind a lot at night can improve things by using
+a dental guard at night.
+
+She confirmed, upon my asking, that recession cannot naturally get
+better over time, only worse, and that the only way to make it better
+is by doing tissue grafting surgery.
+
+### General hygienist feedback
+
+The hygienist said that my teeth and gums look healthy, and she didn't
+find any particular area of the teeth that was bad. She included
+general cautions recommended that I continue flossing regularly, and
+pay particular attention to flossing areas where I experience pain and
+bleeding.
+
+### Stained teeth
+
+The hygienist said that since my teeth were a bit more stained, she
+did the polishing first, so that it could polish over the stains,
+thereby reducing the amount of work that the scraping/scaling needed
+to do. If the teeth aren't that stained, it makes sense to
+scrape/scale first and polish later so that the polish is fresh and
+doesn't get scraped off.
+
+The hygienist said that the staining wasn't a problem in and of itself
+(the implicit assumption likely being that I would come for the
+six-monthly cleaning) but if I cared about it, she recommended using a
+toothpaste with baking soda, such as the Arm and Hammer toothpaste, as
+that has more grittiness that can wear off the stains.

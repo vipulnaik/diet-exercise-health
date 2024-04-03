@@ -123,13 +123,13 @@ and 32 being manageable with a tight belt. I do not have a paunch.
 ## Dental status
 
 * I generally get dental checkups and cleaning done every 6-7
-  months. As of 2023, my dental care is handled by Total Health Dental
+  months. As of 2024, my dental care is handled by Total Health Dental
   Care, and I go to the branch at 3017 Telegraph Avenue. The notes for
   the most recent appointment should reflect the current status of my
   dental health. Look in my notes folder for files with the word
   `dental-cleaning` in them to locate the most recent appointment. As
-  of the last major edit of this document,
-  [this](2023-09-27-dental-cleaning.md) is my most recent appointment.
+  of the last edit of this document,
+  [this](2024-04-03-dental-cleaning.md) is my most recent appointment.
 
 * All four of my wisdom teeth have been removed. The removal was done
   in 2023: [overall doc](2023-wisdom-tooth-removal.md), [left
