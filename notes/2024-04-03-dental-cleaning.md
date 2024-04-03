@@ -96,6 +96,12 @@ not grinding that much now, which is why it's not worsened much. She
 said that people who grind a lot at night can improve things by using
 a dental guard at night.
 
+She didn't mention overbrushing, something that she had brought up
+last time.
+
+I asked her if eating lots of nuts could cause the issues, and she
+didn't think so.
+
 She confirmed, upon my asking, that recession cannot naturally get
 better over time, only worse, and that the only way to make it better
 is by doing tissue grafting surgery.
