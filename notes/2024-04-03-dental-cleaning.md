@@ -157,3 +157,10 @@ discomfort.
 
 While my teeth did feel a little cleaner and lighter, the effect
 didn't seem huge.
+
+### Mouth feeling a bit dryer after the procedure
+
+My mouth felt a bit dryer after the procedure, something I did not
+quite put a finger on in the inital hours after it. I had a more
+conscious awareness of this around 4:45 PM so I deliberately drank
+more water to address it.
