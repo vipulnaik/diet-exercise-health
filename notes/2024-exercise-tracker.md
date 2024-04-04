@@ -251,3 +251,20 @@ the day.
 On 2024-03-30, I resumed weight exercises. The last date of weight
 exercises was 2024-03-13. I also resumed jogging; the last date of
 jogging was 2024-03-26.
+
+## 2024-04-02 onward: weights skipped
+
+On 2024-04-02, weights were due (as I had last done them on
+2024-03-30); however, I skipped them as I had some chores to finish. I
+had similarly skipped on 2024-04-01 for chores.
+
+I also skipped on 2024-04-03 as I was out for dental cleaning, and
+then on 2024-04-04 as I didn't go jogging due to rain.
+
+## 2024-04-03 and 2024-04-04: skipped jogging
+
+On 2024-04-03, I skipped jogging so that I could go for my dental
+cleaning.
+
+On 2024-04-04, I skipped jogging due to rain, wet sidewalks, and cold
+weather.
