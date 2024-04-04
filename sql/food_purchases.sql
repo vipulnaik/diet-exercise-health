@@ -2449,4 +2449,13 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2024-04-03 Berkeley Bowl; total cost $15.67; checkout at 2:11 PM; paid by debit card */
   ('2024-04-03','Lundberg Sustainable California White Basmati Rice',1),
   ('2024-04-03','Wild Harvest Organic Lentils',1),
-  ('2024-04-03','Kite Hill Unsweetened Plain Almond Milk Yogurt',1);
+  ('2024-04-03','Kite Hill Unsweetened Plain Almond Milk Yogurt',1),
+  /* 2024-04-03 Trader Joe's; total cost $56.43; checkout at 5:59 PM; paid by debit card;
+     no Udupi Palace part in this trip */
+  ('2024-04-03','TJ Walnuts',1),
+  ('2024-04-03','TJ Carrots',1),
+  ('2024-04-03','TJ English Shelled Peas',4),
+  ('2024-04-03','Gold potatoes 5 lb',1),
+  ('2024-04-03','Beefsteak tomato',14),
+  ('2024-04-03','Green bell pepper',4),
+  ('2024-04-03','Red bell pepper',2);
