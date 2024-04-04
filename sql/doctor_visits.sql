@@ -13,4 +13,10 @@ insert into doctor_visits(visit_date, doctor, specialty, visit_notes) values
   ('2021-10-06','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-10-06-periodontal-therapy-second-appointment.md'),
   ('2021-10-29','Tang Eye Center','eye','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-10-29-eye-exam.md'),
   ('2021-12-15','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-12-15-periodontal-therapy-followup-appointment.md'),
-  ('2022-06-15','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-06-15-dental-cleaning.md');
+  ('2022-06-15','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-06-15-dental-cleaning.md'),
+  ('2022-12-21','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-12-21-dental-cleaning.md'),
+  ('2023-07-05','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-07-05-wisdom-tooth-removal-left-side.md'),
+  ('2023-08-23','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-08-23-wisdom-tooth-removal-right-side.md'),
+  ('2023-09-27','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-09-27-dental-cleaning.md'),
+  ('2023-10-04','Tang Eye Center','eye','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-10-04-eye-exam.md'),
+  ('2024-04-03','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2024-04-03-dental-cleaning.md');
