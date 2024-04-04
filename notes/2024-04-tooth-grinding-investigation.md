@@ -66,3 +66,12 @@ that increase the chances of the teeth bumping into each other:
 
 * Cold weather leading to shivering where my teeth are chattering
 
+## Open question on the effect of paying attention
+
+I don't yet know if paying attention to my mouth (salivary activity,
+teeth position, tongue position, gum size, etc.) makes me more
+uncomfortablle with my mouth than I otherwise would. The experience of
+2024-04-03 suggested yes, but 2024-04-04 doesn't. 2024-04-03 may be
+unusual in that the mouth felt a little different right after the
+cleaning.
+
