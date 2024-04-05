@@ -11,6 +11,7 @@ Sections of this document:
 * [Appointment](#appointment)
 * [Feedback](#feedback)
 * [Subjective assessment](#subjective-assessment)
+* [Aftereffects and followup](#aftereffects-and-followup)
 
 ## Prior preparation
 
@@ -164,3 +165,35 @@ My mouth felt a bit dryer after the procedure, something I did not
 quite put a finger on in the inital hours after it. I had a more
 conscious awareness of this around 4:45 PM so I deliberately drank
 more water to address it.
+
+## Aftereffects and followup
+
+### Greater saliva production
+
+The night of the cleaning (2024-04-03), I had some drool, which I
+don't usually have. The next day (2024-04-04), around 2 PM (shortly
+after having a long 2-hour meeting where I talked for a large
+proportion of it), I started explicitly noting excess
+salivation. There was a bit of a self-fulfilling prophecy to it once I
+started noticing,
+cf. [this](https://www.quora.com/Why-does-my-saliva-glands-overproduce-when-I-m-being-self-conscious-anxious-causing-me-to-gulp-a-lot),
+but I think there was some genuine underlying increase not driven by
+noticing. The night of 2024-04-04, I had more drool.
+
+According to the Internet, the greater saliva production after teeth
+cleaning is normal. For instance,
+[this](https://wellsfamilydental.com/drooling-after-teeth-cleaning/)
+says:
+
+> First and foremost, drooling after teeth cleaning is completely
+> normal. Since this procedure stimulates your oral tissues with
+> pressure, you’ll produce more saliva than usual and drool as a
+> result.
+
+In my case, the overnight drooling was likely for that reason, and the
+excess salivation the next afternoon was likely due to a mix of that
+and the long duration of talking.
+
+### Monitoring of tooth grinding
+
+See [here](2024-04-tooth-grinding-investigation.md) for more details.
