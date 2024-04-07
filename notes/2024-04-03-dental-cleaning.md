@@ -190,6 +190,15 @@ On 2024-04-06, my salivation was a little less than on 2024-04-05, but
 still seemed way above normal. The overnight situation on 2024-04-06
 seemed approximately similar to the overnight situation on 2024-04-05.
 
+On 2024-04-07, I continued to have excess saliva production, but
+subjectively it felt slightly improved compared to the previous two
+days. I came up with the following way to estimate my excess saliva
+production: how long did I have to wait between successive saliva
+swallows? In the morning and early afternoon on 2024-04-07, the
+interval was somewhere between 10 and 20 minutes. My subjective sense
+is that during the peak of the issue on 2024-04-05, the interval was
+less than 5 minutes.
+
 According to the Internet, the greater saliva production after teeth
 cleaning is normal. For instance,
 [this](https://wellsfamilydental.com/drooling-after-teeth-cleaning/)
