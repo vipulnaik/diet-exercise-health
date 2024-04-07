@@ -178,12 +178,17 @@ salivation. There was a bit of a self-fulfilling prophecy to it once I
 started noticing,
 cf. [this](https://www.quora.com/Why-does-my-saliva-glands-overproduce-when-I-m-being-self-conscious-anxious-causing-me-to-gulp-a-lot),
 but I think there was some genuine underlying increase not driven by
-noticing. The night of 2024-04-04, I had more drool. On 2024-04-05,
-the salivation reduced though it still seemed above normal. On the
-night of 2024-04-05, I had some drool though comparable to 2024-04-03
-and less than 2024-04-04. I still had a bit of drool after waking up
-on 2024-04-06, while still a little sleepy, that I was fortunately
-able to catch.
+noticing. The night of 2024-04-04, I had more drool.
+
+On 2024-04-05, the salivation reduced though it still seemed above
+normal. On the night of 2024-04-05, I had some drool though comparable
+to 2024-04-03 and less than 2024-04-04. I still had a bit of drool
+after waking up on 2024-04-06, while still a little sleepy, that I was
+fortunately able to catch.
+
+On 2024-04-06, my salivation was a little less than on 2024-04-05, but
+still seemed way above normal. The overnight situation on 2024-04-06
+seemed approximately similar to the overnight situation on 2024-04-05.
 
 According to the Internet, the greater saliva production after teeth
 cleaning is normal. For instance,
