@@ -199,6 +199,20 @@ interval was somewhere between 10 and 20 minutes. My subjective sense
 is that during the peak of the issue on 2024-04-05, the interval was
 less than 5 minutes.
 
+On the evening of 2024-04-07, I was experiencing slight pains that
+seemed to come from my left lower teeth, but that I suspected were not
+actually coming from there. I did a bunch of massaging of my masseter
+muscle, that seemed to be sore, and the pain reduced. The muscle on
+the left side was significantly sorer than on the right side, and
+massaging it did seem to release the pain. So I suspect the pain is
+coming from that area and is being incorrectly attributed to the
+teeth.
+
+On the night of 2024-04-07, I did have some excess salivation (that I
+needed to swallow) but no drooling, suggesting that the excess saliva
+wasn't enough to cause drooling, though it could also mean that I was
+more used to pulling it in.
+
 According to the Internet, the greater saliva production after teeth
 cleaning is normal. For instance,
 [this](https://wellsfamilydental.com/drooling-after-teeth-cleaning/)
