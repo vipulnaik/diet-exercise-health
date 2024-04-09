@@ -2458,4 +2458,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-04-03','Gold potatoes 5 lb',1),
   ('2024-04-03','Beefsteak tomato',14),
   ('2024-04-03','Green bell pepper',4),
-  ('2024-04-03','Red bell pepper',2);
+  ('2024-04-03','Red bell pepper',2),
+  /* 2024-04-08 Trader Joe's; total cost $52.05; checkout at 7:55 PM; paid by debit card */
+  ('2024-04-08','TJ English Shelled Peas',3),
+  ('2024-04-08','TJ Miso Ginger Broth',1),
+  ('2024-04-08','TJ Baby Spinach',2),
+  ('2024-04-08','TJ Broccoli Florets 12 oz',1),
+  ('2024-04-08','Beefsteak tomato',16),
+  ('2024-04-08','TJ Indian Style Flatbread',1),
+  ('2024-04-08','Whole Wheat Lavash',1),
+  /* 2024-04-08 Udupi Palace; total cost $14.28; paid by cash */
+  ('2024-04-08','Udupi Palace spinach masala dosa',1);
