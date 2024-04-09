@@ -213,6 +213,14 @@ needed to swallow) but no drooling, suggesting that the excess saliva
 wasn't enough to cause drooling, though it could also mean that I was
 more used to pulling it in.
 
+2024-04-08 proceeded mostly similarly to 2024-04-07, with no clear
+improvement over 2024-04-07 but still significantly better than
+2024-04-04 afternoon to 2024-04-06.
+
+The night of 2024-04-08 was fairly similar to the night of 2024-04-07,
+but I did end up having a bit of drooling toward the end on my left
+side.
+
 According to the Internet, the greater saliva production after teeth
 cleaning is normal. For instance,
 [this](https://wellsfamilydental.com/drooling-after-teeth-cleaning/)
