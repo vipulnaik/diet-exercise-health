@@ -221,6 +221,13 @@ The night of 2024-04-08 was fairly similar to the night of 2024-04-07,
 but I did end up having a bit of drooling toward the end on my left
 side.
 
+2024-04-09 felt like an improvement over previous days, with periods
+of a few hours in between where I didn't seem to have excess
+salivation, though other periods were similar to previous days.
+
+The night of 2024-04-09 was good -- I didn't have any drooling. I had
+a little bit of excess salivation that I was able to swallow.
+
 According to the Internet, the greater saliva production after teeth
 cleaning is normal. For instance,
 [this](https://wellsfamilydental.com/drooling-after-teeth-cleaning/)
