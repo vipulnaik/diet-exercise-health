@@ -477,7 +477,18 @@ insert into food_types(short_name, long_name, url, calories,
   /* protein-related columns */ 104,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,0,15.6,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes */ 'The serving size used is 35 grams, with "about" 13 servings per container.');
+  /* notes */ 'The serving size used is 35 grams, with "about" 13 servings per container.'),
+
+
+  ('TJ Whole Wheat Lavash','Trader Joe''s Whole Wheat Lavash Bread',NULL,960,
+  /* fat-related columns */ 6,0,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 1200,1020,
+  /* carbohydrate-related columns */ 192,36,0,
+  /* protein-related columns */ 60,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,0,120,9.6,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The information at https://www.fooducate.com/product/Trader-Joe-s-Whole-Wheat-Lavash-Flatbread/5650DF8C-861A-DE3F-4F78-A6CD3099DD3A is somewhat outdated.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right

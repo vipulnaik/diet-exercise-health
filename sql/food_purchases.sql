@@ -2466,6 +2466,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-04-08','TJ Broccoli Florets 12 oz',1),
   ('2024-04-08','Beefsteak tomato',16),
   ('2024-04-08','TJ Indian Style Flatbread',1),
-  ('2024-04-08','Whole Wheat Lavash',1),
+  ('2024-04-08','TJ Whole Wheat Lavash',1),
   /* 2024-04-08 Udupi Palace; total cost $14.28; paid by cash */
   ('2024-04-08','Udupi Palace spinach masala dosa',1);
