@@ -236,6 +236,8 @@ The night of 2024-04-10 was mostly good but i did drool a bit on my
 left side in the early morning. I'm not sure what's going on with the
 alternate-day left-side drooling. I'll see if the pattern continues.
 
+### Internet research
+
 According to the Internet, the greater saliva production after teeth
 cleaning is normal. For instance,
 [this](https://wellsfamilydental.com/drooling-after-teeth-cleaning/)
@@ -249,6 +251,30 @@ says:
 In my case, the overnight drooling was likely for that reason, and the
 excess salivation the next afternoon was likely due to a mix of that
 and the long duration of talking.
+
+I also found [this research
+article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894825/) that
+sheds light on the stress on the masseter muscle after prolonged
+maximal jaw opening, and thereby suggests that in the future, I should
+try not to keep my mouth open too long and continuously:
+
+> Results
+
+> Prolonged jaw opening significantly increased nocifensive head
+> withdrawal to mechanical stimuli at 2 hours, and days 3 and 7
+> postinduction (P < .05). The increase in nociceptive response
+> resolved after 14 days. Sustained jaw opening also stimulated
+> differential cytokine expression in the trigeminal ganglion and
+> upper cervical spinal cord that persisted 14 days postprocedure (P <
+> .05).
+
+> Conclusion
+
+> These findings provide evidence that near maximal jaw opening can
+> lead to activation and prolonged sensitization of trigeminal neurons
+> that results in nociceptive behavior evoked by stimulation of the
+> masseter muscle, a physiologic event often associated with
+> temporomandibular disorders (TMD).
 
 ### Monitoring of tooth grinding
 
