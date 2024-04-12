@@ -236,6 +236,14 @@ The night of 2024-04-10 was mostly good but i did drool a bit on my
 left side in the early morning. I'm not sure what's going on with the
 alternate-day left-side drooling. I'll see if the pattern continues.
 
+2024-04-11 continued to be decent in the daytime, comparable to
+2024-04-10. However, I did have a bit more jaw pain for parts of the
+day than in previous days, and I did some massaging to address it.
+
+On the night of 2024-04-11, I didn't drool for most of the night but
+did drool a little bit in the morning, breaking my alternating days
+streak.
+
 ### Internet research
 
 According to the Internet, the greater saliva production after teeth

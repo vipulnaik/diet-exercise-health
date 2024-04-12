@@ -268,3 +268,9 @@ cleaning.
 
 On 2024-04-04, I skipped jogging due to rain, wet sidewalks, and cold
 weather.
+
+## 2024-04-11: skipped jogging
+
+On 2024-04-11, I went out for shopping in the evening and by the time
+I got back, I was too fatigued to go jogging. This was partly related
+to the time and partly due to it being hotter than usual.
