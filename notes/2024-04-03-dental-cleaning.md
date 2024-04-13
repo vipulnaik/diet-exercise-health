@@ -244,6 +244,20 @@ On the night of 2024-04-11, I didn't drool for most of the night but
 did drool a little bit in the morning, breaking my alternating days
 streak.
 
+2024-04-12 felt like a pretty normal day. I still had a bit of excess
+saliva but it didn't seem to come in my way.
+
+On the night of 2024-04-12, I had some excess saliva toward the end,
+and drooled a little bit on each side about an hour before waking
+up. The volume of drool was small and it had dried by the time I woke
+up.
+
+### Digestive issues
+
+I had minor disruptions to my digestion starting around 2024-04-08
+that I believe to be aftereffects of this, though they could be for
+other reasons.
+
 ### Internet research
 
 According to the Internet, the greater saliva production after teeth
