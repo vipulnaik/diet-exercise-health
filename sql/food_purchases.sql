@@ -2479,4 +2479,9 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-04-11','Eggplant',2),
   ('2024-04-11','Red bell pepper',2),
   ('2024-04-11','Beefsteak tomato',13),
-  ('2024-04-11','TJ Carb Savvy Tortillas',9);
+  ('2024-04-11','TJ Carb Savvy Tortillas',9),
+  /* 2024-04-12 Trader Joe's; total cost $20.46; checkout at 5:51 PM; paid by credit card;
+     no Udupi Palace part in this trip */
+  ('2024-04-12','Trader Giotto''s Olive Oil',1),
+  ('2024-04-12','TJ Miso Ginger Broth',1),
+  ('2024-04-12','TJ Almond Milk',2);

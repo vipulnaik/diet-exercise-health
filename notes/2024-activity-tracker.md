@@ -211,3 +211,11 @@ In the early afternoon, I went for a dental cleaning appointment
 recorded in detail [here](2024-04-03-dental-cleaning.md). After that,
 I went to Berkeley Bowl to buy a few items, as recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday April 12
+
+In the evening, I made a trip for shopping. I first stopped at Ace
+Hardware, though I ended up not buying anything. I then went to Trader
+Joe's, where I made a few purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql). On the way back, I
+stopped at Walgreens to buy a few items.
