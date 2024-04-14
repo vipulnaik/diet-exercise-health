@@ -252,6 +252,14 @@ and drooled a little bit on each side about an hour before waking
 up. The volume of drool was small and it had dried by the time I woke
 up.
 
+2024-04-13 continued to be a fairly normal day, other than a little
+bit of attention issues in the afternoon that could happen under
+ordinary circumstances as well.
+
+On the night of 2024-04-13, I had drool issues early on (on my right
+side) and then right when I was woken up by the alarm (on my left
+side).
+
 ### Digestive issues
 
 I had minor disruptions to my digestion starting around 2024-04-08
