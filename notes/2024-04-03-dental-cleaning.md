@@ -266,7 +266,12 @@ exercises (four breath holds each of at least 20 seconds), I noticed
 an increase in salivation, comparable to the levels seen a few days
 ago. I think the breath holds set me back a little bit so it may be
 wiser to not do multiple back-to-back breath holds in this way until I
-am fully recovered.
+am fully recovered. The situation returned to my general average of
+the past few days after I finished my bath at night (for the 15
+minutes or so between that and sleeping).
+
+Overnight on 2024-04-14, I had a bit of drooling in between but none
+when I was about to wake up.
 
 ### Digestive issues
 
