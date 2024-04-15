@@ -260,6 +260,14 @@ On the night of 2024-04-13, I had drool issues early on (on my right
 side) and then right when I was woken up by the alarm (on my left
 side).
 
+On 2024-04-14, until around 4 PM, I didn't have any noticeable
+symptoms related ot salivation. However, after doing my breath hold
+exercises (four breath holds each of at least 20 seconds), I noticed
+an increase in salivation, comparable to the levels seen a few days
+ago. I think the breath holds set me back a little bit so it may be
+wiser to not do multiple back-to-back breath holds in this way until I
+am fully recovered.
+
 ### Digestive issues
 
 I had minor disruptions to my digestion starting around 2024-04-08

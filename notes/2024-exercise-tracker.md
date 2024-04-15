@@ -269,8 +269,20 @@ cleaning.
 On 2024-04-04, I skipped jogging due to rain, wet sidewalks, and cold
 weather.
 
-## 2024-04-11: skipped jogging
+## 2024-04-11: skipped jogging due to lack of time and energy after another trip
 
 On 2024-04-11, I went out for shopping in the evening and by the time
 I got back, I was too fatigued to go jogging. This was partly related
 to the time and partly due to it being hotter than usual.
+
+## 2024-04-13: skipped jogging due to weather
+
+On 2024-04-13, it was raining off and on through the day, so I skipped
+jogging.
+
+## 2024-04-14: slightly-more-than-halved jog, jogging both ways
+
+On 2024-04-14, there was a nontrivial probability of rain, so instead
+of jogging the full distance, I jogged a little over halfway and then
+jogged back. My total jogged distance was the same as usual, but I had
+a shorter walk back.
