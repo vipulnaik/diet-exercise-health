@@ -2484,4 +2484,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
      no Udupi Palace part in this trip */
   ('2024-04-12','Trader Giotto''s Olive Oil',1),
   ('2024-04-12','TJ Miso Ginger Broth',1),
-  ('2024-04-12','TJ Almond Milk',2);
+  ('2024-04-12','TJ Almond Milk',2),
+  /* 2024-04-15 Trader Joe's; total cost $57.15; checkout at 5:58 PM; paid by credit card;
+    no Udupi Palace part in this trip */
+  ('2024-04-15','TJ English Shelled Peas',3),
+  ('2024-04-15','TJ Baby Spinach',2),
+  ('2024-04-15','TJ Walnuts',1),
+  ('2024-04-15','TJ Carrots',1),
+  ('2024-04-15','TJ Indian Style Flatbread',1),
+  ('2024-04-15','TJ Broccoli Florets 12 oz',1),
+  ('2024-04-15','Beefsteak tomato',14),
+  ('2024-04-15','TJ Old Fashioned Lavash',1),
+  ('2024-04-15','TJ Whole Wheat Lavash',1);
