@@ -273,6 +273,15 @@ minutes or so between that and sleeping).
 Overnight on 2024-04-14, I had a bit of drooling in between but none
 when I was about to wake up.
 
+On 2024-04-15, the daytime was pretty normal; however, after dinner I
+was feeling more fatigued than usual, with pain in my jaw. After my
+bath this pain reduced and things were normal-ish by the time I went
+to sleep. While I did have slight excess salivation, this was
+manageable and didn't get in my way.
+
+On the night of 2024-04-16, I had excess salivation and maybe a little
+bit of drooling though I was able to swallow back for the most part.
+
 ### Digestive issues
 
 I had minor disruptions to my digestion starting around 2024-04-08
