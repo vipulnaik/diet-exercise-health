@@ -279,6 +279,14 @@ bath this pain reduced and things were normal-ish by the time I went
 to sleep. While I did have slight excess salivation, this was
 manageable and didn't get in my way.
 
+On the night of 2024-04-15, I had excess salivation and maybe a little
+bit of drooling though I was able to swallow back for the most part.
+
+On 2024-04-16, the daytime was pretty normal; I did have some excess
+salivation but it was't extreme enough to get in my way. In the
+evening, I had some jaw pain as usual, though not as pronounced as the
+previous day. The pain reduced after my bath.
+
 On the night of 2024-04-16, I had excess salivation and maybe a little
 bit of drooling though I was able to swallow back for the most part.
 
@@ -287,6 +295,18 @@ bit of drooling though I was able to swallow back for the most part.
 I had minor disruptions to my digestion starting around 2024-04-08
 that I believe to be aftereffects of this, though they could be for
 other reasons.
+
+### Photosensitivity
+
+My times of greatest jaw pain / masseter muscle tension were also
+accompanied by an increase in photosensitivity, particularly the ones
+that happened at night. Fortunately, I was able to work in relatively
+low-light conditions where I didn't trigger the photosensitivity,
+though working with bright screens some of the time was painful.
+
+See
+[2018-12-head-neck-jaw-tooth-pain.md](2018-12-head-neck-jaw-tooth-pain.md)
+for some relevant historical background.
 
 ### Internet research
 
