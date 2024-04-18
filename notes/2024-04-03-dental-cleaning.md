@@ -290,6 +290,15 @@ previous day. The pain reduced after my bath.
 On the night of 2024-04-16, I had excess salivation and maybe a little
 bit of drooling though I was able to swallow back for the most part.
 
+On 2024-04-17, the daytime was pretty normal; I did have some excess
+salivation but it was't extreme enough to get in my way. I also felt
+fairly high-energy in the evening (despite a little jaw pain), which
+might be due to my strategically skipping strength exercises.
+
+On the night of 2024-04-17, I had excess salivation and maybe a little
+bit of drooling though I was able to swallow back for the most part,
+except right before I woke up.
+
 ### Digestive issues
 
 I had minor disruptions to my digestion starting around 2024-04-08
