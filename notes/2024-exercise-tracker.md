@@ -286,3 +286,10 @@ On 2024-04-14, there was a nontrivial probability of rain, so instead
 of jogging the full distance, I jogged a little over halfway and then
 jogged back. My total jogged distance was the same as usual, but I had
 a shorter walk back.
+
+## 2024-04-17: skipped strength exercises
+
+I had previously done strength exercises on 2024-04-14, so I needed to
+do them on either 2024-04-16 or 2024-04-17. Neither day worked well,
+due to a combination of fatigue (partly due to it being hotter than
+expected), and partly due to issues of scheduling.
