@@ -299,6 +299,11 @@ On the night of 2024-04-17, I had excess salivation and maybe a little
 bit of drooling though I was able to swallow back for the most part,
 except right before I woke up.
 
+NOTE: Starting 2024-04-18, I am no longer updating here daily. I still
+have a bit of excess salivation, night-time/early-morning drooling,
+and jaw pain but both are within a range I can work with. I might post
+occasional status updates regarding the trajectory of my recovery.
+
 ### Digestive issues
 
 I had minor disruptions to my digestion starting around 2024-04-08
