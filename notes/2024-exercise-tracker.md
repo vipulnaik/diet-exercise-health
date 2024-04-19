@@ -293,3 +293,10 @@ I had previously done strength exercises on 2024-04-14, so I needed to
 do them on either 2024-04-16 or 2024-04-17. Neither day worked well,
 due to a combination of fatigue (partly due to it being hotter than
 expected), and partly due to issues of scheduling.
+
+## 2024-04-18: skipped jogging and strength exercises
+
+On this day I skipped jogging and strength exercises, mainly because
+work related to my day job ended up extending till fairly late in the
+day and I also needed to do some cooking work, so squeezing in
+exericse would be tight on my time and my energy levels.
