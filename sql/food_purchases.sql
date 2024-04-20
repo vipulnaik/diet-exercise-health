@@ -2495,4 +2495,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-04-15','TJ Broccoli Florets 12 oz',1),
   ('2024-04-15','Beefsteak tomato',14),
   ('2024-04-15','TJ Old Fashioned Lavash',1),
-  ('2024-04-15','TJ Whole Wheat Lavash',1);
+  ('2024-04-15','TJ Whole Wheat Lavash',1),
+  /* 2024-04-19 Trader Joe's; total cost $64.39; checkout at 8:18 PM; paid by debit card;
+     no Udupi Palace part in this trip */
+  ('2024-04-19','TJ English Shelled Peas',3),
+  ('2024-04-19','TJ Broccoli Floretz 12 oz',1),
+  ('2024-04-19','TJ Baby Spinach',2),
+  ('2024-04-19','Gold potatoes 5 lb',1),
+  ('2024-04-19','Green bell pepper',4),
+  ('2024-04-19','Red bell pepper',2),
+  ('2024-04-19','Beefsteak tomato',12),
+  ('2024-04-19','TJ Whole Wheat Lavash',6);
