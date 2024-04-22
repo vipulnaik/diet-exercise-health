@@ -219,3 +219,7 @@ Hardware, though I ended up not buying anything. I then went to Trader
 Joe's, where I made a few purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql). On the way back, I
 stopped at Walgreens to buy a few items.
+
+## Sunday April 21
+
+In the morning and early afternoon, I was out to attend an event.
