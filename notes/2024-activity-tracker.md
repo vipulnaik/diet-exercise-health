@@ -223,3 +223,8 @@ stopped at Walgreens to buy a few items.
 ## Sunday April 21
 
 In the morning and early afternoon, I was out to attend an event.
+
+## Tuesday April 23
+
+In the evening, I went to the Amazon Hub Locker at ASUC to pick up a
+few packages.

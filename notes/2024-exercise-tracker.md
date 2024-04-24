@@ -300,3 +300,29 @@ On this day I skipped jogging and strength exercises, mainly because
 work related to my day job ended up extending till fairly late in the
 day and I also needed to do some cooking work, so squeezing in
 exericse would be tight on my time and my energy levels.
+
+## 2024-04-21: skipped exercises due to long trip
+
+On 2024-04-21, I woke up early and had a long trip in the morning and
+early afternoon, so I skipped exercise in the evening both to make up
+for the lost time and because the trip (and sleep disruption) had
+drained me of energy to the point where skipping exercise was expected
+to get me to normal.
+
+## 2024-04-22: skipped strength exercise
+
+On 2024-04-22, I skipped strength exercise that was due by this day,
+because of a little bit of continued stiffness in the neck and
+shoulder muscles (likely due to the additional strain of the previous
+day). The skipping seemed to work, as things got back to normal for me
+by the next day.
+
+## 2024-04-23: skipped jogging and strength exercises due to Amazon package pickup trip
+
+On 2024-04-23, I made a trip for Amazon package pickup. As this
+provided both walking exercise and some weightlifting exercise, and
+therefore would use up the energy that I'd normally spend on exercise;
+it also used up the time quota I might allot to exercise (plus
+more!). So, I skipped jogging and strength exercises, but I did do
+hand gripper exercises and standing-on-one-leg-with-eyes-closed
+exercises.
