@@ -860,6 +860,9 @@ and in most cases, I have to throw it after it expires.
 
 ### Past medication consumption
 
+* 2024-04-25: I took a dose of acetaminophen to address my [2024-04-25
+  abdominal pain](2024-04-25-abdominal-pain.md).
+
 * [2023-08-23 wisdom tooth removal (right
   side)](2023-08-23-wisdom-tooth-removal-right-side.md#consumption-of-medications):
   I consumed a few doses of pain medication, specifically 1 dose of
