@@ -2517,4 +2517,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-04-24','Eggplant',2),
   ('2024-04-24','TJ Whole Wheat Lavash',6),
   /* 2024-04-24 Udupi Palace; total cost $14.28; paid by cash */
-  ('2024-04-24','Udupi Palace spinach masala dosa',1);
+  ('2024-04-24','Udupi Palace spinach masala dosa',1),
+  /* 2024-04-25 Berkeley Bowl; total cost $22.96; checkout at 12:23 PM; paid by debit card */
+  ('2024-04-25','Lundberg Sustainable California White Basmati Rice',2),
+  ('2024-04-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',2);
