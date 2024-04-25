@@ -2499,10 +2499,22 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2024-04-19 Trader Joe's; total cost $64.39; checkout at 8:18 PM; paid by debit card;
      no Udupi Palace part in this trip */
   ('2024-04-19','TJ English Shelled Peas',3),
-  ('2024-04-19','TJ Broccoli Floretz 12 oz',1),
+  ('2024-04-19','TJ Broccoli Florets 12 oz',1),
   ('2024-04-19','TJ Baby Spinach',2),
   ('2024-04-19','Gold potatoes 5 lb',1),
   ('2024-04-19','Green bell pepper',4),
   ('2024-04-19','Red bell pepper',2),
   ('2024-04-19','Beefsteak tomato',12),
-  ('2024-04-19','TJ Whole Wheat Lavash',6);
+  ('2024-04-19','TJ Whole Wheat Lavash',6),
+  /* 2024-04-24 Trader Joe's; total cost $60.94; checkout at 3:35 PM; paid by debit card */
+  ('2024-04-24','TJ Miso Ginger Broth',1),
+  ('2024-04-24','TJ Sauerkraut',1),
+  ('2024-04-24','TJ Broccoli Florets 12 oz',1),
+  ('2024-04-24','TJ English Shelled Peas',3),
+  ('2024-04-24','TJ Almond Milk',1),
+  ('2024-04-24','TJ Carrots',1),
+  ('2024-04-24','Beefsteak tomato',10),
+  ('2024-04-24','Eggplant',2),
+  ('2024-04-24','TJ Whole Wheat Lavash',6),
+  /* 2024-04-24 Udupi Palace; total cost $14.28; paid by cash */
+  ('2024-04-24','Udupi Palace spinach masala dosa',1);

@@ -228,3 +228,10 @@ In the morning and early afternoon, I was out to attend an event.
 
 In the evening, I went to the Amazon Hub Locker at ASUC to pick up a
 few packages.
+
+## Wednesday April 24
+
+In the afternoon, I went to downtown Berkeley. I first went to
+Citibank for some financial transactions. Then I went for a little
+administrative task, after which I made my usual food purchases
+recorded in [food_purchases.sql](../sql/food_purchases.sql).
