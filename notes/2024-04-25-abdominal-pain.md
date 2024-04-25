@@ -79,6 +79,16 @@ talked to them; they said they don't do appointments so I would have
 to come and wait, with the waiting time starting only after my
 arrival.
 
+A few other notes:
+
+* I experienced some chills, but no fever (my measured temperature was
+  98.0 degrees Fahrenheit, though I don't consider the temperature
+  measurement to be very reliable). I switched from shorts to pants
+  and also switched to a thicker sweatshirt.
+
+* I tried to measure my heart rate with the pulse oximeter, but it was
+  failing to give a reading, and I gave up after a bit.
+
 ### Seeming improvement in symptoms and outside trip (11:55 AM onward)
 
 Around 11:55 AM, I had a pretty rapid improvement in symptoms, with
