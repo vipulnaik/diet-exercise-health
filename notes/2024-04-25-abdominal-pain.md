@@ -1,6 +1,47 @@
 # 2024-04-25: abdominal pain
 
-## The day before
+## Earlier in the week (Sunday 2024-04-21)
+
+On 2024-04-21, I was out for an event and ate outside food that is
+somewhat different than my usual food. The experience also involved
+waking up early and standing for a long time. Overall, the experience
+fatigued me and the food may not have agreed with me, though other
+than slight soreness in my threat, I didn't really experience
+significant immediate symptoms related to the food.
+
+Due to waking up early on the morning of 2024-04-21 (around 5:45 AM), I
+wasn't able to have a regular bowel movement that day, but I did have
+a regular bowel movement the next day, and on the whole I felt that I
+had recovered by the next day.
+
+## Amazon package pickup (Tuesday 2024-04-23)
+
+On 2024-04-23, I went for Amazon package pickup, which involved a
+decent amount of walking with a heavy load. However, I did skip
+jogging and strength exercises on this day, so I think on the whole my
+exercise level was normal.
+
+## Overnight sleep from Tuesday 2024-04-23 to Wednesday 2024-04-24
+
+I also stayed up till pretty late, partly because of the additional
+time with the Amazon package pickup trip, and partly because I spent
+some time at night doing personal chores (password recall drill) after
+a fragmented day, and I ended up going to sleep after 2 AM. However, I
+didn't sleep in so I got up around 7:30 AM on Wednesday (2024-04-24)
+morning, which means I had a bit of a sleep backlog.
+
+Though I don't stay up this late very often, it's also not
+super-unusual. In the past, though, I've slept in a bit later when
+going to sleep late, and I didn't do so this time because I've formed
+a habit of waking up early after my recent timezone adjustment from my
+India trip. The net effect was that I had fewer hours of sleep than
+usual going from Tuesday to Wednesday. In and of itself, I would not
+consider this concerning, as I am usually able to catch up with slight
+sleep backlogs the next day. I also had a normal bowel movement on the
+morning of 2024-04-24, suggesting that the sleep had not caused any
+immediately visible disruption to my digestive cycle.
+
+## The day before (2024-04-24)
 
 On 2024-04-24, I got takeout from Udupi Palace for my evening
 meal. This was the same as my usual takeout, but the gap since the
@@ -8,18 +49,30 @@ previous time I had had the takeout was quite large (16 days) so my
 body might have become unacclimated to it. But otherwise it was a
 pretty normal takeout.
 
-There were also some stressful events related to the house, that were
-not fully resolved by end of day but the plan was to resolve them the
-next day.
+There were also some stressful events related to the house (that began
+shortly prior to my Udupi Palace meal consumption). These were not
+fully resolved by end of day but the plan was to resolve them the next
+day. This plan succeeded.
 
-## Events in the morning
+I ended up going to sleep around 11:30 PM, which is a fairly typical
+time to go to sleep. Without any sleep backlog, my natural waking-up
+time would be somewhere between 7 AM and 8 AM. It's likely that with
+my slight sleep backlog, my natural waking up time would have been
+around 8:30 AM.
+
+## The day of (2024-04-25)
 
 ### Before the pain (7:34 AM to 8:40 AM approximately)
 
-On 2024-04-25, I was woken up around 7:34 AM by alerts. After acking
-them, I went back to sleep and slept for about 10 minutes more, till
-the approximate time that I would normally have woken up. I got out of
-bed around 7:50 AM.
+On 2024-04-25, I was woken up around 7:34 AM by alerts. This is around
+my natural waking-up time; however, in light of the fact that I had
+underslept the previous night, I may have naturally slept in a little
+longer.
+
+After acking them, I went back to sleep and slept for about 10 minutes
+more, till the approximate time that I would normally have woken up
+(but, given my sleep backlog, I may actually have continued in bed for
+a little longer). I got out of bed around 7:50 AM.
 
 I went for a bowel movement around 8:40 AM, which is a little later
 than usual (both in absolute terms and relative to my time of waking
@@ -31,6 +84,10 @@ The pain started in my abdominal area (middle, neither left nor right)
 during the process of the bowel movement some time shortly after 8:40
 AM. The bowel movement was fairly incomplete but there was still some
 movement.
+
+In hindsight, one mistake I made at this stage was to strain myself to
+try to do a bowel movement rather than just give up. This may have
+been an aggravating factor for my pain.
 
 ### Return to computer and subsequent attempts to rest (9:10 AM to 9:50 AM approximately)
 
@@ -100,7 +157,15 @@ I don't know if this improvement is due to the acetaminophen (as it
 started around 100 minutes after, which is higher than the 45 minutes
 that is generally expected for acetaminophen. The significance is that
 if it's just acetaminophen masking the continued underlying issue,
-then the issue will recur as the acetaminophen wears off.
+then the issue would recur as the acetaminophen wore off; however, at
+least for that day and the next day, acute pain did not return, so my
+current suspicion is that the acetaminophen was not the primary
+reason, though it might have helped.
+
+One other thing that happened around the same time as my symptom
+improvement was progress toward the resolution of my house
+issues. This is suggestive that the stress associated with the house
+issues was aggravating my pain, but it could just be a coincidence.
 
 At around 12:05 PM, I left my home, heading toward the urgent
 care. However, a few minutes in, I felt that I was feeling well enough
@@ -109,3 +174,132 @@ and went to Berkeley Bowl to stock up on some food items that might
 make sense given my digestive issues -- rice and vegan yogurt (I
 already had some rice at home, but I had just used up my vegan yogurt
 supply yesterday and had anyway been planning to go purchase more).
+
+### Continued reasonable health
+
+For the rest of the day (2024-04-25) I continued to be reasonably
+functionally well. A lot of the morning and early afternoon was spent
+in documentation work and wrapping up various threads, so my first
+meal of the day was delayed to 4 PM, by which time my pain had cleared
+enough for me to feel hungry.
+
+I did have to do a large load of regular laundry, which ended up
+resulting in me delaying dinner to about 9 PM, going to bed fairly
+late (around 12:30 AM).
+
+## The next day (2024-04-26)
+
+On 2024-04-26, I woke up around 8:40 AM, so I got a decent eight hours
+of sleep, like the previous day, but still not enough to catch up on
+the minor backlog built on Tuesday. I went for a bowel movement around
+10:20 AM, once there was enough pressure. I had a fairly small bowel
+movement, but unlike the previous day (2024-04-25) I did not try to
+push too hard. I did not experience much abdominal pain.
+
+I had a lot of threads to wrap up, so I ended up having my meal around
+1:15 PM.
+
+Considering that I don't have any big deliverables with work and
+personal projects, don't need to cook or do laundry, and don't plan to
+go exercise, I expect to be able to sleep a little early and thereby
+catch up on the sleep backlog.
+
+## Potential causes and aggravating factors
+
+### Food factors
+
+* The food on Sunday 2024-04-21 was from a new source, and the kind of
+  food is not something I regularly partake of, though it's also not
+  food I have never had. I did have a few symptoms (slight soreness of
+  throat) in the day after having the food, but was otherwise fine. I
+  had a normal bowel movement from Monday 2024-04-22 to Wednesday
+  2024-04-24.
+
+* The outside food on 2024-04-24 from Udupi Palace may not have agreed
+  with me. This would be weird, though, since I've had this food
+  several times without issues, so unless there was something
+  specifically wrong this time, I don't see the problem.
+
+Either of these, or just some other food that I regularly consume, may
+have contributed either in terms of the food itself, or some sort of
+contamination of the food. I do not have any other indications of
+contamination though.
+
+### Sleep factors
+
+* Going from Saturday 2024-04-20 to Sunday 2024-04-21, I had to wake
+  up early (around 5:45 AM), so I went to sleep early as well (around
+  10 PM). Although the number of hours in bed was about normal, it
+  took me some time to fall asleep after going to bed around 10 PM, so
+  effectively I had fewer hours of sleep, and indeed I was unable to
+  have a bowel movement when I woke up on Sunday morning. However, my
+  digestive cycle *seemed* to be back to normal on the morning of
+  Monday 2024-04-22.
+
+* I got only 5.5 hours of sleep (around 2 AM to 7:30 AM) from
+  2024-04-23 to 2024-04-24 (the day before my weird symptoms) which
+  created a slight sleep backlog. However, I did have a normal bowel
+  movement on 2024-04-24, so there was no immediate impact on my
+  digestive cycle, and I generally expect the digestive cycle impact
+  to be immediate.
+
+* From 2024-04-24 to 2024-04-25, I had about eight hours of sleep
+  (11:30 PM to 7:34 AM) which would have been enough normally, but
+  didn't include extra sleep to catch up on the backlog. Moreover, I
+  was woken up by an alarm on the morning of 2024-04-25, rather than
+  fully naturally. So I might not have had enoghou
+
+### Stress factors
+
+* **Very unusual**: From 2024-04-24 evening (when I had the Udupi
+  Palace meal) to 2024-04-25 around noon (when the acute abdominal
+  pain started subsiding) I was facing a stressful house
+  situation. While my conscious mind wasn't continually stressed about
+  it, the issue may have upset some of my autonomic nervous system.
+
+* **Moderately unusual**: I don't think I was consciously stressed
+  about the event of 2024-04-21, but it (both the event itself and the
+  travel back and forth, as well as the impacts on sleep cycle and
+  digestive cycle that I previously mentioned) was pretty unusual and
+  it may have gotten my systems a little out of whack in ways that
+  were hard to notice.
+
+* **Moderately unusual**: There's also another slightly stressful
+  thread related to my personal projects that has been going on for
+  the past few days.
+
+Overall, I would say that I don't think stress caused the issue, but
+it may have aggravated some aspects of the situation. In particular,
+it may have triggered some kind of autonomic responses overnight from
+2024-04-24 to 2024-04-25 that caused me to have more acute abdominal
+pain rather than just a smaller bowel movement.
+
+The first of the stress factors is the only one I would deem *very*
+unusual -- it's the kind of thing for which no comparable thing has
+happened for at least a year and probably for several years (though
+other *different* kinds of stressors have happened in the past few
+years that I would consider of comparable magnitude). I don't have
+enough of a track record to know how my digestive system reacts to
+these kinds of events.
+
+### Kidney stone
+
+I might have or have had a kidney stone. A stone can explain
+significant discomfort across different positions, and subsequent
+easing once the stone changes position. It's worth noting that I did
+not pass urine at the time my symptoms improved around 11:55 AM on
+2024-04-25, so the symptom improvement was not tied to passing out of
+a stone. I have also not seen any evidence of kidney stones in my
+excreted urine so far (and I do weakly expect that I would see some
+evidence of this similar to that described
+[here](https://www.mayoclinic.org/diseases-conditions/kidney-stones/symptoms-causes/syc-20355755).
+
+The notable thing about kidney stones is that they generally develop
+over a longer period of time, so that this super-recent events
+analysis likely doesn't cover the factors that led to the kidney
+stone. Among these longer-term factors, my diet is high in
+oxalates. At least, that's my unofficial sense comparing my [food
+purchases](../sql/food_purchases.sql). I don't think I drink too
+little water though; my sense is that my water consumption is
+reasonable and maybe a little bit on the higher side, though there may
+have been some periods in between where my water consumption dropped.

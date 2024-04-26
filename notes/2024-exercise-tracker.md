@@ -326,3 +326,19 @@ it also used up the time quota I might allot to exercise (plus
 more!). So, I skipped jogging and strength exercises, but I did do
 hand gripper exercises and standing-on-one-leg-with-eyes-closed
 exercises.
+
+## 2024-04-24: skipped jogging and strength exercises due to some house stuff
+
+On 2024-04-24, I had to skip jogging and strength exercises due to
+house issues.
+
+## 2024-04-25 onward: skipped jogging and strength exercises due to health issues
+
+On 2024-04-25, I skipped jogging and strength exercises due to
+[abdominal pain in the morning](2024-04-25-abdominal
+pain.md). Although the pain had subsided by the afternoon, I still
+wasn't completely back to normal.
+
+My current plan is to defer jogging and strength exercise until I have
+at least 3 full days without (nontrivial) abdominal pain and at least
+2 full days with a complete or near-complete bowel movement.
