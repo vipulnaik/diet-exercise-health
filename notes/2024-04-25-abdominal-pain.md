@@ -210,6 +210,19 @@ experienced after my [2024-04-03 dental
 cleaning](2024-04-03-dental-cleaning.md). I don't know if it was a
 continuation or a different cause.
 
+I went to sleep early, around 10 PM, with the hope that a
+longer-than-usual sleep would help me with recovery.
+
+## Two days later (2024-04-27)
+
+I naturally woke up around 6:40 PM, feeling more refreshed, though
+with continued salivation issues. However, unlike past cases of
+salivation issues, I felt I had better control and wasn't drooling.
+
+A little later, around 7:30 AM, I went for bowel movement. My bowel
+movement was fairly normal qualitatively and only a little less than
+usual in magnitude.
+
 ## Potential causes and aggravating factors
 
 ### Aftermath of dental cleaning
