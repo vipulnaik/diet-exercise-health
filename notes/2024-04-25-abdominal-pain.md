@@ -204,7 +204,22 @@ personal projects, don't need to cook or do laundry, and don't plan to
 go exercise, I expect to be able to sleep a little early and thereby
 catch up on the sleep backlog.
 
+In the evening, I experienced a resurgence of salivation and masseter
+muscle pain, though it was way less than the peak that I had
+experienced after my [2024-04-03 dental
+cleaning](2024-04-03-dental-cleaning.md). I don't know if it was a
+continuation or a different cause.
+
 ## Potential causes and aggravating factors
+
+### Aftermath of dental cleaning
+
+After my [2024-04-03 dental cleaning](2024-04-03-dental-cleaning.md),
+I experienced an increase in salivation and masster muscle
+tension. This had mostly subsided by around 2024-04-18. However, it's
+possible that some of the same causes for it also triggered the
+abdomiinal pain. The resurgence of salivation on 2024-04-26 evening,
+the day after the abdominal pain, is suggestive of this.
 
 ### Food factors
 

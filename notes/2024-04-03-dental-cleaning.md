@@ -304,6 +304,13 @@ have a bit of excess salivation, night-time/early-morning drooling,
 and jaw pain but both are within a range I can work with. I might post
 occasional status updates regarding the trajectory of my recovery.
 
+UPDATE 2024-04-26: Weirdly, I experienced an increase in salivation on
+the evening of 2024-04-26, the day after my [abdominal
+pain](2024-04-25-abdominal-pain.md). This was way less than the peak
+of salivation I had experienced in the past, but the resurgence was
+weird. I don't know if this was a continuation of the old issues or a
+totally new issue.
+
 ### Digestive issues
 
 I had minor disruptions to my digestion starting around 2024-04-08
