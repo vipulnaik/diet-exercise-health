@@ -223,6 +223,22 @@ A little later, around 7:30 AM, I went for bowel movement. My bowel
 movement was fairly normal qualitatively and only a little less than
 usual in magnitude.
 
+I had my morning meal around 11 AM. I tried a little bit of the lavash
+and felt a little bit of irritation with that, so I decided that I
+would cook another batch of rice for the evening as my current batch
+of rice was ending (if I had reacted well to the lavash, I might have
+switched back to lavash).
+
+In the evening, I cooked rice and also ended up opening my second
+almond milk yogurt pack to continue to soothe my stomach.
+
+I went to sleep around midnight.
+
+## Three days later (2024-04-28)
+
+I naturally woke up around 6:50 AM. I went for a bowel movement at
+around 7:10 AM and had a fairly normal bowel movement.
+
 ## Potential causes and aggravating factors
 
 ### Aftermath of dental cleaning
@@ -235,6 +251,8 @@ abdomiinal pain. The resurgence of salivation on 2024-04-26 evening,
 the day after the abdominal pain, is suggestive of this.
 
 ### Food factors
+
+#### One-off food factors
 
 * The food on Sunday 2024-04-21 was from a new source, and the kind of
   food is not something I regularly partake of, though it's also not
@@ -252,6 +270,23 @@ Either of these, or just some other food that I regularly consume, may
 have contributed either in terms of the food itself, or some sort of
 contamination of the food. I do not have any other indications of
 contamination though.
+
+#### Dietary changes in recent weeks
+
+I normally have Alvarado Sprouted Wheat Tortillas from Trader Joe's as
+my main source of wheat; however, starting around 2024-04-08, Trader
+Joe's ran out of stock for these so I started buying other
+alternatives, including TJ Carb Savvy Tortillas, TJ Indian Style
+Flatbread, and TJ Whole Wheat Lavash. I ultimately settled on TJ Whole
+Wheat Lavash since the Carb Savvy Tortillas also ran out of stock, and
+the flatbread was too heavy for me. Although the lavash was pretty
+reasonable, it is not quite as good as the sprouted wheat.
+
+While I didn't experience any clear negative reaction (other than
+enjoying the taste less) before the abdominal pain, I did notice after
+the abdominal pain that sampling a little bit of the lavash did make
+me feel a bit irritated. I don't know if it is psychosomatic, but this
+led me to stick to rice for a few more days.
 
 ### Sleep factors
 
