@@ -81,8 +81,9 @@ queries = [
     sum(vitamin_k_in_mcg * total_quantity) / 91 as daily_vitamin_k_in_mcg,
     sum(magnesium_in_mg * total_quantity) / 91 as daily_magnesium_in_mg,
     sum(phosphorus_in_mg * total_quantity) / 91 as daily_phosphorus_in_mg,
-    sum(zinc_in_mg * total_quantity) as daily_zinc_in_mg,
-    sum(copper_in_mg * total_quantity) as daily_copper_in_mg
+    sum(zinc_in_mg * total_quantity) / 91 as daily_zinc_in_mg,
+    sum(copper_in_mg * total_quantity) / 91 as daily_copper_in_mg,
+    sum(oxalate_in_mg * total_quantity) / 91 as daily_oxalate_in_mg
     from recently_purchased_items_with_frequencies_and_nutrition;""",
 
     """
@@ -113,8 +114,9 @@ queries = [
     sum(vitamin_k_in_mcg * total_quantity) / 91 as daily_vitamin_k_in_mcg,
     sum(magnesium_in_mg * total_quantity) / 91 as daily_magnesium_in_mg,
     sum(phosphorus_in_mg * total_quantity) / 91 as daily_phosphorus_in_mg,
-    sum(zinc_in_mg * total_quantity) as daily_zinc_in_mg,
-    sum(copper_in_mg * total_quantity) as daily_copper_in_mg
+    sum(zinc_in_mg * total_quantity) / 91 as daily_zinc_in_mg,
+    sum(copper_in_mg * total_quantity) / 91 as daily_copper_in_mg,
+    sum(oxalate_in_mg * total_quantity) / 91 as daily_oxalate_in_mg
     from previously_purchased_items_with_frequencies_and_nutrition;""",
 
     """
@@ -132,6 +134,8 @@ queries = [
     "select * from daily_amounts_by_epoch where daily_sugars_in_grams > 45;",
 
     "select * from daily_amounts_by_epoch where daily_protein_in_grams < 45;",
+
+    "select * from daily_amounts_by_epoch where daily_oxalate_in_mg > 300;",
 ]
 
 _connection = connection.connect()
