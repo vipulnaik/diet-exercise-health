@@ -239,6 +239,25 @@ I went to sleep around midnight.
 I naturally woke up around 6:50 AM. I went for a bowel movement at
 around 7:10 AM and had a fairly normal bowel movement.
 
+I cooked my potatoes prep in the morning and had my meal around 11
+AM. I had my second meal around 5 PM. I felt fairly normal during the
+day though still a little heavy in the abdominal area. I went to sleep
+shortly before midnight. Around the time of going to sleep, I did feel
+(in addition to being a bit heavy in the abdominal area) a little bit
+of postural discomfort (not outside the range of what I occasionally
+feel even when well) that I anticipated partly to staying up late. The
+discomfort persisted a little bit when I lay down but soon subsided
+and I had a decent sleep.
+
+## Four days later (2024-04-29)
+
+I got up around 6:35 AM to urinate, then went back to bed for an hour.
+
+When I woke up, I continued to feel a little heavy in the abdominal
+area, but otherwise was fine -- I had a normal bowel movement. After
+the bowel movement, I felt largely fine, though still a little
+sluggish.
+
 ## Potential causes and aggravating factors
 
 ### Aftermath of dental cleaning
