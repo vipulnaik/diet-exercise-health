@@ -258,6 +258,28 @@ area, but otherwise was fine -- I had a normal bowel movement. After
 the bowel movement, I felt largely fine, though still a little
 sluggish.
 
+Slight abdominal discomfort continued through the day, and it seemed
+to be higher up than before (above the belly).
+
+At around 3:50 PM I decided to initiate a teleconsultation. I
+requested a teleconsultation via Teladoc (through my insurance). I
+filled in my history and indicated that my problem was a type of
+pain. I gave my phone number and was told I'll get a callback
+shortly. I got a callback within a minute.
+
+The doctor who called me asked me a bunch of questions that elicited
+some portion of the details shared here. Based on my answers, he said
+that I didn't fit in any particular condition based on the
+information, but he recommended going to urgent care where they may do
+a physical exam and run blood tests and a urine test. The urine test
+would be on-site. I asked about kidney stones and he said that the
+urine test would help with determining that.
+
+I went to the Milvia Urgent Care facility of Sutter Health, arriving
+there a little before 5:30 PM, but they had a long enough queue of
+patients until their closing time, so I left with the intention of
+returning on a later date.
+
 ## Potential causes and aggravating factors
 
 ### Aftermath of dental cleaning

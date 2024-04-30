@@ -238,8 +238,8 @@ recorded in [food_purchases.sql](../sql/food_purchases.sql).
 
 ## Monday April 29
 
-In the evening, I first went to the Sutter Urgent Care facility to see
-if I could be examined for my [abdominal
+In the evening, I first went to the Milvia Urgent Care facility of
+Sutter Health to see if I could be examined for my [abdominal
 pain](2024-04-25-abdominal-pain.md). However, they had a long enough
 queue of patients until their closing time, so I left with the
 intention of returning on a later date. I then did my regular grocery
