@@ -127,9 +127,9 @@ queries = [
     union
       select *, 'previous' as epoch from previous_daily_amounts;""",
 
-    "select * from daily_amounts_by_epoch where daily_total_carb_in_grams < 225 or daily_total_carb_in_grams > 325;",
+    "select * from daily_amounts_by_epoch where daily_total_carb_in_grams < 225 or daily_total_carb_in_grams > 335;",
 
-    "select * from daily_amounts_by_epoch where daily_total_fat_in_grams < 50 or daily_total_fat_in_grams > 100;",
+    "select * from daily_amounts_by_epoch where daily_total_fat_in_grams < 50 or daily_total_fat_in_grams > 110;",
 
     "select * from daily_amounts_by_epoch where daily_sugars_in_grams > 45;",
 
