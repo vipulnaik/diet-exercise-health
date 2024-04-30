@@ -280,6 +280,26 @@ there a little before 5:30 PM, but they had a long enough queue of
 patients until their closing time, so I left with the intention of
 returning on a later date.
 
+I had dinner around 7:30 PM.
+
+I went to sleep around 10:25 PM. This was both due to my desire to
+sleep early in order to get enough sleep (as I suspected that my sleep
+needs were a little higher than usual due to whatever healing my
+system needed to do) and because I was in fact feeling sleepy.
+
+### Five days later (2024-04-30)
+
+I woke up around 6:40 AM and urinated, then went back to sleep. I
+properly woke up a little before 7:30 AM.
+
+I went for bowel movement at around 7:45 AM. I had a regular bowel
+movement. I verified that I did not see any red or black marks (that
+might indicate GI bleeding).
+
+I continued to feel a little bit of abdominal discomfort, but it was a
+little less than what I remember of yesterday, and it wasn't severe
+enough to get in my way,
+
 ## Potential causes and aggravating factors
 
 ### Aftermath of dental cleaning
