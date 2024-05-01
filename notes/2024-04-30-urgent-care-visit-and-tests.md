@@ -8,7 +8,7 @@ the visit, excluding some confidental information.
 ## Arrival and checkin around 3 PM
 
 Around 3 PM, I arrived at the urgent care and went to one of the
-counters. I had to show an ID proof and insurace proof, then had to
+counters. I had to show an ID proof and insurance proof, then had to
 sign a few documents, after which I was directed to wait in the
 waiting room area. Something about the air made me a little bit
 irritated in the eyes and throat in the beginning, but within a few
