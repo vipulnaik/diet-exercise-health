@@ -244,6 +244,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('April 2024 Sutter Health urine test','Urine bilirubin',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
   ('April 2024 Sutter Health urine test','Urine ketones',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
   ('April 2024 Sutter Health urine test','Urine specific gravity','unitless',1.001,1.030,1.010,'Normal','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine blood',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
   ('April 2024 Sutter Health urine test','Urine pH','unitless',5.0,7.0,6.0,'Normal','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
   ('April 2024 Sutter Health urine test','Urine protein',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
   ('April 2024 Sutter Health urine test','Urobilinogen in urine','EU/dL',0.2,1.0,0.2,'Normal','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
