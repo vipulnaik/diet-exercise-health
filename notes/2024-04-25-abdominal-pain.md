@@ -381,7 +381,7 @@ led me to stick to rice for a few more days.
   (11:30 PM to 7:34 AM) which would have been enough normally, but
   didn't include extra sleep to catch up on the backlog. Moreover, I
   was woken up by an alarm on the morning of 2024-04-25, rather than
-  fully naturally. So I might not have had enoghou
+  fully naturally. So I might not have had enough sleep.
 
 ### Stress factors
 
