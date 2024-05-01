@@ -71,6 +71,10 @@ upper abdominal. It's mostly in the middle, not the left or
 right. Also, I occasionally feel some discomfort in the middle on the
 back spine.
 
+He asked me how I would rate the pain on a scale from 0 to 10. When I
+clarified that it varies a lot, he asked me how I would rate it over
+the course of today. I said it varies between a 0, 1, and 2.
+
 ### Physical exam
 
 He then did a physical exam. He asked me to pull up the clothing over
