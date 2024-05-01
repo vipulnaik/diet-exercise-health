@@ -300,7 +300,17 @@ I continued to feel a little bit of abdominal discomfort, but it was a
 little less than what I remember of yesterday, and it wasn't severe
 enough to get in my way,
 
+I also made a trip to urgent care; details of the trip itself are
+recorded [here](2024-04-30-urgent-care-visit-and-tests.md).
+
 ## Potential causes and aggravating factors
+
+### Some kind of continued effect of recent travel and travel-induced stress
+
+This is a bit of a far-fetched theory that was suggested to me: we're
+more susceptible to problems in the aftermath of travel. Indeed, the
+increased salivation after the dental cleaning (see next section) may
+also be an aftereffect of recent travel.
 
 ### Aftermath of dental cleaning
 

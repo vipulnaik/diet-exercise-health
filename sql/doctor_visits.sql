@@ -1,7 +1,7 @@
 create table doctor_visits(
   `visit_date` date,
-  `doctor` enum('Jeffrey M. Aron','Tang Eye Center','Total Health Dental Care'),
-  `specialty` enum('gastro','eye','dental'),
+  `doctor` enum('Jeffrey M. Aron','Tang Eye Center','Total Health Dental Care','Milvia Urgent Care'),
+  `specialty` enum('gastro','eye','dental','urgent care'),
   `visit_notes` varchar(200)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
@@ -19,4 +19,5 @@ insert into doctor_visits(visit_date, doctor, specialty, visit_notes) values
   ('2023-08-23','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-08-23-wisdom-tooth-removal-right-side.md'),
   ('2023-09-27','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-09-27-dental-cleaning.md'),
   ('2023-10-04','Tang Eye Center','eye','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-10-04-eye-exam.md'),
-  ('2024-04-03','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2024-04-03-dental-cleaning.md');
+  ('2024-04-03','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2024-04-03-dental-cleaning.md'),
+  ('2024-04-30','Milvia Urgent Care','urgent care','https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2024-04-30-urgent-care-visit-and-tests.md');
