@@ -7,7 +7,8 @@ create table test_results(
   `measured_value` float,
   `diagnosis` varchar(255),
   `notes` varchar(2000),
-  unique key ct (`collection`, `test`)
+  unique key ct (`collection`, `test`),
+  constraint collection_exists foreign key (collection) references test_sample_collections(collection_slug)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into test_results(collection, test, units, reference_interval_low_end, reference_interval_high_end, measured_value, diagnosis, notes) values
