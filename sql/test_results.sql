@@ -157,7 +157,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('December 2016 LabCorp gastro blood tests','Immature granulocytes','%',NULL,NULL,0,NULL,'The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','Immature granulocytes (absolute)','1000/uL',0.0,0.1,0.0,'Normal','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','HbA1c','%',4.8,5.6,5.5,'Normal','The test was a part of a battery of gastro tests.'),
-  ('December 2016 LabCorp gastro blood tests','C-Reactive Protein (Cardiac)','mg/L',0.00,3.00,0.21,'Normal; low risk of future cardiovascular event (< 1.00)','The test was a part of a battery of gastro tests.'),
+  ('December 2016 LabCorp gastro blood tests','C-Reactive Protein (Cardiac)','mg/L',0.00,3.00,0.21,'Normal','Low risk of future cardiovascular event (< 1.00);  the test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','Antigliadin Abs (IgG)',NULL,0,19,2,'Negative','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','t-Transglutaminase (tTG) IgA','U/mL',0,3,2,'Negative','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','t-Transglutaminase (tTG) IgG','U/mL',0,5,2,'Negative','The test was a part of a battery of gastro tests.'),
@@ -172,7 +172,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('December 2016 LabCorp gastro blood tests','Serum immunoglobulin A','mg/dL',90,386,130,'Normal','The test was a part of a battery of gastro tests.'),
   /* Gastro stool tests */
   ('December 2016 LabCorp gastro stool tests','Fecal pancreatic elastase','mug Elast./g',200,NULL,500,'Normal','The test was a part of a battery of gastro tests.'),
-  ('December 2016 LabCorp gastro stool tests','Fecal calprotectin','mug/g',0,50,29,'Normal; Ranges: < 16 - 50 is normal, 50 - 120 is borderline and needs retesting, > 120 is abnormal and needs clinical evaluation','The test was a part of a battery of gastro tests.'),
+  ('December 2016 LabCorp gastro stool tests','Fecal calprotectin','mug/g',16,50,29,'Normal','Ranges: < 16 - 50 is normal, 50 - 120 is borderline and needs retesting, > 120 is abnormal and needs clinical evaluation. The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro stool tests','H. pylori stool Ag, EIA',NULL,NULL,NULL,NULL,'Negative','The test was a part of a battery of gastro tests.'),
   /* June 2021 Quest Diagnostics complete blood count */
   ('June 2021 Quest Diagnostics tests','WBC','1000/uL',3.8,10.8,4.2,'Normal','This test was part of a complete blood count (CBC).'),
@@ -219,4 +219,6 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('April 2024 Sutter Health blood tests','Sodium','mmol/L',136,145,140,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Potassium','mmol/L',3.5,5.1,4.1,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Chloride','mmol/L',98,107,105,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
-  ('April 2024 Sutter Health blood tests','Bicarbonate','mmol/L',21,32,30,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).');
+  ('April 2024 Sutter Health blood tests','Bicarbonate','mmol/L',21,32,30,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
+  ('April 2024 Sutter Health blood tests','Anion gap','mmol/L',2,12,5,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
+  ('April 2024 Sutter Health blood tests','Glucose','mg/dL',70,99,92,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).');

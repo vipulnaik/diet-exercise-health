@@ -34,3 +34,4 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/vaccine_administrations.sql
 	python3 python/food_types_verification_queries.py
 	python3 python/food_purchases_verification_queries.py
+	python3 python/test_results_verification_queries.py
