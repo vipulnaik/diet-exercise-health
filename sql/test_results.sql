@@ -234,4 +234,16 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('April 2024 Sutter Health blood tests','Ionized calcium calc','mmol/L',0.88,1.05,0.98,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Osmolality calc, serum','mOsm/kg',275,290,280,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   /* April 2024 Sutter Health lipase (not fasting; 6.5 hours after meal) */
-  ('April 2024 Sutter Health blood tests','Lipase','IU/L',13,77,30,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).');
+  ('April 2024 Sutter Health blood tests','Lipase','IU/L',13,77,30,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
+  /* April 2024 Sutter Health urine (not fasting; 6.5 hours after meal) */
+  ('April 2024 Sutter Health urine test','Urine color','unitless',NULL,NULL,NULL,'Normal','Yellow color. This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine appearance','unitless',NULL,NULL,NULL,'Normal','Clear. This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine glucose',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine bilirubin',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine ketones',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine specific gravity','unitless',1.001,1.030,1.010,'Normal','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine pH','unitless',5.0,7.0,6.0,'Normal','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine protein',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urobilinogen in urine','EU/dL',0.2,1.0,0.2,'Normal','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine nitrite',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  ('April 2024 Sutter Health urine test','Urine leukocytes',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.');
