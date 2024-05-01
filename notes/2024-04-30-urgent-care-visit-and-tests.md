@@ -214,7 +214,8 @@ The person who was administering the tests to me then set a timer for
 15 minutes later.
 
 I then drank the concoction, put on my mask, and had my blood drawn
-for the three blood tests.
+for the three blood tests. The time for the blood draw is shown as
+4:58 PM.
 
 When the timer was hit, I did the breathing out thing again. This time
 I was able to blow enough air in and the test went through.
