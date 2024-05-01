@@ -28,11 +28,12 @@ while wearing a mask, taking off the sweatshirt etc., got me in a
 somewhat heightened state. She measured my blood pressure and also had
 me put my finger in the pulse oximeter. The measurement came to
 154/83, with a heart rate measurement of 82 (I saw 69 on the monitor,
-but 82 is what was entered on my chart). This seemd to be very high,
-so we did another measurement with me laying back a little bit, after
-the initial excitement of moving and talking had subsided. With this
-second reading, we got 122/84, which is still a little high, but more
-believable.
+but 82 is what was entered on my chart). My respiration was measured
+as 18 breaths per minute. All of these seem much higher than my steady
+state, with my BP particularly high, so we did another measurement
+with me laying back a little bit, after the initial excitement of
+moving and talking had subsided. With this second reading, we got
+122/84, which is still a little high, but more believable.
 
 Some of the information I gave her:
 
