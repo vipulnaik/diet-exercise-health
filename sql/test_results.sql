@@ -21,11 +21,11 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('November 2017 Columbia Asia vitamin and lipid profile tests','B12','pg/mL',180,914,167,'Intermediate','This test was taken before starting any regular Vitamin B12 supplementation. Guidance says: < 145 pg/mL is deficient, 145-180 is intermediate, and 180-914 is normal'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','B12','pg/mL',187,883,173.6,'Deficient','This test was taken before starting any regular Vitamin B12 supplementation'),
   ('September 2018 LabCorp vitamin tests','B12','pg/mL',232,1245,1050,'Sufficient','This test was taken after about 10 months of regular Vitamin B12 supplementation, at 1000 mcg per tablet and a little over 1 tablet per day on average'),
-  /* HbA1c tests */
+  /* HbA1c tests (there is also an earlier test that was part of a gastro panel) */
   ('June 2021 Quest Diagnostics tests','HbA1c','%',0,5.7,5.0,'Normal','This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
   ('June 2021 Quest Diagnostics tests','HbA1c eAG','mg/dL',NULL,NULL,97,NULL,'This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
   ('June 2021 Quest Diagnostics tests','HbA1c eAG (mmol/L)','mmol/L',NULL,NULL,5.4,NULL,'This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
-  /* Calcium tests */
+  /* Calcium tests (there's another later test that was part of a comprehensive metabolic panel) */
   ('June 2021 Quest Diagnostics tests','Calcium','mg/dL',8.6,10.3,9.6,'Normal','This test was taken to provide a baseline caclium measurement, after 3.5 years of Vitamin D supplementation and about 2 years of calcium supplementation.'),
   /* Insulin test */
   ('June 2021 Quest Diagnostics tests','Insulin','uIU/L',0,19.6,3.6,'Normal','This test was taken to provide a baseline insulin measurement in light of diabetic tendencies.'),
