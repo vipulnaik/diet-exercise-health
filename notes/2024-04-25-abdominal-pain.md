@@ -287,6 +287,10 @@ sleep early in order to get enough sleep (as I suspected that my sleep
 needs were a little higher than usual due to whatever healing my
 system needed to do) and because I was in fact feeling sleepy.
 
+I believe sometime during the day on this day I tried to measure my
+heart rate and SpO2 with the pulse oximeter, but got no
+reading. However, it may have been the next day (2024-04-30).
+
 ### Five days later (2024-04-30)
 
 I woke up around 6:40 AM and urinated, then went back to sleep. I
@@ -309,7 +313,25 @@ I went to sleep around 10:50 PM.
 
 I woke up around 7:20 AM.
 
-I went for  bowel movement around 7:40 AM and had a normal bowel movement.
+I went for bowel movement around 7:40 AM and had a normal bowel
+movement.
+
+I had my meals at around 11:20 AM and 4:40 PM respectively.
+
+I went to sleep around 10:25 PM.
+
+## Seven days later (2024-05-02)
+
+I woke up around 6:20 AM to urinate, then went back to bed and got up
+again around 7:20 AM.
+
+I went for bowel movement around 7:45 AM and had a normal bowel
+movement.
+
+I had my first meal around 1:15 PM.
+
+I took a pulse oximeter reading around 4:40 PM. For the first time in
+a while, I got a clear reading of around 55-65 bpm and SpO2 of 97-98%.
 
 ## Thermal comfort
 
