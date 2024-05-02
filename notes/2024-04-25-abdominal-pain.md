@@ -303,6 +303,125 @@ enough to get in my way,
 I also made a trip to urgent care; details of the trip itself are
 recorded [here](2024-04-30-urgent-care-visit-and-tests.md).
 
+I went to sleep around 10:50 PM.
+
+## Six days later (2024-05-01)
+
+I woke up around 7:20 AM.
+
+I went for  bowel movement around 7:40 AM and had a normal bowel movement.
+
+## Thermal comfort
+
+After the chills I experienced on 2024-04-25, and clearly feeling more
+chilly than usual on that day, I didn't feel any outright chills after
+that. However, I did notice some changes to my thermal comfort by
+around 2 degrees Celsius or about 4 degrees Fahrenheit.
+
+Normally, when the ambient temperature reaches around 24-25
+degrees Celsius (about 76 degrees Fahrenheint), I clearly feel hot
+enough to take off my sweatshirt. However, of late my threshold for
+this seems to have gone up to about 28 degrees celsius (80 degrees
+Fahrenheit).
+
+Similarly, in the morning, when the indoor temperature is around 18 to
+20 degrees celsius (64 to 68 degrees Fahrenheit), I feel more like I
+would at a temperature of around 16 degrees Celsius.
+
+## Pain interpretation
+
+This section includes notes with some thoughts on the patterns of my
+abdominal pain on 2024-04-29, 2024-04-30, and 2024-05-01. It does not
+include the acute and almost continuous pain that occurred on the
+morning of 2024-04-25. I believe I didn't have similar significant
+pain from 2024-04-25 to 2024-04-28, though I did have general bloating
+and clear indication that I shouldn't engage in vigorous physical
+activity.
+
+### Background sensation
+
+My background sensation is of a little bloating and heaviness,
+sufficient to dissuade me from vigorous physical activity that will
+involve a lot of abdominal muscle use. However, most of the time,
+there is no active pain in the area. Pressing the area does give a
+slight sense of tension release, but that's it.
+
+### Characteristics of pain triggers
+
+These characteristics have been constructed by me through some mix of
+empiricism and introspection, and have been influenced by my mental
+models of how things work. I might be falsely fitting narratives that
+aren't true. Even so, I think there's likely to be some truth to some
+of these observations.
+
+* A sudden short-run increase in physical or mental stimulation seems
+  to be a trigger for brief pain. Examples include:
+
+  * Sudden physical movement or a sudden plan to move physically, that
+    my body had not been thinking about (examples might include
+    responding to an alarm sound or phone call).
+
+  * Some little insight or thought -- positive or negative -- that I
+    have while working through some cognitive task. Normally, this
+    insight would lead to a very slight rush of energy, which would
+    then fall. However, I've noticed these days that sometimes that
+    slight rush of energy is accompanied by slight pain, and that
+    might also cause the rush of energy to be a bit higher to
+    compensate (for more on the compensation mechanism, see the next
+    point about offline versus online).
+
+  Interestingly, for the most part, it seems that planned or gradual
+  increases in physical or mental stimulation don't seem to have that
+  pain effect. For instance, getting up to get ready for a planned
+  outdoor trip seems to not cause any pain sensations. Similarly, the
+  very limited exercises that I've been doing (occasional hand gripper
+  use, standing-on-one-leg-with-eyes-closed exercises, and breath
+  holds) do not seem to create any pain at least in the beginning, and
+  the pain only starts being hinted at when I'm at around the
+  threshold that I had previously been able to attain while feeling
+  well.
+
+* I seem to consciously experience pain more when I am "offline" --
+  not in a physical or social situation where I need to be attentive
+  and alert continuously. I believe that in more "online" situations
+  -- including ones where I am physically interacting with somebody or
+  on a phone call or meeting -- I compensate for what would otherwise
+  lead to pain, by ramping up my "sympathetic activity" (per my folk
+  understanding) to suppress the pain, something that could result in
+  sharp increases in blood pressure, heart rate, and breathing
+  rate. Something of this sort was likely playing a part during my
+  urgent care trip, which might explain why I didn't experience pain
+  while being examined, while also explaining elevation of the various
+  metrics during examination.
+
+  I've also noticed a little more pain in the period shortly after I
+  go offline from an intense online experience, so whatever pain I
+  suppressed while online probably comes back to bite me when I go
+  offline.
+
+  Since the majority of my time is offline, it's the offline
+  characteristics that matter more to my average subjective
+  experience, and getting to a good state offline will likely improve
+  my overall condition.
+
+* The pain for a similar trigger seems to be slightly higher in the
+  morning. This could be due to just having competed a bowel movement,
+  due to not having eaten for a while, or due to it being a little
+  colder in the morning (in light of my changed thermal comfort
+  profile).
+
+### My just-so story
+
+My just-so story is that my enteric nervous system thinks that I
+should not overly stimulate myself physically or mentally, perhaps in
+order to preserve resources for ongoing repair or healing work that's
+going on there. It also "appreciates a heads-up" if I do want to
+stimulate myself, so as to perhaps put a pause on the repair work to
+allow me a brief period of stimulation. That's why sudden, unplanned
+stimulation causes it to signal pain. Also, if it detects a pattern
+where overall I'm not giving it enough resources for repair, it'll
+signal pain even if nothing was done to it suddenly.
+
 ## Potential causes and aggravating factors
 
 ### Some kind of continued effect of recent travel and travel-induced stress
