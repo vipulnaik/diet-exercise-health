@@ -249,4 +249,6 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('April 2024 Sutter Health urine test','Urine protein',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
   ('April 2024 Sutter Health urine test','Urobilinogen in urine','EU/dL',0.2,1.0,0.2,'Normal','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
   ('April 2024 Sutter Health urine test','Urine nitrite',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
-  ('April 2024 Sutter Health urine test','Urine leukocytes',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.');
+  ('April 2024 Sutter Health urine test','Urine leukocytes',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
+  /* April 2024 Sutter Health breath */
+  ('April 2024 Sutter Health urease breath test','H. pylori',NULL,NULL,NULL,NULL,'Negative','This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.');
