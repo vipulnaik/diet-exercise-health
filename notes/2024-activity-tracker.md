@@ -245,3 +245,13 @@ queue of patients until their closing time, so I left with the
 intention of returning on a later date. I then did my regular grocery
 purchases at Trader Joe's as recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Tuesday April 30
+
+In the afternoon, I first went to the Milvia Urgent Care facility of
+Sutter Health to see if I could be examined for my [abdominal
+pain](2024-04-25-abdominal-pain.md); details of the trip are
+[here](2024-04-30-urgent-care-visit-and-tests.md). On the way back, I
+stopped at Walgreens for a prescription pickup and at Berkeley Bowl to
+get groceries; the latter is recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
