@@ -811,7 +811,7 @@ I went to bed around 10:15 PM.
 
 I got up around 3 AM and passed stool, that was still somewhat watery
 though not extremely so. After passing stool, I spent a bit of time on
-my computer (3:30 to 3:45)
+my computer (3:30 to 3:45).
 
 I then went back to bed.
 
