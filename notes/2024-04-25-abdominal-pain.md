@@ -215,7 +215,7 @@ longer-than-usual sleep would help me with recovery.
 
 ## Two days later (2024-04-27)
 
-I naturally woke up around 6:40 PM, feeling more refreshed, though
+I naturally woke up around 6:40 AM, feeling more refreshed, though
 with continued salivation issues. However, unlike past cases of
 salivation issues, I felt I had better control and wasn't drooling.
 
@@ -332,6 +332,17 @@ I had my first meal around 1:15 PM.
 
 I took a pulse oximeter reading around 4:40 PM. For the first time in
 a while, I got a clear reading of around 55-65 bpm and SpO2 of 97-98%.
+
+I had my second meal around 6:30 PM.
+
+I went to sleep around 10:20 PM.
+
+## Eight days later (2024-05-03)
+
+I woke up around 6:12 AM to urinate, then went back to bed.
+
+I properly woke up around 7:25 AM. I went for my bowel movement around
+7:40 AM and had a normal bowel movement.
 
 ## Thermal comfort
 
