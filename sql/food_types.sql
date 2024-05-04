@@ -436,6 +436,17 @@ insert into food_types(short_name, long_name, url, calories,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
   /* notes */ 'The serving size used is 140 grams, with 2.5 servings per container. All values were therefore multiplied by 2.5.'),
 
+  ('Kite Hill Greek Style Plant-Based Yogurt','Kite Hill Greek Style Plant-Based Yogurt','https://www.amazon.com/Kite-Hill-Plain-Unsweetened-Yogurt/dp/B09KTCNZMT',360,
+  /* fat-related columns */ 16,1.5,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 430,568,
+  /* carbohydrate-related columns */ 12,3,1,
+  /* protein-related columns */ 46,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,149,8,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* notes */ 'I directly used the values for the whole container printed on the physical container.'),
+
   ('Cocojune Organic Pure Coconut Dairy Free Yogurt','Cocojune Organic Pure Coconut Dairy Free Yogurt 16 oz','https://www.cocojune.co/products/pure-coconut/',760,
   /* fat-related columns */ 72,60,0,NULL,NULL,
   /* cholesterol */ 0,
@@ -534,7 +545,18 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,0,120,9.6,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
-  /* notes */ 'The information at https://www.fooducate.com/product/Trader-Joe-s-Whole-Wheat-Lavash-Flatbread/5650DF8C-861A-DE3F-4F78-A6CD3099DD3A is somewhat outdated.');
+  /* notes */ 'The information at https://www.fooducate.com/product/Trader-Joe-s-Whole-Wheat-Lavash-Flatbread/5650DF8C-861A-DE3F-4F78-A6CD3099DD3A is somewhat outdated.'),
+
+  ('TJ Mixed Baby Kale','Trader Joe''s Organic Mixed Baby Kale 5 oz',NULL,83.52,
+  /* fat-related columns */ 1.67,0,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 50,701.6,
+  /* carbohydrate-related columns */ 11.69,5,3.34,
+  /* protein-related columns */ 6.68,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,217,2,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */14.2, /* using https://ohf.org/vegetables-oxalate/ that gives 10 mg per 100 g, scaled up to 142 g which is the container size*/
+  /* notes */ 'The serving size is 85 g; the container size is 142 g, so the data had to be scaled by a factor of 142/85.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right

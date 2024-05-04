@@ -2525,12 +2525,12 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-04-29','TJ Almond Milk',1),
   ('2024-04-29','Red bell pepper',2),
   ('2024-04-29','Green bell pepper',4),
-  ('2024-04-29','TJ Baby Kale',2),
+  ('2024-04-29','TJ Mixed Baby Kale',2),
   ('2024-04-29','TJ Broccoli Florets 12 oz',1),
   ('2024-04-29','TJ English Shelled Peas',3),
   ('2024-04-29','Eggplant',2),
   ('2024-04-29','Beefsteak tomato',14),
   /* 2024-04-30 Berkeley Bowl; total cost $16.86; checkout at 5:44 PM; paid by debit card */
   ('2024-04-30','Lundberg Sustainable California White Basmati Rice',1),
-  ('2024-04-30','Kite Hill Greek Style Plant Based Yogurt',2),
+  ('2024-04-30','Kite Hill Greek Style Plant-Based Yogurt',2),
   ('2024-04-30','Lemon',1);
