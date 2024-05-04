@@ -1,7 +1,7 @@
 create table food_waste(
   `waste_date` date not null,
   `food_type` varchar(200),
-  `quantity` float(11,2),
+  `quantity` decimal(11,2),
   `notes` varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
