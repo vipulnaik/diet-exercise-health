@@ -344,6 +344,14 @@ I woke up around 6:12 AM to urinate, then went back to bed.
 I properly woke up around 7:25 AM. I went for my bowel movement around
 7:40 AM and had a normal bowel movement.
 
+I had my meals around 11:05 AM and 5 PM.
+
+I went to sleep around 11 PM.
+
+## Nine days later (2024-05-04)
+
+I woke up around 7:04 AM. I had my bowel movement around 7:25 AM.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
