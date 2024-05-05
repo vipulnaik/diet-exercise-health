@@ -352,6 +352,33 @@ I went to sleep around 11 PM.
 
 I woke up around 7:04 AM. I had my bowel movement around 7:25 AM.
 
+I had my meals at around 10 AM and 5 PM respectively.
+
+Considering my general pain range from 0 to 2, this day was
+interesting in that, unlike early in the week, my pain didn't reach a
+2, but it was at a 1 (compared to the modal value of 0) for a much
+larger fraction of the day than previous days. I have three theories
+for this:
+
+* It was considerably colder (see [Thermal comfort](#thermal-comfort)
+  section below).
+
+* Due to the need to be up a little earlier, and having slept a little
+  later, I did not get extra sleep as I had been getting in the last
+  few days.
+
+* Perhaps the lavash getting drier caused some added irritation; I
+  acted on this by disposing of the remaining lavash; see
+  [food_waste.sql](../sql/food_waste.sql) for details.
+
+## Ten days later (2024-05-05)
+
+I woke up around 6:15 AM to urinate, then went back to sleep. I woke
+up again around 7:10 AM for good.
+
+I went to the restroom a little before 8 AM. I had a full bowel
+movement.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
