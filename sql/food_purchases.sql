@@ -2533,4 +2533,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2024-04-30 Berkeley Bowl; total cost $16.86; checkout at 5:44 PM; paid by debit card */
   ('2024-04-30','Lundberg Sustainable California White Basmati Rice',1),
   ('2024-04-30','Kite Hill Greek Style Plant-Based Yogurt',2),
-  ('2024-04-30','Lemon',1);
+  ('2024-04-30','Lemon',1),
+  /* 2024-05-05 Berkeley Bowl; total cost $29.35; checkout at 4:28 PM; paid by debit card */
+  ('2024-05-05','Lundberg Sustainable California White Basmati Rice',3),
+  ('2024-05-05','Morton Iodized Salt',1),
+  ('2024-05-05','Kite Hill Greek Style Plant-Based Yogurt',1);
