@@ -240,3 +240,29 @@ it today.
 I made a brief trip to Berkeley Bowl and then returned at around 5:52
 PM and successfully collected my prescription. I had a copay of $1,
 which, with taxes, came to $1.17.
+
+## Cost breakdown
+
+My insurance billed me $444.91 for the visit plus urine test, with a
+provider-billed amount of $593 and in-network savings of $148.09. The
+breakdown was as follows:
+
+* Office/outpatient new moderate mdm 45 minutes (mdm seems to stand
+  for "medical management" as opposed to "surgical management"):
+  $434.29, comprising a billed amount of $576 and in-network savings
+  of $141.71.
+
+* Urinalysis test: $10.62, comprising a billed amount of $17 and
+  in-network savings of $6.38.
+
+I do not appear to have been billed yet for the blood tests and breath
+test (this bill would come from the lab, not the urgent care). So I
+don't know what that cost looks like.
+
+I had been under the impression that the urgent care visit itself
+would be covered by insurance, but this impression appears to have
+been due to a caching of a prior misreading of the details of the
+insurance plan (last year). The misreading was reinforced by the fact
+that the people at the front desk as well as the doctor were confident
+that I was covered by the insurance and would likely have no copay or
+only a nominal copay.
