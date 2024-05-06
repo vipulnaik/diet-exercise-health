@@ -379,6 +379,17 @@ up again around 7:10 AM for good.
 I went to the restroom a little before 8 AM. I had a full bowel
 movement.
 
+I had my meals around 9:35 AM and 5 PM.
+
+I went to sleep a little after 11 PM.
+
+## Eleven days later (2024-05-06)
+
+I woke up around 3:25 AM to urinate and close the window, as it was
+much colder than it had been at night when I went to sleep.
+
+I went back to sleep and woke up properly around 8:08 AM.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
