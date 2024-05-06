@@ -14,6 +14,11 @@ wasn't able to have a regular bowel movement that day, but I did have
 a regular bowel movement the next day, and on the whole I felt that I
 had recovered by the next day.
 
+ADDED 2024-05-06: I also remember that I was a little physically
+twisted when I woke up around 5:45 AM, so there could have been some
+sort of internal posture issue. This may connect to some of the pain I
+experienced later.
+
 ## Amazon package pickup (Tuesday 2024-04-23)
 
 On 2024-04-23, I went for Amazon package pickup, which involved a
