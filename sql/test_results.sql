@@ -167,7 +167,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('December 2016 LabCorp gastro blood tests','Alkaline phosphatase, S','IU/L',39,117,53,'Normal','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','AST (SGOT)','IU/L',0,40,18,'Normal','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','ALT (SGPT)','IU/L',0,44,11,'Normal','The test was a part of a battery of gastro tests.'),
-  ('December 2016 LabCorp gastro blood tests','Serum lipase','U/L',0,59,30,'Normal','The test was a part of a battery of gastro tests.'),
+  ('December 2016 LabCorp gastro blood tests','Serum lipase','IU/L',0,59,30,'Normal','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','Serum immunoglobulin G','mg/dL',700,1600,765,'Normal','The test was a part of a battery of gastro tests.'),
   ('December 2016 LabCorp gastro blood tests','Serum immunoglobulin A','mg/dL',90,386,130,'Normal','The test was a part of a battery of gastro tests.'),
   /* Gastro stool tests */
@@ -236,7 +236,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('April 2024 Sutter Health blood tests','Osmolality calc, serum','mOsm/kg',275,290,280,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Serum creatinine eGFR','mL/min/1.73 m^2',60,NULL,113,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   /* April 2024 Sutter Health lipase (not fasting; 6.5 hours after meal) */
-  ('April 2024 Sutter Health blood tests','Lipase','IU/L',13,77,30,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
+  ('April 2024 Sutter Health blood tests','Serum lipase','IU/L',13,77,30,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   /* April 2024 Sutter Health urine (not fasting; 6.5 hours after meal) */
   ('April 2024 Sutter Health urine test','Urine color','unitless',NULL,NULL,NULL,'Normal','Yellow color. This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
   ('April 2024 Sutter Health urine test','Urine appearance','unitless',NULL,NULL,NULL,'Normal','Clear. This test was done about 6.5 hours after my last meal and about 2.5 hours after drinking water.'),
