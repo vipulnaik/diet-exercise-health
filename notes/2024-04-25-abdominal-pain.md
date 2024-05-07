@@ -403,6 +403,20 @@ I went for jogging + walking about 40 minutes starting around 4:30
 PM. See the [2024 activity tracker](2024-activity-tracker.md) for more
 related details.
 
+I had dinner at around 7:30 PM.
+
+I went to sleep around 11:10 PM.
+
+## Twelve days later (2024-05-07)
+
+I woke up around 6:10 AM to urinate and then properly woke up around
+7:05 AM.
+
+I went for bowel movement around 8 AM. The bowel movement was normal.
+
+As of 9 AM, while I still feel a little bit of bloating, there doesn't
+appear to be any comeuppance for my exercise of yesterday.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
