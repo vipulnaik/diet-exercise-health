@@ -1,6 +1,18 @@
 # 2024-04-25: abdominal pain
 
-## Earlier in the week (Sunday 2024-04-21)
+Sections of this document:
+
+* [The previous few days](#the-previous-few-days)
+* [The day before (2024-04-24)](#the-day-before-2024-04-24)
+* [The day of (2024-04-25)](#the-day-of-2024-04-25)
+* [The next few days](#the-next-few-days)
+* [Thermal comfort](#thermal-comfort)
+* [Pain interpretation](#pain-interpretation)
+* [Potential causes and aggravating factors](#potential-causes-and-aggravating-factors)
+
+## The previous few days
+
+### Four days prior (Sunday 2024-04-21): out for an event for a long time
 
 On 2024-04-21, I was out for an event and ate outside food that is
 somewhat different than my usual food. The experience also involved
@@ -19,7 +31,7 @@ twisted when I woke up around 5:45 AM, so there could have been some
 sort of internal posture issue. This may connect to some of the pain I
 experienced later.
 
-## Amazon package pickup (Tuesday 2024-04-23)
+### Two days prior (Tuesday 2024-04-23): Amazon package pickup
 
 On 2024-04-23, I went for Amazon package pickup, which involved a
 decent amount of walking with a heavy load. However, I did skip
@@ -192,7 +204,9 @@ I did have to do a large load of regular laundry, which ended up
 resulting in me delaying dinner to about 9 PM, going to bed fairly
 late (around 12:30 AM).
 
-## The next day (2024-04-26)
+## The next few days
+
+### The next day (2024-04-26)
 
 On 2024-04-26, I woke up around 8:40 AM, so I got a decent eight hours
 of sleep, like the previous day, but still not enough to catch up on
@@ -218,7 +232,7 @@ continuation or a different cause.
 I went to sleep early, around 10 PM, with the hope that a
 longer-than-usual sleep would help me with recovery.
 
-## Two days later (2024-04-27)
+### Two days later (2024-04-27)
 
 I naturally woke up around 6:40 AM, feeling more refreshed, though
 with continued salivation issues. However, unlike past cases of
@@ -239,7 +253,7 @@ almond milk yogurt pack to continue to soothe my stomach.
 
 I went to sleep around midnight.
 
-## Three days later (2024-04-28)
+### Three days later (2024-04-28)
 
 I naturally woke up around 6:50 AM. I went for a bowel movement at
 around 7:10 AM and had a fairly normal bowel movement.
@@ -254,7 +268,7 @@ feel even when well) that I anticipated partly to staying up late. The
 discomfort persisted a little bit when I lay down but soon subsided
 and I had a decent sleep.
 
-## Four days later (2024-04-29)
+### Four days later (2024-04-29)
 
 I got up around 6:35 AM to urinate, then went back to bed for an hour.
 
@@ -314,7 +328,7 @@ recorded [here](2024-04-30-urgent-care-visit-and-tests.md).
 
 I went to sleep around 10:50 PM.
 
-## Six days later (2024-05-01)
+### Six days later (2024-05-01)
 
 I woke up around 7:20 AM.
 
@@ -325,7 +339,7 @@ I had my meals at around 11:20 AM and 4:40 PM respectively.
 
 I went to sleep around 10:25 PM.
 
-## Seven days later (2024-05-02)
+### Seven days later (2024-05-02)
 
 I woke up around 6:20 AM to urinate, then went back to bed and got up
 again around 7:20 AM.
@@ -342,7 +356,7 @@ I had my second meal around 6:30 PM.
 
 I went to sleep around 10:20 PM.
 
-## Eight days later (2024-05-03)
+### Eight days later (2024-05-03)
 
 I woke up around 6:12 AM to urinate, then went back to bed.
 
@@ -353,7 +367,7 @@ I had my meals around 11:05 AM and 5 PM.
 
 I went to sleep around 11 PM.
 
-## Nine days later (2024-05-04)
+### Nine days later (2024-05-04)
 
 I woke up around 7:04 AM. I had my bowel movement around 7:25 AM.
 
@@ -376,7 +390,7 @@ for this:
   acted on this by disposing of the remaining lavash; see
   [food_waste.sql](../sql/food_waste.sql) for details.
 
-## Ten days later (2024-05-05)
+### Ten days later (2024-05-05)
 
 I woke up around 6:15 AM to urinate, then went back to sleep. I woke
 up again around 7:10 AM for good.
@@ -388,7 +402,7 @@ I had my meals around 9:35 AM and 5 PM.
 
 I went to sleep a little after 11 PM.
 
-## Eleven days later (2024-05-06)
+### Eleven days later (2024-05-06)
 
 I woke up around 3:25 AM to urinate and close the window, as it was
 much colder than it had been at night when I went to sleep.
@@ -407,7 +421,7 @@ I had dinner at around 7:30 PM.
 
 I went to sleep around 11:10 PM.
 
-## Twelve days later (2024-05-07)
+### Twelve days later (2024-05-07)
 
 I woke up around 6:10 AM to urinate and then properly woke up around
 7:05 AM.
@@ -416,6 +430,10 @@ I went for bowel movement around 8 AM. The bowel movement was normal.
 
 As of 9 AM, while I still feel a little bit of bloating, there doesn't
 appear to be any comeuppance for my exercise of yesterday.
+
+NOTE: Starting from this point onward, I will stop daily recording,
+but will continue to record cases where something sufficiently unusual
+happened.
 
 ## Thermal comfort
 
@@ -662,3 +680,12 @@ purchases](../sql/food_purchases.sql). I don't think I drink too
 little water though; my sense is that my water consumption is
 reasonable and maybe a little bit on the higher side, though there may
 have been some periods in between where my water consumption dropped.
+
+## Proton pump inhibitor (PPI) prescription
+
+As part of my [urgent care
+visit](2024-04-30-urgent-care-visit-and-tests.md), I was prescribed a
+PPI called pantoprazole (Protonix) and picked up 30 doses of it from
+Walgreens on the way back. However, after doing further research, and
+observing the trajectory of my pain, I decided to not take the PPI. I
+may document my thinking in more detail in the future.
