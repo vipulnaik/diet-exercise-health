@@ -332,13 +332,30 @@ exercises.
 On 2024-04-24, I had to skip jogging and strength exercises due to
 house issues.
 
-## 2024-04-25 onward: skipped jogging and strength exercises due to health issues
+## 2024-04-25 to 2024-05-05: skipped jogging and strength exercises due to health issues
 
-On 2024-04-25, I skipped jogging and strength exercises due to
-[abdominal pain in the morning](2024-04-25-abdominal
+On Thursday 2024-04-25, I skipped jogging and strength exercises due
+to [abdominal pain in the morning](2024-04-25-abdominal
 pain.md). Although the pain had subsided by the afternoon, I still
 wasn't completely back to normal.
 
-My current plan is to defer jogging and strength exercise until I have
-at least 3 full days without (nontrivial) abdominal pain and at least
-2 full days with a complete or near-complete bowel movement.
+Until Sunday 2024-05-05, I skipped jogging and strength exercises
+(such as weightlifting and pushups). However, I did do a few
+lower-effort exercises that could be done at home with less strain and
+helped gauge my strength and stamina: hand gripper exercises,
+standing-on-one-leg-with-eyes-closed exercises, and breath holds. For
+all these, I was able to approximately match my state pre-illness,
+though I did feel more subjective fatigue (and in some cases a slight
+increase in abdominal pain) toward the end of the hand gripper
+exercise and breath hold.
+
+## 2024-05-06: trial run with jogging
+
+On 2024-05-06, as I was feeling somewhat better and also feeling like
+I wanted to go jogging, I decided to give jogging a try. I jogged
+slower than usual, and ended up doing 1 mile jogging plus 1 mile
+walking, compared to my usual of 1.25+ jogging and the remainder of
+the 2-mile total walking. Although it was less than my fully healthy
+self, it was reassuring to see that my stamina was not lost, and also
+that doing this exercise was not hindered by, and did not trigger,
+abdominal pain.

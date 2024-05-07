@@ -395,6 +395,14 @@ much colder than it had been at night when I went to sleep.
 
 I went back to sleep and woke up properly around 8:08 AM.
 
+I had my first meal around 12:30 PM. The significant delay was due to
+the time spent on rice prep, plus additional delay as things came up
+in relation to my day job.
+
+I went for jogging + walking about 40 minutes starting around 4:30
+PM. See the [2024 activity tracker](2024-activity-tracker.md) for more
+related details.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
