@@ -92,3 +92,12 @@ Starting this day, I am planning to do a daily practice of keeping the
 each hand separately. 5 is about what I can reasonably do right
 now. I'm hoping to increase it gradually to a larger amount, like 10
 seconds.
+
+## Update on 2024-05-07
+
+As of now, I am generally able to keep the 100 lb hand gripper closed
+in either hand for at least 10 seconds, and occasionally going up to
+20 seconds, albeit with slight quivers (where it opens up a little bit
+and I immediately close it back, in well under a second). For the 150
+lb, with my right hand, I am able to keep it closd for about 3-5
+seconds.

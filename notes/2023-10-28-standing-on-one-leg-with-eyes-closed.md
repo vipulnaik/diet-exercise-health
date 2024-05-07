@@ -26,7 +26,7 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 18 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 20 seconds with adjustments for colder temperatures)
 
 * Prior to 2023-10-28, the de facto threshold duration was 10 seconds
 
@@ -54,6 +54,23 @@ The standard version of the exercise is as follows:
   ability to stand on one leg with eyes closed is harder at colder
   temperatures.
 
+* Starting 2024-05-07, I am increasing the baseline threshold to 20
+  seconds, as I pretty consistently exceed 20 seconds on the first try
+  nowadays. The new logic is:
+
+  * Baseline of 20 seconds
+
+  * If I am doing the exercise after I return from jogging, no
+    adjustment (20 seconds remains the target)
+
+  * If I am doing the exercise without jogging or similar warmup, then
+    temperature-based adjustment as follows. If the temperature is 20
+    degrees Celsius or higher, no adjustment. If the temperature is
+    greater than 0 degrees Celsius and less than 20 degrees Celsius,
+    then the temperature rounded down in degrees Celsius. If the
+    temperature is less than 0 degrees Celsius, I shouldn't be doing
+    this exercise!
+
 ### How the threshold duration is used
 
 If I don't clear the threshold duration on my first attempt, I
@@ -63,17 +80,17 @@ could stop at 3, 5, 7, or 9 attempts).
 
 ### Full retry
 
-If I fail the full iteration, i.e., even after 7 attempts, I do not
-have a median of 12 seconds or higher, this is likely due to temporary
-stability issues. The most common reason is sleepy or trembling legs;
-this could be due to ambient cold temperatures or having been seated
-too long.
+If I fail the full iteration, i.e., even after 9 attempts, I do not
+have a median of 20 seconds (with threshold adjustment as needed) or
+higher, this is likely due to temporary stability issues. The most
+common reason is sleepy or trembling legs; this could be due to
+ambient cold temperatures or having been seated too long.
 
-In such a case, I should stand for up to two minutes (i.e., either a
-full two minutes or however long I can stand) on the same leg where
-I've failed. After success with that, I should again retry the full
-iteration. (This retry might succeed at the first try if I exceed 12
-seconds on that try, in which case I don't need to retry).
+In such a case, I should stand *with my eyes open* for up to two
+minutes (i.e., either a full two minutes or however long I can stand)
+on the same leg where I've failed. After success with that, I should
+again retry the full iteration. (This retry might succeed at the first
+try if I exceed the threshold on the first try).
 
 ### Overall exercise: both legs
 

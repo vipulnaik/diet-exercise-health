@@ -154,25 +154,31 @@ hand grippers.
 In each round, I try to do at least two attempted closes of the hand
 gripper.
 
-As of 2023-10-28, my situation is:
+As of 2024-05-07, my situation is:
 
 * Right hand on 100 lb: closes comfortably and consistently even after
-  many repetitions
+  many repetitions; can generally hold in closed position with slight
+  quivers for at least 10 seconds, occasionally up to 20 seconds
 
-* Left hand on 100 lb: closes comfortably and consistently at least for
-  the first two repetitions
+* Left hand on 100 lb: closes comfortably and consistently even after
+  many repetitions; can generally hold in closed position with slight
+  quivers for at least 10 seconds, occasionally up to 20 seconds
 
-* Right hand on 150 lb: closes consistently most of the time,
-  including on the first two repetitions
+* Right hand on 150 lb: closes consistently most of the time, up to at
+  least two repetitions; however, it may not close if I have just done
+  a long hold with the 100 lb, likely due to temporary fatigue; can
+  hold for somewhere between 3 and 5 seconds with slight quivers once
+  closed
 
 * Left hand on 150 lb: has closed a few times but most of the time,
   comes just short of closing
 
 The effective frequency may be about 4 to 8 rounds per day.
 
-If I use the hand gripper too much, I get calluses in the areas where
-I'm trying to grip hard. These are pretty harmless, but I still need
-to keep this in mind.
+If I try to force a significant increase in the hand gripper rating,
+number of closes, or duration of holding close, by too much, I get
+calluses in the areas where I'm trying to grip hard. These are pretty
+harmless, but I still need to keep this in mind.
 
 See
 [2023-07-29-hand-gripper-exercise.md](2023-07-29-hand-gripper-exercise.md)
