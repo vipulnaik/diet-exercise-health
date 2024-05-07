@@ -4,9 +4,6 @@ Last major update: October 27, 2023
 
 Last pass of full document review (with updates and corrections where needed): March 12, 2024
 
-Ongoing incident that has not yet been fully integrated into this
-document: [2024-04-25-abdominal-pain.md](2024-04-25 abdominal pain).
-
 This is the health profile for Vipul Naik. It is updated
 periodically. It does not include details of specific
 events/incidents; these are generally recorded in their own respective
@@ -99,6 +96,14 @@ exam](2023-10-04-eye-exam.md)) and 102 / 67 on 2021-10-29 (as part of
 the [2021-10-29 eye exam](2021-10-29-eye-exam.md)). These readings are
 consistent with my expectations.
 
+As part of my [2024-04-30 urgent care
+visit](2024-04-30-urgent-care-visit-and-tests.md), I had blood
+pressure readings taken and got 154/83 and 122/84; however, for
+reasons explained in the document, I believe these readings are
+distorted both due to (a) not being too well at the time, and (b)
+issues with the measurement (too much movement and talking during the
+first measurement and shortly before the second measurement).
+
 ## Physical build
 
 ### Height
@@ -183,13 +188,16 @@ and 32 being manageable with a tight belt. I do not have a paunch.
 
 ## Physical exam
 
-As of 2023, my last physical exam was in December 2016, when I went to
-a gastro specialist for my stomach pain issues. See
+As of 2023, my last full physical exam was in December 2016, when I
+went to a gastro specialist for my stomach pain issues. See
 [here](2016-11-to-2016-12-stomach-pain-and-resolution.md#doctor-visit)
 for more context.
 
-Since then, I have not had any physical exams beyond blood pressure
-measurement done as part of my eye exam.
+On 2024-04-30, I had an abdominal exam and vitals measurements as part
+of my [urgent care visit](2024-04-30-urgent-care-visit-and-tests.md).
+
+I have also had periodic blood pressure measurement done as part of my
+eye exam.
 
 ## HbA1c, lipid profile, insulin, and liver function tests
 
@@ -307,6 +315,11 @@ the desired upper limit of 25.
 In December 2016, I only got ALT and AST (no bilirubin). Both readings
 came fairly healthy; the ALT reading in particular was just 11, well
 within the desired upper limit of 25.
+
+On 2024-04-30, as part of my [urgent care
+visit](2024-04-30-urgent-care-visit-and-tests.md) I got a
+comprehensive metabolic panel (CMP). This includes some of the liver
+function tests, particularly the ALT and AST. Both came back normal.
 
 ## Infectious diseases and vaccines
 
@@ -892,6 +905,16 @@ I do not recall taking any non-supplement medication other than these
 since 2018; I also don't recall taking non-supplement medication since
 2014, though I might have taken some prior to 2018 that I don't
 recall.
+
+### Prescriptions that I did not consume
+
+On 2024-04-30, in my [urgent care
+visit](2024-04-30-urgent-care-visit-and-tests.md) in response to my
+[abdomainal pain starting 2024-04-25](2024-04-25-abdominal-pain.md), I
+was prescribed a proton pump inhibitor (PPI) called pantoprazole
+(Protonix) with the direction to take up to once daily for
+pain. However, based on my later pain trajectory and my research, I
+decided not to take the PPI.
 
 ## Surgeries
 
