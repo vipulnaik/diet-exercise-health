@@ -10,9 +10,11 @@ the visit, excluding some confidental information.
 Around 3 PM, I arrived at the urgent care and went to one of the
 counters. I had to show an ID proof and insurance proof, then had to
 sign a few documents, after which I was directed to wait in the
-waiting room area. Something about the air made me a little bit
-irritated in the eyes and throat in the beginning, but within a few
-minutes I was fine. I then waited in the waiting room area.
+waiting room area. I believe this was also the time when I was asked
+about my ongoing medications and allergies, though I'm not totally
+sure. Something about the air made me a little bit irritated in the
+eyes and throat in the beginning, but within a few minutes I was
+fine. I then waited in the waiting room area.
 
 The person at the checkin confirmed that the urgent care visit itself
 didn't have an associated copay for my insurance. However, followup
