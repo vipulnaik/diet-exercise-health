@@ -435,6 +435,10 @@ NOTE: Starting from this point onward, I will stop daily recording,
 but will continue to record cases where something sufficiently unusual
 happened.
 
+In the afternoon and early evening, I noticed a slight increase in
+salivation, though not to the level that had happened shortly after my
+dental cleaning.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
