@@ -439,6 +439,9 @@ In the afternoon and early evening, I noticed a slight increase in
 salivation, though not to the level that had happened shortly after my
 dental cleaning.
 
+The increase salivation continued after dinner and as I went to sleep,
+though it was not strong enough to cause outward drooling.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
