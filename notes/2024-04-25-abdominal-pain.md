@@ -445,9 +445,11 @@ though it was not strong enough to cause outward drooling.
 ### Thirteen days later (2024-05-08)
 
 I continued to experience increased salivation, though less so than
-the previous day. I did not experience any clear abdominal pain,
-though it continued to feel a bit more heavy than when I am fully
-healthy. I skipped heavy exercise to aid with my recovery.
+the previous day; though it was somewhat high for a brief period after
+dinner. I did not experience any clear abdominal pain (with the
+exception of a brief bout of slight pain when cleaning up after
+dinner), though it continued to feel a bit more heavy than when I am
+fully healthy. I skipped heavy exercise to aid with my recovery.
 
 ## Thermal comfort
 
