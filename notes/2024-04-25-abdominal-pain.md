@@ -439,8 +439,15 @@ In the afternoon and early evening, I noticed a slight increase in
 salivation, though not to the level that had happened shortly after my
 dental cleaning.
 
-The increase salivation continued after dinner and as I went to sleep,
+The increased salivation continued after dinner and as I went to sleep,
 though it was not strong enough to cause outward drooling.
+
+### Thirteen days later (2024-05-08)
+
+I continued to experience increased salivation, though less so than
+the previous day. I did not experience any clear abdominal pain,
+though it continued to feel a bit more heavy than when I am fully
+healthy. I skipped heavy exercise to aid with my recovery.
 
 ## Thermal comfort
 
