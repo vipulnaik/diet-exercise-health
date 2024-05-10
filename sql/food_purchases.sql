@@ -2540,7 +2540,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-05-05','Kite Hill Greek Style Plant-Based Yogurt',1),
   /* 2024-05-07 Trader Joe's; total cost $70.13; checkout at 5:00 PM; paid by debit card */
   ('2024-05-07','TJ Mixed Baby Kale',2),
-  ('2024-05-07','Gold potatoes 3 lb',1),
+  ('2024-05-07','Russet potatoes 3 lb',1),
   ('2024-05-07','TJ English Shelled Peas',6),
   ('2024-05-07','TJ Broccoli Florets 12 oz',1),
   ('2024-05-07','TJ Almond Milk',1),
