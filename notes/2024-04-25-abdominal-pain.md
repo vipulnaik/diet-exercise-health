@@ -466,6 +466,12 @@ the paper documents I had received a part of my urgent care visit, so
 that they are now stored with my documents rather than being readily
 accessible at my table.
 
+### Sixteen days later (2024-05-11)
+
+I went jogging in the morning with the hope of resuming daily
+jogging. See the [2024 exercise trackere](2024-exercise-tracker.md)
+for more.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more

@@ -351,11 +351,20 @@ exercise and breath hold.
 
 ## 2024-05-06: trial run with jogging
 
-On 2024-05-06, as I was feeling somewhat better and also feeling like
-I wanted to go jogging, I decided to give jogging a try. I jogged
-slower than usual, and ended up doing 1 mile jogging plus 1 mile
-walking, compared to my usual of 1.25+ jogging and the remainder of
-the 2-mile total walking. Although it was less than my fully healthy
-self, it was reassuring to see that my stamina was not lost, and also
-that doing this exercise was not hindered by, and did not trigger,
-abdominal pain.
+On Monday 2024-05-06, as I was feeling somewhat better and also
+feeling like I wanted to go jogging, I decided to give jogging a
+try. I jogged slower than usual, and ended up doing 1 mile jogging
+plus 1 mile walking, compared to my usual of 1.25+ jogging and the
+remainder of the 2-mile total walking. Although it was less than my
+fully healthy self, it was reassuring to see that my stamina was not
+lost, and also that doing this exercise was not hindered by, and did
+not trigger, abdominal pain.
+
+## 2024-05-11: jogging in the morning (hopefully to resume daily)
+
+On Saturday 2024-05-11, I went jogging in the morning and was able to
+hit my target minimum of 1.25 miles. I am hoping to resume daily
+jogging, with the caveat that I still intend to have a lower threshold
+for skipping jogging for the next few weeks than I do in my fully
+healthy state. For instance, I may skip jogging on days that I have a
+nontrivial outside trip later in the day.
