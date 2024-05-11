@@ -451,6 +451,21 @@ exception of a brief bout of slight pain when cleaning up after
 dinner), though it continued to feel a bit more heavy than when I am
 fully healthy. I skipped heavy exercise to aid with my recovery.
 
+### Fifteen days later (2024-05-10)
+
+By this point, I was not feeling any abdominal pain for most of the
+day, with only slightly-more-than-usual sensation under these
+conditions:
+
+* when hungry or full
+* right after doing some intense exercise, such as a breath hold or
+  continuous hand gripper use
+
+In light of this continued progress, I filed away the PPI pills and
+the paper documents I had received a part of my urgent care visit, so
+that they are now stored with my documents rather than being readily
+accessible at my table.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
@@ -705,3 +720,7 @@ PPI called pantoprazole (Protonix) and picked up 30 doses of it from
 Walgreens on the way back. However, after doing further research, and
 observing the trajectory of my pain, I decided to not take the PPI. I
 may document my thinking in more detail in the future.
+
+On 2024-05-10, in light of my continued recovery, I decided to put my
+PPI in storage and added a calendar reminder to dispose of the PPI on
+its expiration date (one year after my pickup date of 2024-04-30).
