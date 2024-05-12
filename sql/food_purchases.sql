@@ -2555,4 +2555,6 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-05-09','TJ Carrots',1),
   ('2024-05-09','TJ Broccoli Florets 12 oz',1),
   ('2024-05-09','TJ Whole Wheat Lavash',1),
-  ('2024-05-09','Beefsteak tomato',14);
+  ('2024-05-09','Beefsteak tomato',14),
+  /* 2024-05-12 Berkeley Bowl; total cost $22.47; checkout at 3:05 PM; paid by debit card */
+  ('2024-05-12','Lundberg Sustainable California White Basmati Rice',3);

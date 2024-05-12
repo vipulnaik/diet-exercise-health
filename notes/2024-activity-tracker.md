@@ -255,3 +255,9 @@ pain](2024-04-25-abdominal-pain.md); details of the trip are
 stopped at Walgreens for a prescription pickup and at Berkeley Bowl to
 get groceries; the latter is recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday May 12
+
+In the afternoon, I went to the Amazon Hub Locker at ASUC to pick up a
+package. I stopped by at Berkeley Bowl on the way to buy some rice, as
+recorded in [food_purchases.sql](../sql/food_purchases.sql).
