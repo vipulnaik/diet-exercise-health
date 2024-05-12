@@ -472,6 +472,13 @@ I went jogging in the morning with the hope of resuming daily
 jogging. See the [2024 exercise trackere](2024-exercise-tracker.md)
 for more.
 
+In the morning, I experienced slight tension on my neck/shoulder on
+the right side back. Later in the day, the tension increased a little
+bit, and I also experienced a smaller amount of tension on the left
+side. Later at night, the tension on both sides was almost equal. The
+tension didn't get much in the way of my work. Massaging the area did
+seem to give some relief in the short term.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
