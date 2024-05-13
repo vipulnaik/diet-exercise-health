@@ -101,3 +101,11 @@ in either hand for at least 10 seconds, and occasionally going up to
 and I immediately close it back, in well under a second). For the 150
 lb, with my right hand, I am able to keep it closd for about 3-5
 seconds.
+
+## Update on 2024-05-13
+
+For the first time ever, I took out my 200 lb hand gripper and started
+trying to close it. After a few attempts, I was able to get it to the
+parallel position with each hand individually, but no further. I was
+able to get it to close by wrapping one hand around another for the
+last portion (from parallel to close).

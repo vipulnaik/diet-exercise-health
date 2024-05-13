@@ -145,16 +145,16 @@ For more historical background, see
 
 ### Description and frequency
 
-I keep a 100 lb hand gripper and a 150 lb hand gripper on my desk,
-readily accessible to me when working on my computer. Sometimes when
-taking a brief break from work, or while on a call where I'm talking
-or listening and therefore not using my hands to type, I'll use the
-hand grippers.
+I keep a 100 lb hand gripper, a 150 lb hand gripper, and a 200 lb hand
+gripper (experimental) on my desk, readily accessible to me when
+working on my computer. Sometimes when taking a brief break from work,
+or while on a call where I'm talking or listening and therefore not
+using my hands to type, I'll use the hand grippers.
 
 In each round, I try to do at least two attempted closes of the hand
 gripper.
 
-As of 2024-05-07, my situation is:
+As of 2024-05-13, my situation is:
 
 * Right hand on 100 lb: closes comfortably and consistently even after
   many repetitions; can generally hold in closed position with slight
@@ -172,6 +172,12 @@ As of 2024-05-07, my situation is:
 
 * Left hand on 150 lb: has closed a few times but most of the time,
   comes just short of closing
+
+* Right hand on 200 lb: I am far from being able to close. I can just
+  about get to parallel.
+
+* Left hand on 200 lb: I am far from being able to close. I can just
+  about get to parallel.
 
 The effective frequency may be about 4 to 8 rounds per day.
 
