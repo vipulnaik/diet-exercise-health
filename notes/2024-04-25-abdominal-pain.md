@@ -476,6 +476,47 @@ Later in the day, I felt neck and shoulder tension; see [2024-05-11
 neck and shoulder tension](2024-05-11-neck-and-shoulder-tension.md)
 for more details.
 
+### Seventeen days later (2024-05-12)
+
+In the evening, as I was running out of rice and needed a little more
+calories, I opened up my backup whole wheat lavash bread and started
+eating it. Even before I actually started eating, looking at the
+lavash and anticipating eating it seems to have caused a little
+tension in my abdominal area. I experienced some increase in ticking
+sensations when eating and later. It's really difficult to know how
+much of this is due to my cognitive expectation and how much is
+actually happening from the wheat itself. There was no other
+observable effect beyond the slight anticipatory tensing up and the
+slight tickling sensation afterward.
+
+### Eighteen days later (2024-05-13)
+
+In the morning, I had a little bit of whole wheat lavash bread at the
+start of my meal as my rice was still finishing up being cooked. This
+time, I did not experience tension to the same extent as the previous
+day.
+
+Later in the day, I tried out the 200 lb hand gripper for the first
+time, up from the 150 lb that I was now consistently closing with my
+right hand (see [2023-07-29 hand gripper
+exercise](2023-07-29-hand-gripper-exercise.md) for background). I had
+been feeling pretty fit and fully recovered in the minutes leading up
+to that decision. However, the effort involved in trying to close the
+200 lb seems to have caused some abdominal tension.
+
+Later in the day, when going out jogging, I noticed a little bit of a
+tingling sensation in the left leg and slight tension in my abdominal
+area; however, the sensation subsided after a while and I was able to
+jog a little more than my usual amount.
+
+It's unclear if the tingling sensation is due to the consumption of
+the whole wheat lavash bread, the excessive use of the 200 lb, or
+other reasons. However, I do feel that it's tied in to the abdominal
+pain in some way, and reflects that I have not yet fully recovered to
+the point where I can stretch on the diet and exercise front. Some
+caution is still warranted, such as keeping wheat consumption low,
+skipping push-ups, and not overexerting on the other exercises.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
