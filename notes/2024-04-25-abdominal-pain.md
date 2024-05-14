@@ -523,6 +523,11 @@ abdominal pain, doing a normal amount except push-ups, where I did
 slightly fewer than my limit. See the [2024 exercise
 tracker](2024-exercise-tracker.md) for more information.
 
+I had a little more of the lavash bread in the evening, and again I
+felt a little tension and tingling sensation in the couple of hours
+after eating. This further suggests that the lavash is at least partly
+responsible for the tingling sensation.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
@@ -687,8 +692,13 @@ reasonable, it is not quite as good as the sprouted wheat.
 While I didn't experience any clear negative reaction (other than
 enjoying the taste less) before the abdominal pain, I did notice after
 the abdominal pain that sampling a little bit of the lavash did make
-me feel a bit irritated. I don't know if it is psychosomatic, but this
-led me to stick to rice for a few more days.
+me feel a bit irritated. Also, about 2.5 weeks after the start of the
+abdominal pain, after a week of abstaining from the lavash bread, I
+tried it again and again experienced some mild symptoms that I hadn't
+experienced in a while. I don't know if it is psychosomatic, but this
+led me to stick to rice for a few more days, and also to try other
+forms of wheat to see if there's something particular to the lavash
+that is causing issues.
 
 ### Sleep factors
 
