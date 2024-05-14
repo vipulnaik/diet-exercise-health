@@ -2559,7 +2559,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2024-05-12 Berkeley Bowl; total cost $22.47; checkout at 3:05 PM; paid by debit card */
   ('2024-05-12','Lundberg Sustainable California White Basmati Rice',3),
   /* 2024-05-14 Trader Joe's; total cost $38.25; checkout at 10:48 AM; paid by credit card */
-  ('2024-05-14','TJ Tuscan Kale',1),
+  ('2024-05-14','TJ Kale',1),
   ('2024-05-14','TJ Walnuts',1),
   ('2024-05-14','TJ Broccoli Florets 12 oz',1),
   ('2024-05-14','Red bell pepper',2),
