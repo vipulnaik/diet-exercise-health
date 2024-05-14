@@ -261,3 +261,10 @@ get groceries; the latter is recorded in
 In the afternoon, I went to the Amazon Hub Locker at ASUC to pick up a
 package. I stopped by at Berkeley Bowl on the way to buy some rice, as
 recorded in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Tuesday May 14
+
+In the late morning, I went to downtown Berkeley. I first stopped at
+Ace Hardware from where I purchased some drain cleaner. After that, I
+went to Trader Joe's for my usual food purhcases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
