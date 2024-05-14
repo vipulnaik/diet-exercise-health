@@ -567,7 +567,18 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,217,2,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* special oxalate column added in light of risk of kidney stones */14.2, /* using https://ohf.org/vegetables-oxalate/ that gives 10 mg per 100 g, scaled up to 142 g which is the container size*/
-  /* notes */ 'The serving size is 85 g; the container size is 142 g, so the data had to be scaled by a factor of 142/85.');
+  /* notes */ 'The serving size is 85 g; the container size is 142 g, so the data had to be scaled by a factor of 142/85.'),
+
+  ('TJ Kale','Trader Joe''s Kale 10 oz',NULL,135.7,
+  /* fat-related columns */ 3.39,0,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 102,1425,
+  /* carbohydrate-related columns */ 23.75,10.17,6.79,
+  /* protein-related columns */ 13.57,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 1425,346,0,441,4.07,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */28.4, /* using https://ohf.org/vegetables-oxalate/ that gives 10 mg per 100 g, scaled up to 142 g which is the container size*/
+  /* notes */ 'The serving size is 85 g; the container size is 284 g, so the data had to be scaled by a factor of 284/85.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
