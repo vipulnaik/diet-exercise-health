@@ -381,3 +381,12 @@ in light of the recent abdominal pain.
 I am not yet sure if I will resume regular strength exercises
 immediately; I might wait a few days to confirm continued recovery
 before full resumption.
+
+## 2024-05-14: break from jogging
+
+On 2024-05-14, due to slight recurrence of abdominal pain and
+tingling, likely related to wheat consumption on 2024-05-12 and
+2024-05-13, I decided to skip jogging to allow myself a full
+recovery. I did go out shopping in the morning, so I do have some
+amount of exercise arising from that, even with the break from
+jogging.

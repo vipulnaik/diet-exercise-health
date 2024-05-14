@@ -528,6 +528,15 @@ felt a little tension and tingling sensation in the couple of hours
 after eating. This further suggests that the lavash is at least partly
 responsible for the tingling sensation.
 
+### Nineteen days later (2024-05-14)
+
+I had a little bit of residual abdominal discomfort in the morning,
+but not enough to get in the way of my doing stuff. I was able to go
+out shopping, cook food, etc. The pain also lessened as the day
+progressed. I think this is consistent with the story that it was due
+to the whole wheat lavash consumption, and I am recovering as the time
+since the lavash consumption increases.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
