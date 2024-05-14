@@ -368,3 +368,16 @@ jogging, with the caveat that I still intend to have a lower threshold
 for skipping jogging for the next few weeks than I do in my fully
 healthy state. For instance, I may skip jogging on days that I have a
 nontrivial outside trip later in the day.
+
+## 2024-05-13: strength exercises (experimental resumption)
+
+On Monday 2024-05-13, I experimentally resumed strength exercises. I
+did my usual amount of weightlifting, but slightly fewer pushups than
+usual (just 13, instead of the range of 15-20 that I generally do). I
+stopped the pushups a little before full exhaustion given that pushups
+exert the abdominal muscles, and I want to be careful around that area
+in light of the recent abdominal pain.
+
+I am not yet sure if I will resume regular strength exercises
+immediately; I might wait a few days to confirm continued recovery
+before full resumption.

@@ -515,7 +515,13 @@ other reasons. However, I do feel that it's tied in to the abdominal
 pain in some way, and reflects that I have not yet fully recovered to
 the point where I can stretch on the diet and exercise front. Some
 caution is still warranted, such as keeping wheat consumption low,
-skipping push-ups, and not overexerting on the other exercises.
+staying under my limit for push-ups, and not overexerting on the other
+exercises.
+
+Later in the day, I did my first round of strength exercises since the
+abdominal pain, doing a normal amount except push-ups, where I did
+slightly fewer than my limit. See the [2024 exercise
+tracker](2024-exercise-tracker.md) for more information.
 
 ## Thermal comfort
 
