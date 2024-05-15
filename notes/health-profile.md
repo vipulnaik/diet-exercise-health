@@ -89,20 +89,12 @@ a historical established temperature baseline.
 
 ### Blood pressure
 
-I do not have a blood pressure machine at home, so I only get readings
-when I go for medical appointments. My two most recent readings were
-108 / 78 on 2023-10-04 (as part of the [2023-10-04 eye
-exam](2023-10-04-eye-exam.md)) and 102 / 67 on 2021-10-29 (as part of
-the [2021-10-29 eye exam](2021-10-29-eye-exam.md)). These readings are
-consistent with my expectations.
+My most recent at-home resting blood pressure readings were 111/70 and
+112/70. Later readings on the same day after doing breath holds were
+112/75 and 115/75.
 
-As part of my [2024-04-30 urgent care
-visit](2024-04-30-urgent-care-visit-and-tests.md), I had blood
-pressure readings taken and got 154/83 and 122/84; however, for
-reasons explained in the document, I believe these readings are
-distorted both due to (a) not being too well at the time, and (b)
-issues with the measurement (too much movement and talking during the
-first measurement and shortly before the second measurement).
+For more on my history of blood pressure readings, see
+[blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
 
 ## Physical build
 
