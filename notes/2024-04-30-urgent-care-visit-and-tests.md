@@ -245,6 +245,8 @@ which, with taxes, came to $1.17.
 
 ## Cost breakdown
 
+### Visit plus urine test
+
 My insurance billed me $444.91 for the visit plus urine test, with a
 provider-billed amount of $593 and in-network savings of $148.09. The
 breakdown was as follows:
@@ -268,3 +270,21 @@ insurance plan (last year). The misreading was reinforced by the fact
 that the people at the front desk as well as the doctor were confident
 that I was covered by the insurance and would likely have no copay or
 only a nominal copay.
+
+### Other tests
+
+I was also billed $488.23 for the tests. The breakdown was as follows:
+
+* $355.04 for the H. Pylori breath test (compare to
+  https://requestatest.com/h-pylori-breath-test that gives prices of
+  $199 for LabCorp and $225 for Quest Diagnostics). This comprises a
+  raw cost of $398 and in network savings of $42.96.
+
+* $119.03 for the other blood tests (CMP, CBC, and lipase) which is
+  not too far off from the cost of ordering these test via
+  requestatest.com. This comprises a raw cost of $166 and in network
+  savings of $46.97.
+
+* $14.16 for the blood collection procedure itself (annotated as
+  `collj ven bld vnpnxr`; I had to Google to map it). This comprises a
+  raw cost of $20 and in network savings of $5.84.
