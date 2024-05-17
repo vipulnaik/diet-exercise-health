@@ -202,3 +202,10 @@ for more history.
   particular reasons I really care about having good hands, I might
   take a break from the hand gripper (or at least the 150 lb hand
   gripper).
+
+## Breath holds
+
+I generally do two breath holds in quick succession, both max-pause
+breath holds, generally for 40 to 60 seconds. See
+[2023-07-30-buteyko-breathing.md](2023-07-30-buteyko-breathing.md) for
+more background information.

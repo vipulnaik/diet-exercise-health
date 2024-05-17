@@ -61,3 +61,44 @@ Some other videos I watched in relation to Buteyko breathing include:
 * [Unblock Nose in Five Minutes - Buteyko Breathing Method](https://www.youtube.com/watch?v=tgmKIwUqhkg)
 
 * [When You Think Buteyko Won't Work For You, by Breathing Center](https://www.youtube.com/watch?v=Oi1tvp7Mghs)
+
+## 2024-05-16
+
+As of 2024-05-16, I have settled into a routine of doing two max-pause
+breath holds in succession. I generally do them in the morning (no
+food for 12 hours or more) or in the evening before going jogging;
+this is generally at least two hours after a meal). The process is as
+follows:
+
+* I do a normal expiration (exhalation) and then immediately cover my
+  nostrils wit my fingers (using face tissues so that my fingers
+  aren't directly touching my nose) to hold my breath.
+
+* I then keep my nostrils closed for as long as I can get myself
+  to. This generally ranges from 40 seconds to 60 seconds.
+
+* After I release my nostrils, I generally wait about a minute for my
+  breathing to return to normal, then repeat the exercise. The second
+  iteration generally has a similar duration as the first, of about 40
+  to 60 seconds.
+
+Sensations I notice:
+
+* The first 20 seconds feel fairly normal, though a little
+  uncomfortable.
+
+* Somewhere between 20 seconds and 30 seconds, I sometimes feel
+  something going on with my eardrums, for instance, it getting
+  compressed the way it would if I pressed my ears.
+
+* Past 30 seconds, I start feeling some tingly sensations and
+  discomfort, where I'm definitely exerting willpower to keep my
+  nostrils closed.
+
+* Past 40 seconds, I start feeling restless, and it is at around this
+  time that I might start developing stronger aches in some
+  areas. Areas with recurrent minor aches tend to ache much more
+  significantly at this time.
+
+Previously, I used to experience a sensation of the nostrils pushing
+out on my fingers, but of late I have not experienced this sensation.
