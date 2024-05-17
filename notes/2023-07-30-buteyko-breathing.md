@@ -82,7 +82,7 @@ follows:
   iteration generally has a similar duration as the first, of about 40
   to 60 seconds.
 
-Sensations I notice:
+Sensations I notice during the breath hold:
 
 * The first 20 seconds feel fairly normal, though a little
   uncomfortable.
@@ -98,7 +98,23 @@ Sensations I notice:
 * Past 40 seconds, I start feeling restless, and it is at around this
   time that I might start developing stronger aches in some
   areas. Areas with recurrent minor aches tend to ache much more
-  significantly at this time.
+  significantly at this time. For instance, when I have generalized
+  abdominal discomfort, I notice pain in the abdominal area go up
+  quite a bit around this time.
 
-Previously, I used to experience a sensation of the nostrils pushing
-out on my fingers, but of late I have not experienced this sensation.
+* Previously, I used to experience a sensation of the nostrils pushing
+  out on my fingers, but of late I have not experienced this sensation
+  often (though it does happen occasionally).
+
+Sensations I notice right after finishing the breath hold:
+
+* I generally have an audible breathing out and breathing in right
+  after the release. However, on most days I still continue to breathe
+  nasally rather than having to open my mouth. In the past, it was
+  more common for me to take one mouth breath right after finishing a
+  max-pause breath hold.
+
+* I may feel a little out of sorts for about 2-3 minutes after the
+  second breath hold. If I am feeling generally unwell, the
+  out-of-sorts feeling may continue longer (like 5-10 minutes).
+
