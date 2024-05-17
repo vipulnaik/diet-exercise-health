@@ -121,6 +121,7 @@ queries = [
     sum(polyunsaturated_fat_in_grams * total_quantity_net) / 91 as daily_polyunsaturated_fat_in_grams,
     sum(cholesterol_in_mg * total_quantity_net) / 91 as daily_cholesterol_in_mg,
     sum(sodium_in_mg * total_quantity_net) / 91 as daily_sodium_in_mg,
+    sum(case when food_type in ('Morton Iodized Sea Salt','Morton Iodized Salt') then sodium_in_mg * total_quantity_net else 0 end) / 91 as daily_sodium_from_table_salt_in_mg,
     sum(potassium_in_mg * total_quantity_net) / 91 as daily_potassium_in_mg,
     sum(total_carb_in_grams * total_quantity_net) / 91 as daily_total_carb_in_grams,
     sum(fiber_in_grams * total_quantity_net) / 91 as daily_fiber_in_grams,
@@ -154,6 +155,7 @@ queries = [
     sum(polyunsaturated_fat_in_grams * total_quantity_net) / 91 as daily_polyunsaturated_fat_in_grams,
     sum(cholesterol_in_mg * total_quantity_net) / 91 as daily_cholesterol_in_mg,
     sum(sodium_in_mg * total_quantity_net) / 91 as daily_sodium_in_mg,
+    sum(case when food_type in ('Morton Iodized Sea Salt','Morton Iodized Salt') then sodium_in_mg * total_quantity_net else 0 end) / 91 as daily_sodium_from_table_salt_in_mg,
     sum(potassium_in_mg * total_quantity_net) / 91 as daily_potassium_in_mg,
     sum(total_carb_in_grams * total_quantity_net) / 91 as daily_total_carb_in_grams,
     sum(fiber_in_grams * total_quantity_net) / 91 as daily_fiber_in_grams,
@@ -192,6 +194,12 @@ queries = [
     "select * from daily_amounts_by_epoch where daily_protein_in_grams < 45;",
 
     "select * from daily_amounts_by_epoch where daily_oxalate_in_mg > 300;",
+
+    "select * from daily_amounts_by_epoch where daily_calcium_in_mg < 650 or daily_calcium_in_mg > 2500;",
+
+    "select * from daily_amounts_by_epoch where daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg < 1500 or daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg > 2700;",
+
+    "select * from daily_amounts_by_epoch where daily_potassium_in_mg < 3400 or daily_potassium_in_mg > 4700;",
 ]
 
 _connection = connection.connect()
