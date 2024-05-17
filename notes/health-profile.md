@@ -2,7 +2,7 @@
 
 Last major update: October 27, 2023
 
-Last pass of full document review (with updates and corrections where needed): March 12, 2024
+Last pass of full document review (with updates and corrections where needed): May 17, 2024
 
 This is the health profile for Vipul Naik. It is updated
 periodically. It does not include details of specific
@@ -44,8 +44,10 @@ Sections of this document:
 
 ### Heart rate
 
-My resting, seated heart rate, as measured by my Zacurate pulse
-oximeter, is generally 55-60 bpm. At any given time, the heart rate
+My resting, seated heart rate, as measured by my Omron blood pressure
+machine as well as my Zacurate pulse oximeter, is generally 55-60 bpm
+during spring, summer, and autumn, and a little high (up to 65-70 bpm)
+in the winter, when it is colder. At any given time, the heart rate
 variation is about 10%, or 5 bpm. So sometimes my heart rate may be
 65-70 bpm, sometimes 60-65 bpm, and sometimes 50-55 bpm.
 
@@ -64,7 +66,11 @@ periods where I could feel my heart racing. I didn't have the pulse
 oximeter at the time, so I relied on crude measurement of my heart
 rate, and the crude estimate was around 80 bpm.
 
-For more extensive experiment results, see
+I record my heart rate (measured using the Omron blood pressure
+machine) as part of my monthly blood pressure readings in
+[blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
+
+For extensive older experiment results, see
 [2023-08-18-pulse-oximeter-experimentation.md](2023-08-18-pulse-oximeter-experimentation.md).
 
 ### SpO2 (saturation percentage of oxygen)
@@ -637,9 +643,14 @@ consumption of yogurt.
 
 You can get a general sense of my current diet by looking at my
 [recent food purchases](../sql/food_purchases.sql). I don't keep a log
-of food consumption, but since I waste very little of my food, my food
-purchases present a reasonably accurate picture of my food
-consumption.
+of food consumption, but since I waste very little of my food (and I
+recorded the food waste as well [here](../sql/food_waste.sql)), my
+waste-adjusted food purchases present a reasonably accurate picture of
+my food consumption. The queries at
+[food_purchases_verification_queries.py](../python/food_purchases_verification_queries.py)
+show how to aggregate the data to make inferences regarding nutrients;
+my plan is to eventually make a portal out of this data so that it's
+easy to browse.
 
 Here are some highlights of my current diet:
 
@@ -816,7 +827,9 @@ it depends a lot on when I go to sleep, whether I have a sleep backlog
 from previous days, and the weather (I generally sleep in a bit more
 if it's colder).
 
-My average sleep duration is a little under 8 hours.
+My average sleep duration is a little under 8 hours. When I am a
+little less well but am still broadly functional, my sleep duration
+may go up to about 9 hours.
 
 I generally don't remember dreams when I wake up, but I sometimes do
 have dreams that I remember.
