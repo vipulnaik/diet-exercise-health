@@ -760,13 +760,17 @@ issues.
 
 ## Exercise
 
-I do running/jogging almost-daily, strength exercises about 3 times a
-week, and various balance/flexibility exercises several times a week
-(between 3 and 7 times a week). I also do hand gripper exercises
-daily.
+When feeling well, I do running/jogging almost-daily, strength
+exercises about 3 times a week, and various balance/flexibility
+exercises several times a week (between 3 and 7 times a week). I also
+do hand gripper exercises and breath holds daily. When I am less well,
+I may do a limited subset of these exercises, or reduce their
+frequency or intensity.
 
 I describe my exercise routine in more detail in
-[exercise-routine.md](exercise-routine.md).
+[exercise-routine.md](exercise-routine.md). I record my deviations
+from routine in an annual tracker file. For instance, for 2024, see
+the [2024 exercise tracker](2024-exercise-tracker.md).
 
 ### History of exercise
 
@@ -791,8 +795,11 @@ initial progession. This was also around the time that I introduced
 pushups; I had introduced some balance exercises a little earlier.
 
 I started hand gripper exercises in July 2023; see
-[here](2023-07-29-hand-gripper-exercise.md) for the initial
-progression.
+[here](2023-07-29-hand-gripper-exercise.md) for the progression.
+
+I also started looking into Buteyko breathing in July 2023; eventually
+this led me to start doing breath holds regularly; see
+[here](2023-07-30-buteyko-breathing.md) for the progression.
 
 ## Sleep
 
