@@ -546,6 +546,16 @@ insert into food_types(short_name, long_name, url, calories,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
   /* notes */ 'The serving size used is 35 grams, with "about" 13 servings per container.'),
 
+  ('TJ Green Lentils','Trader Joe''s Whole Green Lentils',NULL,1255,
+  /* fat-related columns */ 9.66,0,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 145,3381,
+  /* carbohydrate-related columns */ 290,96.6,0.97,
+  /* protein-related columns */ 96.6,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,96.6,30.9,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* notes */ 'The serving size used is 47 grams, and the container size is 454 grams, so all amounts were scaled by 454/47.'),
 
   ('TJ Whole Wheat Lavash','Trader Joe''s Whole Wheat Lavash Bread',NULL,960,
   /* fat-related columns */ 6,0,0,NULL,NULL,
@@ -578,7 +588,18 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 1425,346,0,441,4.07,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* special oxalate column added in light of risk of kidney stones */28.4, /* using https://ohf.org/vegetables-oxalate/ that gives 10 mg per 100 g, scaled up to 142 g which is the container size*/
-  /* notes */ 'The serving size is 85 g; the container size is 284 g, so the data had to be scaled by a factor of 284/85.');
+  /* notes */ 'The serving size is 85 g; the container size is 284 g, so the data had to be scaled by a factor of 284/85.'),
+
+  ('TJ Organic Couscous','Trader Joe''s Organic Couscous',NULL,1284,
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,528,
+  /* carbohydrate-related columns */ 264,15.1,0,
+  /* protein-related columns */ 45.3,
+  /* columns for commonly reported vitamins and minerals (other than sodium) */ NULL,NULL,0,75.6,3.78,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* notes */ 'The serving size is 45 g; the container size is 340 g, so the data had to be scaled by a factor of 340/45.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
