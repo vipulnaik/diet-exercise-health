@@ -537,6 +537,12 @@ progressed. I think this is consistent with the story that it was due
 to the whole wheat lavash consumption, and I am recovering as the time
 since the lavash consumption increases.
 
+### Twenty-one days later (2024-05-16)
+
+I had a little bit of general fullness and slowness in the morning,
+with occasional slight pain. I decided to skip jogging and instead
+finish up my Trader Joe's trip.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more

@@ -390,3 +390,9 @@ tingling, likely related to wheat consumption on 2024-05-12 and
 recovery. I did go out shopping in the morning, so I do have some
 amount of exercise arising from that, even with the break from
 jogging.
+
+## 2024-05-16: break from jogging
+
+On 2024-05-16, due to slight fullness and occasional pain, I decided
+to skip jogging. I did go to Trader Joe's for shopping in the evening,
+so I did have a moderate amount of physical activity.
