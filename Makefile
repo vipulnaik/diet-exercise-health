@@ -13,6 +13,7 @@ reset:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_waste;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_purchases;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_types;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists broad_food_types;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists heinrich_incidents;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists test_results;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists test_sample_collections;"
@@ -25,6 +26,7 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/accidents.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/blood_pressure_readings.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/doctor_visits.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/broad_food_types.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_types.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_waste.sql
