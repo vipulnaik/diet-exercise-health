@@ -2,6 +2,8 @@
 
 Last major update: September 23, 2023
 
+Last pass of full document review (with updates and corrections where needed): May 17, 2024
+
 This document describes my exercise routine. I intend to update it
 when there are changes to my ongoing routine. See also my yearly
 exercise tracker docs (such as
@@ -25,17 +27,22 @@ I'm generally not in a hurry to get anywhere, and if there are
 significant traffic logjams I might change my route a little bit.
 
 I aim to jog for the full duration of at least one way (1 mile) plus
-at least a quarter of te other way (0.25 miles) minus some parts where
-I have to slow down (e.g., when crossing a road, or due to dogs or
-children nearby who might get excited by somebody moving fast, or when
-cars are moving out of parking spots). So in general I aim to jog at
-least 1.25 miles and walk the remaining 0.75 miles. When I have more
-energy, I may jog a larger portion, and therefore walk back a shorter
-residual duration.
+at least a quarter of the other way (0.25 miles) minus some parts
+where I have to slow down (e.g., when crossing a road, or due to dogs
+or children nearby who might get excited by somebody moving fast, or
+when cars are moving out of parking spots). So in general I aim to jog
+at least 1.25 miles and walk the remaining 0.75 miles. When I have
+more energy, I may jog a larger portion, and therefore walk back a
+shorter residual duration. In general, when reasonably energetic, I
+jog about 1.4-1.5 miles and walk back the remaining 0.5-0.6 miles.
 
 Overall, one way (the first 1 mile, mostly jogging) takes me about
 12-15 minutes and the return journey (mix of jogging and walking)
 takes me about 15-20 minutes.
+
+I record in my exercise tracker file (for instance, [2024 exercise
+tracker](2024-exercise-tracker.md) for 2024) when I skip jogging or
+jog less than 1.25 miles.
 
 ### Abridged routes and potential reasons
 
@@ -133,6 +140,11 @@ balance.
 
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
+
+As of May 2024, my aim is to be able to manage at least 20 seconds on
+each leg, with adjustments for colder indoor temperatures. In
+practice, I generally do somewhere between 23 and 40 seconds on each
+leg.
 
 See
 [2023-10-28-standing-on-one-leg-with-eyes-closed.md](2023-10-28-standing-on-one-leg-with-eyes-closed.md)
