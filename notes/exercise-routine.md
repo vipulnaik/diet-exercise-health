@@ -7,9 +7,17 @@ Last pass of full document review (with updates and corrections where needed): M
 This document describes my exercise routine. I intend to update it
 when there are changes to my ongoing routine. See also my yearly
 exercise tracker docs (such as
-[2023-exercise-tracker.md](2023-exercise-tracker.md) (currently
-pending)) where I record time periods where I deviated from the
-routine.
+[2023-exercise-tracker.md](2023-exercise-tracker.md) and
+[2024-exercise-tracker.md](2024-exercise-tracker.md)) where I record
+time periods where I deviated from the routine.
+
+Sections of this document:
+
+* [Jogging and return walking](#jogging-and-return-walking)
+* [Strength exercises](#strength-exercises)
+* [Standing-on-one-leg-with-eyes-closed exercise](#standing-on-one-leg-with-eyes-closed-exercise)
+* [Hand gripper exercise](#hand-gripper-exercise)
+* [Breath holds](#breath-holds)
 
 ## Jogging and return walking
 
@@ -43,6 +51,15 @@ takes me about 15-20 minutes.
 I record in my exercise tracker file (for instance, [2024 exercise
 tracker](2024-exercise-tracker.md) for 2024) when I skip jogging or
 jog less than 1.25 miles.
+
+### Gap to meal
+
+If I'm not doing strength exercises after returning, I generally try
+to wait at least 10-15 minutes between my return and having a meal,
+following [this](2021-01-10-ben-greenfield-hormesis.md). If I jogged
+more and had a shorter return walk, I try to increase my wait time
+accordingly. Normally, the things I need to catch up with after my
+return (such as email, messages, etc.)  effectively uses that time up.
 
 ### Abridged routes and potential reasons
 
@@ -131,6 +148,113 @@ I have a few different reasons for skipping:
 * **Knee rest day**: I generally try to take a day off from jogging at
   least once every 15 days. So, if there's no break happening for any
   of the other reasons for 15 days, I will take a forced knee rest.
+
+## Strength exercises
+
+### Frequency: 2 to 3 days
+
+I generally do strength exercises about once every 2-3 days when
+well. The gap is variable between 2 and 3 days, allowing me a bit of
+flexibility in terms of time availability, fatigue levels, and other
+strength-using stuff during the day (such as shopping).
+
+### Warmup
+
+I always start strength exercises after returning from jogging (within
+about 20 minutes of returning). Also, right before starting, I do
+standing-on-one-leg-with-eyes-closed exercises. The goal of these is
+to confirm that my balance is fine -- if there are issues with my
+balance, this could increase the risk of injury during strength
+exercises.
+
+### Weightlifting
+
+I do my weightlifting exercises while standing on an exercise
+mat. This is to reduce the risk of injury from any fall due to loss of
+balance.
+
+I have two exercises, that I'll call exercise 1 and exercise 2 for
+now.
+
+I have pairs of weights of 2 lb each, 3 lb each, 5 lb each, and 8 lb
+each. I don't use the 2 lb pair any more for my regular exercise. Here
+is my sequence:
+
+* 3 lb pair, exercise 1: about 15 repetitions
+
+* 3 lb pair, exercise 2: about 15 repetitions
+
+* 5 lb pair, exercise 1: about 15 repetitions
+
+* 5 lb pair, exercise 2: about 15 repetitions
+
+* 8 lb pair, exercise 1: about 15 repetitions
+
+* 8 lb pair, exercise 2: about 10 repetitions; this is the exercise
+  where I am currently reaching my peak number of repetitions before
+  getting fatigued
+
+The reason I always start with the 3 lb is for a mix of warmup and
+verification purposes. If, on a given day, I find that the 3 lb pair
+is fatiguing me or I am having trouble with it, I can pause the
+weightlifting before proceeding to a higher weight where there is more
+risk of injury.
+
+### Pushups
+
+After the weights, I proceed to do pushups on the exercise mat.
+
+To count a pushup, I require my nose to touch the exercise mat. As the
+mat can curl up a bit, the level can be about 1-2 inches above the
+level of my hands.
+
+I generally stay in the pushup position through the exercise. I do 4-8
+repetitions and then break (while staying in the pushup position) for
+leg stretches. Then I continue with the pushups.
+
+The number of pushups I can manage can vary quite a bit. When I'm
+feeling low on energy, it's in the range of 10-15. When I am higher on
+energy, it's in the range of 17-22.
+
+### Gap to meal
+
+I generally try to wait at least 30 minutes between the finishing of
+strength exercises and my next meal, following
+[this](2021-01-10-ben-greenfield-hormesis.md), though I do try to
+drink water immediately upon completion of the strength exercises.
+
+### Reasons for skipping
+
+Since I do strength exercises after returning from jogging, any of the
+reasons for skipping jogging also lead to skipping strength
+exercises. However, since the frequency of strength exercises is once
+every 2-3 days, with variability in whether I do 2 or 3 days, I may
+skip jogging on one day without effectively skipping strength
+exercises.
+
+In addition, I may skip strength exercises for these reasons:
+
+* **Post-jogging fatigue or hunger**: In some cases, I am feeling fine
+  before I start jogging, but jogging fatigues me or gets me to a
+  state of hunger where I don't want to create a further delay to
+  eating by doing weights.
+
+* **Muscle aches or abdominal discomfort**: Even beyond a clear
+  sickness, if I am feeing any kind of aches or strain on the muscles
+  that I expect to use heavily during strength exercises, I skip the
+  strength exercises.
+
+* **Pre- and post-break for vaccination**: For vaccination (or any
+  other injection into the muscle) I have a pre-break of three days
+  and a post-break of one week for strength exercises. For blood
+  draws, I have a pre-break of one day and a post-break of three days
+  for strength exercises.
+
+### Historical references
+
+* [2021-11-02-weight-lifting-and-stretching.md](2021-11-02-weight-lifting-and-stretching.md)
+* [2023-11-01-weight-lifting-weight-increase.md](2023-11-01-weight-lifting-weight-increase.md)
+* [2024-01-21-weight-lifting-weight-increase.md](2024-01-21-weight-lifting-weight-increase.md)
 
 ## Standing-on-one-leg-with-eyes-closed exercise
 

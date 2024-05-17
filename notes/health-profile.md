@@ -186,16 +186,20 @@ and 32 being manageable with a tight belt. I do not have a paunch.
 
 ## Physical exam
 
-As of 2023, my last full physical exam was in December 2016, when I
-went to a gastro specialist for my stomach pain issues. See
+As of May 2024, my last full physical exam by a medical professional
+was in December 2016, when I went to a gastro specialist for my
+stomach pain issues. See
 [here](2016-11-to-2016-12-stomach-pain-and-resolution.md#doctor-visit)
 for more context.
 
 On 2024-04-30, I had an abdominal exam and vitals measurements as part
 of my [urgent care visit](2024-04-30-urgent-care-visit-and-tests.md).
 
-I have also had periodic blood pressure measurement done as part of my
-eye exam.
+Starting May 2024, I plan to do monthly physical self-exams that
+include blood pressure measurement, auscultation of the abdomen and
+heart sound,s and palpation of the abdomen. I will take notes and
+investigate further if I notice anything unusual. My most recent
+physical self-exam was on 2024-05-15.
 
 ## HbA1c, lipid profile, insulin, and liver function tests
 
