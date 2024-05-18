@@ -396,3 +396,8 @@ jogging.
 On 2024-05-16, due to slight fullness and occasional pain, I decided
 to skip jogging. I did go to Trader Joe's for shopping in the evening,
 so I did have a moderate amount of physical activity.
+
+## 2024-05-17: strength exercises (hopefully to resume at regular cadence of 2-3 days)
+
+I did strength exercises on 2024-05-17. My plan is to resume at the
+regular cadence of 2-3 days.
