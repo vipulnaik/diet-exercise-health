@@ -401,3 +401,9 @@ so I did have a moderate amount of physical activity.
 
 I did strength exercises on 2024-05-17. My plan is to resume at the
 regular cadence of 2-3 days.
+
+## 2024-05-18: break from jogging and other exercise
+
+I spent a bunch of time on house cleaning (bathtub scrubbing) which
+used up my time and energy quota for exercise, so I am skipping
+jogging, hand gripper exercise, and breath holds today.
