@@ -543,6 +543,18 @@ I had a little bit of general fullness and slowness in the morning,
 with occasional slight pain. I decided to skip jogging and instead
 finish up my Trader Joe's trip.
 
+### Twenty-two days later (2024-05-17)
+
+I decided to resume regular strength exercises (every 2-3 days)
+starting on this day.
+
+### Twenty-five days later (2024-05-20)
+
+I experimentally consumed couscous, to see if my issues with the
+lavash represented issues with wheat or general or were more specific
+to the form factor or other aspects of the lavash. I did not
+experience issues during or immediately after the consumption.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
