@@ -407,3 +407,9 @@ regular cadence of 2-3 days.
 I spent a bunch of time on house cleaning (bathtub scrubbing) which
 used up my time and energy quota for exercise, so I am skipping
 jogging, hand gripper exercise, and breath holds today.
+
+## 2024-05-20: couldn't go jogging due to time constraints
+
+I wasn't able to go jogging due to a confluence of things coming up
+one after the other. I therefore also skipped strength exercises (the
+3-day mark since the last strength exercises was coming up).
