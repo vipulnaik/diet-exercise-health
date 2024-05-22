@@ -413,3 +413,14 @@ jogging, hand gripper exercise, and breath holds today.
 I wasn't able to go jogging due to a confluence of things coming up
 one after the other. I therefore also skipped strength exercises (the
 3-day mark since the last strength exercises was coming up).
+
+## 2024-05-21: couldn't go jogging due to house stuff
+
+On 2024-05-21, I had to stay home due to some stuff at the house. My
+usage of stuff within the house was also restricted. Therefore, I
+ended up being unable to go jogging. I did do a small amount of hand
+gripper exercise.
+
+However, this did end up resulting in a fast of 19+ hours. See
+[2024-05-21 unplanned 19-hour
+fast](2024-05-21-unplanned-19-hour-fast.md) for more details.
