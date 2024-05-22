@@ -20,8 +20,21 @@ I wanted to finish up before breaking for food. I got enough of the
 key loose threads wrapped up by around 6 PM, so then I got ready and
 had my first meal of the day.
 
-I had a larger meal than usual and am planning to skip having a second
-meal.
+I had a larger meal than usual and skipped a second meal. I went to
+sleep a few minutes past 11 PM.
+
+## 2024-05-22 (next day)
+
+I woke up around 7 AM and had a normal morning (including a normal
+bowel movement).
+
+I felt a little soreness/tightness in my throat, somewhat similar
+(though less intense) than in my [last unplanned
+fast](2024-01-27-unplanned-22-hour-fast.md) (see
+[here](2024-01-garlic-flavored-olive-oil-and-sore-throat.md)). At the
+time, I attributed the soreness to a mix of the fast and
+garlic-flavored olive oil; the smaller magnitude of soreness here
+suggests that last time it was indeed a combination.
 
 ## For comparison
 
