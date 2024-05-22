@@ -36,6 +36,14 @@ time, I attributed the soreness to a mix of the fast and
 garlic-flavored olive oil; the smaller magnitude of soreness here
 suggests that last time it was indeed a combination.
 
+I also noticed slightly degraded performance on breath holds and my
+initial [sequence memory
+tests](https://humanbenchmark.com/tests/sequence), though after a few
+rounds I was able to get to normal sequence memory test scores. I
+think the fasting did frazzle me a little bit in subtle ways, though
+still keeping me within the range of normal functioning where it's not
+getting in my way for basic stuff.
+
 ## For comparison
 
 For comparison, see [2024-01-27: unplanned 22-hour
