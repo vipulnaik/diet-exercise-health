@@ -424,3 +424,15 @@ gripper exercise.
 However, this did end up resulting in a fast of 19+ hours. See
 [2024-05-21 unplanned 19-hour
 fast](2024-05-21-unplanned-19-hour-fast.md) for more details.
+
+## 2024-05-22: continued skipping of strength exercise
+
+On 2024-05-22, I continued to skip strength exercise. Whereas the past
+two days this was a direct consequence of not going jogging, on this
+day I did go jogging. The reason for skipping was three-fold: the
+[unplanned fast yesterday](2024-05-21-unplanned-19-hour-fast.md) and
+the single meal yesterday due to which my energy levels are a little
+lower, the desire to eat early in general to shift my sleep cycle to
+earlier in light of potential upcoming travel, and the fact that I
+have a meeting so if I do strength exercise now, my eating will be
+significantly delayed.
