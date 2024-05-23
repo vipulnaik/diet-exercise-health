@@ -1,5 +1,11 @@
 # 2024-05-21: unplanned 19-hour fast
 
+NOTE: The ~19.5-hour duration itself isn't the reason for this being
+noteworthy; what's more noteworthy is that the bulk of this duration
+(about 11 hours) was *after* waking up. A 19-hour fast that's due to a
+combination of a slightly early second meal and a slightly late first
+meal isn't as notable.
+
 ## Timeline
 
 ### 2024-05-20 (prior day)
@@ -11,14 +17,16 @@ of it being difficult the next day.
 
 ### 2024-05-21 (day of fast and breaking thereof)
 
-On 2024-05-21, I ended up having my first meal of the day at around
-6:10 PM. The reason for the delay was that the planned stuff that I
-was aware would happen ended up happening a little earlier than
-anticipated, and continued longer than anticipated. Even when it
-wrapped up (a little before 5 PM) there were a number of loose threads
-I wanted to finish up before breaking for food. I got enough of the
-key loose threads wrapped up by around 6 PM, so then I got ready and
-had my first meal of the day.
+On 2024-05-21, I woke up a little after 7:30 AM.
+
+I ended up having my first meal of the day at around 6:10 PM. The
+reason for the delay was that the planned stuff that I was aware would
+happen ended up happening a little earlier than anticipated, and
+continued longer than anticipated. Even when it wrapped up (a little
+before 5 PM) there were a number of loose threads I wanted to finish
+up before breaking for food. I got enough of the key loose threads
+wrapped up by around 6 PM, so then I got ready and had my first meal
+of the day.
 
 In addition to the delay in eating, I also drank a little less water
 than usual during the day, primarily because the stuff going on
