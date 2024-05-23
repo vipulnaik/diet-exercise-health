@@ -30,3 +30,10 @@ So far I've done three tests as logged-in user:
   practice of this test, it does mimic a lot of real-world stuff
   (notably, remembering 2FA tokens for data entry) so I think I do
   have prior practice of this in some sense.
+
+## 2024-05-23: off-cycle update on single-handed typing
+
+My single-handed typing speeds were 50 wpm for the left hand and 39
+wpm for the right hand. Overall, this suggests that my two-handed
+typing speed is close to the sum of my typing speeds with each hand
+individually.
