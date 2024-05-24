@@ -555,6 +555,25 @@ lavash represented issues with wheat or general or were more specific
 to the form factor or other aspects of the lavash. I did not
 experience issues during or immediately after the consumption.
 
+### Twenty-nine days later (2024-05-24)
+
+I experienced a recurrence of abdominal pain, nowhere near the peak
+but somewhat comparable to what it had been off and on in the week
+after the initial peak. I'm hoping that this recurrence is brief. A few contributing factors:
+
+* The [unplanned fast of three days ago and subsequent sore
+  throat](2024-05-21-unplanned-19-hour-fast.md). This could be a
+  recovery step as I noticed the sore throat improvement coinciding
+  with the abdominal pain.
+* It's cooler than usual, and thermal comfort has been an issue.
+* I have been trying to shift my sleep schedule toward sleeping
+  earlier, in preparation for upcoming travel. Also, on this day I
+  decided to eat *before* jogging (and ended up skipping jogging after
+  the pain came plus due to a bunch of stuff to be done). The
+  combination meant more cold exposure and eating when colder, which
+  might have interacted with the residual abdominal pain issues and
+  the sore throat issues.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more

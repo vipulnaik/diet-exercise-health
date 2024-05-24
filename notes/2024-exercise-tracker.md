@@ -425,7 +425,7 @@ However, this did end up resulting in a fast of 19+ hours. See
 [2024-05-21 unplanned 19-hour
 fast](2024-05-21-unplanned-19-hour-fast.md) for more details.
 
-## 2024-05-22: continued skipping of strength exercise
+## 2024-05-22 and 2024-05-23: continued skipping of strength exercise
 
 On 2024-05-22, I continued to skip strength exercise. Whereas the past
 two days this was a direct consequence of not going jogging, on this
@@ -436,3 +436,16 @@ lower, the desire to eat early in general to shift my sleep cycle to
 earlier in light of potential upcoming travel, and the fact that I
 have a meeting so if I do strength exercise now, my eating will be
 significantly delayed.
+
+## 2024-05-24: skipped exercise due to combination of minor things
+
+The minor factors, which might be interconnected, include:
+
+* Sore throat in the morning; see [2024-05-21: unplanned 19-hour
+  fast](2024-05-21-unplanned-19-hour-fast.md)
+* Abdominal pain in the late morning; see [2024-04-25 abdominal
+  pain](2024-05-25-abdominal-pain.md)
+* Additional work including outside trips needed in connection with
+  trip planning, leaving me less time
+* Being a little off-game due to the sleep cycle adjustment needed for
+  trip planning, along with the slightly colder weather

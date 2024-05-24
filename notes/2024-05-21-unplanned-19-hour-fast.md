@@ -92,6 +92,10 @@ area. Overnight, I noticed a bit of drooling though I was able to
 catch it in time in all cases and there were no visible stains on the
 pillow. Drinking water in the morning helped.
 
+Later in the day, the sore throat improved, surprisingly accompanied
+by an increase in abdominal pain. I've noted this down in the
+[2024-04-25 abdominal pain doc](2024-04-25-abdominal-pain.md).
+
 ## For comparison
 
 For comparison, see [2024-01-27: unplanned 22-hour
