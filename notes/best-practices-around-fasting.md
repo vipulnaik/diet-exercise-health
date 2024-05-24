@@ -1,11 +1,11 @@
-# Best practices after fast
+# Best practices around fasting
 
-This document includes some best practices to follow after a fast. I
-define a "fast" as being 18 or more hours of not eating, or 10 or more
-hours of not having my first meal after waking up, or 3 or more hours
-of a combination of travel, standing activity, or being seated in the
-sun without food and water since waking up. My body seems capable of
-handling shorter durations without eating.
+This document includes some best practices to follow before, during,
+and after a fast. I define a "fast" as being 18 or more hours of not
+eating, or 10 or more hours of not having my first meal after waking
+up, or 3 or more hours of a combination of travel, standing activity,
+or being seated in the sun without food and water since waking up. My
+body seems capable of handling shorter durations without eating.
 
 In general, the symptom I am trying to avoid is a sore throat,
 specifically, a sore esophagus. Looking at the potential causes
@@ -18,7 +18,18 @@ esophagus" though it could also reflect one of the other causes.
 * [2024-05-21: unplanned 19-hour fast](2024-05-21-unplanned-19-hour-fast.md)
 * [2024-01-27: unplanned 22-hour fast](2024-01-27-unplanned-22-hour-fast.md) that was an exacerbating factor for the [2024-01 garlic-flavored olive oil and sore throat incident](2024-01-garlic-flavored-olive-oil-and-sore-throat.md)
 
-## Hydrate before eating
+## Before the fast (if it is planned): avoid outside food and switch from sauerkraut to vegan probiotic yogurt
+
+If I can anticipate a potential fast happening within the next 48
+hours, avoid outside food over that time period, and try to switch
+from sauerkraut to vegan probiotic yogurt for the 1-2 days before the
+fast, and make sure to stock up on vegan probiotic yogurt,
+
+## During and particularly near the end of the fast: hydrate before eating
+
+As much as possible, even if I can't have food, it's important to
+drink water. Also, urinate as needed so that the pending urination
+doesn't suppress my thirst.
 
 Before breaking the fast, make sure to drink enough water, ideally
 multiple times over the 30 minutes prior to eating. This is
