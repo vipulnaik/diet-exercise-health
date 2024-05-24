@@ -85,6 +85,13 @@ As before, I had no trouble speaking -- the soreness was not affecting
 my vocal cords. Also, unlike the previous day, I did not experience
 fatigue and in fact had a fairly productive day.
 
+## 2024-05-24 (three days later)
+
+In the morning, I continued to experience soreness in the same
+area. Overnight, I noticed a bit of drooling though I was able to
+catch it in time in all cases and there were no visible stains on the
+pillow. Drinking water in the morning helped.
+
 ## For comparison
 
 For comparison, see [2024-01-27: unplanned 22-hour
