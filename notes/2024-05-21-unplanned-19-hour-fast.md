@@ -82,7 +82,8 @@ should probably stay off of sauerkraut and walnuts for the time being
 and continue to drink extra water.
 
 As before, I had no trouble speaking -- the soreness was not affecting
-my vocal cords.
+my vocal cords. Also, unlike the previous day, I did not experience
+fatigue and in fact had a fairly productive day.
 
 ## For comparison
 
