@@ -2574,4 +2574,19 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-05-16','TJ Green Lentils',3),
   ('2024-05-16','TJ Kale',2),
   ('2024-05-16','TJ English Shelled Peas',3),
-  ('2024-05-16','TJ Broccoli Florets 12 oz',1);
+  ('2024-05-16','TJ Broccoli Florets 12 oz',1),
+  /* 2024-05-24 Berkeley Bowl; total cost $31.45; checkout at 4:03 PM; paid by debit card */
+  ('2024-05-24','Lundberg Sustainable California White Basmati Rice',3),
+  ('2024-05-24','Kite Hill Greek Style Plant-Based Yogurt',2),
+  /* 2024-05-24 Trader Joe's; total cost $54.22; checkout at 7:32 PM; paid by debit card */
+  ('2024-05-24','Red bell pepper',2),
+  ('2024-05-24','Beefsteak tomato',8),
+  ('2024-05-24','TJ Kale',2),
+  ('2024-05-24','TJ Almond Milk',1),
+  ('2024-05-24','TJ Broccoli Florets 12 oz',1),
+  ('2024-05-24','TJ Carrots',1),
+  ('2024-05-24','Green bell pepper',4),
+  ('2024-05-24','TJ English Shelled Peas',3),
+  ('2024-05-24','TJ Miso Ginger Broth',1),
+  ('2024-05-24','TJ Organic Couscous',2),
+  ('2024-05-24','TJ Green Lentils',3);

@@ -266,5 +266,14 @@ recorded in [food_purchases.sql](../sql/food_purchases.sql).
 
 In the late morning, I went to downtown Berkeley. I first stopped at
 Ace Hardware from where I purchased some drain cleaner. After that, I
-went to Trader Joe's for my usual food purhcases recorded in
+went to Trader Joe's for my usual food purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday May 24
+
+In the afternoon, I made a trip to Berkeley Bowl (purchases recorded
+in [food_purchases.sql](../sql/food_purchases.sql)) and then to the
+nearby Walgreens. Later in the evening, I made a brief trip to
+Walgreens to exchange an incorrectly purchased item, then went to
+Trader Joe's for my usual food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
