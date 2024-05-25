@@ -574,6 +574,10 @@ after the initial peak. I'm hoping that this recurrence is brief. A few contribu
   might have interacted with the residual abdominal pain issues and
   the sore throat issues.
 
+I did a bunch of palpation tests and pain self-ratings. My rating
+(following [this](abdominal-palpation-sensations.md)) varied between
+NSS, P0.0, P0.1, and P1.1.
+
 ## Thermal comfort
 
 After the chills I experienced on 2024-04-25, and clearly feeling more
