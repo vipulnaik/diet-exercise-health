@@ -274,6 +274,7 @@ went to Trader Joe's for my usual food purchases recorded in
 In the afternoon, I made a trip to Berkeley Bowl (purchases recorded
 in [food_purchases.sql](../sql/food_purchases.sql)) and then to the
 nearby Walgreens. Later in the evening, I made a brief trip to
-Walgreens to exchange an incorrectly purchased item, then went to
-Trader Joe's for my usual food purchases recorded in
+Walgreens to exchange an incorrectly purchased item, stopped by at
+Citibank for financial transactions, then went to Trader Joe's for my
+usual food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
