@@ -1,7 +1,7 @@
 # Best practices around fasting
 
 This document includes some best practices to follow before, during,
-and after a fast. I define a "fast" as being 18 or more hours of not
+and after a fast. I define a "fast" as being 19 or more hours of not
 eating, or 10 or more hours of not having my first meal after waking
 up, or 3 or more hours of a combination of travel, standing activity,
 or being seated in the sun without food and water since waking up. My
