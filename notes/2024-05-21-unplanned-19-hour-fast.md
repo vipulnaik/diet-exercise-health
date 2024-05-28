@@ -82,8 +82,9 @@ should probably stay off of sauerkraut and walnuts for the time being
 and continue to drink extra water.
 
 As before, I had no trouble speaking -- the soreness was not affecting
-my vocal cords. Also, unlike the previous day, I did not experience
-fatigue and in fact had a fairly productive day.
+my vocal cords, so it was likely limited to the post-pharynx part (the
+esophagus). Also, unlike the previous day, I did not experience fatigue
+and in fact had a fairly productive day.
 
 ## 2024-05-24 (three days later)
 
@@ -92,9 +93,31 @@ area. Overnight, I noticed a bit of drooling though I was able to
 catch it in time in all cases and there were no visible stains on the
 pillow. Drinking water in the morning helped.
 
+I started documenting the [best practices around
+fasting](best-practices-around-fasting.md). In particular, the things
+I immediately implemented were to switch from sauerkraut to vegan
+probiotic yogurt and to stop consumption of walnuts.
+
 Later in the day, the sore throat improved, surprisingly accompanied
 by an increase in abdominal pain. I've noted this down in the
 [2024-04-25 abdominal pain doc](2024-04-25-abdominal-pain.md).
+
+## 2024-05-26 (five days later)
+
+By this morning I was no longer feeling any clear pain, though I did
+occasionally notice a bit of soreness in the area, not to a level that
+bothered me. Thus, I started the 48-hour countdown for the
+reintroduction of walnuts / sauerkraut.
+
+## 2024-05-28 (seven days later)
+
+After going through 48 hours after soreness, I resumed walnuts with my
+morning meal. I did not resume sauerkraut in the same meal in order to
+be able to monitor for any increased soreness after consuming the
+walnuts, so as not to compound the problem too much. I also chose only
+about 50-70% of my usual walnut consumption, and paid particular
+attention to chewing the walnuts to reduce sharp edges as it went
+down.
 
 ## For comparison
 

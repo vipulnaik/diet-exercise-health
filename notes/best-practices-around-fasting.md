@@ -48,9 +48,17 @@ water.
   hours after a fast or after last-experienced soreness. Go for vegan
   probiotic yogurt instead.
 
+  NOTE: Don't resume in the same meal as resuming walnuts, so as to be
+  able to isolate any adverse effects of resuming. Stagger the
+  resumption into separate meals and, if possible, into separate days.
+
 * Walnuts: The sharp edges of the nuts could irritate an already
   inflamed esophagus. Walnuts should be avoided for about 48 hours
   after a fast or after last-experienced soreness.
+
+  NOTE: Don't resume in the same meal as resuming walnuts, so as to be
+  able to isolate any adverse effects of resuming. Stagger the
+  resumption into separate meals.
 
 * Oil: I don't generally have standalone oil anyway, but this
   avoidance can be interpreted in terms of avoiding oil-rich portions
@@ -58,6 +66,11 @@ water.
   storage containers whereas the others are heavier on the soft
   vegetables). This caution should be maintained for the first two
   meals after breaking the fast.
+
+* Cayenne pepper / red pepper: For any meals prepared after I am aware
+  of a sore throat or anticipate consuming after a fast, I shouldn't
+  add red pepper to the food. However, it's fine to consume
+  already-cooked food that has a bit of red pepper.
 
 ## Foods to have more of after a fast
 
