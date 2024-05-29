@@ -119,6 +119,16 @@ about 50-70% of my usual walnut consumption, and paid particular
 attention to chewing the walnuts to reduce sharp edges as it went
 down.
 
+For my second meal of the day, I had a little bit of sauerkraut and
+skipped walnuts. I kept my sauerkraut consumption to within 50-70% of
+what I would normally consume.
+
+As of the evening of 2024-05-28, there was no major comeuppance,
+though I did notice a bit of soreness on occasion. My plan for the
+next few days is to continue on a cautious trajectory, keeping
+consumption similar to 2024-05-28 for the next 2 days and then
+considering returning closer to normal.
+
 ## For comparison
 
 For comparison, see [2024-01-27: unplanned 22-hour
