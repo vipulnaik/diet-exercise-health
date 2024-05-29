@@ -35,22 +35,25 @@ I'm generally not in a hurry to get anywhere, and if there are
 significant traffic logjams I might change my route a little bit.
 
 I aim to jog for the full duration of at least one way (1 mile) plus
-at least a quarter of the other way (0.25 miles) minus some parts
+at least 40% of the other way (0.4 miles) minus some parts
 where I have to slow down (e.g., when crossing a road, or due to dogs
 or children nearby who might get excited by somebody moving fast, or
 when cars are moving out of parking spots). So in general I aim to jog
-at least 1.25 miles and walk the remaining 0.75 miles. When I have
+at least 1.4 miles and walk the remaining 0.6 miles. When I have
 more energy, I may jog a larger portion, and therefore walk back a
 shorter residual duration. In general, when reasonably energetic, I
-jog about 1.4-1.5 miles and walk back the remaining 0.5-0.6 miles.
+jog about 1.4-1.6 miles and walk back the remaining 0.4-0.6 miles.
 
 Overall, one way (the first 1 mile, mostly jogging) takes me about
 12-15 minutes and the return journey (mix of jogging and walking)
-takes me about 15-20 minutes.
+takes me about 14-18 minutes.
+
+Prior to 2024-05-29, the threshold was 1.25 miles jogging instead of
+the current threshold of 1.4 miles joging.
 
 I record in my exercise tracker file (for instance, [2024 exercise
 tracker](2024-exercise-tracker.md) for 2024) when I skip jogging or
-jog less than 1.25 miles.
+jog less than the threshold.
 
 ### Gap to meal
 
