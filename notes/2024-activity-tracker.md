@@ -278,3 +278,10 @@ Walgreens to exchange an incorrectly purchased item, stopped by at
 Citibank for financial transactions, then went to Trader Joe's for my
 usual food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Tuesday May 28
+
+In the evening, I went to downtown Berkeley. I first stopped by at the
+downtown Berkeley BART to top up my Clipper Card balance. I then went
+to Trader Joe's for my usual food purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
