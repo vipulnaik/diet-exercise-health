@@ -24,6 +24,7 @@ Sections of this document:
 * [Other notes](#other-notes)
 * [Not feeling well starting 2023-07-10 likely due to antibiotic](#not-feeling-well-starting-2023-07-10-likely-due-to-antibiotic)
 * [MedWatch report made 2023-09-10](#medwatch-report-made-2023-09-10)
+* [Later findings](#later-findings)
 
 ## Temperature readings
 
@@ -1548,3 +1549,24 @@ taken it once the problems started.
 
 - [ ] Yes
 - [x] No
+
+## Later findings
+
+## 2023-11-10
+
+Randomly watching YouTube, I came across a story of a guy (Mark Hyman,
+a well-known functional medicine doctor) who had a bad digestive
+reaction to the same antibiotic (clindamycin) as I had, also taken
+after a dental procedure. Though in his case it looks like it took 5
+months to recover, versus 2-3 weeks in my case. See
+[here](https://www.youtube.com/watch?v=-TAUAgPMSGc&t=1396s).
+
+## 2024-05-29
+
+While watching the Ninja Nerd YouTube video on diarrhea, I came across
+[this part](https://www.youtube.com/watch?v=7ylgYbLCEA0&t=1197s) that
+talks about c. diff infection due to antibiotics as a cause for
+diarrhea. This led me to locate a [Mayo Clinic article
+fragment](https://www.mayoclinic.org/diseases-conditions/c-difficile/symptoms-causes/syc-20351691#:~:text=Without%20enough%20helpful%20bacteria%20to,Clindamycin)
+that puts clindamycin as the leading cause for c. diff causing
+diarrhea. I think this fits with my symptoms.
