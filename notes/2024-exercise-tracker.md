@@ -456,3 +456,10 @@ The minor factors, which might be interconnected, include:
   trip planning, leaving me less time
 * Being a little off-game due to the sleep cycle adjustment needed for
   trip planning, along with the slightly colder weather
+
+## 2024-05-30: skipped jogging due to insufficient sleep and tight morning schedule
+
+On 2024-05-30, I went to sleep the last night at 1:55 AM due to
+laundry delays out of my control. I woke up around 7:15 AM. I had
+morning meetings starting 10 AM, and was also a bit fatigued due to
+insufficient sleep, so I decided to skip jogging.
