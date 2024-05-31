@@ -285,3 +285,10 @@ In the evening, I went to downtown Berkeley. I first stopped by at the
 downtown Berkeley BART to top up my Clipper Card balance. I then went
 to Trader Joe's for my usual food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday May 31
+
+Shortly after noon, I went to Berkeley Bowl for some grocery purchases
+and then to the nearby Walgreens for some toiletry purchases. The
+Berkeley Bowl purchases are recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
