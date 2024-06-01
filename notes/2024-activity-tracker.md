@@ -292,3 +292,6 @@ Shortly after noon, I went to Berkeley Bowl for some grocery purchases
 and then to the nearby Walgreens for some toiletry purchases. The
 Berkeley Bowl purchases are recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+In the evening, I went for a bureaucratic trip and stopped at
+Walgreens on the way back to buy a few toiletries.
