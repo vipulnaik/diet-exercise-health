@@ -31,4 +31,7 @@ insert into blood_pressure_readings(reading_date, index_within_reading_date, mea
   ('2024-05-25',9,'self','left arm',102,65,66,'I took this reading at 7:47 PM, about 5-10 minutes after finishing eating. I had drunk water after eating and then urinated, and returned to a seating position about 1-2 minutes prior to the reading.'),
   ('2024-05-25',10,'self','left arm',102,66,60,'This reading, taken around 7:50 PM, was a repeat reading for the preceding reading that I had taken shortly after my meal. The readings were similar on blood pressure, with the heart rate being slightly lower, likely because of having been seated for a little longer.'),
   ('2024-05-25',11,'self','left arm',103,69,61,'This reading was taken around 8:28 PM as a 30-60 minute followup after eating. I had been seated for all the time since the previous readings that were taken 5-15 minutes after eating (at 7:50 PM and 7:53 PM).'),
-  ('2024-05-25',12,'self','left arm',99,62,58,'This reading, taken around 8:30 PM, was a repeat reading for the preceding reading for a 30-60 minute followup after eating.');
+  ('2024-05-25',12,'self','left arm',99,62,58,'This reading, taken around 8:30 PM, was a repeat reading for the preceding reading for a 30-60 minute followup after eating.'),
+  /* 2024-06-02 */
+  ('2024-06-02',1,'self','left arm',96,63,55,'This reading, taken around 9:50 AM, was over an hour after eating and about 10 minutes after urinating and drinking water. I took this reading as a benchmark after sleep cycle adjustments and before potential upcoming travel.'),
+  ('2024-06-02',2,'self','left arm',94,59,54,'This reading, taken around 9:53 AM, was a repeat reading for the previous reading.');
