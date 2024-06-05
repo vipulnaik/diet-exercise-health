@@ -2604,8 +2604,12 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-05-31','Wild Harvest Organic Lentils',2),
   ('2024-05-31','Kite Hill Greek Style Plant-Based Yogurt',1),
   /* 2024-06-03 Trader Joe's; total cost $22.94; checkout at 8:34 PM; paid by debit card;
-     I am not including a couple of non-food items purchased*/
+     I am not including a couple of non-food items purchased */
   ('2024-06-03','TJ Miso Ginger Broth',1),
   ('2024-06-03','TJ Almond Milk',1),
   ('2024-06-03','TJ Sauerkraut',1),
-  ('2024-06-03','TJ Walnuts',1);
+  ('2024-06-03','TJ Walnuts',1),
+  /* 2024-06-04 Whole Foods; total cost $9.37; checkout at 8:07 PM; paid by debit card;
+     I am not including a non-food item purchased */
+  ('2024-06-04','Himalayan Fine Pink Salt',1),
+  ('2024-06-04','Kite Hill Vanilla Almond Yogurt (small)',1);
