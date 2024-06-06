@@ -2612,4 +2612,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2024-06-04 Whole Foods; total cost $9.37; checkout at 8:07 PM; paid by debit card;
      I am not including a non-food item purchased */
   ('2024-06-04','Himalayan Fine Pink Salt',1),
-  ('2024-06-04','Kite Hill Vanilla Almond Yogurt (small)',1);
+  ('2024-06-04','Kite Hill Vanilla Almond Yogurt (small)',1),
+  /* 2024-06-05 Whole Foods; total cost $9.47; checkout at 5:42 PM; paid by debit card */
+  ('2024-06-05','Kite Hill Vanilla Almond Yogurt (small)',2),
+  ('2024-06-05','Whole Foods Organic Multigrain and Seed Sandwich Bread',1);
