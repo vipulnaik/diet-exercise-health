@@ -1,4 +1,15 @@
-# Hand gripper exercise history
+# Hand gripper exercise (with history)
+
+## Current protocol as of 2024-06-08
+
+* 100 lb hand gripper fully closed for about 10 to 20 seconds (as much
+  as I can do comfortably) in each hand separately
+
+* 150 lb hand gripper for about 3 to 5 seconds (as much as i can do
+  comfortably) in each hand separately
+
+* 200 lb hand gripper -- try to close as much as possible (I cannot
+  fully close)
 
 ## Initial purchase on 2023-07-05
 
