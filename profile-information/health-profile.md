@@ -61,17 +61,17 @@ have measured a heart rate of 44-55 bpm.
 Generally, when my resting heart rate exceeds 75 bpm, I can "feel" my
 heart racing. After I took antibiotics as part of my recovery process
 from the [2023-07-05 wisdom tooth removal (left
-side)](2023-07-05-wisdom-tooth-removal-left-side.md), there were
-periods where I could feel my heart racing. I didn't have the pulse
-oximeter at the time, so I relied on crude measurement of my heart
-rate, and the crude estimate was around 80 bpm.
+side)](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md),
+there were periods where I could feel my heart racing. I didn't have
+the pulse oximeter at the time, so I relied on crude measurement of my
+heart rate, and the crude estimate was around 80 bpm.
 
 I record my heart rate (measured using the Omron blood pressure
 machine) as part of my monthly blood pressure readings in
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
 
 For extensive older experiment results, see
-[2023-08-18-pulse-oximeter-experimentation.md](2023-08-18-pulse-oximeter-experimentation.md).
+[2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
 
 ### SpO2 (saturation percentage of oxygen)
 
@@ -82,7 +82,7 @@ breath hold, but it quickly rebounds and even overshoots before
 settling back to its equilibrium value.
 
 For more extensive experiment results, see
-[2023-08-18-pulse-oximeter-experimentation.md](2023-08-18-pulse-oximeter-experimentation.md).
+[2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
 
 ### Temperature
 
@@ -90,14 +90,14 @@ My temperature, as measured by a non-contact forehead infrared
 thermometer, ranges from 97.6 to 99. Temperatures at the high end of
 this range, when I am feeling well, are generally due to high ambient
 temperatures for an extended period of time. See
-[2021-08-temperature-baseline.md](2021-08-temperature-baseline.md) for
-a historical established temperature baseline.
+[2021-08-temperature-baseline.md](../events/2021/2021-08-temperature-baseline.md)
+for a historical established temperature baseline.
 
 ### Blood pressure
 
-My most recent at-home resting blood pressure readings were 111/70 and
-112/70. Later readings on the same day after doing breath holds were
-112/75 and 115/75.
+My most recent at-home resting blood pressure readings were 96/63 and
+94/59. I've had home blood pressure readings with the systolic between
+95 and 115 and the diastolinc between 55 and 75.
 
 For more on my history of blood pressure readings, see
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
@@ -783,9 +783,10 @@ I may do a limited subset of these exercises, or reduce their
 frequency or intensity.
 
 I describe my exercise routine in more detail in
-[exercise-routine.md](exercise-routine.md). I record my deviations
-from routine in an annual tracker file. For instance, for 2024, see
-the [2024 exercise tracker](2024-exercise-tracker.md).
+[exercise-routine.md](physical-exercise/exercise-routine.md). I record
+my deviations from routine in an annual tracker file. For instance,
+for 2024, see the [2024 exercise
+tracker](../events/2024/2024-exercise-tracker.md).
 
 ### History of exercise
 
@@ -893,10 +894,10 @@ and in most cases, I have to throw it after it expires.
 ### Past medication consumption
 
 * 2024-04-25: I took a dose of acetaminophen to address my [2024-04-25
-  abdominal pain](2024-04-25-abdominal-pain.md).
+  abdominal pain](../events/2024/2024-04-25-abdominal-pain.md).
 
 * [2023-08-23 wisdom tooth removal (right
-  side)](2023-08-23-wisdom-tooth-removal-right-side.md#consumption-of-medications):
+  side)](../events/2023/2023-08-23-wisdom-tooth-removal-right-side.md#consumption-of-medications):
   I consumed a few doses of pain medication, specifically 1 dose of
   hydrocodone / acetaminophen and 2 doses of ibuprofen. This was much
   less than the prescribed amount, but taking the pain medication was
@@ -906,7 +907,7 @@ and in most cases, I have to throw it after it expires.
   body's signals.
 
 * [2023-07-05 wisdom tooth removal (left
-  side)](2023-07-05-wisdom-tooth-removal-left-side.md#consumption-of-medications):
+  side)](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md#consumption-of-medications):
   I consumed 6 doses each of the antibiotic clindamycin, hydrocodone /
   acetaminophen, and ibuprofen. I had severe side-effects, likely from
   the consumption of the antibiotic. More details are in later
@@ -914,7 +915,7 @@ and in most cases, I have to throw it after it expires.
 
 * 2023-07-03: I took a test dose of acetaminophen in preparation for
   possibly needing to take it after my wisdom tooth removal. See
-  [2023-07-03-acetaminophen-consumption.md](2023-07-03-acetaminophen-consumption.md)
+  [2023-07-03-acetaminophen-consumption.md](../events/2023/2023-07-03-acetaminophen-consumption.md)
   for more details.
 
 I do not recall taking any non-supplement medication other than these
@@ -925,9 +926,10 @@ recall.
 ### Prescriptions that I did not consume
 
 On 2024-04-30, in my [urgent care
-visit](2024-04-30-urgent-care-visit-and-tests.md) in response to my
-[abdomainal pain starting 2024-04-25](2024-04-25-abdominal-pain.md), I
-was prescribed a proton pump inhibitor (PPI) called pantoprazole
+visit](../events/2024/2024-04-30-urgent-care-visit-and-tests.md) in
+response to my [abdomainal pain starting
+2024-04-25](../events/2024/2024-04-25-abdominal-pain.md), I was
+prescribed a proton pump inhibitor (PPI) called pantoprazole
 (Protonix) with the direction to take up to once daily for
 pain. However, based on my later pain trajectory and my research, I
 decided not to take the PPI.
