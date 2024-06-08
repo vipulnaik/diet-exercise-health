@@ -463,3 +463,23 @@ On 2024-05-30, I went to sleep the last night at 1:55 AM due to
 laundry delays out of my control. I woke up around 7:15 AM. I had
 morning meetings starting 10 AM, and was also a bit fatigued due to
 insufficient sleep, so I decided to skip jogging.
+
+## 2024-06-02: skipped jogging to focus on Portland trip prep
+
+2024-06-02 was the day prior to my Portland trip. I skipped jogging to
+focus on trip prep.
+
+## 2024-06-03 to 2024-06-07: in Portland, no jogging or other normal exercise (But lots of walking)
+
+From 2024-06-03 to 2024-06-07, I was in Portland. I had to maintain a
+morning schedule in an unfamiliar place, so I skipped jogging. But I
+did walk quite a bit -- from hotel to work, for shopping, etc. So I
+think I got quite a bit of exercise, though of a different sort than
+usual. Google Maps estimates that I walked 18 miles over the period.
+
+I also skipped breath holds, hand gripper exercise, and strength exercises.
+
+## 2024-06-08: skipped exercise to allow for post-travel recovery
+
+On 2024-06-08, I skipped jogging as well  to allow me to recover and catch up
+after my travel.
