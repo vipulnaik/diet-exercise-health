@@ -1,10 +1,14 @@
-# 2023-07-29: hand gripper exercise
+# Hand gripper exercise history
+
+## Initial purchase on 2023-07-05
 
 On July 5, 2023, I placed an order for a set of 3 hand grippers: 100
 lb, 150 lb, and 200 lb. I picked the order up on July 8. However,
 since I was still recovering from wisdom tooth removal at the time,
 and then had antibiotic-induced digestive issues, I did not
 immediately start using the hand grippers.
+
+## Initial use on 2023-07-29
 
 Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
 
