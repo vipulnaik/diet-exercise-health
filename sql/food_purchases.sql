@@ -2603,16 +2603,21 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-05-31','Lundberg Sustainable California White Basmati Rice',2),
   ('2024-05-31','Wild Harvest Organic Lentils',2),
   ('2024-05-31','Kite Hill Greek Style Plant-Based Yogurt',1),
-  /* 2024-06-03 Trader Joe's; total cost $22.94; checkout at 8:34 PM; paid by debit card;
+  /* 2024-06-03 Trader Joe's (2122 NW Glisan Ave, Portland); total cost $22.94; checkout at 8:34 PM; paid by debit card;
      I am not including a couple of non-food items purchased */
   ('2024-06-03','TJ Miso Ginger Broth',1),
   ('2024-06-03','TJ Almond Milk',1),
   ('2024-06-03','TJ Sauerkraut',1),
   ('2024-06-03','TJ Walnuts',1),
-  /* 2024-06-04 Whole Foods; total cost $9.37; checkout at 8:07 PM; paid by debit card;
+  /* 2024-06-03 India House Oregon, Portland */
+  ('2024-06-03','India House Oregon rice',2), /* cost $3 each, so $6 total */
+  ('2024-06-04','India House Oregon aloo sag',1), /* had accompanying rice; cost $13 */
+  /* 2024-06-04 Whole Foods (1210 NW Couch St, Portland); total cost $9.37; checkout at 8:07 PM; paid by debit card;
      I am not including a non-food item purchased */
   ('2024-06-04','Himalayan Fine Pink Salt',1),
   ('2024-06-04','Kite Hill Vanilla Almond Yogurt (small)',1),
-  /* 2024-06-05 Whole Foods; total cost $9.47; checkout at 5:42 PM; paid by debit card */
+  /* 2024-06-04 Dil Se Indian Cuisine, Portland (my portion of shared meal) */
+  ('2024-06-04','Dil Se Indian Cuisine half chana masala and half aloo gobi',1), /* had accompanying rice; cost $13 ($13 each for full, then halved due to sharing */
+  /* 2024-06-05 Whole Foods (1210 NW Couch St, Portland); total cost $9.47; checkout at 5:42 PM; paid by debit card */
   ('2024-06-05','Kite Hill Vanilla Almond Yogurt (small)',2),
   ('2024-06-05','Whole Foods Organic Multigrain and Seed Sandwich Bread',1);

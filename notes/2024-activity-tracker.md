@@ -295,3 +295,9 @@ Berkeley Bowl purchases are recorded in
 
 In the evening, I went for a bureaucratic trip and stopped at
 Walgreens on the way back to buy a few toiletries.
+
+## Monday June 3 to Friday June 7
+
+From Monday June 3 to Friday June 7, I was in Portland for a
+work-related trip. I don't plan to publicly document most trip
+details, though I do plan to include most of the food purchases.
