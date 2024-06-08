@@ -17,7 +17,7 @@ relation with meal, etc.
 
 Similarly, for food, I do record all purchases of restaurant food in
 my [activity
-tracker](https://github.com/vipulnaik/diet-exercise-health/tree/master/notes/2021-activity-tracker.md)
+tracker](https://github.com/vipulnaik/diet-exercise-health/tree/master/events/2021/2021-activity-tracker.md)
 (albeit not in a computable format). I am now thinking of adding
 information on the specifics of all food purchases (from both grocery
 stores and restaurants) in a computable format. This is a

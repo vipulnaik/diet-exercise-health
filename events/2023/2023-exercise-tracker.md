@@ -86,7 +86,7 @@ running distance.
 Between 2023-10-14 and 2023-10-20, I took a break from strength
 exercises (except the hand gripper exercise, that I continued to do)
 due to slight soreness after my [flu
-shot](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-10-13-flu-shot.md)
+shot](https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2023/2023-10-13-flu-shot.md)
 and in order to reduce the risk of exacerbating that soreness. I
 resumed strength exercises (weights and pushups) on 2023-10-21.
 
