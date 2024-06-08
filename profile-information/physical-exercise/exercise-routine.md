@@ -274,30 +274,16 @@ practice, I generally do somewhere between 23 and 40 seconds on each
 leg.
 
 See
-[2023-10-28-standing-on-one-leg-with-eyes-closed.md](2023-10-28-standing-on-one-leg-with-eyes-closed.md)
+[standing-on-one-leg-with-eyes-closed-with-history.md](2023-10-28-standing-on-one-leg-with-eyes-closed-with-history.md)
 for more details.
 
 ## Hand gripper exercise
 
-I use 100 lb, 150 lb, and 200 lb metal hand grippers. See
-[here](hand-gripper-exercise-with-history.md) for more details.
-
-### Reasons for skipping
-
-* **Sickness or recent medical treatment**: See similar explanation
-  for jogging.
-
-* **Preemptive break to relax and conserve energy**: See similar
-  explanation for jogging.
-
-* **Hand injury**: If I have a cut on one of the hands, I want to skip
-  the hand gripper exercises for that hand to avoid putting stress
-  on the cut.
-
-* **Preemptive break to improve hand appearance**: If there are
-  particular reasons I really care about having good hands, I might
-  take a break from the hand gripper (or at least the 150 lb hand
-  gripper).
+I started doing hand gripper exercise in July 2023 and have been
+ramping up slowly in terms of both the strength of the gripper and the
+duration of closing. I use 100 lb, 150 lb, and 200 lb metal hand
+grippers. See [here](hand-gripper-exercise-with-history.md) for more
+details, including reasons for skipping.
 
 ## Breath holds
 

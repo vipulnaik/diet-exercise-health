@@ -34,6 +34,23 @@ number of closes, or duration of holding close, by too much, I get
 calluses in the areas where I'm trying to grip hard. These are pretty
 harmless, but I still need to keep this in mind.
 
+### Reasons for skipping
+
+* **Sickness or recent medical treatment**: See similar explanation
+  for jogging.
+
+* **Preemptive break to relax and conserve energy**: See similar
+  explanation for jogging.
+
+* **Hand injury**: If I have a cut on one of the hands, I want to skip
+  the hand gripper exercises for that hand to avoid putting stress
+  on the cut.
+
+* **Preemptive break to improve hand appearance**: If there are
+  particular reasons I really care about having good hands, I might
+  take a break from the hand gripper (or at least the 150 lb hand
+  gripper).
+
 ## History
 
 ### Initial purchase on 2023-07-05
