@@ -1,4 +1,4 @@
-# 2023-10-28: standing on one leg with eyes closed
+# Standing on one leg with eyes closed (with history)
 
 I've been doing exercises involving standing on one leg with eyes
 closed for a while, but on 2023-10-29 (and starting with
@@ -36,7 +36,7 @@ The standard version of the exercise is as follows:
 * Starting 2023-11-18, the threshold duration was increased to 14
   seconds
 
-* Starting 2024-01-18, I'm planning to follow this rule:
+* Starting 2024-01-18, I followed this rule:
 
   * Baseline of 18 seconds
 
