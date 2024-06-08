@@ -1,17 +1,42 @@
 # Hand gripper exercise (with history)
 
-## Current protocol as of 2024-06-08
+## Current protocol and status as of 2024-05-13
 
-* 100 lb hand gripper fully closed for about 10 to 20 seconds (as much
-  as I can do comfortably) in each hand separately
+See below:
 
-* 150 lb hand gripper for about 3 to 5 seconds (as much as i can do
-  comfortably) in each hand separately
+* Right hand on 100 lb: closes comfortably and consistently even after
+  many repetitions; can generally hold in closed position with slight
+  quivers for at least 10 seconds, occasionally up to 20 seconds
 
-* 200 lb hand gripper -- try to close as much as possible (I cannot
-  fully close)
+* Left hand on 100 lb: closes comfortably and consistently even after
+  many repetitions; can generally hold in closed position with slight
+  quivers for at least 10 seconds, occasionally up to 20 seconds
 
-## Initial purchase on 2023-07-05
+* Right hand on 150 lb: closes consistently most of the time, up to at
+  least two repetitions; however, it may not close if I have just done
+  a long hold with the 100 lb, likely due to temporary fatigue; can
+  hold for somewhere between 3 and 5 seconds with slight quivers once
+  closed
+
+* Left hand on 150 lb: has closed a few times but most of the time,
+  comes just short of closing
+
+* Right hand on 200 lb: I am far from being able to close. I can just
+  about get to parallel.
+
+* Left hand on 200 lb: I am far from being able to close. I can just
+  about get to parallel.
+
+The effective frequency may be about 4 to 8 rounds per day.
+
+If I try to force a significant increase in the hand gripper rating,
+number of closes, or duration of holding close, by too much, I get
+calluses in the areas where I'm trying to grip hard. These are pretty
+harmless, but I still need to keep this in mind.
+
+## History
+
+### Initial purchase on 2023-07-05
 
 On July 5, 2023, I placed an order for a set of 3 hand grippers: 100
 lb, 150 lb, and 200 lb. I picked the order up on July 8. However,
@@ -19,7 +44,7 @@ since I was still recovering from wisdom tooth removal at the time,
 and then had antibiotic-induced digestive issues, I did not
 immediately start using the hand grippers.
 
-## Initial use on 2023-07-29
+### Initial use on 2023-07-29
 
 Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
 

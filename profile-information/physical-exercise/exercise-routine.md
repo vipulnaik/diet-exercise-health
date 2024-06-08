@@ -279,55 +279,8 @@ for more details.
 
 ## Hand gripper exercise
 
-For more historical background, see
-[2023-07-29-hand-gripper-exercise.md](2023-07-29-hand-gripper-exercise.md).
-
-### Description and frequency
-
-I keep a 100 lb hand gripper, a 150 lb hand gripper, and a 200 lb hand
-gripper (experimental) on my desk, readily accessible to me when
-working on my computer. Sometimes when taking a brief break from work,
-or while on a call where I'm talking or listening and therefore not
-using my hands to type, I'll use the hand grippers.
-
-In each round, I try to do at least two attempted closes of the hand
-gripper.
-
-As of 2024-05-13, my situation is:
-
-* Right hand on 100 lb: closes comfortably and consistently even after
-  many repetitions; can generally hold in closed position with slight
-  quivers for at least 10 seconds, occasionally up to 20 seconds
-
-* Left hand on 100 lb: closes comfortably and consistently even after
-  many repetitions; can generally hold in closed position with slight
-  quivers for at least 10 seconds, occasionally up to 20 seconds
-
-* Right hand on 150 lb: closes consistently most of the time, up to at
-  least two repetitions; however, it may not close if I have just done
-  a long hold with the 100 lb, likely due to temporary fatigue; can
-  hold for somewhere between 3 and 5 seconds with slight quivers once
-  closed
-
-* Left hand on 150 lb: has closed a few times but most of the time,
-  comes just short of closing
-
-* Right hand on 200 lb: I am far from being able to close. I can just
-  about get to parallel.
-
-* Left hand on 200 lb: I am far from being able to close. I can just
-  about get to parallel.
-
-The effective frequency may be about 4 to 8 rounds per day.
-
-If I try to force a significant increase in the hand gripper rating,
-number of closes, or duration of holding close, by too much, I get
-calluses in the areas where I'm trying to grip hard. These are pretty
-harmless, but I still need to keep this in mind.
-
-See
-[2023-07-29-hand-gripper-exercise.md](2023-07-29-hand-gripper-exercise.md)
-for more history.
+I use 100 lb, 150 lb, and 200 lb metal hand grippers. See
+[here](hand-gripper-exercise-with-history.md) for more details.
 
 ### Reasons for skipping
 
@@ -336,6 +289,10 @@ for more history.
 
 * **Preemptive break to relax and conserve energy**: See similar
   explanation for jogging.
+
+* **Hand injury**: If I have a cut on one of the hands, I want to skip
+  the hand gripper exercises for that hand to avoid putting stress
+  on the cut.
 
 * **Preemptive break to improve hand appearance**: If there are
   particular reasons I really care about having good hands, I might
