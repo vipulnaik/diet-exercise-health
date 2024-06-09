@@ -57,3 +57,15 @@ stop bleeding after that, but I in any case bandaged it in preparation
 for an outside trip (my plan had been to bandage it right before
 heading out, but the brief re-bleeding made me bandage it a bit
 sooner).
+
+## Success with waterproof bandage
+
+In the evening, on the way to Trader Joe's, I stopped by Walgreens to
+stock up on bandages. While looking through the bandages, I noticed
+waterproof bandages so I decided to buy those (along with strong
+bandages). After returning home, I switched from my existing bandage
+to a waterproof bandage. I then proceeded to keep the bandage on while
+I cooked, washed my hands, and washed dishes. Overall, it didn't get
+too loose with water, except during a period where I was exposing it
+to water continuoudly. But even in that case,, it dried out within a
+few minutes.

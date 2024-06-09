@@ -72,10 +72,10 @@ Bandaging works great for injuries on the shoulder, arms, and
 legs. But it has issues with the areas most likely to get injured:
 hands and face. Specifically for hands:
 
-* Bandaging doesn't interact well with handwashing or any activities
-  that involve running water through the hands (such as washing
-  dishes). While we should try to avoid those activities anyway, in
-  some cases they need to be done.
+* Bandaging (other than waterproof bandaging!) doesn't interact well
+  with handwashing or any activities that involve running water
+  through the hands (such as washing dishes). While we should try to
+  avoid those activities anyway, in some cases they need to be done.
 
 * Bandaging can get in the way of eating.
 
@@ -94,18 +94,37 @@ for as long as possible, until I feel fully healed.
 
 However, in cases involving the hands or face, follow this guideline:
 
+* Use waterproof bandages, *except* when *all* these conditions are
+  satisfied:
+
+  * The cut is small and I expect it to heal within 30 minutes to the
+    point where no bandage is needed. This is typical of pin prick
+    cuts made when drawing blood. Here, a bandage is mainly just a way
+    to stop the bleeding a little faster and reduce the mess created
+    by blood on the fingers.
+
+  * I am at home or a home-like environment, and don't have immediate
+    need (over the next 1 hour at least) to apply water near the area,
+    for instance, to wash hands, wash dishes, etc.
+
+  Basically, when in doubt, and when on the move, use waterproof
+  bandages if available. The waterproof bandages are a little more
+  expensive but much better in terms of allowing me to do my normal
+  activities.
+
 * Keep the bandage until hemostasis has occurred. As a general rule,
   wait at least two hours before checking, unless checking is needed
   earlier because of some needed activity.
 
 * For severe cuts where hemostasis has occurred but the wound tends to
-  get irritated by hand washing, if you *do* need to hand wash, remove
-  the bandage first, do the activity, dry the hands, and then apply
-  the bandage again. In cases where there is no shortage of bandages,
-  apply a new bandage each time, However, in case of shortage of
-  bandages (for instnace, when outdoors with a relatively limited
-  supply of bandages), it's okay to reapply the bandage if it doesn't
-  have a lot of visible blood on it.
+  get irritated by hand washing, try to use a waterproof bandage. But
+  if no waterproof bandage is available, and you *do* need to hand
+  wash, remove the bandage first, do the activity, dry the hands, and
+  then apply the bandage again. In cases where there is no shortage of
+  bandages, apply a new bandage each time, However, in case of
+  shortage of bandages (for instnace, when outdoors with a relatively
+  limited supply of bandages), it's okay to reapply the bandage if it
+  doesn't have a lot of visible blood on it.
 
 * Put a bandage on overnight or over extended periods where I know
   that it won't conflict with anything.
