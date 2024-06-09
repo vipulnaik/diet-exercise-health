@@ -185,21 +185,21 @@ queries = [
     union
       select *, 'previous' as epoch from previous_daily_amounts;""",
 
-    "select * from daily_amounts_by_epoch where daily_total_carb_in_grams < 225 or daily_total_carb_in_grams > 335;",
+    "select epoch, daily_total_carb_in_grams from daily_amounts_by_epoch where daily_total_carb_in_grams < 225 or daily_total_carb_in_grams > 335;",
 
-    "select * from daily_amounts_by_epoch where daily_total_fat_in_grams < 50 or daily_total_fat_in_grams > 110;",
+    "select epoch, daily_total_fat_in_grams from daily_amounts_by_epoch where daily_total_fat_in_grams < 50 or daily_total_fat_in_grams > 110;",
 
-    "select * from daily_amounts_by_epoch where daily_sugars_in_grams > 45;",
+    "select epoch, daily_sugars_in_grams from daily_amounts_by_epoch where daily_sugars_in_grams > 45;",
 
-    "select * from daily_amounts_by_epoch where daily_protein_in_grams < 45;",
+    "select epoch, daily_protein_in_grams from daily_amounts_by_epoch where daily_protein_in_grams < 45;",
 
-    "select * from daily_amounts_by_epoch where daily_oxalate_in_mg > 300;",
+    "select epoch, daily_oxalate_in_mg from daily_amounts_by_epoch where daily_oxalate_in_mg > 300;",
 
-    "select * from daily_amounts_by_epoch where daily_calcium_in_mg < 650 or daily_calcium_in_mg > 2500;",
+    "select epoch, daily_calcium_in_mg from daily_amounts_by_epoch where daily_calcium_in_mg < 650 or daily_calcium_in_mg > 2500;",
 
-    "select * from daily_amounts_by_epoch where daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg < 1500 or daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg > 2700;",
+    "select epoch,  daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg as effective_daily_sodium_in_mg from daily_amounts_by_epoch where daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg < 1500 or daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg > 2700;",
 
-    "select * from daily_amounts_by_epoch where daily_potassium_in_mg < 3400 or daily_potassium_in_mg > 4700;",
+    "select epoch, daily_potassium_in_mg from daily_amounts_by_epoch where daily_potassium_in_mg < 3400 or daily_potassium_in_mg > 4700;",
 ]
 
 _connection = connection.connect()
