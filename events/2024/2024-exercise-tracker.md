@@ -479,7 +479,9 @@ usual. Google Maps estimates that I walked 18 miles over the period.
 
 I also skipped breath holds, hand gripper exercise, and strength exercises.
 
-## 2024-06-08: skipped exercise to allow for post-travel recovery
+## 2024-06-08 and 2024-06-09: skipped exercise to allow for post-travel recovery
 
-On 2024-06-08, I skipped jogging as well  to allow me to recover and catch up
-after my travel.
+On 2024-06-08, I skipped jogging as well to allow me to recover and
+catch up after my travel, both energy-wise and time-wise (to give me
+more time for post-travel actions).
+
