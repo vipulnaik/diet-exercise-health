@@ -2620,4 +2620,13 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-06-04','Dil Se Indian Cuisine half chana masala and half aloo gobi',1), /* had accompanying rice; cost $13 ($13 each for full, then halved due to sharing */
   /* 2024-06-05 Whole Foods (1210 NW Couch St, Portland); total cost $9.47; checkout at 5:42 PM; paid by debit card */
   ('2024-06-05','Kite Hill Vanilla Almond Yogurt (small)',2),
-  ('2024-06-05','Whole Foods Organic Multigrain and Seed Sandwich Bread',1);
+  ('2024-06-05','Whole Foods Organic Multigrain and Seed Sandwich Bread',1),
+  /* 2024-06-08 Trader Joe's (back to Berkeley!); total cost $44.60; checkout at 7:47 PM; paid by debit card */
+  ('2024-06-08','TJ Broccoli Florets 12 oz',1),
+  ('2024-06-08','TJ Almond Milk',1),
+  ('2024-06-08','TJ Miso Ginger Broth',1),
+  ('2024-06-08','TJ Cumin',1),
+  ('2024-06-08','TJ Turmeric',1),
+  ('2024-06-08','TJ English Shelled Peas',3),
+  ('2024-06-08','TJ Kale',2),
+  ('2024-06-08','Beefsteak tomato',10);

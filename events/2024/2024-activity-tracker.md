@@ -301,3 +301,9 @@ Walgreens on the way back to buy a few toiletries.
 From Monday June 3 to Friday June 7, I was in Portland for a
 work-related trip. I don't plan to publicly document most trip
 details, though I do plan to include most of the food purchases.
+
+## Saturday June 8
+
+In the evening, I went to Walgreens to buy bandages and then to Trader
+Joe's for food purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
