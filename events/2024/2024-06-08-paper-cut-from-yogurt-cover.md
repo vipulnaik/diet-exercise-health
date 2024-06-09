@@ -2,6 +2,8 @@
 
 This was on 2024-06-08 around 1 AM.
 
+## Time of cut (before going to sleep) on 2024-06-08
+
 ## How the cut happened
 
 I had finished consuming my vegan probiotic yogurt (Kite Hill
@@ -36,7 +38,9 @@ wouldn't be stable under handwashing, so I washed and dried my hands
 and then put on a new bandage. I went to sleep around 2:15 AM with the
 bandage.
 
-## After waking up
+## 2024-06-08 after waking up
+
+### Morning immediately after waking up
 
 I woke up around 7:45 AM and checked. There was still a scar but it
 was stable enough that I could run water over it, wash my hands,
@@ -46,7 +50,7 @@ the bandage off during the day while at home, with the possibility of
 putting it back on at night or when doing some tasks like carrying
 stuff where the area might get irritated.
 
-## Brief bleeding again due to agitation
+## Early evening: brief bleeding again due to agitation
 
 For most of the day, the cut seemed fairly okay, and in particular I
 was able to wah dishes, rinse, floss, and wash my hands without
@@ -58,7 +62,7 @@ for an outside trip (my plan had been to bandage it right before
 heading out, but the brief re-bleeding made me bandage it a bit
 sooner).
 
-## Success with waterproof bandage
+### Late evening: success with waterproof bandage
 
 In the evening, on the way to Trader Joe's, I stopped by Walgreens to
 stock up on bandages. While looking through the bandages, I noticed
@@ -69,3 +73,22 @@ I cooked, washed my hands, and washed dishes. Overall, it didn't get
 too loose with water, except during a period where I was exposing it
 to water continuoudly. But even in that case,, it dried out within a
 few minutes.
+
+### Night
+
+I kept the same waterproof bandage on at night. However, it seems to
+have come off some time during the night, likely due to the weakening
+after extensive use of water, hand soap, dish soap, etc. over the
+previous evening.
+
+## 2024-06-09
+
+### Morning
+
+Even before I fully woke up, I noticed that the waterproof bandage was
+no longer on my finger. I found that it was crumpled up on the bed
+nearby, so it must have come off, likely due to the weakening over the
+previous evening. The wound situation seemed fairly similar to
+yesterday, with no very clear improvement.
+
+I put a new bandage on shortly after waking up.
