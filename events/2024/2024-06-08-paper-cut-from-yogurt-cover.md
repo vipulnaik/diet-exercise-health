@@ -45,3 +45,15 @@ intrfere with my regular activities during the day, I decided to keep
 the bandage off during the day while at home, with the possibility of
 putting it back on at night or when doing some tasks like carrying
 stuff where the area might get irritated.
+
+## Brief bleeding again due to agitation
+
+For most of the day, the cut seemed fairly okay, and in particular I
+was able to wah dishes, rinse, floss, and wash my hands without
+issues. However, during the very end of doing my regular laundry,
+something happened, probably the laundry bag's edge ticked the thing,
+and it briefly bled again. The bleeding was one-off and it seemed to
+stop bleeding after that, but I in any case bandaged it in preparation
+for an outside trip (my plan had been to bandage it right before
+heading out, but the brief re-bleeding made me bandage it a bit
+sooner).
