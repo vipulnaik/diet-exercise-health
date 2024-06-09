@@ -92,3 +92,9 @@ previous evening. The wound situation seemed fairly similar to
 yesterday, with no very clear improvement.
 
 I put a new bandage on shortly after waking up.
+
+### Afternoon
+
+At around 2:30 PM, about 6.5 hours after I had put it on, and
+including dishwashing activities, etc. the waterproof bandage came
+off. I put a new bandage on.
