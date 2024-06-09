@@ -2611,7 +2611,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-06-03','TJ Walnuts',1),
   /* 2024-06-03 India House Oregon, Portland */
   ('2024-06-03','India House Oregon rice',2), /* cost $3 each, so $6 total */
-  ('2024-06-04','India House Oregon aloo sag',1), /* had accompanying rice; cost $13 */
+  ('2024-06-03','India House Oregon aloo sag',1), /* had accompanying rice; cost $13 */
   /* 2024-06-04 Whole Foods (1210 NW Couch St, Portland); total cost $9.37; checkout at 8:07 PM; paid by debit card;
      I am not including a non-food item purchased */
   ('2024-06-04','Himalayan Fine Pink Salt',1),
