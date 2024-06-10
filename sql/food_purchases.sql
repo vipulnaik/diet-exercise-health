@@ -2629,4 +2629,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-06-08','TJ Turmeric',1),
   ('2024-06-08','TJ English Shelled Peas',3),
   ('2024-06-08','TJ Kale',2),
-  ('2024-06-08','Beefsteak tomato',10);
+  ('2024-06-08','Beefsteak tomato',10),
+  /* 2024-06-09 Traer Joe's; total cost $37.54; checkout at 5:18 PM; paid by debit card */
+  ('2024-06-09','TJ Miso Ginger Broth',1),
+  ('2024-06-09','TJ English Shelled Peas',3),
+  ('2024-06-09','TJ Broccoli Florets 12 oz',1),
+  ('2024-06-09','TJ Kale',1),
+  ('2024-06-09','Green bell pepper',4),
+  ('2024-06-09','Red bell pepper',2),
+  ('2024-06-09','TJ Carrots',1),
+  ('2024-06-09','Gold potatoes 5 lb',1),
+  ('2024-06-09','Eggplant',2);

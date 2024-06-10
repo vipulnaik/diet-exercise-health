@@ -307,3 +307,9 @@ details, though I do plan to include most of the food purchases.
 In the evening, I went to Walgreens to buy bandages and then to Trader
 Joe's for food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Sunday June 9
+
+In the evening, I went to Walgreens to buy bandages (to augment the
+ones bought last time) and then to Trader Joe's for food purchases
+recorded in [food_purchases.sql](../sql/food_purchases.sql).
