@@ -8,20 +8,22 @@ queries = [
     select food_type, sum(quantity) as total_quantity, count(1) as freq
     from food_preparations_and_openings group by food_type;
 
-    drop table if exists wasted_items_with_frequencies;
+    drop table if exists post_opening_wasted_items_with_frequencies;
 
-    create table wasted_items_with_frequencies as
+    create table post_opening_wasted_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_waste group by food_type;
+    from food_waste
+    where after_preparation_or_opening
+    group by food_type;
 
     drop table if exists powed_items_with_frequencies;
 
     create table powed_items_with_frequencies as
     select food_type,
     prepared_and_opened_items_with_frequencies.total_quantity as total_quantity_prepared_and_opened,
-    coalesce(wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
-    prepared_and_opened_items_with_frequencies.total_quantity - coalesce(wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
-    from prepared_and_opened_items_with_frequencies left join wasted_items_with_frequencies
+    coalesce(post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
+    prepared_and_opened_items_with_frequencies.total_quantity - coalesce(post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
+    from prepared_and_opened_items_with_frequencies left join post_opening_wasted_items_with_frequencies
     using (food_type);
 
     drop table if exists powed_items_with_frequencies_and_nutrition;
@@ -41,9 +43,9 @@ queries = [
     ) <= 91
     group by food_type;
 
-    drop table if exists recently_wasted_items_with_frequencies;
+    drop table if exists recently_post_opening_wasted_items_with_frequencies;
 
-    create table recently_wasted_items_with_frequencies as
+    create table recently_post_opening_wasted_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
     from food_waste where least(
       datediff(curdate(), waste_date),
@@ -56,9 +58,9 @@ queries = [
     create table recently_powed_items_with_frequencies as
     select food_type,
     recently_prepared_and_opened_items_with_frequencies.total_quantity as total_quantity_prepared_and_opened,
-    coalesce(recently_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
-    recently_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(recently_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
-    from recently_prepared_and_opened_items_with_frequencies left join recently_wasted_items_with_frequencies
+    coalesce(recently_post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
+    recently_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(recently_post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
+    from recently_prepared_and_opened_items_with_frequencies left join recently_post_opening_wasted_items_with_frequencies
     using (food_type);
 
     drop table if exists recently_powed_items_with_frequencies_and_nutrition;
@@ -78,9 +80,9 @@ queries = [
     ) between 92 and 183
     group by food_type;
 
-    drop table if exists previously_wasted_items_with_frequencies;
+    drop table if exists previously_post_opening_wasted_items_with_frequencies;
 
-    create table previously_wasted_items_with_frequencies as
+    create table previously_post_opening_wasted_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
     from food_waste where least(
       datediff(curdate(), waste_date),
@@ -93,9 +95,9 @@ queries = [
     create table previously_powed_items_with_frequencies as
     select food_type,
     previously_prepared_and_opened_items_with_frequencies.total_quantity as total_quantity_prepared_and_opened,
-    coalesce(previously_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
-    previously_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(previously_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
-    from previously_prepared_and_opened_items_with_frequencies left join previously_wasted_items_with_frequencies
+    coalesce(previously_post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
+    previously_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(previously_post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
+    from previously_prepared_and_opened_items_with_frequencies left join previously_post_opening_wasted_items_with_frequencies
     using (food_type);
 
     drop table if exists previously_powed_items_with_frequencies_and_nutrition;
