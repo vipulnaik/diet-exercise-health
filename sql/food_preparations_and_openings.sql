@@ -6,7 +6,7 @@ create table food_preparations_and_openings(
 
 insert into food_preparations_and_openings(preparation_or_opening_date, food_type, quantity) values
   /* 2024-05-30 lentils prep */
-  ('2024-05-30','TJ Lentils',1),
+  ('2024-05-30','TJ Green Lentils',1),
   /* 2024-05-31 rice prep */
   ('2024-05-31','Lundberg Sustainable California White Basmati Rice',0.67),
   /* 2024-06-01 potatoes prep */

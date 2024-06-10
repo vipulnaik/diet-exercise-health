@@ -29,7 +29,7 @@ queries = [
     coalesce(max(total_carb_in_grams / calories), 0) as carb_calorie_ratio_max
     from food_types where broad_food_type is not null group by broad_food_type
     having carb_calorie_ratio_max > 2 * carb_calorie_ratio_min + 0.005
-    and not (broad_food_type in ('Sauerkraut'));""",
+    and not (broad_food_type in ('Sauerkraut','Vegan probiotic yogurt'));""",
 
     """
     select broad_food_type,

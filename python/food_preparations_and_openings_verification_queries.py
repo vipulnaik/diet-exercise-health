@@ -2,11 +2,11 @@ import shared, connection
 
 queries = [
     """
-    drop table if exists purchased_items_with_frequencies;
+    drop table if exists prepared_and_opened_items_with_frequencies;
 
-    create table purchased_items_with_frequencies as
+    create table prepared_and_opened_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_purchases group by food_type;
+    from food_preparations_and_openings group by food_type;
 
     drop table if exists wasted_items_with_frequencies;
 
@@ -14,30 +14,30 @@ queries = [
     select food_type, sum(quantity) as total_quantity, count(1) as freq
     from food_waste group by food_type;
 
-    drop table if exists pwed_items_with_frequencies;
+    drop table if exists powed_items_with_frequencies;
 
-    create table pwed_items_with_frequencies as
+    create table powed_items_with_frequencies as
     select food_type,
-    purchased_items_with_frequencies.total_quantity as total_quantity_purchased,
+    prepared_and_opened_items_with_frequencies.total_quantity as total_quantity_prepared_and_opened,
     coalesce(wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
-    purchased_items_with_frequencies.total_quantity - coalesce(wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
-    from purchased_items_with_frequencies left join wasted_items_with_frequencies
+    prepared_and_opened_items_with_frequencies.total_quantity - coalesce(wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
+    from prepared_and_opened_items_with_frequencies left join wasted_items_with_frequencies
     using (food_type);
 
-    drop table if exists pwed_items_with_frequencies_and_nutrition;
+    drop table if exists powed_items_with_frequencies_and_nutrition;
 
-    create table pwed_items_with_frequencies_and_nutrition as
-    select pwed_items_with_frequencies.*, food_types.*
-    from pwed_items_with_frequencies left join food_types
-    on pwed_items_with_frequencies.food_type = food_types.short_name;
+    create table powed_items_with_frequencies_and_nutrition as
+    select powed_items_with_frequencies.*, food_types.*
+    from powed_items_with_frequencies left join food_types
+    on powed_items_with_frequencies.food_type = food_types.short_name;
 
-    drop table if exists recently_purchased_items_with_frequencies;
+    drop table if exists recently_prepared_and_opened_items_with_frequencies;
 
-    create table recently_purchased_items_with_frequencies as
+    create table recently_prepared_and_opened_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_purchases where least(
-      datediff(curdate(), purchase_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', purchase_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 */
+    from food_preparations_and_openings where least(
+      datediff(curdate(), preparation_or_opening_date),
+      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', preparation_or_opening_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 */
     ) <= 91
     group by food_type;
 
@@ -51,30 +51,30 @@ queries = [
     ) <= 91
     group by food_type;
 
-    drop table if exists recently_pwed_items_with_frequencies;
+    drop table if exists recently_powed_items_with_frequencies;
 
-    create table recently_pwed_items_with_frequencies as
+    create table recently_powed_items_with_frequencies as
     select food_type,
-    recently_purchased_items_with_frequencies.total_quantity as total_quantity_purchased,
+    recently_prepared_and_opened_items_with_frequencies.total_quantity as total_quantity_prepared_and_opened,
     coalesce(recently_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
-    recently_purchased_items_with_frequencies.total_quantity - coalesce(recently_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
-    from recently_purchased_items_with_frequencies left join recently_wasted_items_with_frequencies
+    recently_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(recently_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
+    from recently_prepared_and_opened_items_with_frequencies left join recently_wasted_items_with_frequencies
     using (food_type);
 
-    drop table if exists recently_pwed_items_with_frequencies_and_nutrition;
+    drop table if exists recently_powed_items_with_frequencies_and_nutrition;
 
-    create table recently_pwed_items_with_frequencies_and_nutrition as
-    select recently_pwed_items_with_frequencies.*, food_types.*
-    from recently_pwed_items_with_frequencies left join food_types
-    on recently_pwed_items_with_frequencies.food_type = food_types.short_name;
+    create table recently_powed_items_with_frequencies_and_nutrition as
+    select recently_powed_items_with_frequencies.*, food_types.*
+    from recently_powed_items_with_frequencies left join food_types
+    on recently_powed_items_with_frequencies.food_type = food_types.short_name;
 
-    drop table if exists previously_purchased_items_with_frequencies;
+    drop table if exists previously_prepared_and_opened_items_with_frequencies;
 
-    create table previously_purchased_items_with_frequencies as
+    create table previously_prepared_and_opened_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_purchases where least(
-      datediff(curdate(), purchase_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', purchase_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 (both ends inclusive) */
+    from food_preparations_and_openings where least(
+      datediff(curdate(), preparation_or_opening_date),
+      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', preparation_or_opening_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 (both ends inclusive) */
     ) between 92 and 183
     group by food_type;
 
@@ -88,31 +88,31 @@ queries = [
     ) between 92 and 183
     group by food_type;
 
-    drop table if exists previously_pwed_items_with_frequencies;
+    drop table if exists previously_powed_items_with_frequencies;
 
-    create table previously_pwed_items_with_frequencies as
+    create table previously_powed_items_with_frequencies as
     select food_type,
-    previously_purchased_items_with_frequencies.total_quantity as total_quantity_purchased,
+    previously_prepared_and_opened_items_with_frequencies.total_quantity as total_quantity_prepared_and_opened,
     coalesce(previously_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
-    previously_purchased_items_with_frequencies.total_quantity - coalesce(previously_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
-    from previously_purchased_items_with_frequencies left join previously_wasted_items_with_frequencies
+    previously_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(previously_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
+    from previously_prepared_and_opened_items_with_frequencies left join previously_wasted_items_with_frequencies
     using (food_type);
 
-    drop table if exists previously_pwed_items_with_frequencies_and_nutrition;
+    drop table if exists previously_powed_items_with_frequencies_and_nutrition;
 
-    create table previously_pwed_items_with_frequencies_and_nutrition as
-    select previously_pwed_items_with_frequencies.*, food_types.*
-    from previously_pwed_items_with_frequencies left join food_types
-    on previously_pwed_items_with_frequencies.food_type = food_types.short_name;""",
+    create table previously_powed_items_with_frequencies_and_nutrition as
+    select previously_powed_items_with_frequencies.*, food_types.*
+    from previously_powed_items_with_frequencies left join food_types
+    on previously_powed_items_with_frequencies.food_type = food_types.short_name;""",
 
-    "select * from recently_pwed_items_with_frequencies_and_nutrition where short_name is null;",
+    "select * from recently_powed_items_with_frequencies_and_nutrition where short_name is null;",
 
-    "select * from previously_pwed_items_with_frequencies_and_nutrition where short_name is null;",
+    "select * from previously_powed_items_with_frequencies_and_nutrition where short_name is null;",
 
     """
-    drop temporary table if exists recent_daily_pw_amounts;
+    drop temporary table if exists recent_daily_pow_amounts;
 
-    create temporary table recent_daily_pw_amounts as select
+    create temporary table recent_daily_pow_amounts as select
     sum(calories * total_quantity_net) / 91 as daily_calories,
     sum(total_fat_in_grams * total_quantity_net) / 91 as daily_total_fat_in_grams,
     sum(saturated_fat_in_grams * total_quantity_net) / 91 as daily_saturated_fat_in_grams,
@@ -141,12 +141,12 @@ queries = [
     sum(zinc_in_mg * total_quantity_net) / 91 as daily_zinc_in_mg,
     sum(copper_in_mg * total_quantity_net) / 91 as daily_copper_in_mg,
     sum(oxalate_in_mg * total_quantity_net) / 91 as daily_oxalate_in_mg
-    from recently_pwed_items_with_frequencies_and_nutrition;""",
+    from recently_powed_items_with_frequencies_and_nutrition;""",
 
     """
-    drop temporary table if exists previous_daily_pw_amounts;
+    drop temporary table if exists previous_daily_pow_amounts;
 
-    create temporary table previous_daily_pw_amounts as select
+    create temporary table previous_daily_pow_amounts as select
     sum(calories * total_quantity_net) / 91 as daily_calories,
     sum(total_fat_in_grams * total_quantity_net) / 91 as daily_total_fat_in_grams,
     sum(saturated_fat_in_grams * total_quantity_net) / 91 as daily_saturated_fat_in_grams,
@@ -175,31 +175,31 @@ queries = [
     sum(zinc_in_mg * total_quantity_net) / 91 as daily_zinc_in_mg,
     sum(copper_in_mg * total_quantity_net) / 91 as daily_copper_in_mg,
     sum(oxalate_in_mg * total_quantity_net) / 91 as daily_oxalate_in_mg
-    from previously_pwed_items_with_frequencies_and_nutrition;""",
+    from previously_powed_items_with_frequencies_and_nutrition;""",
 
     """
-    drop table if exists daily_pw_amounts_by_epoch;
+    drop table if exists daily_pow_amounts_by_epoch;
 
-    create table daily_pw_amounts_by_epoch as
-      select *, 'recent' as epoch from recent_daily_pw_amounts
+    create table daily_pow_amounts_by_epoch as
+      select *, 'recent' as epoch from recent_daily_pow_amounts
     union
-      select *, 'previous' as epoch from previous_daily_pw_amounts;""",
+      select *, 'previous' as epoch from previous_daily_pow_amounts;""",
 
-    "select epoch, daily_total_carb_in_grams from daily_pw_amounts_by_epoch where daily_total_carb_in_grams < 225 or daily_total_carb_in_grams > 335;",
+    # "select epoch, daily_total_carb_in_grams from daily_pow_amounts_by_epoch where daily_total_carb_in_grams < 225 or daily_total_carb_in_grams > 335;",
 
-    "select epoch, daily_total_fat_in_grams from daily_pw_amounts_by_epoch where daily_total_fat_in_grams < 50 or daily_total_fat_in_grams > 110;",
+    # "select epoch, daily_total_fat_in_grams from daily_pow_amounts_by_epoch where daily_total_fat_in_grams < 50 or daily_total_fat_in_grams > 110;",
 
-    "select epoch, daily_sugars_in_grams from daily_pw_amounts_by_epoch where daily_sugars_in_grams > 45;",
+    # "select epoch, daily_sugars_in_grams from daily_pow_amounts_by_epoch where daily_sugars_in_grams > 45;",
 
-    "select epoch, daily_protein_in_grams from daily_pw_amounts_by_epoch where daily_protein_in_grams < 45;",
+    # "select epoch, daily_protein_in_grams from daily_pow_amounts_by_epoch where daily_protein_in_grams < 45;",
 
-    "select epoch, daily_oxalate_in_mg from daily_pw_amounts_by_epoch where daily_oxalate_in_mg > 300;",
+    # "select epoch, daily_oxalate_in_mg from daily_pow_amounts_by_epoch where daily_oxalate_in_mg > 300;",
 
-    "select epoch, daily_calcium_in_mg from daily_pw_amounts_by_epoch where daily_calcium_in_mg < 650 or daily_calcium_in_mg > 2500;",
+    # "select epoch, daily_calcium_in_mg from daily_pow_amounts_by_epoch where daily_calcium_in_mg < 650 or daily_calcium_in_mg > 2500;",
 
-    "select epoch,  daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg as effective_daily_sodium_in_mg from daily_pw_amounts_by_epoch where daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg < 1500 or daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg > 2700;",
+    # "select epoch,  daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg as effective_daily_sodium_in_mg from daily_pow_amounts_by_epoch where daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg < 1500 or daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg > 2700;",
 
-    "select epoch, daily_potassium_in_mg from daily_pw_amounts_by_epoch where daily_potassium_in_mg < 3400 or daily_potassium_in_mg > 4700;",
+    # "select epoch, daily_potassium_in_mg from daily_pow_amounts_by_epoch where daily_potassium_in_mg < 3400 or daily_potassium_in_mg > 4700;",
 ]
 
 _connection = connection.connect()
