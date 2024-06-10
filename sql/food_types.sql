@@ -652,7 +652,31 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium) */ NULL,NULL,0,75.6,3.78,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
-  /* notes */ 'The serving size is 45 g; the container size is 340 g, so the data had to be scaled by a factor of 340/45.');
+  /* notes */ 'The serving size is 45 g; the container size is 340 g, so the data had to be scaled by a factor of 340/45.'),
+
+  ('Whole Foods Organic Multigrain and Seed Sandwich Bread','Whole Foods Organic Multigrain and Seed Sandwich Bread 22 oz','https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-sprouted-multigrain-seed-sandwich-bread-22-oz-b082n5n842',1530,
+  /* broad food type */ 'Wheat bread',
+  /* fat-related columns */ 25.5,0,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 2720,0,
+  /* carbohydrate-related columns */ 272,51,51,
+  /* protein-related columns */ 68,
+  /* columns for commonly reported vitamins and minerals (other than sodium) */ NULL,NULL,0,0,13.6,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* notes */ 'I multiplied the information for one slice at https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-organic-sprouted-multigrain-seed-sandwich-bread-22-oz-b082n5n842 with the number of slices (17).'),
+
+  ('Kite Hill Vanilla Almond Yogurt (small)','Kite Hill Vanilla Almond Milk Yogurt, 5.3 Ounces, Dairy Free','https://www.amazon.com/Kite-Hill-Vanilla-Almond-Yogurt/dp/B06ZZCR5NJ',150,
+  /* broad food type */ 'Vegan probiotic yogurt',
+  /* fat-related columns */ 8,0.5,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 10,NULL,
+  /* carbohydrate-related columns */ 19,2,12,
+  /* protein-related columns */ 3,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,44,1,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* notes */ 'The information on the webpage already provides nutrition information for the full container.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
@@ -697,5 +721,9 @@ insert into food_types(short_name, long_name, notes) values
   ('Kitava Power Bowl','Kitava Power Bowl','I had this on 2023-11-29 when uenxpectedly dining in at Kitava.'),
   /* Tay Ho Oakland */
   ('Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom','Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom','I had this on 2024-03-27 as part of lunch with work colleagues near the Oakland WeWork.'),
+  /* India House Oregon */
+  ('India House Oregon rice','India House Oregon rice','I had this for takeout on 2024-06-03 in Portland.'),
+  ('India House Oregon aloo sag','India House Oregon aloo sag','I had this for takeout on 2024-06-03 in Portland.'),
+  ('Dil Se Indian Cuisine half chana masala and half aloo gobi','Dil Se Indian Cuisine half chana masala and half aloo gobi','I had this for takeout on 2024-06-04 in Portland.'),
   /* Asha Tea House */
   ('Asha Tea House ginger honey tea','Asha Tea House ginger honey tea','I have this on the occasional visit to Asha Tea House, usually whne meeting up with other people.');

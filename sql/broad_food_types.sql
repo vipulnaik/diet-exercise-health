@@ -9,7 +9,7 @@ insert into broad_food_types(broad_food_type, notes) values
   ('Semolina','Wheat in a granular form that can be cooked like rice (daliya, couscous)'),
   ('Whole wheat tortilla','Whole wheat in a form factor of a tortilla, roti, naan, or something similar; rich in carbohydrates and proteins'),
   ('Non-whole wheat tortilla','Non-whole wheat in a form factor of a tortilla, roti, naan, or something similar; rich in carbohydrates and proteins'),
-  ('Wheat bread','Wheat in a bread form (slices)'),
+  ('Wheat bread','Wheat in a sliced bread form'),
   ('Tomato','Rich in Vitamin C and good for umami, has more sugar than most vegetables though less than some fruits; a nightshade'),
   ('Bell pepper','Rich in vitamins and minerals; a nightshade'),
   ('Eggplant','Rich in vitamins and minerals; a nightshade'),
