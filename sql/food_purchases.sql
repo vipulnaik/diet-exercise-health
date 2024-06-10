@@ -2640,3 +2640,10 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-06-09','TJ Carrots',1),
   ('2024-06-09','Gold potatoes 5 lb',1),
   ('2024-06-09','Eggplant',2);
+  /* after entering a batch of data for a purchase:
+  (a) eyeball for correct format
+  (b) double-check date and C-s search to confirm correctness
+  (c) do manual forward and back total and compare against receipt
+  (d) make in SQL
+  (e) check total in SQL
+  (f) check for mismatched names in SQL */
