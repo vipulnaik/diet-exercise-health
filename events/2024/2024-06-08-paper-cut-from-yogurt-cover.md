@@ -107,5 +107,14 @@ bandage with the Band-Aid Water Block Flex, which is supposed to be
 better. Unfortunately, for the first two bandages, I didn't actually
 stretch the bandage to form a good seal. With the third bandage I
 stretched it and it formed a good seal, and it seems to have held up
-well; provisionally it seems to provide better water-blocking than the
+well; provisionally it seemed to provide better water-blocking than the
 previous set of waterproof bandages.
+
+The bandage came off just before my bath, so I put a new Water Block
+Flex bandage on. The new bandage survived through my bath but I had to
+change to a new one. This time, I picked the original bandage type
+(from Walgreens).
+
+## 2024-06-10
+
+When I woke up, the bandage was still intact.
