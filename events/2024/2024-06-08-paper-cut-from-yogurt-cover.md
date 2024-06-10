@@ -117,4 +117,5 @@ change to a new one. This time, I picked the original bandage type
 
 ## 2024-06-10
 
-When I woke up, the bandage was still intact.
+When I woke up, the bandage was still intact. However, it did get
+loose after a while. I had switched it twice as of 2 PM.
