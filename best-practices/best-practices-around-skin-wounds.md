@@ -128,3 +128,22 @@ However, in cases involving the hands or face, follow this guideline:
 
 * Put a bandage on overnight or over extended periods where I know
   that it won't conflict with anything.
+
+#### Bandaging around the fingers and needed overlap (and flex bandages)
+
+For bandaging wrapped around the fingers, it's important to get at
+least half an inch of overlap of the bandage on itself for it to form
+a seal. This is important for waterproof bandaging to work as
+advertised, otherwise water will weaken the edges even if it doesn't
+get inside the bandage.
+
+In the case of flex bandages, the default length of the bandage may
+not be enough, as flex bandages combine a small default length with
+the ability to stretch. So, make sure to stretch to achieve the
+desired overlap. Speaking from experience of having wasted two flex
+bandages before figuring out the need to flex.
+
+If not sure whether the bandage is flex, see if the bandage is failing
+to fully wrap, and if so, try gently pulling it. If it seems to
+stretch in response to the pull, it's a flex bandage and should be
+stretched to provide a nice seal.

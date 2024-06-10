@@ -97,4 +97,15 @@ I put a new bandage on shortly after waking up.
 
 At around 2:30 PM, about 6.5 hours after I had put it on, and
 including dishwashing activities, etc. the waterproof bandage came
-off. I put a new bandage on.
+off. I put a new bandage on. After a few hours, this second one had
+loosened, though it hadn't totally come off.
+
+### Evening
+
+I went out to buy bandages. When I came back, I replaced my now-loose
+bandage with the Band-Aid Water Block Flex, which is supposed to be
+better. Unfortunately, for the first two bandages, I didn't actually
+stretch the bandage to form a good seal. With the third bandage I
+stretched it and it formed a good seal, and it seems to have held up
+well; provisionally it seems to provide better water-blocking than the
+previous set of waterproof bandages.
