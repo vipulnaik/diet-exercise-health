@@ -41,5 +41,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-08','Beefsteak tomato',3), /* Despite the smaller number of potatoes, the pot got close to full with the other stuff, so there was space for just 3 tomatoes */
   /* New bottle openings as the old ones finished */
   ('2024-06-08','TJ Miso Ginger Broth',1),
-  ('2024-06-09','TJ Almond Milk',1);
-
+  ('2024-06-09','TJ Almond Milk',1),
+  /* Meal prep 2024-06-10 */
+  ('2024-06-10','Eggplant',1),
+  ('2024-06-10','TJ Kale',1),
+  ('2024-06-10','TJ Carrots',1),
+  ('2024-06-10','Green bell pepper',4),
+  ('2024-06-10','Red bell pepper',2),
+  ('2024-06-10','Beefsteak tomato',3);
