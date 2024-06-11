@@ -119,3 +119,14 @@ change to a new one. This time, I picked the original bandage type
 
 When I woke up, the bandage was still intact. However, it did get
 loose after a while. I had switched it twice as of 2 PM.
+
+I used up the third bandage at 8 PM, after finishing eating. The skin
+around the wound (that I have to bandage around) [skin
+maceration](https://en.wikipedia.org/wiki/Skin_maceration) under the
+bandage, I decided to leave the area unbandaged for a while. Since the
+wound itself seems to have healed enough and doesn't seem to be
+getting inflamed, my current plan is to leave the wound open most of
+the day, but bandage it when doing some actviity where I'm likely to
+rub the wound in a way that might agitate it, such as outdoor trips
+where I'm carrying bags with my fingers, laundry trips where I'm
+carrying laundry bags, jogging trips, and shower/bath.

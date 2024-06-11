@@ -147,3 +147,28 @@ If not sure whether the bandage is flex, see if the bandage is failing
 to fully wrap, and if so, try gently pulling it. If it seems to
 stretch in response to the pull, it's a flex bandage and should be
 stretched to provide a nice seal.
+
+#### Bandaging for no-longer-inflamed wounds on the fingers
+
+Generally, within about 2-3 days, the wound will be sufficiently
+healed that it's no longer inflamed. At this point, the trade-off for
+keeping it bandaged changes -- keeping it continuously bandaged
+increases the chances of skin maceration, where the skin turns
+whitish. The reason for this is that the fingers get a lot of water
+exposure and some water enters and gets trapped inside the waterproof
+bandaging.
+
+At this point, the best strategy is:
+
+* Leave the wound open at most times, but monitor for
+  reddening/inflammation.
+
+* Put a bandage on the wound for these kinds of situations:
+
+  * Outdoor trips for shopping
+
+  * Laundry trips
+
+  * Jogging trips (maybe? more of a safety measure for these)
+
+  * Shower/bath (more a safety measure to reduce the risk of agitation due to hot water)
