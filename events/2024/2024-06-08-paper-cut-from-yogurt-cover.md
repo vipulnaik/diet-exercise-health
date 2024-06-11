@@ -129,4 +129,13 @@ getting inflamed, my current plan is to leave the wound open most of
 the day, but bandage it when doing some actviity where I'm likely to
 rub the wound in a way that might agitate it, such as outdoor trips
 where I'm carrying bags with my fingers, laundry trips where I'm
-carrying laundry bags, jogging trips, and shower/bath.
+carrying laundry bags, jogging trips, and shower/bath. However, I
+might keep the bandage on after the activity until it comes off, then
+wait for the next activity to put a bandage on again. This will create
+natural respites ranging from a few minutes to a few hours and help
+remedy the maceration before it becomes excessive, while also keeping
+the wound covered most of the time.
+
+I used a fourth bandage around 9:30 PM before my shower/bath, then
+kept it on overnight while sleeping. It came off an hour after waking
+up, around 8:15 AM, and I then kept the area open until going jogging.

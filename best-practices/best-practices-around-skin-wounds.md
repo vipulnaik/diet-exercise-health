@@ -172,3 +172,9 @@ At this point, the best strategy is:
   * Jogging trips (maybe? more of a safety measure for these)
 
   * Shower/bath (more a safety measure to reduce the risk of agitation due to hot water)
+
+Keep the bandage on after the activity until it comes off, then wait
+for the next activity to put a bandage on again. This will create
+natural respites ranging from a few minutes to a few hours and help
+remedy the maceration before it becomes excessive, while also keeping
+the wound covered most of the time.
