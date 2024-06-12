@@ -137,5 +137,25 @@ remedy the maceration before it becomes excessive, while also keeping
 the wound covered most of the time.
 
 I used a fourth bandage around 9:30 PM before my shower/bath, then
-kept it on overnight while sleeping. It came off an hour after waking
-up, around 8:15 AM, and I then kept the area open until going jogging.
+kept it on overnight while sleeping.
+
+
+## 2024-06-11
+
+The bandage I had put overnight came off an hour after waking up,
+around 8:15 AM, and I then kept the area open until going jogging.
+
+I put on another bandage before going jogging. then took it off
+shortly after returning as it was getting loose.
+
+I put on one more bandage before my shower/bath in the evening, and
+took it off after that as it was getting loose.
+
+## 2024-06-12
+
+I had gone to sleep without a bandage. When I semi-woke up in the
+early morning (a few hours before officially waking up) I noticed that
+my left hand had "gone to sleep", particularly the area around the
+injury. I was able to get it back into action by moving it around a
+bit (in a minute or two) then went back to sleep. It was normal when I
+woke up.
