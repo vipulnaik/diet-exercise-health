@@ -36,8 +36,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Potatoes prep 2024-06-08 */
   ('2024-06-08','Gold potatoes 5 lb',0.1), /* there wasn't much left over of this; usually I consume about a third of the amount if available */
   ('2024-06-08','TJ Kale',1),
-  ('2024-06-08','TJ English Shelled Peas',3),
   ('2024-06-08','TJ Broccoli Florets 12 oz',1),
+  ('2024-06-08','TJ English Shelled Peas',3),
   ('2024-06-08','Beefsteak tomato',3), /* Despite the smaller number of potatoes, the pot got close to full with the other stuff, so there was space for just 3 tomatoes */
   /* New bottle openings as the old ones finished */
   ('2024-06-08','TJ Miso Ginger Broth',1),
@@ -53,4 +53,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-10','Lundberg Sustainable California White Basmati Rice',0.67),
   /* New bottle openings as the old ones finished */
   ('2024-06-10','TJ Sauerkraut',1),
-  ('2024-06-11','TJ Miso Ginger Broth',1);
+  ('2024-06-11','TJ Miso Ginger Broth',1),
+  /* Potatoes prep 2024-06-12 */
+  ('2024-06-12','Gold potatoes 5 lb',0.33),
+  ('2024-06-12','TJ Kale',1),
+  ('2024-06-12','TJ Broccoli Florets 12 oz',1),
+  ('2024-06-12','TJ English Shelled Peas',3),
+  ('2024-06-12','Beefsteak tomato',4),
+  /* Walnuts */
+  ('2024-06-12','TJ Walnuts',1);
