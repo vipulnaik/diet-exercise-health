@@ -159,3 +159,9 @@ my left hand had "gone to sleep", particularly the area around the
 injury. I was able to get it back into action by moving it around a
 bit (in a minute or two) then went back to sleep. It was normal when I
 woke up.
+
+I used one bandage for jogging that continued to stay on for the
+laundry I did later, so I didn't need to switch bandages.
+
+After this, I determined that I no longer need to use bandages for the
+time being, so this was my last planned bandage use.
