@@ -12,3 +12,8 @@ than I should have in the evening, and maybe keeping food out a bit
 longer than usual (though I really doubt that this caused any
 issues). It seemed to get a lot better overnight and I ended up
 sleeping 9 hours that night.
+
+I think there is still some residual fatigue from the Portland trip
+last week that doesn't necessarily show up every day but may be making
+me more prone to minor issues; let's see how things settle down over
+the next few days.
