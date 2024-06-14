@@ -485,3 +485,20 @@ On 2024-06-08, I skipped jogging as well to allow me to recover and
 catch up after my travel, both energy-wise and time-wise (to give me
 more time for post-travel actions).
 
+## 2024-06-10: resumption of most exercises
+
+I resumed jogging and most other exercises on Monday 2024-06-10. I
+continued skipping strength exercises and hand gripper exercises with
+my left hand; the former was to allow for fuller recovery from the
+Portland trip, while the latter was due to an [injury on my left
+hand](2024-06-08-paper-cut-from-yogurt-cover.md).
+
+## 2024-06-14: resumption of strength exercises and hand gripper exercises with the left hand
+
+On 2024-06-14, I resumed strength exercises as well as hand gripper
+exercises with my left hand. This was a reflection of recovery from my
+left hand injury as well as return to normal after the Portland
+trip. I also had a sense that doing strength exercise might help with
+my digestion as I thought my appetite (particularly protein intake)
+was tailored to me doing strength exercise, so that my digestion would
+proceed better if I resumed the strength exercise.
