@@ -19,3 +19,4 @@ insert into food_waste(waste_date, food_type, quantity, after_preparation_or_ope
   ('2024-06-05','India House Oregon rice',0.3,true,'I threw out a little of the left-over rice as I didn''t feel like eating it.'),
   ('2024-06-05','India House Oregon aloo sag',0.3,true,'I threw out a little of the left-over aloo sag as I didn''t feel like eating it.'),
   ('2024-06-07','TJ Sauerkraut',0.6,true,'I left behind this sauerkraut in the hotel room in Portland as I wasn''t able to finish it and it seemed too messy to carry back.');
+  /* Double-check the date before committing */

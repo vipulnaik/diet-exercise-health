@@ -68,3 +68,4 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-13','TJ Almond Milk',1),
   ('2024-06-14','Kite Hill Greek Style Plant-Based Yogurt',1),
   ('2024-06-14','TJ Green Lentils',1); /* soaking overnight to cook the next morning */
+  /* Double-check the date before committing */
