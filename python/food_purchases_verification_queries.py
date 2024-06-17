@@ -1,6 +1,10 @@
 import shared, connection
 
 queries = [
+    "select * from food_purchases where purchase_date > curdate();",
+
+    "select * from food_purchases where purchase_date < '2021-03-10';",
+
     """
     drop table if exists purchased_items_with_frequencies;
 

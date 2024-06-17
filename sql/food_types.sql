@@ -683,8 +683,9 @@ insert into food_types(short_name, long_name, url, calories,
    now; having them in the table has other benefits such as data
    validation. */
 
-/* Spices and condiments -- these don't have nutritional information to speak of */
+/* Spices, condiments, and seasonings -- these don't have nutritional information to speak of, or it's very hard to abstract out the nutritional information */
 insert into food_types(short_name, long_name, url, notes) values
+  ('Lemon','Lemon',NULL,'I just squeeze drops from the lemon rather than having the whole lemon, so any nutritional information for the whole lemon would be misleading.'),
   ('TJ Turmeric','Trader Joe''s Turmeric Powder 2 oz','https://www.amazon.com/Trader-Joes-Turmeric-2-Pack/dp/B00JU4BQ1Y','I use this turmeric powder for seasoning my prepared meals.'),
   ('TJ Cumin','Trader Joe''s Ground Cumin 1.7 oz','https://www.amazon.com/Trader-Joes-Ground-Cumin-NET/dp/B07G1BV593','I use this ground cumin for seasoning my prepared meals.'),
   ('TJ Cayenne Pepper','Trader Joe''s Cayenne Pepper','https://www.ebay.com/itm/175363234738','I use a little of this cayenne pepper as seasoning. It''s generally less in amount than the turmeric and cumin, and I might skip it in case of a sore throat.'),
