@@ -67,5 +67,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle openings as the old ones finished */
   ('2024-06-13','TJ Almond Milk',1),
   ('2024-06-14','Kite Hill Greek Style Plant-Based Yogurt',1),
-  ('2024-06-14','TJ Green Lentils',1); /* soaking overnight to cook the next morning */
+  /* Lentils prep (soaking 2024-06-14; cooking 2024-06-15) */
+  ('2024-06-14','TJ Green Lentils',1), /* soaking overnight to cook the next morning */
+  /* Meal prep 2024-06-16 */
+  ('2024-06-16','Eggplant',1),
+  ('2024-06-16','TJ Kale',1),
+  ('2024-06-16','TJ Carrots',1),
+  ('2024-06-16','Green bell pepper',4),
+  ('2024-06-16','Red bell pepper',2),
+  ('2024-06-16','Beefsteak tomato',3);
   /* Double-check the date before committing */
