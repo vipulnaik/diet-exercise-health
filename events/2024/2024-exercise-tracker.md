@@ -502,3 +502,10 @@ trip. I also had a sense that doing strength exercise might help with
 my digestion as I thought my appetite (particularly protein intake)
 was tailored to me doing strength exercise, so that my digestion would
 proceed better if I resumed the strength exercise.
+
+## 2024-06-16: skipping of exercises for a morning grocery store trip
+
+On Sunday 2024-06-16, it was fairly hot, and I wanted to not go out in
+the late morning or afternoon/evening. I also needed to do grocery
+store purchases. So, I skipped my morning jogging and strength
+exercises and instead went out for grocery shopping in the morning.
