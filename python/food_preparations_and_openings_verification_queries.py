@@ -6,6 +6,40 @@ queries = [
     "select * from food_preparations_and_openings where preparation_or_opening_date < '2024-05-30';",
 
     """
+    drop temporary table if exists food_preparations_and_openings_lower_bounds_eval_pre;
+
+    create temporary table food_preparations_and_openings_lower_bounds_eval_pre as
+    select * from food_preparations_and_openings_lower_bounds left join food_preparations_and_openings using (food_type)
+    where preparation_or_opening_date <= curdate() and datediff(curdate(), preparation_or_opening_date) < num_days;
+
+    drop table if exists food_preparations_and_openings_lower_bounds_eval;
+
+    create table food_preparations_and_openings_lower_bounds_eval as
+    select food_type, num_days, quantity_lower_bound,
+    sum(quantity) as actual_quantity
+    from food_preparations_and_openings_lower_bounds_eval_pre
+    group by food_type, num_days, quantity_lower_bound;""",
+
+    "select * from food_preparations_and_openings_lower_bounds_eval where actual_quantity < quantity_lower_bound;",
+
+    """
+    drop temporary table if exists food_preparations_and_openings_upper_bounds_eval_pre;
+
+    create temporary table food_preparations_and_openings_upper_bounds_eval_pre as
+    select * from food_preparations_and_openings_upper_bounds left join food_preparations_and_openings using (food_type)
+    where preparation_or_opening_date <= curdate() and datediff(curdate(), preparation_or_opening_date) < num_days;
+
+    drop table if exists food_preparations_and_openings_upper_bounds_eval;
+
+    create table food_preparations_and_openings_upper_bounds_eval as
+    select food_type, num_days, quantity_upper_bound,
+    sum(quantity) as actual_quantity
+    from food_preparations_and_openings_upper_bounds_eval_pre
+    group by food_type, num_days, quantity_upper_bound;""",
+
+    "select * from food_preparations_and_openings_upper_bounds_eval where actual_quantity > quantity_upper_bound;",
+
+    """
     drop table if exists prepared_and_opened_items_with_frequencies;
 
     create table prepared_and_opened_items_with_frequencies as
