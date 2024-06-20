@@ -20,3 +20,11 @@ Possible reasons include:
   (prior to jogging) as I usually do
 * Probably a little bit less than a full bowel
   movement in the morning, likely due to a little undersleep
+
+## Update on 2024-06-20
+
+I deliberately slept in about 20 minutes beyond when I felt like
+waking up (I felt like waking up around 6:40 AM, but slept in until 7
+AM). I had a good and complete bowel movement and felt hopeful after
+the bowel movement that the flatulence issue would be gone today, if I
+did not go too heavy on kale, broccoli, and sauerkraut.
