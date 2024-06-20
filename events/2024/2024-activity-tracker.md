@@ -313,3 +313,10 @@ Joe's for food purchases recorded in
 In the evening, I went to Walgreens to buy bandages (to augment the
 ones bought last time) and then to Trader Joe's for food purchases
 recorded in [food_purchases.sql](../sql/food_purchases.sql).
+
+## Wednesday June 19
+
+In the evening, I first went to Walgreens to buy bandages (to augment
+my last two purchases) and then to Berkeley Bowl for food purchases
+recorded in [food_purchases.sql](../sql/food_purchases.sql). I then
+went to the Amazon Hub Locker to pick up a package.
