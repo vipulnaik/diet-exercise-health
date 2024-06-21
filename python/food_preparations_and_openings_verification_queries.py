@@ -9,14 +9,17 @@ queries = [
     drop temporary table if exists food_preparations_and_openings_lower_bounds_eval_pre;
 
     create temporary table food_preparations_and_openings_lower_bounds_eval_pre as
-    select * from food_preparations_and_openings_lower_bounds left join food_preparations_and_openings using (food_type)
-    where preparation_or_opening_date <= curdate() and datediff(curdate(), preparation_or_opening_date) < num_days;
+    select food_preparations_and_openings_lower_bounds.*,
+    preparation_or_opening_date, quantity from food_preparations_and_openings_lower_bounds left join food_preparations_and_openings
+    on food_preparations_and_openings_lower_bounds.food_type = food_preparations_and_openings.food_type
+    and food_preparations_and_openings.preparation_or_opening_date <= curdate()
+    and datediff(curdate(), food_preparations_and_openings.preparation_or_opening_date) < food_preparations_and_openings_lower_bounds.num_days;
 
     drop table if exists food_preparations_and_openings_lower_bounds_eval;
 
     create table food_preparations_and_openings_lower_bounds_eval as
     select food_type, num_days, quantity_lower_bound,
-    sum(quantity) as actual_quantity
+    coalesce(sum(quantity), 0) as actual_quantity
     from food_preparations_and_openings_lower_bounds_eval_pre
     group by food_type, num_days, quantity_lower_bound;""",
 
@@ -26,14 +29,17 @@ queries = [
     drop temporary table if exists food_preparations_and_openings_upper_bounds_eval_pre;
 
     create temporary table food_preparations_and_openings_upper_bounds_eval_pre as
-    select * from food_preparations_and_openings_upper_bounds left join food_preparations_and_openings using (food_type)
-    where preparation_or_opening_date <= curdate() and datediff(curdate(), preparation_or_opening_date) < num_days;
+    select food_preparations_and_openings_upper_bounds.*,
+    preparation_or_opening_date, quantity from food_preparations_and_openings_upper_bounds left join food_preparations_and_openings
+    on food_preparations_and_openings_upper_bounds.food_type = food_preparations_and_openings.food_type
+    and food_preparations_and_openings.preparation_or_opening_date <= curdate()
+    and datediff(curdate(), food_preparations_and_openings.preparation_or_opening_date) < food_preparations_and_openings_upper_bounds.num_days;
 
     drop table if exists food_preparations_and_openings_upper_bounds_eval;
 
     create table food_preparations_and_openings_upper_bounds_eval as
     select food_type, num_days, quantity_upper_bound,
-    sum(quantity) as actual_quantity
+    coalesce(sum(quantity), 0) as actual_quantity
     from food_preparations_and_openings_upper_bounds_eval_pre
     group by food_type, num_days, quantity_upper_bound;""",
 

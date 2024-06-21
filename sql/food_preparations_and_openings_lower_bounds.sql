@@ -14,4 +14,6 @@ insert into food_preparations_and_openings_lower_bounds(food_type, num_days, qua
   ('TJ Almond Milk',10,1),
   ('TJ Miso Ginger Broth',10,1),
   ('TJ Sauerkraut',15,1),
-  ('TJ Walnuts',14,1);
+  ('TJ Walnuts',14,1),
+  ('Kite Hill Greek Style Plant-Based Yogurt',45,1),
+  ('Udupi Palace spinach masala dosa',45,1);
