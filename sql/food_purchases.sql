@@ -2650,9 +2650,21 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-06-16','TJ English Shelled Peas',6),
   ('2024-06-16','TJ Broccoli Florets 12 oz',1),
   ('2024-06-16','TJ Kale',2),
-  /* 2024-06-19 Berkeley Bowl; total cost $27.95; checkout at 6:40 PM; paid by credit card */
+  /* 2024-06-19 Berkeley Bowl; total cost $27.95; checkout at 5:40 PM; paid by credit card */
   ('2024-06-19','Lundberg Sustainable California White Basmati Rice',3),
-  ('2024-06-19','Kite Hill Greek Style Plant-Based Yogurt',2);
+  ('2024-06-19','Kite Hill Greek Style Plant-Based Yogurt',2),
+  /* 2024-06-21 Trader Joe's; total cost $40.19; checkout at 7:09 PM; paid by credit card */
+  ('2024-06-21','TJ Walnuts',1),
+  ('2024-06-21','Red bell pepper',2),
+  ('2024-06-21','TJ Sauerkraut',1),
+  ('2024-06-21','TJ Kale',2), /* I got billed for 2 + 1 = 3 but 2 is what I actually bought */
+  ('2024-06-21','TJ Broccoli Florets 12 oz',1),
+  ('2024-06-21','TJ Almond Milk',1),
+  ('2024-06-21','Beefsteak tomato',4),
+  ('2024-06-21','Green bell pepper',4),
+  ('2024-06-21','TJ Miso Ginger Broth',1),
+  ('2024-06-21','TJ Carrots',1),
+  ('2024-06-21','Eggplant',2);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
