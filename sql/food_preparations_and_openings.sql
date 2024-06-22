@@ -55,7 +55,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-10','TJ Sauerkraut',1),
   ('2024-06-11','TJ Miso Ginger Broth',1),
   /* Potatoes prep 2024-06-12 */
-  ('2024-06-12','Gold potatoes 5 lb',0.33),
+  ('2024-06-12','Gold potatoes 5 lb',0.30),
   ('2024-06-12','TJ Kale',1),
   ('2024-06-12','TJ Broccoli Florets 12 oz',1),
   ('2024-06-12','TJ English Shelled Peas',3),
@@ -80,7 +80,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-06-17 */
   ('2024-06-17','Lundberg Sustainable California White Basmati Rice',0.75),
   /* Potatoes prep 2024-06-18 */
-  ('2024-06-18','Gold potatoes 5 lb',0.33),
+  ('2024-06-18','Gold potatoes 5 lb',0.30),
   ('2024-06-18','TJ Kale',1),
   ('2024-06-18','TJ Broccoli Florets 12 oz',1),
   ('2024-06-18','TJ English Shelled Peas',3),
@@ -92,5 +92,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-20','Lundberg Sustainable California White Basmati Rice',0.75),
   /* New bottle openings as the old ones finished */
   ('2024-06-20','TJ Sauerkraut',1),
-  ('2024-06-21','TJ Walnuts',1);
+  ('2024-06-21','TJ Walnuts',1),
+  /* Potatoes prep 2024-06-22 */
+  ('2024-06-22','Gold potatoes 5 lb',0.40),
+  ('2024-06-22','TJ Kale',1),
+  ('2024-06-22','TJ Broccoli Florets 12 oz',1),
+  ('2024-06-22','TJ English Shelled Peas',3),
+  ('2024-06-22','Beefsteak tomato',1);
   /* Double-check the date before committing */
