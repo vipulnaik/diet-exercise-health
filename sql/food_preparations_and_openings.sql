@@ -98,5 +98,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-22','TJ Kale',1),
   ('2024-06-22','TJ Broccoli Florets 12 oz',1),
   ('2024-06-22','TJ English Shelled Peas',3),
-  ('2024-06-22','Beefsteak tomato',1);
+  ('2024-06-22','Beefsteak tomato',1),
+  /* New bottle openings as the old ones finished */
+  ('2024-06-22','TJ Miso Ginger Broth',1);
   /* Double-check the date before committing */
