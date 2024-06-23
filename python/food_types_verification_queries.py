@@ -23,6 +23,27 @@ queries = [
       fiber_in_grams = 0 and sugars_in_grams = 0
     );""",
 
+    # The only food (among foods I consume) that has fat but no carbs is olive oil
+    "select * from food_types where total_carb_in_grams = 0 and total_fat_in_grams > 0 and not (short_name regexp 'Olive Oil');",
+
+    # The only foods (among foods I consume) that have fat but no proteins are walnuts and olive oil
+    """
+    select * from food_types where protein_in_grams = 0 and total_fat_in_grams > 0 and not (
+      short_name regexp 'Walnuts' or short_name regexp 'Olive oil'
+    );""",
+
+    # Only a handful of foods have added Vitamin D, and these should have much more (added) calcium
+    "select * from food_types where vitamin_d_in_mcg > 0.02 * calcium_in_mg;",
+
+    """
+    select * from food_types where
+    vitamin_d_in_mcg > 0 and not (
+      short_name in ('TJ Almond Milk','TJ Indian Style Flatbread','TJ Madras Lentils')
+    );""",
+
+    # None of the vegan foods has natural or added Vitamin B12 as far as the recorded nutritional information
+    "select * from food_types where vitamin_b12_in_mcg > 0;",
+
     """
     select broad_food_type,
     coalesce(min(total_carb_in_grams / calories), 0) as carb_calorie_ratio_min,
