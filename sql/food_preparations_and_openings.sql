@@ -75,7 +75,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-16','TJ Carrots',1),
   ('2024-06-16','Green bell pepper',4),
   ('2024-06-16','Red bell pepper',2),
-  ('2024-06-16','Beefsteak tomato',3),
+  ('2024-06-16','Beefsteak tomato',2), /* I had originally entered 3 but based on the tally total on 2024-06-24 I think it should be 2 */
   ('2024-06-16','Lemon',1), /* Cut and started using lemon */
   /* Rice prep 2024-06-17 */
   ('2024-06-17','Lundberg Sustainable California White Basmati Rice',0.75),
@@ -102,5 +102,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle openings as the old ones finished */
   ('2024-06-22','TJ Miso Ginger Broth',1),
   /* Couscous prep 2024-06-23 */
-  ('2024-06-23','TJ Organic Couscous',1);
+  ('2024-06-23','TJ Organic Couscous',1),
+  /* New bottle openings as the old ones finished */
+  ('2024-06-24','TJ Almond Milk',1),
+  /* Meal prep 2024-06-24 */
+  ('2024-06-24','Eggplant',1),
+  ('2024-06-24','TJ Kale',1),
+  ('2024-06-24','TJ Carrots',1),
+  ('2024-06-24','Green bell pepper',4),
+  ('2024-06-24','Red bell pepper',2),
+  ('2024-06-24','Beefsteak tomato',4); /* I think this was 4, but maybe it was 3 which would make sense if the 2024-06-16 number was correct */
   /* Double-check the date before committing */
