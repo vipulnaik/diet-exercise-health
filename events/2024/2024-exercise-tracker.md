@@ -509,3 +509,10 @@ On Sunday 2024-06-16, it was fairly hot, and I wanted to not go out in
 the late morning or afternoon/evening. I also needed to do grocery
 store purchases. So, I skipped my morning jogging and strength
 exercises and instead went out for grocery shopping in the morning.
+
+## 2024-06-23 and 2024-06-24: skipped strength exercises
+
+I had strength exercises due on either of 2024-06-23 and 2024-06-24
+(as my previous ones had been on 2024-06-21) but due to scheduling
+constraints, couldn't do them on either day. I did strength exercises
+on 2024-06-25 instead.
