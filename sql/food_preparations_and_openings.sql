@@ -83,8 +83,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-18','Gold potatoes 5 lb',0.30),
   ('2024-06-18','TJ Kale',1),
   ('2024-06-18','TJ Broccoli Florets 12 oz',1),
-  ('2024-06-18','TJ English Shelled Peas',2), /* I had originally entered 3 but based on the tally total on 2024-06-24 I think it should be 2 */
-  ('2024-06-18','Beefsteak tomato',3),
+  ('2024-06-18','TJ English Shelled Peas',3),
+  ('2024-06-18','Beefsteak tomato',2), /* I had originally entered 3 but based on the tally total on 2024-06-24 I think it should be 2 */
   /* New bottle openings as the old ones finished */
   ('2024-06-19','TJ Almond Milk',1),
   ('2024-06-19','TJ Miso Ginger Broth',1),
@@ -111,5 +111,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-24','TJ Carrots',1),
   ('2024-06-24','Green bell pepper',4),
   ('2024-06-24','Red bell pepper',2),
-  ('2024-06-24','Beefsteak tomato',4); /* I think this was 4, but maybe it was 3 which would make sense if the 2024-06-16 number was correct */
+  ('2024-06-24','Beefsteak tomato',4), /* I think this was 4, but maybe it was 3 which would make sense if the original 2024-06-16 and 2024-06-18 were both correct */
+  /* Rice prep 2024-06-25 */
+  ('2024-06-25','Lundberg Sustainable California White Basmati Rice',0.75);
   /* Double-check the date before committing */
