@@ -5,6 +5,24 @@ queries = [
 
     "select * from food_preparations_and_openings where preparation_or_opening_date < '2024-05-30';",
 
+    # I should always open 1 bottle at a time
+    "select * from food_preparations_and_openings where food_type in ('TJ Almond Milk','TJ Sauerkraut','TJ Walnuts','TJ Miso Ginger Broth','Trader Giotto''s Olive Oil') and quantity != 1;",
+
+    # I should generally do 1 at a time, though exceptions are possible
+    "select * from food_preparations_and_openings where food_type in ('Eggplant','TJ Kale','TJ Carrots','TJ Broccoli Florets 12 oz') and quantity != 1;",
+
+    # I should generally do 2 at a time, though exceptions are possible
+    "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2;",
+
+    # I should generally do 3 at a time, though exceptions are possible
+    "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and quantity != 3;",
+
+    # I should generally do 4 at a time, though exceptions are possible
+    "select * from food_preparations_and_openings where food_type = 'Green bell pepper' and quantity != 4;",
+
+    # I should do less than 1 at a time
+    "select * from food_preparations_and_openings where food_type in ('Lundberg Sustainable California White Basmati Rice','Gold potatoes 3 lb','Gold potatoes 5 lb') and quantity >= 1;",
+
     """
     drop temporary table if exists food_preparations_and_openings_lower_bounds_eval_pre;
 
