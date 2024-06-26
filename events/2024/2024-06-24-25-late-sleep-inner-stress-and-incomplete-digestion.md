@@ -22,3 +22,16 @@ ultimately got out of bed around 7:45 AM.
 
 I did not have strong bowel pressure. I went for bowel movement around
 9 AM and had a smaller bowel movement than usual.
+
+## Overnight and next day update
+
+I made a point of not going to sleep too late -- I got into bed by
+around 11:10 PM and closed my eyes around 11:20 PM. The next day
+(2024-06-26) I woke up around 7:25 AM organically feeling well-rested,
+though I didn't end up getting as much extra sleep as I was
+anticipating.
+
+I didn't get bowel pressure immediately after waking up, but it built
+up over time. I went for bowel movement around 8:40 AM, once the bowel
+pressure was strong, and I had a complete bowel movement. I think
+things are back to normal now.
