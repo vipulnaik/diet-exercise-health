@@ -516,3 +516,9 @@ I had strength exercises due on either of 2024-06-23 and 2024-06-24
 (as my previous ones had been on 2024-06-21) but due to scheduling
 constraints, couldn't do them on either day. I did strength exercises
 on 2024-06-25 instead.
+
+## 2024-06-26: skipped jogging due to scheduling constraints
+
+On 2024-06-26, due to scheduling constraints, I wasn't able to go
+jogging in the morning. It gets hot in the afternoon, so I just
+skipped jogging for the day.
