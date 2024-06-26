@@ -320,3 +320,9 @@ In the evening, I first went to Walgreens to buy bandages (to augment
 my last two purchases) and then to Berkeley Bowl for food purchases
 recorded in [food_purchases.sql](../sql/food_purchases.sql). I then
 went to the Amazon Hub Locker to pick up a package.
+
+## Tuesday June 25
+
+In the evening, I went to downtown Berkeley. I first stopped at
+Goodwill to try to donate some items, but their donations were closed
+for the day. I then went to Citibank for some financial transactions.
