@@ -113,5 +113,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-24','Red bell pepper',2),
   ('2024-06-24','Beefsteak tomato',4), /* I think this was 4, but maybe it was 3 which would make sense if the original 2024-06-16 and 2024-06-18 were both correct */
   /* Rice prep 2024-06-25 */
-  ('2024-06-25','Lundberg Sustainable California White Basmati Rice',0.75);
+  ('2024-06-25','Lundberg Sustainable California White Basmati Rice',0.75),
+  /* Lentils prep (soaking 2024-06-26, cooking and eating 2024-06-27) */
+  ('2024-06-26','TJ Green Lentils',1);
   /* Double-check the date before committing */
