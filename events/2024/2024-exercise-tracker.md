@@ -522,3 +522,8 @@ on 2024-06-25 instead.
 On 2024-06-26, due to scheduling constraints, I wasn't able to go
 jogging in the morning. It gets hot in the afternoon, so I just
 skipped jogging for the day.
+
+## 2024-06-27: skipped jogging due to scheduling constraints
+
+On 2024-06-27, due to scheduling constraints, I wasn't able to go
+jogging.
