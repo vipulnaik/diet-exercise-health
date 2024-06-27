@@ -334,4 +334,7 @@ for the day. I then went to Citibank for some financial transactions.
 In the evening, I went to the Amazon Hub Locker at ASUC Berkeley to
 pick up some packages. The totality of the stuff was quite a bit, so I
 carried a suitcase to the location and packed the stuff mostly in my
-suitcase (with some in my backpack).
+suitcase (with some in my backpack). The stuff was pretty heavy
+particularly for the return journey, so this turned out to be good
+strength exercise as well as aerobic exercise, partly making up for my
+skipping jogging in the morning.
