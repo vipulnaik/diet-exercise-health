@@ -338,3 +338,10 @@ suitcase (with some in my backpack). The stuff was pretty heavy
 particularly for the return journey, so this turned out to be good
 strength exercise as well as aerobic exercise, partly making up for my
 skipping jogging in the morning.
+
+## Friday June 28
+
+In the early afternoon, I went to downtown Berkeley. I first stopped
+by at Goodwill and donated some items, finishing around 1:50 PM. I
+then went to Trader Joe's for food purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
