@@ -115,5 +115,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-06-25 */
   ('2024-06-25','Lundberg Sustainable California White Basmati Rice',0.75),
   /* Lentils prep (soaking 2024-06-26, cooking and eating 2024-06-27) */
-  ('2024-06-26','TJ Green Lentils',1);
+  ('2024-06-26','TJ Green Lentils',1),
+  /* Rice prep 2024-06-28 */
+  ('2024-06-28','Lundberg Sustainable California White Basmati Rice',0.75);
   /* Double-check the date before committing */
