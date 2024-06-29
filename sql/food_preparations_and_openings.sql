@@ -117,5 +117,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep (soaking 2024-06-26, cooking and eating 2024-06-27) */
   ('2024-06-26','TJ Green Lentils',1),
   /* Rice prep 2024-06-28 */
-  ('2024-06-28','Lundberg Sustainable California White Basmati Rice',0.75);
+  ('2024-06-28','Lundberg Sustainable California White Basmati Rice',0.75),
+  /* Potatoes prep 2024-06-28 */
+  ('2024-06-28','Gold potatoes 5 lb',0.3),
+  ('2024-06-28','TJ Kale',1),
+  ('2024-06-28','TJ Broccoli Florets 12 oz',1),
+  ('2024-06-28','TJ English Shelled Peas',3),
+  ('2024-06-28','Beefsteak tomato',2),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-06-28','TJ Walnuts',1);
   /* Double-check the date before committing */

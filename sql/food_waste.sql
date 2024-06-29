@@ -18,5 +18,7 @@ insert into food_waste(waste_date, food_type, quantity, after_preparation_or_ope
   ('2024-05-16','Near East Couscous',1,false,'I had to throw this out as it was a few months past its best buy date. I had purchased it ten months ago on 2023-07-12.'),
   ('2024-06-05','India House Oregon rice',0.3,true,'I threw out a little of the left-over rice as I didn''t feel like eating it.'),
   ('2024-06-05','India House Oregon aloo sag',0.3,true,'I threw out a little of the left-over aloo sag as I didn''t feel like eating it.'),
-  ('2024-06-07','TJ Sauerkraut',0.6,true,'I left behind this sauerkraut in the hotel room in Portland as I wasn''t able to finish it and it seemed too messy to carry back.');
+  ('2024-06-07','TJ Sauerkraut',0.6,true,'I left behind this sauerkraut in the hotel room in Portland as I wasn''t able to finish it and it seemed too messy to carry back.'),
+  ('2024-06-28','TJ Kale',0.1,true,'Some of the kale fell out while I was trying to empty the kale into the pot for cooking.'),
+  ('2024-06-28','Beefsteak tomato',2,false,'I noticed two of the four left-over beefsteak tomatoes had spoiled so I threw them out.');
   /* Double-check the date before committing */
