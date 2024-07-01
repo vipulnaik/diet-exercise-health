@@ -527,3 +527,9 @@ skipped jogging for the day.
 
 On 2024-06-27, due to scheduling constraints, I wasn't able to go
 jogging.
+
+## 2024-07-01: skipped jogging due to scheduling constraints
+
+On 2024-07-01, as it as expected to be hot in the afternoon, I skipped
+jogging in the morning in order to instead go to Trader Joe's for
+grocery shopping while it was still cool.
