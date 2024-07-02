@@ -136,5 +136,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-01','Green bell pepper',4),
   ('2024-07-01','Red bell pepper',2),
   ('2024-07-01','Beefsteak tomato',4),
-  ('2024-07-01','TJ Turmeric',1); /* I opened the turmeric bottle */
+  ('2024-07-01','TJ Turmeric',1), /* I opened the turmeric bottle */
+  /* Rice prep 2024-07-02 */
+  ('2024-07-02','Lundberg Sustainable California White Basmati Rice',0.75);
   /* Double-check the date before committing */
