@@ -138,5 +138,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-01','Beefsteak tomato',4),
   ('2024-07-01','TJ Turmeric',1), /* I opened the turmeric bottle */
   /* Rice prep 2024-07-02 */
-  ('2024-07-02','Lundberg Sustainable California White Basmati Rice',0.75);
+  ('2024-07-02','Lundberg Sustainable California White Basmati Rice',0.75),
+  /* Potatoes prep 2024-07-03 */
+  ('2024-07-03','Gold potatoes 5 lb',0.4),
+  ('2024-07-03','TJ Kale',1),
+  ('2024-07-03','TJ Broccoli Florets 12 oz',1),
+  ('2024-07-03','TJ English Shelled Peas',3),
+  ('2024-07-03','Beefsteak tomato',2);
   /* Double-check the date before committing */
