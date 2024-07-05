@@ -345,3 +345,8 @@ In the early afternoon, I went to downtown Berkeley. I first stopped
 by at Goodwill and donated some items, finishing around 1:50 PM. I
 then went to Trader Joe's for food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday July 5
+
+In the morning, I made a trip to the Amazon Hub Locker at ASUC
+Berkeley to pick up a few packages.
