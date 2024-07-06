@@ -19,3 +19,9 @@ and bring my insurance card.
 
 I created a calendar event and invited my work account so that it
 blocks that time on my calendar.
+
+Shortly after this, I wrote down the [best practices around vaccine
+appointments
+doc](https://github.com/vipulnaik/diet-exercise-health/blob/master/best-practices/best-practices-around-vaccine-appointments.md)
+and created a bunch of calendar reminders based on the guidance I was
+assembling.
