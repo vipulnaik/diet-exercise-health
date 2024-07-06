@@ -200,7 +200,7 @@ had last eaten (I finished my last meal a little after 5:30 PM on
 Tuesday).
 
 More details of my trip are in the [2021 activity
-tracker](2021-activity-tracker#wednesday-june-30).
+tracker](2021-activity-tracker.md#wednesday-june-30).
 
 ### Test results
 
