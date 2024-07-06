@@ -8,7 +8,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2024-05-30 lentils prep */
   ('2024-05-30','TJ Green Lentils',1),
   /* 2024-05-31 rice prep */
-  ('2024-05-31','Lundberg Sustainable California White Basmati Rice',0.75),
+  ('2024-05-31','Lundberg Sustainable California White Basmati Rice',0.8),
   /* 2024-06-01 potatoes prep */
   ('2024-06-01','Gold potatoes 5 lb',0.45), /* approximate */
   ('2024-06-01','TJ Kale',1),
@@ -32,7 +32,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2024-06-06: day 4 */
   ('2024-06-06','Kite Hill Vanilla Almond Yogurt (small)',1),
   /* 2024-06-07 rice prep after returning from Portland -- fraction is approximate */
-  ('2024-06-07','Lundberg Sustainable California White Basmati Rice',0.75),
+  ('2024-06-07','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Potatoes prep 2024-06-08 */
   ('2024-06-08','Gold potatoes 5 lb',0.1), /* there wasn't much left over of this; usually I consume about a third of the amount if available */
   ('2024-06-08','TJ Kale',1),
@@ -50,7 +50,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-10','Red bell pepper',2),
   ('2024-06-10','Beefsteak tomato',3),
   /* Rice prep 2024-06-10 */
-  ('2024-06-10','Lundberg Sustainable California White Basmati Rice',0.75),
+  ('2024-06-10','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle openings as the old ones finished */
   ('2024-06-10','TJ Sauerkraut',1),
   ('2024-06-11','TJ Miso Ginger Broth',1),
@@ -63,7 +63,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Walnuts */
   ('2024-06-12','TJ Walnuts',1),
   /* Rice prep 2024-06-13 */
-  ('2024-06-13','Lundberg Sustainable California White Basmati Rice',0.75),
+  ('2024-06-13','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle openings as the old ones finished */
   ('2024-06-13','TJ Almond Milk',1),
   ('2024-06-14','Kite Hill Greek Style Plant-Based Yogurt',1),
@@ -78,7 +78,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-16','Beefsteak tomato',3),
   ('2024-06-16','Lemon',1), /* Cut and started using lemon */
   /* Rice prep 2024-06-17 */
-  ('2024-06-17','Lundberg Sustainable California White Basmati Rice',0.75),
+  ('2024-06-17','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Potatoes prep 2024-06-18 */
   ('2024-06-18','Gold potatoes 5 lb',0.30),
   ('2024-06-18','TJ Kale',1),
@@ -89,7 +89,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-19','TJ Almond Milk',1),
   ('2024-06-19','TJ Miso Ginger Broth',1),
   /* Rice prep 2024-06-20 */
-  ('2024-06-20','Lundberg Sustainable California White Basmati Rice',0.75),
+  ('2024-06-20','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle openings as the old ones finished */
   ('2024-06-20','TJ Sauerkraut',1),
   ('2024-06-21','TJ Walnuts',1),
@@ -113,11 +113,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-24','Red bell pepper',2),
   ('2024-06-24','Beefsteak tomato',4), /* I think this was 4, but maybe it was 3 which would make sense if the original 2024-06-16 and 2024-06-18 were both correct */
   /* Rice prep 2024-06-25 */
-  ('2024-06-25','Lundberg Sustainable California White Basmati Rice',0.75),
+  ('2024-06-25','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Lentils prep (soaking 2024-06-26, cooking and eating 2024-06-27) */
   ('2024-06-26','TJ Green Lentils',1),
   /* Rice prep 2024-06-28 */
-  ('2024-06-28','Lundberg Sustainable California White Basmati Rice',0.75),
+  ('2024-06-28','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Potatoes prep 2024-06-28 */
   ('2024-06-28','Gold potatoes 5 lb',0.3),
   ('2024-06-28','TJ Kale',1),
@@ -138,7 +138,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-01','Beefsteak tomato',4),
   ('2024-07-01','TJ Turmeric',1), /* I opened the turmeric bottle */
   /* Rice prep 2024-07-02 */
-  ('2024-07-02','Lundberg Sustainable California White Basmati Rice',0.75),
+  ('2024-07-02','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Potatoes prep 2024-07-03 */
   ('2024-07-03','Gold potatoes 5 lb',0.4),
   ('2024-07-03','TJ Kale',1),
@@ -149,5 +149,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-04','TJ Miso Ginger Broth',1),
   ('2024-07-04','TJ Sauerkraut',1),
   ('2024-07-04','TJ Almond Milk',1),
-  ('2024-07-04','Kite Hill Greek Style Plant-Based Yogurt',1);
+  ('2024-07-04','Kite Hill Greek Style Plant-Based Yogurt',1),
+  /* Rice prep 2024-07-06 */
+  ('2024-07-06','Lundberg Sustainable California White Basmati Rice',0.8);
   /* Double-check the date before committing */
