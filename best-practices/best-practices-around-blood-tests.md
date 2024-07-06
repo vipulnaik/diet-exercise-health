@@ -15,6 +15,18 @@ before my intended date of going for the tests. Keep in mind the test
 location hours (usually Monday to Friday, opening around 7 AM or 8 AM,
 and staying open till around 4 PM).
 
+Try to book at a time when there is nothing of this sort in the
+previous or next two weeks:
+
+* Ill health of any sort
+
+* Medical appointments such as eye care appointments, other tests, or
+  dental cleaning appointments
+
+* Intercity travel
+
+* Unusually high-stress events
+
 ## Calendar reminders
 
 ### Reminder for the test date

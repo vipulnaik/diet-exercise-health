@@ -7,12 +7,25 @@ previous dental cleaning appointment, and the usual interval is 27
 weeks. My booking preference is Wednesday 1 PM.
 
 Note the appointment date and time in the notes for the previous
-appointment, and also put a calendar reminder. The calendar reminder
-should start two hours prior to the appointment start time and then
-continue to three hours after the appointment end time. Invite my work
-email account so that the time is blocked on my work calendar as well.
+appointment, and also put a calendar reminder. Also, check the two
+weeks before and after it just to make sure that I don't have anything
+else that could create a conflict, such as travel, other medical
+appointments, vaccines, or blood tests.
+
+The calendar reminder should start two hours prior to the appointment
+start time and then continue to three hours after the appointment end
+time. Invite my work email account so that the time is blocked on my
+work calendar as well.
 
 ## Calendar reminders around the event
+
+### Cancellation consideration for three business days before the appointment
+
+There is a $50 charge for cancelling less than three business days
+prior to the appointment, so I should set a calendar reminder to
+consider whether to cancel while I can still do so for free. In
+particular, other related stuff such as vaccines, blood tests, or
+travel plans may come up.
 
 ### Shopping reminder for two days prior to the appointment
 

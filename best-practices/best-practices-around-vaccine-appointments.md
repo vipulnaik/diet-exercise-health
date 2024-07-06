@@ -32,6 +32,18 @@ adjusted based on factors such as the following:
 * Check for appointments and other commitments on the day of booking
   or the two days after booking
 
+* Try to select a time with nothing of this sort in the preceding or
+  following two weeks:
+
+  * Ill health of any sort
+
+  * Medical appointments such as eye care appointments, other tests, or
+    dental cleaning appointments
+
+  * Intercity travel
+
+  * Unusually high-stress events
+
 ### Booking steps
 
 * Book on the website such as Walgreens. Make sure that the location,
