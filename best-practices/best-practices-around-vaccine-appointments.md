@@ -49,7 +49,7 @@ adjusted based on factors such as the following:
 
 Add the following calendar reminders.
 
-### Calendar reminder for date of appointment
+### Reminder for date of appointment
 
 The calendar event should start 2 hours prior to the appointment and
 end 2 hours after the appointment. The actual appointment time should
@@ -75,8 +75,11 @@ Set a weather check reminder for two days prior to the appointment.
 * Pause reminder for strength exercises and hand gripper exercises:
   Two days prior to the vaccine appointment
 
-* Resume reminder for hand gripper exercises: Seven days after the
-  vaccine appointment
+* Resume reminder for hand gripper exercise in the non-vaccine arm:
+  Four days after the vaccine appointment
+
+* Resume reminder for hand gripper exercise in the vaccine arm: Seven
+  days after the vaccine appointment
 
 * Resume reminder for strength exercises: Eight days after the vaccine
   appointment

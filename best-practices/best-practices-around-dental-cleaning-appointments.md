@@ -12,7 +12,7 @@ should start two hours prior to the appointment start time and then
 continue to three hours after the appointment end time. Invite my work
 email account so that the time is blocked on my work calendar as well.
 
-## Set up calendar reminders around the event
+## Calendar reminders around the event
 
 ### Shopping reminder for two days prior to the appointment
 
