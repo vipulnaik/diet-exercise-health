@@ -43,6 +43,12 @@ shopped for ahead of the appointment if possible.
 
 This is to conserve time and energy for the appointment.
 
+### Reminder to set reminders for the next dental cleaning appointment
+
+Set a reminder for the evening of the dental cleaning appointment to
+set calendar reminders for the next dental cleaning appointment
+following this doc.
+
 ## Things to keep in mind during the appointment
 
 Don't keep the mouth open too wide for too long. In particular, close
