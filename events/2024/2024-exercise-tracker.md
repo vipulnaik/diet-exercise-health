@@ -534,10 +534,9 @@ On 2024-07-01, as it as expected to be hot in the afternoon, I skipped
 jogging in the morning in order to instead go to Trader Joe's for
 grocery shopping while it was still cool.
 
-## 2024-07-02 (likely till 2024-07-06): skipping jogging due to heat
+## 2024-07-02 to 2024-07-05: skipping jogging due to heat
 
-On 2024-07-02, and likely going till 2024-07-06, my plan is to skip
-jogging due to [excess
+From 2024-07-02 to 2024-07-05, I skipped jogging due to [excess
 heat](https://member.everbridge.net/453003085612570/notif/mYuRYKZ0p).
 
 There are a few scheduling considerations:
@@ -556,3 +555,8 @@ productivity, and the morning and late night are the best times to do
 actual work (as the indoor temperature is low) so skipping jogging can
 help counterbalance some of the lost productivity by freeing up more
 time at the relatively more productive times.
+
+## 2024-07-06
+
+I resumed going jogging; due to the heat I only just about did my 1.4
+miles and wasn't able to do more. I walked the remaining portion.
