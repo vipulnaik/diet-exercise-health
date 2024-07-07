@@ -135,23 +135,23 @@ and 32 being manageable with a tight belt. I do not have a paunch.
   dental health. Look in my notes folder for files with the word
   `dental-cleaning` in them to locate the most recent appointment. As
   of the last edit of this document,
-  [this](2024-04-03-dental-cleaning.md) is my most recent appointment.
+  [this](../events/2024/2024-04-03-dental-cleaning.md) is my most recent appointment.
 
 * All four of my wisdom teeth have been removed. The removal was done
-  in 2023: [overall doc](2023-wisdom-tooth-removal.md), [left
-  side](2023-07-05-wisdom-tooth-removal-left-side.md), and [right
-  side](2023-08-23-wisdom-tooth-removal-right-side.md).
+  in 2023: [overall doc](../events/2023/2023-wisdom-tooth-removal.md), [left
+  side](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md), and [right
+  side](../events/2023/2023-08-23-wisdom-tooth-removal-right-side.md).
 
 * I got periodontal therapy in September / October 2021, i.e., I had a
   below-the-gumline deep cleaning done. For more details, see [first
-  appointment](2021-09-29-periodontal-therapy-first-appointment.md),
+  appointment](../events/2021/2021-09-29-periodontal-therapy-first-appointment.md),
   [second
-  appointment](2021-10-06-periodontal-therapy-second-appointment.md),
+  appointment](../events/2021/2021-10-06-periodontal-therapy-second-appointment.md),
   and [followup
-  appointment](2021-12-15-periodontal-therapy-followup-appointment.md).
+  appointment](../events/2021/2021-12-15-periodontal-therapy-followup-appointment.md).
 
 * My [December 2018 document on a bunch of related
-  pains](2018-12-head-neck-jaw-tooth-pain.md) that I experienced,
+  pains](../events/2018/2018-12-head-neck-jaw-tooth-pain.md) that I experienced,
   including dental pain, and that also marked the start of my
   photosensitivity, may be worth reading.
 
@@ -161,7 +161,7 @@ and 32 being manageable with a tight belt. I do not have a paunch.
   UC Berkeley Optometry. Look in the notes folder for files with
   `eye-exam` in them to locate information on my eye exams. The most
   recent one is generally the one to pay attention to. As of the last
-  major edit of this document, [this](2023-10-04-eye-exam.md) is my
+  major edit of this document, [this](../events/2023/2023-10-04-eye-exam.md) is my
   most recent eye exam.
 
 * I have some issues with distance vision, as evinced in the eye exam
@@ -182,18 +182,18 @@ and 32 being manageable with a tight belt. I do not have a paunch.
   settings for my electronics use, and keeping the lights off in the
   evening / at night most of the time. The photosensitivity started
   along with my [Decemer 2018 head/neck/jaw/tooth
-  pain](2018-12-head-neck-jaw-tooth-pain.md).
+  pain](../events/2018/2018-12-head-neck-jaw-tooth-pain.md).
 
 ## Physical exam
 
 As of May 2024, my last full physical exam by a medical professional
 was in December 2016, when I went to a gastro specialist for my
 stomach pain issues. See
-[here](2016-11-to-2016-12-stomach-pain-and-resolution.md#doctor-visit)
+[here](../events/2016/2016-11-to-2016-12-stomach-pain-and-resolution.md#doctor-visit)
 for more context.
 
 On 2024-04-30, I had an abdominal exam and vitals measurements as part
-of my [urgent care visit](2024-04-30-urgent-care-visit-and-tests.md).
+of my [urgent care visit](../events/2024/2024-04-30-urgent-care-visit-and-tests.md).
 
 Starting May 2024, I plan to do monthly physical self-exams that
 include blood pressure measurement, auscultation of the abdomen and
@@ -229,7 +229,7 @@ food).
 
 I've taken lipid profile measurements starting April 2004, with my
 most recent measurement being in June 2021 as part of my [2021 blood
-test plans](2021-blood-test-plans.md).
+test plans](../events/2021/2021-blood-test-plans.md).
 
 Overall, my most recent lipid profile (as of 2021) is close enough to
 normal, but this is something I need to continue monitoring given
@@ -319,7 +319,7 @@ came fairly healthy; the ALT reading in particular was just 11, well
 within the desired upper limit of 25.
 
 On 2024-04-30, as part of my [urgent care
-visit](2024-04-30-urgent-care-visit-and-tests.md) I got a
+visit](../events/2024/2024-04-30-urgent-care-visit-and-tests.md) I got a
 comprehensive metabolic panel (CMP). This includes some of the liver
 function tests, particularly the ALT and AST. Both came back normal.
 
@@ -339,16 +339,16 @@ that I have not been infected with COVID-19.
 I tested myself once (on 2022-04-06) for COVID-19 using at at-home
 test, when I was having a fever. I tested negative. The fever was
 likely an aftereffect of an injury. See
-[here](2022-04-05-fall-and-phone-screen-crack.md#covid-19-antigent-test)
+[here](../events/2022/2022-04-05-fall-and-phone-screen-crack.md#covid-19-antigent-test)
 for details.
 
 I got my primary COVID-19 vaccine series from Pfizer in 2021 (in May
 2021 and [June
-2021](2021-06-25-pfizer-covid-vaccine-dose-2.md)). Since then, I have
+2021](../events/2021/2021-06-25-pfizer-covid-vaccine-dose-2.md)). Since then, I have
 been getting a booster every year, with the booster some time between
 November and January. As of the writing of this document, my most
 recent vaccine was on [January 12,
-2024](2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md).
+2024](../events/2024/2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md).
 
 Starting with my second COVID-19 dose and then for each booster dose
 (though much less pronounced for the January 2024 dose), I
@@ -369,16 +369,16 @@ I have records of the date of vaccination starting 2015; this
 information is available in
 [vaccine_administrations.sql](../sql/vaccine_administrations.sql). My
 most recent administration was in [October
-2023](2023-10-13-flu-shot.md).
+2023](../events/2023/2023-10-13-flu-shot.md).
 
 In general, I have not had significant reactions to the flu shot. The
 main symptom has been slight soreness in the area of administration
 for the next day. For my [October 2023 flu
-shot](2023-10-13-flu-shot.md), the soreness continued in a relatively
+shot](../events/2023/2023-10-13-flu-shot.md), the soreness continued in a relatively
 mild form for about a week, and might have been causal in some
 stiffness in the neck and shoulder as well. I believe this was due to
 an interaction with hand gripper exercises, that I [started doing in
-July 2023](2023-07-29-hand-gripper-exercise.md).
+July 2023](../events/2023/2023-07-29-hand-gripper-exercise.md).
 
 ### Childhood vaccines
 
@@ -400,24 +400,24 @@ wrong in some of the cases.
 
 * [2023-08-04 sore throat suspected to be due to sauerkraut and red
   chutney
-  consumption](2023-08-04-sauerkraut-red-chutney-and-sore-throat.md):
+  consumption](../events/2023/2023-08-04-sauerkraut-red-chutney-and-sore-throat.md):
   This was during my recovery period from my [2023-07-05 wisdom tooth
-  removal (left side)](2023-07-05-wisdom-tooth-removal-left-side.md),
+  removal (left side)](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md),
   and was likely due to aftereffects of the wisdom tooth removal
   itself or my body's adverse reaction to the preventative antibiotic
   (clindamycin) that I took after the procedure.
 
 * [2021-08-28 sore throat after
-  meals](2021-08-28-sore-throat-after-meals.md): Just a sore throat,
+  meals](../events/2021/2021-08-28-sore-throat-after-meals.md): Just a sore throat,
   no runny nose; I addressed this with some remedial measures.
 
 * [2021-02-27 sauerkraut and sore
-  throat](2021-02-27-sauerkraut-and-sore-throat.md): Just a sore
+  throat](../events/2021/2021-02-27-sauerkraut-and-sore-throat.md): Just a sore
   throat, no runny nose; I addressed this by briefly taking a break
   from sauerkraut.
 
 * [2019-08-30 Thai yellow curry and subsequent
-  cold](2019-08-30-thai-yellow-curry-and-subsequent-cold.md): After
+  cold](../events/2019/2019-08-30-thai-yellow-curry-and-subsequent-cold.md): After
   having a huge amount of Thai yellow cury, I had a runny nose. The
   runny nose recovered quickly. I believe it was throat irritation and
   not a viral cold, but I'm not sure.
@@ -437,15 +437,15 @@ more frequently than my peers).
 ### Other cases of fever (excluding after vaccines)
 
 * [2022-04-05 fall and phone screen
-  crack](2022-04-05-fall-and-phone-screen-crack.md): I had a brief
+  crack](../events/2022/2022-04-05-fall-and-phone-screen-crack.md): I had a brief
   fever after the injury; slight fever after injuries is expected.
 
-* [2021-08-22 fever and rash](2021-08-22-fever-and-rash.md): I had a
+* [2021-08-22 fever and rash](../events/2021/2021-08-22-fever-and-rash.md): I had a
   brief fever and rash the day after I cleaned out a nest and had a
   bunch of stuff fall on me during the cleaning process.
 
 * [2020-07-28 fever
-  episode](2020-coronavirus-activity-tracker#tuesday-july-28) that
+  episode](../events/2020/2020-coronavirus-activity-tracker#tuesday-july-28) that
   resolved after a long night's sleep.
 
 ### Childhood diseases
@@ -467,10 +467,10 @@ injured me or damaged my stuff. The most significant injuries since
 2014 that affected me bodily are listed below:
 
 * [2022-04-05 fall and phone screen
-  crack](2022-04-05-fall-and-phone-screen-crack.md): This was a
+  crack](../events/2022/2022-04-05-fall-and-phone-screen-crack.md): This was a
   running fall accompanied by a phone screen crack.
 
-* [2019-09-10 traffic accident](2019-09-10-traffic-accident.md): I was
+* [2019-09-10 traffic accident](../events/2019/2019-09-10-traffic-accident.md): I was
   hit by a car at a stop sign (traveling very slowly).
 
 * 2014-12-15 running fall: This was a major running fall, that
@@ -565,7 +565,7 @@ Air quality can sometimes get bad due to smoke from forest fires
 farther away. In such cases, I can take additional precautions such as
 taking a break from outdoor trips, closing windows, and masking up if
 I do need to go outdoors. See [2023-09-19 onward air quality
-issues](2023-09-19-onward-air-quality-issues.md) for an example of
+issues](../events/2023/2023-09-19-onward-air-quality-issues.md) for an example of
 such an incident.
 
 ### No smoking, alcohol, or recreational drugs
@@ -631,7 +631,7 @@ minor modifications. For a period of time in between, I used to
 consume hot chocolate drinks daily (from Starbucks or similar
 places). Although I didn't consume them for the sugar content, they
 did have higher sugar content than the rest of my diet. In 2019, after
-[encountering dental problems](2018-12-head-neck-jaw-tooth-pain.md)
+[encountering dental problems](../events/2018/2018-12-head-neck-jaw-tooth-pain.md)
 that were partly related to this consumption, I phased out hot
 chocolate consumption by May 2019. Since then, I have had very low
 consumption of sugary foods.
@@ -665,7 +665,7 @@ Here are some highlights of my current diet:
   dish I otherwise want to have.
 
 * I occasionally do shallow nutrient reviews such as the one in
-  [2021-04-11](2021-04-11-shallow-nutrient-review.md), and may make
+  [2021-04-11](../events/2021/2021-04-11-shallow-nutrient-review.md), and may make
   diet adjustments based on that.
 
 * The proportion of my food I eat that is restaurant takeout or
@@ -717,13 +717,13 @@ brands that were locally available.
 
 ### December 2019: start of omega-3 supplementation
 
-See [here](2019-12-30-decision-to-start-taking-omega-3-supplements.md)
+See [here](../events/2019/2019-12-30-decision-to-start-taking-omega-3-supplements.md)
 for details of my decision process.
 
 ### July 2021: switch to Doctor's Best for Vitamin D supplementation
 
 In July 2021, shortly after my [2021 blood test that confirmed my
-continued good Vitamin D levels](2021-blood-test-plans.md), I switched
+continued good Vitamin D levels](../events/2021/2021-blood-test-plans.md), I switched
 to a vegan 2500 IU Vitamin D3 supplement from Doctor's Best. I had
 previously used the 2000 IU supplement from Finest Nutrition.
 
@@ -769,7 +769,7 @@ from a left-over bottle given by a friend to deal with occasional
 inflammation issues (that happened once every few months). I used up
 the bottle in August 2021 in its expiration month while addressing the
 [2021-08-28 sore throat after
-meals](2021-08-28-sore-throat-after-meals.md). I haven't bought
+meals](../events/2021/2021-08-28-sore-throat-after-meals.md). I haven't bought
 anything similar since then, since I haven't had similar inflammation
 issues.
 
@@ -798,7 +798,7 @@ time commitments.
 The switch to working-from-home in March 2020 (with the COVID-19
 pandemic) helped me be more regular with daily jogging, as there was
 less need to get ready at a specific time to commute. After an
-[injury](2022-04-05-fall-and-phone-screen-crack.md) and subsequently
+[injury](../events/2022/2022-04-05-fall-and-phone-screen-crack.md) and subsequently
 after moving my residence in April 2022, I increased the length and
 consistency of my daily jogging distance, and also reduced my peak
 jogging speed.
@@ -806,16 +806,16 @@ jogging speed.
 I hadn't done weights or strength training as a regular part of my
 routine as an adult until November 2021. I introduced it in November
 2021 after purchasing dumb bells and an exercise mat. See
-[here](2021-11-02-weight-lifting-and-stretching.md) for details of my
+[here](../events/2021/2021-11-02-weight-lifting-and-stretching.md) for details of my
 initial progession. This was also around the time that I introduced
 pushups; I had introduced some balance exercises a little earlier.
 
 I started hand gripper exercises in July 2023; see
-[here](2023-07-29-hand-gripper-exercise.md) for the progression.
+[here](../events/2023/2023-07-29-hand-gripper-exercise.md) for the progression.
 
 I also started looking into Buteyko breathing in July 2023; eventually
 this led me to start doing breath holds regularly; see
-[here](2023-07-30-buteyko-breathing.md) for the progression.
+[here](../events/2023/2023-07-30-buteyko-breathing.md) for the progression.
 
 ## Sleep
 
