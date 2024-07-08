@@ -72,7 +72,7 @@ test should be fine.
 
 ### Reminders to resume hand gripper exercises and strength exercise
 
-NOTE: Jogging and breath tests can be resumed the next day after the
+NOTE: Jogging and breath holds can be resumed the next day after the
 blood test if I'm feeling up to it. No calendar reminder is needed.
 
 * Resume reminder for hand gripper exercises for the arm from which
