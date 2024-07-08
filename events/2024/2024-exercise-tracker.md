@@ -556,7 +556,13 @@ actual work (as the indoor temperature is low) so skipping jogging can
 help counterbalance some of the lost productivity by freeing up more
 time at the relatively more productive times.
 
-## 2024-07-06
+## 2024-07-06: resumed jogging
 
 I resumed going jogging; due to the heat I only just about did my 1.4
 miles and wasn't able to do more. I walked the remaining portion.
+
+## 2024-07-07: skipped jogging for morning shopping trip
+
+Due to the high heat, I had to use the morning time when it's
+relatively cooler to go shopping and therefore had to skip jogging on
+this day.
