@@ -93,7 +93,7 @@ Set a weather check reminder for two days prior to the appointment.
 * Resume reminder for hand gripper exercise in the vaccine arm: Seven
   days after the vaccine appointment
 
-* Resume reminder for strength exercises: Eight days after the vaccine
+* Resume reminder for strength exercises: Nine days after the vaccine
   appointment
 
 ### Reminders to pause and resume jogging and breath holds
