@@ -566,3 +566,8 @@ miles and wasn't able to do more. I walked the remaining portion.
 Due to the high heat, I had to use the morning time when it's
 relatively cooler to go shopping and therefore had to skip jogging on
 this day.
+
+## 2024-07-08: resumed full set of exercises, including strength exercises
+
+With the weather returning to normal, I resumed my full set of
+exercises, including strength exercises.
