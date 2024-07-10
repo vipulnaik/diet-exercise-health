@@ -350,3 +350,13 @@ then went to Trader Joe's for food purchases recorded in
 
 In the morning, I made a trip to the Amazon Hub Locker at ASUC
 Berkeley to pick up a few packages.
+
+## Wednesday July 10
+
+In the morning, I made a trip to Berkeley Bowl for food purchases
+(recorded in [food_purchases.sql](../sql/food_purchases.sql)) and then
+to Walgreens for toiletries purchases.
+
+Later in the morning, I made a trip to Citibank for financial
+transactions, then went to Trader Joe's for food purchases recorded in
+[food_purchases.sql](../sql/food_purchases.sql).
