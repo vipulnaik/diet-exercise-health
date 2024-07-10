@@ -571,3 +571,13 @@ this day.
 
 With the weather returning to normal, I resumed my full set of
 exercises, including strength exercises.
+
+## 2024-07-10: skipped exercise
+
+On 2024-07-10, I skipped exercise. Strength exercise and hand gripper
+exercise were paused due to the upcoming Tdap vaccine appointment. I
+also skipped jogging, which was also indirectly related to the vaccine
+appointment: I wanted to get a bunch of grocery shopping completed
+ahead of the appointment so that I don't need to carry heavy bags
+shortly before or after the appointment. This used up the morning time
+when it's cool enough to jog, so I ended up skipping jogging as well.
