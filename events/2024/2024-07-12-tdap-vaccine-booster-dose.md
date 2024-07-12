@@ -1,5 +1,17 @@
 # 2024-07-12: Tdap vaccine booster dose
 
+## Readings
+
+### Temperature readings
+
+* 2024-07-12 2 PM: 98.2, 98.2, and 98.5
+
+### Blood pressure and heart rate readings
+
+* 2024-07-11 9:33-9:37 AM: 97/61/46 and 94/57/47. See
+  https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/blood_pressure_readings.sql
+  for details.
+
 ## Appointment booking (2024-07-06)
 
 My previous vaccine booster dose had been on 2014-12-15, so I had a
