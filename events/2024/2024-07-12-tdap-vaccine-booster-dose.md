@@ -74,6 +74,13 @@ The process finished at 2:40 PM. I received the booklet from Walgreens
 that stated that the intended processing time was 2:51 PM. I then
 waited for my vaccine dose.
 
+### Waiting before vaccine (2:40 PM to 2:52 PM)
+
+Over this time period, I was waiting outside the vaccination
+room. While waiting, I went through the booklet provided by
+Walgreens. It described the medication as Boostrix 0.5ml IM PFS (10
+pack) with directions to "administer 0.5ml in the muscle".
+
 ### Vaccine (2:52 PM to 2:54 PM)
 
 I was called into the room to get my vaccine at 2:52 PM. I went
