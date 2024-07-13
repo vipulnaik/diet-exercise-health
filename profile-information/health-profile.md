@@ -397,8 +397,10 @@ moving to the United States for graduate study, I reviewed my vaccine
 history and got a few additional vaccines to be compliant with the
 requirements (including possibly vaccines that I had already gotten as
 a child but didn't have a record of). Details of my childhood vaccines
-have not yet been updated online, but physical copies of these are
-available, and I'm planning to digitize the information.
+have been digitized but are not included publicly due to potential
+sensitivity of some of the data (including the ability to infer date
+of birth / place of birth from the timing of some of the vaccine
+series).
 
 ### Common cold and sore throat / running nose
 
