@@ -79,6 +79,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-06-16','Lemon',1), /* Cut and started using lemon */
   /* Rice prep 2024-06-17 */
   ('2024-06-17','Lundberg Sustainable California White Basmati Rice',0.8),
+  ('2024-06-18','Trader Giotto''s Olive Oil',1), /* This date is approximate and backfilled */
   /* Potatoes prep 2024-06-18 */
   ('2024-06-18','Gold potatoes 5 lb',0.30),
   ('2024-06-18','TJ Kale',1),
