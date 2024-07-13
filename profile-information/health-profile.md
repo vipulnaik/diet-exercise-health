@@ -87,7 +87,9 @@ and even overshoots before settling back to its equilibrium value.
 I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
 health events or other incidents) in
-[pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql).
+[pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql). My
+most recent reading was a range of 94% to 97% over a period of two
+minutes.
 
 For more extensive experiment results, see
 [2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
