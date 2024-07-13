@@ -685,13 +685,12 @@ Here are some highlights of my current diet:
   diet adjustments based on that.
 
 * The proportion of my food I eat that is restaurant takeout or
-  equivalent (prepped meals) is, as of 2023, about 10-15%. Most of
-  these are Udupi Palace spinach masala dosa. The general trend from
-  2015/2016 to 2023 has been for this proportion to drop, with the
-  drop being particularly sharp around 2023 after I reduced my work
-  hours and consequently had more time for meal prep at home. At its
-  peak, something like 25-35% of my meals may have been restaurant
-  meals or prepped meals.
+  equivalent (prepped meals) is, as of mid-2024, very small -- about
+  one meal a month, possibly a bit more in case of travel. This
+  represents a sharp drop since mid-to-late 2023, where I was doing
+  takeout about once a week on average. The 2023 level is in turn
+  lower than 2020-2022, which in turn is lower than the pre-pandemic
+  level.
 
 * Since the onset of the COVID-19 pandemic in 2020, I've basically
   stopped eating out except for cases where I'm meeting others; I
@@ -709,9 +708,17 @@ Here are some highlights of my current diet:
 
 * I have two meals a day on a typical day. My first meal is generally
   after my morning exercise (with a suitable waiting period in between
-  where feasible) and my second meal is in the evening. There is no
-  planned-for difference between the meals: both meals are of
-  approximately similar size and use the same foods in a similar mix.
+  where feasible) and my second meal is in the evening. The only
+  planned-for differences between the meals are as follows:
+
+  * I try to take all my supplements with the first meal.
+
+  * I try to take sauerkraut only with the first meal (the goal is to
+    limit it to one meal, and doing it on the first meal is
+    easier). For the second meal, I might occasionally do something
+    with overlaps with sauerkraut, such as red chutney (also
+    sore-throat-inducing) or vegan probiotic yogurt (overlaps on the
+    probiotic front).
 
 ## Supplements
 
