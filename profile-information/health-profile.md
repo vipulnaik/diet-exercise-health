@@ -1,8 +1,8 @@
 # Health profile
 
-Last major update: October 27, 2023
+Last major update: July 12, 2024
 
-Last pass of full document review (with updates and corrections where needed): May 17, 2024
+Last pass of full document review (with updates and corrections where needed): July 12, 2024
 
 This is the health profile for Vipul Naik. It is updated
 periodically. It does not include details of specific
@@ -12,6 +12,7 @@ here.
 
 When updating this document:
 
+* Make sure that I have the latest blood pressure readings.
 * Make sure to update the links to the last dental appointment and the
   last eye exam.
 * Make sure to update the HbA1c and lipid profile section to reflect
@@ -159,7 +160,7 @@ and 32 being manageable with a tight belt. I do not have a paunch.
 
 ## Eye status
 
-* I get eye exams every 1-2 years. As of 2023, I get my eye exams from
+* I get eye exams every 1-2 years. As of 2024, I get my eye exams from
   UC Berkeley Optometry. Look in the `events/<year>` folders for files
   with `eye-exam` in them to locate information on my eye exams. The
   most recent one is generally the one to pay attention to. As of the
@@ -704,7 +705,7 @@ Here are some highlights of my current diet:
   getting all of these. This was to the point that I haven't needed a
   microwave oven at all since 2022.
 
-* As of 2023, I have basically zero sugar-heavy foods or drinks.
+* As of 2024, I have basically zero sugar-heavy foods or drinks.
 
 * I have two meals a day on a typical day. My first meal is generally
   after my morning exercise (with a suitable waiting period in between
@@ -893,7 +894,7 @@ In the early 2010s, I had issues with falling asleep, and experimented
 with taking melatonin a few times to improve my sleep quality. I did
 not find clear improvement (but did not test extensively enough to get
 conclusive information). In any case, my sleep issues resolved
-themselves over time. As of 2023, I don't have any ongoing sleep
+themselves over time. As of 2024, I don't have any ongoing sleep
 issues (such as difficulty falling asleep, highly restless sleep,
 etc.)
  
