@@ -360,3 +360,10 @@ to Walgreens for toiletries purchases.
 Later in the morning, I made a trip to Citibank for financial
 transactions, then went to Trader Joe's for food purchases recorded in
 [food_purchases.sql](../sql/food_purchases.sql).
+
+## Friday July 12
+
+In the afternoon, I made a trip to Walgreens to get my Tdap booster
+dose; see [here](2024-07-12-tdap-vaccine-booster-dose.md) for
+details. After that, I did some shopping at Walgreens and then headed
+back home.
