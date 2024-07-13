@@ -836,24 +836,34 @@ weather conditions and time commitments.
 The switch to working-from-home in March 2020 (with the COVID-19
 pandemic) helped me be more regular with daily jogging, as there was
 less need to get ready at a specific time to commute. After an
-[injury](../events/2022/2022-04-05-fall-and-phone-screen-crack.md) and subsequently
-after moving my residence in April 2022, I increased the length and
-consistency of my daily jogging distance, and also reduced my peak
-jogging speed.
+[injury](../events/2022/2022-04-05-fall-and-phone-screen-crack.md) and
+subsequently after moving my residence in April 2022, I increased the
+length and consistency of my daily jogging distance, and also reduced
+my peak jogging speed. See
+[here](physical-exercise/jogging-and-return-walking-with-history.md)
+for the progression.
 
 I hadn't done weights or strength training as a regular part of my
 routine as an adult until November 2021. I introduced it in November
 2021 after purchasing dumb bells and an exercise mat. See
-[here](../events/2021/2021-11-02-weight-lifting-and-stretching.md) for details of my
+[here](physical-exercise/strength-exercises-with-history.md) for details of my
 initial progession. This was also around the time that I introduced
 pushups; I had introduced some balance exercises a little earlier.
 
 I started hand gripper exercises in July 2023; see
-[here](../events/2023/2023-07-29-hand-gripper-exercise.md) for the progression.
+[here](physical-exercise/hand-gripper-exercise-with-history.md) for
+the progression.
+
+ISee
+[here](physical-exercise/standing-on-one-leg-with-eyes-closed-with-history.md)
+for the progression of my standing-on-one-leg-with-eyes-closed
+exercises; these started likely November 2021 or earlier, and I've
+been systematic about recording milestones starting late October 2023.
 
 I also started looking into Buteyko breathing in July 2023; eventually
 this led me to start doing breath holds regularly; see
-[here](../events/2023/2023-07-30-buteyko-breathing.md) for the progression.
+[here](../events/2023/2023-07-30-buteyko-breathing.md) for some
+background information.
 
 ## Sleep
 

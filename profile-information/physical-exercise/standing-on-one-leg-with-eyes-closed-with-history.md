@@ -1,9 +1,10 @@
 # Standing on one leg with eyes closed (with history)
 
 I've been doing exercises involving standing on one leg with eyes
-closed for a while, but on 2023-10-29 (and starting with
-information/practices that I started collecting 2023-10-28) I've
-decided to flesh out the practice and some variants of it.
+closed for a while (likely since at least November 2021 when I started
+weights), but on 2023-10-29 (and starting with information/practices
+that I started collecting 2023-10-28) I've decided to flesh out the
+practice and some variants of it.
 
 ## Standing on one leg with eyes closed: standard version
 
