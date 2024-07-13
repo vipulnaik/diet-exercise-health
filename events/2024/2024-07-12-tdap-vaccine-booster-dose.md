@@ -7,18 +7,33 @@ Sections of this document:
 * [Readings](#readings)
 * [Appointment booking (2024-07-06)](#appointment-booking-2024-07-06)
 * [Appointment (2024-07-12)](#appointment-2024-07-12)
+* [Aftereffects](#aftereffects)
 
 ## Readings
 
 ### Temperature readings
 
+The vaccine doesn't seem to have caused any clear fever; this is
+consistent with my subjective experience.
+
 * 2024-07-12 2 PM: 98.2, 98.2, and 98.5
+* 2024-07-13 9:55 AM: 98.5, 98.7, an 98.9
 
 ### Blood pressure and heart rate readings
 
-* 2024-07-11 9:33-9:37 AM: 97/61/46 and 94/57/47. See
-  https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/blood_pressure_readings.sql
-  for details.
+See
+https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/blood_pressure_readings.sql
+for details.
+
+The vaccine doesn't seem to have caused significant changes to blood
+pressure and heart rate; this is consistent with my subjective
+experience.
+
+* 2024-07-11 9:33-9:37 AM (morning before the day of the vaccine):
+  97/61/46 and 94/57/47.
+
+* 2024-07-13 9:49-9:53 AM (morning after the day of the vaccine):
+  92/63/46 and 97/65/48.
 
 ## Appointment booking (2024-07-06)
 
@@ -117,3 +132,34 @@ and rubbed on the vaccine injection site briefly.
 I then got up and started shopping. I finished checkout for
 shopping at 3:07 PM, then bagged the stuff I had purchased and left
 around 3:09 PM, as intended.
+
+## Aftereffects
+
+### The few hours after the vaccine (2024-07-12)
+
+I was able to carry back home a mild load of stuff purchased from
+Walgreens without any issues. Over the next few hours, I observed a
+slight increase in soreness in the area. This also made it a little
+unpleasant to lift heavy stuff with my right arm; the situation where
+this came up organically was when I was moving around the (partly
+filled) stainless steel pot for cooking rice.
+
+### Sleep (night going from 2024-07-12 to 2024-07-130)
+
+I had a fairly normal sleep. The only unusual aspect was that when
+sleeping on my right side, unlike the normal position where my arm is
+under my body and supporting a large proportion of the weight of the
+upper body, I gravitated towards positions where the arm was on the
+side, so that the body was directly resting on the bed and the arm was
+only supporting its own weight. In contrast, when sleeping on the left
+side, I continued to have my usual posture.
+
+### The next morning (2024-07-13)
+
+I felt fairly normal the next morning, albeit perhaps a little less
+energetic than usual, which might reflect that some of my body's
+energy had gone into responding to the vaccine. I took blood pressure
+/ heart rate and temperature readings, which were fairly normal.
+
+It helped that the weather was cooler on this day than on previous
+days.
