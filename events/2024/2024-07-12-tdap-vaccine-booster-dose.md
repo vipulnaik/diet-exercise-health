@@ -1,5 +1,7 @@
 # 2024-07-12: Tdap vaccine booster dose
 
+I got a Tdap vaccine booster dose on 2024-07-12 (July 12, 2024).
+
 Sections of this document:
 
 * [Readings](#readings)

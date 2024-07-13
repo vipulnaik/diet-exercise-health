@@ -657,13 +657,17 @@ consumption of yogurt.
 
 ### Current diet
 
-You can get a general sense of my current diet by looking at my
-[recent food purchases](../sql/food_purchases.sql). I don't keep a log
-of food consumption, but since I waste very little of my food (and I
-recorded the food waste as well [here](../sql/food_waste.sql)), my
-waste-adjusted food purchases present a reasonably accurate picture of
-my food consumption. The queries at
-[food_purchases_verification_queries.py](../python/food_purchases_verification_queries.py)
+You can get a general sense of my current diet by looking at my [food
+preparations and openings](../sql/food_preparations_and_openings.sql);
+this data goes back to 2024-05-30 (May 30, 2024). I also have food
+purchase data going further back to 2021-03-10 (March 10, 2021), at
+[food purchases](../sql/food_purchases.sql).
+
+I also keep track of my food waste [here](../sql/food_waste.sql).
+
+Myy waste-adjusted food preparations and openings present a reasonably accurate
+picture of my food consumption. The queries at
+[food_preparations_and_openings_verification_queries.py](../python/food_preparations_and_openings_verification_queries.py)
 show how to aggregate the data to make inferences regarding nutrients;
 my plan is to eventually make a portal out of this data so that it's
 easy to browse.

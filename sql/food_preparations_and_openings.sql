@@ -176,6 +176,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-09','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle/packet openings as the old finished */
   ('2024-07-10','TJ Carb Savvy Tortillas',1),
+  ('2024-07-11','Trader Giotto''s Olive Oil',1), /* I opened this as part of the potatoes prep */
   /* Potatoes prep 2024-07-11 */
   ('2024-07-11','Gold potatoes 5 lb',0.3),
   ('2024-07-11','TJ Kale',1),
