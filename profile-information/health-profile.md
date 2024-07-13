@@ -782,8 +782,13 @@ My current supplement regime as of 2023 is:
     C at all, but since it's water-soluble, excess can easily flow
     out.
 
-With the exception of the occasional Vitamin C supplement, I have all
-of these with my first meal of the day.
+* Occasional Vitamin B Complex supplement I may take this occasionally
+  * to hedge against Vitamin B deficiency; if traveling and without
+  * access to my full set of foods, I take this daily.
+
+With the exception of the occasional Vitamin C supplement and
+occasional Vitamin B Complex supplement, I have all of these with my
+first meal of the day.
 
 ### Other one-off supplement consumption
 
@@ -811,12 +816,22 @@ my deviations from routine in an annual tracker file. For instance,
 for 2024, see the [2024 exercise
 tracker](../events/2024/2024-exercise-tracker.md).
 
+My best practices around vaccinations, blood tests, and dental
+cleanings include breaks from exercise of varying durations. The
+magnitude of the break depends on the kind of activity. For instance,
+for dental cleanings, I only break on the day of. On the other hand,
+for blood tests, I break briefly from jogging for the prior day and
+day of , whereas for vaccines, I break briefly from jogging for the
+day of and next two days. Breaks from strength exercises are longer
+for vaccines and blood tests due to their impact on arm strength. See
+the [best-practices folder](../best-practices/) for more details.
+
 ### History of exercise
 
 Daily jogging has been something I have tried to maintain throughout
-my adult life, and I did something similar even as teen. My ability to
-adhere to that goal has fluctuated based on weather conditions and
-time commitments.
+my adult life, and I did something similar around age ten and then as
+a teenager. My ability to adhere to that goal has fluctuated based on
+weather conditions and time commitments.
 
 The switch to working-from-home in March 2020 (with the COVID-19
 pandemic) helped me be more regular with daily jogging, as there was
