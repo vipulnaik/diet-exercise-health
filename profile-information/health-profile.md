@@ -160,11 +160,12 @@ and 32 being manageable with a tight belt. I do not have a paunch.
 ## Eye status
 
 * I get eye exams every 1-2 years. As of 2023, I get my eye exams from
-  UC Berkeley Optometry. Look in the notes folder for files with
-  `eye-exam` in them to locate information on my eye exams. The most
-  recent one is generally the one to pay attention to. As of the last
-  major edit of this document, [this](../events/2023/2023-10-04-eye-exam.md) is my
-  most recent eye exam.
+  UC Berkeley Optometry. Look in the `events/<year>` folders for files
+  with `eye-exam` in them to locate information on my eye exams. The
+  most recent one is generally the one to pay attention to. As of the
+  last major edit of this document,
+  [this](../events/2023/2023-10-04-eye-exam.md) is my most recent eye
+  exam.
 
 * I have some issues with distance vision, as evinced in the eye exam
   results. Since I don't drive, and the issues haven't gotten in my
