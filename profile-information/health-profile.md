@@ -380,6 +380,13 @@ stiffness in the neck and shoulder as well. I believe this was due to
 an interaction with hand gripper exercises, that I [started doing in
 July 2023](../events/2023/2023-07-29-hand-gripper-exercise.md).
 
+### Tdap (whooping cough)
+
+My most recent Tdap vaccine was on 2024-07-12; see
+[here](../events/2024/2024-07-12-tdap-vaccine-booster-dose.md) for
+details. This was a 10-year booster dose. My previous Tdap vaccine was
+on 2014-12-15, after a major running fall.
+
 ### Childhood vaccines
 
 I got the standard set of vaccines as a young child in India. Prior to
