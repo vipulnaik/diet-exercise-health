@@ -46,18 +46,13 @@ Sections of this document:
 ### Heart rate
 
 My resting, seated heart rate, as measured by my Omron blood pressure
-machine as well as my Zacurate pulse oximeter, is generally 55-60 bpm
-during spring, summer, and autumn, and a little high (up to 65-70 bpm)
-in the winter, when it is colder. At any given time, the heart rate
-variation is about 10%, or 5 bpm. So sometimes my heart rate may be
-65-70 bpm, sometimes 60-65 bpm, and sometimes 50-55 bpm.
+machine as well as my Zacurate pulse oximeter, is generally 45-55 bpm
+in the morning in summer, and a little higher in the afternoon/evening
+as well as higher during winter months, with winter afternoon/evenings
+seeing values up to 65-70 bpm.
 
 My heart rate goes up by about 10-15 bpm when I stand up, and then
 stabilizes down to about 5 bpm higher than my seated heart rate.
-
-My heart rate is a little lower in the morning (measured after a bowel
-movement), and the variation may also be more. On some mornings, I
-have measured a heart rate of 44-55 bpm.
 
 Generally, when my resting heart rate exceeds 75 bpm, I can "feel" my
 heart racing. After I took antibiotics as part of my recovery process
@@ -68,8 +63,15 @@ the pulse oximeter at the time, so I relied on crude measurement of my
 heart rate, and the crude estimate was around 80 bpm.
 
 I record my heart rate (measured using the Omron blood pressure
-machine) as part of my monthly blood pressure readings in
+machine) as part of my monthly blood pressure readings (as well as
+other one-off readings in response to health events or other
+incidents) in
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
+
+I also record my heart rate and SpO2 as part of my monthly pulse oximeter readings (as well as
+other one-off readings in response to health events or other
+incidents) in
+[pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql).
 
 For extensive older experiment results, see
 [2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
@@ -78,9 +80,14 @@ For extensive older experiment results, see
 
 My SpO2 is about 97% most of the time (sometimes going up to 98% and
 sometimes going down to 96%). It is a little higher in the mornings
-(around 99%). It can drop to as low as 92% when I do an extended
-breath hold, but it quickly rebounds and even overshoots before
-settling back to its equilibrium value.
+(around 99%). It can drop to as low as 92% and briefly go down even as
+low as 85% when I do an extended breath hold, but it quickly rebounds
+and even overshoots before settling back to its equilibrium value.
+
+I also record my heart rate and SpO2 as part of my monthly pulse
+oximeter readings (as well as other one-off readings in response to
+health events or other incidents) in
+[pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql).
 
 For more extensive experiment results, see
 [2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
