@@ -367,3 +367,7 @@ In the afternoon, I made a trip to Walgreens to get my Tdap booster
 dose; see [here](2024-07-12-tdap-vaccine-booster-dose.md) for
 details. After that, I did some shopping at Walgreens and then headed
 back home.
+
+## Saturday July 13
+
+In the late morning, I went to Walgreens to buy toiletries.
