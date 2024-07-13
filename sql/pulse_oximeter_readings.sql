@@ -7,7 +7,8 @@ create table pulse_oximeter_readings(
   heart_rate_max_bpm integer,
   spo2_min integer,
   spo2_max integer,
-  notes varchar(2000)
+  notes varchar(2000),
+  primary key (reading_date, index_within_reading_date)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into pulse_oximeter_readings(reading_date, index_within_reading_date, finger, duration_in_seconds, heart_rate_min_bpm, heart_rate_max_bpm, spo2_min, spo2_max, notes) values

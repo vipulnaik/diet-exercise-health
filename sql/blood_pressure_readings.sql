@@ -6,7 +6,8 @@ create table blood_pressure_readings(
   systolic_bp_mm_hg integer,
   diastolic_bp_mm_hg integer,
   heart_rate_bpm integer,
-  notes varchar(2000)
+  notes varchar(2000),
+  primary key (reading_date, index_within_reading_date)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into blood_pressure_readings(reading_date, index_within_reading_date, measurer, measurement_site, systolic_bp_mm_hg, diastolic_bp_mm_hg, heart_rate_bpm, notes) values
