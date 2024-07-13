@@ -202,7 +202,7 @@ Starting May 2024, I plan to do monthly physical self-exams that
 include blood pressure measurement, auscultation of the abdomen and
 heart sound,s and palpation of the abdomen. I will take notes and
 investigate further if I notice anything unusual. My most recent
-physical self-exam was on 2024-05-15.
+physical self-exam was split between 2024-06-15 and 2024-06-23.
 
 ## HbA1c, lipid profile, insulin, and liver function tests
 
@@ -385,7 +385,7 @@ July 2023](../events/2023/2023-07-29-hand-gripper-exercise.md).
 
 ### Tdap (whooping cough)
 
-My most recent Tdap vaccine was on 2024-07-12; see
+My most recent Tdap vaccine was on 2024-07-12 (July 12, 2024); see
 [here](../events/2024/2024-07-12-tdap-vaccine-booster-dose.md) for
 details. This was a 10-year booster dose. My previous Tdap vaccine was
 on 2014-12-15, after a major running fall.
