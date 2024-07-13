@@ -181,5 +181,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-11','TJ Kale',1),
   ('2024-07-11','TJ Broccoli Florets 12 oz',1),
   ('2024-07-11','TJ English Shelled Peas',3),
-  ('2024-07-11','Beefsteak tomato',2);
+  ('2024-07-11','Beefsteak tomato',2),
+  /* Rice prep 2024-07-12 */
+  ('2024-07-12','Lundberg Sustainable California White Basmati Rice',0.8);
   /* Double-check the date before committing */
