@@ -95,9 +95,10 @@ for a historical established temperature baseline.
 
 ### Blood pressure
 
-My most recent at-home resting blood pressure readings were 104/67 and
-101/62. I've had home blood pressure readings with the systolic
-between 95 and 115 and the diastolic between 55 and 75.
+My most recent at-home resting blood pressure readings (taken
+2024-07-11) were 97/61 and 94/57. I've had home blood pressure
+readings with the systolic between 93 and 115 and the diastolic
+between 55 and 75.
 
 For more on my history of blood pressure readings, see
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
