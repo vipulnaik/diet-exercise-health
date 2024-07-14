@@ -189,5 +189,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old finished */
   ('2024-07-12','TJ Almond Milk',1),
   /* Lentils prep (soaking 2024-07-13, cooking 2024-07-14) */
-  ('2024-07-13','TJ Green Lentils',1);
+  ('2024-07-13','TJ Green Lentils',1),
+  /* New bottle/packet openings as the old finished */
+  ('2024-07-14','TJ Miso Ginger Broth',1);
   /* Double-check the date before committing */
