@@ -581,3 +581,21 @@ appointment: I wanted to get a bunch of grocery shopping completed
 ahead of the appointment so that I don't need to carry heavy bags
 shortly before or after the appointment. This used up the morning time
 when it's cool enough to jog, so I ended up skipping jogging as well.
+
+## 2024-07-12 to 2024-07-14: skipped most exercise for Tdap vaccine booster dose
+
+From 2024-07-12 to 2024-14, I skipped most exercise. 2024-07-12 was
+the day of my Tdap vaccine booster dose. 2024-07-13 and 2024-07-14
+were rest days after that. I did do
+standing-on-one-leg-with-eyes-closed exercises on 2024-07-13 (and
+maybe on 2024-07-12) but skipped jogging and breath holds on all days.
+
+For more, see [2024-07-12: Tdap vaccine booster
+dose](2024-07-12-tdap-vaccine-booster-dose.md).
+
+## 2024-07-15: resumed jogging and breath holds
+
+On 2024-07-15, I resumed jogging and breath holds, following my plan
+of resuming on that date. I was able to jog my target minimum of a
+little over 1.4 miles, though it was less than my usual of 1.5-1.7
+miles.

@@ -163,3 +163,32 @@ energy had gone into responding to the vaccine. I took blood pressure
 
 It helped that the weather was cooler on this day than on previous
 days.
+
+I did go out for a brief shopping trip to Walgreens, which didn't
+involve carrying back a heavy load so it was okay. Other than that, I
+stayed home. As for physical exercise, I only did the
+standing-on-one-leg-with-eyes-closed exercise.
+
+In terms of cognitive demands, it was a typical day.
+
+I removed the bandage around 9 PM in the evening.
+
+### Two days later (2024-07-14)
+
+This was a fairly normal day, other than the fact that I skipped all
+physical exercise.
+
+In terms of cognitive demands, it was a typical day, albeit my flow
+was better.
+
+By the evening, I noticed that the soreness had spread out to a wider
+area around the injection site, and I also noticed a slight neck and
+shoulder pain, My guess is that it would have been worse if I had done
+hand gripper exercises or strength exercises, but since I refrained
+from them, the pain was mild and didn't really inconvenience me.
+
+### Three days later (2024-07-15)
+
+I resumed breath holds and jogging on this day. I was able to jog my
+target minimum of a little over 1.4 miles, though it was less than my
+usual of 1.5-1.7 miles.
