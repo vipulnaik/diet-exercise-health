@@ -72,6 +72,23 @@ The standard version of the exercise is as follows:
     temperature is less than 0 degrees Celsius, I shouldn't be doing
     this exercise!
 
+* Starting 2024-07-15, I am increasing the baseline threshold to 23
+  seconds, as I pretty consistently exceed 23 seconds on the first try
+  nowadays. The new logic is:
+
+  * Baseline of 23 seconds
+
+  * If I am doing the exercise after I return from jogging, no
+    adjustment (23 seconds remains the target)
+
+  * If I am doing the exercise without jogging or similar warmup, then
+    temperature-based adjustment as follows. If the temperature is 20
+    degrees Celsius or higher, no adjustment. If the temperature is
+    greater than -3 degrees Celsius and less than 20 degrees Celsius,
+    then 3 + the temperature rounded down in degrees Celsius. If the
+    temperature is less than -3 degrees Celsius, I shouldn't be doing
+    this exercise!
+
 ### How the threshold duration is used
 
 If I don't clear the threshold duration on my first attempt, I
