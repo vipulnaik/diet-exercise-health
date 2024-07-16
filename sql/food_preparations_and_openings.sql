@@ -198,5 +198,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-15','TJ Carrots',1),
   ('2024-07-15','Green bell pepper',4),
   ('2024-07-15','Red bell pepper',2),
-  ('2024-07-15','Beefsteak tomato',4);
+  ('2024-07-15','Beefsteak tomato',4),
+  /* Rice prep 2024-07-16 */
+  ('2024-07-16','Lundberg Sustainable California White Basmati Rice',0.8),
+  /* New bottle/packet openings as the old finished */
+  ('2024-07-16','TJ Walnuts',1);
   /* Double-check the date before committing */
