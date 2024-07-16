@@ -192,3 +192,8 @@ from them, the pain was mild and didn't really inconvenience me.
 I resumed breath holds and jogging on this day. I was able to jog my
 target minimum of a little over 1.4 miles, though it was less than my
 usual of 1.5-1.7 miles.
+
+### Four days later (2024-07-16)
+
+I resumed hand gripper exercises with my left hand (this is the
+non-vaccine arm). This was consistent with my plan.

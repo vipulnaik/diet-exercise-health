@@ -595,7 +595,13 @@ dose](2024-07-12-tdap-vaccine-booster-dose.md).
 
 ## 2024-07-15: resumed jogging and breath holds
 
-On 2024-07-15, I resumed jogging and breath holds, following my plan
-of resuming on that date. I was able to jog my target minimum of a
-little over 1.4 miles, though it was less than my usual of 1.5-1.7
-miles.
+On 2024-07-15, three days after my Tdap vaccine booster dose, I
+resumed jogging and breath holds, following my plan of resuming on
+that date. I was able to jog my target minimum of a little over 1.4
+miles, though it was less than my usual of 1.5-1.7 miles.
+
+## 2024-07-16: resumed hand gripper exercises with left hand
+
+On 2024-07-16, four days after my Tdap vaccine booster dose, I resumed
+hand gripper exercises with my left hand (this is the non-vaccine
+arm). This was consistent with my plan.
