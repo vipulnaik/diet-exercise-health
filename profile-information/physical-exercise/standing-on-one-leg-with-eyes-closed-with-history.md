@@ -118,10 +118,20 @@ completion I do it for the other leg.
 ### Triggers for overall exercise
 
 I should do the overall exercise once before going out jogging, and
-once after coming back from jogging (and before any strength
-exercises). If I'm doing strength exercises without having gone
+once after coming back from jogging and before any strength
+exercises. If I'm doing strength exercises without having gone
 jogging, I should make sure to do the overall exercise before strength
 exercise.
+
+If I do not plan to do strength exercises after returning from
+jogging, and I already did the standing-on-one-leg-with-eyes-closed
+exercise successfully on the first try before leaving, I may or may
+not do the standing-on-one-leg-with-eyes-closed exercise; it depends
+on my mood and time availability. However, if I was shaky with the
+standing-on-one-leg-with-eyes-closed exercise when I did it before
+going jogging, it's a good idea to do it after returning to verify
+that my balance is fine after the warmup of jogging (this is
+particularly relevant for colder months).
 
 On days where I cannot go jogging and am not doing strength exercises
 due to fatigue, sickness, time constraints, or weather, I should
