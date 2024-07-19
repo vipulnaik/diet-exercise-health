@@ -605,3 +605,9 @@ miles, though it was less than my usual of 1.5-1.7 miles.
 On 2024-07-16, four days after my Tdap vaccine booster dose, I resumed
 hand gripper exercises with my left hand (this is the non-vaccine
 arm). This was consistent with my plan.
+
+## 2024-07-19: resumed hand gripper exercises with right hand
+
+On 2024-07-19, seven days after my Tdap vaccine booster dose, I
+resumed hand gripper exercises with my right hand (this is the vaccine
+arm). This was consistent with my plan.

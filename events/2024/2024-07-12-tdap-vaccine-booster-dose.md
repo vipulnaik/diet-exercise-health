@@ -197,3 +197,8 @@ usual of 1.5-1.7 miles.
 
 I resumed hand gripper exercises with my left hand (this is the
 non-vaccine arm). This was consistent with my plan.
+
+### Seven days later (2024-07-19)
+
+I resumed hand gripper exercises with my right hand (this is the
+vaccine arm). This was consistent with my plan.
