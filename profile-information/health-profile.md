@@ -872,7 +872,7 @@ been systematic about recording milestones starting late October 2023.
 
 I also started looking into Buteyko breathing in July 2023; eventually
 this led me to start doing breath holds regularly; see
-[here](../events/2023/2023-07-30-buteyko-breathing.md) for some
+[here](physical-exercise/breath-holds-with-history.md) for some
 background information.
 
 ## Sleep

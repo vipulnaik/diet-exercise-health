@@ -1,12 +1,14 @@
-# 2023-07-30: Buteyko breathing
+# Breath holds with history
+
+## 2023-07-30: initial exploration
 
 At the suggestion of my friend Issa Rice, who in turn had heard about
 it from Mark Lippmann, suggested I try some Buteyko breathing
-measurements and exercises and report my results to him. With his
-permission, I'm sharing my results more broadly here, for ease of
-reference for future me.
+measurements and exercises and report my results to him. Issa Rice
+would go on to write a [breathing
+document](https://riceissa.github.io/breathing/) that is a great read.
 
-## Control pause measurement from Howard Cooper
+### Control pause measurement from Howard Cooper
 
 I tried the [control pause measurement as suggested by Howard
 Cooper](https://www.youtube.com/watch?v=XliOGg8Tl98&t=593s) at Issa's
@@ -48,7 +50,7 @@ execution of the actual exercise.
 After doing the exercise, I also watched the rest of the video
 (including the earlier portion).
 
-## Other related reading and watching
+### Other related reading and watching
 
 Some other videos I watched in relation to Buteyko breathing include:
 
@@ -62,13 +64,13 @@ Some other videos I watched in relation to Buteyko breathing include:
 
 * [When You Think Buteyko Won't Work For You, by Breathing Center](https://www.youtube.com/watch?v=Oi1tvp7Mghs)
 
-## 2024-05-16
+## 2024-05-16 update
 
-As of 2024-05-16, I have settled into a routine of doing two max-pause
-breath holds in succession. I generally do them in the morning (no
-food for 12 hours or more) or in the evening before going jogging;
-this is generally at least two hours after a meal). The process is as
-follows:
+As of 2024-05-16 (and continuing on from there), I have settled into
+a routine of doing two max-pause breath holds in succession. I
+generally do them in the morning (no food for 12 hours or more) or in
+the evening before going jogging; this is generally at least two hours
+after a meal). The process is as follows:
 
 * I do a normal expiration (exhalation) and then immediately cover my
   nostrils wit my fingers (using face tissues so that my fingers
@@ -81,6 +83,23 @@ follows:
   breathing to return to normal, then repeat the exercise. The second
   iteration generally has a similar duration as the first, of about 40
   to 60 seconds.
+
+What else I do during the breath hold can vary:
+
+* Sometimes I just close my eyes and relax. All else equal, my breath
+  hold duration is a little higher in these cases. I've even in some
+  cases managed max-pause breath holds of 65 seconds by relaxing with
+  my eyes closed for most of the duration.
+
+* At the other extreme, in other cases, I try one of the exercises
+  from [Human Benchmark](https://humanbenchmark.com/) that can be
+  executed with a single hand. My favorites are [sequence
+  memory](https://humanbenchmark.com/tests/sequence) and [verbal
+  memory](https://humanbenchmark.com/tests/verbal-memory), both of
+  which can be easily played with a single hand. I've generally
+  noticed my rate of errors for these exercise to be higher toward the
+  end of the breath hold, reflecting my (temporary) cognitive
+  deterioration.
 
 Sensations I notice during the breath hold:
 

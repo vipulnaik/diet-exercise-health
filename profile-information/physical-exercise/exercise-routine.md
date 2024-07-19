@@ -67,5 +67,5 @@ details, including reasons for skipping.
 
 I generally do two breath holds in quick succession, both max-pause
 breath holds, generally for 40 to 60 seconds. See
-[2023-07-30-buteyko-breathing.md](../../events/2023/2023-07-30-buteyko-breathing.md) for
+[breath-holds-with-history.md](breath-holds-with-history.md) for
 more background information.
