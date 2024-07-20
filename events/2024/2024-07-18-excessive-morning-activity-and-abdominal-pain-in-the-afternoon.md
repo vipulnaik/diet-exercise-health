@@ -58,6 +58,28 @@ A few other complications:
 The heaviness didn't get to a distracting level of pain, and I had my
 second meal without incident a litle after 6 PM.
 
+## Next day (2024-07-19)
+
+On 2024-07-19, things were fine in the morning. I still went out
+jogging and jogged a good amount (about 1.7 miles, 0.3 miles return
+walk). I experienced some abdominal pain later in the afternoon. It
+was less than on 2024-07-18, but there was also more heat-related
+fatigue and disorientation, so on net I may have felt worse. With that
+said, my productivity/output seemed pretty good, and I executed on
+both physical and mental work.
+
+## Two days later (2024-07-20)
+
+On this day, I had to go shopping, so I skipped jogging in the morning
+to avoid the fiasco of 2024-07-18.
+
+I did breath holds in the morning before going shopping, and perhaps
+because of that, felt a little out-of-breath initially when
+walking. However, I was back to normal later in the journey.
+
+When I got back, I took a pulse oximeter reading, getting 55-67 bpm
+with the typical range being 59-64 bpm.
+
 ## Current learnings
 
 I don't think it is wise to avoid this sort of situation
@@ -68,6 +90,12 @@ With that said, a few adjustments may be better:
 
 * Don't pull this sort of stuff if there are critical things to do
   later in the day or the next day.
+
+* Don't do this sort of stuff under very strict time pressure, or if
+  shopping is critical to complete in the day. If I *need* to go
+  shopping, skip jogging. If I don't need to go shopping, I can go
+  jogging, and assess my state after I return, give myself adequate
+  cooling time, and then go shopping.
 
 * Consider doing a jogging/walking split that's slightly less, e..,
   1.5 miles jogging / 0.5 miles walking instead of 1.7 miles walking /
