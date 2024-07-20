@@ -611,3 +611,15 @@ arm). This was consistent with my plan.
 On 2024-07-19, seven days after my Tdap vaccine booster dose, I
 resumed hand gripper exercises with my right hand (this is the vaccine
 arm). This was consistent with my plan.
+
+## 2024-07-20: skipped jogging
+
+On 2024-07-20, I skipped jogging as I needed to go shopping, and the
+morning was the only time it was cool enough. And there wasn't enough
+time in the morning to do both, and I didn't want to risk overexertion
+as had happened two days earlier (see
+[here](2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md)).
+
+I did do the breath holds, hand gripper exercises, and
+standing-on-one-leg-with-eyes-closed exercises as usual; instead of
+doing them before going jogging, I did them before going shopping.
