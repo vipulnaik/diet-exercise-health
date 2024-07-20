@@ -438,6 +438,18 @@ insert into food_types(short_name, long_name, url, calories,
   /* special oxalate column added in light of risk of kidney stones */ 666, /* I used 49 mg per 100 grams (the highest of related estimates) per https://ohf.org/vegetables-oxalate/ */
   /* notes */ 'The linked page isn''t for the brand I buy, but I expect the nutritional content to be similar. It gives the data per potato (148 grams, or about 1/3 of a lb), and there are approximately 9 potatoes in 3 lb. So I multiplied their numbers by 9.'),
 
+  ('Russet potatoes 3 lb','Russet potatoes 3 lb (~9 potatoes)',NULL,990,
+  /* broad food type */ 'Potato',
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,5580,
+  /* carbohydrate-related columns */ 234,18,9,
+  /* protein-related columns */ 27,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,243,0,180,9.9,
+  /* columns for other less commonly reported vitamins and minerals */ 1.8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ 666, /* I used 49 mg per 100 grams (the highest of related estimates) per https://ohf.org/vegetables-oxalate/ */
+  /* notes */ 'I am being lazy and copying over the information for gold potatoes of a similar size, even though there are slight differences. The justification for this laziness is that I rarely get russet potatoes and using the value for gold potatoes for those rare occasions would still be better than putting nothing.'),
+
   ('Gold potatoes 5 lb','Gold potatoes 5 lb (~15 potatoes)','https://www.heb.com/product-detail/fresh-gold-potatoes/591301',1650,
   /* broad food type */ 'Potato',
   /* fat-related columns */ 0,0,0,0,0,
@@ -686,6 +698,7 @@ insert into food_types(short_name, long_name, url, calories,
 /* Spices, condiments, and seasonings -- these don't have nutritional information to speak of, or it's very hard to abstract out the nutritional information */
 insert into food_types(short_name, long_name, url, notes) values
   ('Lemon','Lemon',NULL,'I just squeeze drops from the lemon rather than having the whole lemon, so any nutritional information for the whole lemon would be misleading.'),
+  ('Himalayan Fine Pink Salt','Himalayan Fine Pink Salt',NULL,'I bought this as a one-off for saltwater rinsing for the Portland trip, so including it in nutritional information would be misleading.'),
   ('TJ Turmeric','Trader Joe''s Turmeric Powder 2 oz','https://www.amazon.com/Trader-Joes-Turmeric-2-Pack/dp/B00JU4BQ1Y','I use this turmeric powder for seasoning my prepared meals.'),
   ('TJ Cumin','Trader Joe''s Ground Cumin 1.7 oz','https://www.amazon.com/Trader-Joes-Ground-Cumin-NET/dp/B07G1BV593','I use this ground cumin for seasoning my prepared meals.'),
   ('TJ Cayenne Pepper','Trader Joe''s Cayenne Pepper','https://www.ebay.com/itm/175363234738','I use a little of this cayenne pepper as seasoning. It''s generally less in amount than the turmeric and cumin, and I might skip it in case of a sore throat.'),
