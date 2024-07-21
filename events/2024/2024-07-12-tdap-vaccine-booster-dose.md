@@ -202,3 +202,9 @@ non-vaccine arm). This was consistent with my plan.
 
 I resumed hand gripper exercises with my right hand (this is the
 vaccine arm). This was consistent with my plan.
+
+### Nine days later (2024-07-21)
+
+I partially resumed strength exercises. This was consistent with my
+plan. See the [2024 exercise tracker](2024-exercise-tracker.md) for
+more information.

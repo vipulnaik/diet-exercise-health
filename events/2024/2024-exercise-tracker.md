@@ -623,3 +623,16 @@ as had happened two days earlier (see
 I did do the breath holds, hand gripper exercises, and
 standing-on-one-leg-with-eyes-closed exercises as usual; instead of
 doing them before going jogging, I did them before going shopping.
+
+## 2024-07-21: resumed strength exercises, albeit partially
+
+On Sunday 2024-07-21, nine days after my Tdap vaccine booster dose, I
+partially resumed strength exercises. The timing was consistent with
+my plan.
+
+I only did 3 lb and 5 lb dumb bells; I skipped the 8 lb dumb bells. I
+also did about 10 push-ups compared to my usual range of 13 to 22. The
+reduced exertion was in light of slightly reduced energy levels, a
+very slight continued soreness around the injection site, and the
+abdominal pain four days ago due to overexertion (see
+[here](2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md)).
