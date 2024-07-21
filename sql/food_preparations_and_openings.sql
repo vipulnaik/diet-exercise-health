@@ -215,5 +215,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-19','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle/packet openings as the old ones finished */
   ('2024-07-19','TJ Sauerkraut',1),
-  ('2024-07-19','Kite Hill Greek Style Plant-Based Yogurt',1); /* I had this due to slight abdominal issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md for background */
+  ('2024-07-19','Kite Hill Greek Style Plant-Based Yogurt',1), /* I had this due to slight abdominal issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md for background */
+  /* Meal prep 2024-07-20 */
+  ('2024-07-20','Eggplant',1),
+  ('2024-07-20','TJ Kale',1),
+  ('2024-07-20','TJ Carrots',1),
+  ('2024-07-20','Green bell pepper',4),
+  ('2024-07-20','Red bell pepper',2),
+  ('2024-07-20','Beefsteak tomato',5); /* I increased from 4 to 5 */
   /* Double-check the date before committing */
