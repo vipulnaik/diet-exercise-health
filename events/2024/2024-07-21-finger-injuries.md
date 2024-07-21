@@ -62,12 +62,27 @@ To give both bandages uninterrupted time to do their magic, I decided
 to delay my flossing and rinsing that I would normally do right after
 my meal.
 
-## Removal of left thumb bandage
+## Removal of left thumb bandage (around 1:40 PM) and continued use of right middle finger bandage (1:40 PM - 3:25 PM)
 
-After washing my hands after urination and then flossing, I removed
-the left thumb bandage. The wound seemed to have sealed enough that
-the bleeding risk seemed low enough. I kept the flex bandage on the
-right middle finger.
+After washing my hands after urination and then rinsing, I removed the
+left thumb bandage. The wound seemed to have sealed enough that the
+bleeding risk seemed low enough. I kept the flex bandage on the right
+middle finger.
+
+I kept the right middle finger bandage on until 3:25 PM, when I next
+got up for urination and to wrap up flossing.
+
+## Removal of right middle finger bandage (around 3:25 PM)
+
+Around 3:25 PM, when washing my hands after urination, I had the right
+middle finger bandage slip off. I examined my finger and I couldn't
+locate the wound area any more. After further examination, it seems
+indistinguishable from one of my existing folds at the right middle
+finger PIP joint. This suggests that aggravation by hand sanitizer is
+more likely than I initially thought.
+
+I decided to not apply any further bandages for the time being, but
+will keep a close eye for visible signs of inflammation.
 
 ## Lessons
 
