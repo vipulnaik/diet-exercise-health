@@ -5,7 +5,7 @@ tracker](2023-activity-tracker.md), recording my trips outside the
 home. I exclude trips for jogging and running. I also exclude trips
 for grocery purchases and picking up takeout from restaurants; you can
 get a sense for those trips by looking in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday January 12
 
@@ -37,27 +37,27 @@ In the afternoon, I made a trip to downtown Berkeley for some
 purchases. I first stopped at the Target in downtown Berkeley, then
 went to Berkeley Ace Hardware, then went to Trader Joe's; purchases at
 Trader Joe's are recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday January 26
 
 In the evening, I made a trip related to my trip preparation. After
 being done with that, I did my usual food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Saturday January 27
 
 In the later afternoon, I made a trip related to my trip
 preparation. After being done with that, I purchased groceries from
 Trader Joe's, as recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Saturday February 10
 
 In the early afternoon, I made a trip to downtown Berkeley. I first
 went to Citibank for some financial transactions. After that, I did my
 usual food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Thursday February 15
 
@@ -151,7 +151,7 @@ In the evening (starting a little after 4 PM) I went out for a
 combination of a bureaucratic trip and food purchases. The
 bureaucratic portion of the trip ended shortly after 6 PM. After that,
 I did food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday March 22
 
@@ -197,7 +197,7 @@ shop at Walgreens (I left the suitcase at home).
 In the evening, I went to downtown Berkeley for shopping. I first went
 to Target to buy batteries. I was there from around 6 PM to around
 6:15 PM. After that, I did food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Tuesday April 2
 
@@ -210,14 +210,14 @@ on Adeline Street to purchase toiletries.
 In the early afternoon, I went for a dental cleaning appointment
 recorded in detail [here](2024-04-03-dental-cleaning.md). After that,
 I went to Berkeley Bowl to buy a few items, as recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday April 12
 
 In the evening, I made a trip for shopping. I first stopped at Ace
 Hardware, though I ended up not buying anything. I then went to Trader
 Joe's, where I made a few purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql). On the way back, I
+[food_purchases.sql](../../sql/food_purchases.sql). On the way back, I
 stopped at Walgreens to buy a few items.
 
 ## Sunday April 21
@@ -234,7 +234,7 @@ few packages.
 In the afternoon, I went to downtown Berkeley. I first went to
 Citibank for some financial transactions. Then I went for a little
 administrative task, after which I made my usual food purchases
-recorded in [food_purchases.sql](../sql/food_purchases.sql).
+recorded in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Monday April 29
 
@@ -244,7 +244,7 @@ pain](2024-04-25-abdominal-pain.md). However, they had a long enough
 queue of patients until their closing time, so I left with the
 intention of returning on a later date. I then did my regular grocery
 purchases at Trader Joe's as recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Tuesday April 30
 
@@ -254,44 +254,44 @@ pain](2024-04-25-abdominal-pain.md); details of the trip are
 [here](2024-04-30-urgent-care-visit-and-tests.md). On the way back, I
 stopped at Walgreens for a prescription pickup and at Berkeley Bowl to
 get groceries; the latter is recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Sunday May 12
 
 In the afternoon, I went to the Amazon Hub Locker at ASUC to pick up a
 package. I stopped by at Berkeley Bowl on the way to buy some rice, as
-recorded in [food_purchases.sql](../sql/food_purchases.sql).
+recorded in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Tuesday May 14
 
 In the late morning, I went to downtown Berkeley. I first stopped at
 Ace Hardware from where I purchased some drain cleaner. After that, I
 went to Trader Joe's for my usual food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday May 24
 
 In the afternoon, I made a trip to Berkeley Bowl (purchases recorded
-in [food_purchases.sql](../sql/food_purchases.sql)) and then to the
+in [food_purchases.sql](../../sql/food_purchases.sql)) and then to the
 nearby Walgreens. Later in the evening, I made a brief trip to
 Walgreens to exchange an incorrectly purchased item, stopped by at
 Citibank for financial transactions, then went to Trader Joe's for my
 usual food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Tuesday May 28
 
 In the evening, I went to downtown Berkeley. I first stopped by at the
 downtown Berkeley BART to top up my Clipper Card balance. I then went
 to Trader Joe's for my usual food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday May 31
 
 Shortly after noon, I went to Berkeley Bowl for some grocery purchases
 and then to the nearby Walgreens for some toiletry purchases. The
 Berkeley Bowl purchases are recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 In the evening, I went for a bureaucratic trip and stopped at
 Walgreens on the way back to buy a few toiletries.
@@ -306,19 +306,19 @@ details, though I do plan to include most of the food purchases.
 
 In the evening, I went to Walgreens to buy bandages and then to Trader
 Joe's for food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Sunday June 9
 
 In the evening, I went to Walgreens to buy bandages (to augment the
 ones bought last time) and then to Trader Joe's for food purchases
-recorded in [food_purchases.sql](../sql/food_purchases.sql).
+recorded in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Wednesday June 19
 
 In the evening, I first went to Walgreens to buy bandages (to augment
 my last two purchases) and then to Berkeley Bowl for food purchases
-recorded in [food_purchases.sql](../sql/food_purchases.sql). I then
+recorded in [food_purchases.sql](../../sql/food_purchases.sql). I then
 went to the Amazon Hub Locker to pick up a package. The stuff was
 pretty heavy to carry back, so it ended up being good strength
 training as well.
@@ -344,7 +344,7 @@ skipping jogging in the morning.
 In the early afternoon, I went to downtown Berkeley. I first stopped
 by at Goodwill and donated some items, finishing around 1:50 PM. I
 then went to Trader Joe's for food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday July 5
 
@@ -354,12 +354,12 @@ Berkeley to pick up a few packages.
 ## Wednesday July 10
 
 In the morning, I made a trip to Berkeley Bowl for food purchases
-(recorded in [food_purchases.sql](../sql/food_purchases.sql)) and then
+(recorded in [food_purchases.sql](../../sql/food_purchases.sql)) and then
 to Walgreens for toiletries purchases.
 
 Later in the morning, I made a trip to Citibank for financial
 transactions, then went to Trader Joe's for food purchases recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday July 12
 
@@ -371,3 +371,9 @@ back home.
 ## Saturday July 13
 
 In the late morning, I went to Walgreens to buy toiletries.
+
+## Sunday July 21
+
+In the morning, I went to Berkeley Bowl and Walgreens. The Berkley
+Bowl purchases are recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).

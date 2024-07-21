@@ -2733,7 +2733,10 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-07-20','Beefsteak tomato',7),
   ('2024-07-20','Green bell pepper',4),
   ('2024-07-20','Red bell pepper',2),
-  ('2024-07-20','Eggplant',2);
+  ('2024-07-20','Eggplant',2),
+  /* 2024-07-21 Berkeley Bowl; total cost $33.45; checkout at 10:31 AM; paid by credit card */
+  ('2024-07-21','Lundberg Sustainable California White Basmati Rice',3),
+  ('2024-07-21','Kite Hill Greek Style Plant-Based Yogurt',2);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
