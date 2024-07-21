@@ -611,7 +611,7 @@ recording of food purchases:
   transmitting the virus.
 
 * I now record food purchases in
-  [food_purchases.sql](../sql/food_purchases.sql), which has more
+  [food_purchases.sql](../../sql/food_purchases.sql), which has more
   detail except the timestamp of checkout. I'll start adding timestamp
   of checkout in a comment in the SQL file, thereby making the
   information in the activity tracker redundant.
@@ -702,7 +702,7 @@ Citibank in downtown Berkeley to deposit checks and get quarters. I
 finished my Citibank transactions at 3:48 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
-covered in [food_purchases.sql](../sql/food_purchases.sql).
+covered in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Monday August 2
 
@@ -711,7 +711,7 @@ Public Library to donate books to the "Friends of the Library"
 area. I donated about 10 books. I finished around 3:45 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
-covered in [food_purchases.sql](../sql/food_purchases.sql).
+covered in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Sunday August 8
 
@@ -726,7 +726,7 @@ Public Library to donate books to the "Friends of the Library"
 area. I donated about 10 books. I finished around 3:20 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
-covered in [food_purchases.sql](../sql/food_purchases.sql).
+covered in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Wednesday August 11
 
@@ -754,7 +754,7 @@ Public Library to donate books to the "Friends of the Library"
 area. I donated about 10 books. I finished around 3 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
-covered in [food_purchases.sql](../sql/food_purchases.sql).
+covered in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Wednesday August 18
 
@@ -763,7 +763,7 @@ outdoors together (walking side by side) from around 4:30 PM to around
 6:15 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
-covered in [food_purchases.sql](../sql/food_purchases.sql).
+covered in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Sunday August 22
 
@@ -780,7 +780,7 @@ at the Friends of the Library at Berkeley Public Library. However, by
 the time I arrived (5:15 PM), it had already closed.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
-covered in [food_purchases.sql](../sql/food_purchases.sql).
+covered in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Thursday August 26
 
@@ -793,7 +793,7 @@ I then went to Rex Key & Security for some work with keys. I checked
 out at 4:15 PM.
 
 Later visits to Trader Joe's and Udupi Palace in the same trip are
-covered in [food_purchases.sql](../sql/food_purchases.sql).
+covered in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Wednesday September 1
 
@@ -806,7 +806,7 @@ In the afternoon, I made a trip to downtown Berkeley:
 * 3:26 PM: Finished taking out quarters at Citibank
 
 I then got some food from Udupi Palace and Trader Joe's; details are
-in [food_purchases.sql](../sql/food_purchases.sql).
+in [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday September 3
 
@@ -824,7 +824,7 @@ Library to donate books. Then I went to Citibank to get quarters in
 exchange for $40, finishing checkout at 3:04 PM.
 
 After that I made some food purchases, documented in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Thursday September 9
 
@@ -898,14 +898,14 @@ finished around 2:05 PM. I took BART back home and got back around
 In the evening, I made a trip to downtown Berkeley. I first went to
 Ace Hardware and bought Drainbo, paying by cash and checking out at
 5:07 PM. I then made some trips for food purchases, recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Wednesday October 13
 
 In the evening, I made a trip to downtown Berkeley. I first went to
 Citibank and got quarters for 20 dollars, finishing checkout at 4:05
 PM. I then made some trips for food purchases, recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday October 15
 
@@ -926,7 +926,7 @@ Berkeley. The details are [here](2021-10-29-eye-exam.md).
 In the evening, I made a trip to downtown Berkeley. I first went to
 Citibank for some transactions, finishing checkout at 4:16 PM. I then
 made some trips for food purchases, recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday November 5
 
@@ -940,7 +940,7 @@ toiletries and finished checkout at 7:23 PM.
 In the evening, I made a trip to downtown Berkeley. I first went to
 Citibank for some transactions, finishing checkout at 4:12 PM. I then
 made some trips for food purchases, recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Sunday November 14
 
@@ -980,7 +980,7 @@ Gilman Street. I finished purchasing at 8:26 PM.
 In the evening, I made a trip to downtown Berkeley. I first went to
 Citibank for some transactions, finishing checkout at 4:16 PM. I then
 made some trips for food purchases, recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Tuesday December 7
 
@@ -1005,7 +1005,7 @@ use my umbrella.
 I made a trip to downtown Berkeley. I first got 20 city of Berkeley
 trash bags from Ace Hardware, paying by cash and finishing checkoout
 at 5:03 PM. I then made some food purchases, recorded in
-[food_purchases.sql](../sql/food_purchases.sql).
+[food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday December 24
 
