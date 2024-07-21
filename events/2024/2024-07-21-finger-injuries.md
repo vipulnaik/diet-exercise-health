@@ -3,7 +3,7 @@
 On 2024-07-21, I had a couple of finger injuries, with the second
 injury caused by actions taken to address the first.
 
-## First injury to right middle finger around PIP area (back side)
+## First injury to right middle finger around PIP area (back side) (around 11:30 AM)
 
 The first injury was to the right middle finger around the proximal
 interphalangeal (PIP) area back side (i.e., the dark side of the
@@ -25,7 +25,7 @@ but that good application of vaseline or other measures would have
 caused it to self-heal without getting to the point where it bled so
 much.
 
-## Attempted dealing with the injury: two flex bandages
+## Attempted dealing with the injury: two flex bandages (11:30 AM - 12:30 PM)
 
 I attempted to deal with the first injury by applying Band-Aid's
 water-proof flex bandage. The bandage lasted me through my meal
@@ -37,13 +37,13 @@ properly, causing it to loosen faster than it otherwise would.
 I applied a second flex bandage which lasted only for the post-meal
 cleanup and dish-washing.
 
-## Second injury to left thumb around PIP area (back side)
+## Second injury to left thumb around PIP area (back side) (around 12:30 PM)
 
 To see if I should try a different, bigger-sized bandage, I then tried
 to open a larger bandage pack. The edge of it caused a slight paper
 cut to the skin area right above the PIP of my left thumb.
 
-## Bandages on both areas
+## Bandages on both areas (12:30 PM - 1:40 PM)
 
 The thumb cut was a much more minor cut, so I just applied a normal
 (not waterproof) bandage to it. My expectation was that this bandage
@@ -61,6 +61,13 @@ again.
 To give both bandages uninterrupted time to do their magic, I decided
 to delay my flossing and rinsing that I would normally do right after
 my meal.
+
+## Removal of left thumb bandage
+
+After washing my hands after urination and then flossing, I removed
+the left thumb bandage. The wound seemed to have sealed enough that
+the bleeding risk seemed low enough. I kept the flex bandage on the
+right middle finger.
 
 ## Lessons
 
