@@ -80,6 +80,25 @@ walking. However, I was back to normal later in the journey.
 When I got back, I took a pulse oximeter reading, getting 55-67 bpm
 with the typical range being 59-64 bpm.
 
+## Three days later (2024-07-21)
+
+This day I again pulled something vaguely similar to 2024-07-18: I
+went jogging, then did strength exercises, then shortly after that I
+went shopping.
+
+However, the jogging was a little less extreme (about 1.5 miles
+jogging / 0.5 miles walking), I rested a few minutes before going out,
+and my outside trip was not as far off. So, I did not have the same
+degree of fatigue-causing stimuli.
+
+However, I had [finger injuries](2024-07-21-finger-injuries.md) that
+caused me some physical and mental stress. Also, due to these, I was
+trying to space out my urination (to give the finger injury time to
+heal). These factors may have been responsible for an increase in
+abdominal discomfort toward the later afternoon, and a reduced
+appetite for my second meal of the day. There was a brief period where
+I was feeling particularly crappy, though it didn't last too long.
+
 ## Current learnings
 
 I don't think it is wise to avoid this sort of situation
