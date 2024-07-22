@@ -105,6 +105,17 @@ Block bandages from Band-Aid (this is the 3 1/4 inch one, comparable
 to Walgreens Strong Strips, rather than to the Water Block Flex I had
 been using in the past).
 
+## Bandage change before sleeping (around 10:30 PM)
+
+The bandage came off in my bath before sleeping, so after my bath and
+drying my hands I put a new bandage on.
+
+## Bandage removal in the morning (around 7:45 AM)
+
+I removed the bandage in the morning after brushing my teeth. By this
+point, the bandage had been in place for my entire sleep and then for
+about an hour after waking up.
+
 ## Lessons
 
 * Be wary of contexts where a conjunction of events leads to excessive
