@@ -84,6 +84,18 @@ more likely than I initially thought.
 I decided to not apply any further bandages for the time being, but
 will keep a close eye for visible signs of inflammation.
 
+## Reinstatement of right middle finger bandage (around 5:50 PM)
+
+Around 5:50 PM, I put the right middle finger bandage on again, after
+noticing that the area had become inflamed again (I could see it was
+red). I tried the water block flex again, but it came off after
+washing hands and further water contact with brushing teeth.
+
+So then I switched to the Walgreens waterproof strong strip, and this
+one stayed intact during the meal and after post-meal washing. This is
+a somewhat bigger bandage that doesn't need to be flexed, and it may
+be more suited to the middle finger that is a little wider.
+
 ## Lessons
 
 * Be wary of contexts where a conjunction of events leads to excessive

@@ -18,7 +18,8 @@ edges wasn't clear).
 
 When rinsing, I moved my left hand toward the side with the sharp
 edges. The thing that hit it first was the outer front side of my left
-index finger, right above the metacarpo-phalangeal joint.
+index finger, right above the proximal interphalangeal joint (PIP
+joint).
 
 ## Immediate aftermath
 
