@@ -96,6 +96,15 @@ one stayed intact during the meal and after post-meal washing. This is
 a somewhat bigger bandage that doesn't need to be flexed, and it may
 be more suited to the middle finger that is a little wider.
 
+## Bandage change (around 7:50 PM)
+
+Around 7:50 PM, after a few more handwashes (including a return from
+an outside trip to purchase more bandages) the bandage had come loose,
+so I changed it. This time, I used one of the newly purchased Water
+Block bandages from Band-Aid (this is the 3 1/4 inch one, comparable
+to Walgreens Strong Strips, rather than to the Water Block Flex I had
+been using in the past).
+
 ## Lessons
 
 * Be wary of contexts where a conjunction of events leads to excessive

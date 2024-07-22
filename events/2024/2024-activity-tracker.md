@@ -377,3 +377,6 @@ In the late morning, I went to Walgreens to buy toiletries.
 In the morning, I went to Berkeley Bowl and Walgreens. The Berkley
 Bowl purchases are recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+In the evening, I made another trip to Walgreens to buy some bandages,
+in light of my [recent injury](2024-07-21-finger-injuries.md).
