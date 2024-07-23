@@ -636,3 +636,7 @@ reduced exertion was in light of slightly reduced energy levels, a
 very slight continued soreness around the injection site, and the
 abdominal pain four days ago due to overexertion (see
 [here](2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md)).
+
+## 2024-07-23: return to full strength exercises
+
+On Tuesday 2024-07-23, I returned to my full level of strength exercises.
