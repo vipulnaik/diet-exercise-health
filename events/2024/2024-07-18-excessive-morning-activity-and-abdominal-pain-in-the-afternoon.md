@@ -99,6 +99,11 @@ abdominal discomfort toward the later afternoon, and a reduced
 appetite for my second meal of the day. There was a brief period where
 I was feeling particularly crappy, though it didn't last too long.
 
+## Next few days
+
+On 2024-07-22, I was mostly fine but did experience slight discomfort
+off and on, and more pronounced discomfort a few times.
+
 ## Current learnings
 
 I don't think it is wise to avoid this sort of situation
