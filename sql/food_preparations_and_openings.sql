@@ -156,7 +156,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-07-06','TJ Walnuts',1),
   /* Potatoes prep 2024-07-07 */
-  ('2024-07-07','Gold potatoes 5 lb',0.3),
+  ('2024-07-07','Gold potatoes 5 lb',0.27),
   ('2024-07-07','TJ Kale',1),
   ('2024-07-07','TJ Broccoli Florets 12 oz',1),
   ('2024-07-07','TJ English Shelled Peas',3),
@@ -179,7 +179,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-10','TJ Carb Savvy Tortillas',1),
   ('2024-07-11','Trader Giotto''s Olive Oil',1), /* I opened this as part of the potatoes prep */
   /* Potatoes prep 2024-07-11 */
-  ('2024-07-11','Gold potatoes 5 lb',0.3),
+  ('2024-07-11','Gold potatoes 5 lb',0.27),
   ('2024-07-11','TJ Kale',1),
   ('2024-07-11','TJ Broccoli Florets 12 oz',1),
   ('2024-07-11','TJ English Shelled Peas',3),
@@ -206,7 +206,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-18','TJ Almond Milk',1),
   ('2024-07-18','TJ Miso Ginger Broth',1),
   /* Potatoes prep 2024-07-18 */
-  ('2024-07-18','Gold potatoes 5 lb',0.3),
+  ('2024-07-18','Gold potatoes 5 lb',0.27),
   ('2024-07-18','TJ Kale',1),
   ('2024-07-18','TJ Broccoli Florets 12 oz',1),
   ('2024-07-18','TJ English Shelled Peas',3),
@@ -224,5 +224,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-07-20','Red bell pepper',2),
   ('2024-07-20','Beefsteak tomato',5), /* I increased from 4 to 5 */
   /* Rice prep 2024-07-22 */
-  ('2024-07-22','Lundberg Sustainable California White Basmati Rice',0.8);
+  ('2024-07-22','Lundberg Sustainable California White Basmati Rice',0.8),
+  /* Potatoes prep 2024-07-23 */
+  ('2024-07-23','Gold potatoes 5 lb',0.27),
+  ('2024-07-23','TJ Kale',1),
+  ('2024-07-23','TJ Broccoli Florets 12 oz',1),
+  ('2024-07-23','TJ English Shelled Peas',3),
+  ('2024-07-23','Beefsteak tomato',2);
   /* Double-check the date before committing */
