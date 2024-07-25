@@ -5,7 +5,7 @@ when feeling unwell. For the various checks, simple subjective
 versions are included for the cases where I lack the energy or
 resource access to do formal measurements.
 
-## Basic checks
+## Basic measurements
 
 ### Temperature (and fever)
 
@@ -62,5 +62,151 @@ wants to be warmer, whereas a fever without chills is indicative of
 the body having generated heat without necessarily wanting to stay hot
 (??).
 
-## Heart rate and blood pressure
+### Heart rate
 
+Formal measurement: I have the following options for measuring heart rate:
+
+* Pulse oximeter: This sometimes doesn't show a reading if perfusion
+  is low, which could be for non-health-related reasons, e.g., if my
+  finger is wet or some other environmental factor. However, it does
+  show the pulse so I can count it to get an estimate.
+
+* Blood pressure machine: This includes a point estimate of the heart
+  rate for each reading. Not as good as the pulse oximeter in giving a
+  sense for fluctuations over the scale of minutes, but unlike the
+  pulse oximeter this has always given a reading.
+
+Informal measurement:
+
+* Stethoscope, with access to a clock at seconds precision: If using
+  the stethoscope I still need to count, but the stethoscope does make
+  the beats loud enough to allow for easy counting.
+
+* Manual measurement using pulse or neck or heart, with access to a
+  clock at seconds precision: This is the most low-tech; it will be
+  less reliable and can be off by about 10% but it should be able to
+  distinguish 60 bpm, 80 bpm, and 100 bpm.
+
+How to interpret readings:
+
+* See my [profile](../profile-information/health-profile.md) for my
+  expected heart rate; and see [blood pressure
+  readings](../sql/blood_pressure_readings.sql) and [pulse oximeter
+  readings](../sql/pulse_oximeter_readings.sql) for a range of recent
+  readings under different circumstances.
+
+* Generally, heart rates that are more than 20 bpm above my usual for
+  that environment suggest something is up. However, no immediate
+  corrective action may be needed for the heart rate. Heart rates that
+  are about 10-15 bpm higher than what I usually have under the
+  circumstances may indicate a problem but it's not conclusive.
+
+* Heart rate that are more than 10 bpm below my usual for that
+  environment is suspicious, but very unlikely. For resting seated
+  heart rate, this would be very implausible. For post-exercise heart
+  rate, having lower heart rate just suggests that I was constrained
+  by other factors in my efforts to ramp up my exercise, so I didn't
+  get into the expected zone.
+
+### Blood pressure
+
+Formal measurement: Use the blood pressure machine.
+
+Informal measurement: I don't think there is any way of informally
+measuring blood pressure that is even moderately reliable.
+
+How to interpret readings:
+
+* See my [profile](../profile-information/health-profile.md) for my
+  expected heart rate; and see [blood pressure
+  readings](../sql/blood_pressure_readings.sql) for a range of
+  readings under different circumstances.
+
+* In general, blood pressure readings that are above 115/75 for a
+  resting seated at-home measurement are concerning, unless there are
+  mitigating factors that explain the reading, such as a recent
+  physical or mental stress.
+
+### Breathing rate and pattern
+
+Formal measurement: I don't currently have any instrumentation to
+measure it. There exist options such as a spirometer / respirometer
+and capnometer, but I have not invested in them yet.
+
+Informal measurement: The challenge here is that paying attention to
+breathing changes the breathing pattern. Note the following down:
+
+* Time for inbreath, pause between inbreath and outbreath, outbreath,
+  pause between outbreath and inbreath (if the parts are hard to break
+  down, just note the total) for about 10 successive breaths.
+
+* Any unusual patterns in breathing, such as pain, shakiness, feeling
+  difficulty transitioning between stages. The pain could be nasal,
+  chest, or diaphragmmatic. For instance, abdominal pain can cause
+  some shakiness in breathing even if the overall breathing rate and
+  volume remains similar to usual.
+
+* Use of the mouth for breathing.
+
+## Cognitive status and related aspects
+
+### Typing as a test of cognitive alertness and coordination
+
+The [Human Benchmark typing
+test](https://humanbenchmark.com/tests/typing) is a test of cognitive
+alertness and coordination. If I score below 70 wpm on each of 1-3
+consecutive tries (however many I can afford stamina-wise), compared
+to my usual range of 80-100 wpm, suggests that I have issues affecting
+some mix of my cognition and my motor coordination.
+
+If I am not able to hit that 70 wpm, that's generally an indicator of
+a lack of cognitive alertness or coordination and suggests that I
+should not be doing my usual "desk job". However, if the other
+cognitive tests (see below) are coming out normal, this could have
+more to do with physical fatigue or issues specific to my hands, so I
+might still be able to continue doing low-stakes, error-tolerant
+cognitive stuff on my laptop and phone.
+
+### Sequence memory and verbal memory
+
+The [verbal memory](https://humanbenchmark.com/tests/verbal-memory)
+and [sequence memory](https://humanbenchmark.com/tests/sequence) tests
+are good tests that I can use to gauge my cognitive alertness. The
+verbal memory test is preferable for cases where my physical energy
+levels are low, because it requires less moving around.
+
+For verbal memory, scoring below 50 on each of 1-3 consecutive tries
+(however many I can afford stamina-wise) is indicative of degraded
+cognitive performance. For sequence memory, scoring below 10 (compared
+to my usual range of 12-23) on 1-3 consecutive tries (however many I
+can afford stamina-wise) id indicative of degraded cognitive
+performance.
+
+NOTE: Scoring above the thresholds might still reflect some cognitive
+degradation, but it's more ambiguous and I should use other pieces of
+information. The thresholds I've selected are ones where I should just
+automatically assume I am cognitively degraded, without having to
+expend brainpower into the determination.
+
+## Mood and fatigue
+
+### Overload from simple tasks
+
+If the following simple tasks create sensory overload, it's a red flag
+and suggests I should take urgent actions to disconnect:
+
+* Logging in to an account or to a device
+
+* Passively listening to audio that is not cognitively challenging
+  (such as music, see below).
+
+### Response to music
+
+Response to some music that I like is a useful indicator:
+
+* If I find that even music creates excessive sensory overload for me,
+  that is generally indicative of extreme fatigue that suggests I
+  should stop trying to do any work.
+
+* I can try to gauge whether listening to a particular piece of music
+  generates the typical range of emotions in me.
