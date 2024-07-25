@@ -99,10 +99,27 @@ abdominal discomfort toward the later afternoon, and a reduced
 appetite for my second meal of the day. There was a brief period where
 I was feeling particularly crappy, though it didn't last too long.
 
-## Next few days
+## Four days later (2024-07-22)
 
 On 2024-07-22, I was mostly fine but did experience slight discomfort
 off and on, and more pronounced discomfort a few times.
+
+## Five days later (2024-07-23)
+
+On 2024-07-23, I again experienced slight discomfort and it was a
+little more acute later in the day.
+
+## Six days later (2024-07-24)
+
+Going to sleep on the night onf 2024-07-23, I had been thinking of
+skipping exercise on 2024-07-24 to give myself more room for a fuller
+recovery. I ended up doing this on the morning of 2024-07-24.
+
+Already on the morning of 2024-07-24, I was feeling a little more
+pronounced and frequent discomfort than the past two days. This
+continued low-key through the day. I don't know if this was due to the
+deliberate decision to have a slow day and not go out, and don't know
+if this represents a worsening or is the recovery process in action.
 
 ## Current learnings
 
