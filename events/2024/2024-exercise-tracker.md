@@ -640,3 +640,14 @@ abdominal pain four days ago due to overexertion (see
 ## 2024-07-23: return to full strength exercises
 
 On Tuesday 2024-07-23, I returned to my full level of strength exercises.
+
+## 2024-07-24: skipping of most exercises to aid with recovery from abdominal pain
+
+On 2024-07-24, I skipped most exercises, including jogging, breath
+holds, and hand gripper exercises. I still did
+standing-on-one-leg-with-eyes-closed exercises. The goal was to help
+me recover from my abdominal pain; it was an experiment of sorts and
+was in light of the fact that the original trigger appears to have
+been excessive activity. However, I ended up feeling a little worse
+compared to previous days -- not yet sure if that's a good thing
+(reflecting recovery) or a bad thing.
