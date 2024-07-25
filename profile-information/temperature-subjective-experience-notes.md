@@ -1,6 +1,11 @@
-# 2022: temperature subjective experience
+# Temperature subjective experience
 
-There's a temperature measurement in my apartment, and I've been observing how my subjective experience relates to measured temperature.
+These notes were last taken in 2022, but are approximately accurate as
+of 2024-07-24.
+
+There's a temperature measurement in my apartment, and I've been
+observing how my subjective experience relates to measured
+temperature.
 
 The temperature measurement isn't super-granular; for instance, it
 skips over some integer values of Fahrenheit measurement. It may also
