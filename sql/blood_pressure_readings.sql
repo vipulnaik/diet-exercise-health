@@ -44,4 +44,7 @@ insert into blood_pressure_readings(reading_date, index_within_reading_date, mea
   ('2024-07-11',2,'self','left arm',94,57,47,'This reading, taken around 9:37 AM, was a repeat reading for the previous reading.'),
   /* 2024-07-13 */
   ('2024-07-13',1,'self','left arm',92,63,46,'This reading was taken around 9:49 AM, a little over 30 minutes after I got to my computer in a seated position after bowel movement/urination/drinking water. The motivation for taking this reading was to see if there were any effects of the Tdap vaccine I got yesterday.'),
-  ('2024-07-13',2,'self','left arm',97,65,48,'This reading, taken around 9:53 AM, was a repeat reading for the previous reading.');
+  ('2024-07-13',2,'self','left arm',97,65,48,'This reading, taken around 9:53 AM, was a repeat reading for the previous reading.'),
+  /* 2024-07-24 */
+  ('2024-07-24',1,'self','left arm',102,67,61,'This reading was taken around 7:24 PM, about 40 minutes after I got back to my computer after post-dinner cleanup. The motivation for the reading was my recent abdominal pain issues.'),
+  ('2024-07-24',2,'self','left arm',103,64,60,'This reading, taken around 7:27 PM, was a repeat reading for the previous reading.');
