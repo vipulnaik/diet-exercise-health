@@ -113,13 +113,27 @@ little more acute later in the day.
 
 Going to sleep on the night onf 2024-07-23, I had been thinking of
 skipping exercise on 2024-07-24 to give myself more room for a fuller
-recovery. I ended up doing this on the morning of 2024-07-24.
+recovery. I ended up doing this on the morning of 2024-07-24. I also
+stayed in bed a little longer than my natural inclination, to get the
+benefits of more sleep.
 
 Already on the morning of 2024-07-24, I was feeling a little more
 pronounced and frequent discomfort than the past two days. This
 continued low-key through the day. I don't know if this was due to the
 deliberate decision to have a slow day and not go out, and don't know
 if this represents a worsening or is the recovery process in action.
+
+## Seven days later (2024-07-25)
+
+Having gone to sleep early the previous night (2024-07-24), I stayed
+in bed a little longer, so that I got over 8.5 hours in bed.
+
+I did all my usual exercises, including jogging and strength exercises.
+
+I did notice what felt like excess stomach acid, but it wasn't
+super-pronounced, and it only got a little more pronounced due to
+delays with eating. It was fine after eating and didn't get in the way
+of my mood for most of the day.
 
 ## Current learnings
 
