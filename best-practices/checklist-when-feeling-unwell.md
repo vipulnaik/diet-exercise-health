@@ -188,6 +188,43 @@ information. The thresholds I've selected are ones where I should just
 automatically assume I am cognitively degraded, without having to
 expend brainpower into the determination.
 
+## Abdominal signs
+
+### LEGIT: Excessive burping and flatulence
+
+If I have a lot of burping and/or flatulence, and this doesn't go away
+on drinking water, there is likely an issue such as excess stomach
+acid production (hypergastrinemia, usually due to gastritis) and GERD
+(gastroesophageal reflux). This confirms that the pain or discomfort I
+am feeling has a functional basis, and is not purely neuromuscular.
+
+This should be considered serious only if it's leading to symptoms
+such as hearburn, sore throat, coughing, etc. However, even if it's
+not leading to these, it should still be documented and eventually
+tackled.
+
+### SERIOUS: Visible bloating
+
+Check for visible bloating (visible to the naked eye). Compare to my
+usual self and look at images on the Internet.
+
+### SERIOUS: Muscle guarding
+
+Check for muscle guarding, i.e., a reluctance for my abdominal area to
+be pressed or poked.
+
+### SERIOUS: Palpation pain and rebound tenderness
+
+Check for sharp increase in pain in any specific area when pressing
+down on it, and also check for rebound tenderness -- pain when
+releasing the pressure.
+
+### SERIOUS: Pain that is diffcult to ignore
+
+Look for pain at an intensity that is difficult to ignore. Also look
+for pain that gets me to keep trying to shift position, and note if
+there are specific positions where the pain is lower.
+
 ## Mood and fatigue
 
 ### Overload from simple tasks

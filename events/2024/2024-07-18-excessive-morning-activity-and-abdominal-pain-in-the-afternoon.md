@@ -1,5 +1,31 @@
 # 2024-07-18: excessive morning activity and abdominal pain in the afternoon
 
+## Summary of symptoms
+
+Overall, this was a case of intermittent abdominal pain, along with
+other symptoms that fall in the LEGIT category but don't rise to the
+level of SERIOUS:
+
+* More burping than usual (LEGIT)
+
+* Occasional flatulence, generally very small amounts (LEGIT)
+
+* Audible abdominal activity in some mornings (LEGIT)
+
+* Abdominal heaviness (subjective)
+
+There were no serious symptoms such as bloating, muscle guarding,
+palpation pain, and rebound tenderness. There was no clear disruption
+to my bowel movement cycle, bowel characteristics, or urine
+characteristics.
+
+The effect on my overall productivity and output was minimal; if
+anything my output was a little higher than usual though that was
+probably for unrelated reasons.
+
+The symptoms mostly correlated with each other, so were highest
+together and receded together.
+
 ## Background from the previous night
 
 It's rather hot during the afternoon, and I needed to stock up on
@@ -111,7 +137,7 @@ little more acute later in the day.
 
 ## Six days later (2024-07-24)
 
-Going to sleep on the night onf 2024-07-23, I had been thinking of
+Going to sleep on the night of 2024-07-23, I had been thinking of
 skipping exercise on 2024-07-24 to give myself more room for a fuller
 recovery. I ended up doing this on the morning of 2024-07-24. I also
 stayed in bed a little longer than my natural inclination, to get the
@@ -130,7 +156,8 @@ in bed a little longer, so that I got over 8.5 hours in bed.
 
 I did all my usual exercises, including jogging and strength exercises.
 
-I did notice what felt like excess stomach acid, but it wasn't
+I did notice what felt like excess stomach acid (as evidenced by
+burping and a little bit of flatulence), but it wasn't
 super-pronounced, and it only got a little more pronounced due to
 delays with eating. It was fine after eating and didn't get in the way
 of my mood for most of the day.
