@@ -100,6 +100,19 @@ is good.
 
 ## Best practices around prevention
 
+### Target sleeping time to always try to adhere to
+
+I should always aim to be in bed by the earlier of these times (even
+when there is no bowel disruption so far):
+
+* At least 7 hours before the beginning of the range of time at which
+  I naturally wake up; for instance, if I naturally wake up between 7
+  AM and 7:30 AM these days, I should aim to be in bed by midnight.
+
+* At least 8 hours before the time I have set my alarm for
+
+* At least 9 hours before the time I absolutely need to get out of bed
+
 ### Reducing the incidence of unplanned late sleep
 
 Unplanned late sleep can occur for a few reasons:
@@ -141,6 +154,20 @@ strategies to reduce the incidence of these.
 
 ## Best practices after the fact
 
+### Target sleep time to try to adhere to in light of bowel disruption (and for at least 2 nights after seeming recovery)
+
+I should aim to be in bed by the earlier of these times, if I have an
+ongoing bowel disruption and for at least 2 nights after recovery:
+
+* At least 8.5 hours before the beginning of the range of time at
+  which I naturally wake up; for instance, if I naturally wake up
+  between 7 AM and 7:30 AM these days, I should aim to be in bed by
+  10:30 PM.
+
+* At least 9 hours before the time I have set my alarm for
+
+* At least 10 hours before I absolutely need to wake up
+
 ### Drinking water (to be done at all levels of severity)
 
 Unless I have a violent reflex against drinking water, it's important
@@ -160,5 +187,6 @@ evening if I feel up to it.
 
 ### Having foods that are lighter on my system (in case of at least mild constipation and some unusual GI stuff)
 
-For instance, switching from sauerkraut to vegan probiotic yogurt, or
-from wheat stuff to rice.
+I recommend having about 1/4 to 1/3 of the 16 oz Kite Hill Greek Style
+Plant-Based Yogurt over the day, roughly evenly split between the
+meals of the day.
