@@ -162,23 +162,23 @@ super-pronounced, and it only got a little more pronounced due to
 delays with eating. It was fine after eating and didn't get in the way
 of my mood for most of the day.
 
+## Eight days later (2024-07-26)
+
+I was feeling worse on this day (between my first and second meal)
+than the previous day. I narrowed down two causes of the difference:
+
+* I had gotten more sleep overnight on the previous day.
+
+* I consumed vegan probiotic yogurt in the first meal on the previous
+  day, and didn't consume it in the first meal on this day.
+
+I remedied the second factor by consuming vegan probiotic yogurt in
+the second meal, and I did feel relatively better (almost as well as
+the previous day) in the period between the second meal and going to
+sleep.
+
 ## Current learnings
 
-I don't think it is wise to avoid this sort of situation
-entirely. This might be part of the learning/adjustment process to
-build more stamina and recovery capability.
-
-With that said, a few adjustments may be better:
-
-* Don't pull this sort of stuff if there are critical things to do
-  later in the day or the next day.
-
-* Don't do this sort of stuff under very strict time pressure, or if
-  shopping is critical to complete in the day. If I *need* to go
-  shopping, skip jogging. If I don't need to go shopping, I can go
-  jogging, and assess my state after I return, give myself adequate
-  cooling time, and then go shopping.
-
-* Consider doing a jogging/walking split that's slightly less, e..,
-  1.5 miles jogging / 0.5 miles walking instead of 1.7 miles walking /
-  0.3 miles jogging. Something like a 10% buffer to the most I can do.
+I've been updating [best practices around abdominal
+discomfort](../../best-practices/best-practices-around-abdominal-discomfort.md);
+this reflects my most up-to-date learnings.
