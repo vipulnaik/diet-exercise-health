@@ -240,5 +240,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-07-26 */
   ('2024-07-26','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-07-27','Kite Hill Greek Style Plant-Based Yogurt',1);
+  ('2024-07-27','Kite Hill Greek Style Plant-Based Yogurt',1),
+  /* Potatoes prep 2024-07-28 */
+  ('2024-07-28','Gold potatoes 5 lb',0.27),
+  ('2024-07-28','TJ Kale',1),
+  ('2024-07-28','TJ Broccoli Florets 12 oz',1),
+  ('2024-07-28','TJ English Shelled Peas',3),
+  ('2024-07-28','Beefsteak tomato',3);
   /* Double-check the date before committing */
