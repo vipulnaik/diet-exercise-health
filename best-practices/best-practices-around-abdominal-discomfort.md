@@ -57,13 +57,27 @@ practices during health
 issues"](best-practices-around-sleep.md#best-practices-during-health-issues)
 for every night where I experienced abdominal discomfort during the
 day, and for two extra nights. In particular, the guidance here sets a
-time to go to bed about 1.5 hours earlier than otherwise.
+time to go to bed about 1.5 hours earlier than otherwise. The same
+guidance also recommends staying in bed a little extra until the 8.5
+hours are completed.
+
+### Extra care with bowel movement
+
+Even if my bowel movement cycle does not appear to be disrupted, I
+should still take extra care to make sure I have a full bowel
+movement. This means waiting a little longer in the morning for bowel
+pressure build-up before going for a bowel movement, and spending a
+little more time on the bowel movement to increase the chances of a
+full bowel movement. Even if bowel movement cycle isn't the source of
+the problem, it can compound or exacerbate other issues.
 
 ### Vegan probiotic yogurt consumption
 
 With every meal, try to consume something like 1/8 to 1/6 of the 16 oz
 Kite Hill Greek Style Plant-Based Yogurt, or equivalent for whatever I
-am consuming. A rule of thumb is that each serving should have about 1
+am consuming. (Remember to check for mold carefully before consuming
+each time, given the mold issues known to happen for vegan probiotic
+yogurts). A rule of thumb is that each serving should have about 1
 teaspoon of the yogurt. At the end, if I'm burping, the burp should
 have that yogurt. Overall, this will make it so that even if I have
 some symptoms of excess stomach acid, my discomfort from these
