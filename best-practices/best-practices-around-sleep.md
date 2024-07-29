@@ -101,6 +101,33 @@ The earliest time by which I should be in bed is 2 hours earlier than
 the latest time, unless I am feeling fatigue that makes me want to go
 to bed earlier than that.
 
+### Urinate right before going to bed
+
+Urine pressure is one reason I sometimes prematurely wake up. So,
+urinating right before going to bed, even if I don't feel like I have
+enough urine built up, can help reduce that. This is not always
+necessary, but is a best practice.
+
+### Sleeping in
+
+* If I have completed at least 7 hours of sleep, feel awake and alert,
+  and want to get out of bed, I should get out of bed.
+
+* On the other hand, if I have completed fewer than 7 hours of sleep,
+  then I should try to get some extra time in bed (even if not fully
+  asleep) until I hit 7 hours. If I have urine pressure build-up I
+  should go and urinate first so the remainder of my time in bed can
+  be more relaxed.
+
+* If I have significant bowel pressure already (before getting to an
+  upright position) then it may be better to have a bowel movement and
+  then spend some extra time in bed. However, generally speaker, bowel
+  pressure doesn't become significant at less than 7 hours of sleep
+  until I spend some time in a seated or upright position, so in order
+  to get extra sleep I should try to avoid getting in a seated
+  position.
+
+
 ### Reducing the incidence of unplanned late sleep
 
 Unplanned late sleep can occur for a few reasons:
@@ -145,6 +172,8 @@ strategies to reduce the incidence of these.
 
 ## Best practices to follow during health issues
 
+### When to get into bed
+
 When I'm experiencing health issues where I have reason to believe
 that additional sleep might be helpful, I should adjust the guidance
 regarding the latest time I should be in bed as follows:
@@ -161,6 +190,17 @@ regarding the latest time I should be in bed as follows:
 The earliest time by which I should be in bed is 2 hours earlier than
 the latest time, unless I am feeling fatigue that makes me want to go
 to bed earlier than that.
+
+### Urinate right before going to bed
+
+As with nomal times, it is important to urinate right before going to
+bed. In fact, it becomes more important to do so, as getting the full
+amount of sleep becomes more important when I have health issues.
+
+### Sleeping in
+
+Similar to normal times, I should follow the practice of sleeping in,
+but now using 8.5 hours rather than 7 hours as the threshold.
 
 ## Best practices to follow during a sleep cycle adjustment phase
 
