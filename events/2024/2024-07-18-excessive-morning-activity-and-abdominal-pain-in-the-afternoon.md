@@ -177,6 +177,37 @@ the second meal, and I did feel relatively better (almost as well as
 the previous day) in the period between the second meal and going to
 sleep.
 
+## Nine days later (2024-07-27)
+
+I followed the identified best practices and was feeling generally
+good through the day, though my total accounted-for hours were a bit
+low.
+
+## Ten days later (2024-07-28)
+
+Despite trying to follow best practices, I didn't feel as good as the
+previous day, though still better than two days and four days
+ago. There were a few specific things that happened today:
+
+* Maybe slight rushing of morning bowel movement due to a timer going
+  off that I needed to turn off (though I did feel like I finished up).
+
+* Potatoes/peas prep and more consumption of that (my mixed veggies
+  were over).
+
+* A decent amount of cleaning activity after meal, and in general a
+  lot of physical moving around activity; ironically I felt fine
+  during the activity but settling down right after it I experienced
+  more discomfort.
+
+* The fragmented nature of the day meant I did not get deep
+  intellectual engagement which tends to drive out thoughts of the
+  discomfort.
+
+I did notice that my discomfort would peak right before urination and
+I'd feel pretty normal after urination. This has been an observation
+in the past as well, but was particularly pronounced today.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
