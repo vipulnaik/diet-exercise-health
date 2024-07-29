@@ -197,7 +197,7 @@ queries = [
 
     "select epoch, daily_protein_in_grams from daily_pw_amounts_by_epoch where daily_protein_in_grams < 45;",
 
-    "select epoch, daily_oxalate_in_mg from daily_pw_amounts_by_epoch where daily_oxalate_in_mg > 300;",
+    "select epoch, daily_oxalate_in_mg from daily_pw_amounts_by_epoch where daily_oxalate_in_mg > 100;",
 
     "select epoch, daily_calcium_in_mg from daily_pw_amounts_by_epoch where daily_calcium_in_mg < 650 or daily_calcium_in_mg > 2500;",
 
