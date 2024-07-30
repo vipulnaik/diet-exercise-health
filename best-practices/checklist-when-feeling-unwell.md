@@ -118,7 +118,7 @@ measuring blood pressure that is even moderately reliable.
 How to interpret readings:
 
 * See my [profile](../profile-information/health-profile.md) for my
-  expected heart rate; and see [blood pressure
+  expected blood pressure; and see [blood pressure
   readings](../sql/blood_pressure_readings.sql) for a range of
   readings under different circumstances.
 
