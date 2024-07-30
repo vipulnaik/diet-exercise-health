@@ -33,7 +33,7 @@ Set up a reminder for a grocery shopping trip for the evening two days
 before the dental cleaning appointment. It's good to have groceries
 shopped for ahead of the appointment if possible.
 
-### Reminder to pause consumption of sauerkraut, walnuts, and spicy foods
+### Reminder to pause consumption of sauerkraut, walnuts, lemons, and spicy foods
 
 * Reminder for three days prior to the appointment to pause
   consumption of sauerkraut, walnuts, and spicy foods. This reduces
@@ -41,6 +41,12 @@ shopped for ahead of the appointment if possible.
   pain during the dental cleaning process. Any food prep during this
   time should not include cayenne pepper. I should also avoid outside
   food.
+
+  Also, when consuming recently prepared hot food, I should make sure
+  to mix it with cooler liquid foods so that the hottest temperature
+  in my mouth isn't too high (this is a good practice in general but I
+  should be particularly careful in the run-up to a dental cleaning
+  appointment.
 
   Consume a vegan probiotic yogurt instead of sauerkraut over that
   time period.
