@@ -101,8 +101,8 @@ How to interpret readings:
   are about 10-15 bpm higher than what I usually have under the
   circumstances may indicate a problem but it's not conclusive.
 
-* Heart rate that are more than 10 bpm below my usual for that
-  environment is suspicious, but very unlikely. For resting seated
+* Heart rates that are more than 10 bpm below my usual for that
+  environment are suspicious, but very unlikely. For resting seated
   heart rate, this would be very implausible. For post-exercise heart
   rate, having lower heart rate just suggests that I was constrained
   by other factors in my efforts to ramp up my exercise, so I didn't
