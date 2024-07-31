@@ -26,4 +26,6 @@ insert into pulse_oximeter_readings(reading_date, index_within_reading_date, fin
   ('2024-07-23',1,'right index finger',60,50,60,99,100,'This reading was taken about 20 minutes after the previous reading, with a lying-down relaxation period in between. As the previous reading was shortly before midnight, this reading was technically taken the next day. I wasn''t looking at a clock when doing this so I don''t know my duration of monitoring for sure.'),
   /* 2024-07-23 */
   ('2024-07-23',2,'right index finger',60,54,58,98,98,'This reading was taken at night, shortly before getting ready for bed, at the start of a 10-minute relaxation period. I started looking at the measurement at 9:55:00 PM, about 30 seconds after putting the pulse oximeter in.'),
-  ('2024-07-23',3,'right index finger',60,55,60,97,98,'This was a followup reading after a 10-minute relaxation period following the previous reading.');
+  ('2024-07-23',3,'right index finger',60,55,60,97,98,'This was a followup reading after a 10-minute relaxation period following the previous reading.'),
+  /* 2024-07-31 */
+  ('2024-07-31',1,'left index finger',120,53,61,97,97,'This was based on a two-minute observation period from 4:54:15 PM to 4:56:15 PM. The heart rate mostly stayed between 54 and 58 bpm, with a brief dive to 53 early on and a brief rise to 61 toward the end.');
