@@ -75,6 +75,16 @@ little more time on the bowel movement to increase the chances of a
 full bowel movement. Even if bowel movement cycle isn't the source of
 the problem, it can compound or exacerbate other issues.
 
+#### Mid-day bowel movements
+
+Consider trying a mid-day bowel movement if I feel persistent
+discomfort, even if I don't specifically feel an urge for a bowel
+movement. Don't force or push though -- if nothing comes out after 5
+minutes, give up and continue the day as normal. Mid-day bowel
+movements can help even if bowel movement cycle isn't the primary
+cause, insofar as the fuller bowel might be contributing to the
+discomfort that's primarily from another reason.
+
 ### Vegan probiotic yogurt consumption
 
 With every meal, try to consume something like 1/8 to 1/6 of the 16 oz
