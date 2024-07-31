@@ -208,6 +208,18 @@ I did notice that my discomfort would peak right before urination and
 I'd feel pretty normal after urination. This has been an observation
 in the past as well, but was particularly pronounced today.
 
+## Eleven days later (2024-07-29)
+
+I felt mostly good through the day, with occasional abdominal
+discomfort right at the peak of urine buildups.
+
+## Twelve days later (2024-07-30)
+
+I continued to feel good through most of the day; in fact, this was
+probably my best day in a while. However, I did continue to experience
+similar symptoms as before. Late in the day, I experienced more pain
+than usual, but urination helped reduce the pain.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
