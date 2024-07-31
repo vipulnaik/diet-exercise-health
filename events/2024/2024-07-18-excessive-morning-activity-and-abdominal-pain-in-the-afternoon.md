@@ -137,6 +137,8 @@ little more acute later in the day.
 
 ## Six days later (2024-07-24)
 
+Factor X applied.
+
 Going to sleep on the night of 2024-07-23, I had been thinking of
 skipping exercise on 2024-07-24 to give myself more room for a fuller
 recovery. I ended up doing this on the morning of 2024-07-24. I also
@@ -219,6 +221,38 @@ I continued to feel good through most of the day; in fact, this was
 probably my best day in a while. However, I did continue to experience
 similar symptoms as before. Late in the day, I experienced more pain
 than usual, but urination helped reduce the pain.
+
+## Thirteen days later (2024-07-31)
+
+Factor X applied.
+
+I was feeling more pain than usual this morning. Considering that this
+was also the case the last time factor X had applied (2024-07-24) I
+now suspect factor X to be an aggravator.
+
+I did two unusual things later in the day:
+
+* I started a break from sauerkraut. I'm planning to sustain this
+  break for a week and then reassess.
+
+* I decided to try a bowel movement in the afternoon at around 3
+  PM. Surprisingly, a bowel movement happened without effort on my
+  part (even though I didn't feel a strong urge for one). This
+  suggests to me that perhaps the issue is incomplete bowel movements
+  in the morning, despite feeling satisfied shortly after the bowel
+  movement. But it's unclear if today was unusual. I'm planning to try
+  a bowel movement a few more times in the future.
+
+  I did notice a little bleeding when wiping after the bowel movement,
+  but it didn't seem too concerning. I didn't experience any
+  pain. I'll keep an eye out for bleeding in the future, and make sure
+  that for any low-pressure bowel movements I don't try to push stuff
+  out forcefully which might make bleeding worse.
+
+  I felt relieved after the bowel movement though not "perfectly fine"
+  so I don't think this alone did the trick. But at least I now feel
+  about as good as yesterday, I'm curious to see what overall effect
+  it has on my experience for the rest of the day.
 
 ## Current learnings
 
