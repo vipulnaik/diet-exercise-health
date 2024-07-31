@@ -50,6 +50,10 @@ As much as possible, try to avoid all of these. For instance:
 
 ## Best practices after the fact
 
+I should try these best practices for about 2-3 weeks to see if the
+issue resolves itself, before escalating to more complex things to
+try.
+
 ### Extra sleep
 
 Follow the guidance in [best practices aroud sleep section "Best
@@ -109,3 +113,90 @@ expensive item. However, in the recovery period from discomfort, my
 consumption might go up to one per 3-4 days for a period of a week or
 two while I recover.
 
+### Exercise
+
+If the abdominal pain is continuous and makes me feel like I don't
+want to exercise, skip exercise. This should be okay for at least 3-4
+days; beyond that it may make sense to try some exercise.
+
+However, if the abdominal pain is intermittent and I still feel like
+exercising, then still exercise. Exercise can help with motility and
+also help suppress excess stomach activity by directing resources away
+from it, and in general it leaves me feeling better.
+
+However, try to not "max out" on aerobic and strength exercises as
+that could lead to lactate buildup that can interact in a bad way with
+existing abdominal pain. In general, it's a good rule of thumb to stop
+at around 90% of the level I would normally stop at, particularly for
+something like jogging.
+
+Also, potentially skip exercise if I am getting natural exercise on
+the day, even if under normal circumstances I would have done both.
+
+## Best practices for acute or persistent cases
+
+Acute cases are cases where the pain level is getting to the point
+where it is getting in the way of my daily life.
+
+Persistent cases are ones that show no improvement after 2 weeks of
+following the previous section's best practices or show no significant
+improvement after 3 weeks of following the previous section's best
+practices.
+
+In these cases, additional steps may be needed.
+
+### Pain medication experimentation
+
+For acute cases, or for persistent cases where I want better
+management, consider taking acetaminophen (one pill alternating days)
+to see the extent of symptom relief it provides. Do *not* take
+ibuprofen as it can worsen symptoms for some potential causes.
+
+### Supplement experimentation
+
+* Take Vitamin B Complex supplements daily for 2-3 days and observe
+  the effect on symptoms.
+
+* Look into other supplements.
+
+* Potentially look into stopping or skipping existing supplements.
+
+### Temporary eliminations
+
+Try temporary eliminations of these foods. Temporary eliminations
+should be for at least 2 days (preferably at least 3 days) but should
+not be continued more than a week without a diet review:
+
+* Potatoes, peas, broccoli, kale: The easy way is to skip potatoes
+  prep (that includes these foods) and either exclude kale from the
+  mixed veggies prep or avoid consuming the kale part of that prep.
+
+* Sauerkraut: This can be done separately from the potatoes, peas,
+  broccoli, kale, or with partial overlap.
+
+* Vegan probiotic yogurt: Only do this after resuming sauerkraut, and
+  if the other eliminations fail.
+
+### Blood tests
+
+Consider getting these tests done if the problem persists, and if I
+haven't gotten the tests done for six months or I have other more
+serious symptoms:
+
+* Complete blood count
+
+* Comprehensive metabolic panel (CMP)
+
+## Best practices for more in-depth investigation
+
+### Advanced tests
+
+Consider getting these advanced tests:
+
+* Urine organic acid
+
+* SIBO breath test
+
+* Phospholipid test
+
+* Microbiome test
