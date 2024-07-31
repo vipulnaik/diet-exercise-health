@@ -19,13 +19,37 @@ work calendar as well.
 
 ## Calendar reminders around the event
 
+## Reminder to probe and be more careful around food consumption starting nine days before the appointment
+
+While the full stoppage should only happen three days befoer the
+appointment (see later) it's important to raise my level of caution
+starting around nine days before the appointment. This elevated
+caution means paying particular attention to the consumption of hot,
+spicy, and acidic foods, and probing around to find any sensitive
+areas in my mouth.
+
 ### Cancellation consideration for three business days before the appointment
 
 There is a $50 charge for cancelling less than three business days
 prior to the appointment, so I should set a calendar reminder to
-consider whether to cancel while I can still do so for free. In
-particular, other related stuff such as vaccines, blood tests, or
-travel plans may come up.
+consider whether to cancel or reschedule while I can still do so for
+free. In particular, other related stuff such as vaccines, blood
+tests, or travel plans may come up.
+
+Some of the things to consider:
+
+* Do I have any kind of injuries in my mouth that I expect to not
+  represent chronic problems but rather temporary injuries?
+  Rescheduling to a week later makes sense in such cases.
+
+* Am I feeling unwell, for instance, digestive issues, minor cold,
+  sniffling, etc.? In such cases, if there is an expected trajectory
+  of getting better, delaying by 1-2 weeks, based on the expected
+  trajectory, would be desirable.
+
+* Look carefully in my calendar for the next few weeks and make sure
+  there's nothing of concern in the two weeks ahead of the dental
+  cleaning appointment.
 
 ### Shopping reminder for two days prior to the appointment
 
