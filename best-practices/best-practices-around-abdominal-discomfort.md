@@ -56,7 +56,7 @@ try.
 
 ### Extra sleep
 
-Follow the guidance in [best practices aroud sleep section "Best
+Follow the guidance in [best practices around sleep section "Best
 practices during health
 issues"](best-practices-around-sleep.md#best-practices-during-health-issues)
 for every night where I experienced abdominal discomfort during the
