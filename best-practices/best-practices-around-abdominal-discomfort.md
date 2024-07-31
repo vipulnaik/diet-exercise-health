@@ -159,7 +159,15 @@ following the previous section's best practices or show no significant
 improvement after 3 weeks of following the previous section's best
 practices.
 
-In these cases, additional steps may be needed.
+In general, for non-acute cases, I should try to avoid starting
+experimentation for at least the first 1 week, as natural recovery may
+be good enough! Between 1 and 2 weeks, it's a bit of a judgment call,
+and in particular, I should experiment with things that, based on
+local clues, seem highly promising. Between 2 and 3 weeks, it's good
+to start experimenting with at least one thing unless I am on a very
+clear recovery trajectory and don't feel like experimenting. After 3
+weeks, I should systematically cycle through the different potential
+experiments.
 
 ### Pain medication experimentation
 
