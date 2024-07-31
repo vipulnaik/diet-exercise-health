@@ -65,6 +65,12 @@ time to go to bed about 1.5 hours earlier than otherwise. The same
 guidance also recommends staying in bed a little extra until the 8.5
 hours are completed.
 
+### Avoid factor X
+
+Factor X may be implicated in my symptoms, though I'm not totally sure
+(I have limited correlational data). Best to avoid it till at least
+two days after I am feeling fine.
+
 ### Extra care with bowel movement
 
 Even if my bowel movement cycle does not appear to be disrupted, I
