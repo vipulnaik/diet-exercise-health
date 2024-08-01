@@ -19,8 +19,8 @@ palpation pain, and rebound tenderness. There was no clear disruption
 to my bowel movement cycle, bowel characteristics, or urine
 characteristics.
 
-The effect on my overall productivity and output was minimal; if
-anything my output was a little higher than usual though that was
+The effect on my overall productivity and output was minimal except to the extent that my increased sleep time reduces my hours o do work; if
+anything my output in the beginning (before I started enforcing more sleep) was a little higher than usual though that was
 probably for unrelated reasons.
 
 The symptoms mostly correlated with each other, so were highest
