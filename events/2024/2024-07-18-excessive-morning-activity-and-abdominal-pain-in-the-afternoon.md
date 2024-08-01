@@ -260,6 +260,18 @@ of discomfort around 9 PM as I settled into sedentary work. The
 sensations continued till before I went to sleep, though there were
 times in between where it didn't feel unpleasant at all.
 
+## Fourteen days later (2024-08-01)
+
+I generally felt reasonably good in the morning, though the discomfort was still present.
+
+These are my notes from the morning, taken shortly before I went jogging:
+
+* Burping: yes (started early on)
+* Rumble: yes (growing to a rumble over time)
+* Flatulence: no
+* Tenesmus: no
+* Pain level: 0, occasionally a 1 (i.e., I noticed it but it didn’t disturb or distract me physically)
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
