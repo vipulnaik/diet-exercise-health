@@ -14,14 +14,17 @@ level of SERIOUS:
 
 * Abdominal heaviness (subjective)
 
-There were no serious symptoms such as bloating, muscle guarding,
-palpation pain, and rebound tenderness. There was no clear disruption
-to my bowel movement cycle, bowel characteristics, or urine
-characteristics.
+There were no serious symptoms such as visible bloating (though my
+symptoms did match some of what might be described as "bloating"),
+muscle guarding, palpation pain, and rebound tenderness. There was no
+clear disruption to my bowel movement cycle, bowel characteristics, or
+urine characteristics.
 
-The effect on my overall productivity and output was minimal except to the extent that my increased sleep time reduces my hours o do work; if
-anything my output in the beginning (before I started enforcing more sleep) was a little higher than usual though that was
-probably for unrelated reasons.
+The effect on my overall productivity and output was minimal except to
+the extent that my increased sleep time reduces my hours o do work; if
+anything my output in the beginning (before I started enforcing more
+sleep) was a little higher than usual though that was probably for
+unrelated reasons.
 
 The symptoms mostly correlated with each other, so were highest
 together and receded together.
@@ -250,7 +253,12 @@ I did two unusual things later in the day:
   out forcefully which might make bleeding worse.
 
 I felt relieved after the bowel movement though not "perfectly fine"
-so I don't think this alone did the trick. I continued to be approximately in this good state till my next meal and then for a couple of hours afterward; however, I had more pronounced sensations of discomfort around 9 PM as I settled into sedentary work. The sensations continued till before I went to sleep, though there were times in between where it didn't feel unpleasant at all.
+so I don't think this alone did the trick. I continued to be
+approximately in this good state till my next meal and then for a
+couple of hours afterward; however, I had more pronounced sensations
+of discomfort around 9 PM as I settled into sedentary work. The
+sensations continued till before I went to sleep, though there were
+times in between where it didn't feel unpleasant at all.
 
 ## Current learnings
 
