@@ -249,10 +249,8 @@ I did two unusual things later in the day:
   that for any low-pressure bowel movements I don't try to push stuff
   out forcefully which might make bleeding worse.
 
-  I felt relieved after the bowel movement though not "perfectly fine"
-  so I don't think this alone did the trick. But at least I now feel
-  about as good as yesterday, I'm curious to see what overall effect
-  it has on my experience for the rest of the day.
+I felt relieved after the bowel movement though not "perfectly fine"
+so I don't think this alone did the trick. I continued to be approximately in this good state till my next meal and then for a couple of hours afterward; however, I had more pronounced sensations of discomfort around 9 PM as I settled into sedentary work. The sensations continued till before I went to sleep, though there were times in between where it didn't feel unpleasant at all.
 
 ## Current learnings
 
