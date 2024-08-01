@@ -48,6 +48,34 @@ As much as possible, try to avoid all of these. For instance:
 * Conversely, if I don't have a lot cooked, try to avoid/skip outside
   trips.
 
+### Foods to avoid after overexertion
+
+My current, not fully validated, theory is that having lots of FODMAPs
+in a post-overexertion state can trigger FODMAP sensitivities. So, the
+following FODMAP-high foods should be avoided for 2-3 days after
+overexertion:
+
+* Sauerkraut (have vegan probiotic yogurt instead)
+
+* Peas (if there is already a prepped dish including peas, try to have
+  the non-pea portions of the dish first; if there isn't a prepped
+  dish yet, consider delaying prep or doing prep without peas)
+
+* Wheat (not sure if it's the FODMAPs or other factors but I do have
+  increased wheat sensitivity at various times).
+
+* Lentils: If I haven't already prepped them, delay the prep. If I
+  have prepped them, try to defer consumption for at least 1 day and
+  maybe 2-3 days after overexertion.
+
+Some foods that currently seem fine (they're low FODMAP) but more
+research is needed: potatoes, kale, broccoli. However, as of
+2024-08-01, in the context of
+[this](https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md),
+I do plan to take a brief break from these foods to allow for faster
+elimination-based recovery, then likely resume them without the peas
+after a few days if I recover well (and likely even if I don't).
+
 ## Best practices after the fact
 
 I should try these best practices for about 2-3 weeks to see if the
@@ -187,6 +215,10 @@ ibuprofen as it can worsen symptoms for some potential causes.
 
 ### Temporary eliminations
 
+NOTE: These are later-stage eliminations that have some overlap with
+the preventive eliminations mentioned in an earlier section. The focus
+here is on foods that I regularly consume.
+
 Try temporary eliminations of these foods. Temporary eliminations
 should be for at least 2 days (preferably at least 3 days) but should
 not be continued more than a week without a diet review:
@@ -200,6 +232,12 @@ not be continued more than a week without a diet review:
 
 * Vegan probiotic yogurt: Only do this after resuming sauerkraut, and
   if the other eliminations fail.
+
+Also avoid having these foods, that I anyway don't regularly consume:
+
+* Lentils
+
+* Wheat
 
 ### Blood tests
 
