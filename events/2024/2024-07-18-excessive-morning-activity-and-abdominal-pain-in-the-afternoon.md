@@ -267,10 +267,18 @@ I generally felt reasonably good in the morning, though the discomfort was still
 These are my notes from the morning, taken shortly before I went jogging:
 
 * Burping: yes (started early on)
-* Rumble: yes (growing to a rumble over time)
+* Rumble: yes and audible (growing to a rumble over time)
 * Flatulence: no
 * Tenesmus: no
-* Pain level: 0, occasionally a 1 (i.e., I noticed it but it didn’t disturb or distract me physically)
+* Pain level: 0, occasionally a 1 (i.e., I noticed it (0) and it was occasionally unpleasant (1) but it didn’t disturb or distract me physically)
+
+Notes taken a little over an hour after my meal:
+
+* Burping: yes (off and on)
+* Rumble: nothing audible
+* Flatulence: occasional, slight
+* Tenesmus: no
+* Pain level: 0 (i.e., I noticed it (0) but didn't rise to the level 1 where it was unpleasant)
 
 ## Current learnings
 
