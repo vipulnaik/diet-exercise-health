@@ -262,6 +262,9 @@ times in between where it didn't feel unpleasant at all.
 
 ## Fourteen days later (2024-08-01)
 
+As for the last few days, I felt a little reflux in my throat when I
+woke up though it wasn't enough to make my voice hoarse.
+
 I generally felt reasonably good in the morning, though the discomfort was still present.
 
 These are my notes from the morning, taken shortly before I went jogging:
@@ -279,6 +282,24 @@ Notes taken a little over an hour after my meal:
 * Flatulence: occasional, slight
 * Tenesmus: no
 * Pain level: 0 (i.e., I noticed it (0) but didn't rise to the level 1 where it was unpleasant)
+
+Overall notes: I consider this my best day among recent days. The
+afternoon/evening were particularly great. The pain level was almost
+always around a 0 and in most cases I wasn't even thinking about
+it. It did spike to a 1 occasionally.
+
+However, even though I think I could "live" with this, I still want to
+try the potatoes/peas/broccoli/kale elimination and will then
+reintroduce potatoes/broccoli/kale after 3 days of abstinence and wait
+about a week before introducing peas or lentils. I'll continue
+consuming the yogurt at an elevated rate for the time being. I do want
+to get to the state of actual good health versus just a zero-pain
+functioning state. My hope is that once I get to the state of actual
+good health I can taper off the yogurt, resume some peas/lentils
+consumption, resume sauerkraut consumption, return to sleeping less,
+and then see if I continue to maintain the good health. With that
+said, I'm still happy to at least have a working level of good health
+that I can sustain / fall back to.
 
 ## Current learnings
 
