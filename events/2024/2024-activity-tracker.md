@@ -397,3 +397,9 @@ didn't have anything there. I took BART both ways.
 After getting down at Ashby BART, I made a trip to Berkeley Bowl for
 food purchases recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Saturday August 3
+
+In the morning, I made a trip to Citibank for financial transactions,
+then went to Trader Joe's for food purchases recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).
