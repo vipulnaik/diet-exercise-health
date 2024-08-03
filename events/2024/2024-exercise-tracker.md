@@ -651,3 +651,13 @@ was in light of the fact that the original trigger appears to have
 been excessive activity. However, I ended up feeling a little worse
 compared to previous days -- not yet sure if that's a good thing
 (reflecting recovery) or a bad thing.
+
+## 2024-08-02: skipping of exercise due to outside trip
+
+On 2024-08-02, I skipped exercise due to an outside trip to San
+Francisco to meet people. As I was meeting them for lunch, I didn't
+want to eat before going, and I didn't want to exercise heavily
+without eating either. So I skipped exercise.
+
+I did a few hand gripper exercises after returning but it was less
+than my full morning set.
