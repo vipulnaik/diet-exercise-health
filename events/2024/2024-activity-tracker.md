@@ -386,3 +386,14 @@ in light of my [recent injury](2024-07-21-finger-injuries.md).
 In the evening, I went to Berkeley Bowl and Walgreens. The Berkley
 Bowl purchases are recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Friday August 2
+
+In the afternoon, I met up with a couple of people for lunch at Kitava
+near the 16th Street / Mission BART, where I had the vegan power
+bowl. After lunch, we went to a coffee shop near Dolores Park, but I
+didn't have anything there. I took BART both ways.
+
+After getting down at Ashby BART, I made a trip to Berkeley Bowl for
+food purchases recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).

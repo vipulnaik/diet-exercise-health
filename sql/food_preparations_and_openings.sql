@@ -261,5 +261,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-07-30 */
   ('2024-07-30','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-07-31','Kite Hill Greek Style Plant-Based Yogurt',1);
+  ('2024-07-31','Kite Hill Greek Style Plant-Based Yogurt',1),
+  ('2024-08-01','TJ Walnuts',1),
+  /* Kitava dine-in */
+  ('2024-08-02','Kitava Power Bowl',1);
   /* Double-check the date before committing */
