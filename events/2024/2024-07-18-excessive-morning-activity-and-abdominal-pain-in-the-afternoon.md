@@ -313,6 +313,17 @@ than the last few days. I was able to suppress these even more while
 hanging out with others, so that I could function well in the
 interaction.
 
+## Sixteen days later (2024-08-03)
+
+Going into the day, there are two factors working against me:
+
+* Less sleep than usual: I got 7 hours of sleep; I went to sleep at
+  12:55 AM and got up around 7:50 AM. This is fine for normal times
+  but less than the extended sleep I've been trying to get these days.
+
+* Factor X applied, though it was different than usual and hopefully
+  less bad than the other occurrences.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
