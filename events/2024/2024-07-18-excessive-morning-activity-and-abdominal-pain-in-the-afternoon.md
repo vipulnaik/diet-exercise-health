@@ -301,6 +301,18 @@ and then see if I continue to maintain the good health. With that
 said, I'm still happy to at least have a working level of good health
 that I can sustain / fall back to.
 
+## Fifteen days later (2024-08-02)
+
+This was an unusual day. I went to San Francisco to meet a couple of
+people in the afternoon. As a result, I skipped exercise in the
+morning.
+
+My pain level was at a 0 through the day. I had minor amounts of
+burping and flatulence -- still more than my healthy state but less
+than the last few days. I was able to suppress these even more while
+hanging out with others, so that I could function well in the
+interaction.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
