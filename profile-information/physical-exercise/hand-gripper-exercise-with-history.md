@@ -27,7 +27,8 @@ something that I can't afford to let go of). However, I might do
 multiple open/closes outside of my daily routine.
 
 These I don't do as part of my regular daily routine, but I might do
-at another time of day:
+sometimes at another time of day (they're hard to do right before or
+after the daily routine due to hand fatigue):
 
 * Right hand on 200 lb: I am far from being able to close. I can do a
   little further than parallel
