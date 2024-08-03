@@ -1,38 +1,39 @@
 # Hand gripper exercise (with history)
 
-## Current protocol and status as of 2024-05-13
+## Current protocol and status as of 2024-08-02
 
-See below:
+I do this sequence every day (or almost every day) in the morning, with the steps in quick succession:
 
-* Right hand on 100 lb: closes comfortably and consistently even after
-  many repetitions; can generally hold in closed position with slight
-  quivers for at least 10 seconds, occasionally up to 20 seconds
+* Right hand on 150 lb: I close and keep closed for about 4-10 seconds.
 
-* Left hand on 100 lb: closes comfortably and consistently even after
-  many repetitions; can generally hold in closed position with slight
-  quivers for at least 10 seconds, occasionally up to 20 seconds
+* Left hand on 150 lb: I close and keep closed for about 4-10 seconds.
 
-* Right hand on 150 lb: closes consistently most of the time, up to at
-  least two repetitions; however, it may not close if I have just done
-  a long hold with the 100 lb, likely due to temporary fatigue; can
-  hold for somewhere between 3 and 5 seconds with slight quivers once
-  closed
+* Right hand on 100 lb: I close and keep closed for about 10-20
+  seconds (generally about 15 seconds); if I were to start with the
+  100 lb instead of doing the 150 lb first, I would be able to do over
+  20 seconds, but then I would not be able to do the 150 lb
+  immediately aferward. That's why I start with the 150 lb.
 
-* Left hand on 150 lb: has closed a few times but most of the time,
-  comes just short of closing
+* Left hand on 100 lb: I close and keep closed for about 10-20
+  seconds (generally about 15 seconds); if I were to start with the
+  100 lb instead of doing the 150 lb first, I would be able to do over
+  20 seconds, but then I would not be able to do the 150 lb
+  immediately aferward. That's why I start with the 150 lb.
 
-* Right hand on 200 lb: I am far from being able to close. I can just
-  about get to parallel.
+I have generally switched away from doing multiple open/closes toward
+doing a close-and-hold. The close-and-hold is harder, but also quicker
+and more representative of a real-world situation (e.g., gripping
+something that I can't afford to let go of). However, I might do
+multiple open/closes outside of my daily routine.
+
+These I don't do as part of my regular daily routine, but I might do
+at another time of day:
+
+* Right hand on 200 lb: I am far from being able to close. I can do a
+  little further than parallel
 
 * Left hand on 200 lb: I am far from being able to close. I can just
   about get to parallel.
-
-The effective frequency may be about 4 to 8 rounds per day.
-
-If I try to force a significant increase in the hand gripper rating,
-number of closes, or duration of holding close, by too much, I get
-calluses in the areas where I'm trying to grip hard. These are pretty
-harmless, but I still need to keep this in mind.
 
 ### Reasons for skipping
 
@@ -48,8 +49,10 @@ harmless, but I still need to keep this in mind.
 
 * **Preemptive break to improve hand appearance**: If there are
   particular reasons I really care about having good hands, I might
-  take a break from the hand gripper (or at least the 150 lb hand
-  gripper).
+  take a break from the hand gripper; however, at this point since I
+  am pretty comfortable with the 100 lb and 150 lb hand grippers, this
+  is not a consideration. It was more of a concern when I was still
+  new to these grippers.
 
 ## History
 
@@ -166,3 +169,27 @@ trying to close it. After a few attempts, I was able to get it to the
 parallel position with each hand individually, but no further. I was
 able to get it to close by wrapping one hand around another for the
 last portion (from parallel to close).
+
+## Update on 2024-08-02
+
+For the last few weeks, I have switched to a practice of doing the 150
+lb hand gripper and then the 100 lb hand gripper every morning, and
+keeping them closed for several seconds.
+
+This is the sequence I have been following:
+
+* Right hand on 150 lb: I close and keep closed for about 4-10 seconds.
+
+* Left hand on 150 lb: I close and keep closed for about 4-10 seconds.
+
+* Right hand on 100 lb: I close and keep closed for about 10-20
+  seconds (generally about 15 seconds); if I were to start with the
+  100 lb instead of doing the 150 lb first, I would be able to do over
+  20 seconds, but then I would not be able to do the 150 lb
+  immediately aferward. That's why I start with the 150 lb.
+
+* Left hand on 100 lb: I close and keep closed for about 10-20
+  seconds (generally about 15 seconds); if I were to start with the
+  100 lb instead of doing the 150 lb first, I would be able to do over
+  20 seconds, but then I would not be able to do the 150 lb
+  immediately aferward. That's why I start with the 150 lb.
