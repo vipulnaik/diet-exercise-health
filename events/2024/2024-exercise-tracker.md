@@ -661,3 +661,14 @@ without eating either. So I skipped exercise.
 
 I did a few hand gripper exercises after returning but it was less
 than my full morning set.
+
+## 2024-08-03: skipped jogging and strength exercises due to need for morning shopping + a bit of fatigue from yesterday
+
+On 2024-08-03, I needed to go shopping, and based on the temperature
+the morning time was best. I decided to skip jogging to make time for
+this (and avoid the fiasco of 2024-07-18). I was also a little
+fatigued from yesterday's trip, so taking a break from jogging and
+strength exercises made sense.
+
+I did do the other exercises: breath holds, hand gripper exercise, and
+standing-on-one-leg-with-eyes-closed.
