@@ -328,6 +328,17 @@ Despite these headwinds, this was my best day in a while. For large
 parts of the day, I had no issues. The occasional pain was mostly at
 level ero where I was aware of it but it didn't distract me.
 
+## Seventeen days later (2024-08-04)
+
+Going into the day, the main factor working against me was that I only
+got 7 hours 40 minutes of sleep, which isn't too little on its own,
+but low considering that the previous day I had only 7 hours of sleep.
+
+Things were great in the morning and until my meal prep and
+eating. However, after eating, I noticed slight abdominal heaviness --
+a 0 rating of pain. I also felt a bit of generalized fatigue and
+tingling.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
