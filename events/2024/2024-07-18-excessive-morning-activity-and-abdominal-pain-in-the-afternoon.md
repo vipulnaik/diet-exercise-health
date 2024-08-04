@@ -324,6 +324,10 @@ Going into the day, there are two factors working against me:
 * Factor X applied, though it was different than usual and hopefully
   less bad than the other occurrences.
 
+Despite these headwinds, this was my best day in a while. For large
+parts of the day, I had no issues. The occasional pain was mostly at
+level ero where I was aware of it but it didn't distract me.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
