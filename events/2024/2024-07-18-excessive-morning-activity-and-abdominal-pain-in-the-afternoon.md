@@ -349,6 +349,19 @@ after a few minutes, as was my plan. However, in hindsight maybe I
 should have tried to strain even less (I tried keeping straining to a
 minimum, but should have aimed for even less).
 
+## Eighteen days later (2024-08-05)
+
+Having gone to sleep aroun 11:15 PM last night, I woke up initially at
+6:47 AM to urinate, then went back to bed and properly got up around
+7:30 AM. I had stronger bowel pressure than usual, so I had to go for
+bowel movement with less buildup time than usual. Retrospectively, I
+feel like some of the ingredients in the Kitava meal (including the
+onions) may have had some unexpected destabilizing effects on my bowel
+movement cycle, though the lesser sleep on Friday and Saturday were
+also likely contributing factors (but I do think the extra work I was
+able to do and the flow I was able to get into due to that made it
+worthwhile).
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
