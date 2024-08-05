@@ -672,3 +672,15 @@ strength exercises made sense.
 
 I did do the other exercises: breath holds, hand gripper exercise, and
 standing-on-one-leg-with-eyes-closed.
+
+## 2024-08-05: skipped jogging in favor of natural exercise
+
+I skipped jogging because I made a trip to the Amazon Hub Locker for
+package pickup in the morning, using up the time and energy that I
+normally reserve for jogging. The package pickup trip did provide a
+decent amount of aerobic and strength exercise, as I had to lug my
+suitcase to the place and then carry it back with the heavy stuff in
+it.
+
+I did my usual breath holds, hand gripper exercise, and
+standing-on-one-leg-with-eyes-closed exercise.
