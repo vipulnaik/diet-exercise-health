@@ -334,10 +334,20 @@ Going into the day, the main factor working against me was that I only
 got 7 hours 40 minutes of sleep, which isn't too little on its own,
 but low considering that the previous day I had only 7 hours of sleep.
 
+I had much less bowel pressure than usual, so I went for bowel
+movement a little later in the day, and it didn't come out that
+quickly, though the overall volume was only slightly less than usual.
+
 Things were great in the morning and until my meal prep and
 eating. However, after eating, I noticed slight abdominal heaviness --
 a 0 rating of pain. I also felt a bit of generalized fatigue and
-tingling.
+tingling. However, for the most part I continued with my work as usual.
+
+Around 6:30 PM I decided to see if I have buildup for a bowel
+movement, so I tried to pass stool, but nothing came out. I gave up
+after a few minutes, as was my plan. However, in hindsight maybe I
+should have tried to strain even less (I tried keeping straining to a
+minimum, but should have aimed for even less).
 
 ## Current learnings
 
