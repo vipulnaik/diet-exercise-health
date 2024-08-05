@@ -351,7 +351,7 @@ minimum, but should have aimed for even less).
 
 ## Eighteen days later (2024-08-05)
 
-Having gone to sleep aroun 11:15 PM last night, I woke up initially at
+Having gone to sleep around 11:15 PM last night, I woke up initially at
 6:47 AM to urinate, then went back to bed and properly got up around
 7:30 AM. I had stronger bowel pressure than usual, so I had to go for
 bowel movement with less buildup time than usual. Retrospectively, I
@@ -361,6 +361,25 @@ movement cycle, though the lesser sleep on Friday and Saturday were
 also likely contributing factors (but I do think the extra work I was
 able to do and the flow I was able to get into due to that made it
 worthwhile).
+
+I had off-and-on zero rating pain in the morning; it was off my mind
+for most of my Amazon package pickup trip but it was there.
+
+I had a more on-my-mind zero rating pain after eating, and the pain
+very occasionally crossed to a 1.
+
+Roughly speaking, I think this was comparable to last Tuesday and not
+as good as last Thursday, but it's difficult to compare very precisely
+(and maybe I psychologically felt better Thursday due to the upward
+trajectory, even though I wasn't materially better on
+Thursday). Definitely, there seems to have been a regression since
+last Saturday. I'm wondering if my stoppage of potatoes prep is
+leading to a protein shortage that is causing other issues,
+considering that I felt pretty much recovered on Saturday. Or if there
+is just some residual effect of the Kitava meal that will die out in a
+day or two so I just need to brave through it. I'll continue observing
+until tomorrow afternoon/evening to figure out if things are getting
+better or worse.
 
 ## Current learnings
 
