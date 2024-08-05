@@ -381,6 +381,11 @@ day or two so I just need to brave through it. I'll continue observing
 until tomorrow afternoon/evening to figure out if things are getting
 better or worse.
 
+I think one way the current symptoms feel a little different than last
+week is that there is a more pronounced sense of fatigue/lethargy,
+though the fatigue/lethargy is not huge in absolute terms, and I'm
+still continuing to do stuff at close to my usual speed and intensity.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
