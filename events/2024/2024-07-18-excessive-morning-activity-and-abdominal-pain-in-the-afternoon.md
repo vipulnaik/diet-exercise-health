@@ -386,6 +386,11 @@ week is that there is a more pronounced sense of fatigue/lethargy,
 though the fatigue/lethargy is not huge in absolute terms, and I'm
 still continuing to do stuff at close to my usual speed and intensity.
 
+After dinner, I got engrossed in the stuff I was doing and overall the
+abdominal discomfort was less salient. It's not clear to me if it
+actually receded or I was just more engrossed in my work and therefore
+thought about it less.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
