@@ -684,3 +684,14 @@ it.
 
 I did my usual breath holds, hand gripper exercise, and
 standing-on-one-leg-with-eyes-closed exercise.
+
+## 2024-08-06: skipped strength exercises
+
+I decided to skip strength exercises today due to a mix of time
+constraints and wanting to avoid exacerbating the pain. Also, since I
+did heavy lifting yesterday for my Amazon package pickup, I think it's
+fine to skip strength exercises.
+
+Normally I wouldn't note skipping strength exercises at the 2-day mark
+(I need to go at least three days without) but I plan to skip tomorrow
+anyway, due to a conflicting appointment.

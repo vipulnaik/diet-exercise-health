@@ -391,6 +391,21 @@ abdominal discomfort was less salient. It's not clear to me if it
 actually receded or I was just more engrossed in my work and therefore
 thought about it less.
 
+## Nineteen days later (2024-08-06)
+
+While mostly feeling better in the morning, I had a couple of concerning things:
+
+* More pain than usual, though less stomach rumble and less burping
+  and flatulence most of the time. But the pain was mild.
+
+* My second breath hold could last only 32 seconds, due to
+  chest/abdominal pain.
+
+I decided to skip strength exercises today due to a mix of time
+constraints and wanting to avoid exacerbating the pain. Also, since I
+did heavy lifting yesterday for my Amazon package pickup, I think it's
+fine to skip strength exercises.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
