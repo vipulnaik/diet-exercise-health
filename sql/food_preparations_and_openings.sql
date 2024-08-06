@@ -280,5 +280,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-04','Beefsteak tomato',6),
   /* Potatoes prep (abridged) 2024-08-05 */
   ('2024-08-05','Gold potatoes 5 lb',0.27),
-  ('2024-08-05','Beefsteak tomato',2);
+  ('2024-08-05','Beefsteak tomato',2),
+  /* Rice prep 2024-08-06 */
+  ('2024-08-06','Lundberg Sustainable California White Basmati Rice',0.8);
   /* Double-check the date before committing */
