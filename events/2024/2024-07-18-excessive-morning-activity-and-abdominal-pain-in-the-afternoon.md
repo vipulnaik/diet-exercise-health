@@ -406,6 +406,13 @@ constraints and wanting to avoid exacerbating the pain. Also, since I
 did heavy lifting yesterday for my Amazon package pickup, I think it's
 fine to skip strength exercises.
 
+Through the day, I'd say that it was a mix of feeling at my worst of
+the past week, while also feeling like the pain has peaked and things
+are gonna get better now. I'm not sure how much my psychology was
+influencing my read of the pain. But I feel intuitively that the
+onions played some role, even though it's now four days since I had
+them.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
