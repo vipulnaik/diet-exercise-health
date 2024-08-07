@@ -692,6 +692,8 @@ constraints and wanting to avoid exacerbating the pain. Also, since I
 did heavy lifting yesterday for my Amazon package pickup, I think it's
 fine to skip strength exercises.
 
-Normally I wouldn't note skipping strength exercises at the 2-day mark
-(I need to go at least three days without) but I plan to skip tomorrow
-anyway, due to a conflicting appointment.
+~~Normally I wouldn't note skipping strength exercises at the 2-day
+mark (I need to go at least three days without) but I plan to skip
+tomorrow anyway, due to a conflicting appointment.~~ I ended up not
+skipping the next day, so I ended up doing strength exercises within
+the 3-day window.
