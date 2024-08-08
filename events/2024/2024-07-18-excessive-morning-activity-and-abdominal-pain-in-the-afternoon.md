@@ -444,6 +444,34 @@ brief regression being the Kitava meal that included onions.
 My plan is to gently resume lentils, peas, and sauerkraut at low doses
 while closely monitoring symptoms.
 
+## Twenty-one days later (2024-08-08)
+
+This day was worse than the previous day, but still overall pretty good.
+
+I had gone to sleep a little later the previous day, due to an evening
+grocery store trip and in general feeling higher-energy. Still, not
+too much later than usual -- I did get into bed around 11:18 PM and go
+to sleep around 11:40 PM.
+
+However, the result of this was that I did not get my target 8.5 hours
+of sleep. I first got out of bed to urinate at around 7 AM, but then
+went back to bed and eventually got out of bed at around 7:25 AM. So
+it was a total of about 7 hours 45 minutes of sleep, which is not too
+bad, but not ideal.
+
+This was also my first time having lentils since the beginning of this
+round of abdominal pain, though I had had peas and onions previously,
+and I think lentils would be lower-FODMAP given my preparation. I
+didn't have a lot.
+
+It was after my first meal that I started feeling clear-cut pain and a
+general dampening of spirits. But I astutely identified the
+possibility of incomplete bowel evacuation in the morning as a
+contributing factor, so about two hours after my meal I went for a
+bowel movement and had a successful one (even though I was not feeling
+a lot of bowel pressure per se). After the bowel movement I was back
+to feeling upbeat, though it still wasn't as good as yesterday.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
