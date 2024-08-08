@@ -68,6 +68,9 @@ overexertion:
   have prepped them, try to defer consumption for at least 1 day and
   maybe 2-3 days after overexertion.
 
+* Onions and garlic (relevant if eating outside food; they are not
+  part of my home diet).
+
 Some foods that currently seem fine (they're low FODMAP) but more
 research is needed: potatoes, kale, broccoli. However, as of
 2024-08-01, in the context of
