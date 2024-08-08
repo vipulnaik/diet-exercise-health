@@ -413,6 +413,37 @@ influencing my read of the pain. But I feel intuitively that the
 onions played some role, even though it's now four days since I had
 them.
 
+## Twenty days later (2024-08-07)
+
+This day seemed to be great, so I think my intuition of the previous
+day being the beginning of a turnaround was correct.
+
+* My breath hold numbers were back to normal. Exercise-wise the only
+  unusual thing is that I couldn't fully close the 150 lb with my left
+  hand (the right hand was fine). I tried a few times later in the day
+  and was only able to close it once. Occasional inability to close
+  the 150 lb with one hand is not unusual, and it may be unrelated to
+  the topic of this document.
+
+* I noticed abdominal issues for a smaller fraction of the day, and
+  most of the time I did, the pain level was a 0 (i.e., not getting in
+  my way).
+
+* I also had way less of burping, flatulence, and stomach rumble
+  through the day (though I had more flatulence in the morning prior
+  to bowel movement).
+
+* I was high on energy and in my general spirits.
+
+I'm currently inclining to the hypothesis that this is a FODMAP issue,
+with the initial trigger being peas and sauerkraut after overexertion
+(these foods are tolerated by me under normal circumstances, but not
+under the overexertion circumstances), and the reason for the recent
+brief regression being the Kitava meal that included onions.
+
+My plan is to gently resume lentils, peas, and sauerkraut at low doses
+while closely monitoring symptoms.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
