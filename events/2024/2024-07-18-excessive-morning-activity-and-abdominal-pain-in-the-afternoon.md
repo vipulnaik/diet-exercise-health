@@ -484,6 +484,44 @@ should limit to one meal and to 1/4 cup in that one meal, and then
 only on the day after that should I ramp up to levels comparable to
 today.
 
+#### An idea regarding lentils preparation (idea at night, execution waiting for a future date)
+
+I follow the practice of soaking lentils overnight, then draining the
+excess water, then adding more water and cooking the lentils. Draining
+the initial excess water is recommended practice for getting rid of
+the FODMAPs that tend to be water-soluble and are therefore likely to
+have moved from the lentils into the water.
+
+However, I don't do an exhaustive draining of water -- I basically
+drain the water that's easily drained but I don't pass it through a
+strainer or equivalent. So my suspicion is that if I were to drain out
+the water more fully -- both after the initial soaking and after the
+subsequent cooking -- the FODMAP content of the lentils would be much
+lower.
+
+I can't go back and change what I did after initial soaking, but I can
+drain out the excess water now to quite an extent (it won't be
+perfect). I might end up losing a few lentils here and there in the
+process, but if overall it allows me to actually consume the lentils
+that's a win.
+
+Other than FODMAP theory, here's another piece of evidence in favor of
+this. For past stuff like peas and onions, the symptoms have appeared
+over an extended period of time and taken even longer to peter out. On
+the other hand, for the lentils consumption, I immediately started
+feeling bad, and then started feeling relief over a period of 1-2
+hours, and this happened for both meals (although I didn't quite get
+back to the level of Wednesday). That kind of rapid pattern of onset
+and recovery seems to be more consistent with liquids than solids,
+since liquids go through the digestive system more quickly, and
+water-soluble stuff therefore also gets removed more quickly.
+
+I think I'll still keep the two-days-feeling-good rule for before I
+resume lentils consumption, but I might do the draining in advance (if
+nothing else it should free up some space in the refrigerator that
+would otherwise not get freed up with my pause of consumption; it will
+also allow for quicker completion once I do resume).
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
