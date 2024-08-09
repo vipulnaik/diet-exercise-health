@@ -472,6 +472,18 @@ bowel movement and had a successful one (even though I was not feeling
 a lot of bowel pressure per se). After the bowel movement I was back
 to feeling upbeat, though it still wasn't as good as yesterday.
 
+I had a little bit (equivalent of about 1/3 of my cup) of lentils with
+my dinner meal. I felt some discomfort for about 1-2 hours after the
+meal, which reduced as time passed by. Based on the characteristics of
+the discomfort, I suspect that the lentils consumption (combined over
+my two meals) was one of the factors, so my current plan is to stay
+off for at least two days of feeling good (at a level comparable to
+Wednesday). This means that the earliest I would resume is Sunday,
+assuming that Friday and Saturday go well. Moreover, when resuming, I
+should limit to one meal and to 1/4 cup in that one meal, and then
+only on the day after that should I ramp up to levels comparable to
+today.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
