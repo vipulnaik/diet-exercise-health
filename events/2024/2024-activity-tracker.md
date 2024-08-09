@@ -414,3 +414,9 @@ Berkeley to pick up a package.
 In the afternoon/evening, I made a trip to Berkeley Bowl and
 Walgreens. The Berkeley Bowl food purchases are recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Friday August 9
+
+In the morning, I made a trip for some tax-related administrative work
+(copying/printing etc.) and also picked up a package from the Amazon
+Hub Locker at ASUC Berkeley.
