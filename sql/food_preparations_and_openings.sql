@@ -286,5 +286,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-08-06','Kite Hill Greek Style Plant-Based Yogurt',1),
   /* Lentils prep 2024-08-07 */
-  ('2024-08-07','TJ Green Lentils',1); /* Soaked 2024-08-07 with intent to cook and start eating the next day */
+  ('2024-08-07','TJ Green Lentils',1), /* Soaked 2024-08-07 with intent to cook and start eating the next day */
+  /* Potatoes prep 2024-08-08 (no peas this time!) */
+  ('2024-08-08','Gold potatoes 5 lb',0.27),
+  ('2024-08-08','TJ Kale',1),
+  ('2024-08-08','TJ Broccoli Florets 12 oz',1),
+  ('2024-08-08','Beefsteak tomato',4),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-08-08','Kite Hill Greek Style Plant-Based Yogurt',1),
+  ('2024-08-08','TJ Miso Ginger Broth',1);
   /* Double-check the date before committing */
