@@ -408,3 +408,9 @@ then went to Trader Joe's for food purchases recorded in
 
 In the morning, I made a trip to the Amazon Hub Locker at ASUC
 Berkeley to pick up a package.
+
+## Thursday August 8
+
+In the afternoon/evening, I made a trip to Berkeley Bowl and
+Walgreens. The Berkeley Bowl food purchases are recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).
