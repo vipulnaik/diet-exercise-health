@@ -522,6 +522,19 @@ nothing else it should free up some space in the refrigerator that
 would otherwise not get freed up with my pause of consumption; it will
 also allow for quicker completion once I do resume).
 
+### Twenty-two days later (2024-08-09)
+
+I had a mostly normal day but the pain was still there, a zero for a
+lot of the day but enough to remind me of its presence. There were,
+however, periods of the day when the pain wasn't there at all though I
+still did feel something in the area indicating that there was some
+heaviness. The pain was highest in the 1-2 hours after meals but it
+wasn't very clearly monotonic. For the most part, the pain also didn't
+get in the way of my spirits and enthusiasm.
+
+Overall, this was better than yesterday for the most part, but not as
+good as last Saturday or Wednesday.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
