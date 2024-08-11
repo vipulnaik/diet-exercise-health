@@ -281,6 +281,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Potatoes prep (abridged) 2024-08-05 */
   ('2024-08-05','Gold potatoes 5 lb',0.27),
   ('2024-08-05','Beefsteak tomato',2),
+  ('2024-08-05','Trader Giotto''s Olive Oil',1), /* date is approximate and reflects that I moved to a new olive oil bottle around this time */
   /* Rice prep 2024-08-06 */
   ('2024-08-06','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle/packet openings as the old ones finished */
@@ -299,5 +300,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-08-09 */
   ('2024-08-09','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-08-10','TJ Walnuts',1);
+  ('2024-08-10','TJ Walnuts',1),
+  ('2024-08-11','Kite Hill Greek Style Plant-Based Yogurt',1);
   /* Double-check the date before committing */
