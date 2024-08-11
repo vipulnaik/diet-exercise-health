@@ -535,6 +535,14 @@ get in the way of my spirits and enthusiasm.
 Overall, this was better than yesterday for the most part, but not as
 good as last Saturday or Wednesday.
 
+### Twenty-three days later (2024-08-10)
+
+I had a mostly normal day. The pain was still there, a zero for a lot
+of the day but still enough to remind me every now and then. Overall,
+my mood was better than yesterday, but not by a *lot*. I'd say that
+this was still not as good of a day as this past Wednesday or the
+previous Saturday, but it seems to be getting there.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
