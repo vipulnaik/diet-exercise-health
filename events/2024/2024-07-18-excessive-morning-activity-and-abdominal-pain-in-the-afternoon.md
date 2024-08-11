@@ -537,11 +537,24 @@ good as last Saturday or Wednesday.
 
 ### Twenty-three days later (2024-08-10)
 
+My bowel movement in the morning was bigger than usual despite me
+sleeping a little less than usual, and it felt like I was getting some
+of the extra stuff out.
+
 I had a mostly normal day. The pain was still there, a zero for a lot
 of the day but still enough to remind me every now and then. Overall,
 my mood was better than yesterday, but not by a *lot*. I'd say that
 this was still not as good of a day as this past Wednesday or the
 previous Saturday, but it seems to be getting there.
+
+### Twenty-four days later (2024-08-11)
+
+Notes taken in the morning: I had slightly less sleep than ideal, but
+this was due to sleeping early and waking up early, so I think my body
+was done with sleep. I also had a satisfying bowel movement. While I
+still experience some pain, it feels more like the pain after the bad
+stuff is out and the body is finally healing. So my guess is that it's
+nervous sensitivity and that it should heal in another day or two.
 
 ## Current learnings
 
