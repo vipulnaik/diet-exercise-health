@@ -556,6 +556,19 @@ still experience some pain, it feels more like the pain after the bad
 stuff is out and the body is finally healing. So my guess is that it's
 nervous sensitivity and that it should heal in another day or two.
 
+Update the next day: I would say my morning description generally
+described the day as a whole. By the afternoon/evening I was pretty
+upbeat, even though there was still some intermittent abdominal
+discomfort.
+
+### Twenty-five days later (2024-08-12)
+
+Notes taken in the morning: I overall had a similar experience as the
+previous morning, though I'd say that on the whole the pain was even
+less early in the morning. However, there was more distinctive
+"stomach rumble" (albeit more below the belly) after I returned from
+jogging and before I had my first meal.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
