@@ -569,6 +569,14 @@ less early in the morning. However, there was more distinctive
 "stomach rumble" (albeit more below the belly) after I returned from
 jogging and before I had my first meal.
 
+Notes taken at night shortly before wrapping up: After my first meal,
+I first more fullness than usual (with some pain), but less "activity"
+than I have felt in the past. The pain was also limited to being below
+the belly. The pain subsided after a couple of hours. There was some
+fullness but not as much pain after the second meal. Overall, my sense
+is that this is similar to last Tuesday (2024-08-06) though the qualia
+are a bit different.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
