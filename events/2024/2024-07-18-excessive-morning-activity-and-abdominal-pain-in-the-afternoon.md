@@ -577,6 +577,49 @@ fullness but not as much pain after the second meal. Overall, my sense
 is that this is similar to last Tuesday (2024-08-06) though the qualia
 are a bit different.
 
+### Twenty-six days later (2024-08-13)
+
+Notes taken in the afternoon/evening about 1.5 hours after finishing
+my first meal: I was woken up at around 6:25 AM by an alert that
+turned out to be non-critical. I did go back to sleep and woke up
+properly a little after 7 AM. Overall, I had a little over 8 hours of
+sleep (I had gone to sleep around 11 PM) but the unplanned
+interruption may have slightly disrupted me.
+
+I overall had a similar qualititative feel as
+yesterday, with the pain limited to being below the belly, and being a
+more persistent though lighter-grade pain. I skipped jogging and
+instead did an administrative trip, that was less intensive but
+longer. After coming back, I continued with admin work so delayed my
+first meal.
+
+Around 1:30 PM, I decided to try a second bowel movement to see if it
+would help me. I did have a small bowel movement and felt better after
+that. I then had my meal that I really enjoyed, more than I've been
+enjoying meals so far.
+
+Unlike yesterday, I did not have an increase in pain after eating,
+which might be due to the second bowel movement. However, the pain did
+not subside entirely either.
+
+Despite the continuation of the pain, in some ways I felt much better
+and more optimistic, which might be by GI system telling my mind that
+things are getting back to normal, or it could be my mind
+hallucinating.
+
+The symptoms do seem to resemble cramps that could be a result of the
+"die-off" of the bad bacteria. See for instance
+[here](https://gutpowerdrinks.com/blogs/blog/sibo-die-off-symptoms)
+though that is about SIBO whereas at this point I think I just have
+dysbiosis which affects the large intestine, as opposed to SIBO that
+also affects the small intestine. But I think the general idea should
+apply.
+
+The thing that's different from last time is that I've now had this
+"die-off" type symptoms for two days, whereas last time those symptoms
+had lasted just one day (Tuesday 2024-08-06) and the next day
+(Wednesday 2024-08-07) had been kinda great.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
