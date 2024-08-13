@@ -420,3 +420,10 @@ Walgreens. The Berkeley Bowl food purchases are recorded in
 In the morning, I made a trip for some tax-related administrative work
 (copying/printing etc.) and also picked up a package from the Amazon
 Hub Locker at ASUC Berkeley.
+
+## Tuesday August 13
+
+In the morning, I made a trip for some tax-related administrative work
+(copying/printing etc.) and then stopped by at Berkeley Bowl for food
+purchases recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).
