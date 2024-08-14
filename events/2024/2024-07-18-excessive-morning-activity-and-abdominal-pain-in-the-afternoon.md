@@ -620,6 +620,28 @@ The thing that's different from last time is that I've now had this
 had lasted just one day (Tuesday 2024-08-06) and the next day
 (Wednesday 2024-08-07) had been kinda great.
 
+Notes taken for the evening (entered the next morning): Things kinda
+remained about the same, but my mood improved even further in the
+evening.
+
+### Twenty-seven days later (2024-08-14)
+
+Notes taken in the morning: I had a sharp increase in the pain briefly
+in the first hour or so of trying to sleep on the night of 2024-08-13,
+but the increase in pain actually improved my spirits because I feel
+like it reflects progress. The pain stayed below the belly and shifted
+around a little bit, but was tolerable.
+
+When I woke up in the morning, after a little while I had a strong
+urge for bowel movement (stronger than usual) and the movement
+happened a bit more quickly than usual. After bowel movement, I felt
+relatively good. I still feel a bit more sensation below the belly but
+it's more like fatigue than pain, and more like a gentle lightness
+than cramping. I did, however, notice some burping so there's a risk
+things are going in circles, but I'm cautiously optimistic.
+
+I'm skipping exercise today to help with this stage of healing.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
