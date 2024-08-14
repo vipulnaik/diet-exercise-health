@@ -56,7 +56,7 @@ water.
   inflamed esophagus. Walnuts should be avoided for about 48 hours
   after a fast or after last-experienced soreness.
 
-  NOTE: Don't resume in the same meal as resuming walnuts, so as to be
+  NOTE: Don't resume in the same meal as resuming sauerkraut, so as to be
   able to isolate any adverse effects of resuming. Stagger the
   resumption into separate meals.
 
