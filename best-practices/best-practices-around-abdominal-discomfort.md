@@ -66,18 +66,15 @@ overexertion:
 
 * Lentils: If I haven't already prepped them, delay the prep. If I
   have prepped them, try to defer consumption for at least 1 day and
-  maybe 2-3 days after overexertion.
+  maybe 2-3 days after overexertion. Also, where possible, prep a
+  small quantity so that if it doesn't agree with me I can throw the
+  rest out.
 
 * Onions and garlic (relevant if eating outside food; they are not
   part of my home diet).
 
 Some foods that currently seem fine (they're low FODMAP) but more
-research is needed: potatoes, kale, broccoli. However, as of
-2024-08-01, in the context of
-[this](https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md),
-I do plan to take a brief break from these foods to allow for faster
-elimination-based recovery, then likely resume them without the peas
-after a few days if I recover well (and likely even if I don't).
+research is needed: potatoes, kale, broccoli.
 
 ## Best practices after the fact
 
@@ -162,9 +159,13 @@ two while I recover.
 
 ### Exercise
 
-If the abdominal pain is continuous and makes me feel like I don't
-want to exercise, skip exercise. This should be okay for at least 3-4
-days; beyond that it may make sense to try some exercise.
+Skip exercise if any of these are true:
+
+* The pain has a "cramping" quality to it
+
+* I don't feel like exercsing
+
+* The pain is continuous (rather than intermittent)
 
 However, if the abdominal pain is intermittent and I still feel like
 exercising, then still exercise. Exercise can help with motility and
@@ -179,6 +180,16 @@ something like jogging.
 
 Also, potentially skip exercise if I am getting natural exercise on
 the day, even if under normal circumstances I would have done both.
+
+Also keep in mind the following:
+
+* Breath holds: If I notice abdominal pain sharpening after my first
+  breath hold, consider skipping the second breath hold or do it only
+  up to the control pause (rather than trying the max pause).
+
+* Hand gripper exercise: Only do the ones I can comfortably close
+  (currently 100 lb and 150 lb). Don't do the 200 lb as the effort to
+  try to close it can worsen abdominal pain.
 
 ## Best practices for acute or persistent cases
 
