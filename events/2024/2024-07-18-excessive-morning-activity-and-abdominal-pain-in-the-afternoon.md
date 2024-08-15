@@ -416,8 +416,9 @@ A few other complications:
   all of which can be heavy on the stomach. But it was my typical meal
   -- nothing unusual.
 
-* In the previous days, I had experienced some stomach discomfort due
-  to excess lemon consumption and the consumption of lentils.
+* In the previous days, I had experienced intermittent (not
+  persistent) abdominal discomfort due to excess lemon consumption and
+  the consumption of lentils.
 
 The heaviness didn't get to a distracting level of pain, and I had my
 second meal without incident a litle after 6 PM.
