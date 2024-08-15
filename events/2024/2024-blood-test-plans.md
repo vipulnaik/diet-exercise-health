@@ -23,7 +23,7 @@ My last HbA1c test, in June 2021, came back pretty good at 5.0%. So,
 this followup test is mostly just in light of the need to continue to
 monitor this due to family diabetic tendencies.
 
-I have continue to maintain a diet low in direct sugar content, with
+I have continued to maintain a diet low in direct sugar content, with
 most of my sugars coming through their natural occurrence in my
 vegetables, so I do not expect my HbA1c to have deteriorated
 significantly. But with a three-year gap it's good to get another
