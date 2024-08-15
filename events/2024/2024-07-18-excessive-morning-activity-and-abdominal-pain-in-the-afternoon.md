@@ -18,10 +18,12 @@ the course of 4 weeks. However, these are my overall impressions:
 
 * Around the week of 2024-08-12, the pain had shifted to being more
   cramp-like and limited to below the belly button, i.e., lower
-  abdominal pain, and having more brief acute manifestations. I also
-  experienced a bit more pelvic pain though that pain was well within
-  normal bounds (where I would not even bother to investigate it if it
-  occurred on its own).
+  abdominal pain, and having more brief acute manifestations. It is
+  almost always in the middle, with very occasional shifting to the
+  right. I also experienced a bit more pelvic pain (usually on the
+  right side pelvis) though that pain was well within normal bounds
+  (where I would not even bother to investigate it if it occurred on
+  its own).
 
 ### Pain symptoms that I did not have
 
