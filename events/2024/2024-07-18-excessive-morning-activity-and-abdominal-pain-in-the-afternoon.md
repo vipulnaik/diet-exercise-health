@@ -642,6 +642,34 @@ things are going in circles, but I'm cautiously optimistic.
 
 I'm skipping exercise today to help with this stage of healing.
 
+Notes taken in the evening before my second meal: Remarkably, I was
+able to carry out a conversation with work colleagues for over 4
+hours, without being much distracted by the pain, and without needing
+to go urinate. I was not feeling totally okay before the conversation,
+so I suspect that part of it was the sympathetic activation induced by
+the conversation, but it's still remarkable because for a similar
+conversation 3 weeks ago, I had been feeling uneasy within an hour of
+conversation (with that said, another conversation the next day that
+lasted 2 hours proceeded great).
+
+The conversation ended up delaying my first meal quite a bit.
+
+After the conversation, my situation was roughly like this:
+
+* Discomfort sensations were limited to being below the belly.
+
+* Pain was off and on, generally a zero when it was on.
+
+* Even when I wasn't feeling pain, I did notice some unusualness in
+  the area.
+
+* There wasn't much flatulence.
+
+My mood was pretty good overall, like yesterday.
+
+It's not totally clear if I am making progress, but at least I don't
+seem to be slipping backward.
+
 ## Current learnings
 
 I've been updating [best practices around abdominal
