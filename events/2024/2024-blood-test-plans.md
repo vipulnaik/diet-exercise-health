@@ -39,7 +39,7 @@ than desired. The triglyceride:HDL ratio was also concerning. Given
 these considerations, and family diabetic tendencies, it seems
 worthwhile to get a lipid panel done. I do expect that my diet,
 exercise, and stress level changes since then have been for the
-better, but general age-related deterioration pushse in the other
+better, but general age-related deterioration pushes in the other
 direction.
 
 ### Omega-3: followup measurement to test the success of supplementation and dietary changes
