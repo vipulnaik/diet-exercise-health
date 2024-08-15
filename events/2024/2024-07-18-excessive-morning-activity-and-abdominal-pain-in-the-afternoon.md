@@ -495,7 +495,7 @@ There is no easy treat-to-test option, but a few possibilities:
   instance
   [here](https://www.reddit.com/r/SIBO/comments/wcuxyz/made_a_video_about_my_sibo_experience_and_full/).
 
-### Butyrate depletion?
+#### Butyrate depletion?
 
 See
 [this](https://www.lucymailing.com/the-oxygen-gut-dysbiosis-connection/)
@@ -535,13 +535,13 @@ risks:
   available from various third-party sellers off of Amazon; see
   [here](https://www.youtube.com/watch?v=Ok5Xxo4ho7A) for instance.
 
-### Glutamine depletion?
+#### Glutamine depletion?
 
 Glutamine could be another thing as it helps with muscle recovery and
 is included in digestive support in general. I am not very familiar
 with it.
 
-### Nutrient deficiency
+#### Nutrient deficiency
 
 I already take supplements for important nutrients missing from a
 vegan diet, such as Vitamin D, B12, omega-3, calcium/magnesium/zinc. I
@@ -567,14 +567,14 @@ There are other possibilities though:
 
 * Magnesium: Already in my supplements, but is there interference?
 
-### FODMAP sensitivity
+#### FODMAP sensitivity
 
 I did notice reduced flatulence after stopping peas, increased
 flatulence when I tried lentils, and more flatulence following onion
 consumption. This suggests some FODMAP sensitivity, but this is just a
 symptom and not a cause.
 
-### Digestive enzyme deficiency
+#### Digestive enzyme deficiency
 
 Some of this overlaps with nutrient deficiency, but some of it could
 be the body making fewer digestive enzymes. Or, there could be enzymes
