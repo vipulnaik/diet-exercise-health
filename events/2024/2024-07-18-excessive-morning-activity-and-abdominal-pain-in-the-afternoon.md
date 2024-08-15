@@ -3,8 +3,7 @@
 ## Summary of symptoms and experience so far (summary last updated 2024-08-15, at around 4 weeks later)
 
 Overall, this is a case of intermittent abdominal pain, along with
-other symptoms that fall in the LEGIT category but don't rise to the
-level of SERIOUS.
+other symptoms.
 
 ### Pain symptoms
 
@@ -19,7 +18,10 @@ the course of 4 weeks. However, these are my overall impressions:
 
 * Around the week of 2024-08-12, the pain had shifted to being more
   cramp-like and limited to below the belly button, i.e., lower
-  abdominal pain, and having more brief acute manifestations.
+  abdominal pain, and having more brief acute manifestations. I also
+  experienced a bit more pelvic pain though that pain was well within
+  normal bounds (where I would not even bother to investigate it if it
+  occurred on its own).
 
 ### Pain symptoms that I did not have
 
