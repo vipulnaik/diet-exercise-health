@@ -626,7 +626,9 @@ evening.
 
 ### Twenty-seven days later (2024-08-14)
 
-Notes taken in the morning: I had a sharp increase in the pain briefly
+#### Notes taken in the morning
+
+I had a sharp increase in the pain briefly
 in the first hour or so of trying to sleep on the night of 2024-08-13,
 but the increase in pain actually improved my spirits because I feel
 like it reflects progress. The pain stayed below the belly and shifted
@@ -642,15 +644,16 @@ things are going in circles, but I'm cautiously optimistic.
 
 I'm skipping exercise today to help with this stage of healing.
 
-Notes taken in the evening before my second meal: Remarkably, I was
-able to carry out a conversation with work colleagues for over 4
-hours, without being much distracted by the pain, and without needing
-to go urinate. I was not feeling totally okay before the conversation,
-so I suspect that part of it was the sympathetic activation induced by
-the conversation, but it's still remarkable because for a similar
-conversation 3 weeks ago, I had been feeling uneasy within an hour of
-conversation (with that said, another conversation the next day that
-lasted 2 hours proceeded great).
+#### Notes taken in the evening before my second meal
+
+Remarkably, I was able to carry out a conversation with work
+colleagues for over 4 hours, without being much distracted by the
+pain, and without needing to go urinate. I was not feeling totally
+okay before the conversation, so I suspect that part of it was the
+sympathetic activation induced by the conversation, but it's still
+remarkable because for a similar conversation 3 weeks ago, I had been
+feeling uneasy within an hour of conversation (with that said, another
+conversation the next day that lasted 2 hours proceeded great).
 
 The conversation ended up delaying my first meal quite a bit.
 
@@ -669,6 +672,13 @@ My mood was pretty good overall, like yesterday.
 
 It's not totally clear if I am making progress, but at least I don't
 seem to be slipping backward.
+
+#### Notes taken at night (around 10:20 PM)
+
+I'm contining to experience the pain in the form of cramping-like
+stuff, as a dull continuing pain, but most of the time it's not
+salient to me. I was able to make reasonable progress on a mix of
+mechanical and intellectual tasks.
 
 ## Current learnings
 
