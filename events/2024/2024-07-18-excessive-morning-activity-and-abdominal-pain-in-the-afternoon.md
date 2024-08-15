@@ -415,7 +415,7 @@ from lentils in general, but it was not different from usual.
 I didn't have a lot of peas on 2024-07-18, but might have had more
 than I should have, considering the significant overexertion.
 
-### Lemon use over the past few days
+#### Lemon use over the past few days
 
 I had been using up a lemon starting 2024-06-16 in small quantities,
 and put the lemon in my lentils on 2024-07-14. It could be that the
