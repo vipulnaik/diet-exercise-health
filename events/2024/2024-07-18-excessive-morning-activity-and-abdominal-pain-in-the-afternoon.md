@@ -1,5 +1,18 @@
 # 2024-07-18: excessive morning activity and abdominal pain in the afternoon
 
+## General evolution
+
+* Symptoms of reflux have gone down over time (burping, susceptibility
+  to getting / long recover time from mouth injuries.
+
+* Flatulence seems to have dropped around the week of 2024-08-12.
+
+* The locus of the pain seems to have shifted and is clearly below the
+  belly button as of 2024-08-12.
+
+* Frequency of good days may have increased over time, but on the
+  other hand acuteness of pain may also have increased.
+
 ## Summary of symptoms and experience so far (summary last updated 2024-08-15, at around 4 weeks later)
 
 Overall, this is a case of intermittent abdominal pain, along with
@@ -47,22 +60,6 @@ I did **not** have any of these:
 * Guarding: I did not have any reflex against self-palpation, even
   when I did so at times that the pain was highest.
 
-### Non-pain "tangible" symptoms that were present
-
-* More burping than usual (LEGIT): The burping seemed to reduce quite
-  a bit toward the later period, around 2024-08-12.
-
-* Occasional flatulence, generally very small amounts (LEGIT): The
-  flatulence did not have a particularly bad smell. The level of
-  flatulence also dropped around the week of 2024-08-12.
-
-* Audible abdominal activity in some mornings (LEGIT): This again
-  dropped quite a bit around the week of 2024-08-12.
-
-* For the first two weeks or so, off-and-on symptoms of some reflux,
-  such as slight throat soreness, slower healing time from / greater
-  propensity for mouth injuries.
-
 ### Things that help with pain relief (timing-wise)
 
 * For the most part (excluding occasional spikes of pain) pain seems
@@ -79,6 +76,31 @@ I did **not** have any of these:
 
 * I did not get consistent patterns regarding the relationship with
   time of day etc.
+
+### Non-pain "tangible" symptoms that were present
+
+* More burping than usual (LEGIT): The burping seemed to reduce quite
+  a bit toward the later period, around 2024-08-12.
+
+* Occasional flatulence, generally very small amounts (LEGIT): The
+  flatulence did not have a particularly bad smell. The level of
+  flatulence also dropped around the week of 2024-08-12.
+
+* Audible abdominal activity in some mornings (LEGIT): This again
+  dropped quite a bit around the week of 2024-08-12.
+
+* For the first two weeks or so, off-and-on symptoms of some reflux,
+  such as slight throat soreness, slower healing time from / greater
+  propensity for mouth injuries.
+
+### Other semi-tangible symptoms
+
+I have occasionally, during high heat when I sweat a lot, sensed an
+"onion smell" / "peas smell". This doesn't necessarily correlate with
+the pain itself (the smell may have been more pronounced on my best
+days, though I'm not too sure). As it's difficult to be sure of
+smells, I don't count this quite as a tangible thing. But it might be
+suggestive of particular theories, as discussed later.
 
 ### Wellness fluctuation over time
 
@@ -361,6 +383,206 @@ more to something of the cramping flavor, I noticed something I had
 noticed in my last round of abdominal pain (starting 2024-04-25) --
 getting excited about something very quickly would increase my
 pain. This in turn made me more cautious mood-wise.
+
+## Theories of causes and exacerbating factors
+
+### Potential triggers: things that were happening shortly before the abdominal pain
+
+#### Likely immediate cause: overexertion
+
+Chronology suggests that overexertion was the likely immediate
+cause. The TL;DR is that I ran 1.7 miles and walked another 3.3 miles
+(approximately) all before eating anything, and I delayed eating for
+quite a bit, and was also in a call while eating.
+
+The problem is that I can't find a clear mechanism for how
+overexertion at this level can create lasting damage.
+
+So it's possible that this was the trigger that made me susceptible to
+something else that was the actual cause. More in the theories
+section.
+
+#### Lentils consumption
+
+I prepped lentils on 2024-07-13 / 2024-07-14 and started eating them
+on 2024-07-14. I don't have a clear record of when I finished them,
+but I think they were either fully finished, or close to it, by
+2024-07-18. I had noticed a bit of intermittent discomfort / flatuence
+from lentils in general, but it was not different from usual.
+
+#### Peas consumption on 2024-07-18
+
+I didn't have a lot of peas on 2024-07-18, but might have had more
+than I should have, considering the significant overexertion.
+
+### Lemon use over the past few days
+
+I had been using up a lemon starting 2024-06-16 in small quantities,
+and put the lemon in my lentils on 2024-07-14. It could be that the
+combination of lemon and lentils somehow caused an issue. I didn't
+immediately throw the lemon piece away on 2024-07-18, instead just
+transferring it to the next food and then the food after that, and
+getting some lemon juice from it without directly consuming the lemon
+piece itself.
+
+### Background factors / potential root causes
+
+#### Small intestinal bacterial overgrowth (SIBO) / intestinal methanogen overgrowth (IMO) etc.
+
+SIBO means more bacteria than desired in the small intestine, due to a
+few pathogenic species dominating.
+
+There are a few related conditions:
+
+* Hydrogen-dominant SIBO: This is the base SIBO and means that my
+  small intestine has too many pathogens.
+
+* Hydrogen sulfide (H2S)-dominant SIBO: This is generally a followup
+  to hydrogen-dominance and is generally accompanies by diarrhea (it
+  is the common reason for IBS-D).
+
+* Methane-dominant SIBO, now known as IMO: This is generally
+  accompanied by constipation (it is the common reason for
+  IBS-C). Unlie the other SIBO cases, methanogens are archaea that
+  simultaneously colonize the small and large intestine in excess.
+
+Do I have SIBO / IMO? Right now I am inclined against. Here are some
+of the considerations:
+
+* The pain being local to below the belly button is some evidence
+  against SIBO / IMO, given the location of the small intestine, but
+  it could still be consistent with having had IMO (which covers both
+  small and large intestine) and recovering gradually so that only one
+  part of the area is left.
+
+* I don't have clear symptoms of constipation or diarrhea, just
+  abdominal pain. So it's not consistent with H2S-dominant SIBO or
+  IMO. More generally, I would have expected that an effect on the
+  small intestine would more clearly show up in effects on bowel
+  movement, digestion, and absorption, and so far I have not seen such
+  effects.
+
+* To the extent I do have leanings, it's toward constipation, which
+  would suggest IMO. But, the "onion smell" would suggest H2S-dominant
+  SIBO.
+
+* According to Mark Pimentel's lab (e.g., [this
+  video](https://www.youtube.com/watch?v=A36Xbdxe8P0)), which leads
+  the world in SIBO / IMO research, SIBO / IMO start with an incident
+  of food poisoning from CdtB, where the antibody ends up being an
+  antibody to vinculin as well, which in turn has the downstream
+  effect. I do not have any clear incident of food poisoning in the
+  last few years to which this can be traced.
+
+To test, I could do:
+
+* The $349 TrioSmart breath test, which is doctor-ordered so I'll need
+  a doctor to order it, so the effective cost would be much higher.
+
+* The $249 FoodMarble Aire device, which seems to be way less reliable
+  but can give multiple real-time readings and doesn't need a doctor's
+  order.
+
+There is no easy treat-to-test option, but a few possibilities:
+
+* The antibiotics to treat (rifaximin + others based on the type of
+  SIBO/IMO) require prescription and the prescription in turn reqires
+  the TrioSmart breath test. Antibiotics in any case should not just
+  be tried as a treat-to-test given the complication. So this is not
+  an option that can be tried out before a test.
+
+* Artichoke has cured the motility issues with people's SIBO; see for
+  instance
+  [here](https://www.reddit.com/r/SIBO/comments/wcuxyz/made_a_video_about_my_sibo_experience_and_full/).
+
+### Butyrate depletion?
+
+See
+[this](https://www.lucymailing.com/the-oxygen-gut-dysbiosis-connection/)
+for instance. It says how there's a positive feedback loop (in a bad
+way) where facultative anaerobes, many of them pathogenic, can take
+over the large intestine as butyrate production falls, and lactate and
+oxygen rise. See also
+[here](https://www.youtube.com/watch?v=5CBlVFLXuIE).
+
+Research on the exercise-butyrate connection is recent and
+preliminary, but there do seem indications that moderate exercise
+helps and heavy exercise hurts butyrate. I think lactate buildup is
+one theoretical explanation.
+
+Butyrate depletion theory seems to make sense in these ways:
+
+* As a thin person, I probably have fewer body reserves of butyrate,
+  so potentially I might be more susceptible?
+
+* It can tie in with overexertion.
+
+* It is local to the large intestine which feels more consistent with
+  my symptoms.
+
+It can be tested as follows:
+
+* Stool test from some of the more niche testing companies include
+  butyrate.
+
+There are treat-to-test options that might be easier in terms of cost
+and time than getting a test, though I have to be careful of the
+risks:
+
+* Butyrate supplements are available off of Amazon.
+
+* Akkermansia is a probiotic that helps build back butyrate; this is
+  available from various third-party sellers off of Amazon; see
+  [here](https://www.youtube.com/watch?v=Ok5Xxo4ho7A) for instance.
+
+### Glutamine depletion?
+
+Glutamine could be another thing as it helps with muscle recovery and
+is included in digestive support in general. I am not very familiar
+with it.
+
+### Nutrient deficiency
+
+I already take supplements for important nutrients missing from a
+vegan diet, such as Vitamin D, B12, omega-3, calcium/magnesium/zinc. I
+take occasional Vitamin B complex supplements, though I expect my
+dietary intake to be close to sufficient.
+
+There are other possibilities though:
+
+* Potassium: My 31-day moving average of consumption is a little below
+  the 3400 mg daily minimum (but not that much below!). I think a
+  comprehensive metabolic panel could rule that out. When I got one in
+  April, I was fine on potassium, but my diet patterns have changed
+  since then.
+
+* Sodium: My 31-day moving average of consumption, excluding added
+  table salt that is hard to quantify, is less than the daily
+  recommended minimum, but I think my added table salt probably makes
+  up the difference. A comprehensive metabolic panel could rule that
+  out.
+
+* Copper: A copper/magnesium/zinc panel could help check this. I think
+  I have enough dietary copper though.
+
+* Magnesium: Already in my supplements, but is there interference?
+
+### FODMAP sensitivity
+
+I did notice reduced flatulence after stopping peas, increased
+flatulence when I tried lentils, and more flatulence following onion
+consumption. This suggests some FODMAP sensitivity, but this is just a
+symptom and not a cause.
+
+### Digestive enzyme deficiency
+
+Some of this overlaps with nutrient deficiency, but some of it could
+be the body making fewer digestive enzymes. Or, there could be enzymes
+that the body doesn't make but that taking them would help with some
+symptoms by preventing undigested food from reaching the large
+intestine (e.g., cellulase digests cellulose).
+
+I did get tested for lipase last time and it did come out to be normal.
 
 ## Beginning of the story: the night before and the day of (2024-07-18)
 
