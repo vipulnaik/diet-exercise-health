@@ -144,7 +144,7 @@ consumption.
 
 * I paused peas consumption after 2024-08-03, out of a suspicion that
   peas were causing some of the flatulence symptoms. The flatulence
-  part did go down after that (makign a brief return with the attempt
+  part did go down after that (making a brief return with the attempt
   to have lentils) so this might have worked. But, I was seeing
   overall improvements from 2024-07-31 to 2024-08-03 before I stopped
   peas, and the picture reversed after that. So it's not clear if
