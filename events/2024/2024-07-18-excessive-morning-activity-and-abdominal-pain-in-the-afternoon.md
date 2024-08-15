@@ -213,6 +213,22 @@ I usually have:
     it wasn't as complete a sense of satisfaction as I am used to
     historically.
 
+### Relationship with posture (lying down, sitting, standing, walking)
+
+In general, I probably experience more pain when sitting, but it's not
+clear to me how much of that is just a result of spending more time
+sitting. I don't know if the proportion of my time sitting where I
+have pain is higher. But that might indeed be the case.
+
+Anecdotally, I have noticed an increase in pain sometimes when going
+from standing / gently moving around (e.g., washing dishes) to
+sitting. I've rarely noticed an increase the other way around (getting
+up from sitting).
+
+While I haven't experienced an increase in pain lying down, this might
+be partly because I go lie down at night after having a bath which
+might have a relaxing effect.
+
 ### Relationship with exercise
 
 For the most part, I did not see a clear relationship with exercise,
@@ -258,7 +274,7 @@ observations makes that part less valuable than the pulse
 oximeter. The blood pressure readings are roughly similar to what they
 were before.
 
-### Sleep
+### Sleep patterns and relationship between sleep and pain
 
 I've been trying to follow the practice of getting into bed about 8.5
 hours before my expected waking-up time. However, I have not always
@@ -284,6 +300,18 @@ deliberate efforts on my part to sleep in a bit more and partly
 because my body does need a bit more sleep. The general mix of
 motivations for getting out of bed is pretty similar to what it used
 to be.
+
+Overall, I have weak anecdotal evidence that sleeping at the low end
+of the range can cause more pain, but on the other hand one of my best
+days (2024-08-03) was after just 7 hours of sleep, so I'm not too
+sure.
+
+### Relationship with temperature
+
+It looks like heat can exacerbate my overall sense of discomfort, and
+make me notice the pain a bit more. I haven't seen clear evidence that
+heat (within the range I am exposed to) meaningfully affects the
+amount of pain.
 
 ### Productivity impact
 
