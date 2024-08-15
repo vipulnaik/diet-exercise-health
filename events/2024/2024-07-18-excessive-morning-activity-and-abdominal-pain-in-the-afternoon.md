@@ -1,35 +1,338 @@
 # 2024-07-18: excessive morning activity and abdominal pain in the afternoon
 
-## Summary of symptoms
+## Summary of symptoms and experience so far (summary last updated 2024-08-15, at around 4 weeks later)
 
-Overall, this was a case of intermittent abdominal pain, along with
+Overall, this is a case of intermittent abdominal pain, along with
 other symptoms that fall in the LEGIT category but don't rise to the
-level of SERIOUS:
+level of SERIOUS.
 
-* More burping than usual (LEGIT)
+### Pain symptoms
 
-* Occasional flatulence, generally very small amounts (LEGIT)
+Pain is very subjective, so it is hard to chalk its trajectory over
+the course of 4 weeks. However, these are my overall impressions:
 
-* Audible abdominal activity in some mornings (LEGIT)
+* Generally speaking, the pain has been intermittent, ranging from a 0
+  to a 2. Even when it is absent, I still feel some unusual sense in
+  the area when I probe it.
 
-* Abdominal heaviness (subjective)
+* The initial pain was more diffuse and not very acute.
 
-There were no serious symptoms such as visible bloating (though my
-symptoms did match some of what might be described as "bloating"),
-muscle guarding, palpation pain, and rebound tenderness. There was no
-clear disruption to my bowel movement cycle, bowel characteristics, or
-urine characteristics.
+* Around the week of 2024-08-12, the pain had shifted to being more
+  cramp-like and limited to below the belly button, i.e., lower
+  abdominal pain, and having more brief acute manifestations.
 
-The effect on my overall productivity and output was minimal except to
-the extent that my increased sleep time reduces my hours o do work; if
-anything my output in the beginning (before I started enforcing more
-sleep) was a little higher than usual though that was probably for
-unrelated reasons.
+### Pain symptoms that I did not have
 
-The symptoms mostly correlated with each other, so were highest
-together and receded together.
+I did **not** have any of these:
 
-## Background from the previous night
+* Visible bloating: I have regularly checked for visible bloating
+  after eating and at other times, and have not seen it ever.
+
+* Significant increase in pain on palpation: When pressing different
+  areas of the abdomen, including the areas where I was subjectively
+  feeling pain, I did not notice an increase in pain except a very
+  slight increase at significant pressing. There was no sharp increase
+  in pain. When I did this in front of a mirror, I never saw
+  involuntary gasps of pain.
+
+* Rebound tenderness: Similar to the above, I did not notice any sharp
+  pain when releasing after palpation.
+
+* Hardness: My abdomen felt comparably soft to the usual.
+
+* Guarding: I did not have any reflex against self-palpation, even
+  when I did so at times that the pain was highest.
+
+### Non-pain "tangible" symptoms that were present
+
+* More burping than usual (LEGIT): The burping seemed to reduce quite
+  a bit toward the later period, around 2024-08-12.
+
+* Occasional flatulence, generally very small amounts (LEGIT): The
+  flatulence did not have a particularly bad smell. The level of
+  flatulence also dropped around the week of 2024-08-12.
+
+* Audible abdominal activity in some mornings (LEGIT): This again
+  dropped quite a bit around the week of 2024-08-12.
+
+* For the first two weeks or so, off-and-on symptoms of some reflux,
+  such as slight throat soreness, slower healing time from / greater
+  propensity for mouth injuries.
+
+### Things that help with pain relief (timing-wise)
+
+* For the most part (excluding occasional spikes of pain) pain seems
+  to reach a maximum right before urination and is then at a minimum
+  about five minutes after urination. However, the act of urination
+  itself doesn't seem to cause or relieve pain. I suspect that a
+  fuller bladder just adds to the overall discomfort rather than being
+  the primary cause. The net effect of this is that I urinated more
+  frequently but a similar total volume, so a little less per cycle.
+
+* Pain generally is less noticeable when eating, though there doesn't
+  seem a very clear pattern on what it is like before and after
+  eating.
+
+* I did not get consistent patterns regarding the relationship with
+  time of day etc.
+
+### Wellness fluctuation over time
+
+A few days stand out as being particularly good:
+
+* 2024-08-03 (Saturday): This was the day after I went out to Kitava
+  for a meal with friends. This was the culmination of a three-day
+  improvement starting with the lows of 2024-07-31. It's puzzliing
+  because:
+
+  * I did a lot of unwise/risky things before it (on 2024-08-02),
+    including going out and eating, and sleeping fewer hours than
+    usual.
+
+  * I suspect that my bad state of the next few days (2024-08-04 to
+    2024-08-06) was related to the stuff I had done before and during
+    this day, specifically the meal I had outside. But this day itself went well.
+
+  * This was only the start of my stopping peas, which seemed to
+    relate with symptoms, but things got worse immediately after this.
+
+* 2024-08-07 (Wednesday): This was one of my best days. It seemed like
+  I had finally recovered from the side-effects of the outside
+  meal. But the good times didn't last, because on 2024-08-08, things
+  took a turn for the worse, partly related to me trying out lentils
+  consumption (my thinking being that as I've stopped peas, I should
+  try lentils to get the protein).
+
+* 2024-08-14 (Wednesday): Okay, this day wasn't *that* good in terms
+  of some aspects of my subjective experience, but I seem to have had
+  a lot of energy and did a lot of things. And I had a 4.5-hour long
+  conversation where I mostly forgot about the thing, and I didn't get
+  any immediate comeuppance right after it.
+
+For the first two examples above in particular, I do not know to what
+extent these represented genuine recovery that I then undid with other
+actions.
+
+Here are a few other patterns of interest:
+
+* For the first two weeks, I had semi-consistent zigzag patterns of
+  better versus worse days. As I have some activities that I do every
+  alternate day, I tried to see what might correlate. One thing I
+  noticed was that the better day was the one where I did strength
+  exercises. But, the causality could be that strength exercises make
+  me feel better, or it could be that strength exercises make me feel
+  worse, with a one-day lag. The later two weeks did not have such a
+  consistent pattern.
+
+### Relationship with food consumption
+
+I did not get clear evidence on the relationship with food
+consumption.
+
+* I paused sauerkraut consumption on 2024-07-31, partly also because
+  of mouth injuries that it might exacerbate. I somehow intuitively
+  felt that that helped, but I don't have clear evidence for
+  this. There's no clear before-after impact.
+
+* I suspect that the consumption of onions as part of my outside food
+  meal at Kitava (meeting friends) on 2024-08-02 caused increased
+  flatulence from 2024-08-04 to 2024-08-06 or so.
+
+* I paused peas consumption after 2024-08-03, out of a suspicion that
+  peas were causing some of the flatulence symptoms. The flatulence
+  part did go down after that (makign a brief return with the attempt
+  to have lentils) so this might have worked. But, I was seeing
+  overall improvements from 2024-07-31 to 2024-08-03 before I stopped
+  peas, and the picture reversed after that. So it's not clear if
+  stopping peas was good overall.
+
+* I tried lentils on 2024-08-08, but intuited that I didn't react well
+  to them (and there was increased flatulence) so after the first day
+  of trying them I paused them. The previous day (2024-08-07) had been
+  great, and after trying lentils I couldn't maintain that greatness,
+  and lentils seem like the obvious culprit, but perhaps the previous
+  day was an anomaly. I also suspect that preparation factors, such as
+  not draining all the soaking water, may have exacerbated my reaction
+  to lentils.
+
+* I'm planning to pause broccoli consumption for a little while after
+  2024-08-15 (as I finish this batch of it).
+
+* For unrelated reasons (unplanned fasting) I paused walnut
+  consumption for two days (2024-08-14 and 2024-08-15). The duration
+  is too short to see any clear impact.
+
+### Bowel movement cycle
+
+I maintained regular bowel movements in the morning for the entire
+4-week period. I did not notice any clear changes to stool quality or
+quantity over the period.
+
+However, I did have some slight irregularities, that are way more than
+I usually have:
+
+* I attempted additional bowel movements at least a few times over the
+  period, and had small-sized bowel movements with otherwise normal
+  characteristics in many of the cases. In no case did I have a strong
+  urge for bowel movement; the motivation in all these cases was the
+  suspicion that bowel clearing would reduce my pain and discomfort:
+
+  * 2024-07-31: Successful second bowel movement at around 3 PM
+
+  * 2024-08-04: Unsuccessful second bowel movement attempt at around 6:30 PM
+
+  * 2024-08-08: Successful second bowel movement between first and
+    second meal
+
+  * 2024-08-13: Successful second bowel movement before much-delayed
+    first meal
+
+  * 2024-08-15: Successful but very small second bowel movement about
+    an hour after first meal
+
+  The evidence seems consistent with the idea that bowel clearing
+  helped mostly just by getting rid of an added source of pressure
+  that was exacerbating my discomfort (similar to the effect that
+  urination seems to have), rather than an overfull bowel per se being
+  a cause of the discomfort.
+
+* Occasionally over the period, and somewhat more consistently toward
+  the later part (around 2024-08-12) I experienced symptoms in the
+  direction of constipation:
+
+  * My morning urge for a bowel movement was a little less than it has
+    historically been. However, it was still strong enough for me to
+    have a significant bowel movement that accounted for most of moy
+    bowel movement cycle.
+
+  * I had a bit more of a sense of tenesmus than usual -- a sense of
+    incomplete evacuation. With that said, for the most part I felt
+    satisfied at the end of each morning bowel movement cycle. Still,
+    it wasn't as complete a sense of satisfaction as I am used to
+    historically.
+
+### Relationship with exercise
+
+For the most part, I did not see a clear relationship with exercise,
+though I did make sure to not go all the way to max out on exercise,
+given that overexercise is a likely trigger for the beginning of it.
+
+* Subjectively, jogging seems to have helped reduce GI tract activity
+  and reduce the sense of discomfort.
+
+* Strength exercise days appear to have been somewhat better overall.
+
+* I did try not exercising on 2024-07-31 and that day was worse than
+  usual, but I later correlated this to another factor.
+
+* I skipped exercise on days I had morning shopping trips, and these
+  days were roughly similar to the exercise days.
+
+* In some cases, breath holds made me feel worse but the effects
+  generally did not seem to last longer than 10 minutes.
+
+* I did another attempt at skipping exercises on 2024-08-14 and
+  2024-08-15. 2024-08-14 was a high-energy day (likely due to energy
+  conserved from skipping exercises), but not super-clearly great as
+  far as abdominal discomfort is concerned.
+
+### Vitals
+
+I have two days (2024-07-13 and 2024-07-17) of recorded pulse oximeter
+readings (see [here](../../sql/pulse_oximeter_readings.sql)) from
+before the start of this issue, and several days (about 8 as of
+2024-08-15) of recorded readings from after the start of the
+issue. Overall, it seems like my heart rate has gone up a little bit
+(from about 41-52 bpm to about 51-62 bpm under comparable conditions),
+but the differences may be explained by factors such as temperature
+changes. Even the increased rate is still at the bradycardic edge.
+
+I have several days of blood pressure readings (see
+[here](../../sql/pulse_oximeter_readings.sql)) from before the start
+of this issue, and two days from after the start of the issue. The
+heart rate portion of the observations is roughly consistent with what
+I saw with the pulse oximeter, though the smaller number of
+observations makes that part less valuable than the pulse
+oximeter. The blood pressure readings are roughly similar to what they
+were before.
+
+### Sleep
+
+I've been trying to follow the practice of getting into bed about 8.5
+hours before my expected waking-up time. However, I have not always
+been able to achieve this.
+
+I have also tried to follow a practice of deliberately sleeping in
+after I initially wake up to urinate. However, over time, I've been
+waking up earlier to urinate (compared to my natural waking-up time)
+so that the net effect on my waking-up time has not been to delay it
+by much.
+
+Overall, I have been able to stay above 7 hours of sleep each time,
+above 7 hours 40 minutes on most days, and above 8 hours on at least
+half of the days. In all cases, the constraint preventing me from
+sleeping more was not that I needed to be up for something specific,
+but that I just didn't feel like sleeping. Often but not always this
+was related to bowel pressure being high enough that staying asleep
+wasn't comfortable.
+
+My average sleep amount is probably about 30-45 minutes more per day
+than it is when I am feeling well, and this is partly due to
+deliberate efforts on my part to sleep in a bit more and partly
+because my body does need a bit more sleep. The general mix of
+motivations for getting out of bed is pretty similar to what it used
+to be.
+
+### Productivity impact
+
+These are some of the effects on productivity:
+
+* Reduced hours of availability due to longer sleep time reduced my
+  output a little bit, but the effect size here wasn't huge. If I were
+  feeling totally well conditional to sleeping this little bit more, I
+  would not be complaining.
+
+* A bigger effect on my productivity came from the imposed regularity
+  on my sleep time preventing me from picking things up in the evening
+  that might end up hooking me and leading me to stay late. So here
+  it's not so much the number of hours of sleep but the reduced
+  flexibility in how to allocate those hours that affected my
+  productivity.
+
+* The pain may have also more directly affected my ability and
+  willigness to pick up some more complex open-ended tasks, given
+  challenges with concentrating on them. Fortunately I still have a
+  lot of relatively more routine tasks where the pain doesn't affect
+  my productivity much.
+
+* I think periods of higher pain were also periods when my
+  generativity and ideation levels were lower, even holding the task
+  constant.
+
+### Mood impact
+
+Since mood is more subjective and harder to grasp, it's a bit more
+challenging to compare my mood between now and a month ago. In this
+respect, the few good days I had in between were helpful because my
+mood memories were close enough that I felt I could reliably compare
+them and take a comparative picture.
+
+My general sense is that even though the productivity impact was not
+too huge, the mood impact was huge. On the days that were particularly
+good, I felt very excited about everything, even the most mundane
+things. On the days that were merely good or slightly bad, though, I
+just didn't have that level of overarching excitement, even though I
+did feel more local sense of excitement.
+
+For the period 2024-08-12 onward, when the nature of the pain turned
+more to something of the cramping flavor, I noticed something I had
+noticed in my last round of abdominal pain (starting 2024-04-25) --
+getting excited about something very quickly would increase my
+pain. This in turn made me more cautious mood-wise.
+
+## Beginning of the story: the night before and the day of (2024-07-18)
+
+### Background from the previous night (2024-07-17 night)
 
 It's rather hot during the afternoon, and I needed to stock up on
 food, so in anticipation of needing to go out shopping in the morning,
@@ -39,7 +342,7 @@ past few days of about midnight (ironically, the late sleeping time in
 the recent past was itself driven by the heat making it hard to go to
 sleep earlier).
 
-## Background on morning activity
+### Background on morning activity on 2024-07-18
 
 I woke up around 6:40 AM, about 1.5 hours earlier than usual, which
 was likely because of sleeping earlier.
@@ -66,7 +369,7 @@ eating and meeting wrapped up around 2:20 PM.
 Given the large amount of running + walking, I probably ended up
 eating a bit more than usual.
 
-## Experience later in the afternoon
+### Experience later in the afternoon
 
 I felt heaviness in my abdomen (likely my stomach area) and didn't
 feel very energetic. Later, that translated to a bit of abdominal
@@ -566,7 +869,7 @@ discomfort.
 Notes taken in the morning: I overall had a similar experience as the
 previous morning, though I'd say that on the whole the pain was even
 less early in the morning. However, there was more distinctive
-"stomach rumble" (albeit more below the belly) after I returned from
+"stomach rumble" (albeit more below the belly button) after I returned from
 jogging and before I had my first meal.
 
 Notes taken at night shortly before wrapping up: After my first meal,
@@ -586,12 +889,11 @@ properly a little after 7 AM. Overall, I had a little over 8 hours of
 sleep (I had gone to sleep around 11 PM) but the unplanned
 interruption may have slightly disrupted me.
 
-I overall had a similar qualititative feel as
-yesterday, with the pain limited to being below the belly, and being a
-more persistent though lighter-grade pain. I skipped jogging and
-instead did an administrative trip, that was less intensive but
-longer. After coming back, I continued with admin work so delayed my
-first meal.
+I overall had a similar qualititative feel as yesterday, with the pain
+limited to being below the belly button, and being a more persistent
+though lighter-grade pain. I skipped jogging and instead did an
+administrative trip, that was less intensive but longer. After coming
+back, I continued with admin work so delayed my first meal.
 
 Around 1:30 PM, I decided to try a second bowel movement to see if it
 would help me. I did have a small bowel movement and felt better after
@@ -628,11 +930,11 @@ evening.
 
 #### Notes taken in the morning
 
-I had a sharp increase in the pain briefly
-in the first hour or so of trying to sleep on the night of 2024-08-13,
-but the increase in pain actually improved my spirits because I feel
-like it reflects progress. The pain stayed below the belly and shifted
-around a little bit, but was tolerable.
+I had a sharp increase in the pain briefly in the first hour or so of
+trying to sleep on the night of 2024-08-13, but the increase in pain
+actually improved my spirits because I feel like it reflects
+progress. The pain stayed below the belly button and shifted around a
+little bit, but was tolerable.
 
 When I woke up in the morning, after a little while I had a strong
 urge for bowel movement (stronger than usual) and the movement
@@ -679,6 +981,26 @@ I'm contining to experience the pain in the form of cramping-like
 stuff, as a dull continuing pain, but most of the time it's not
 salient to me. I was able to make reasonable progress on a mix of
 mechanical and intellectual tasks.
+
+### Twenty-eight days later (2024-08-15)
+
+#### Notes taken in the afternoon (around 2:30 PM) around two hours after my first meal
+
+I had a relatively normal morning. I continued to skip exercise per
+the plan. The pain was still limited to being below the belly button.
+
+I did morning shopping and it worked fine.
+
+I was feeling a little more bothered by the pain in the morning than
+the previous day, though I don't know if the degree of pain was
+higher.
+
+After eating, I had a brief period when I felt low-energy, influenced
+by the pain and a general sense of lethargy. I decided to try a bowel
+movement. While the movement was brief and small, perhaps the extra
+gas release or other factors in it helped me feel a lot better, and I
+was back to my normal of the last few days after that, though still a
+bit lethargic.
 
 ## Current learnings
 
