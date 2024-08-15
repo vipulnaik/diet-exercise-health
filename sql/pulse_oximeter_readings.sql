@@ -32,4 +32,6 @@ insert into pulse_oximeter_readings(reading_date, index_within_reading_date, fin
   /* 2024-08-01 */
   ('2024-08-01',1,'left index finger',60,50,62,96,97,'This was based on a one-minute observation period from 2:53:30 PM to 2:54:30 PM. The impetus for the observation is that I felt like my heart was beating faster than usual. The heart rate started out around 54-56 bpm, dropped to 51 bpm, then rose to 62 bpm, then dropped again down to 50 bpm and then went up a little bit.'),
   /* 2024-08-10 */
-  ('2024-08-10',1,'right index finger',60,50,58,94,97,'This reading was taken shortly after blood pressure readings. The observation period was from 9:28:15 AM to 9:29:15 AM. My heart rate rose from around 51 bpm (with a brief dip to 50 bpm) to 58 bpm, then came back down to around 51 bpm. My SpO2 dropped from 97% to 95%, then briefly dipped to 94% before returning to 95%.');
+  ('2024-08-10',1,'right index finger',60,50,58,94,97,'This reading was taken shortly after blood pressure readings. The observation period was from 9:28:15 AM to 9:29:15 AM. My heart rate rose from around 51 bpm (with a brief dip to 50 bpm) to 58 bpm, then came back down to around 51 bpm. My SpO2 dropped from 97% to 95%, then briefly dipped to 94% before returning to 95%.'),
+  /* 2024-08-14 */
+  ('2024-08-14',1,'right index finger',120,50,55,97,98,'This reading was taken at night; I observed the reading from 10:13:00 PM to 10:15:00 PM. The reading started around and mostly stayed in the range of 52-53 bpm, with occasional drops to 50 bpm and increases to 55 bpm.');
