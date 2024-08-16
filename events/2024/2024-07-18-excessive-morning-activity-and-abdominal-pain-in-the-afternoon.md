@@ -148,14 +148,14 @@ I did **not** have any of these:
 
 ### Non-pain "tangible" symptoms that were present
 
-* More burping than usual (LEGIT): The burping seemed to reduce quite
+* More burping than usual: The burping seemed to reduce quite
   a bit toward the later period, around 2024-08-12.
 
-* Occasional flatulence, generally very small amounts (LEGIT): The
+* Occasional flatulence, generally very small amounts: The
   flatulence did not have a particularly bad smell. The level of
   flatulence also dropped around the week of 2024-08-12.
 
-* Audible abdominal activity in some mornings (LEGIT): This again
+* Audible abdominal activity in some mornings: This again
   dropped quite a bit around the week of 2024-08-12.
 
 * For the first two weeks or so, off-and-on symptoms of some reflux,
@@ -645,6 +645,17 @@ A few more notes specific to IMO and trying to fit it in with my case:x
   wonder if that might explain why my cramping pain has occasionally
   shifted to my lower right side (around the pelvic area or above)
   even though those movements have been brief.
+
+* The shift in character of pain around 2024-08-12 could be consistent
+  with "die-off" reactions
+  cf. [this](https://gutpowerdrinks.com/blogs/blog/sibo-die-off-symptoms)
+  but the fact that the pain has continued for almost five days now
+  doesn't fit super-well with the idea of die-off. But it's possible
+  that the methanogens are being somewhat starved and are fighting the
+  process, causing the more localized pain around their source area
+  (the appendix) while still not fully dying off. Monitoring for more
+  days while staying off of peas, lentils, etc. seems like a way to
+  find out.
 
 To test, I could do:
 
