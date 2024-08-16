@@ -319,5 +319,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-13','TJ Carrots',1),
   ('2024-08-13','Green bell pepper',4),
   ('2024-08-13','Orange bell pepper',2),
-  ('2024-08-13','Beefsteak tomato',6);
+  ('2024-08-13','Beefsteak tomato',6),
+  /* Potatoes prep 2024-08-15; skipping both broccoli and peas this time, and instead using more potatoes */
+  ('2024-08-15','Gold potatoes 5 lb',0.43),
+  ('2024-08-15','TJ Kale',1),
+  ('2024-08-15','Beefsteak tomato',5),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-08-15','Kite Hill Greek Style Plant-Based Yogurt',1);
   /* Double-check the date before committing */
