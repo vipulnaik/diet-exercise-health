@@ -15,3 +15,9 @@ I ended up eating at around 2:50 PM; my previous meal had ended around
 7:25 PM.
 
 My hope is that with the best practices, I don't have any comeuppance.
+
+EDIT 2024-08-15: I decided to resume walnuts with the evening meal, a
+little before the end of the 48 hours, as I had not had any sore
+throat symptoms until then and considered it safe, and in light of all
+my other dietary changes, I wanted to reduce this source of change to
+my diet as well.
