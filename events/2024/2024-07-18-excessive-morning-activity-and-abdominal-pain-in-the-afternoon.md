@@ -92,8 +92,8 @@ Pain is very subjective, so it is hard to chalk its trajectory over
 the course of 4 weeks. However, these are my overall impressions:
 
 * Generally speaking, the pain has been intermittent, ranging from a 0
-  to a 2. Even when it is absent, I still feel some unusual sense in
-  the area when I probe it.
+  to a 2 out of 10. Even when it is absent, I still feel some unusual
+  sense in the area when I probe it.
 
 * The initial pain was more diffuse and not very acute.
 
