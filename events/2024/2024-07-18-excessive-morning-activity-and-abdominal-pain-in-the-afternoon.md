@@ -65,7 +65,7 @@ no-regret advice I can follow for those.
 ## General evolution
 
 * Symptoms of reflux have gone down over time (burping, susceptibility
-  to getting / long recover time from mouth injuries.
+  to getting / long recovery time from mouth injuries).
 
 * Flatulence seems to have dropped around the week of
   2024-08-12. Burping and stomach rumble also seem to have dropped
