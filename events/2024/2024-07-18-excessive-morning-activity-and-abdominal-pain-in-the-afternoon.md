@@ -3,6 +3,7 @@
 Sections of this document:
 
 * [Executive summary](#executive-summary)
+* [Open questions](#open-questions)
 * [General evolution](#general-evolution)
 * [Summary of symptoms and experience so far](#summary-of-symptoms-and-experience-so-far)
 * [Theories of causes and exacerbating factors](#theories-of-causes-and-exacerbating-factors)
@@ -61,6 +62,30 @@ a different condition) and monitor for a couple more weeks before
 escalating to other options such as testing. I also plan to continue
 to investigate other possibilities and see if there are easy tests or
 no-regret advice I can follow for those.
+
+## Open questions
+
+* Do I continue to abstain from all these foods until I feel a lot
+  better and/or get a clearer diagnosis? Or do I try some of them to
+  see if they worsen symptoms?
+
+  Foods in question: sauerkraut, lentils, peas, broccoli
+
+* How should I think about exercise? My plan right now is to basically
+  resume exercise if I feel like it.
+
+* Should I get more blood tests done that are relatively low-cost and
+  don't require a prescription, even if they are unlikely to flag
+  anything? For instance, a comprehensive metabolic panel (CMP) and
+  complete blood count (CBC). I got both of these in April as part of
+  the urgent care visit.
+
+* Should I get some longer-term blood tests done that I had been
+  planning to do around this time, or wait till I feel better? For
+  instance, lipid profile, insulin, HbA1c, Vitamin D3 and B12,
+  omega-3.
+
+* Any other blood tests to do?
 
 ## General evolution
 
