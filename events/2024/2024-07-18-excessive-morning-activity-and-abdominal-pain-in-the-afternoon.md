@@ -434,50 +434,68 @@ piece itself.
 
 #### Small intestinal bacterial overgrowth (SIBO) / intestinal methanogen overgrowth (IMO) etc.
 
-SIBO means more bacteria than desired in the small intestine, due to a
-few pathogenic species dominating.
+Take a look at the [most recent
+video](https://www.youtube.com/watch?v=HMXV16065hA) with the latest
+SIBO/IMO jargon. Use it as reference. [This time
+point](https://youtu.be/HMXV16065hA?t=2247) is particularly relevant
+for my summary below.
 
-There are a few related conditions:
+Here's my quick summary of the jargon (fka means "formerly known as"):
 
-* Hydrogen-dominant SIBO: This is the base SIBO and means that my
-  small intestine has too many pathogens.
+* Small intestinal bacterial overgrowth (SIBO), fka hydrogen-dominant
+  SIBO: Lots of hydrogen-producing bacteria, mainly escherichia coli
+  (e. coli) and klebsiella, in the small intestine.
 
-* Hydrogen sulfide (H2S)-dominant SIBO: This is generally a followup
-  to hydrogen-dominance and is generally accompanies by diarrhea (it
-  is the common reason for IBS-D).
+  SIBO correlates with diarrhea, and is believed to be a big
+  proportion of IBS-D.
 
-* Methane-dominant SIBO, now known as IMO: This is generally
-  accompanied by constipation (it is the common reason for
-  IBS-C). Unlie the other SIBO cases, methanogens are archaea that
-  simultaneously colonize the small and large intestine in excess.
+  One seemingly primary cause of SIBO is food poisoning that incudes
+  CdTB, leading the body to produce an antibody that also attacks
+  vinculin, a key protein that protects the intestinal lining, and
+  this makes people susceptible to SIBO.
 
-Do I have SIBO / IMO? Right now I am inclined against. Here are some
-of the considerations:
+* Intestinal sulfide overproduction (ISO), fka H2S-dominant SIBO: Lots
+  of sulfide-producing bacteria.
 
-* The pain being local to below the belly button is some evidence
-  against SIBO / IMO, given the location of the small intestine, but
-  it could still be consistent with having had IMO (which covers both
-  small and large intestine) and recovering gradually so that only one
-  part of the area is left.
+  Like SIBO, ISO is correlated with diarrhea, and is believed to be a
+  big proportion of IBS-D. It often co-occurs with SIBO (with
+  essentially the SIBO-produced hydrogen acting as input for the ISO
+  bacteria).
 
-* I don't have clear symptoms of constipation or diarrhea, just
-  abdominal pain. So it's not consistent with H2S-dominant SIBO or
-  IMO. More generally, I would have expected that an effect on the
-  small intestine would more clearly show up in effects on bowel
-  movement, digestion, and absorption, and so far I have not seen such
-  effects.
+  The mechanism for ISO also seems to be the same as for SIBO (but
+  with SIBO being an additional intermediary): food poisoning with
+  CdTB -> antibody against vinculin -> reduction in vinculin -> more
+  susceptibility.
 
-* To the extent I do have leanings, it's toward constipation, which
-  would suggest IMO. But, the "onion smell" would suggest H2S-dominant
-  SIBO.
+* Intestinal methanogen overgrowth (IMO), fka methane-dominant SIBO:
+  Lots of methane-producing organisms, aka methanogens. Methanogens
+  aren't even bacteria, they are archaea. Unlike SIBO, the methanogens
+  are found in both the small and large intestine.
 
-* According to Mark Pimentel's lab (e.g., [this
-  video](https://www.youtube.com/watch?v=A36Xbdxe8P0)), which leads
-  the world in SIBO / IMO research, SIBO / IMO start with an incident
-  of food poisoning from CdtB, where the antibody ends up being an
-  antibody to vinculin as well, which in turn has the downstream
-  effect. I do not have any clear incident of food poisoning in the
-  last few years to which this can be traced.
+  NOTE: Some hydrogen-producing bacteria are needed to create the
+  conditions for methanogens. But, the level of hydrogen-producing
+  bacteria may not be high enough to be in the SIBO range, or the
+  hydrogen-producing bacteria may just be in the large intestine.
+
+  It doesn't look like there is a lot of clarity on the cause of
+  IMO. One route is SIBO leading to IMO, with food poisoning leading
+  to SIBO, but this isn't the dominant path. See
+  [here](https://youtu.be/J-sgU-CCNrc?t=410) for a claimed list of
+  causes.
+
+Which of these if any do I have?
+
+* SIBO / ISO is unlikely because I haven't had a food poisoning event
+  of the sort that is described as a precursor to these, nor do I (to
+  my knowledge) have any of the rare conditions that could be
+  alternate pathways to SIBO / ISO.
+
+* IMO is still plausible because, at least judging from recent
+  developments, I do seem to be trending in the direction of
+  constipation, though I am very far from the clinical definition of
+  constipation. Also, some of the other data is consistent with
+  IMO. The onion smell, that would suggest ISO, is possible because
+  there is some increase in H2S bacteria in some IMO cases.
 
 To test, I could do:
 
