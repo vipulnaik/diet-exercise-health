@@ -181,6 +181,11 @@ consumption.
   not draining all the soaking water, may have exacerbated my reaction
   to lentils.
 
+  Also, I had consumed a lot of lentil in the few days shortly before
+  the abdominal pain started (this was not super-salient to me back
+  when the pain started, but it became clearer when I reviewed my food
+  consumption retrospectively).
+
 * I'm planning to pause broccoli consumption for a little while after
   2024-08-15 (as I finish this batch of it).
 
