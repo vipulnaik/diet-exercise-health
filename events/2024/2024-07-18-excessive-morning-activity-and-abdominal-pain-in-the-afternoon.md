@@ -1,19 +1,87 @@
 # 2024-07-18: excessive morning activity and abdominal pain in the afternoon
 
+Sections of this document:
+
+* [Executive summary](#executive-summary)
+* [General evolution](#general-evolution)
+* [Summary of symptoms and experience so far](#summary-of-symptoms-and-experience-so-far)
+* [Theories of causes and exacerbating factors](#theories-of-causes-and-exacerbating-factors)
+* [Beginning of the story: the night before and the day of (2024-07-18)](#beginning-of-the-story-the-night-before-and-the-day-of-2024-07-18)
+* [Subsequent days](#subsequent-days)
+* [Current learnings](#current-learnings)
+
+## Executive summary
+
+On 2024-07-18, I overexerted myself (running 1.7 miles then walking
+3.3 miles with only small breaks in between) and delayed eating. In
+the immediately preceding days, I had eaten lentils at a relatively
+high rate (stating 2024-07-14). I ate freshly prepped peas in the
+delayed meal after returning on 2024-07-18.
+
+A combination of these factors seems to have triggered abdominal
+discomfort in me. Unlike the [2024-04-25 onward
+incident](2024-04-25-abdominal-pain.md), there was no acute increase
+in pain that panicked me, nor was there a situation of clear-cut
+constipation. However, the symptoms were qualitatively somewhat
+similar to the less acute portion of the symptoms last time, so I
+suspect a similar underlying set of causes but different triggers.
+
+My overall symptoms from 2024-07-18 to 2024-08-15 (four weeks) or so
+have been generally mild, and I have, for the most part, been able to
+carry on with my work, personal chores, and exercise as usual (though
+for some portions of the period I have deliberately skipped exercise
+to see how much it helps, for the most part I haven't felt I "needed"
+to skip exercise). The period has been one of otherwise low stress and
+high flexibility, which means that stress has not contributed to
+exacerbating any issues.
+
+My symptoms have shifted a bit: while abdominal pain / discomfort have
+been a common thread, the initial symptoms seemed to include more
+reflux (and more susceptibility to mouth injuries), the first 3 weeks
+were characterized by clearly greater burping and flatulence than
+usual, and there have been some off-and-on signs of mild constipation
+(though I have consistently had regular daily morning bowel movements
+that cover most of my bowel evacuation needs). I suspect some of the
+foods I stopped have helped with the flatulence reduction: lentils,
+peas, sauerkraut (though I'm less sure how much this helped), and
+broccoli (stopped at the end of the period so its effects are not seen
+in the time period). Stomach rumble has generally gone down along with
+flatulence and burping, and the locus of the pain has shifted to being
+more clearly below the belly button.
+
+Based on possibilities I have come across online, the best fit seems
+to be some form of intestinal methanogen overgrowth (IMO), formerly
+known as methane-dominant SIBO. IMO is one of the likely main causes
+of what's called IBS-C (irritable bowel syndrome, constipation
+type). While my symptoms do not meet all the criteria to be classified
+as IBS-C, they do seem to be generally in that direction compared to
+my normal steady state. My current plan is to follow the low-hanging
+fruit advice conditional to IMO (that would be no-regret even if I had
+a different condition) and monitor for a couple more weeks before
+escalating to other options such as testing. I also plan to continue
+to investigate other possibilities and see if there are easy tests or
+no-regret advice I can follow for those.
+
 ## General evolution
 
 * Symptoms of reflux have gone down over time (burping, susceptibility
   to getting / long recover time from mouth injuries.
 
-* Flatulence seems to have dropped around the week of 2024-08-12.
+* Flatulence seems to have dropped around the week of
+  2024-08-12. Burping and stomach rumble also seem to have dropped
+  further around the same time.
 
 * The locus of the pain seems to have shifted and is clearly below the
-  belly button as of 2024-08-12.
+  belly button as of 2024-08-12. Peak intensity of pain also seems to
+  have increased and it has shifted in character from bloating to
+  cramping.
 
 * Frequency of good days may have increased over time, but on the
   other hand acuteness of pain may also have increased.
 
-## Summary of symptoms and experience so far (summary last updated 2024-08-15, at around 4 weeks later)
+## Summary of symptoms and experience so far
+
+Summary last updated 2024-08-15, at around 4 weeks later.
 
 Overall, this is a case of intermittent abdominal pain, along with
 other symptoms.
@@ -42,8 +110,9 @@ the course of 4 weeks. However, these are my overall impressions:
 
 I did **not** have any of these:
 
-* Visible bloating: I have regularly checked for visible bloating
-  after eating and at other times, and have not seen it ever.
+* Visible bloating (aka abdominal distension, sometimes called "food
+  babies"): I have regularly checked for visible bloating after eating
+  and at other times, and have not seen it ever.
 
 * Significant increase in pain on palpation: When pressing different
   areas of the abdomen, including the areas where I was subjectively
@@ -335,6 +404,22 @@ of the range can cause more pain, but on the other hand one of my best
 days (2024-08-03) was after just 7 hours of sleep, so I'm not too
 sure.
 
+ADDED 2024-08-16: As I've been learning more about intestinal
+methanogen overgrowth (IMO) and its implications for slower motility,
+I wonder if I have been going about the sleep stuff wrong. I've been
+prioritizing getting sufficient sleep, but perhaps the higher priority
+should have been given to getting a long enough gap between eating and
+sleeping. So far, I've kept a gap of at least 3 hours between eating
+and sleeping, but based on [this video
+slide](https://youtu.be/e66fEUGVCzE?t=1116) for instance, I should
+actually be aiming for at least 4 hours gap between finishing my meal
+and sleeping. Obviously it is best to have both, but where in doubt, I
+think erring on the side of maintaining a higher eating/sleeping gap
+at the risk of sleeping a bit late is probably better. I might do a
+historical analysis of eating and sleeping times (I don't have a
+systematic log of these, but can infer them from computer usage logs)
+to see if there is a historical correlation.
+
 ### Relationship with temperature
 
 It looks like heat can exacerbate my overall sense of discomfort, and
@@ -452,7 +537,15 @@ Here's my quick summary of the jargon (fka means "formerly known as"):
   One seemingly primary cause of SIBO is food poisoning that incudes
   CdTB, leading the body to produce an antibody that also attacks
   vinculin, a key protein that protects the intestinal lining, and
-  this makes people susceptible to SIBO.
+  this makes people susceptible to SIBO. So in short: food poisoning
+  with CdTB -> antibody against vinculin -> reduction in vinculin ->
+  more susceptibility.
+
+  There also seem to be autoimmune conditions that can lead to SIBO
+  without going through the food poisoning route (for instance,
+  [Sjogren's](https://www.sjogrensadvocate.com/post/gastrointestinal-manifestations#:~:text=Small%20Intestine%20Bacterial%20Overgrowth%20(SIBO,care%20has%20not%20been%20established.). I
+  don't have any evidence that I have any of these autoimmune
+  conditions.
 
 * Intestinal sulfide overproduction (ISO), fka H2S-dominant SIBO: Lots
   of sulfide-producing bacteria.
@@ -475,13 +568,23 @@ Here's my quick summary of the jargon (fka means "formerly known as"):
   NOTE: Some hydrogen-producing bacteria are needed to create the
   conditions for methanogens. But, the level of hydrogen-producing
   bacteria may not be high enough to be in the SIBO range, or the
-  hydrogen-producing bacteria may just be in the large intestine.
+  hydrogen-producing bacteria may just be in the large intestine (in
+  which case it wouldn't be SIBO) while the methanogens could still
+  potentially move into the small intestine.
 
   It doesn't look like there is a lot of clarity on the cause of
   IMO. One route is SIBO leading to IMO, with food poisoning leading
   to SIBO, but this isn't the dominant path. See
   [here](https://youtu.be/J-sgU-CCNrc?t=410) for a claimed list of
   causes.
+
+  It also seems unclear to me if IMO can be strictly limited to the
+  large bowel (LIMO?) or strictly limited to the small bowel (SIMO?)
+  or if it always spreads out across both. This is relevant to me
+  because perhaps my symptoms fit only LIMO and not SIMO. My
+  understanding is that if it's only LIMO, the impact on motility,
+  digestion, and absorption will be much more limited, and that is
+  more consistent with my symptoms so far.
 
 Which of these if any do I have?
 
@@ -497,10 +600,59 @@ Which of these if any do I have?
   IMO. The onion smell, that would suggest ISO, is possible because
   there is some increase in H2S bacteria in some IMO cases.
 
+  In fact, IMO does seem like the most likely single possibility of
+  all the ones I have listed.
+
+* I think the main thing that makes me skeptical of the IMO diagnosis
+  is that my overall symptoms don't quite match up in severity and
+  quality with what I could gather are the symptoms of people who post
+  about it. But, this could just reflect the fact that most people
+  take a very long time to get to the diagnosis, often cycling through
+  lots of doctors and blood tests, and because they are not focused on
+  the right set of steps, their symptoms get worse over the time
+  period. There's also a selection effect where only people whose
+  symptoms exceed some degree of severity are likely to seek treatment
+  and/or post about it on Reddit, YouTube, etc.
+
+A few more notes specific to IMO and trying to fit it in with my case:x
+
+* IMO is characterized by slow motility, and the general advice for it
+  is to eat fewer meals (which I already do), have at least 4 hours
+  gap between meal (which I do most of the time), and have at least 4
+  hours gap between eating and sleep (compared to normal guidance of
+  at least 3 hours gap). See [this video
+  slide](https://youtu.be/e66fEUGVCzE?t=1116) for more information. I
+  haven't seen clear evidence of slow motility, but I can try to
+  increase the gap from eating to sleeping and make sure it's at least
+  4 hours (as of now I do at least 3 hours, and often it's more -- so
+  it may be worth seeing if the lag between eating and sleeping on one
+  evening has historically correlated with my quality of life the next
+  day.
+
+* Sources on IMO such as
+  [this](https://www.youtube.com/watch?v=qKYyassLhyo) highlight the
+  importance of full bowel evacuation as a first step to relief. In my
+  case, I feel like I mostly get to this, so if I do have IMO then
+  this could be a reason it's not as severe as that of many
+  people. With that said, this also highlights the importance of
+  doubling down on the eating-sleeping gap.
+
+* [This video](https://www.youtube.com/watch?v=e66fEUGVCzE) provides
+  more of a theoretical background on IMO. One interesting thing it
+  says is that the appendix is a reservoir of methanogens (see also
+  [this
+  paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6972888/)). I do
+  wonder if that might explain why my cramping pain has occasionally
+  shifted to my lower right side (around the pelvic area or above)
+  even though those movements have been brief.
+
 To test, I could do:
 
 * The $349 TrioSmart breath test, which is doctor-ordered so I'll need
-  a doctor to order it, so the effective cost would be much higher.
+  a doctor to order it, so the effective cost would be much higher
+  (even more so because most doctors will want to make their own
+  judgment so the first doctor I try may not be willing to prescribe
+  the test for me) (and there would also be additional time needed).
 
 * The $249 FoodMarble Aire device, which seems to be way less reliable
   but can give multiple real-time readings and doesn't need a doctor's
@@ -514,7 +666,7 @@ There is no easy treat-to-test option, but a few possibilities:
   be tried as a treat-to-test given the complication. So this is not
   an option that can be tried out before a test.
 
-* Artichoke has cured the motility issues with people's SIBO; see for
+* Artichoke has cured the motility issues with people's SIBO/IMO; see for
   instance
   [here](https://www.reddit.com/r/SIBO/comments/wcuxyz/made_a_video_about_my_sibo_experience_and_full/).
 
@@ -595,7 +747,9 @@ There are other possibilities though:
 I did notice reduced flatulence after stopping peas, increased
 flatulence when I tried lentils, and more flatulence following onion
 consumption. This suggests some FODMAP sensitivity, but this is just a
-symptom and not a cause.
+symptom and not a cause. FODMAP sensitivity does support the SIBO
+cluster of causes, and in particular supports IMO as a potential
+cause.
 
 #### Digestive enzyme deficiency
 
@@ -668,7 +822,9 @@ A few other complications:
 The heaviness didn't get to a distracting level of pain, and I had my
 second meal without incident a litle after 6 PM.
 
-## Next day (2024-07-19)
+## Subsequent days
+
+### Next day (2024-07-19)
 
 On 2024-07-19, things were fine in the morning. I still went out
 jogging and jogged a good amount (about 1.7 miles, 0.3 miles return
@@ -678,7 +834,7 @@ fatigue and disorientation, so on net I may have felt worse. With that
 said, my productivity/output seemed pretty good, and I executed on
 both physical and mental work.
 
-## Two days later (2024-07-20)
+### Two days later (2024-07-20)
 
 On this day, I had to go shopping, so I skipped jogging in the morning
 to avoid the fiasco of 2024-07-18.
@@ -690,7 +846,7 @@ walking. However, I was back to normal later in the journey.
 When I got back, I took a pulse oximeter reading, getting 55-67 bpm
 with the typical range being 59-64 bpm.
 
-## Three days later (2024-07-21)
+### Three days later (2024-07-21)
 
 This day I again pulled something vaguely similar to 2024-07-18: I
 went jogging, then did strength exercises, then shortly after that I
@@ -709,17 +865,17 @@ abdominal discomfort toward the later afternoon, and a reduced
 appetite for my second meal of the day. There was a brief period where
 I was feeling particularly crappy, though it didn't last too long.
 
-## Four days later (2024-07-22)
+### Four days later (2024-07-22)
 
 On 2024-07-22, I was mostly fine but did experience slight discomfort
 off and on, and more pronounced discomfort a few times.
 
-## Five days later (2024-07-23)
+### Five days later (2024-07-23)
 
 On 2024-07-23, I again experienced slight discomfort and it was a
 little more acute later in the day.
 
-## Six days later (2024-07-24)
+### Six days later (2024-07-24)
 
 Factor X applied.
 
@@ -735,7 +891,7 @@ continued low-key through the day. I don't know if this was due to the
 deliberate decision to have a slow day and not go out, and don't know
 if this represents a worsening or is the recovery process in action.
 
-## Seven days later (2024-07-25)
+### Seven days later (2024-07-25)
 
 Having gone to sleep early the previous night (2024-07-24), I stayed
 in bed a little longer, so that I got over 8.5 hours in bed.
@@ -748,7 +904,7 @@ super-pronounced, and it only got a little more pronounced due to
 delays with eating. It was fine after eating and didn't get in the way
 of my mood for most of the day.
 
-## Eight days later (2024-07-26)
+### Eight days later (2024-07-26)
 
 I was feeling worse on this day (between my first and second meal)
 than the previous day. I narrowed down two causes of the difference:
@@ -763,13 +919,13 @@ the second meal, and I did feel relatively better (almost as well as
 the previous day) in the period between the second meal and going to
 sleep.
 
-## Nine days later (2024-07-27)
+### Nine days later (2024-07-27)
 
 I followed the identified best practices and was feeling generally
 good through the day, though my total accounted-for hours were a bit
 low.
 
-## Ten days later (2024-07-28)
+### Ten days later (2024-07-28)
 
 Despite trying to follow best practices, I didn't feel as good as the
 previous day, though still better than two days and four days
@@ -794,19 +950,19 @@ I did notice that my discomfort would peak right before urination and
 I'd feel pretty normal after urination. This has been an observation
 in the past as well, but was particularly pronounced today.
 
-## Eleven days later (2024-07-29)
+### Eleven days later (2024-07-29)
 
 I felt mostly good through the day, with occasional abdominal
 discomfort right at the peak of urine buildups.
 
-## Twelve days later (2024-07-30)
+### Twelve days later (2024-07-30)
 
 I continued to feel good through most of the day; in fact, this was
 probably my best day in a while. However, I did continue to experience
 similar symptoms as before. Late in the day, I experienced more pain
 than usual, but urination helped reduce the pain.
 
-## Thirteen days later (2024-07-31)
+### Thirteen days later (2024-07-31)
 
 Factor X applied.
 
@@ -841,7 +997,7 @@ of discomfort around 9 PM as I settled into sedentary work. The
 sensations continued till before I went to sleep, though there were
 times in between where it didn't feel unpleasant at all.
 
-## Fourteen days later (2024-08-01)
+### Fourteen days later (2024-08-01)
 
 As for the last few days, I felt a little reflux in my throat when I
 woke up though it wasn't enough to make my voice hoarse.
@@ -882,7 +1038,7 @@ and then see if I continue to maintain the good health. With that
 said, I'm still happy to at least have a working level of good health
 that I can sustain / fall back to.
 
-## Fifteen days later (2024-08-02)
+### Fifteen days later (2024-08-02)
 
 This was an unusual day. I went to San Francisco to meet a couple of
 people in the afternoon. As a result, I skipped exercise in the
@@ -894,7 +1050,7 @@ than the last few days. I was able to suppress these even more while
 hanging out with others, so that I could function well in the
 interaction.
 
-## Sixteen days later (2024-08-03)
+### Sixteen days later (2024-08-03)
 
 Going into the day, there are two factors working against me:
 
@@ -909,7 +1065,7 @@ Despite these headwinds, this was my best day in a while. For large
 parts of the day, I had no issues. The occasional pain was mostly at
 level ero where I was aware of it but it didn't distract me.
 
-## Seventeen days later (2024-08-04)
+### Seventeen days later (2024-08-04)
 
 Going into the day, the main factor working against me was that I only
 got 7 hours 40 minutes of sleep, which isn't too little on its own,
@@ -930,7 +1086,7 @@ after a few minutes, as was my plan. However, in hindsight maybe I
 should have tried to strain even less (I tried keeping straining to a
 minimum, but should have aimed for even less).
 
-## Eighteen days later (2024-08-05)
+### Eighteen days later (2024-08-05)
 
 Having gone to sleep around 11:15 PM last night, I woke up initially at
 6:47 AM to urinate, then went back to bed and properly got up around
@@ -972,7 +1128,7 @@ abdominal discomfort was less salient. It's not clear to me if it
 actually receded or I was just more engrossed in my work and therefore
 thought about it less.
 
-## Nineteen days later (2024-08-06)
+### Nineteen days later (2024-08-06)
 
 While mostly feeling better in the morning, I had a couple of concerning things:
 
@@ -994,7 +1150,7 @@ influencing my read of the pain. But I feel intuitively that the
 onions played some role, even though it's now four days since I had
 them.
 
-## Twenty days later (2024-08-07)
+### Twenty days later (2024-08-07)
 
 This day seemed to be great, so I think my intuition of the previous
 day being the beginning of a turnaround was correct.
@@ -1025,7 +1181,7 @@ brief regression being the Kitava meal that included onions.
 My plan is to gently resume lentils, peas, and sauerkraut at low doses
 while closely monitoring symptoms.
 
-## Twenty-one days later (2024-08-08)
+### Twenty-one days later (2024-08-08)
 
 This day was worse than the previous day, but still overall pretty good.
 
@@ -1282,6 +1438,7 @@ bit lethargic.
 
 ## Current learnings
 
-I've been updating [best practices around abdominal
-discomfort](../../best-practices/best-practices-around-abdominal-discomfort.md);
-this reflects my most up-to-date learnings.
+I was updating [best practices around abdominal
+discomfort](../../best-practices/best-practices-around-abdominal-discomfort.md)
+early on, but it doesn't reflect a lot of the more speculative
+learnings I have had more recently.
