@@ -87,6 +87,12 @@ no-regret advice I can follow for those.
 
 * Any other blood tests to do?
 
+* Should I get the not-very-reliable FoodMarble Aire 2 for $249 to get
+  a general sense of things.
+
+* Should I, when should I, and how should I get the TrioSmart breath
+  test to see if I actually have IMO?
+
 ## General evolution
 
 * Symptoms of reflux have gone down over time (burping, susceptibility
