@@ -658,7 +658,7 @@ A few more notes specific to IMO and trying to fit it in with my case:x
   slide](https://youtu.be/e66fEUGVCzE?t=1116) for more information. I
   haven't seen clear evidence of slow motility, but I can try to
   increase the gap from eating to sleeping and make sure it's at least
-  4 hours (as of now I do at least 3 hours, and often it's more -- so
+  4 hours. As of now I do at least 3 hours, and often it's more -- so
   it may be worth seeing if the lag between eating and sleeping on one
   evening has historically correlated with my quality of life the next
   day.
