@@ -6,6 +6,7 @@ Sections of this document:
 * [Open questions](#open-questions)
 * [General evolution](#general-evolution)
 * [Summary of symptoms and experience so far](#summary-of-symptoms-and-experience-so-far)
+* [Comparison with the previous round starting 2024-04-25](#comparison-with-the-previous-round-starting-2024-04-25)
 * [Theories of causes and exacerbating factors](#theories-of-causes-and-exacerbating-factors)
 * [Beginning of the story: the night before and the day of (2024-07-18)](#beginning-of-the-story-the-night-before-and-the-day-of-2024-07-18)
 * [Subsequent days](#subsequent-days)
@@ -386,6 +387,68 @@ given that overexercise is a likely trigger for the beginning of it.
   conserved from skipping exercises), but not super-clearly great as
   far as abdominal discomfort is concerned.
 
+### Relationship with stress
+
+Overall, the entire period was one of low cognitive and emotional
+stress, though I did have minor finger injuries on 2024-07-21 that,
+although not too bad, did contribute to stress.
+
+Ironically, periods within these 4 weeks where I felt better were
+periods of greater stress in some sense as I tackled more cognitively
+and emotionally challenging tasks, but I would characterize that
+stress as eustress and not distress.
+
+A few more specifics related to stress:
+
+* This was a period where my deliverables at work were few, which
+  allowed me to vary my work hours based on other needs and reduced
+  the impact my pain had on my work delivery.
+
+* I didn't have a lot of synchronous meetings with work colleagues,
+  and the ones I did have were fairly pleasant and informal. I didn't
+  have any stress around needing to be in a meeting at a specific time
+  that was inconvenient. I only very occasionally had brief stress
+  around needing to be attentive and engaged in a meeting while
+  feeling a level of pain that made it harder than usual. This is less
+  than the local stress I've felt in the past from being in meetings
+  while feeling fatigued, having other things on my mind, or having a
+  sore throat.
+
+* This was a period where I was able to make significant progress on a
+  number of things in personal projects as well as wrap up
+  administrative tasks that had been pending for a while. Presumably
+  this happened a little slower than it otherwise would, but I felt
+  very good about it.
+
+I did feel a little bit of stress/sadness as the issue continued for
+four weeks, but for the most part I've channeled this constructively
+and haven't gone into loops of anxiety and self-talk.
+
+My takeaways:
+
+* The causal arrow from cognitive or emotional stress to these issues
+  is very unlikely (with the potential exception of temporary increase
+  in pain on 2024-07-21 after finger injuries, where it was a
+  combination of physical, cognitive, and emotional stress).
+
+* With that said, I think the potential for cognitive or emotional
+  stress to exacerbate the symptoms is a possibility in my head and
+  has led me in this period to generally not take up optional things
+  that might cause stress. For comparison, for the acute incident on
+  2024-04-25 (three months ago) where I had severe abdominal pain, I
+  think cognitive and emotional stress may have played some role even
+  if I wasn't "feeling the stress" very explicitly. There was nothing
+  like that in this period.
+
+* The reverse arrow -- these issues contributing to cognitive or
+  emotional stress -- has a bit of truth to it, but other factors
+  pushed my cognitive and emotional stress in the opposite direction
+  and the net effect on my cognitive and emotional stress seems to be
+  positive relative to the past few months. Definitely relative to a
+  year ago or two years ago!
+
+
+
 ### Vitals
 
 I have two days (2024-07-13 and 2024-07-17) of recorded pulse oximeter
@@ -507,6 +570,68 @@ more to something of the cramping flavor, I noticed something I had
 noticed in my last round of abdominal pain (starting 2024-04-25) --
 getting excited about something very quickly would increase my
 pain. This in turn made me more cautious mood-wise.
+
+## Comparison with the previous round starting 2024-04-25
+
+Reference document for the previous round: [2024-04-25 abdominal
+pain](2024-04-25-abdominal-pain.md).
+
+### Key difference of acute incident
+
+The previous round started with a very acute incident, where I'd rate
+my pain intensity as something like a 7 out of 10. More details are in
+that document. The incident was acute enough that I considered rushing
+to urgent care, though I ultimately deferred the urgent care visit by
+a few days.
+
+With this round, I had no comparable acute incident.
+
+### Similarities and differences in symptom pattern
+
+Symptom or symptom aspect | Previous round | Current round
+-- | -- | --
+How long the pain lasted | 1 acute day, seemingly some symptoms continued for about a week and then sporadically for the next few weeks | Seemingly going on for at least four weeks
+Pain location | Started out clearly below the belly button, then seemingly moved above the belly button four days later, with a lot of shifting and diffuse nature | Started out diffuse, around 2024-08-12 became more specific to below the belly button with occasional shifts to the right
+Pain characteristics | Bloating-like feel (but no abdominal distension) though I don't quite know how accurate my past terminology is | Initially bloating-like feel, later cramping
+Pain intensity | High for a brief period (7 out of 10), 0 to 2 for a few days in the next week, then sporadic (not clearly recorded) | 0 to 2 for most of the duration, peak intensity may have been 3 briefly
+Constipation | Clear constipation on first day (day of acute incident), slight constipation on next day, seemingly normal bowel movements after that | No clear constipation -- normal morning bowel movements every day -- but cases of second bowel movements on some days with the (validated) hope that this would reduce my pain
+Diarrhea | No observed diarrhea | No observed diarrhea
+Flatulence | No recorded increase in flatulence | Increase in flatulence for the first 2-3 weeks
+Burping/reflux | No recorded increase in burping/reflux | Increase in burping/reflux for the first 2 weeks or so
+Suspected food triggers that I stopped | Whole wheat lavash (relatively clear evidence); some other things that I have too rarely for clear data patterns | Lentils (strongest evidence but still weaker than wheat), peas, sauerkraut, and broccoli
+
+Roughly speaking, there's more overlap between the observed symptoms
+2024-08-12 onward this time and the previous set of symptoms, with the
+cramping/bloating distinction.
+
+### Strategic differences: exercises versus food
+
+One thing I did differently last time was that I took an extended
+break from exercise. One plausible story is that this long break from
+exercise is what allowed me to recover more quickly last time. On the
+other hand, I feel like the differences are more a reflection of how
+my body was feeling rather than my conscious cognitive strategy --
+last time, I didn't *feel* like exercising, and this time, I did
+(until about 2024-08-12 when the symptoms switched to a more
+cramping-like nature, and I did pause exercise at that time as it
+didn't feel right for my body).
+
+The other big difference this time is that I stopped more foods (last
+time I just stopped wheat; this time I did peas, sauerkraut, lentils,
+and broccoli). But this is more a function of the fact that stopping
+the first thing didn't stop my problem, so I stopped another, and then
+another. Whereas last time, stopping wheat seemed to have a clear
+benefit (and trying to have it again seemed to return some of the
+symptoms), the effect of stopping individual foods this time was less
+clear-cut, with the potential exception of lentils.
+
+### Differences in background stress
+
+The acute start on 2024-04-25 of the previous round was accompanied by
+one highly unusual stress factor and two moderately unusual stress
+factors. In contrast, for the current round, my background stress was
+lower. Perhaps that's the reason I did not have an acute incident in
+this round (at least for the first 4 weeks).
 
 ## Theories of causes and exacerbating factors
 
