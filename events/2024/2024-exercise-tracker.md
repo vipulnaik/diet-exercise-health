@@ -720,3 +720,21 @@ did a partial exercise on 2024-08-16.
 
 I did standing-on-one-leg-with-eyes-closed exercise at least twice
 over these three days.
+
+## 2024-08-17: attempted resumption of jogging that was cut short
+
+On 2024-08-17, I tried to resume some exercises. I did the hand
+gripper exercise (to the usual level). I did breath holds, albeit the
+duration of the first breath hold was just 30 seconds. The second
+breath hold was normal. The standing-on-one-leg-with-eyes-closed
+exercise was normal.
+
+When jogging, I noticed a slight pain that seemed to be coming from my
+lower right area. After completing 1.1 miles, I decided that the pain,
+though mild, was consistent enough that I should stop and walk
+back. As I walked back, the pain subsided and seemingly shifted around
+a little bit, so I do think the act of jogging in particular triggered
+the increase in pain.
+
+In light of this, I plan to skip jogging for at least a week and
+monitor the progress of my symptoms.

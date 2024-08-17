@@ -1624,6 +1624,33 @@ occasional elevated sensation in my back (particularly the spinal
 cord) along with increases in pain, but the spinal cord sensations
 were not notable in and of themselves.
 
+### Thirty days later (2024-08-17)
+
+Start of portion coppied from the [2024 exercise
+tracker](2024-exercise-tracker.md):
+
+When jogging, I noticed a slight
+pain that seemed to be coming from my lower right area. After
+completing 1.1 miles, I decided that the pain, though mild, was
+consistent enough that I should stop and walk back. As I walked back,
+the pain subsided and seemingly shifted around a little bit, so I do
+think the act of jogging in particular triggered the increase in pain.
+
+In light of this, I plan to skip jogging for at least a week and
+monitor the progress of my symptoms.
+
+End of portion copied.
+
+Further thoughts:
+
+* Does this reflect the locus of the pain overall shifting to my lower
+  right side? Or is it something jogging-specific that seems to attack
+  the right side?
+
+* If the pain is shifting to the right side on the whole, is this
+  evidence consistent with the intestinal methanogen overgrowth /
+  (appendix as the reservoir of methanogens) theory?
+
 ## Current learnings
 
 I was updating [best practices around abdominal
