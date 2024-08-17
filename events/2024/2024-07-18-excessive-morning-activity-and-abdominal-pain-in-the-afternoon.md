@@ -16,7 +16,7 @@ Sections of this document:
 On 2024-07-18, I overexerted myself (running 1.7 miles then walking
 3.3 miles with only small breaks in between) and delayed eating. In
 the immediately preceding days, I had eaten lentils at a relatively
-high rate (stating 2024-07-14). I ate freshly prepped peas in the
+high rate (starting 2024-07-14). I ate freshly prepped peas in the
 delayed meal after returning on 2024-07-18.
 
 A combination of these factors seems to have triggered abdominal
