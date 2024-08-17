@@ -88,10 +88,13 @@ no-regret advice I can follow for those.
 * Any other blood tests to do?
 
 * Should I get the not-very-reliable FoodMarble Aire 2 for $249 to get
-  a general sense of things.
+  a general sense of things? This can be used to get a large number of
+  readings, and it does not require a doctor's order, but its
+  reliability is supposedly less than the TrioSmart breath test.
 
 * Should I, when should I, and how should I get the TrioSmart breath
-  test to see if I actually have IMO?
+  test to see if I actually have IMO? The "how" part is basically
+  trying to figure out how to get a doctor's order for the test.
 
 ## General evolution
 
