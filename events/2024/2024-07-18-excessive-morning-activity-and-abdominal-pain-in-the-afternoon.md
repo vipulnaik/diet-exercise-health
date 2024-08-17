@@ -568,7 +568,7 @@ Here's my quick summary of the jargon (fka means "formerly known as"):
   SIBO correlates with diarrhea, and is believed to be a big
   proportion of IBS-D.
 
-  One seemingly primary cause of SIBO is food poisoning that incudes
+  One seemingly primary cause of SIBO is food poisoning that includes
   CdTB, leading the body to produce an antibody that also attacks
   vinculin, a key protein that protects the intestinal lining, and
   this makes people susceptible to SIBO. So in short: food poisoning
