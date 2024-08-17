@@ -577,7 +577,7 @@ Here's my quick summary of the jargon (fka means "formerly known as"):
 
   There also seem to be autoimmune conditions that can lead to SIBO
   without going through the food poisoning route (for instance,
-  [Sjogren's](https://www.sjogrensadvocate.com/post/gastrointestinal-manifestations#:~:text=Small%20Intestine%20Bacterial%20Overgrowth%20(SIBO,care%20has%20not%20been%20established.). I
+  [Sjogren's](https://www.sjogrensadvocate.com/post/gastrointestinal-manifestations). I
   don't have any evidence that I have any of these autoimmune
   conditions.
 
