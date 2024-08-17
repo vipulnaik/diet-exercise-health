@@ -705,21 +705,18 @@ I skipped jogging, breath holds, and strength exercises. I still did
 hand gripper exercises and standing-on-one-leg-with-eyes-closed
 exercises.
 
-## 2024-08-14 (possibly continuing to 2024-08-15): planned skipping of all exercise (except standing-on-one-leg-with-eyes-closed exercise)
+## 2024-08-14 (extended to 2024-08-15 and 2024-08-16): planned skipping of all exercise (except standing-on-one-leg-with-eyes-closed exercise)
 
-I'm planning to skip all exercises on 2024-08-14, to see how that
-helps in my recovery, since as of 2024-08-13 evening I feel like I'm
-in a stage of recovery where I have more cramping, and am wondering if
-skipping exercise will help with recovery during this critical
-phase. My thought is to do this skipping even if I subjectvely feel
-fine on 2024-08-14 morning.
+I kipped all exercises on 2024-08-14, to see how that helps in my
+recovery, since as of 2024-08-13 evening I falt like I'm in a stage of
+recovery where I have more cramping, and eonderedif skipping exercise
+will help with recovery during this critical phase. My thought was to
+do this skipping even if I subjectvely feel fine on 2024-08-14
+morning. I executed on this plan on 2024-08-14, then continued on
+2024-08-15 and 2024-08-16. I also skipped breath holds on all days.
 
-For breath holds and hand gripper exercises, I've noticed that these
-exacerbate the cramping sensation, though the effect really becomes
-significant only as I push to the max (for instance, trying the 200 lb
-hand gripper, or the part of the breath hold after the first 30
-seconds). I also suspect that the exacerbation does not have lasting
-effects beyond 10 minutes. But, I'm not sure! And perhaps even the
-parts before that are subtly hurting my recovery. One day of rest from
-exercise and then evaluating how I feel, I can decide whether to
-continue for one more day.
+For hand gripper exercises, I skipped on 2024-08-14 and 2024-08-15 but
+did a partial exercise on 2024-08-16.
+
+I did standing-on-one-leg-with-eyes-closed exercise at least twice
+over these three days.
