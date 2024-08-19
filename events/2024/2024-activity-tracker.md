@@ -427,3 +427,15 @@ In the morning, I made a trip for some tax-related administrative work
 (copying/printing etc.) and then stopped by at Berkeley Bowl for food
 purchases recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Friday August 16
+
+I made two trips during the day to the post office at 3175 Adeline
+Street to mail stuff out.
+
+## Monday August 19
+
+In the morning, I made a trip to downtown Berkeley. I first stopped at
+Citibank for some financial transactions. I then went to Tader Joe's
+for food purchases recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).
