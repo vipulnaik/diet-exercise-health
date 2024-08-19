@@ -1651,6 +1651,15 @@ Further thoughts:
   evidence consistent with the intestinal methanogen overgrowth /
   (appendix as the reservoir of methanogens) theory?
 
+### Thirty-one days later (2024-08-18)
+
+This summary was added the next morning (2024-08-19).
+
+My symptoms seem to be more clearly shifting in the direction of pain,
+and the role of right side pain relative to central pain seems to have
+increased. Direct GI tract symptoms such as stomach rumble,
+flatulence, and burping seem to have further reduced.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
