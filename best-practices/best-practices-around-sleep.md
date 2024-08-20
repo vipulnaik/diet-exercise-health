@@ -17,6 +17,12 @@ bed.
 My default sleep duration is about 7.5-8 hours. Generally, going down
 to 7 hours on a day doesn't have significant repercussions.
 
+#### Default minimum gap between last meal and sleeping
+
+I default to a minimum gap of 3 hours between the end of my last meal
+and sleeping, with the gap being larger in some cases. I also aim for
+a gap of at least 2 hours between the last meal and shower/bath.
+
 ### Sleeping late and getting up naturally
 
 This may happen, for instance, in cases that I am really hooked to
@@ -101,6 +107,9 @@ The earliest time by which I should be in bed is 2 hours earlier than
 the latest time, unless I am feeling fatigue that makes me want to go
 to bed earlier than that.
 
+Also, **don't get into bed less than 3 hours after finishing my last
+meal**.
+
 ### Urinate right before going to bed
 
 Urine pressure is one reason I sometimes prematurely wake up. So,
@@ -126,7 +135,6 @@ necessary, but is a best practice.
   until I spend some time in a seated or upright position, so in order
   to get extra sleep I should try to avoid getting in a seated
   position.
-
 
 ### Reducing the incidence of unplanned late sleep
 
@@ -190,6 +198,18 @@ regarding the latest time I should be in bed as follows:
 The earliest time by which I should be in bed is 2 hours earlier than
 the latest time, unless I am feeling fatigue that makes me want to go
 to bed earlier than that.
+
+Also, in case of health issues affecting digestion or with potential
+effect on digestion, **increase the minimu gap from finishing my last
+meal to sleeping to 4.5 hours from the default of 3 hours**. This
+increases the chances of finishing the third MMC wave before I go to
+sleep.
+
+If I can't simultaneously satisfy the condition of getting sufficient
+sleep and maintaining the increased eating/sleeping gap, it's a
+judgment call what to prioritize, and it generally depends on whether
+my issue is more one of digestion or one of fatigue or
+infection-fighting.
 
 ### Urinate right before going to bed
 
