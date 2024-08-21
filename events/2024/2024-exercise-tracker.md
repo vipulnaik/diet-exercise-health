@@ -738,3 +738,11 @@ the increase in pain.
 
 In light of this, I plan to skip jogging for at least a week and
 monitor the progress of my symptoms.
+
+## 2024-08-18 to 2024-08-23: break from jogging, strength exercises, breath holds, and (for the most part) hand gripper exercises
+
+For the period of 2024-08-18 to 2024-08-23, I took a break from
+jogging, strength exercises, breath holds, and most hand gripper
+exercises. I did do brief hand gripper closes. The goal of this break
+was to rest my abdominal muscles in light of the abdominal pain I
+experienced in the recent past.
