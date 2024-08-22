@@ -1687,6 +1687,23 @@ There were large parts of the day where the pain wasn't noticeable,
 and even periods of the day where I could not even notice anything
 unusual even after trying to focus on the area (unless I tensed it).
 
+### Thirty-four days later (2024-08-21)
+
+This summary was added the morning of the next day (2024-08-22).
+
+My symptoms stayed mostly similar to the past few days; for the most
+part, I did not have any noticeable gas, reflux, stomach rumble, or
+perceived constipation/tenesmus. I had continued mild pain, ranging
+from a 0 to a 1, in the same area as the previous day: below the belly
+button in the center and slight left, and occasionally shifting to the
+right area.
+
+However, shortly after dinner I felt a bit heavier than usual. I think
+the greater proportion of kale in my dinner meal may have resulted in
+some of the symptoms. I also had slightly more flatulence than usual,
+though nowhere near as much as when I had been having peas, lentils,
+sauerkraut, and broccoli.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
