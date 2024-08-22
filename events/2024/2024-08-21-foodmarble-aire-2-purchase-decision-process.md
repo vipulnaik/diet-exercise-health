@@ -4,6 +4,22 @@ The context for this purchase decision process is the [2024-07-18
 onward incident of abdominal
 pain](2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md).
 
+Sections of this document:
+
+* [Reference material](#reference-material)
+* [System requirements for the FoodMarble Aire 2](#system-requirements-for-the-foodmarble-aire-2)
+* [Cost-benefit analysis of getting the FoodMarble Aire 2 now](#cost-benefit-analysis-of-getting-the-foodmarble-aire-2-now)
+* [Drawing on how I feel about this expenditure](#drawing-on-how-i-feel-about-this-expenditure)
+* [Purchase process](#purchase-process)
+
+Jargon note:
+
+* SIBO = small intestinal bacterial overgrowth, formerly known as
+  hydrogen-dominant SIBO
+
+* IMO = intestinal methanogen overgrowth, formerly known as
+  methane-dominant SIBO
+
 ## Reference material
 
 * [Using FoodMarble's Handheld Breath Tester (Aire) in SIBO. A Game
@@ -70,7 +86,7 @@ pain](2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.
   explained by the fact that the "multiplication by 5" breaks down
   above 8.
 
-## System requirements for the FoodMarble device
+## System requirements for the FoodMarble Aire 2
 
 ### Android phone with the FoodMarble app on it
 
@@ -88,7 +104,7 @@ that Android has been supporting Bluetooth LE since Android
 doesn't clearly say that it has Bluetooth LE specifically, but the
 options provided seem consistent with it being LE.
 
-## Cost-benefit analysis of getting the Aire 2 now
+## Cost-benefit analysis of getting the FoodMarble Aire 2 now
 
 ### Potential benefit: some basic insight into whether I have IMO
 
@@ -203,10 +219,10 @@ expected to last.
 
 I've bought four medical measurement devices in the past few years:
 
-* 2021: no-contact forehead thermometer (about $20)
-* 2023: pulse oximeter (about $23)
-* 2024: blood pressure measurement machine (about $60)
-* 2024: stethoscope (about $21)
+* 2021: no-contact forehead thermometer (about $20 plus tax)
+* 2023: pulse oximeter (about $23 plus tax)
+* 2024: blood pressure measurement machine (about $60 plus tax)
+* 2024: stethoscope (about $21 plus tax)
 
 All of these are fairly standard measurement devices, so their cost is
 relatively low compared to the FoodMarble Aire 2. Even so, I think my
@@ -290,3 +306,17 @@ the tests done for about $330, and I could have taken the blood
 pressure readings at home. I did learn a bit about the medical system
 by making the trip, so I don't regret it per se, but I very much
 prefer paying for a device that I can use at home.
+
+## Purchase process
+
+After going through the decision process, I decided to place the
+order. I initially almost went through the order, then remembered that
+earlier in the day, I had signed up for the mailing list and had seen
+an offer for 10% off, so I went back and redid the order to use the
+10% off.
+
+I skipped the option of getting expedited delivery (for an extra $9)
+so all in all the order cost me $224, with expected delivery between
+August 28 and September 2.
+
+Let's see when and how I get it!
