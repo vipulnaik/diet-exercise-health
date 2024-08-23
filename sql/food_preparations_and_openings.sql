@@ -343,5 +343,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-08-21','Kite Hill Greek Style Plant-Based Yogurt',1),
   ('2024-08-21','TJ Miso Ginger Broth',1),
-  ('2024-08-21','TJ Walnuts',1);
+  ('2024-08-21','TJ Walnuts',1),
+  ('2024-08-22','TJ Almond Milk',1), /* opened with first meal */
+  /* Rice prep 2024-08-22 */
+  ('2024-08-22','Lundberg Sustainable California White Basmati Rice',0.8);
   /* Double-check the date before committing */
