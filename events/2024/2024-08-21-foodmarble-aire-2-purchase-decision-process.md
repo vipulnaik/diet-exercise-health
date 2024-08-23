@@ -22,6 +22,8 @@ Jargon note:
 
 ## Reference material
 
+* [FoodMarble subreddit](https://www.reddit.com/r/FoodMarble/)
+
 * [Using FoodMarble's Handheld Breath Tester (Aire) in SIBO. A Game
   Changer?](https://www.youtube.com/watch?v=RBQhUpO3YzQ): This video
   is from August 18, 2022. At this point, the Aire 2 had been
