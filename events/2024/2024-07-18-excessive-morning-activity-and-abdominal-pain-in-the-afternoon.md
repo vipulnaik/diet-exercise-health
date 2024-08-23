@@ -1704,6 +1704,29 @@ some of the symptoms. I also had slightly more flatulence than usual,
 though nowhere near as much as when I had been having peas, lentils,
 sauerkraut, and broccoli.
 
+### Thirty-five days later (2024-08-22)
+
+This summary was added the morning of the next day (2024-08-22).
+
+My symptoms stayed mostly similar to the past few days; for the most
+part, I did not have any noticeable gas, reflux, stomach rumble, or
+perceived constipation/tenesmus. I had continued mild pain, ranging
+from a 0 to a 1, in the same area as the previous day: below the belly
+button in the center and slight left, and occasionally shifting to the
+right area.
+
+However, there were a few slightly different things:
+
+* Brief increase in gas and burping and general sense of constipation
+  in the late morning, before my first meal. This self-resolved.
+
+* Occasional brief sensations of pain (like muscle aches) above the
+  belly, including near the bottom of my right rib cage. These lasted
+  only a few seconds.
+
+My mood / energy levels were pretty good for most of the day, even
+better than previous days.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
