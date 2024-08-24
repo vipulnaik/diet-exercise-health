@@ -1706,7 +1706,7 @@ sauerkraut, and broccoli.
 
 ### Thirty-five days later (2024-08-22)
 
-This summary was added the morning of the next day (2024-08-22).
+This summary was added the morning of the next day (2024-08-23).
 
 My symptoms stayed mostly similar to the past few days; for the most
 part, I did not have any noticeable gas, reflux, stomach rumble, or
@@ -1726,6 +1726,20 @@ However, there were a few slightly different things:
 
 My mood / energy levels were pretty good for most of the day, even
 better than previous days.
+
+### Thirty-six days later (2024-08-23)
+
+This summary was added the morning of the next day (2024-08-24).
+
+My symptoms stayed mostly similar to the past few days, though were
+lesser in frequency; for the most part, I did not have any noticeable
+gas, reflux, stomach rumble, or perceived constipation/tenesmus. I had
+sporadic mild pain, ranging from a 0 to a 1, in the same area as the
+previous day: below the belly button in the center and slight left,
+and occasionally shifting to the right area.
+
+The pain became a bit clearer late at night about 2-3 hours after
+dinner, but did not escalate much, and it subsided again.
 
 ## Current learnings
 
