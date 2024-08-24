@@ -353,5 +353,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-23','TJ Carrots',1),
   ('2024-08-23','Green bell pepper',4),
   ('2024-08-23','Orange bell pepper',2),
-  ('2024-08-23','Beefsteak tomato',6);
+  ('2024-08-23','Beefsteak tomato',6),
+  /* Potatoes prep 2024-08-24 */
+  ('2024-08-24','Gold potatoes 5 lb',0.43),
+  ('2024-08-24','TJ Kale',1),
+  ('2024-08-24','Beefsteak tomato',6);
   /* Double-check the date before committing */
