@@ -50,3 +50,4 @@ read:
 	python3 python/food_purchases_verification_queries.py
 	python3 python/food_preparations_and_openings_verification_queries.py
 	python3 python/test_results_verification_queries.py
+	python3 python/readings_verification_queries.py
