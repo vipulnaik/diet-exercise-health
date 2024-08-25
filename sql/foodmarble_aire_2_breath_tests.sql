@@ -3,8 +3,9 @@ create table foodmarble_aire_2_breath_tests(
   index_within_reading_date integer,
   minutes_since_last_food_consumption integer,
   number_of_meals_consumed_so_far_in_day integer,
-  hydrogen_fermentation_score decimal(3,1), /* ppm value is 5 times the fermentation score if fermentation score is between 0 and 8, and grows superlinearly (and faster than 5x) beyond 8 */
-  methane_fermentation_score decimal(3,1), /* ppm value is 5 times the fermentation score if fermentation score is between 0 and 8, and grows superlinearly (and faster than 5x) beyond 8 */
+  /* for the two fermentation score values below, the estimated ppm value is 5 times the fermentation score if fermentation score is between 0 and 8, and grows superlinearly (and faster than 5x) beyond 8 */
+  hydrogen_fermentation_score decimal(3,1), /* diagnostic threshold for SIBO with a proper prep diet and timed tests is: >= 20 ppm (aka 4 points in fermentation score) increase from baseline within the first 2 hours */
+  methane_fermentation_score decimal(3,1), /* diagnostic threshold for IMO with a proper prep diet and timed tests is: >= 10 ppm (aka 2.0 fermentation score) at any time within the first 2 or 3 hours after eating */
   notes varchar(2000),
   primary key (reading_date, index_within_reading_date)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
