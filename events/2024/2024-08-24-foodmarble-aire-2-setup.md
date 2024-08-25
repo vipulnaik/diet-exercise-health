@@ -30,3 +30,24 @@ of readings.
 This experience would lead me to later document my best practices for
 the breath testing process
 [here](../../best-practices/best-practices-around-foodmarble-aire-2-breath-testing.md).
+
+## Update 2024-08-25: exhale recognition seems to have stopped
+
+On 2024-08-25, when I tried doing a breath test at around 2 PM (this
+would be my seventh breath test) I cancelled my first attempt because
+I started exhaling too early. However, after that cancellation, future
+attempts just didn't work; for whatever reason the device seemed to
+fail to recognize my exhale and kept telling me to exhale. I tried a
+few times with gaps of 20 minutes and continued running into the same
+issue. Charging the battery to full or doing the [hard
+reset](https://support.foodmarble.com/en/article/aire-2-troubleshooting-hard-reset-fqkgpc/)
+didn't seem to fix the problem.
+
+I'm planning to wait a little while and try again, and then reach out
+to their support email address (`hello@foodmarble.com`) and/or ask
+about it on Reddit if the problem persists. As of now I am not sure if
+the issue was caused by my initial cancel or if it is some kind of
+hardware issue. And if it's the latter, whether waiting a little while
+would fix it (for instance, if there's moisture accumulated in the
+device, then waiting a while for it to dry should address the
+moisture).
