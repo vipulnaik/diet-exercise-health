@@ -54,3 +54,15 @@ Related documents:
   dry for about 10-15 minutes before reattaching.
 
 * Charge up the device while waiting for the mouthpiece to dry.
+
+## Putting it back
+
+* Before affixing the mouthpiece back, make sure that it is completely
+  dry. Complete drying takes somewhere between 15 minutes and 45
+  minutes.
+
+* Put the mouthpiece back on the device and put it in the case.
+
+* Put it back in the box.
+
+* If I took the USB charging cable out, put that back in too.
