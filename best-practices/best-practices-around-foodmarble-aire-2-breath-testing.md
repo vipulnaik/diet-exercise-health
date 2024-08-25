@@ -50,8 +50,11 @@ Related documents:
 
 * Save the breath test results in the SQL file.
 
-* Remove the mouthpiece and wipe it with hand sanitizer. Leave it to
-  dry for about 10-15 minutes before reattaching.
+* Remove the mouthpiece and wipe **only the outer side** with hand
+  sanitizer (don't wipe the inner side as that will touch the device
+  directly when I put it back on; also do not pump hand sanitizer
+  directly onto the mouthpiece but spread it with a finger). Leave it
+  to dry for at least 20 minutes before reattaching.
 
 * Charge up the device while waiting for the mouthpiece to dry.
 
