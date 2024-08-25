@@ -739,10 +739,27 @@ the increase in pain.
 In light of this, I plan to skip jogging for at least a week and
 monitor the progress of my symptoms.
 
-## 2024-08-18 to 2024-08-23: break from jogging, strength exercises, breath holds, and (for the most part) hand gripper exercises
+## 2024-08-18 to 2024-08-24: break from jogging, strength exercises, breath holds, and (for the most part) hand gripper exercises
 
 For the period of 2024-08-18 to 2024-08-23, I took a break from
 jogging, strength exercises, breath holds, and most hand gripper
 exercises. I did do brief hand gripper closes. The goal of this break
 was to rest my abdominal muscles in light of the abdominal pain I
 experienced in the recent past.
+
+My plan had been to try going jogging on 2024-08-24, but light rain in
+the morning led me to cancel the plan.
+
+## 2024-08-25: resumption of jogging
+
+On 2024-08-25, I resumed jogging. I also did brrath holds, hand
+gripper exercises, and standing-on-one-leg-with-eyes-closed exercises
+as usual.
+
+I only jogged 1.4 miles / walked 0.6 miles, which is just about at the
+threshold for reporting.
+
+I did experience a little pain in the lower right area as well as a
+bit of pain in the lower right rib area, but the pain was much milder
+than last time, and I recovered relatively quickly after the jogging
+portion ended.

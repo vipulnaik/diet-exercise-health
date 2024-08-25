@@ -1764,6 +1764,24 @@ baseline, then figure out an ongoing frequency of readings that makes
 sense. The readings so far are suggestive of intestinal methanogen
 overgrowth (IMO).
 
+### Thirty-eight days layer (2024-08-25)
+
+#### Update after exercise
+
+Copy/pasted from [2024 exercise tracker](2024-exercise-tracker.md):
+
+On 2024-08-25, I resumed jogging. I also did brrath holds, hand
+gripper exercises, and standing-on-one-leg-with-eyes-closed exercises
+as usual.
+
+I only jogged 1.4 miles / walked 0.6 miles, which is just about at the
+threshold for reporting.
+
+I did experience a little pain in the lower right area as well as a
+bit of pain in the lower right rib area, but the pain was much milder
+than last time, and I recovered relatively quickly after the jogging
+portion ended.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
