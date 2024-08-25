@@ -14,6 +14,14 @@ Sections of this document:
 
 ## Executive summary
 
+NOTE: This executive summary was written around 2024-08-15 /
+2024-08-16 and has not been updated to reflect more recent
+developments, including the FoodMarble Aire 2 purchase decision and
+readings. Access the readings
+[here](../../sql/foodmarble_aire_2_breath_tests.sql). See the
+[Subsequent days](#subsequent-days) section for more recent
+developments.
+
 On 2024-07-18, I overexerted myself (running 1.7 miles then walking
 3.3 miles with only small breaks in between) and delayed eating. In
 the immediately preceding days, I had eaten lentils at a relatively
@@ -1740,6 +1748,21 @@ and occasionally shifting to the right area.
 
 The pain became a bit clearer late at night about 2-3 hours after
 dinner, but did not escalate much, and it subsided again.
+
+### Thirty-seven days later (2024-08-24)
+
+This summary was added the morning of the next day (2024-08-25).
+
+My symptoms were pretty similar to the previous day (2024-08-23). My
+energy levels were pretty good.
+
+This was the day I received and started taking readings with the
+FoodMarble Aire 2. Readings are being recorded
+[here](../../sql/foodmarble_aire_2_breath_tests.sql). I'm planning to
+take multiple readings per day for the next week to get a good
+baseline, then figure out an ongoing frequency of readings that makes
+sense. The readings so far are suggestive of intestinal methanogen
+overgrowth (IMO).
 
 ## Current learnings
 
