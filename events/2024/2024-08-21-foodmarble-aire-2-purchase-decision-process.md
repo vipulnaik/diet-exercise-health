@@ -1,5 +1,11 @@
 # 2024-08-21: FoodMarble Aire 2 purchase decision process
 
+Related documents:
+
+* [2024-08-24: FoodMarble Aire 2 setup](2024-08-21-foodmarble-aire-2-setup.md)
+* [foodmarble_aire_2_breath_tests.sql](foodmarble_aire_2_breath_tests.sql)
+* [Best practices around FoodMarble Aire 2 breath testing](best-practices-around-foodmarble-aire-2-breath-testing.md)
+
 The context for this purchase decision process is the [2024-07-18
 onward incident of abdominal
 pain](2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md).
