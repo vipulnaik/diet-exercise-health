@@ -439,3 +439,9 @@ In the morning, I made a trip to downtown Berkeley. I first stopped at
 Citibank for some financial transactions. I then went to Tader Joe's
 for food purchases recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Saturday August 24
+
+In the afternoon, I made a trip to Walgreens to pick up the FoodMarble
+Aire 2. I had documented the purchase decision process
+[here](https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-08-21-foodmarble-aire-2-purchase-decision-process.md).
