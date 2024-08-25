@@ -357,5 +357,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Potatoes prep 2024-08-24 */
   ('2024-08-24','Gold potatoes 5 lb',0.43),
   ('2024-08-24','TJ Kale',1),
-  ('2024-08-24','Beefsteak tomato',6);
+  ('2024-08-24','Beefsteak tomato',6),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-08-24','Kite Hill Greek Style Plant-Based Yogurt',1); /* opened with second meal */
   /* Double-check the date before committing */
