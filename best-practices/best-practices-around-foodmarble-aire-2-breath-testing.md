@@ -6,6 +6,26 @@ Related documents:
 * [2024-08-24: FoodMarble Aire 2 setup](2024-08-21-foodmarble-aire-2-setup.md)
 * [foodmarble_aire_2_breath_tests.sql](foodmarble_aire_2_breath_tests.sql)
 
+## General cautions
+
+* Generally, try to keep a gap of at least 1 hour between successive
+  attempts, including failed attempts.
+
+* Do not cancel an attempt even if it's not accurate; try to go
+  through with it and just discard or discount it.
+
+* Try to not do more than 7 attempts in a day, including failed
+  attempts. Unless plotting a time series, try to keep to 3 or fewer
+  attempts a day.
+
+* Don't rely on any individual result for diagnostic purposes, and be
+  prepared for the device to fail to produce a reading at any given
+  attempt.
+
+* If doing successive attempts within a few hours, and keeping the
+  device out, keep it in its case to protect from moisture. If
+  charging, keep it partiaully within its case.
+
 ## Things to do in advance of the breath testing
 
 * Keep track of the time of finishing the last meal, as this will be
@@ -36,15 +56,36 @@ Related documents:
 ## For the actual breath test
 
 * Swallow saliva right before the test to reduce the risk of drool on
-  the mouthpiece.
+  the mouthpiece. Wipe my lips if they are wet.
 
-* After a normal breath out, hold your breath for at least three
-  seconds by pinching the nose, while pressing the button on the
-  device.
+* After slightly less than a full normal breath out (i.e., maybe only
+  go something like 75% of the way to the breath out), hold your
+  breath for at least three seconds by pinching the nose, while
+  pressing the button on the device.
+
+  * Doing a full normal breath out runs the risk of not having enough
+    air to blow into the device later.
+
+  * On the other hand, doing a breath in runs the risk of there being
+    too much outside air.
 
 * While keeping the nose pinched, put the mouth on the mouthpiece and
   breathe out slowly until the phone says that the breath is completed
   and shows the fermentation scores.
+
+## If the breath test fails
+
+* If the response had shown that it had started receiving my breath
+  but didn't get enough, it's likely that breathing in a bit more or
+  breathing out a bit less would work.
+
+* If, on the other hand, the response had shown no ack of my breathing
+  out, then it's likely a technical error. Before the next try, I
+  should fully charge, unpair, and hard reset.
+
+* If I do not need a measurement immediately, it is recommended to
+  wait at least 20 minutes before trying again, and preferable to wait
+  about 2-3 hours or more.
 
 ## After the breath test
 
