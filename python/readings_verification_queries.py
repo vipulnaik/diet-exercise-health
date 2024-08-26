@@ -11,13 +11,13 @@ queries = [
     "select * from blood_pressure_readings where measurer = 'self' and not (heart_rate_bpm between 40 and 75);",
 
     # Pulse oximeter
-    "select * from pulse_oximeter_readings where not within_an_hour_after_exercise and not (heart_rate_min_bpm between 40 and 65);",
+    "select * from pulse_oximeter_readings where not (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_min_bpm between 40 and 65);",
 
-    "select * from pulse_oximeter_readings where not within_an_hour_after_exercise and not (heart_rate_max_bpm between 45 and 70);",
+    "select * from pulse_oximeter_readings where not (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_max_bpm between 45 and 70);",
 
-    "select * from pulse_oximeter_readings where within_an_hour_after_exercise and not (heart_rate_min_bpm between 60 and 100);",
+    "select * from pulse_oximeter_readings where (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_min_bpm between 60 and 100);",
 
-    "select * from pulse_oximeter_readings where within_an_hour_after_exercise and not (heart_rate_max_bpm between 65 and 105);",
+    "select * from pulse_oximeter_readings where (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_max_bpm between 65 and 105);",
 
     "select * from pulse_oximeter_readings where not (spo2_min between 93 and 100);",
 
