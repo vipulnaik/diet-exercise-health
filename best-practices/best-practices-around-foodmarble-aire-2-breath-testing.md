@@ -103,6 +103,9 @@ Related documents:
   directly onto the mouthpiece but spread it with a finger). Leave it
   to dry for at least 20 minutes before reattaching.
 
+* Put the mouthpiece in a clear, prominent location to dry. The
+  mouthpiece should not get lost or misplaced while it is drying.
+
 * Charge up the device while waiting for the mouthpiece to dry.
 
 ## Putting it back
@@ -111,7 +114,8 @@ Related documents:
   dry. Complete drying takes somewhere between 15 minutes and 45
   minutes.
 
-* Put the mouthpiece back on the device and put it in the case.
+* Remove the device from the case, put the mouthpiece back on the
+  device and put it in the case.
 
 * Put it back in the box.
 
