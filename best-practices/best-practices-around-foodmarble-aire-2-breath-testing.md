@@ -24,7 +24,7 @@ Related documents:
 
 * If doing successive attempts within a few hours, and keeping the
   device out, keep it in its case to protect from moisture. If
-  charging, keep it partiaully within its case.
+  charging, keep it partially within its case.
 
 ## Things to do in advance of the breath testing
 
