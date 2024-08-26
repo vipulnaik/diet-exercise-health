@@ -44,16 +44,22 @@ Related documents:
 * Get my phone out.
 
 * Get the device out. The phone and device should be close by for the
-  duration of the recording.
+  duration of the recording. Keep the device in its case until shortly
+  before the test, but remove it from the box.
 
 * Open the FoodMarble app on my phone, click the + button at the
   bottom, and select Breath.
 
 * Double-tap on the device and watch the phone connect to it.
 
-* When prompted, double-tap again.
+* If prompted, double-tap again.
 
-## For the actual breath test
+## For the actual breath test, once the device is ready
+
+* If I had put the device on charging, unplug it first. It'll be hard
+  to unplug once I start the other steps.
+
+* If the device is in its case, remove it from its case.
 
 * Swallow saliva right before the test to reduce the risk of drool on
   the mouthpiece. Wipe my lips if they are wet.
