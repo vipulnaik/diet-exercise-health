@@ -345,19 +345,21 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-21','TJ Miso Ginger Broth',1),
   ('2024-08-21','TJ Walnuts',1),
   ('2024-08-22','TJ Almond Milk',1), /* opened with first meal */
-  /* Rice prep 2024-08-22 */
+  /* Rice prep 2024-08-22 (second meal) */
   ('2024-08-22','Lundberg Sustainable California White Basmati Rice',0.8),
-  /* Meal prep 2024-08-23 */
+  /* Meal prep 2024-08-23 (first meal) */
   ('2024-08-23','Eggplant',1),
   ('2024-08-23','TJ Kale',1),
   ('2024-08-23','TJ Carrots',1),
   ('2024-08-23','Green bell pepper',4),
   ('2024-08-23','Orange bell pepper',2),
   ('2024-08-23','Beefsteak tomato',6),
-  /* Potatoes prep 2024-08-24 */
+  /* Potatoes prep 2024-08-24 (first meal) */
   ('2024-08-24','Gold potatoes 5 lb',0.43),
   ('2024-08-24','TJ Kale',1),
   ('2024-08-24','Beefsteak tomato',6),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-08-24','Kite Hill Greek Style Plant-Based Yogurt',1); /* opened with second meal */
+  ('2024-08-24','Kite Hill Greek Style Plant-Based Yogurt',1), /* opened with second meal */
+  /* Rice prep 2024-08-26 (first meal) */
+  ('2024-08-26','Lundberg Sustainable California White Basmati Rice',0.8);
   /* Double-check the date before committing */
