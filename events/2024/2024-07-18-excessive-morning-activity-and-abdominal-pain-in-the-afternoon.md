@@ -1782,6 +1782,14 @@ bit of pain in the lower right rib area, but the pain was much milder
 than last time, and I recovered relatively quickly after the jogging
 portion ended.
 
+#### Later update added the next day
+
+I was fairly high in energy through the day. The pain was occasional
+and didn't get in my way much.
+
+I'm also stopping daily updates at this point, but may still include
+updates for interesting developments.
+
 ## Current learnings
 
 I was updating [best practices around abdominal

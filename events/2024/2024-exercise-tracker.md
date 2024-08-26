@@ -763,3 +763,9 @@ I did experience a little pain in the lower right area as well as a
 bit of pain in the lower right rib area, but the pain was much milder
 than last time, and I recovered relatively quickly after the jogging
 portion ended.
+
+## 2024-08-26: return to more normal level of jogging
+
+On 2024-08-26, I went jogging again. This time I jogged about 1.5
+miles / walked 0.5 miles, which is more normal. Also, in an
+improvement over yesterday, I did not have any clear pain.
