@@ -1787,8 +1787,72 @@ portion ended.
 I was fairly high in energy through the day. The pain was occasional
 and didn't get in my way much.
 
-I'm also stopping daily updates at this point, but may still include
-updates for interesting developments.
+### Thirty-nine days later (2024-08-26)
+
+This summary was added the morning of the next day (2024-08-27).
+
+The day started pretty well. I did my full amount of jogging exercise
+as well as other exercises (though I skipped strength
+exercises). However, the time I went jogging was a bit late and it was
+a hotter day, so although I didn't realize it at the time, I think I
+might have had some heat exhaustion from jogging. I got back from
+jogging around 10:10 AM.
+
+It was around 11:30 AM that I started feeling worse, and after that
+the rest of the day was a little bit on the worse side, both in terms
+of physical pain and fatigue and in terms of mood. The qualitative
+nature of the pain was mostly similar: below the belly button and
+center and right on the front.
+
+Also, around 2 PM, about 1.5 hours after finishing eating, I noticed
+an increase in my heart rate and took a measurement that confirmed the
+high heart rate. The measured range was 74-86 bpm. When I measured
+again about an hour later, the heart rate was getting back to normal,
+with a range of 60-68 bpm.
+
+Some of my hypotheses for the deterioration are:
+
+* Overexertion with exercise (even though it didn't seem to have immediate negative effects)
+
+* Overexertion with exercise specifically in the context of heat (so
+  if I had gone out jogging earlier in the day, maybe it wouldn't have
+  been so bad)
+
+* Taking the Vitamin B Complex pill the previous day
+
+* Cumulative physical and mental overexertion over the past day or
+  two, relative to what I can currently handle (which is less than
+  what I would historically have been able to handle)
+
+Perhaps a little unusually, I also felt a little more cognitive stress
+and holistic unwellness as opposed to just local pain that distracted
+me. The cognitive stress may have been coming from the nature of my
+work being less fun, the issues with the FoodMarble Aire 2, and
+general stress about the root cause of my issues. However, I still
+wouldn't consider cognitive stress the driver, just a co-conspiratory
+passenger.
+
+Somewhat unusually, I had a fitful sleep overnight as well, which
+doesn't usually happen, and by the time I woke up the next day, I was
+feeling a strong urge for bowel movement and more general pain in the
+area.
+
+### Forty days later (2024-08-27)
+
+#### Notes taken in the morning
+
+I woke up not feeling very well-rested, which is unusual even for the
+past few weeks. I was feeling mild pain and an urge for bowel
+movement. Normally, I get a clear urge for bowel movement only a few
+minutes after getting out of bed.
+
+My mood improved quite quickly after I got out of bed and stayed in a
+seated position for a while, though it's still clearly worse than what
+it was yesterday before the nosedive around 11:30 AM.
+
+My bowel movement was pretty normal and complete or close-to-complete,
+though there was some sense of incompleteness that might be due to
+pain in surrounding areas.
 
 ## Current learnings
 
