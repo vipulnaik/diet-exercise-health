@@ -1818,6 +1818,8 @@ Some of my hypotheses for the deterioration are:
   if I had gone out jogging earlier in the day, maybe it wouldn't have
   been so bad)
 
+* Indoor heat throughout the day
+
 * Taking the Vitamin B Complex pill the previous day
 
 * Cumulative physical and mental overexertion over the past day or
@@ -1839,7 +1841,7 @@ area.
 
 ### Forty days later (2024-08-27)
 
-#### Notes taken in the morning
+#### Notes taken in the morning (around 8 AM)
 
 I woke up not feeling very well-rested, which is unusual even for the
 past few weeks. I was feeling mild pain and an urge for bowel
@@ -1853,6 +1855,15 @@ it was yesterday before the nosedive around 11:30 AM.
 My bowel movement was pretty normal and complete or close-to-complete,
 though there was some sense of incompleteness that might be due to
 pain in surrounding areas.
+
+#### Notes added around 10:45 AM
+
+I'm experiencing stomach rumble and flatulence which is quite unusual
+since I've stopped all the implicated foods for a while. For whatever
+reason, I am suspicious of the B complex because that's one thing I
+had stopped for the last week or so when my symptoms improved, and
+it's also the thing that I was taking semi-regularly (every 2-3 days)
+during the first few weeks when symptoms were bad.
 
 ## Current learnings
 
