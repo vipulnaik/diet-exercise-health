@@ -3,13 +3,15 @@
 This page documents the thought process behind deciding on my blood
 tests, as well as the process of getting them.
 
-## Test shortlist for phase 1 of tests (targeted for around August/September 2024)
+## Test list for phase 1)
 
 I started working on this test shortlist in November 2023. I later
 updated it in late August 2024 prior to ordering.
 
 Total estimated cost: LabCorp: $445; Quest Diagnostics: $431. I went
 with Quest Diagnostics.
+
+I placed the order on 2024-08-27.
 
 ### Insulin: followup measurement because of diabetic tendencies
 
@@ -72,7 +74,6 @@ Test details: https://requestatest.com/complete-blood-count-cbc-and-comprehensiv
 I'm getting these tests done both due to not feeling well now, and to
 get another followup measurement after my April tests (which were not
 done with the proper fasting).
-
 
 ## Test shortlist for phase 2 of tests (targeted for around August/September of 2024)
 
