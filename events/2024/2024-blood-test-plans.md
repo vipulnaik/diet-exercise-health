@@ -3,21 +3,25 @@
 This page documents the thought process behind deciding on my blood
 tests, as well as the process of getting them.
 
-## Test shortlist for phase 1 of tests (targeted for around June/July 2024)
+## Test shortlist for phase 1 of tests (targeted for around August/September 2024)
 
-I started working on this test shortlist in November 2023.
+I started working on this test shortlist in November 2023. I later
+updated it in late August 2024 prior to ordering.
+
+Total estimated cost: LabCorp: $445; Quest Diagnostics: $431. I went
+with Quest Diagnostics.
 
 ### Insulin: followup measurement because of diabetic tendencies
 
-Test details: https://requestatest.com/insulin-testing (LabCorp: $59; Quest Diagnostics: $49)
+Test details: https://requestatest.com/insulin-testing (LabCorp: $59; Quest Diagnostics: $59)
 
 My previous insulin test came back fairly normal (3.6). So this
 followup is only being done due to family diabetic tendencies, and the
 importance ascribed in certain circles to insulin testing.
 
-### HbA1c: followup measurement because of diabetic tendencies
+### HbA1c with eAG: followup measurement because of diabetic tendencies
 
-Test details: https://requestatest.com/hemoglobin-a1c-with-eag-testing (LabCorp: $39; Quest Diagnostics: $36)
+Test details: https://requestatest.com/hemoglobin-a1c-with-eag-testing (LabCorp: $39; Quest Diagnostics: $39)
 
 My last HbA1c test, in June 2021, came back pretty good at 5.0%. So,
 this followup test is mostly just in light of the need to continue to
@@ -47,11 +51,28 @@ direction.
 Test details: https://requestatest.com/omega-3-blood-test (LabCorp: $129; Quest Diagnostics: $129)
 
 I [started omega-3
-supplementation](2019-12-30-decision-to-start-taking-omega-3-supplements.md)
+supplementation](../2019/2019-12-30-decision-to-start-taking-omega-3-supplements.md)
 in early 2020. I got my first test results in 2021, where I was okay
 but below optimal. Since then, I've made further changes including the
 addition of walnuts to my diet. This followup test is to assess the
 success of those changes.
+
+### Vitamin panel, basic (B12, D, and folate)
+
+Test details: https://requestatest.com/basic-vitamin-deficiency-panel-vitamin-b12-d-folate-blood-test (LabCorp: $125; Quest Diagnostics: $109)
+
+I decided to get tested for these as a package since it's cheaper than
+testing the components individually, and considering that I have been
+continuing to supplement Vitamin D and B12.
+
+### CBC with differential and comprehensive metabolic panel
+
+Test details: https://requestatest.com/complete-blood-count-cbc-and-comprehensive-metabolic-panel-cmp-blood-test (LabCorp: $59; Quest Diagnostics: $59)
+
+I'm getting these tests done both due to not feeling well now, and to
+get another followup measurement after my April tests (which were not
+done with the proper fasting).
+
 
 ## Test shortlist for phase 2 of tests (targeted for around August/September of 2024)
 
@@ -89,25 +110,8 @@ Test details:
 
 * Hepatic function https://requestatest.com/hepatic-function-testing
   (LabCorp: $39; Quest Diagnostics: $29): My main interest is in ALT
-  (as an indication of fatty liver disease), but it's not a lot more
-  expensive to get the entire hepatic function (liver
-  function). However, since I recently did a comprehensive metabolic
-  panel (CMP) that covers ALT and AST, I'm planning to skip it this
-  year and may do it next year, or I may opt for the CMP again next
-  year.
-
-* Vitamin B12: I've been taking regular supplementation and the last
-  measurement (in 2018) showed me at the upper end, so I don't think
-  additional testing is immediately needed.
-
-* Vitamin D: My previous test in 2021 showed me at the expected
-  level. I am planning to skip this test this time but should get it
-  done some time between 2025 and 2027.
-
-* Complete blood count: I got a baseline in 2021 and did another round
-  in 2024 (as part of my urgent care visit) and both came out
-  normal. So, I think this can be skipped, but I should get it done
-  some time between 2025 and 2027.
+  (as an indication of fatty liver disease). The most significant
+  parts of this are covered in the CMP test.
 
 * https://requestatest.com/c-reactive-protein-high-sensitivity-testing
   and https://requestatest.com/c-reactive-protein-quantitative-testing
