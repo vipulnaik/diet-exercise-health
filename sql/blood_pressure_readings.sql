@@ -50,4 +50,7 @@ insert into blood_pressure_readings(reading_date, index_within_reading_date, mea
   ('2024-07-24',2,'self','left arm',103,64,60,'This reading, taken around 7:27 PM, was a repeat reading for the previous reading.'),
   /* 2024-08-10 */
   ('2024-08-10',1,'self','left arm',100,64,51,'This reading was taken around 9:24 AM, about an hour after I got back to my computer after my morning bowel movement. This was during the recovery phase from abdominal pain issues.'),
-  ('2024-08-10',2,'self','left arm',93,56,45,'This reading taken around 9:26 AM, was a repeat reading of the previous reading.');
+  ('2024-08-10',2,'self','left arm',93,56,45,'This reading taken around 9:26 AM, was a repeat reading of the previous reading.'),
+  /* 2024-08-27 */
+  ('2024-08-27',1,'self','left arm',95,62,75,'This reading was taken around 3:04 PM. The high heart rate is consistent with pulse oximeter readings taken around the same time. The rest of the blood pressure reading is fairly normal.'),
+  ('2024-08-27',2,'self','left arm',91,58,68,'This reading,taken around 3:07 PM, was a repeat of the previous reading.');
