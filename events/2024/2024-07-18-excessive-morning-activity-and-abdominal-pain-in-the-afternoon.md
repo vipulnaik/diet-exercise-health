@@ -1865,6 +1865,21 @@ had stopped for the last week or so when my symptoms improved, and
 it's also the thing that I was taking semi-regularly (every 2-3 days)
 during the first few weeks when symptoms were bad.
 
+#### Notes added the next day (2024-08-28)
+
+My subjective wellness wasn't great but improved over the next few
+hours and was decent by the evening. I had a decent sleep -- it wasn't
+fitful like the previous night.
+
+### Forty-one days later (2024-08-28)
+
+#### Notes added in the morning (around 9:56 AM)
+
+Overall, I'm feeling a lot better than yesterday. My heart rate is
+also closer to normal. I still feel like I have some flatulence and
+gas specifically from the B complex supplement consumption, but I'm
+not totally sure.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
