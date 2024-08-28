@@ -53,7 +53,8 @@ late. Set calendar reminders for these.
 
 ### Reminder to eat so that I finish about 14 hours prior to my expected blood draw time
 
-Generally, setting a calendar reminder to start eating by 5:30 PM would work.
+This will depend on the specific appointment time, if any; if no
+appointment, use the estimated time of walk-in.
 
 ### Shopping reminder for two days prior to the appointment
 
@@ -87,7 +88,9 @@ blood test if I'm feeling up to it. No calendar reminder is needed.
 
 **NOTE: If measuring B12, it is important to pause consumption of the
 B complex supplement for at least five days, and ideally at least a
-week, before the blood test. Even otherwise, it may make sense to
+week, before the blood test (this is because the consumption of biotin
+and folate, both of them present in the B complex supplement, can
+interfere with B12 measurement). Even otherwise, it may make sense to
 pause B complex supplements given that I appear to have had an adverse
 reaction to them once.**
 
