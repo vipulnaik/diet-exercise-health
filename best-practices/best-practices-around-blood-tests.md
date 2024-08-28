@@ -85,6 +85,12 @@ blood test if I'm feeling up to it. No calendar reminder is needed.
 
 ### Reminders to pause supplements for two days prior to the blood test
 
+**NOTE: If measuring B12, it is important to pause consumption of the
+B complex supplement for at least five days, and ideally at least a
+week, before the blood test. Even otherwise, it may make sense to
+pause B complex supplements given that I appear to have had an adverse
+reaction to them once.**
+
 Recent consumption of supplements can distort blood test results,
 particularly when the blood test is for the materials being
 supplemented (the risk is highest for water-soluble vitamins). Pausing
