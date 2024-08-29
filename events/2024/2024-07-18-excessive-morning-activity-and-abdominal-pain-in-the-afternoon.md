@@ -1856,6 +1856,9 @@ My bowel movement was pretty normal and complete or close-to-complete,
 though there was some sense of incompleteness that might be due to
 pain in surrounding areas.
 
+I skipped jogging in the morning due to morning meetings and also to
+help with recovery.
+
 #### Notes added around 10:45 AM
 
 I'm experiencing stomach rumble and flatulence which is quite unusual
@@ -1875,10 +1878,36 @@ fitful like the previous night.
 
 #### Notes added in the morning (around 9:56 AM)
 
+I skipped jogging in the morning due to morning meetings and also to
+help with recovery.
+
 Overall, I'm feeling a lot better than yesterday. My heart rate is
 also closer to normal. I still feel like I have some flatulence and
 gas specifically from the B complex supplement consumption, but I'm
-not totally sure.
+not totally sure. My measured heart rate range is now closer to what
+it normally is.
+
+#### Notes added the next day (2024-08-29)
+
+I had a fairly normal and high-energy day, noticing only occasional
+flatulence and gas and occasional pain that still tells me that my
+body is not totally back to normal.
+
+### Forty-two days later (2024-08-29)
+
+### Notes added around 10:15 AM
+
+I was feeling pretty okay in the morning, though not clearly
+subjectively better than yesterday. The flatulence and gas was lower
+than yesterday but not completely gone. It was more like "normal most
+of the time, with occasional reminders that I'm not back to normal"
+than a steady sense of not being normal.
+
+My heart rate as measured before going jogging was 46-62 bpm, but it
+was mostly 46-54 bpm with just one brief spike to 62 bpm. The 46-54
+bpm is my normal morning heart rate in this weather, and the brief
+spike to 62 bpm may be reflective of the continued residue of the
+issues from the past few days.
 
 ## Current learnings
 

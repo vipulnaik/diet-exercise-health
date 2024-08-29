@@ -4,6 +4,16 @@ Last major update: July 12, 2024
 
 Last pass of full document review (with updates and corrections where needed): July 12, 2024
 
+One-off note added 2024-08-29: I'm currently in the middle of a health
+issue, starting 2024-07-18, which is characterized by abdominal pain
+and other GI symptoms. See
+[here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md)
+for more details. I have not yet updated my health profile to reflect
+all the developments there, though most of the content of my health
+profile remains applicable. I am planning to do an update around
+mid-September, regardless of whether I have successfully resolved the
+issues or am continuing to investigate them.
+
 This is the health profile for Vipul Naik. It is updated
 periodically. It does not include details of specific
 events/incidents; these are generally recorded in their own respective
