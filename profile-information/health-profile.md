@@ -101,7 +101,10 @@ health events or other incidents) in
 most recent reading was a range of 94% to 97% over a period of two
 minutes.
 
-For more extensive experiment results, see
+For recent pulse oximeter readings, see
+[pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql).
+
+For historical results, see
 [2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
 
 ### Temperature
@@ -116,8 +119,8 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting blood pressure readings (taken
-2024-07-13) were 92/63 and 97/65. I've had home blood pressure
-readings with the systolic between 92 and 115 and the diastolic
+2024-08-27) were 95/62 and 91/58. I've had home blood pressure
+readings with the systolic between 91 and 115 and the diastolic
 between 55 and 75.
 
 For more on my history of blood pressure readings, see
