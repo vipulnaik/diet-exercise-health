@@ -366,5 +366,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-26','TJ Miso Ginger Broth',1),
   ('2024-08-27','TJ Almond Milk',1), /* opened with first meal */
   ('2024-08-28','Kite Hill Greek Style Plant-Based Yogurt',1), /* opened with second meal */
-  ('2024-08-29','TJ Walnuts',1); /* opened with first meal */
+  ('2024-08-29','TJ Walnuts',1), /* opened with first meal */
+  /* Potatoes prep 2024-08-29 (second meal) */
+  ('2024-08-29','Gold potatoes 5 lb',0.43),
+  ('2024-08-29','TJ Kale',1),
+  ('2024-08-29','Beefsteak tomato',5.5);
   /* Double-check the date before committing */
