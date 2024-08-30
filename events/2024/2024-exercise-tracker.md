@@ -769,3 +769,14 @@ portion ended.
 On 2024-08-26, I went jogging again. This time I jogged about 1.5
 miles / walked 0.5 miles, which is more normal. Also, in an
 improvement over yesterday, I did not have any clear pain.
+
+## 2024-08-27 and 2024-08-28: break from exercise due to feeling a little not-so-great and also due to morning calls
+
+On 2024-08-27, I had calls relatively early in the morning, and also
+was not feeling at my best starting the afternoon of Monday
+2024-08-26. Rather than trying to force-fit exercise into a busy
+morning, I skipped exercise and freed up my time that I was then able
+to use to be in good form on the calls.
+
+I resumed regular jogging as well as all my other regular exercises on
+2024-08-29; I still didn't resume strength exercise.
