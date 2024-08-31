@@ -780,3 +780,10 @@ to use to be in good form on the calls.
 
 I resumed regular jogging as well as all my other regular exercises on
 2024-08-29; I still didn't resume strength exercise.
+
+## 2024-08-30: skipping of exercise due to lunch meeting
+
+On 2024-08-30, I chose to skip my exercise due to a lunch
+meeting. This was both due to time constraints and to conserve
+energy. This was good because I spent about four continuous hours
+standing/walking, so having all my energy intact was helpful.
