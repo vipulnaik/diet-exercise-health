@@ -787,3 +787,14 @@ On 2024-08-30, I chose to skip my exercise due to a lunch
 meeting. This was both due to time constraints and to conserve
 energy. This was good because I spent about four continuous hours
 standing/walking, so having all my energy intact was helpful.
+
+## 2024-08-31: one-off resumption of strength exercises
+
+On 2024-08-31, I resumed strength exercises after about two weeks. I
+also went jogging, but only jogged 1.4 miles, the minimum, which is
+likely due to extensive walking the previous day.
+
+I'll have to take a break from strength exercises for a while in light
+of my upcoming blood test, so I wanted to do strength exercises at
+least once to confirm my strength levels were intact and do a little
+bit of reinforcement so that I don't lose my strength too much.
