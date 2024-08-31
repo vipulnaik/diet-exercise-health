@@ -1943,6 +1943,20 @@ also a little tired of the long standing/waiting, so it's hard to
 gauge the incremental effect of the abdominal pain on my mood and
 energy levels over the evening.
 
+### Forty-four days later (2024-08-31)
+
+### Notes added around noon
+
+In the morning, I continued to have mild intermittent pain. However, I
+also had sporadic stomach rumble and flatulence, more than yesterday
+though the flatulence was still less than it had been early in the
+week. Based on the qualia, I suspect it's a residual effect of the B
+complex.
+
+I was able to do my baseline level of jogging and also did strength
+exercises, without any clear increase in pain after completion of
+exericse.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
