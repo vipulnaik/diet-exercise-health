@@ -1957,6 +1957,14 @@ I was able to do my baseline level of jogging and also did strength
 exercises, without any clear increase in pain after completion of
 exericse.
 
+### Notes added the next morning (2024-09-01)
+
+The stomach rumble and occasional flatulence that I observed prior to
+noon (see above) happened for a bit longer but mostly subsided. I
+continued the rest of the day normally, with moderately high energy,
+although the nature of the work on this day was a bit more laid back
+overall. I continued to have intermittent mild pain.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
