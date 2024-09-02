@@ -1965,6 +1965,33 @@ continued the rest of the day normally, with moderately high energy,
 although the nature of the work on this day was a bit more laid back
 overall. I continued to have intermittent mild pain.
 
+### Forty-five days later (2024-09-01)
+
+I added notes the next day (2024-09-02) around 2 PM.
+
+This was a fairly good day. As with the last few days, I had more
+pain, stomach rumble, and flatulence in the late morning. However, I
+was fairly normal in the afternoon and evening. I also did my regular
+exercise fine in the morning.
+
+I stayed up a bit late and ended up having a relatively intense day.
+
+### Forty-six days (2024-09-02)
+
+#### Notes added around 2 PM in the afternoon
+
+Factor X applied.
+
+I skipped all exercise in preparation for blood tests the next day.
+
+Things were normal in the early morning; however, in the late morning
+and early afternoon I experienced more intermittent pain as well as a
+little stomach rumble and flatulence. The amount of flatulence was
+less than in the past few days.
+
+I took a pulse ox measurement in the late morning and got a reading
+range of 44-50 bpm.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
