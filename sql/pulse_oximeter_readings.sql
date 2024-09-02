@@ -10,7 +10,11 @@ create table pulse_oximeter_readings(
   within_an_hour_after_exercise boolean,
   within_two_hours_after_eating boolean,
   notes varchar(2000),
-  primary key (reading_date, index_within_reading_date)
+  primary key (reading_date, index_within_reading_date),
+  check(spo2_min >= 60 and spo2_min <= 100),
+  check(spo2_max >= 65 and spo2_max <= 100),
+  check(spo2_min <= spo2_max),
+  check(heart_rate_min_bpm <= heart_rate_max_bpm)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into pulse_oximeter_readings(reading_date, index_within_reading_date, finger, duration_in_seconds, heart_rate_min_bpm, heart_rate_max_bpm, spo2_min, spo2_max, within_an_hour_after_exercise, within_two_hours_after_eating, notes) values
@@ -54,4 +58,6 @@ insert into pulse_oximeter_readings(reading_date, index_within_reading_date, fin
   /* 2024-08-28 */
   ('2024-08-28',1,'right index finger',75,50,55,97,100,false,false,'This reading was taken from 9:52:15 AM to 9:53:30 AM, before starting my first meal. I took this reading to assess my recovery from the heart rate spike of the last two days. The heart rate started around 52-55 bpm and later dropped to around 50 bpm before rising back up to around 54 bpm. Overall, my heart rate is now within the normal range, suggesting recovery.'),
   /* 2024-08-29 */
-  ('2024-08-29',1,'left index finger',135,46,62,99,100,false,false,'This reading was taken from 8:39:15 AM to 8:41:30 AM with my left index finger, after I initially tried with my right index finger but failed to get a reading. The reading was mostly in the range of 48 bpm to 52 bpm, with occasional fluctuations down to 46 bpm and up to 54 bpm. There was, however, one brief spike up to 62 bpm for a few seconds.');
+  ('2024-08-29',1,'left index finger',135,46,62,99,100,false,false,'This reading was taken from 8:39:15 AM to 8:41:30 AM with my left index finger, after I initially tried with my right index finger but failed to get a reading. The reading was mostly in the range of 48 bpm to 52 bpm, with occasional fluctuations down to 46 bpm and up to 54 bpm. There was, however, one brief spike up to 62 bpm for a few seconds.'),
+  /* 2024-09-02 */
+  ('2024-09-02',1,'right index finger',120,44,50,97,100,false,false,'This reading was taken from 10:57:30 AM to 10:59:30 AM. This was over an hour after a bowel movement and before eating or exercise. The reading started out in the 48-50 bpm range with SpO2 around 98-99%; toward the end, the heart rate dropped to the 44-46 bpm range. The SpO2 briefly dropped to 97% and briefly rose to 100% over the interval.');
