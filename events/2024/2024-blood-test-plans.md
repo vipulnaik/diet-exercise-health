@@ -3,7 +3,7 @@
 This page documents the thought process behind deciding on my blood
 tests, as well as the process of getting them.
 
-## Test list for phase 1)
+## Test list for phase 1
 
 I started working on this test shortlist in November 2023. I later
 updated it in late August 2024 prior to ordering.
@@ -12,6 +12,9 @@ Total estimated cost: LabCorp: $445; Quest Diagnostics: $431. I went
 with Quest Diagnostics.
 
 I placed the order on 2024-08-27.
+
+Details of the blood tests: [2024-09-03: blood
+tests](2024-09-03-blood-tests.md).
 
 ### Insulin: followup measurement because of diabetic tendencies
 
