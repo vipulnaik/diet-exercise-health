@@ -276,7 +276,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-04','TJ Kale',1),
   ('2024-08-04','TJ Carrots',1),
   ('2024-08-04','Green bell pepper',4),
-  ('2024-08-04','Orange bell pepper',2),
+  ('2024-08-04','Red bell pepper',2),
   ('2024-08-04','Beefsteak tomato',6),
   /* Potatoes prep (abridged) 2024-08-05 */
   ('2024-08-05','Gold potatoes 5 lb',0.27),
@@ -318,7 +318,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-13','TJ Kale',1),
   ('2024-08-13','TJ Carrots',1),
   ('2024-08-13','Green bell pepper',4),
-  ('2024-08-13','Orange bell pepper',2),
+  ('2024-08-13','Red bell pepper',2),
   ('2024-08-13','Beefsteak tomato',6),
   /* Potatoes prep 2024-08-15; skipping both broccoli and peas this time, and instead using more potatoes */
   ('2024-08-15','Gold potatoes 5 lb',0.43),
@@ -352,7 +352,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-23','TJ Kale',1),
   ('2024-08-23','TJ Carrots',1),
   ('2024-08-23','Green bell pepper',4),
-  ('2024-08-23','Orange bell pepper',2),
+  ('2024-08-23','Red bell pepper',2),
   ('2024-08-23','Beefsteak tomato',6),
   /* Potatoes prep 2024-08-24 (first meal) */
   ('2024-08-24','Gold potatoes 5 lb',0.43),
@@ -378,5 +378,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-09-01','Kite Hill Greek Style Plant-Based Yogurt',1), /* opened with first meal */
   ('2024-09-01','TJ Miso Ginger Broth',1), /* opened with first meal */
-  ('2024-09-01','TJ Almond Milk',1); /* opened with first meal */
+  ('2024-09-01','TJ Almond Milk',1), /* opened with first meal */
+  /* Meal prep 2024-09-01 (second meal) */
+  ('2024-09-01','Eggplant',1),
+  ('2024-09-01','TJ Kale',1),
+  ('2024-09-01','TJ Carrots',1),
+  ('2024-09-01','Green bell pepper',4),
+  ('2024-09-01','Red bell pepper',2),
+  ('2024-09-01','Beefsteak tomato',6);
   /* Double-check the date before committing */
