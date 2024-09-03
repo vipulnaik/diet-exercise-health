@@ -389,5 +389,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Potatoes prep 2024-09-02 (first meal) */
   ('2024-09-02','Gold potatoes 5 lb',0.43),
   ('2024-09-02','TJ Kale',1),
-  ('2024-09-02','Beefsteak tomato',6);
+  ('2024-09-02','Beefsteak tomato',6),
+  /* Rice prep 2024-09-03 (first meal) */
+  ('2024-09-03','Lundberg Sustainable California White Basmati Rice',0.8);
   /* Double-check the date before committing */
