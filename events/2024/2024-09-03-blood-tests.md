@@ -61,3 +61,8 @@ the weather for the time of my appointment was fine.
 
 On 2024-09-02, the day prior to the blood test, I am skipping all
 exercise.
+
+### End of meal the previous evening (2024-09-02)
+
+I finished my main meal at 7:16 PM. I last ate a little bit of food at
+7:40 PM as part of cleanup.
