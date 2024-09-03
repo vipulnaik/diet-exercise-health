@@ -159,6 +159,8 @@ walk-ins may not be able to get service.
 
 ### Return home
 
+I left at around 10:25 AM.
+
 I walked back home and drank more water after getting back home.
 
 I then headed out to Berkeley Bowl for food purchases.

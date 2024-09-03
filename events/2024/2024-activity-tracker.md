@@ -452,3 +452,9 @@ In the afternoon, I met up with work colleagues for lunch at the
 Cheese Board Pizzeria, though I didn't eat myself. We later walked
 around and visited another place. After that, I went to Citibank,
 Target, and FedEx to complete various chores.
+
+## Tuesday September 3
+
+I went to Quest Diagnostics at 2999 Regent Street for blood tests. See
+[2024-09-03: blood tests](2024-09-03-blood-tests.md) for more
+information.
