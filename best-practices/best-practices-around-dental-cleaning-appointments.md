@@ -86,6 +86,13 @@ shopped for ahead of the appointment if possible.
 
 This is to conserve time and energy for the appointment.
 
+### Packing / prep reminder for the night before the appointment
+
+Anything I need to get ready for the dental cleaning should ideally be
+handled the previous night, so that even if I'm in a rush I don't miss
+doing it. This includes any planning for additional things I hope to
+do in the trip after the appointment.
+
 ### Reminder to set reminders for the next dental cleaning appointment
 
 Set a reminder for the evening of the dental cleaning appointment to

@@ -103,3 +103,10 @@ Set a weather check reminder for two days prior to the appointment.
 
 * Resume reminder (conditional to feeling well): three days after the
   vaccine
+
+### Packing / prep reminder for the night before the appointment
+
+Anything I need to get ready for the vaccine appointment should
+ideally be handled the previous night, so that even if I'm in a rush I
+don't miss doing it. This includes any planning for additional things
+I hope to do in the trip after the appointment.

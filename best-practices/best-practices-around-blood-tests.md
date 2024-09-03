@@ -103,6 +103,14 @@ rid of the distortion.
 Supplement consumption can be resumed in the meal I have immediately
 after the blood test, or the next day.
 
+### Packing / prep reminder for the night before the blood test
+
+Since blood tests are relatively early in the morning, anything I need
+to get ready for them should ideally be handled the previous night, so
+that even if I'm in a rush I don't miss doing it. This includes any
+planning for additional things I hope to do in the trip after the
+blood test.
+
 ### Review diet in the context of the blood tests to see if any temporary dietary restrictions are needed
 
 For most blood tests, no dietary restrictions are needed (other than
