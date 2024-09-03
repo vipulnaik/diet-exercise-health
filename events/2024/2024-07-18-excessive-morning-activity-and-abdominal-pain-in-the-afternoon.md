@@ -1992,6 +1992,32 @@ less than in the past few days.
 I took a pulse ox measurement in the late morning and got a reading
 range of 44-50 bpm.
 
+#### Notes added around 12:30 PM the next day (2024-09-03)
+
+The rest of the day proceeded fine; the pain of the late morning and
+early afternoon subsided for the most part, though there were brief
+and intermittent periods of slight pain. My energy levels were
+reasonably high, though the day as a whole was relaxed and desultory
+so high energy levels weren't needed per se.
+
+### Forty-seven days later (2024-09-03)
+
+#### Notes added around 12:30 PM
+
+My bowel movement felt fairly complete; in general, I have been
+noticing that my bowel movement has been feeling more and more
+complete over the past few days.
+
+I did my blood tests today (more details
+[here](2024-09-03-blood-tests.md)). The process went smoothly and I
+was not distracted by abdominal pain during the process or after
+getting back home. I did feel occasional reminders of the pain but not
+to the point of getting in my way. There was no stomach rumble or
+flatulence. I'm not sure if this was due to the psychological readying
+for the test, having a bath in the morning (which gives some
+freshness), or the fact that I haven't had B12 supplements for two
+days.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
