@@ -798,3 +798,19 @@ I'll have to take a break from strength exercises for a while in light
 of my upcoming blood test, so I wanted to do strength exercises at
 least once to confirm my strength levels were intact and do a little
 bit of reinforcement so that I don't lose my strength too much.
+
+## 2024-09-02 and 2024-09-03: break from exercises for blood tests
+
+For my [2024-09-03 blood tests](2024-09-03-blood-tests.md), I took a
+break from all exercise on 2024-09-02 and 2024-09-03. On 2024-09-02, I
+stayed home except for brief laundry trips within the building. On
+2024-09-03, I went for the blood test and then for quick shopping.
+
+## 2024-09-04: resumption of some exercises
+
+I resumed breath holds, standing-on-one-leg-with-eyes-closed, and
+jogging on 2024-09-04. For jogging, due to the heat and some fatigue,
+I only did the minimum 1.4 miles out of 2 miles.
+
+I continued to refrain from hand gripper exercises and strength
+exercises.

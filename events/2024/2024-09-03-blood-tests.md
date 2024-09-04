@@ -174,3 +174,14 @@ accidental irritation.
 
 I removed the flex bandage at around 6:30 PM as it was pinching my
 skin. The prick seemed to have fully healed by this time.
+
+## Future days
+
+### 2024-09-04: resumption of some exercises
+
+I resumed breath holds, standing-on-one-leg-with-eyes-closed, and
+jogging on 2024-09-04. For jogging, due to the heat and some fatigue,
+I only did the minimum 1.4 miles out of 2 miles.
+
+I continued to refrain from hand gripper exercises and strength
+exercises.
