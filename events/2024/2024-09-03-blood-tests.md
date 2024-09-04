@@ -171,3 +171,6 @@ not immediately re-bandage the area. I folded my right arm to reduce
 the exposure to insects or irritants until I got home. After getting
 back home, I applied a flex bandage to the area, to reduce the risk of
 accidental irritation.
+
+I removed the flex bandage at around 6:30 PM as it was pinching my
+skin. The prick seemed to have fully healed by this time.
