@@ -47,3 +47,11 @@ At around 6:20 PM, I tried again and succeeded. For this attempt, I
 unpaired the device from my phone's app, did a hard reset of the
 device, and then re-paired. I do not know if those actions were
 necessary or if something else was going on.
+
+## Update 2024-09-04: new device
+
+After the issue documented 2024-08-25 continued intermittently for a
+while, I contacted FoodMarble support and discussed the situation with
+them. This resulted in me returning the device and getting a new
+one. I unpacked and started taking readings with the new device on
+2024-09-04.
