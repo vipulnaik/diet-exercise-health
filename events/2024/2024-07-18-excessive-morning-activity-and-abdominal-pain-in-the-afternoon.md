@@ -2018,6 +2018,42 @@ for the test, having a bath in the morning (which gives some
 freshness), or the fact that I haven't had B12 supplements for two
 days.
 
+### Notes added two days later (2024-09-05)
+
+The day was a fairly normal and high-energy day on the whole. I didn't
+encounter any issues after the previous set of notes.
+
+### Forty-eight days later (2024-09-04)
+
+Notes were added the next morning (2024-09-05).
+
+This was a fairly normal and high-energy day. I did not experience any
+clear pain, stomach rumble, or flatulence.
+
+I also got my new FoodMarble Aire 2 device and started recording
+readings. The readings I took were methane-dominant but not very high
+on the whole.
+
+### Forty-nine days later
+
+#### Notes added around 9:30 AM
+
+I experienced a bit of stomach rumble and a little bit of flatulence
+when I tried to deliberately clear the rumble. I feel like this
+stomach rumble is caused by some supplement and not by food, and my
+suspicion is the B12 supplement, but I'm not sure. In any case I am
+planning to skip the B12 supplement today considering that I took a
+double dose on Tuesday which might be the source of some of the issue.
+
+The breath test reading I took in the morning was not super-high, and
+at least suggests that the stomach rumble is not directly related to
+high levels of methane production.
+
+One possible contributing factor is slightly less than ideal level of
+sleep for the past few days. The day of the blood test I had to get up
+a bit earlier than usual for the test, and ideally I should have made
+a point to get extra sleep the next few days, but I didn't.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
