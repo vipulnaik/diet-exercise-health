@@ -23,4 +23,5 @@ insert into foodmarble_aire_2_breath_tests(reading_date, index_within_reading_da
   /* 2024-08-26 */
   ('2024-08-26',1,203,1,0.2,0.0,'This reading, taken at 3:45 PM, was taken about 3 hours 23 minutes after I finished eating my first meal, which was at 12:32 PM. I had attempted to take a reading at 2:15 PM but it had not worked, so this is my first reading of the day.'),
   /* 2024-09-04 */
-  ('2024-09-04',1,91,1,0.6,2.3,'This reading, taken at 2:11 PM, was taken about 1 hour 30 minutes after I finished eating my first meal, which was at 12:40 PM. This was my first reading with the new FoodMarble Aire 2 device after I replaced the device as a result of my previous device no longer working.');
+  ('2024-09-04',1,91,1,0.6,2.3,'This reading, taken at 2:11 PM, was taken about 1.5 hours after I finished eating my first meal, which was at 12:40 PM. This was my first reading with the new FoodMarble Aire 2 device after I replaced the device as a result of my previous device no longer working.'),
+  ('2024-09-04',2,183,1,0.4,0.8,'This reading, taken at 3:43 PM, was taken about 3 hours after I finished eating my first meal, which was at 12:40 PM. This was a followup reading to the previous reading, and showed a subsiding of the overall fermentation activity, but the same relative pattern of hydrogen and methane as the previous reading.');
