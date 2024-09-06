@@ -185,3 +185,8 @@ I only did the minimum 1.4 miles out of 2 miles.
 
 I continued to refrain from hand gripper exercises and strength
 exercises.
+
+### 2024-09-06: resumption of hand gripper exercises for the left hand
+
+I resumed hand gripper exercises for the left hand, as per the
+schedule.
