@@ -2034,7 +2034,7 @@ I also got my new FoodMarble Aire 2 device and started recording
 readings. The readings I took were methane-dominant but not very high
 on the whole.
 
-### Forty-nine days later
+### Forty-nine days later (2024-09-05)
 
 #### Notes added around 9:30 AM
 
@@ -2053,6 +2053,21 @@ One possible contributing factor is slightly less than ideal level of
 sleep for the past few days. The day of the blood test I had to get up
 a bit earlier than usual for the test, and ideally I should have made
 a point to get extra sleep the next few days, but I didn't.
+
+### Notes added the next day (2024-09-06 4:30 PM)
+
+After a lull in the morning, my mood and energy level improved and the
+flatulence and stomach rumble faded. I had a very productive afternoon
+and evening.
+
+### Fifty days later (2024-09-06)
+
+### Notes added around 4:30 PM
+
+The pain followed its characteristic time-based variation: it was
+highest in the late morning. However, the magnitude was less than
+yesterday. There was only a little stomach rumble and no notable
+flatulence. Overall, it has been a good day.
 
 ## Current learnings
 
