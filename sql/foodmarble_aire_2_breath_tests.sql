@@ -28,4 +28,6 @@ insert into foodmarble_aire_2_breath_tests(reading_date, index_within_reading_da
   /* 2024-09-05 */
   ('2024-09-05',1,867,0,0.7,0.5,'This reading, taken at 9:17 AM, was before eating any food in the morning. I had finished my meal last night at 6:50 PM. At the time of the reading, I was experiencing a little bit of stomach rumble which seems likely driven by a supplement, but otherwise feeling fine.'),
   ('2024-09-05',2,141,1,0.3,1.8,'This reading, taken at 3:41 PM, was a little over 2 hours after finishing my meal, which I estimate to have been at around 1:20 PM. At the time of the reading, I was still experiencing traces of stomach rumble and flatulence from the morning but they were receding, and seemed unrelated to the recent meal consumption.'),
-  ('2024-09-05',3,173,2,0.9,0.2,'This reading, taken at 10:53 PM, was almost 3 hours after finishing my dinner meal, which I estimate to have been at around 8 PM.');
+  ('2024-09-05',3,173,2,0.9,0.2,'This reading, taken at 10:53 PM, was almost 3 hours after finishing my dinner meal, which I estimate to have been at around 8 PM.'),
+  /* 2024-09-07 */
+  ('2024-09-07',1,45,1,0.3,0.0,'This reading, taken at 2:36 PM, was about 45 minutes after I finished my first meal at 1:51 PM. This was my first meal in a while with peas, so I wanted to get multiple readings to see if my fermentation scores were higher than usual with the consumption of peas. At least that wasn''t the case with this first reading, which is likely before the time the food reached the colon.');
