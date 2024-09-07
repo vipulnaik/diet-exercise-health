@@ -399,5 +399,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-06','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle/packet openings as the old ones finished */
   ('2024-09-06','TJ Almond Milk',1), /* technically opened with first meal but started using in second meal */
-  ('2024-09-06','TJ Miso Ginger Broth',1); /* opened with second meal */
+  ('2024-09-06','TJ Miso Ginger Broth',1), /* opened with second meal */
+  /* Potatoes prep 2024-09-07 (first meal) */
+  ('2024-09-07','Gold potatoes 5 lb',0.43),
+  ('2024-09-07','TJ Kale',1),
+  ('2024-09-07','TJ English Shelled Peas',1),
+  ('2024-09-07','Beefsteak tomato',6);
   /* Double-check the date before committing */
