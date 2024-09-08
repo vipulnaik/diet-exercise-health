@@ -2062,12 +2062,26 @@ and evening.
 
 ### Fifty days later (2024-09-06)
 
-### Notes added around 4:30 PM
+#### Notes added around 4:30 PM
 
 The pain followed its characteristic time-based variation: it was
 highest in the late morning. However, the magnitude was less than
 yesterday. There was only a little stomach rumble and no notable
 flatulence. Overall, it has been a good day.
+
+#### Notes added two days later (2024-09-08)
+
+The rest of the day was also good and high-energy. I got a lot of work
+done in the evening and was so high-energy I stayed up till late.
+
+### Fifty-one days later (2024-09-07)
+
+#### Notes added the next day (2024-09-08)
+
+The day mostly went well and was high-energy. I briefly had a bit of
+pain in the late morning, a little after my first meal, and a little
+around 10 PM around two hours after my second meal. However, the brief
+discomfort didn't get in the way of my energy levels.
 
 ## Current learnings
 
