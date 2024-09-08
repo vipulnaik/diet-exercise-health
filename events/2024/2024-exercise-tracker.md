@@ -818,4 +818,9 @@ exercises.
 ## 2024-09-06: resumption of hand gripper exercises for the left hand
 
 I resumed hand gripper exercises for the left hand, as per the
-schedule.
+schedule of exercise resumption following my blood tests.
+
+## 2024-09-08: resumption  of hand gripper exercises for the right hand
+
+I resumed hand gripper exercises for the right hand, as per the
+schedule of exercise resumption following my blood tests.
