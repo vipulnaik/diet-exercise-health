@@ -2083,6 +2083,29 @@ pain in the late morning, a little after my first meal, and a little
 around 10 PM around two hours after my second meal. However, the brief
 discomfort didn't get in the way of my energy levels.
 
+This was also the day that I resumed peas consumption after taking a
+break starting about 2024-08-03. However, the amount of peas was about
+1/3 of the level I used to have, so it's not a full resumption. I did
+not experience any clear symptoms related to the peas, and my
+FoodMarble Aire 2 readings showed low levels of fermentation.
+
+### Fifty-two days later (2024-09-08)
+
+#### Notes added the next day (2024-09-09)
+
+The day mostly went well and was high-energy. I reached highs with my
+breath holds (with one hold lasting 75 seconds).
+
+I had intermittent brief mild pain, and a general sense that the area
+wasn't quite right.
+
+### Fifty-three days later (2024-09-09)
+
+#### Notes added in the afternoon (around 3 PM)
+
+The day so far has been high-energy. I experimentally resumed
+consumption of sauerkraut in approximately my usual quantity.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
