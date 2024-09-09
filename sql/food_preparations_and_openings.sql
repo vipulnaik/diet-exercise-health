@@ -412,5 +412,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-08','TJ Kale',1),
   ('2024-09-08','Green bell pepper',4),
   ('2024-09-08','Red bell pepper',3), /* 1 extra compared to usual in place of carrots that I didn't have */
-  ('2024-09-08','Beefsteak tomato',6);
+  ('2024-09-08','Beefsteak tomato',6),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-09-08','Morton Iodized Salt',1); /* this might be off by a day (so actual value may be 2024-09-07) */
   /* Double-check the date before committing */
