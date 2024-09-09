@@ -4,9 +4,9 @@
 
 I do this sequence every day (or almost every day) in the morning, with the steps in quick succession:
 
-* Right hand on 150 lb: I close and keep closed for about 4-10 seconds.
+* Right hand on 150 lb: I close and keep closed for about 7-12 seconds.
 
-* Left hand on 150 lb: I close and keep closed for about 4-10 seconds.
+* Left hand on 150 lb: I close and keep closed for about 7-12 seconds.
 
 * Right hand on 100 lb: I close and keep closed for about 10-20
   seconds (generally about 15 seconds); if I were to start with the
@@ -31,7 +31,7 @@ sometimes at another time of day (they're hard to do right before or
 after the daily routine due to hand fatigue):
 
 * Right hand on 200 lb: I am far from being able to close. I can do a
-  little further than parallel
+  little further than parallel.
 
 * Left hand on 200 lb: I am far from being able to close. I can just
   about get to parallel.
@@ -182,6 +182,29 @@ This is the sequence I have been following:
 * Right hand on 150 lb: I close and keep closed for about 4-10 seconds.
 
 * Left hand on 150 lb: I close and keep closed for about 4-10 seconds.
+
+* Right hand on 100 lb: I close and keep closed for about 10-20
+  seconds (generally about 15 seconds); if I were to start with the
+  100 lb instead of doing the 150 lb first, I would be able to do over
+  20 seconds, but then I would not be able to do the 150 lb
+  immediately aferward. That's why I start with the 150 lb.
+
+* Left hand on 100 lb: I close and keep closed for about 10-20
+  seconds (generally about 15 seconds); if I were to start with the
+  100 lb instead of doing the 150 lb first, I would be able to do over
+  20 seconds, but then I would not be able to do the 150 lb
+  immediately aferward. That's why I start with the 150 lb.
+
+## Update on 2024-09-09
+
+The main change since the last update is a slight increase in the time
+I can stay closed with the 150 lb.
+
+Here is the protocol as of this time:
+
+* Right hand on 150 lb: I close and keep closed for about 7-12 seconds.
+
+* Left hand on 150 lb: I close and keep closed for about 7-12 seconds.
 
 * Right hand on 100 lb: I close and keep closed for about 10-20
   seconds (generally about 15 seconds); if I were to start with the
