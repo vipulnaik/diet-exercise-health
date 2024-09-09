@@ -46,10 +46,10 @@ balance.
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
 
-As of August 2024, my aim is to be able to manage at least 27 seconds
-on each leg, with adjustments for colder indoor temperatures. In
-practice, I generally do somewhere between 28 and 45 seconds on each
-leg.
+As of September 2024, my aim is to be able to manage at least 30
+seconds on each leg, with adjustments for colder indoor
+temperatures. In practice, I generally do somewhere between 30 and 47
+seconds on each leg.
 
 See
 [standing-on-one-leg-with-eyes-closed-with-history.md](standing-on-one-leg-with-eyes-closed-with-history.md)

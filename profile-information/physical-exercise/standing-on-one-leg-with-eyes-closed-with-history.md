@@ -27,7 +27,7 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 27 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 30 seconds with adjustments for colder temperatures)
 
 * Prior to 2023-10-28, the de facto threshold duration was 10 seconds
 
@@ -105,6 +105,24 @@ The standard version of the exercise is as follows:
     then 7 + the temperature rounded down in degrees Celsius. If the
     temperature is less than -7 degrees Celsius, I shouldn't be doing
     this exercise!
+
+* Starting 2024-09-09, I am increasing the baseline threshold to 30
+  seconds, as I pretty consistently exceed 30 seconds on the first try
+  nowadays. The new logic is:
+
+  * Baseline of 30 seconds
+
+  * If I am doing the exercise after I return from jogging, no
+    adjustment (30 seconds remains the target)
+
+  * If I am doing the exercise without jogging or similar warmup, then
+    temperature-based adjustment as follows. If the temperature is 20
+    degrees Celsius or higher, no adjustment. If the temperature is
+    greater than -10 degrees Celsius and less than 20 degrees Celsius,
+    then 10 + the temperature rounded down in degrees Celsius. If the
+    temperature is less than -10 degrees Celsius, I shouldn't be doing
+    this exercise!
+
 
 ### How the threshold duration is used
 
