@@ -416,5 +416,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-09-08','Morton Iodized Salt',1), /* this might be off by a day (so actual value may be 2024-09-07) */
   /* Rice prep 2024-09-09 (second meal) */
-  ('2024-09-09','Lundberg Sustainable California White Basmati Rice',0.8);
+  ('2024-09-09','Lundberg Sustainable California White Basmati Rice',0.8),
+  /* Lentils prep 2024-09-10 (soaked first meal to cook and eat with second meal) */
+  ('2024-09-10','TJ Green Lentils',0.2); /* much smaller quantity than usual, as I am gingerly trying lentils in light of previous bad experience where I had to throw a large amount out due to a gassy/flatulent response */
   /* Double-check the date before committing */
