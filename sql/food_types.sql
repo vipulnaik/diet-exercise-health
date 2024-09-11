@@ -55,7 +55,7 @@ insert into food_types(short_name, long_name, url, calories,
   /* notes column */ notes) values
 
   ('TJ Sauerkraut','Raw & Fermented Trader Joe''s Sauerkraut with Pickled Persian Cucumbers','https://www.traderjoes.com/fearless-flyer/article/5455',85,
-  /* broad food type */ 'Sauerkraut',
+  /* broad food type */ 'Sauerkraut / Kimchi',
   /* fat-related columns */ 0,0,0,0,0,
   /* cholesterol */ 0,
   /* sodium and potassium (mostly from salts) */ 3400,0,
@@ -583,7 +583,7 @@ insert into food_types(short_name, long_name, url, calories,
   /* notes */ 'The serving size used is 100 grams, whereas the container size is 250 grams. All amounts were scaled by 2.5.'),
 
   ('Urban Platter Sauerkraut','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage with Beetroot, 450g / 15.8oz [Raw, Organic & Powered by Bombucha]','https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NQB9KKL',286.1,
-  /* broad food type */ 'Sauerkraut',
+  /* broad food type */ 'Sauerkraut / Kimchi',
   /* fat-related columns */ 11.64,NULL,NULL,NULL,NULL,
   /* cholesterol */ NULL,
   /* sodium and potassium (mostly from salts) */ 4287.6,NULL,
@@ -688,7 +688,19 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,44,1,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
-  /* notes */ 'The information on the webpage already provides nutrition information for the full container.');
+  /* notes */ 'The information on the webpage already provides nutrition information for the full container.'),
+
+  ('TJ Kimchi','Trader Joe''s Kimchi Spicy Fermented Napa Cabbage',NULL,108.5,
+  /* broad food type */ 'Sauerkraut / Kimchi',
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 2604,976.5,
+  /* carbohydrate-related columns */ 21.7,0,10.85,
+  /* protein-related columns */ 0,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,NULL,2.17,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* notes */ 'The information on the container is for 1 oz with 10.85 servings per container, so all amounts were multiplied by 10.85. The amount for sugars was reported as < 1 gram and I used 1 gram, which is therefore an overestimate. The amounts roughly match https://traderjoesrants.com/wp-content/uploads/2021/07/kimchi2.jpg but the amounts for carbohydrates, sugar, and protein are a little different there.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
