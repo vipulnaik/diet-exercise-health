@@ -700,7 +700,19 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,NULL,NULL,2.17,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
-  /* notes */ 'The information on the container is for 1 oz with 10.85 servings per container, so all amounts were multiplied by 10.85. The amount for sugars was reported as < 1 gram and I used 1 gram, which is therefore an overestimate. The amounts roughly match https://traderjoesrants.com/wp-content/uploads/2021/07/kimchi2.jpg but the amounts for carbohydrates, sugar, and protein are a little different there.');
+  /* notes */ 'The information on the container is for 1 oz with 10.85 servings per container, so all amounts were multiplied by 10.85. The amount for sugars was reported as < 1 gram and I used 1 gram, which is therefore an overestimate. The amounts roughly match https://traderjoesrants.com/wp-content/uploads/2021/07/kimchi2.jpg but the amounts for carbohydrates, sugar, and protein are a little different there.'),
+
+  ('TJ Roasted Seaweed','Trader Joe''s Roasted Seaweed with Sea Salt',NULL,60,
+  /* broad food type */ 'Seafood',
+  /* fat-related columns */ 4,0,0,NULL,NULL,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 105,180,
+  /* carbohydrate-related columns */ 3,2,0,
+  /* protein-related columns */ 3,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0.1,20,1,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* notes */ 'I used the printed information for the whole container (there was also a column with information for a serving size, which was claimed to be about half the container, though the arithmetic didn''t always match up between the columns). The information at https://www.traderjoes.com/home/products/pdp/organic-roasted-seaweed-with-sea-salt-062405 roughly matches the serving size data, but is slightly different.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right

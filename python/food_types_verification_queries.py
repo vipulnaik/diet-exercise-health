@@ -38,7 +38,7 @@ queries = [
     """
     select * from food_types where
     vitamin_d_in_mcg > 0 and not (
-      short_name in ('TJ Almond Milk','TJ Indian Style Flatbread','TJ Madras Lentils')
+      short_name in ('TJ Almond Milk','TJ Indian Style Flatbread','TJ Madras Lentils','TJ Roasted Seaweed')
     );""",
 
     # None of the vegan foods has natural or added Vitamin B12 as far as the recorded nutritional information
@@ -50,7 +50,7 @@ queries = [
     coalesce(max(total_carb_in_grams / calories), 0) as carb_calorie_ratio_max
     from food_types where broad_food_type is not null group by broad_food_type
     having carb_calorie_ratio_max > 2 * carb_calorie_ratio_min + 0.005
-    and not (broad_food_type in ('Sauerkraut','Vegan probiotic yogurt'));""",
+    and not (broad_food_type in ('Sauerkraut / Kimchi','Vegan probiotic yogurt'));""",
 
     """
     select broad_food_type,
@@ -59,7 +59,7 @@ queries = [
     where broad_food_type is not null
     group by broad_food_type
     having fat_calorie_ratio_max > 2 * fat_calorie_ratio_min + 0.01
-    and not (broad_food_type in ('Sauerkraut','Whole wheat tortilla'));""",
+    and not (broad_food_type in ('Sauerkraut / Kimchi','Whole wheat tortilla'));""",
 ]
 
 _connection = connection.connect()

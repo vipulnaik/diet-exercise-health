@@ -2851,8 +2851,8 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2024-09-10 Trader Joe's; total cost $33.62; checkout at 5:04 PM; paid by debit card */
   ('2024-09-10','TJ Almond Milk',1),
   ('2024-09-10','Trader Giotto''s Olive Oil',1),
-  ('2024-09-10','TJ Kimchi',1),
-  ('2024-09-10','TJ Roasted Seaweed',1),
+  ('2024-09-10','TJ Kimchi',1), /* first purchase */
+  ('2024-09-10','TJ Roasted Seaweed',1), /* first purchase */
   ('2024-09-10','TJ Kale',1),
   ('2024-09-10','TJ English Shelled Peas',2),
   ('2024-09-10','TJ Carrots',1);

@@ -26,4 +26,5 @@ insert into broad_food_types(broad_food_type, notes) values
   ('Sauerkraut / Kimchi','Fermented cabbage, mainly for probiotic effects; ideal as a probiotic when I am feeling well'),
   ('Vegan probiotic yogurt','Yogurt based on almond, coconut, or a combination, and with probiotics; ideal as a probiotic when I have an upset stomach'),
   ('Table salt','NaCl, possibly with some small amounts of iodine or other things added'),
-  ('Lentils','Rich in a variety of proteins');
+  ('Lentils','Rich in a variety of proteins'),
+  ('Seafood','Stuff like seaweed and algae; good wth iodine, salt, and prebiotics for butyrate (SCFA) production');
