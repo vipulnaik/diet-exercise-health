@@ -16,6 +16,7 @@ Sections of this document:
 * [Jogging and return walking](#jogging-and-return-walking)
 * [Strength exercises](#strength-exercises)
 * [Standing-on-one-leg-with-eyes-closed exercise](#standing-on-one-leg-with-eyes-closed-exercise)
+* [Standing-on-toes-with-eyes-closed exercise](#standing-on-toes-with-eyes-closed-exercise)
 * [Hand gripper exercise](#hand-gripper-exercise)
 * [Breath holds](#breath-holds)
 
@@ -53,6 +54,15 @@ seconds on each leg.
 
 See
 [standing-on-one-leg-with-eyes-closed-with-history.md](standing-on-one-leg-with-eyes-closed-with-history.md)
+for more details.
+
+## Standing-on-toes-with-eyes-closed exercise
+
+As of September 2024, my aim is to be able to manage at least 15
+seconds without having to lift and reposition either foot.
+
+See
+[standing-on-toes-with-eyes-closed-with-history.md](standing-on-toes-with-eyes-closed-with-history.md)
 for more details.
 
 ## Hand gripper exercise
