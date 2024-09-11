@@ -421,5 +421,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-10','TJ Green Lentils',0.2), /* much smaller quantity than usual, as I am gingerly trying lentils in light of previous bad experience where I had to throw a large amount out due to a gassy/flatulent response */
   /* New bottle/packet openings as the old ones finished */
   ('2024-09-10','TJ Miso Ginger Broth',1), /* second meal */
-  ('2024-09-10','TJ Roasted Seaweed',1); /* second meal; this is also my first time having this since I started recording; I last had seaweed not bought by me back around 2019 */
+  ('2024-09-10','TJ Roasted Seaweed',1), /* second meal; this is also my first time having this since I started recording; I last had seaweed not bought by me back around 2019 */
+  ('2024-09-11','Kite Hill Greek Style Plant-Based Yogurt',1); /* opened with first meal */
   /* Double-check the date before committing */

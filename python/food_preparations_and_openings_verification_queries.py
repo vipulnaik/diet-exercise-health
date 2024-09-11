@@ -84,7 +84,7 @@ queries = [
     select food_type,
     prepared_and_opened_items_with_frequencies.total_quantity as total_quantity_prepared_and_opened,
     coalesce(post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
-    prepared_and_opened_items_with_frequencies.total_quantity - coalesce(post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
+    greatest(0, prepared_and_opened_items_with_frequencies.total_quantity - coalesce(post_opening_wasted_items_with_frequencies.total_quantity, 0)) as total_quantity_net
     from prepared_and_opened_items_with_frequencies left join post_opening_wasted_items_with_frequencies
     using (food_type);
 
@@ -121,7 +121,7 @@ queries = [
     select food_type,
     recently_prepared_and_opened_items_with_frequencies.total_quantity as total_quantity_prepared_and_opened,
     coalesce(recently_post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
-    recently_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(recently_post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
+    greatest(0, recently_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(recently_post_opening_wasted_items_with_frequencies.total_quantity, 0)) as total_quantity_net
     from recently_prepared_and_opened_items_with_frequencies left join recently_post_opening_wasted_items_with_frequencies
     using (food_type);
 
@@ -158,7 +158,7 @@ queries = [
     select food_type,
     previously_prepared_and_opened_items_with_frequencies.total_quantity as total_quantity_prepared_and_opened,
     coalesce(previously_post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_wasted,
-    previously_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(previously_post_opening_wasted_items_with_frequencies.total_quantity, 0) as total_quantity_net
+    greatest(0, previously_prepared_and_opened_items_with_frequencies.total_quantity - coalesce(previously_post_opening_wasted_items_with_frequencies.total_quantity, 0)) as total_quantity_net
     from previously_prepared_and_opened_items_with_frequencies left join previously_post_opening_wasted_items_with_frequencies
     using (food_type);
 
