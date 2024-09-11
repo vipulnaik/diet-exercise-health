@@ -2106,6 +2106,32 @@ wasn't quite right.
 The day so far has been high-energy. I experimentally resumed
 consumption of sauerkraut in approximately my usual quantity.
 
+#### Notes added the next evening (2024-09-10 around 8 PM)
+
+I believe the rest of the day was also reasonably high-energy. My
+FoodMarble Aire 2 reading continued to be fairly low, and I didn't
+have any other concerning symptoms.
+
+### Fifty-four days later (2024-09-10)
+
+#### Notes added in the evening (around 8 PM)
+
+In the late morning and early afternoon, I appear to have had an
+increase in pain below the belly button (no increase in pain on the
+right side). This subsided mostly on its own, but for a brief period
+it was moderately distracting. It seemed pretty unrelated to my diet
+or my time of eating. There was a brief period of flatulence, but the
+volume of flatulence was minimal; it was more noticeable due to a
+sensation of pressure.
+
+In the afternoon, I went to Trader Joe's. The experience of walking
+seemed to reduce my pain (as I had suspected it might), though it may
+have just been the passage of time.
+
+I took two readings with the FoodMarble Aire 2, one before my first
+meal and one about two hours after my first meal. Both the readings
+showed low hydrogen fermentation and no methane fermentation.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
