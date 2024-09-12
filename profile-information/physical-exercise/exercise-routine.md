@@ -76,6 +76,6 @@ details, including reasons for skipping.
 ## Breath holds
 
 I generally do two breath holds in quick succession, both max-pause
-breath holds, generally for 40 to 60 seconds. See
+breath holds, generally for 45 to 72 seconds. See
 [breath-holds-with-history.md](breath-holds-with-history.md) for
 more background information.

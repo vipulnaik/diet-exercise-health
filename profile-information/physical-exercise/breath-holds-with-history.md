@@ -137,3 +137,11 @@ Sensations I notice right after finishing the breath hold:
   second breath hold. If I am feeling generally unwell, the
   out-of-sorts feeling may continue longer (like 5-10 minutes).
 
+## 2024-09-12 update
+
+My practice has mostly stayed the same as described in the 2024-05-16
+update. However, my average duration of breath hold has now increased
+a bit. Whereas previously it was about 40 to 60 seconds, my range is
+now around 45 to 72 seconds. Generally, the high end of the range is
+achieved when I am not trying to do any cognitively intense tasks
+during the breath hold.
