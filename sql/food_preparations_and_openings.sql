@@ -422,5 +422,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-09-10','TJ Miso Ginger Broth',1), /* second meal */
   ('2024-09-10','TJ Roasted Seaweed',1), /* second meal; this is also my first time having this since I started recording; I last had seaweed not bought by me back around 2019 */
-  ('2024-09-11','Kite Hill Greek Style Plant-Based Yogurt',1); /* opened with first meal */
+  ('2024-09-11','Kite Hill Greek Style Plant-Based Yogurt',1), /* opened with first meal */
+  /* Potatoes prep 2024-09-12 (first meal) */
+  ('2024-09-12','Gold potatoes 5 lb',0.43),
+  ('2024-09-12','TJ Kale',1),
+  ('2024-09-12','TJ English Shelled Peas',2),
+  ('2024-09-12','Beefsteak tomato',6);
   /* Double-check the date before committing */
