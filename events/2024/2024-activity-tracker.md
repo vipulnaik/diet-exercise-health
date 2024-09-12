@@ -458,3 +458,8 @@ Target, and FedEx to complete various chores.
 I went to Quest Diagnostics at 2999 Regent Street for blood tests. See
 [2024-09-03: blood tests](2024-09-03-blood-tests.md) for more
 information.
+
+## Wednesday September 11
+
+I made a two-leg trip for some administrative work related to taxes
+and then later made a trip to Amazon Hub Locker for package pickup.
