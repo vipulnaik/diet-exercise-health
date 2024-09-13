@@ -25,6 +25,7 @@ Sections of this document:
 * [Not feeling well starting 2023-07-10 likely due to antibiotic](#not-feeling-well-starting-2023-07-10-likely-due-to-antibiotic)
 * [MedWatch report made 2023-09-10](#medwatch-report-made-2023-09-10)
 * [Later findings](#later-findings)
+* [Discarding of medications on 2024-09-13](#discarding-of-medications-on-2024-09-13)
 
 ## Temperature readings
 
@@ -1552,7 +1553,7 @@ taken it once the problems started.
 
 ## Later findings
 
-## 2023-11-10
+### 2023-11-10
 
 Randomly watching YouTube, I came across a story of a guy (Mark Hyman,
 a well-known functional medicine doctor) who had a bad digestive
@@ -1561,7 +1562,7 @@ after a dental procedure. Though in his case it looks like it took 5
 months to recover, versus 2-3 weeks in my case. See
 [here](https://www.youtube.com/watch?v=-TAUAgPMSGc&t=1396s).
 
-## 2024-05-29
+### 2024-05-29
 
 While watching the Ninja Nerd YouTube video on diarrhea, I came across
 [this part](https://www.youtube.com/watch?v=7ylgYbLCEA0&t=1197s) that
@@ -1570,3 +1571,55 @@ diarrhea. This led me to locate a [Mayo Clinic article
 fragment](https://www.mayoclinic.org/diseases-conditions/c-difficile/symptoms-causes/syc-20351691#:~:text=Without%20enough%20helpful%20bacteria%20to,Clindamycin)
 that puts clindamycin as the leading cause for c. diff causing
 diarrhea. I think this fits with my symptoms.
+
+### 2024-09-13
+
+I recently watched the Ninja Nerd [antibiotics
+video](https://www.youtube.com/watch?v=GGtwJ-SGXTA) and have also been
+educating myself regarding the effect of antibiotics on the GI
+tract. My updated understanding includes the following points:
+
+* Clindamycin is bacteriostatic, not bacteriocidal. It doesn't kill
+  bacteria, it just slows their growth.
+
+* The c. diff is specifically resistant to the effects of clindamycin,
+  so basically it ignores clindamycin's attempt to stop its growth. As
+  a result, while other bacteria in the GI tract are prevented from
+  growing, c. diff continues to grow and can therefore cause an
+  infection.
+
+* The mechanism of action for clindamycin therefore is specifically
+  based on resistance. This is different from the theory that has been
+  posited for how more powerful antibiotics affect the GI tract, which
+  is that they destroy everything and after you stop them, it's a coin
+  toss how your GI tract repopulates. Clindamycin isn't like that: it
+  only stops growth, doesn't kill, and the reason it's related with
+  c. diff is specifically due to c. diff being resistant to it.
+
+* In fact, clindamycin is so widely known to cause c. diff that I even
+  came across a study where clindamycin was administered to lab
+  animals to give them a c. diff infection.
+
+* Due to the widely known relationship between clindamycin and
+  c. diff, clindamycin is rarely prescribed as a first-line treatment
+  for most infections. However, it's specifically considered good for
+  tackling above-the-diaphragm infections by gram-negative anaerobic
+  bacteria, and in particular dental infections, hence it's widely
+  used as a prophylactic antibiotic after dental procedures.
+
+* In the absence of an actual infection, it is probably best to not
+  take clindamycin. Moreover, stopping clindamycin after seeing
+  adverse effects isn't a bad idea if there isn't an actual infection.
+
+* My current understanding regarding the best way to take clindamycin,
+  if you have to, is to drink lots of water with it to encourage rapid
+  absorption, get it into the bloodstream, and minimize the amount
+  that gets to the colon, so that it has minimal bacteriostatic effect
+  on the colon.
+
+## Discarding of medications on 2024-09-13
+
+On 2024-09-13, now that it has been over a year since my MedWatch
+report and therefore the likelihood of any more information being
+requested for those reports is low, I threw away the remainder of the
+medications (clindamycin, hydrocodone / acetaminophen, and ibuprofen).
