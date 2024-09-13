@@ -2132,6 +2132,24 @@ I took two readings with the FoodMarble Aire 2, one before my first
 meal and one about two hours after my first meal. Both the readings
 showed low hydrogen fermentation and no methane fermentation.
 
+### Fifty-five days later (2024-09-11)
+
+#### Notes added the next day (around 6 PM)
+
+This was a typical day, with slight discomfort below the belly button
+during the late morning / early afternoon, and a little bit in the
+evening. Overall, it was a day of reasonably high energy.
+
+I got a high hydrogen fermentation score on the FoodMarble Aire 2 in
+the evening.
+
+### Fifty-six days later (2024-09-12)
+
+#### Notes added around 6 PM
+
+This was a typical day, with slight discomfort below the belly button
+during the late morning / early afternoon.
+
 ## Current learnings
 
 I was updating [best practices around abdominal
