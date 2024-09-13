@@ -82,6 +82,14 @@ I should try these best practices for about 2-3 weeks to see if the
 issue resolves itself, before escalating to more complex things to
 try.
 
+### Take more measurements
+
+* Take FoodMarble Aire 2 breath test measurements to see if there's
+  any evidence of higher-than-usual fermentation levels.
+
+* Take multiple pulse oximeter readings and try to take a blood
+  pressure reading.
+
 ### Extra sleep
 
 Follow the guidance in [best practices around sleep section "Best
@@ -134,7 +142,9 @@ symptoms will be lower.
 Do this as long as I experience discomfort, and for at least one day
 after that.
 
-Tapering off:
+Tapering off (optional; I may wish to continue yogurt at a high level)
+-- make sure to only start tapering off after I have ramped up other
+protein sources such as lentils or peas:
 
 * Two days after I last experienced discomfort, I can reduce the
   yogurt amount to 2/3 of the old amount (so around 1/12 to 1/9 per
@@ -148,14 +158,6 @@ Tapering off:
 * After two days at the single-meal level, I can choose to stop yogurt
   consumption, though I may want to continue at that level till that
   pack is finished.
-
-In steady state, my aim should be to have yogurt for about a one-week
-period at least once a month and not more than once every two
-weeks. This keeps me exposed to the nutrients and probiotic elements
-of yogurt while making me not depend on or crave this very yummy but
-expensive item. However, in the recovery period from discomfort, my
-consumption might go up to one per 3-4 days for a period of a week or
-two while I recover.
 
 ### Exercise
 
@@ -220,10 +222,8 @@ ibuprofen as it can worsen symptoms for some potential causes.
 
 ### Supplement experimentation
 
-* Take Vitamin B Complex supplements daily for 2-3 days and observe
-  the effect on symptoms.
-
-* Look into other supplements.
+* Make sure to not take any B complex supplement until the situation
+  is resolved.
 
 * Potentially look into stopping or skipping existing supplements.
 
@@ -237,17 +237,15 @@ Try temporary eliminations of these foods. Temporary eliminations
 should be for at least 2 days (preferably at least 3 days) but should
 not be continued more than a week without a diet review:
 
-* Potatoes, peas, broccoli, kale: The easy way is to skip potatoes
+* Peas, broccoli, kale: The easy way is to skip potatoes
   prep (that includes these foods) and either exclude kale from the
   mixed veggies prep or avoid consuming the kale part of that prep.
 
 * Sauerkraut: This can be done separately from the potatoes, peas,
   broccoli, kale, or with partial overlap.
 
-* Vegan probiotic yogurt: Only do this after resuming sauerkraut, and
-  if the other eliminations fail.
-
-Also avoid having these foods, that I anyway don't regularly consume:
+Also avoid having these foods, that I anyway consume sporadically and
+not every day:
 
 * Lentils
 
