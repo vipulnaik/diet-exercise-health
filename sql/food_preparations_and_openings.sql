@@ -436,5 +436,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-12','TJ Walnuts',1), /* second meal */
   ('2024-09-13','TJ Almond Milk',1), /* first meal */
   /* Lentils prep 2024-09-14 */
-  ('2024-09-14','TJ Green Lentils',0.4); /* soaked in morning for cooking in the evening with second meal */
+  ('2024-09-14','TJ Green Lentils',0.4), /* soaked in morning for cooking in the evening with second meal */
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-09-14','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
+  ('2024-09-14','TJ Miso Ginger Broth',1), /* first meal */
+  ('2024-09-14','TJ Kimchi',1); /* first meal */
   /* Double-check the date before committing */
