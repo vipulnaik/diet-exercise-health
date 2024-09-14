@@ -10,6 +10,7 @@ Sections of this document:
 * [Theories of causes and exacerbating factors](#theories-of-causes-and-exacerbating-factors)
 * [Beginning of the story: the night before and the day of (2024-07-18)](#beginning-of-the-story-the-night-before-and-the-day-of-2024-07-18)
 * [Subsequent days](#subsequent-days)
+* [Status as of 2024-09-14: stopping daily recording and taking stock](#status-as-of-2024-09-14-stopping-daily-recording-and-taking-stock)
 * [Current learnings](#current-learnings)
 
 ## Executive summary
@@ -2149,6 +2150,92 @@ the evening.
 
 This was a typical day, with slight discomfort below the belly button
 during the late morning / early afternoon.
+
+## Status as of 2024-09-14: stopping daily recording and taking stock
+
+My plan for data 2024-09-13 onward is to stop daily recording.
+
+### Current symptoms
+
+My current symptoms as of the time of stopping daily recording are:
+
+* Intermittent pain/discomfort below the belly button, with occasional
+  pain on the right (though thi has become less frequent over time)
+
+* A general sensation of tension / tightness / cramping when I probe
+  or think about the area, even if I am not actively in pain.
+
+* No clear relation of symptoms to food consumption time or what food
+  I consume.
+
+* No significant increase in gas production, flatulence, and burping
+  relative to my usual, although I still am only about 75-80% back to
+  my usual diet. Fermentation scores on the FoodMarble Aire 2 also
+  seem normal, although I don't have a "before" set of measurements.
+
+* Daily morning bowel movements that are complete most of the time,
+  same as before the start of these issues.
+
+### Food
+
+* I'm still steering clear of outside food for the time being.
+
+  Later, I might resume having occasional outside food (about once a
+  month, or as needed for social occasions).
+
+* I'm having slightly fewer peas than usual (two packs of English
+  shelled peas instead of three).
+
+  I might end up sticking with this, if I can increase standalone
+  lentils consumption accordingly, since I think there's a benefit to
+  having more potatoes in the potatoes prep.
+
+* I have still paused broccoli consumption.
+
+  I might resume including broccoli in potatoes prep occasionally, but
+  not always.
+
+* I have still not experimentally resumed wheat consumption.
+
+  My plan is to have wheat about twice a month or as needed when
+  traveling where I can't cook rice, with the wheat format being
+  couscous, whole wheat tortillas, or carb-savvy tortillas.
+
+I also plan to continue to take FoodMarble Aire 2 readings 2-3 times a
+week, at about 90-120 minutes after finishing my meal, to keep an eye
+on fermentation levels. I expect to vary the context of the readings
+to continue to get a range of readings.
+
+I've also introduced some new food practices:
+
+* Seaweed consumption (this is good for omega-3, salt, and butyrate /
+  SCFA production)
+
+* Drain lentils better to reduce FODMAP content
+
+* Try variants of sauerkraut such as kimchi (not yet started)
+
+### Meal gaps
+
+During the period when I would have a sense of incomplete evacuation
+in the morning, I increased the time between the end of my last meal
+and sleep from a minimum of 3 hours (and in practice at least 3.5
+hours in most casesto a minimum of 4 hours (and in practice at least
+4.5 hours in most cases). My plan is to relax the minimum a little bit
+to 3.5 hours in cases where I have a bit of a sleep backlog and expect
+that sleeping later will cut into my ability to catch up on the sleep
+backlog, but to continue to target 4+ hours in general. So basically,
+the new practice is the new normal but I'll introduce more flexibility
+so as to reduce the risk in terms of sleep backlog.
+
+### Exercise
+
+As far as exercise is concerned, I have returned fully to normal
+levels of exercise, with continued steady increases in the exercise
+load over time as has been the trend.
+
+The main new best practice is to not overstretch exercise-wise, which
+I expect to be an ongoing precaution.
 
 ## Current learnings
 
