@@ -829,3 +829,12 @@ schedule of exercise resumption following my blood tests.
 
 I resumed strength exercises, six days after my blood tests. This was
 a day earlier than my plan (7 days after the blood tests).
+
+## 2024-09-16: slightly abridged run with no walking
+
+Due to time constraints, I used a shorter route, about 1.3-1.4 miles,
+instead of the usual route of 2 miles. I jogged the whole distance, so
+there was no cool-down walking. I had walked earlier in the day for a
+distance that's roughly comparable to the delta (2 miles minus 1.3 or
+1.4 miles) so my total jogging + walking is comparable to the typical
+amount prior to my first meal.
