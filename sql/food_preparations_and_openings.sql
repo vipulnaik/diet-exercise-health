@@ -444,5 +444,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-09-15 (first meal) */
   ('2024-09-15','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-09-15','TJ Sauerkraut',1); /* first meal; planning to alternate this with kimchi */
+  ('2024-09-15','TJ Sauerkraut',1), /* first meal; planning to alternate this with kimchi */
+  /* Meal prep 2024-09-16 (second meal) */
+  ('2024-09-16','Eggplant',1),
+  ('2024-09-16','TJ Kale',1),
+  ('2024-09-16','TJ Carrots',1),
+  ('2024-09-16','Green bell pepper',4),
+  ('2024-09-16','Red bell pepper',2),
+  ('2024-09-16','Beefsteak tomato',6);
   /* Double-check the date before committing */
