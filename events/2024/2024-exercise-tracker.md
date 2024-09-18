@@ -838,3 +838,9 @@ there was no cool-down walking. I had walked earlier in the day for a
 distance that's roughly comparable to the delta (2 miles minus 1.3 or
 1.4 miles) so my total jogging + walking is comparable to the typical
 amount prior to my first meal.
+
+## 2024-09-18: skipping of exercise for logistical reasons
+
+On Wednesday 2024-09-18, I skipped exercise for logistical reasons. I
+had also gone jogging the past 14 days, so a knee rest day was due
+anyway, though I was not feeling any particular need for one.
