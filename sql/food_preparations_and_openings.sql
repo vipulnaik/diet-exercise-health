@@ -459,5 +459,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-18','TJ Walnuts',1), /* first meal */
   ('2024-09-18','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
   /* Takeout food 2024-09-18 */
-  ('2024-09-18','Udupi Palace spinach masala dosa',1);
+  ('2024-09-18','Udupi Palace spinach masala dosa',1),
+  /* Potatoes prep 2024-09-19 (first meal) */
+  ('2024-09-19','Gold potatoes 5 lb',0.43),
+  ('2024-09-19','TJ Kale',1),
+  ('2024-09-19','TJ English Shelled Peas',1.8), /* about 20% of one packet was lost due to peas scattering after an aggressive open */
+  ('2024-09-19','Beefsteak tomato',6),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-09-19','TJ Roasted Seaweed',1);
   /* Double-check the date before committing */
