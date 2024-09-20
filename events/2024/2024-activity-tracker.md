@@ -463,3 +463,8 @@ information.
 
 I made a two-leg trip for some administrative work related to taxes
 and then later made a trip to Amazon Hub Locker for package pickup.
+
+## Monday September 16
+
+I made a trip in the morning to the post office at 3175 Adeline Street
+to drop off a piece of mail.
