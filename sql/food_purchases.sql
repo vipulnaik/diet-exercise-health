@@ -2873,7 +2873,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-09-18','TJ Roasted Seaweed',2),
   ('2024-09-18','TJ Kale',2),
   /* 2024-09-18 Udupi Palace */
-  ('2024-09-18','Udupi Palace spinach masala dosa',1);
+  ('2024-09-18','Udupi Palace spinach masala dosa',1),
+  /* 2024-09-19 Berkeley Bowl; total cost $53.41; checkout at around 7:04 PM; paid by credit card */
+  ('2024-09-19','Lundberg Sustainable California White Basmati Rice',4),
+  ('2024-09-19','Kite Hill Greek Style Plant-Based Yogurt',4), /* vanilla flavor, but the ingredient information is the same as for the plain one -- there's no sugar */
+  ('2024-09-19','Morton Iodized Sea Salt',1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
