@@ -15,7 +15,7 @@ queries = [
     "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date = '2024-09-08');",
 
     # I should generally do 3 at a time, though exceptions are possible
-    "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and not (quantity in (2,3)) and not (preparation_or_opening_date in ('2024-09-07'));",
+    "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and not (quantity in (2,3)) and not (preparation_or_opening_date in ('2024-09-07','2024-09-19'));",
 
     # I should generally do 4 at a time, though exceptions are possible
     "select * from food_preparations_and_openings where food_type = 'Green bell pepper' and quantity != 4;",
@@ -257,7 +257,7 @@ queries = [
 
     "select epoch, daily_protein_in_grams from daily_pow_amounts_by_epoch where daily_protein_in_grams < 45;",
 
-    "select epoch, daily_oxalate_in_mg from daily_pow_amounts_by_epoch where daily_oxalate_in_mg > 300;",
+    "select epoch, daily_oxalate_in_mg from daily_pow_amounts_by_epoch where daily_oxalate_in_mg > 135;",
 
     "select epoch, daily_calcium_in_mg from daily_pow_amounts_by_epoch where daily_calcium_in_mg < 650 or daily_calcium_in_mg > 2500;",
 
