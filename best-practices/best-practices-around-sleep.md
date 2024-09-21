@@ -21,7 +21,11 @@ to 7 hours on a day doesn't have significant repercussions.
 
 I default to a minimum gap of 3 hours between the end of my last meal
 and sleeping, with the gap being larger in some cases. I also aim for
-a gap of at least 2 hours between the last meal and shower/bath.
+a gap of at least 2 hours between the last meal and
+shower/bath. Aspirationally, I try for at least 4 hours from end of
+last meal to sleep, and at least 3 hours from end of last meal to
+shower/bath, but I'm not strict about these under ordinary conditions
+(more on the reason for the gap later in the doc).
 
 ### Sleeping late and getting up naturally
 
@@ -200,7 +204,7 @@ the latest time, unless I am feeling fatigue that makes me want to go
 to bed earlier than that.
 
 Also, in case of health issues affecting digestion or with potential
-effect on digestion, **increase the minimu gap from finishing my last
+effect on digestion, **increase the minimum gap from finishing my last
 meal to sleeping to 4.5 hours from the default of 3 hours**. This
 increases the chances of finishing the third MMC wave before I go to
 sleep.
