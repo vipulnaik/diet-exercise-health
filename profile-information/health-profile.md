@@ -56,17 +56,26 @@ Sections of this document:
 ### Heart rate
 
 My resting, seated heart rate, as measured by my Omron blood pressure
-machine as well as my Zacurate pulse oximeter, is generally 45-55 bpm
-in the morning in summer, and a little higher in the afternoon/evening
-as well as higher during winter months, with winter afternoon/evenings
-seeing values up to 65-70 bpm.
+machine as well as my Zacurate pulse oximeter, is generally 42-60 bpm
+in the morning in summer (before eating or exercise), and a little
+higher under comparable conditions in the winter.
 
 My heart rate goes up by about 10-15 bpm when I stand up, and then
 stabilizes down to about 5 bpm higher than my seated heart rate.
 
-Generally, when my resting heart rate exceeds 75 bpm, I can "feel" my
-heart racing. After I took antibiotics as part of my recovery process
-from the [2023-07-05 wisdom tooth removal (left
+After I return home from jogging, my heart rate is generally in the
+70-100 bpm range. It generally takes about an hour to drop to be
+stably in the 60s, which is still higher than my pre-exercise heart
+rate.
+
+My heart rate after eating (for the first two hours after eating) is
+generally somewhat elevated, in the range of 60-80 bpm. The heart rate
+peaks around 0.5-1.5 hours after finishing my meal.
+
+Generally, when my resting heart rate exceeds 75 bpm outside of the
+post-exercise context, I can "feel" my heart racing. After I took
+antibiotics as part of my recovery process from the [2023-07-05 wisdom
+tooth removal (left
 side)](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md),
 there were periods where I could feel my heart racing. I didn't have
 the pulse oximeter at the time, so I relied on crude measurement of my
@@ -76,12 +85,18 @@ I record my heart rate (measured using the Omron blood pressure
 machine) as part of my monthly blood pressure readings (as well as
 other one-off readings in response to health events or other
 incidents) in
-[blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
+[blood_pressure_readings.sql](../sql/blood_pressure_readings.sql). As
+of 2024-09-21, my morning heart rate readings (before exercise or
+eating) as measured as part of blood pressure measurement were on
+2024-09-21 with successive readings of 49 bpm and 44 bpm.
 
-I also record my heart rate and SpO2 as part of my monthly pulse oximeter readings (as well as
-other one-off readings in response to health events or other
-incidents) in
-[pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql).
+I also record my heart rate and SpO2 as part of my monthly pulse
+oximeter readings (as well as other one-off readings in response to
+health events or other incidents) in
+[pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql). As
+of 2024-09-21, my morning heart rate reading (before exercise or
+eating) as measured by the pulse oximeter was on 2024-09-13 with a
+reading range of 46-50 bpm.
 
 For extensive older experiment results, see
 [2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
@@ -119,7 +134,7 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting blood pressure readings (taken
-2024-08-27) were 95/62 and 91/58. I've had home blood pressure
+2024-09-21) were 106/70 and 104/69. I've had home blood pressure
 readings with the systolic between 91 and 115 and the diastolic
 between 55 and 75.
 
