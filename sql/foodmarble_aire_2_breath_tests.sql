@@ -46,4 +46,6 @@ insert into foodmarble_aire_2_breath_tests(reading_date, index_within_reading_da
   /* 2024-09-12 */
   ('2024-09-12',1,94,1,0.4,0.3,'This reading, taken at 4:13 PM, was about 1.5 hours after my first meal that I finished around 2:39 PM. Unlike the readings of the past few days, this reading had a small nonzero methane fermentation score. The hydrogen fermentation score was low, unlike the somewhat high fermentation scores seen yesterday evening.'),
   /* 2024-09-15 */
-  ('2024-09-15',1,97,1,1.4,0,'This reading, taken at 2:59 PM, was about 1.5 hours after I finished my first meal at 1:22 PM. The methane fermentation score returned to zero (after becoming nonzero in the preceding reading after a long stretch of zeros). The hydrogen fermentation score was low, as desired.');
+  ('2024-09-15',1,97,1,1.4,0,'This reading, taken at 2:59 PM, was about 1.5 hours after I finished my first meal at 1:22 PM. The methane fermentation score returned to zero (after becoming nonzero in the preceding reading after a long stretch of zeros). The hydrogen fermentation score was low, as desired.'),
+  /* 2024-09-20 */
+  ('2024-09-20',1,149,1,0.9,0,'This reading, taken at 5:13 PM, was about 2.5 hours after I finished my first meal at 2:44 PM. The methane fermentation score continued to be zero, and the hydrogen fermentation score continued to be low, as desired.');
