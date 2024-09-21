@@ -23,7 +23,7 @@ esophagus" though it could also reflect one of the other causes.
 If I can anticipate a potential fast happening within the next 48
 hours, avoid outside food over that time period, and try to switch
 from sauerkraut to vegan probiotic yogurt for the 1-2 days before the
-fast, and make sure to stock up on vegan probiotic yogurt,
+fast, and make sure to stock up on vegan probiotic yogurt.
 
 ## During and particularly near the end of the fast: hydrate before eating
 
