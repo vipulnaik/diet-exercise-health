@@ -2272,12 +2272,19 @@ A few changes:
 
 * I had a biting-like incident (not an actual bite) on my right lower
   lip on 2024-09-17 that didn't really cause pain or smarting but did
-  draw my attention on 2024-09-17 and 2024-09-20.
+  draw my attention on 2024-09-17 and 2024-09-20. In hindsight, I
+  think it was close to healed on 2024-09-17, but that the Udupi
+  Palace spinach masala dosa as well as the ongoing consumption of
+  sauerkraut and kimchi, and maybe further aggravation with nuts, may
+  have prevented a full recovery and led to a reaggravation on
+  2024-09-20.
 
 * On the evening of 2024-09-20, I had an experience of smarting around
   the anus, while not experiencing bowel pressure. See [2024-09-20
   anal swelling](2024-09-20-anal-swelling.md) for details. This
-  coincided with my attention being drawn toward the "bite" area.
+  coincided with my attention being drawn toward the "bite" area. In
+  hindsight, I think the Udupi Palace spinach masala dosa consumption
+  may have played a role here.
 
 ## Current learnings
 

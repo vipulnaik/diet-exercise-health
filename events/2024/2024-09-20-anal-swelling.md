@@ -19,6 +19,18 @@ my bowel was empty.
 
 ## Strategies from last time to consider
 
+### Food
+
+I'm planning to take a break from walnuts and sauerkraut / kimchi for
+two days. If it's an anal fissure, it's recommended to avoid nuts as
+these are a sharp food. Sauerkraut and kimchi are somewhat intense
+foods as well. After two days, I can reassess the trajectory of
+symptoms and see if a further break is warranted. The break from
+walnuts and sauerkraut / kimchi will also help with faster recovery
+from my "bite".
+
+### Pain management
+
 Here are some learnings from last time. I think the overall itch /
 pain is less this time (so far) so these may not be applicable as is:
 
@@ -51,10 +63,20 @@ pain is less this time (so far) so these may not be applicable as is:
 
 My [previous experience](../2021/2021-09-12-anal-swelling.md) seems
 similar, but based on both my documentation and my memory of the time,
-it had been more painful that time. With that said, the previous time,
-the pain started on 2021-09-12 and bleeding was observed on
-2021-09-15, three days later, so there is still a possibility of a
-worsening trajectory. However, there are a few things different:
+it had been more painful that time.
+
+### Differences in symptoms
+
+* The way I describe the pain last time, I noticed clear pain "during
+  major posture changes (sitting to standing)." I have not experienced
+  this in the current iteration of pain.
+
+* I haven't experienced bleeding (yet).  With that said, the previous
+  time, the pain started on 2021-09-12 and bleeding was observed on
+  2021-09-15, three days later, so there is still a possibility of a
+  worsening trajectory.
+
+### Differences in causal and modifying factors
 
 * Last time, I had a need to suppress urination and bowel movement due
   to a toilet clog, that likely worsened symptoms.
