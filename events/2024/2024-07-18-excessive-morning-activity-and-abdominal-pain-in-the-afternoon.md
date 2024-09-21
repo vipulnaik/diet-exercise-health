@@ -2275,8 +2275,9 @@ A few changes:
   draw my attention on 2024-09-17 and 2024-09-20.
 
 * On the evening of 2024-09-20, I had an experience of smarting around
-  the anus, while not experiencing bowel pressure. This coincided with
-  my attention being drawn toward the "bite" area.
+  the anus, while not experiencing bowel pressure. See [2024-09-20
+  anal swelling](2024-09-20-anal-swelling.md) for details. This
+  coincided with my attention being drawn toward the "bite" area.
 
 ## Current learnings
 

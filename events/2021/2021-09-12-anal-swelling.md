@@ -41,7 +41,7 @@ feeling the itch. Some of my findings were:
   without causing pain, but I didn't adopt that as a strategy because
   I often lost control and ended up doing too much.
 
-* One trick was to go in the opposite directioon as my itch; if I felt
+* One trick was to go in the opposite direction as my itch; if I felt
   like contracting, expand. This made it a bit less likely that I
   would overshoot.
 
