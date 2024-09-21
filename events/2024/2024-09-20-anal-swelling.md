@@ -21,25 +21,26 @@ my bowel was empty.
 
 ### Food
 
-I'm planning to take a break from walnuts and sauerkraut / kimchi for
-two days. If it's an anal fissure, it's recommended to avoid nuts as
-these are a sharp food. Sauerkraut and kimchi are somewhat intense
-foods as well. After two days, I can reassess the trajectory of
-symptoms and see if a further break is warranted. The break from
-walnuts and sauerkraut / kimchi will also help with faster recovery
-from my "bite".
+For 2024-09-21 and 2024-09-22, I'm taking a break from walnuts,
+sauerkraut, and kimchi. If it's an anal fissure, it's recommended to
+avoid nuts as these are a sharp food. Sauerkraut and kimchi are
+somewhat intense foods as well. After two days, I can reassess the
+trajectory of symptoms and see if a further break is warranted. The
+break from walnuts and sauerkraut / kimchi will also help with faster
+recovery from my "bite".
 
 ### Pain management
 
 Here are some learnings from last time. I think the overall itch /
-pain is less this time (so far) so these may not be applicable as is:
+pain is less this time (so far); however, as of the afternoon of
+2024-09-21 I've been finding these learnings helpful and they do seem
+to also be applying to this time.
 
 * Thinking consciously about it tended to correlate with expanding or
   contracting too much.
 * Expanding or contracting a little bit tended to address the itch
-  without causing pain, but I didn't adopt that as a strategy because
-  I often lost control and ended up doing too much.
-
+  without causing pain. This is a risky strategy though, because
+  without very good control of the muscles, it's easy to go overboard.
 * One trick was to go in the opposite direction as my itch; if I felt
   like contracting, expand. This made it a bit less likely that I
   would overshoot.
