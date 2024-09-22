@@ -1,5 +1,41 @@
 # Jogging and return walking (with history)
 
+## Goal of exercise
+
+### Burn
+
+I jog regularly to burn calories and get the relevant hormones
+released that help me feel good. This makes it important to jog almost
+every day. However, it is also important to not be dependent on
+jogging for my mood. Various forced breaks from jogging, including a
+15-day knee rest as well as breaks for things like vaccination and
+other appointments, help keep me used to days without jogging.
+
+### Maintain
+
+I would like to maintain my existing physical stamina. Jogging is a
+good way to do so.
+
+### Why not build?
+
+As of 2024-09, the amount I usually jog seems good enough for the
+cardio portion of the physical stamina needs I expect to have in real
+life. The dimensions along which I want to improve my physical stamina
+further are not really ones that I expect to improve by jogging
+further.
+
+Another reason I don't want to overbuild on jogging is that jogging
+more regularly will both increase my time spent jogging (insofar as I
+will have to increase my total route length from 2 miles to a higher
+value if I regularly jog 2 miles, as I need at least 0.2 miles of
+return walking to cool down). It will also increase my need for
+calorie intake, which means spending more money and time preparing and
+eating food. While this isn't a big downside, I don't see much
+compensating upside.
+
+With that said, I am definitely open to the possibility of jogging
+more; just not striving in that direction.
+
 ## Current protocol for jogging and return walking
 
 ### Frequency: daily
@@ -23,7 +59,7 @@ when cars are moving out of parking spots). So in general I aim to jog
 at least 1.4 miles and walk the remaining 0.6 miles. When I have
 more energy, I may jog a larger portion, and therefore walk back a
 shorter residual duration. In general, when reasonably energetic, I
-jog about 1.5-1.8 miles and walk back the remaining 0.4-0.6 miles.
+jog about 1.5-1.8 miles and walk back the remaining 0.2-0.5 miles.
 
 Overall, one way (the first 1 mile, mostly jogging) takes me about
 9-12 minutes and the return journey (mix of jogging and walking)

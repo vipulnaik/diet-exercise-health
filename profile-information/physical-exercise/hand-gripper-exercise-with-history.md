@@ -1,8 +1,38 @@
 # Hand gripper exercise (with history)
 
-## Current protocol and status as of 2024-08-02
+## Goal of exercise
 
-I do this sequence every day (or almost every day) in the morning, with the steps in quick succession:
+### Build peak strength I can crush (to 200 lb)
+
+I can currently crush the 150 lb with both hands, but am unable to
+crush the 200 lb with either hand. My goal is to build toward the
+point where I can crush the 200 lb, even if it is just for a second.
+
+It may be that getting to 200 lb requires addressing other
+constraints, such as increasing protein intake or doing other
+complementary exercise. This is evidenced by the fact that progressing
+from 100 lb to 150 lb was relatively quick, but progressing from 150
+lb to 200 lb has been taking a while (though that's also partly
+because I haven't been trying that much). It would be good to
+understand and address these, though I would be fine if it takes a
+while to get to 200 lb.
+
+### Maintain how long I can keep the 150 lb and 100 lb closed
+
+As of 2024-09-22, I can keep the 150 lb closed for about 7-12 seconds,
+and the 100 lb closed for about 10-20 seconds when done immediately
+after the 150 lb. I think this duration is good enough, and in
+practice, trying to crush for longer will just end up using more and
+more of my time without clear benefits. Although I do expect some
+organic improvement in how long I can close, I am not focusing on
+building to longer durations.
+
+## Current protocol and status as of 2024-09-22
+
+### First of alternating days (focus on maintaining)
+
+I do this sequence every alternating day in the morning, with the
+steps in quick succession:
 
 * Right hand on 150 lb: I close and keep closed for about 7-12 seconds.
 
@@ -26,15 +56,23 @@ and more representative of a real-world situation (e.g., gripping
 something that I can't afford to let go of). However, I might do
 multiple open/closes outside of my daily routine.
 
-These I don't do as part of my regular daily routine, but I might do
-sometimes at another time of day (they're hard to do right before or
-after the daily routine due to hand fatigue):
+### Second of alternating days (focus on building)
+
+I do this on the other alternating days from the ones where I do the
+exercises in the preceding section.
 
 * Right hand on 200 lb: I am far from being able to close. I can do a
   little further than parallel.
 
 * Left hand on 200 lb: I am far from being able to close. I can just
   about get to parallel.
+
+### Post-exercise relaxation
+
+Particularly for the 200 lb attempts, I might feel muscle fatigue in
+my hand, wrist, shoulder, or neck. I should make sure to massage the
+area if so. I can also try head-and-neck strength exercises if I
+continue feeling tight in the area.
 
 ### Reasons for skipping
 
@@ -217,3 +255,9 @@ Here is the protocol as of this time:
   100 lb instead of doing the 150 lb first, I would be able to do over
   20 seconds, but then I would not be able to do the 150 lb
   immediately aferward. That's why I start with the 150 lb.
+
+## Update on 2024-09-22
+
+I have decided to make the bundle of 150 lb and 100 lb exercises (that
+are now at a maintain level) every alternate day, and on the other
+alternate day, try the 200 lb, which is what I am trying to build to.
