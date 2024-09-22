@@ -22,7 +22,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('November 2017 Columbia Asia vitamin and lipid profile tests','B12','pg/mL',180,914,167,'Intermediate','This test was taken before starting any regular Vitamin B12 supplementation. Guidance says: < 145 pg/mL is deficient, 145-180 is intermediate, and 180-914 is normal'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','B12','pg/mL',187,883,173.6,'Deficient','This test was taken before starting any regular Vitamin B12 supplementation'),
   ('September 2018 LabCorp vitamin tests','B12','pg/mL',232,1245,1050,'Sufficient','This test was taken after about 10 months of regular Vitamin B12 supplementation, at 1000 mcg per tablet and a little over 1 tablet per day on average'),
-  ('September 2024 Quest Diagnostics tests','B12','pg/mL',200,1100,1054,'Sufficient','This test was done almost 6 years after my previous test for Vitamin B12. Already in the previous test, I was at the high end of the range. I''ve continued to supplement Vitamin B12 regularly and have stayed at the high end of the range.'),
+  ('September 2024 Quest Diagnostics tests','B12','pg/mL',200,1100,1034,'Sufficient','This test was done almost 6 years after my previous test for Vitamin B12. Already in the previous test, I was at the high end of the range. I''ve continued to supplement Vitamin B12 regularly and have stayed at the high end of the range.'),
   /* Serum folate */
   ('September 2024 Quest Diagnostics tests','Serum folate','ng/mL',3.4,NULL,11.1,'Normal','The recommended range for serum folate is 5.4 or higher; 3.4-5.4 is considered borderline. At 11.1, I am safely within the normal range. I don''t have any past data to compare with.'),
   /* HbA1c tests (there is also an earlier test that was part of a gastro panel) */
@@ -232,7 +232,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('April 2024 Sutter Health blood tests','Basophils (absolute)','1000/uL',0,0.2,0,'Normal','This test was part of a complete blood count (CBC). I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Nucleated RBC auto','/100WBC',0,0,0,'Normal','This test was part of a complete blood count (CBC). I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   /* September 2024 Quest Diagnostics comprehensive metabolic panel */
-  ('September 2024 Quest Diagnostics tests','WBC','1000/uL',3.8,10.8,4.8,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','WBC','1000/uL',3.8,10.8,4.0,'Normal','This test was part of a complete blood count (CBC).'),
   ('September 2024 Quest Diagnostics tests','RBC','1000000/uL',4.2,5.8,4.9,'Normal','This test was part of a complete blood count (CBC).'),
   ('September 2024 Quest Diagnostics tests','Hemoglobin','g/dL',13.2,17.1,15.1,'Normal','This test was part of a complete blood count (CBC).'),
   ('September 2024 Quest Diagnostics tests','Hematocrit','%',38.5,50.0,45.9,'Normal','This test was part of a complete blood count (CBC).'),
@@ -244,6 +244,14 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('September 2024 Quest Diagnostics tests','MPV','fL',7.5,12.5,11.9,'Normal','This test was part of a complete blood count (CBC).'),
   ('September 2024 Quest Diagnostics tests','Neutrophils (absolute)','1000/uL',1.5,7.8,2.376,'Normal','This test was part of a complete blood count (CBC).'),
   ('September 2024 Quest Diagnostics tests','Lymphocytes (absolute)','1000/uL',0.85,3.9,1.260,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Monocytes (absolute)','1000/uL',0.2,0.95,0.212,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Eosinophils (absolute)','1000/uL',0.015,0.5,0.132,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Basophils (absolute)','1000/uL',0,0.2,0.02,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Neutrophils','%',NULL,NULL,59.4,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Lymphocytes','%',NULL,NULL,31.5,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Monocytes','%',NULL,NULL,5.3,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Eosinophils','%',NULL,NULL,3.3,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Basophils','%',NULL,NULL,0.5,'Normal','This test was part of a complete blood count (CBC).'),
   /* a few more entries need to be added */
   /* April 2024 Sutter Health comprehensive metabolic panel (not fasting; 6.5 hours after meal) */
   ('April 2024 Sutter Health blood tests','Sodium','mmol/L',136,145,140,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
