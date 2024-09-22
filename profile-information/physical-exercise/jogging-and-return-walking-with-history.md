@@ -16,7 +16,7 @@ I'm generally not in a hurry to get anywhere, and if there are
 significant traffic logjams I might change my route a little bit.
 
 I aim to jog for the full duration of at least one way (1 mile) plus
-at least 40% of the other way (0.4 miles) minus some parts
+at least the initial 40% of the other way (0.4 miles) minus some parts
 where I have to slow down (e.g., when crossing a road, or due to dogs
 or children nearby who might get excited by somebody moving fast, or
 when cars are moving out of parking spots). So in general I aim to jog
@@ -153,9 +153,9 @@ I initially started with a goal of at least 1 mile jogging + the
 remainder of the 2-mile journey walking, with the return walking
 punctuated by brief bursts of jogging.
 
-Over time, I switched to at least 1.25 miles jogging + walking the
+Over time, I switched to at least the initial 1.25 miles jogging + walking the
 remainder of the 2-mile total.
 
 On 2024-05-29, based on recent data, I decided to increase my
-threshold to 1.4 miles jogging + the remainder of the 2-mile journey
+threshold to the first 1.4 miles jogging + the remainder of the 2-mile journey
 walking.
