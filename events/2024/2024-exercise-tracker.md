@@ -707,7 +707,7 @@ exercises.
 
 ## 2024-08-14 (extended to 2024-08-15 and 2024-08-16): planned skipping of all exercise (except standing-on-one-leg-with-eyes-closed exercise)
 
-I kipped all exercises on 2024-08-14, to see how that helps in my
+I skipped all exercises on 2024-08-14, to see how that helps in my
 recovery, since as of 2024-08-13 evening I falt like I'm in a stage of
 recovery where I have more cramping, and eonderedif skipping exercise
 will help with recovery during this critical phase. My thought was to

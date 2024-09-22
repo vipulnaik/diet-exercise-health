@@ -3,11 +3,10 @@
 Sections of this document:
 
 * [Executive summary](#executive-summary)
-* [Open questions](#open-questions)
-* [General evolution](#general-evolution)
 * [Summary of symptoms and experience so far](#summary-of-symptoms-and-experience-so-far)
 * [Comparison with the previous round starting 2024-04-25](#comparison-with-the-previous-round-starting-2024-04-25)
 * [Theories of causes and exacerbating factors](#theories-of-causes-and-exacerbating-factors)
+* [Side-effects of actions I took to address the situation](#side-effects-of-actions-i-took-to-address-the-situation)
 * [Beginning of the story: the night before and the day of (2024-07-18)](#beginning-of-the-story-the-night-before-and-the-day-of-2024-07-18)
 * [Subsequent days](#subsequent-days)
 * [Status as of 2024-09-14: stopping daily recording and taking stock](#status-as-of-2024-09-14-stopping-daily-recording-and-taking-stock)
@@ -15,19 +14,15 @@ Sections of this document:
 
 ## Executive summary
 
-NOTE: This executive summary was written around 2024-08-15 /
-2024-08-16 and has not been updated to reflect more recent
-developments, including the FoodMarble Aire 2 purchase decision and
-readings. Access the readings
-[here](../../sql/foodmarble_aire_2_breath_tests.sql). See the
-[Subsequent days](#subsequent-days) section for more recent
-developments.
+This executive summary was updated 2024-09-21. The original version
+was written around 2024-08-15 / 2024-08-16.
 
 On 2024-07-18, I overexerted myself (running 1.7 miles then walking
 3.3 miles with only small breaks in between) and delayed eating. In
 the immediately preceding days, I had eaten lentils at a relatively
-high rate (starting 2024-07-14). I ate freshly prepped peas in the
-delayed meal after returning on 2024-07-18.
+high rate (starting 2024-07-14) without adequate drainage of the water
+used for soaking and cooking the lentils. I ate freshly prepped peas
+in the delayed meal after returning on 2024-07-18.
 
 A combination of these factors seems to have triggered abdominal
 discomfort in me. Unlike the [2024-04-25 onward
@@ -37,98 +32,80 @@ constipation. However, the symptoms were qualitatively somewhat
 similar to the less acute portion of the symptoms last time, so I
 suspect a similar underlying set of causes but different triggers.
 
-My overall symptoms from 2024-07-18 to 2024-08-15 (four weeks) or so
-have been generally mild, and I have, for the most part, been able to
-carry on with my work, personal chores, and exercise as usual (though
-for some portions of the period I have deliberately skipped exercise
-to see how much it helps, for the most part I haven't felt I "needed"
-to skip exercise). The period has been one of otherwise low stress and
-high flexibility, which means that stress has not contributed to
-exacerbating any issues.
+From 2024-07-18 to around 2024-08-15, my symptoms were mainly
+abdominal pain, flatulence, burping (and other reflux symptoms) and
+stomach rumble, with associated discomfort to some of these, even
+though none of these had a significant magnitude that was concerning
+in absolute terms. I also had constipation-like symptoms (tenesmus,
+sense of incomplete bowel evacuation without having clear-cut
+constipation. I had a morning bowel movement every day for the whole
+period, that met most of my bowel evacuation, there were about five
+days when I made attempts at a second bowel movement, with four of the
+five attempts successful. Doing second bowel movements within the day
+is pretty unusual for me outside of cases where I have a very unusual
+meal or am adjusting my sleep cycle.
 
-My symptoms have shifted a bit: while abdominal pain / discomfort have
-been a common thread, the initial symptoms seemed to include more
-reflux (and more susceptibility to mouth injuries), the first 3 weeks
-were characterized by clearly greater burping and flatulence than
-usual, and there have been some off-and-on signs of mild constipation
-(though I have consistently had regular daily morning bowel movements
-that cover most of my bowel evacuation needs). I suspect some of the
-foods I stopped have helped with the flatulence reduction: lentils,
-peas, sauerkraut (though I'm less sure how much this helped), and
-broccoli (stopped at the end of the period so its effects are not seen
-in the time period). Stomach rumble has generally gone down along with
-flatulence and burping, and the locus of the pain has shifted to being
-more clearly below the belly button.
+Starting around 2024-08-03, I started pausing the consumption of some
+gas-producing foods (think FODMAPs)to help relieve my symptoms and
+potentially address the underlying issues. Foods I paused included
+peas, sauerkraut, lentils, and broccoli. By the week of 2024-08-12, my
+flatulence, burping, and stomach rumble had significatly reduced. By
+2024-08-15, my main symptom was abdominal pain, with the pain mostly
+below the belly button and a little to the rght side.
 
-Based on possibilities I have come across online, the best fit seems
-to be some form of intestinal methanogen overgrowth (IMO), formerly
-known as methane-dominant SIBO. IMO is one of the likely main causes
-of what's called IBS-C (irritable bowel syndrome, constipation
-type). While my symptoms do not meet all the criteria to be classified
-as IBS-C, they do seem to be generally in that direction compared to
-my normal steady state. My current plan is to follow the low-hanging
-fruit advice conditional to IMO (that would be no-regret even if I had
-a different condition) and monitor for a couple more weeks before
-escalating to other options such as testing. I also plan to continue
-to investigate other possibilities and see if there are easy tests or
-no-regret advice I can follow for those.
+Starting around 2024-08-13, I began pausing exercises in light of the
+increase in pain (even as my other symptoms were improving). With the
+exception of an attempt at jogging on 2024-08-17 where I wasn't able
+to do much due to pain, I continued this pause until
+2024-08-24. Starting 2024-08-25, I resumed joging, though I continued
+to skip a few days after that. On 2024-08-31, I experimentally resumed
+strength exercises.
 
-## Open questions
+On 2024-08-24, I started using the FoodMarble Aire 2 to measure my
+fermentation levels. I got a few high methane readings and other
+readings with low methane -- my hydrogen was generally
+low. Unfortunately, the device had some issues so I couldn't use it
+after 2024-08-26. I exchanged it for a new device and started taking
+readings with the new device 2024-09-04. With the new device, I
+haven't encountered high methane readings; this is consistent with no
+longer experiencing symptoms related to flatulence/gas.
 
-* Do I continue to abstain from all these foods until I feel a lot
-  better and/or get a clearer diagnosis? Or do I try some of them to
-  see if they worsen symptoms?
+On 2024-08-27, I developed the hypothesis that my occasional
+consumption of Super B Complex supplements might be causing some of my
+symptoms. The reason I focused on this hypothesis is that I had not
+had the B complex for a few weeks (without being very intentional
+about it) and having it again seems to have been followed by an
+increase in flatulence; this was at a time when I was not having
+gas-producing foods, so the B complex came to mind. I stopped having
+the Super B Complex supplement from that point onward.
 
-  Foods in question: sauerkraut, lentils, peas, broccoli
+On 2024-09-03, I got a bunch of regular blood tests done. The test
+results showed normal levels for most things (including plasma
+protein), but did flag a low BUN level, which is indicative of low
+dietary protein. I already had in mind that my dietary protein may be
+a concern due to the foods I had temporarily stopped, and had been
+planning to resume them, but seeing it in BUN levels underlined that.
 
-* How should I think about exercise? My plan right now is to basically
-  resume exercise if I feel like it.
+The next day (2024-09-04) I resumed exercise, and since then, I have
+been doing my usual level of exercise, similar to the levels before
+2024-07-18.
 
-* Should I get more blood tests done that are relatively low-cost and
-  don't require a prescription, even if they are unlikely to flag
-  anything? For instance, a comprehensive metabolic panel (CMP) and
-  complete blood count (CBC). I got both of these in April as part of
-  the urgent care visit.
-
-* Should I get some longer-term blood tests done that I had been
-  planning to do around this time, or wait till I feel better? For
-  instance, lipid profile, insulin, HbA1c, Vitamin D3 and B12,
-  omega-3.
-
-* Any other blood tests to do?
-
-* Should I get the not-very-reliable FoodMarble Aire 2 for $249 to get
-  a general sense of things? This can be used to get a large number of
-  readings, and it does not require a doctor's order, but its
-  reliability is supposedly less than the TrioSmart breath test.
-
-* Should I, when should I, and how should I get the TrioSmart breath
-  test to see if I actually have IMO? The "how" part is basically
-  trying to figure out how to get a doctor's order for the test.
-
-## General evolution
-
-* Symptoms of reflux have gone down over time (burping, susceptibility
-  to getting / long recovery time from mouth injuries).
-
-* Flatulence seems to have dropped around the week of
-  2024-08-12. Burping and stomach rumble also seem to have dropped
-  further around the same time.
-
-* The locus of the pain seems to have shifted and is clearly below the
-  belly button as of 2024-08-12. Peak intensity of pain also seems to
-  have increased and it has shifted in character from bloating to
-  cramping.
-
-* Frequency of good days may have increased over time, but on the
-  other hand acuteness of pain may also have increased.
+On 2024-09-07, I resumed consumption of peas (one pack in potatoes
+prep), and then ramped it up to two packs on 2024-09-12. On
+2024-09-10, I resumed consumption of green lentils (soaking more
+thoroughly and draining all the water more carefully). I resumed
+consumption of sauerkraut on 2024-09-09. I started trying out kimchi
+on 2024-09-14 (with no clear negative effects). I tried an Udupi
+Palace spinach masala dosa on 2024-09-18, which might be implicated in
+some other side effects (anal swelling) but doesn't seem to have
+caused my original cluster of symptoms to return. On 2024-09-19, I
+started consuming carb savvy tortillas, resuming wheat. As of
+2024-09-21, the only food that I had paused that I haven't resumed is
+broccoli.
 
 ## Summary of symptoms and experience so far
 
-Summary last updated 2024-08-15, at around 4 weeks later.
-
-Overall, this is a case of intermittent abdominal pain, along with
-other symptoms.
+Summary last updated 2024-09-21.
 
 ### Pain symptoms
 
@@ -139,16 +116,31 @@ the course of 4 weeks. However, these are my overall impressions:
   to a 2 out of 10. Even when it is absent, I still feel some unusual
   sense in the area when I probe it.
 
-* The initial pain was more diffuse and not very acute.
+* The initial pain was more diffuse and not very acute. It also seemed
+  loosely correlate with food consumption, though not timing-wise in
+  a clear sense.
 
 * Around the week of 2024-08-12, the pain had shifted to being more
   cramp-like and limited to below the belly button, i.e., lower
-  abdominal pain, and having more brief acute manifestations. It is
+  abdominal pain, and having more brief acute manifestations. It was
   almost always in the middle, with very occasional shifting to the
   right. I also experienced a bit more pelvic pain (usually on the
   right side pelvis) though that pain was well within normal bounds
   (where I would not even bother to investigate it if it occurred on
   its own).
+
+* Around 2024-08-17, the pain was strong enough to get in the way of
+  jogging -- I wasn't able to jog my full distance and had to walk
+  back. However, starting 2024-08-24, I was able to resume jogging
+  without the pain getting in the way much. On 2024-08-30, I resumed
+  strength exercises, again without interference from the
+  pain. Starting 2024-09-04, I have been doing my full range of
+  regular exercises without pain.
+
+* Since 2024-08-15, over time, the frequency and intensity of pain has
+  been reducing gradually. The location has stayed at "below the belly
+  button" and to the right, with occasional sensations in the stomach
+  area.
 
 ### Pain symptoms that I did not have
 
@@ -188,7 +180,8 @@ I did **not** have any of these:
   eating.
 
 * I did not get consistent patterns regarding the relationship with
-  time of day etc.
+  time of day etc. However, there were parts of the period where I had
+  a classic "late-morning" pain surge.
 
 ### Non-pain "tangible" symptoms that were present
 
@@ -208,12 +201,39 @@ I did **not** have any of these:
 
 ### Other semi-tangible symptoms
 
-I have occasionally, during high heat when I sweat a lot, sensed an
-"onion smell" / "peas smell". This doesn't necessarily correlate with
-the pain itself (the smell may have been more pronounced on my best
-days, though I'm not too sure). As it's difficult to be sure of
-smells, I don't count this quite as a tangible thing. But it might be
-suggestive of particular theories, as discussed later.
+Some time between early 2024-08 and the end of 2024-08, I have
+occasionally, during high heat when I sweat a lot, sensed an "onion
+smell" / "peas smell". This doesn't necessarily correlate with the
+pain itself (the smell may have been more pronounced on my best days,
+though I'm not too sure). As it's difficult to be sure of smells, I
+don't count this quite as a tangible thing. By early 2024-09, the
+overall heat level had reduced so I didn't have that level of sweat
+where it would be easy to detect a smell, so I'm not sure if the
+problem persisted at that point.
+
+### Measurement of fermentation levels
+
+For the full set of readings, see [here](../sql/foodmarble_aire_2_breath_tests.sql).
+
+I got the FoodMarble Aire 2 on 2024-08-24. I took a few readings
+across 2024-08-24, 2024-08-25, and 2024-08-26, but the device had
+issues and I needed to have it replaced. I got a new device and
+started taking readings with it on 2024-09-04.
+
+My first round of FoodMarble Aire 2 readings on 2024-08-24 showed high
+levels of methane 2 hours and 3 hours after eating (but low levels
+prior to eating). The time periods are late enough that the methane
+levels may be coming only from the large intestine.
+
+For the readings taken 2024-09-04, I've consistently had zero or low
+levels of methane fermentation, and modest levels of hydrogen
+fermentation for almost all readings. This is tentative evidence that
+fermentation hasn't been an issue at least since I got the new
+FoodMarble Aire 2, but it may have been an issue at the time of my
+original FoodMarble Aire 2. There is some evidence elsewhere on Reddit
+forums that methane levels can rise and fall randomly, and that only
+persistently high methane levels accompanied by symptoms are
+concerning.
 
 ### Wellness fluctuation over time
 
@@ -248,6 +268,11 @@ A few days stand out as being particularly good:
   conversation where I mostly forgot about the thing, and I didn't get
   any immediate comeuppance right after it.
 
+My energy levels have generally improved starting 2024-08-15. On a
+day-to-day basis, I'd say that I am back to the energy levels I had
+before 2024-07-18. However, there is some evidence that I still don't
+have the sustained energy levels that I used to have in the past.
+
 For the first two examples above in particular, I do not know to what
 extent these represented genuine recovery that I then undid with other
 actions.
@@ -273,6 +298,10 @@ consumption.
   felt that that helped, but I don't have clear evidence for
   this. There's no clear before-after impact.
 
+  I resumed sauerkraut consumption on 2024-09-09. I did another brief
+  pause for 2024-09-21 and 2024-09-22 to deal with a mouth bite and
+  anal swelling.
+
 * I suspect that the consumption of onions as part of my outside food
   meal at Kitava (meeting friends) on 2024-08-02 caused increased
   flatulence from 2024-08-04 to 2024-08-06 or so.
@@ -284,6 +313,10 @@ consumption.
   overall improvements from 2024-07-31 to 2024-08-03 before I stopped
   peas, and the picture reversed after that. So it's not clear if
   stopping peas was good overall.
+
+  I resumed peas consumption on 2024-09-07 (one pack as part of the
+  potatoes prep) and ramped up to two packs on 2024-09-12. The peas
+  consumption seems to have worked fine.
 
 * I tried lentils on 2024-08-08, but intuited that I didn't react well
   to them (and there was increased flatulence) so after the first day
@@ -299,12 +332,17 @@ consumption.
   when the pain started, but it became clearer when I reviewed my food
   consumption retrospectively).
 
-* I'm planning to pause broccoli consumption for a little while after
-  2024-08-15 (as I finish this batch of it).
+  I resumed lentils consumption with thorougher soaker and more water
+  draining and it worked fine.
+
+* I paused broccoli consumption on 2024-08-15. As of 2024-09-21, I
+  have not resumed it.
 
 * For unrelated reasons (unplanned fasting) I paused walnut
   consumption for two days (2024-08-14 and 2024-08-15). The duration
-  is too short to see any clear impact.
+  is too short to see any clear impact. I also paused walnut
+  consumption for two days on 2024-09-21 and 2024-09-22 to aid with
+  faster recovery from a mouth bite and anal swelling.
 
 ### Bowel movement cycle
 
@@ -391,21 +429,18 @@ given that overexercise is a likely trigger for the beginning of it.
 * In some cases, breath holds made me feel worse but the effects
   generally did not seem to last longer than 10 minutes.
 
-* I did another attempt at skipping exercises on 2024-08-14 and
-  2024-08-15. 2024-08-14 was a high-energy day (likely due to energy
-  conserved from skipping exercises), but not super-clearly great as
-  far as abdominal discomfort is concerned.
+* I skipped exercise from 2024-08-13 to 2024-08-23 (with a brief
+  exception on 2024-08-17 when I tried jogging and could not get too
+  far due to pain). Starting 2024-08-24, I resumed jogging. On
+  2024-08-30, I experimentally resumed strength exercises. From
+  2024-09-04 onward, I have gotten back to my normal level of
+  exercise.
 
 ### Relationship with stress
 
 Overall, the entire period was one of low cognitive and emotional
 stress, though I did have minor finger injuries on 2024-07-21 that,
 although not too bad, did contribute to stress.
-
-Ironically, periods within these 4 weeks where I felt better were
-periods of greater stress in some sense as I tackled more cognitively
-and emotionally challenging tasks, but I would characterize that
-stress as eustress and not distress.
 
 A few more specifics related to stress:
 
@@ -456,35 +491,41 @@ My takeaways:
   positive relative to the past few months. Definitely relative to a
   year ago or two years ago!
 
-
-
 ### Vitals
 
 I have two days (2024-07-13 and 2024-07-17) of recorded pulse oximeter
 readings (see [here](../../sql/pulse_oximeter_readings.sql)) from
-before the start of this issue, and several days (about 8 as of
-2024-08-15) of recorded readings from after the start of the
-issue. Overall, it seems like my heart rate has gone up a little bit
-(from about 41-52 bpm to about 51-62 bpm under comparable conditions),
-but the differences may be explained by factors such as temperature
-changes. Even the increased rate is still at the bradycardic edge.
+before the start of this issue, and several days of recorded readings
+from after the start of the issue.
+
+Overall, for readings taken in the morning before eating and exercise,
+my lower reading over 60-second or higher interval has been in the
+42-60 bpm reading and my upper reading has been in the 50-65 bpm
+range. I did notice that my initial readings right after 2024-07-18
+were a little higher than usual (the reading on 2024-07-20 had a lower
+value of 55 bpm and an upper value of 67 bpm). However, the later
+reading were within the normal range. The one exception was the
+reading on the morning of 2024-08-27, with a lower reading of 61 bpm
+and an upper reading of 71 bpm. I attributed this to a reaction to the
+Super B Complex dose that I had had the previous day.
 
 I have several days of blood pressure readings (see
-[here](../../sql/pulse_oximeter_readings.sql)) from before the start
-of this issue, and two days from after the start of the issue. The
-heart rate portion of the observations is roughly consistent with what
-I saw with the pulse oximeter, though the smaller number of
-observations makes that part less valuable than the pulse
-oximeter. The blood pressure readings are roughly similar to what they
-were before.
+[here](../../sql/blood_pressure_readings.sql)) from before the start
+of this issue, and a few from after the start of the issue. The heart
+rate portion of the observations is roughly consistent with what I saw
+with the pulse oximeter, though the smaller number of observations
+makes that part less valuable than the pulse oximeter. The blood
+pressure readings are roughly similar to what they were before.
 
 ### Sleep patterns and relationship between sleep and pain
 
-I've been trying to follow the practice of getting into bed about 8.5
-hours before my expected waking-up time. However, I have not always
-been able to achieve this.
+#### Initial period till about 2024-08-15
 
-I have also tried to follow a practice of deliberately sleeping in
+I was initially focused on following the practice of getting into bed
+about 8.5 hours before my expected waking-up time. However, I have not
+always been able to achieve this.
+
+I also tried to follow a practice of deliberately sleeping in
 after I initially wake up to urinate. However, over time, I've been
 waking up earlier to urinate (compared to my natural waking-up time)
 so that the net effect on my waking-up time has not been to delay it
@@ -510,21 +551,30 @@ of the range can cause more pain, but on the other hand one of my best
 days (2024-08-03) was after just 7 hours of sleep, so I'm not too
 sure.
 
-ADDED 2024-08-16: As I've been learning more about intestinal
-methanogen overgrowth (IMO) and its implications for slower motility,
-I wonder if I have been going about the sleep stuff wrong. I've been
-prioritizing getting sufficient sleep, but perhaps the higher priority
-should have been given to getting a long enough gap between eating and
-sleeping. So far, I've kept a gap of at least 3 hours between eating
-and sleeping, but based on [this video
-slide](https://youtu.be/e66fEUGVCzE?t=1116) for instance, I should
-actually be aiming for at least 4 hours gap between finishing my meal
-and sleeping. Obviously it is best to have both, but where in doubt, I
-think erring on the side of maintaining a higher eating/sleeping gap
-at the risk of sleeping a bit late is probably better. I might do a
-historical analysis of eating and sleeping times (I don't have a
-systematic log of these, but can infer them from computer usage logs)
-to see if there is a historical correlation.
+#### Change to focus on 2024-08-16
+
+As I've been learning more about intestinal methanogen overgrowth
+(IMO) and its implications for slower motility, I wonder if I have
+been going about the sleep stuff wrong. I've been prioritizing getting
+sufficient sleep, but perhaps the higher priority should have been
+given to getting a long enough gap between eating and sleeping. So
+far, I've kept a gap of at least 3 hours between eating and sleeping,
+but based on [this video slide](https://youtu.be/e66fEUGVCzE?t=1116)
+for instance, I should actually be aiming for at least 4 hours gap
+between finishing my meal and sleeping. Obviously it is best to have
+both, but where in doubt, I think erring on the side of maintaining a
+higher eating/sleeping gap at the risk of sleeping a bit late is
+probably better. I might do a historical analysis of eating and
+sleeping times (I don't have a systematic log of these, but can infer
+them from computer usage logs) to see if there is a historical
+correlation.
+
+I've followed this changed focus from 2024-08-16 to 2024-09-21. This
+seems to have worked well in terms of getting rid of constipation-like
+symptoms, but there have been times where it might have led to less
+sleep than I would ideally like. I've been re-evaluating and plan to
+go back to some kind of hybrid of the goals of large meal/sleep gap
+and sufficient sleep.
 
 ### Relationship with temperature
 
@@ -574,7 +624,7 @@ things. On the days that were merely good or slightly bad, though, I
 just didn't have that level of overarching excitement, even though I
 did feel more local sense of excitement.
 
-For the period 2024-08-12 onward, when the nature of the pain turned
+For the period of a few weeks 2024-08-12, when the nature of the pain turned
 more to something of the cramping flavor, I noticed something I had
 noticed in my last round of abdominal pain (starting 2024-04-25) --
 getting excited about something very quickly would increase my
@@ -683,6 +733,21 @@ transferring it to the next food and then the food after that, and
 getting some lemon juice from it without directly consuming the lemon
 piece itself.
 
+#### Super B Complex
+
+Since late May / early June, I've been having Super B Complex every
+few days. This contains a huge amount of the Vitamin Bs, well above
+the RDA, but my expectation has been that I'll pass out the extra
+stuff in my urine. I had no particular reason to take it, but thought
+it's a good hedge particularly when traveling.
+
+I didn't initially connect the Super B Complex to my symptoms, but
+retrospectively, my symptom improvement starting middle of 2024-08
+coincided with unintentional stoppage of Super B Comple. And then on
+2024-08-27, the day after I had a Super B Complex after a long time, I
+noticed increased heart rate and flatulence that I tied to the
+consumption of the Super B Complex.
+
 ### Background factors / potential root causes
 
 #### Small intestinal bacterial overgrowth (SIBO) / intestinal methanogen overgrowth (IMO) etc.
@@ -761,28 +826,14 @@ Which of these if any do I have?
   my knowledge) have any of the rare conditions that could be
   alternate pathways to SIBO / ISO.
 
-* IMO is still plausible because, at least judging from recent
-  developments, I do seem to be trending in the direction of
-  constipation, though I am very far from the clinical definition of
-  constipation. Also, some of the other data is consistent with
-  IMO. The onion smell, that would suggest ISO, is possible because
-  there is some increase in H2S bacteria in some IMO cases.
+* IMO fits a little better with the constipation-like nature of my
+  initial symptoms, and is also consistent with some of the initial
+  readings of the FoodMarble Aire 2. The later readings don't suggest
+  high methane fermentation, so even if something IMO-like happened in
+  the initial period, it seems to have sobsided.
 
-  In fact, IMO does seem like the most likely single possibility of
-  all the ones I have listed.
-
-* I think the main thing that makes me skeptical of the IMO diagnosis
-  is that my overall symptoms don't quite match up in severity and
-  quality with what I could gather are the symptoms of people who post
-  about it. But, this could just reflect the fact that most people
-  take a very long time to get to the diagnosis, often cycling through
-  lots of doctors and blood tests, and because they are not focused on
-  the right set of steps, their symptoms get worse over the time
-  period. There's also a selection effect where only people whose
-  symptoms exceed some degree of severity are likely to seek treatment
-  and/or post about it on Reddit, YouTube, etc.
-
-A few more notes specific to IMO and trying to fit it in with my case:x
+A few more notes specific to IMO and trying to fit it in with my case
+(taken around 2024-08-16):
 
 * IMO is characterized by slow motility, and the general advice for it
   is to eat fewer meals (which I already do), have at least 4 hours
@@ -825,29 +876,13 @@ A few more notes specific to IMO and trying to fit it in with my case:x
   days while staying off of peas, lentils, etc. seems like a way to
   find out.
 
-To test, I could do:
-
-* The $349 TrioSmart breath test, which is doctor-ordered so I'll need
-  a doctor to order it, so the effective cost would be much higher
-  (even more so because most doctors will want to make their own
-  judgment so the first doctor I try may not be willing to prescribe
-  the test for me) (and there would also be additional time needed).
-
-* The $249 FoodMarble Aire device, which seems to be way less reliable
-  but can give multiple real-time readings and doesn't need a doctor's
-  order.
-
-There is no easy treat-to-test option, but a few possibilities:
-
-* The antibiotics to treat (rifaximin + others based on the type of
-  SIBO/IMO) require prescription and the prescription in turn reqires
-  the TrioSmart breath test. Antibiotics in any case should not just
-  be tried as a treat-to-test given the complication. So this is not
-  an option that can be tried out before a test.
-
-* Artichoke has cured the motility issues with people's SIBO/IMO; see for
-  instance
-  [here](https://www.reddit.com/r/SIBO/comments/wcuxyz/made_a_video_about_my_sibo_experience_and_full/).
+Ultimately, to test, I got the $249 FoodMarble Aire device, which
+seems to be way less reliable but can give multiple real-time readings
+and doesn't need a doctor's order. Based on the results, it seems like
+at least as of 2024-09-21, I don't have SIBO or IMO and therefore do
+not need to continue pursuing this route of investigation. Moreover,
+the lack of high fermentation has persisted even after resuming
+gas-producing foods.
 
 #### Butyrate depletion?
 
@@ -874,20 +909,22 @@ Butyrate depletion theory seems to make sense in these ways:
 * It is local to the large intestine which feels more consistent with
   my symptoms.
 
-It can be tested as follows:
+I looked into butyrate supplements and akkermansia, but ultimately
+decided as of 2024-09 that they were too high-risk a path for the
+current symptoms. Butyrate is also covered by stool tests, but getting
+a stool test is also some work that I don't think is warranted as of
+now.
 
-* Stool test from some of the more niche testing companies include
-  butyrate.
-
-There are treat-to-test options that might be easier in terms of cost
-and time than getting a test, though I have to be careful of the
-risks:
-
-* Butyrate supplements are available off of Amazon.
-
-* Akkermansia is a probiotic that helps build back butyrate; this is
-  available from various third-party sellers off of Amazon; see
-  [here](https://www.youtube.com/watch?v=Ok5Xxo4ho7A) for instance.
+So, instead, I focused on looking into foods that had the potential to
+increase my butyrate reserves, that would otherwise be no-regret to
+add. Based on a review, I identified seaweed as a potential food --
+it's high in omega-3 fatty acids, relatively low in carbohydrates and
+saturated fats, high in electrolytes and iodine, and also good for
+feeding butyrate producers. I also remembered having tried and
+reasonably liked seaweed in the past, so I've integrated seaweed
+consumption. It's difficult to say if the seaweed has helped, but my
+subjective sense is that it has, and that in turn makes me think that
+butyrate deletion could be what's going on.
 
 #### Glutamine depletion?
 
@@ -902,33 +939,36 @@ vegan diet, such as Vitamin D, B12, omega-3, calcium/magnesium/zinc. I
 take occasional Vitamin B complex supplements, though I expect my
 dietary intake to be close to sufficient.
 
-There are other possibilities though:
+The blood tests I ran on 2024-09-03 showed that I was fine on the
+tested nutrients with the exception of a low BUN (suggesting low
+dietary protein, though my plasma protein was fine). The low BUN is
+likely a result of the reduction in FODMAP foods which were also my
+main protein source, and tracks the reduction in estimated dietary
+protein consumption. In particular, it wasn't the cause of the
+original abdominal pain, but more a result of the actions I took to
+address it. Since then, I've resumed most of the foods that I had
+stopped and my estimated dietary protein consumption has bounced back
+to my usual levels, similar to what they were when I got a normal BUN
+back in the blood tests on 2024-04-30.
 
-* Potassium: My 31-day moving average of consumption is a little below
-  the 3400 mg daily minimum (but not that much below!). I think a
-  comprehensive metabolic panel could rule that out. When I got one in
-  April, I was fine on potassium, but my diet patterns have changed
-  since then.
+Other tested nutrients where I got fine results include: Vitamin D3,
+Vitamin B12, folate, and all the stuff covered in a comprehensive
+metabolic panel (including sodium, potassium, calcium, chlorine,
+plasma protein).
 
-* Sodium: My 31-day moving average of consumption, excluding added
-  table salt that is hard to quantify, is less than the daily
-  recommended minimum, but I think my added table salt probably makes
-  up the difference. A comprehensive metabolic panel could rule that
-  out.
+Some of the nutrients I haven't tested for:
 
-* Copper: A copper/magnesium/zinc panel could help check this. I think
-  I have enough dietary copper though.
-
-* Magnesium: Already in my supplements, but is there interference?
+* Copper, magnesium and zinc: A copper/magnesium/zinc panel would
+  address these.
 
 #### FODMAP sensitivity
 
 I did notice reduced flatulence after stopping peas, increased
 flatulence when I tried lentils, and more flatulence following onion
-consumption. This suggests some FODMAP sensitivity, but this is just a
-symptom and not a cause. FODMAP sensitivity does support the SIBO
-cluster of causes, and in particular supports IMO as a potential
-cause.
+consumption. However, the next month, I was able to resume the stopped
+foods without adverse side effects, so it seems like the FODMAP
+sensitivity was a temporary phenomenon, likely reflecting some sort of
+temporary dysbiosis.
 
 #### Digestive enzyme deficiency
 
@@ -939,6 +979,36 @@ symptoms by preventing undigested food from reaching the large
 intestine (e.g., cellulase digests cellulose).
 
 I did get tested for lipase last time and it did come out to be normal.
+
+## Side-effects of actions I took to address the situation
+
+I don't expect any of these to have been causal to the abdominal pain,
+but these are complications caused by the steps I took to address the
+situation.
+
+### Temporary protein intake drop
+
+I reduced FODMAP sources (peas, lentils, sauerkraut) temporarily, and
+this reduced my overall protein intake a little bit. In the blood test
+on 2024-09-03, I got a plasma protein in the normal range but a low
+BUN level, suggesting low dietary protein. I was able to resume the
+stopped protein sources in 2024-09.
+
+### Reduction in spice tolerance
+
+After the abdominal pain, I mostly avoided outside food, and also
+temporarily stopped consumption of sauerkraut. This might have
+resulted in my spice tolerance reducing quite a bit. I had already
+been having low amounts of outside food since my abdominal pain on
+2024-04-25, with the exception of my trip to Portland.
+
+My ramp-up to spicy foods in 2024-09 may have been too sudden -- I
+started kimchi in addition to sauerkraut, and then I had an outside
+meal from Udupi Palace on 2024-09-18. On 2024-09-20, I noticed anal
+swelling and also more noticeable sensations around the mouth bite
+that had happened on 2024-09-17 (and seemingly healed back then). I
+attribute this to a sudden exposure to spices after reduced spice
+tolerance..
 
 ## Beginning of the story: the night before and the day of (2024-07-18)
 
