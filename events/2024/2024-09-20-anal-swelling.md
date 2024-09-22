@@ -30,13 +30,16 @@ matter of chance.
 
 ### Food
 
-For 2024-09-21 and 2024-09-22, I'm taking a break from walnuts,
-sauerkraut, and kimchi. If it's an anal fissure, it's recommended to
-avoid nuts as these are a sharp food. Sauerkraut and kimchi are
-somewhat intense foods as well. After two days, I can reassess the
-trajectory of symptoms and see if a further break is warranted. The
-break from walnuts and sauerkraut / kimchi will also help with faster
-recovery from my "bite".
+For ~~2024-09-21 and 2024-09-22~~ at least one week starting
+2024-09-21, I'm taking a break from walnuts, sauerkraut, and
+kimchi. If it's an anal fissure (the most likely cause), it's
+recommended to avoid nuts as these are a sharp food. Sauerkraut and
+kimchi are somewhat intense foods as well. As I have to pause the
+consumption of these foods leading up to my dental cleaning
+appointment on 2024-10-09 anyway, I may end up just refraining from
+these foods all the way to 2024-10-09, though it's also possible that
+if things heal completely by 2024-09-27, I might have some sauerkraut
+and walnuts on 2024-10-01 and 2024-10-02.
 
 ### Pain management
 
