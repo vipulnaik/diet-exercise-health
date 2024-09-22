@@ -17,18 +17,26 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','D3','ng/mL',30,100,3,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
   ('September 2018 LabCorp vitamin tests','D3','ng/mL',30,100,35.8,'Sufficient','This test was taken after about 10 months of regular Vitamin D3 supplementation, with the supplement amount mostly 1000 IUs but occasionally going to 2000 IUs'),
   ('June 2021 Quest Diagnostics tests','D3','ng/mL',30,100,62,'Sufficient','This test was taken almost three years after the previous test (reading of 35.8) after supplementation witht 1000 IU and later 2000 IU capsules , and an average of 2+ capsules per day.'),
+  ('September 2024 Quest Diagnostics tests','D3','ng/mL',30,100,52,'Sufficient','This test was taken a little over three years after the previous test. Shortly after the previous test, I had switched my supplement from Finest Nutrition (2000 IU) to Doctor''s Best (2500 IU) and also switched to sticking more closely to one a day (previously I was averaging over 2 a day). Also, unlike the previous time, this time I skipped taking the supplement the day prior to the test, so that the measured value reflected the level stably in my bloodstream without recent boosting. These changes may explain why the reading was lower than last time; however, it is still satisfactory; it''s not just above the 30 that is the threshold for sufficiency, but also above the 50 that is considered a more conservative threshold for optimal health.'),
   /* B12 tests */
   ('November 2017 Columbia Asia vitamin and lipid profile tests','B12','pg/mL',180,914,167,'Intermediate','This test was taken before starting any regular Vitamin B12 supplementation. Guidance says: < 145 pg/mL is deficient, 145-180 is intermediate, and 180-914 is normal'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','B12','pg/mL',187,883,173.6,'Deficient','This test was taken before starting any regular Vitamin B12 supplementation'),
   ('September 2018 LabCorp vitamin tests','B12','pg/mL',232,1245,1050,'Sufficient','This test was taken after about 10 months of regular Vitamin B12 supplementation, at 1000 mcg per tablet and a little over 1 tablet per day on average'),
+  ('September 2024 Quest Diagnostics tests','B12','pg/mL',200,1100,1054,'Sufficient','This test was done almost 6 years after my previous test for Vitamin B12. Already in the previous test, I was at the high end of the range. I''ve continued to supplement Vitamin B12 regularly and have stayed at the high end of the range.'),
+  /* Serum folate */
+  ('September 2024 Quest Diagnostics tests','Serum folate','ng/mL',3.4,NULL,11.1,'Normal','The recommended range for serum folate is 5.4 or higher; 3.4-5.4 is considered borderline. At 11.1, I am safely within the normal range. I don''t have any past data to compare with.'),
   /* HbA1c tests (there is also an earlier test that was part of a gastro panel) */
   ('June 2021 Quest Diagnostics tests','HbA1c','%',0,5.7,5.0,'Normal','This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
   ('June 2021 Quest Diagnostics tests','HbA1c eAG','mg/dL',NULL,NULL,97,NULL,'This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
   ('June 2021 Quest Diagnostics tests','HbA1c eAG (mmol/L)','mmol/L',NULL,NULL,5.4,NULL,'This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
+  ('September 2024 Quest Diagnostics tests','HbA1c','%',0,5.7,5.5,'Normal','This test was taken in light of family diabetic tendencies, to get an updated estimate after my June 2021 measurement over three years ago. While the reading is 0.5 points higher than before, there''s an important caveat noted on the Quest Diagnostics website: "This test was performed on the Roche cobas c503 platform. Effective 11/13/23, a change in test platforms from the Abbott Architect to the Roche cobas c503 may have shifted HbA1c results compared to historical results.  Based on laboratory validation testing conducted at Quest, the Roche platform relative to the Abbott platform had an average increase in HbA1c value of < or = 0.3%. This difference is within accepted variability established by the National Glycohemoglobin Standardization Program. Note that not all individuals will have had a shift in their results and direct comparisons between historical and current results for testing conducted on different platforms is not recommended."'),
+  ('September 2024 Quest Diagnostics tests','HbA1c eAG','mg/dL',NULL,NULL,111,NULL,'This is an additional measurement that comes along with the HbA1c measurement.'),
+  ('September 2024 Quest Diagnostics tests','HbA1c eAG (mmol/L)','mmol/L',NULL,NULL,6.2,NULL,'This is an additional measurement that comes along with the HbA1c measurement.'),
   /* Calcium tests (there's another later test that was part of a comprehensive metabolic panel) */
   ('June 2021 Quest Diagnostics tests','Calcium','mg/dL',8.6,10.3,9.6,'Normal','This test was taken to provide a baseline caclium measurement, after 3.5 years of Vitamin D supplementation and about 2 years of calcium supplementation.'),
   /* Insulin test */
-  ('June 2021 Quest Diagnostics tests','Insulin','uIU/L',0,19.6,3.6,'Normal','This test was taken to provide a baseline insulin measurement in light of diabetic tendencies.'),
+  ('June 2021 Quest Diagnostics tests','Insulin','uIU/mL',0,19.6,3.6,'Normal','This test was taken to provide a baseline insulin measurement in light of diabetic tendencies.'),
+  ('September 2024 Quest Diagnostics tests','Insulin','uIU/mL',0,18.4,4.6,'Normal','This test was for a followup insulin measurement in light of diabetic tendencies. The measured value continues to be low, suggesting that I am not developing insulin resistance, which is a common correlate of type 2 diabetes (and could in principle develop before or without diabetes).'),
   /* Omega 3 tests */
   ('June 2021 Quest Diagnostics tests','Omega-3 total','%',5.5,NULL,4.6,'Moderate','The measurement is of the percentage by weight of omega-3 fatty acids. This test was taken to provide a first baseline measurement after almost 1.5 years of supplementation. The provided reference interval for this metric is >= 5.5 for optimal, 3.8-5.4 for moderate and <= 3.7 for high. I fell in the middle of the moderate range. The measurement sums up the values for eicosapentaenoic acid (EPA), docosapentaenoic acid (DPA), and docosahexonic acid (DHA).'),
   ('June 2021 Quest Diagnostics tests','Arachidonic acid/EPA ratio','unitless',3.7,40.7,19.6,'Normal','This was part of a set of omega-3 tests taken to provide a first baseline measurement after almost 1.5 years of supplementation.'),
@@ -126,12 +134,19 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Cholesterol HDL ratio','unitless',1,5,3.3,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Serum triglycerides','mg/dL',0,150,79,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
   /* Lipid profile test: June 2021 Quest Diagnostics */
-  ('June 2021 Quest Diagnostics tests','Cholesterol total','mg/dL',0,200,191,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
-  ('June 2021 Quest Diagnostics tests','Cholesterol HDL direct','mg/dL',40,NULL,46,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
-  ('June 2021 Quest Diagnostics tests','Cholesterol LDL','mg/dL',0,100,122,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
-  ('June 2021 Quest Diagnostics tests','Cholesterol HDL ratio','unitless',1,5,4.2,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
-  ('June 2021 Quest Diagnostics tests','Cholesterol non-HDL','mg/dL',0,130,145,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
-  ('June 2021 Quest Diagnostics tests','Serum triglycerides','mg/dL',0,150,124,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol total','mg/dL',0,200,191,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies and dyslipidemia issues.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol HDL direct','mg/dL',40,NULL,46,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies and dyslipidemia issues.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol LDL','mg/dL',0,100,122,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies and dyslipidemia issues.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol HDL ratio','unitless',1,5,4.2,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies and dyslipidemia issues.'),
+  ('June 2021 Quest Diagnostics tests','Cholesterol non-HDL','mg/dL',0,130,145,'Above normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies and dyslipidemia issues.'),
+  ('June 2021 Quest Diagnostics tests','Serum triglycerides','mg/dL',0,150,124,'Normal','This test was taken to provide a periodic measurement, in light of family diabetic tendencies and dyslipidemia issues.'),
+  /* Lipid profile tests: September 2024 Quest Diagnostics */
+  ('September 2024 Quest Diagnostics tests','Cholesterol total','mg/dL',0,200,177,'Normal','This test was taken to provide an updated periodic measurement, in light of family diabetic tendencies and dyslipidemia issues. The total cholesterol level is lower than the measured value from June 2021 (three years ago) and more safely below the threshold.'),
+  ('September 2024 Quest Diagnostics tests','Cholesterol HDL direct','mg/dL',40,NULL,46,'Normal','This test was taken to provide an updated periodic measurement, in light of family diabetic tendencies and dyslipidemia issues. The HDL cholesterol level was exactly the same as last time and above the threshold.'),
+  ('September 2024 Quest Diagnostics tests','Cholesterol LDL','mg/dL',0,100,112,'Above normal','This test was taken to provide an updated periodic measurement, in light of family diabetic tendencies and dyslipidemia issues. The LDL cholesterol level was too high (above the desired maximum of 100) but still lower (better) than last time''s value of 122.'),
+  ('September 2024 Quest Diagnostics tests','Cholesterol HDL ratio','unitless',1,5,3.8,'Normal','This test was taken to provide an updated periodic measurement, in light of family diabetic tendencies and dyslipidemia issues. The ratio was within the normal range.'),
+  ('September 2024 Quest Diagnostics tests','Cholesterol non-HDL','mg/dL',0,130,131,'Above normal','This test was taken to provide an updated periodic measurement, in light of family diabetic tendencies and dyslipidemia issues. The non-HDL cholesterol level (that includes LDL, VLDL, and IDL) was just a little above the maximum desired value of 130.'),
+  ('September 2024 Quest Diagnostics tests','Serum triglycerides','mg/dL',0,150,89,'Normal','This test was taken to provide an updated periodic measurement, in light of family diabetic tendencies and dyslipidemia issues. The serum triglycerides level was normal, and much lower (better) than the last measurement of 124, which was also in the normal range.'),
   /* TSH */
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','TSH','muIU/mL',0.35,4.94,2.30,'Sufficient','This test was taken to provide an initial measurement; there was no specific prior reason to believe that the readings would be out of range'),
   /* Gastro blood tests */
@@ -216,6 +231,20 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('April 2024 Sutter Health blood tests','Eosinophils (absolute)','1000/uL',0,0.5,0.1,'Normal','This test was part of a complete blood count (CBC). I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Basophils (absolute)','1000/uL',0,0.2,0,'Normal','This test was part of a complete blood count (CBC). I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Nucleated RBC auto','/100WBC',0,0,0,'Normal','This test was part of a complete blood count (CBC). I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
+  /* September 2024 Quest Diagnostics comprehensive metabolic panel */
+  ('September 2024 Quest Diagnostics tests','WBC','1000/uL',3.8,10.8,4.8,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','RBC','1000000/uL',4.2,5.8,4.9,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Hemoglobin','g/dL',13.2,17.1,15.1,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Hematocrit','%',38.5,50.0,45.9,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','MCV','fL',80,100,93.7,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','MCH','pg',27,33,30.8,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','MCHC','g/dL',32,36,32.9,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','RDW','%',11,15,12.2,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Platelets','1000/uL',140,400,254,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','MPV','fL',7.5,12.5,11.9,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Neutrophils (absolute)','1000/uL',1.5,7.8,2.376,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2024 Quest Diagnostics tests','Lymphocytes (absolute)','1000/uL',0.85,3.9,1.260,'Normal','This test was part of a complete blood count (CBC).'),
+  /* a few more entries need to be added */
   /* April 2024 Sutter Health comprehensive metabolic panel (not fasting; 6.5 hours after meal) */
   ('April 2024 Sutter Health blood tests','Sodium','mmol/L',136,145,140,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Potassium','mmol/L',3.5,5.1,4.1,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
@@ -235,6 +264,25 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('April 2024 Sutter Health blood tests','Ionized calcium calc','mmol/L',0.88,1.05,0.98,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Osmolality calc, serum','mOsm/kg',275,290,280,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Serum creatinine eGFR','mL/min/1.73 m^2',60,NULL,113,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
+  /* September 2024 Quest Diagnostics comprehensive metabolic panel (fasting) */
+  ('September 2024 Quest Diagnostics tests','Glucose','mg/dL',65,99,85,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','BUN','mg/dL',7,25,6,'Below normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Serum creatinine','mg/dL',0.6,1.26,0.84,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Serum creatinine eGFR','mL/min/1.73 m^2',60,NULL,114,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','BUN/creatinine ratio','unitless',6,22,7,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Sodium','mmol/L',135,146,139,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Potassium','mmol/L',3.5,5.3,4.5,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Chloride','mmol/L',98,110,103,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Bicarbonate','mmol/L',20,32,29,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Calcium','mg/dL',8.6,10.3,9.8,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Total protein','g/dL',6.1,8.1,6.8,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Albumin','g/dL',3.6,5.1,4.8,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Globulin','g/dL',1.9,3.7,2.0,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Albumin/globulin ratio','unitless',1.0,2.5,2.4,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Bilirubin total','mg/dL',0.2,1.2,0.6,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','Alkaline phosphatase','IU/L',36,130,65,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','AST (SGOT)','IU/L',10,40,21,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2024 Quest Diagnostics tests','ALT (SGPT)','IU/L',9,46,12,'Normal','This test was part of a comprehensive metabolic panel.'),
   /* April 2024 Sutter Health lipase (not fasting; 6.5 hours after meal) */
   ('April 2024 Sutter Health blood tests','Serum lipase','IU/L',13,77,30,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   /* April 2024 Sutter Health urine (not fasting; 6.5 hours after meal) */
