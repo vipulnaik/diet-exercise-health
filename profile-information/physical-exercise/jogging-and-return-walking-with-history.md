@@ -23,11 +23,11 @@ when cars are moving out of parking spots). So in general I aim to jog
 at least 1.4 miles and walk the remaining 0.6 miles. When I have
 more energy, I may jog a larger portion, and therefore walk back a
 shorter residual duration. In general, when reasonably energetic, I
-jog about 1.4-1.6 miles and walk back the remaining 0.4-0.6 miles.
+jog about 1.5-1.8 miles and walk back the remaining 0.4-0.6 miles.
 
 Overall, one way (the first 1 mile, mostly jogging) takes me about
-12-15 minutes and the return journey (mix of jogging and walking)
-takes me about 14-18 minutes.
+9-12 minutes and the return journey (mix of jogging and walking)
+takes me about 13-17 minutes.
 
 Prior to 2024-05-29, the threshold was 1.25 miles jogging instead of
 the current threshold of 1.4 miles joging.
@@ -39,10 +39,10 @@ jog less than the threshold.
 ### Gap to meal
 
 If I'm not doing strength exercises after returning, I generally try
-to wait at least 10-15 minutes between my return and having a meal,
+to wait at least 45 minutes between my return and having a meal,
 following [this](2021-01-10-ben-greenfield-hormesis.md). If I jogged
 more and had a shorter return walk, I try to increase my wait time
-accordingly. Normally, the things I need to catch up with after my
+accordingly, to at least an hour. Normally, the things I need to catch up with after my
 return (such as email, messages, etc.)  effectively uses that time up.
 
 ### Abridged routes and potential reasons
