@@ -143,7 +143,7 @@ had now reverted to what it had been around 9 AM: I could close 100 lb
 comfortably with both hands, but I couldn't close 150 lb with either
 hand.
 
-I tried again after a minute, and now I was just barely able to cloe
+I tried again after a minute, and now I was just barely able to close
 the 150 lb with my right hand.
 
 ## Update on 2024-03-17
@@ -160,7 +160,7 @@ As of now, I am generally able to keep the 100 lb hand gripper closed
 in either hand for at least 10 seconds, and occasionally going up to
 20 seconds, albeit with slight quivers (where it opens up a little bit
 and I immediately close it back, in well under a second). For the 150
-lb, with my right hand, I am able to keep it closd for about 3-5
+lb, with my right hand, I am able to keep it closed for about 3-5
 seconds.
 
 ## Update on 2024-05-13
