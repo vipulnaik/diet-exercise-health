@@ -17,6 +17,15 @@ also bleeding while wiping the area. The sensations in the area were
 subdued during and before the bowel movement, and were greatest when
 my bowel was empty.
 
+On 2024-09-22, I seem to have had a bit more effort with bowel
+movement, but this isn't clearly related to the anal
+swelling. However, I noticed a little bit of blood when wiping on
+2024-09-22, albeit none in the stool itself. For comparison, last
+time, the blood appeared in stool 3 days after the start of swelling
+symptoms. It's not clear if the faster evolution is suggestive of
+things being worse or being more likely to resolve quickly, or just a
+matter of chance.
+
 ## Strategies from last time to consider
 
 ### Food
