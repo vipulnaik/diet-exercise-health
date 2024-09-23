@@ -102,7 +102,12 @@ up the anal sphincter muscle in preparation for weight
 shifts. However, I can reduce the extent of this need to tense by
 using my hands on a support and putting weight on my hands and feet,
 and letting go of the hand support only after I am completely on my
-feet.
+feet. EDIT: It seems that with some practice, I have now been able to
+avoid anal sphincter tightening when getting up, **even without using
+my hands for support**, by leaning forward and making sure to put all
+the weight on my feet. A similar approach works to prevent tightening
+when sitting down. The process of getting up and sitting down is a
+little slower than usual, but acceptable as a temporary adjustment.
 
 Another situation where I've noticed anal sphincter tensing is when
 gripping something very tightly, for instance, during hand gripper
