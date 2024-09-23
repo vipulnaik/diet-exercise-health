@@ -1,4 +1,58 @@
-# Breath holds with history
+# Breath holds (with history)
+
+## Goal and functional relevance of exercise
+
+### Hypoxia training / hypoventilation training / Buteyko whatever
+
+Having a long duration of breath hold is helpful for a variety of
+purposes.
+
+It means that the body is capable of surviving and carrying out bodily
+functions even without incoming oxygen, and while having a buildup of
+carbon dioxide.
+
+This can be relevant for various things:
+
+* Talking/singing: As these activities use energy while also
+  preventing breathing in, a long duration of breath hold helps with
+  being able to talk and sing for longer, particularly long,
+  continuous stretches. Talking in particular is an activity that,
+  although I don't engage in it often, I might need to engage in for
+  continuous stretches.  Not feeling out of breath when talking, and
+  not having to take audible breaths when talking, is helpful.
+
+* Physically intensive activity: While breathing in is not stopped as
+  part of cardio exercise, the body may have periods where it needs
+  more oxygen than it can get, or is producing more carbon dioxide
+  than it can be release. Being able to sustain these brief periods,
+  ideally while continuing to breathe nasally, is helpful.
+
+* Dealing with natural situations of reduced oxygen such as nasal
+  congestion, poor air quality, or mask use: Long breath holds may
+  help me not feel out of breath in these situations.
+
+There are other situations I don't anticipate being in, such as
+swimming, where this also helps.
+
+### The right target threshold
+
+My current target threshold that I'm hoping to build toward is around
+65 to 80 seconds. Currently (as of 2024-09-22) my range is 45 to 72
+seconds, with most measures being 50 to 65 seconds. At the range of 65
+to 80 seconds, the corresponding effects on the downstream functional
+effects I care about will be strong enough that it won't really be a
+bottleneck any more.
+
+## Current protocol and status as of 2024-09-22
+
+I do two successive breath holds in the morning, with a gap of about a
+minute in between. Each breath hold generally lasts between 45 and 72
+seconds. My goal is that after the end of the breath hold, I may have
+a few loud nasal breaths but should not generally need a mouth breath.
+
+Starting 2024-09-22, my plan is to do this on alternate days instead
+of every day, so that the other day I can work on [vocal note
+holds](vocal-note-holds-with-history.md).
 
 ## 2023-07-30: initial exploration
 
@@ -145,3 +199,9 @@ a bit. Whereas previously it was about 40 to 60 seconds, my range is
 now around 45 to 72 seconds. Generally, the high end of the range is
 achieved when I am not trying to do any cognitively intense tasks
 during the breath hold.
+
+## 2024-09-22 update
+
+From this time onward, my plan is to do this practice on alternate
+days instead of daily, so that on the other alternate days I can do
+practice of [vocal note holds](vocal-note-holds-with-history.md).

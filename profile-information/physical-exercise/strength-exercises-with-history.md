@@ -1,5 +1,30 @@
 # Strength exercises (with history)
 
+## Goal and functional relevance of exercise
+
+### Build toward being able to do all exercises on 10 lb in each hand and some exercises at higher weights
+
+Strength exercises are super-important as being able to carry, hold,
+and move things around can be relevant for day-to-day and one-off
+real-world situations.
+
+From a day-to-day perspective, carrying grocery bags home has become
+much more effortless as I've ramped up strength exercises, and I
+attribute the success here to strength exercises (and maybe some hand
+gripper exercise).
+
+For unusual situations, things like moving furniture or heavy
+equipment around, pushing a jammed door, etc. are all use cases where
+I feel like I don't yet have the strength that could reasonably be
+expected to do these, which means I may be stuck in situations or have
+to rely on external help for tasks that don't actually need multiple
+people.
+
+Building the associated muscle can also be helpful for being able to
+better handle sudden impact injuries, though for the most part I
+should not be using that mechanism (I should just avoid getting
+injured).
+
 ## Current protocol for strength exercises
 
 ### Frequency: 2 to 3 days

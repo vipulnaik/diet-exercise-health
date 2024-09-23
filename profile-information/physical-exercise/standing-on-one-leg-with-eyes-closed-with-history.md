@@ -6,6 +6,44 @@ weights), but on 2023-10-29 (and starting with information/practices
 that I started collecting 2023-10-28) I've decided to flesh out the
 practice and some variants of it.
 
+## Goal and functional relevance of exercise
+
+### Maintain standing-on-one-leg-with-eyes-closed for at least 30 seconds
+
+Standing on one leg with eyes closed is a widely recommended balance
+exercise. Empirically, I have found that the exercise has helped
+improve my balance, but I am well past the point where it has any
+clear benefits on my day-to-day balance. So the next question is how I
+compare to age-based norms.
+
+According to
+[this](https://www.matassessment.com/blog/single-leg-balance-eyes-closed),
+the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
+seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
+(average of 18.3 seconds), so with a threshold of 30 seconds per leg,
+as somebody in my late 30s (as of 2024), my threshold is at least 30
+seconds per leg, and in practice I do between 30 and 50 seconds on the
+first try most of the time.
+
+At this point, it's not clear that increasing the duration has
+real-world effects either in practice or in theory, and time spent
+standing with eyes closed can't be multiplexed with other things, so
+my plan is to sustain the minimum of 30 seconds for
+standing-on-one-leg-with-eyes-closed without trying to push the level
+up. However, I might make slight upward adjustment; for instance, if I
+observe myself consistently exceeding 35 seconds, I might increase the
+threshold to 35 seconds.
+
+From my perspective, the key is to prevent age-induced decline. Given
+that I've increased the threshold from 10 seconds to 30 seconds over a
+single year, I think just being able to maintain at 30 seconds should
+be good enough.
+
+For the goal of improving balance more generally, doing other balance
+exercises, such as
+[standing-on-toes-with-eyes-closed](standing-on-toes-with-eyes-closed-with-history.md),
+is likely to have higher payoff.
+
 ## Standing on one leg with eyes closed: standard version
 
 ### Single iteration standard version, specific leg

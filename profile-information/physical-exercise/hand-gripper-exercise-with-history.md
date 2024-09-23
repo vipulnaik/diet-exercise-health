@@ -1,6 +1,6 @@
 # Hand gripper exercise (with history)
 
-## Goal of exercise
+## Goal and functional relevance of exercise
 
 ### Build peak strength I can crush (to 200 lb)
 
@@ -17,6 +17,13 @@ because I haven't been trying that much). It would be good to
 understand and address these, though I would be fine if it takes a
 while to get to 200 lb.
 
+Functional relevance: strong peak grip strength can be helpful in
+sticky situations. Probably the most likely real-world scenario where
+these are needed is opening tight lids and caps. While peak grip
+strength is generally not needed, opening tight lids with wet soapy
+hands is one use case where I still don't have adequate peak strength
+in some cases.
+
 ### Maintain how long I can keep the 150 lb and 100 lb closed
 
 As of 2024-09-22, I can keep the 150 lb closed for about 7-12 seconds,
@@ -26,6 +33,16 @@ practice, trying to crush for longer will just end up using more and
 more of my time without clear benefits. Although I do expect some
 organic improvement in how long I can close, I am not focusing on
 building to longer durations.
+
+Functional relevance: 150 lb is more than my body weight, so being
+able to grip 150 lb with a single hand for 7-12 seconds should be
+enough for most real-world situations, including opening lids, using
+handrails for support, and even rock climbing (?). Being able to do
+100 lb for longer durations makes it clear that grip strength is not
+the bottleneck for lifting heavy weights. I think strong grip strength
+has been helpful occasionally for carrying complex, unwieldy loads
+(where it's not just the weight of the load but the awkward way it
+hangs which means I need to use grip strength).
 
 ## Current protocol and status as of 2024-09-22
 

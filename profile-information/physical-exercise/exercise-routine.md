@@ -13,6 +13,7 @@ time periods where I deviated from the routine.
 
 Sections of this document:
 
+* [Functional relevance and goals of exercise](#functional-relevance-and-goals-of-exercise)
 * [Jogging and return walking](#jogging-and-return-walking)
 * [Strength exercises](#strength-exercises)
 * [Standing-on-one-leg-with-eyes-closed exercise](#standing-on-one-leg-with-eyes-closed-exercise)
@@ -20,16 +21,22 @@ Sections of this document:
 * [Hand gripper exercise](#hand-gripper-exercise)
 * [Breath holds](#breath-holds)
 
-## Goals of exercise
+## Functional relevance and goals of exercise
 
-The various subsections list goals of different exercises
+The various subsections list the potential goals that different
+exercises have.
 
-### Burn (generally daily frequency with exceptions for special occasiona)
+### Burn (generally daily frequency with exceptions for special occasions)
 
 Some exercise help burn calories. For "burn" exercises, daily
 frequency may be fairly important as my digestive and energy cycle has
 a daily cadence. The main exercise of this kind is jogging + return
 walking.
+
+Functional relevance: exercises done for burn are therefore ones where
+the direct execution of the exercise has effects on my daily
+cycle. It's not just about *being able* to do the exercise but the
+actual execution of it that matters.
 
 ### Build and recover (frequency should be between daily and twice a week)
 
@@ -53,6 +60,13 @@ exercises. The frequency of the recover exercise should be similar to
 that of the build exercise. Their relative timing may depend on the
 specifics of what's being exercised.
 
+Functional relevance: generally, the goal of a build exercise is
+generally to make me more capable of handling specific real-world
+situations better; this could be a mix of situations that occur
+regularly and exceptional situations. The claim here is that building
+further beyond a certain level will be helpful to the execution of
+those real-world tasks.
+
 ### Maintain (frequency should be between daily and once a week)
 
 For some exercises, the goal is to maintain a level, without trying to
@@ -62,6 +76,15 @@ able to recover in well under a day. On the flip side, for some of
 these exercises, even a frequency of once a week may be enough to
 maintain the level. It depends on the exercise.
 
+Functional relevance: generally, the goal of a maintain exercise is to
+maintain a capability I already have that makes more more capable of
+handling specific real-world situations better; this could be a mix of
+situations that occur regularly and exceptional situations. The claim
+here is that maintaining my current level (or a somewhat lower level
+as specified in the thresholds for the exercise) is helpful for these
+real-world situations, and building to a higher level is not helpful
+enough to be worth doing.
+
 ### Verify (frequency should be between once a week and once a month)
 
 For some exercises, I expect that I don't actually "need" to do the
@@ -70,6 +93,13 @@ doing is helping maintain that capability. The goal of doing the
 exercise is to regularly verify that I can still do the activity. For
 verification exercises, a weekly frequency is generally good enough,
 and even a monthly frequency may end up being sufficient.
+
+Functional relevance: generally, the goal of a verify exercise is to
+confirm that I have a capability (without being frequent enough to
+help build or maintain that capability) that is useful for real
+life. There are two claims here: first, that the level I'm already at
+is sufficient, and second, that I don't need to do this exercise to
+maintain it (because my other activities already help maintain it).
 
 ### Build and recover for special occasions (as-needed basis)
 
@@ -94,6 +124,11 @@ Some of these exercises may play a dual role of being "verify"
 exercises during ordinary times (with a frequency betweek weekly and
 monthly) but then be done more frequently either preventatively or in
 response to a special situation.
+
+Functional relevance: these exercises are relevant to the specific
+situations I get into, which may be periodic or unexpected, but at any
+rate are not frequent enough for it to be worthwhile to do the
+exercises regularly.
 
 ## Jogging and return walking
 
@@ -170,4 +205,13 @@ to maintain
 I generally do two breath holds in quick succession, both max-pause
 breath holds, generally for 45 to 72 seconds. See
 [breath-holds-with-history.md](breath-holds-with-history.md) for
+more background information.
+
+## Vocal note holds
+
+Goal of exercise: build (I have a long way to go)
+
+This includes humming and vocal note holds + tunes.
+
+See [vocal-note-holds-with-history.md](vocal-note-holds-with-history.md) for
 more background information.
