@@ -4,16 +4,6 @@ Last major update: July 12, 2024
 
 Last pass of full document review (with updates and corrections where needed): July 12, 2024
 
-One-off note added 2024-08-29: I'm currently in the middle of a health
-issue, starting 2024-07-18, which is characterized by abdominal pain
-and other GI symptoms. See
-[here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md)
-for more details. I have not yet updated my health profile to reflect
-all the developments there, though most of the content of my health
-profile remains applicable. I am planning to do an update around
-mid-September, regardless of whether I have successfully resolved the
-issues or am continuing to investigate them.
-
 This is the health profile for Vipul Naik. It is updated
 periodically. It does not include details of specific
 events/incidents; these are generally recorded in their own respective
@@ -33,6 +23,7 @@ When updating this document:
 
 Sections of this document:
 
+* [Ongoing incidents](#ongoing-incidents)
 * [Vital signs](#vital-signs)
 * [Physical build](#physical-build)
 * [Dental status](#dental-status)
@@ -50,6 +41,32 @@ Sections of this document:
 * [Medications](#medications)
 * [Surgeries](#surgeries)
 * [Skin](#skin)
+
+## Ongoing incidents
+
+This section lists and links to ongoing incidents. This section was
+last updated September 22, 2024. I hope to update this section
+whenever there's a new incident or the status of an existing incident
+changes significantly.
+
+### Abdominal pain issues starting 2024-07-18
+
+This is a mostly-resolved issue as of September 22, 2024, but
+resolution is not fully confirmed.
+
+The full document is
+[here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md).
+
+Learnings from it have not yet been reflected in this health profile.
+
+### Anal swelling (likely due to anal fissure) starting 2024-09-20
+
+Starting 2024-09-20, I experienced anal swelling, that seems to be
+likely due to an anal fissure. This is likely related to the
+consumption of more spicy food than usual after a few months of
+abstaining from it (which in turn was related to the abdominal pain).
+
+The full document is [here](../events/2024/2024-09-20-anal-swelling.md).
 
 ## Vital signs
 
