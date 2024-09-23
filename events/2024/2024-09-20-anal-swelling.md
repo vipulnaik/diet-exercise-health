@@ -1,5 +1,8 @@
 # 2024-09-20: anal swelling
 
+This is anal swelling that, based on symptoms, is likely due to an
+anal fissure.
+
 See also [2021-09-12 anal swelling](../2021/2021-09-12-anal-swelling.md).
 
 ## Initial symptoms and development
@@ -41,21 +44,98 @@ these foods all the way to 2024-10-09, though it's also possible that
 if things heal completely by 2024-09-27, I might have some sauerkraut
 and walnuts on 2024-10-01 and 2024-10-02.
 
-### Pain management
+### Pain management: anal contractions and spasms
 
-Here are some learnings from last time. I think the overall itch /
-pain is less this time (so far); however, as of the afternoon of
-2024-09-21 I've been finding these learnings helpful and they do seem
-to also be applying to this time.
+I combined the learnings from [last
+time]((../2021/2021-09-12-anal-swelling.md) with a bunch of YouTube
+research. I found the videos of [Albert Chung (Your Friendly
+Proctologist)](https://www.youtube.com/@yourfriendlyproctologist) very
+helpful.
 
-* Thinking consciously about it tended to correlate with expanding or
-  contracting too much.
-* Expanding or contracting a little bit tended to address the itch
-  without causing pain. This is a risky strategy though, because
-  without very good control of the muscles, it's easy to go overboard.
-* One trick was to go in the opposite direction as my itch; if I felt
-  like contracting, expand. This made it a bit less likely that I
-  would overshoot.
+Last time, I had talked about how the pain was exacerbated by
+significant movement of the muscles (which I called expansion or
+contraction, though with my updated understanding it's always
+contraction -- just of different muscles so the direction of movement
+may effectively be different).
+
+With my updated knowledge, it seems that the term for these
+contractions, when not completely voluntary, is spasms, specifically
+in this case anal spasms. Two videos from Albert Chung that are
+helpful specifically around anal spasms are
+[this](https://www.youtube.com/watch?v=aJfQugckOoc) and
+[this](https://www.youtube.com/watch?v=iawLv2sFOIc). As Chung explains
+in the second video, anal spasms exacerbate pain and pain increases
+the urge for anal spasms.
+
+#### Anal fissures can cause or exacerbate anal spasms
+
+Anal fissues cause a pain or burning sensation, and can cause,
+exacerbate, or increase the frequency of anal spasms.
+
+#### What causes anal spasms in general, and might I have a problem of anal spasms in general?
+
+Outside of anal swelling / anal fissures (this time and last time), I
+haven't directly noticed anal spasms. However, I might still have them
+-- they just don't cause pain when I don't have anal swelling. So
+right now it's not clear to me if I have a problem of anal spasms in
+general, or just in the context of fissures. Once this fissure is
+repaired, I should monitor to see if I have anal spasms.
+
+Based on my understand, the cause of anal spasms in general is tight
+anal sphincter muscles; other tight muscles in the area (such as
+pelvic floor muscles) may also be contributors to anal spasms. Some of
+these exercises may be worth continuing over the long term at a low
+frequency to maintain and verify looseness of my anal sphincter
+muscles.
+
+So this is uncertain but it'll be good to monitor and learn.
+
+#### How does physical activity relate to anal sphincter contraction?
+
+What I've noticed is that when I engage in certain kinds of changes to
+position, my anal sphincter muscles tighten naturally. I can minimize
+the extent of this by making my position changes more slow and doing
+them in a way that minimizes the effort applied on the anus.
+
+For instance, when getting up from a seated position, I normally tense
+up the anal sphincter muscle in preparation for weight
+shifts. However, I can reduce the extent of this need to tense by
+using my hands on a support and putting weight on my hands and feet,
+and letting go of the hand support only after I am completely on my
+feet.
+
+Another situation where I've noticed anal sphincter tensing is when
+gripping something very tightly, for instance, during hand gripper
+exercises. The tightening only happens as I get to my limit for the
+exercise, so it wouldn't happen for a level I am very comfortable
+with. It's probably part of my body's general response of getting
+everything tight in preparation for peak effort.
+
+I suspect that this relation of physical activity to anal sphincter
+contraction happens even outside of the anal fissure context, and that
+normally this isn't an issue for me because it doesn't cause
+pain. However, with this added knowledge, I can change my behavior in
+cases where anal spasms cause me significant pain.
+
+### It's not clear if thinking about the pain increases the chances of spasms
+
+Previously, I had been of the view that thinking about the pain
+increases the cahnces of spasms. I think there's some truth to this,
+but less than it originally appeared to have. The problem is that the
+causal arrow can go in either direction -- when my urge to have the
+spasm is high, my conscious thoughts may be directed toward it.
+
+### It seems true that a slight (relatively painless) contraction/relaxation reduces the urge for a bigger, more painful one
+
+I had noted last time that succumbing to a slight (relatively
+painless) contraction and relaxation reduces my urge for a bigger,
+more painful one. My experience of this time suggests that that
+continues to be true. However, it's difficult to employ as a conscious
+strategy because my lack of fine-grained control makes it difficult to
+control the magnitude of the contraction.
+
+This is an area where exercise might help build finer control over the
+long term.
 
 ## Possible causes and aggravating factors
 
