@@ -844,3 +844,10 @@ amount prior to my first meal.
 On Wednesday 2024-09-18, I skipped exercise for logistical reasons. I
 had also gone jogging the past 14 days, so a knee rest day was due
 anyway, though I was not feeling any particular need for one.
+
+## 2024-09-23: skipping of exercise due to time-sensitive stuff at work
+
+On Monday 2024-09-23, there was time-sensitive stuff at work from
+shortly after I got up till a little after noon. It was too hot in the
+afternoon, so I ended up skipping jogging and other exercise for the
+day.
