@@ -475,5 +475,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-22','Lundberg Sustainable California White Basmati Rice',0.8),
   /* New bottle/packet openings as the old ones finished */
   ('2024-09-22','TJ Roasted Seaweed',1), /* second meal */
-  ('2024-09-24','TJ Miso Ginger Broth',1); /* first meal */
+  ('2024-09-24','TJ Miso Ginger Broth',1), /* first meal; my consumption rate for miso ginger broth has been higher than in the past as I have paused sauerkraut and walnuts consumption */
+  /* Potatoes prep 2024-09-24 (second meal) */
+  ('2024-09-24','Gold potatoes 5 lb',0.43),
+  ('2024-09-24','TJ Kale',1),
+  ('2024-09-24','TJ English Shelled Peas',2),
+  ('2024-09-24','Beefsteak tomato',6),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-09-24','Kite Hill Greek Style Plant-Based Yogurt',1), /* second meal; my consumption rate for yogurt has been higher than in the past as I have paused sauerkraut and walnuts consumption */
+  ('2024-09-24','TJ Roasted Seaweed',1); /* second meal; my consumption rate for yogurt has been higher than in the past as I have paused sauerkraut and walnuts consumption */
   /* Double-check the date before committing */
