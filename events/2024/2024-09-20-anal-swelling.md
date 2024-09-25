@@ -29,6 +29,14 @@ symptoms. It's not clear if the faster evolution is suggestive of
 things being worse or being more likely to resolve quickly, or just a
 matter of chance.
 
+My symptoms may have improved on 2024-09-23, but there was no clear
+qualitative change.
+
+By 2024-09-24, I was experiencing a clear reduction in the frequency
+of the need for anal spasms, and in general felt better. The swelling
+also seemed to have reduced. However, after dinner, there was a brief
+increase in the burning sensation that subsided within an hour or so.
+
 ## Strategies from last time to consider
 
 ### Food
