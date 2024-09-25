@@ -2877,7 +2877,19 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2024-09-19 Berkeley Bowl; total cost $53.41; checkout at around 7:04 PM; paid by credit card */
   ('2024-09-19','Lundberg Sustainable California White Basmati Rice',4),
   ('2024-09-19','Kite Hill Greek Style Plant-Based Yogurt',4), /* vanilla flavor, but the ingredient information is the same as for the plain one -- there's no sugar */
-  ('2024-09-19','Morton Iodized Sea Salt',1);
+  ('2024-09-19','Morton Iodized Sea Salt',1),
+  /* 2024-09-24 Trader Joe's; total cost $43.76; checkout at 4:30 PM; paid by credit card */
+  ('2024-09-24','TJ Almond Milk',1),
+  ('2024-09-24','TJ Miso Ginger Broth',2),
+  ('2024-09-24','Eggplant',2),
+  ('2024-09-24','TJ English Shelled Peas',2),
+  ('2024-09-24','TJ Carrots',1),
+  ('2024-09-24','TJ Carb Savvy Tortillas',1),
+  ('2024-09-24','TJ Kale',1),
+  ('2024-09-24','Green bell pepper',4),
+  ('2024-09-24','Red bell pepper',2),
+  ('2024-09-24','Beefsteak tomato',6),
+  ('2024-09-24','TJ Roasted Seaweed',2);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
