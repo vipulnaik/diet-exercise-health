@@ -851,3 +851,13 @@ On Monday 2024-09-23, there was time-sensitive stuff at work from
 shortly after I got up till a little after noon. It was too hot in the
 afternoon, so I ended up skipping jogging and other exercise for the
 day.
+
+## 2024-09-26: skipping of jogging due to hectic morning
+
+On 2024-09-26, I skipped jogging due to a hectic morning. This was
+more a self-inflicted hecticness in the beginning, but at some point I
+got into meetings. Instead of going out jogging really late, I decided
+to skip, since I was generally behind on other stuff as well.
+
+I did do the pre-jogging exercises (hand gripper, vocal note hold,
+standing on one leg, standing on toes).
