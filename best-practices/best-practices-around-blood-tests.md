@@ -7,13 +7,20 @@ and what I'll learn from them.
 
 Also get the latest information on the test locations and hours.
 
-## Book the tests
+## Order the tests and book the appointment
 
-Book the tests. Generally, the tests don't have a fixed appointment
-time, just a walk-in time. I should aim to book at least two days
-before my intended date of going for the tests. Keep in mind the test
-location hours (usually Monday to Friday, opening around 7 AM or 8 AM,
-and staying open till around 4 PM).
+The bprocess is generally two-phase: first, I order via a provider,
+such as Own Your Labs, Marek Diagnostics, or Request A Test. They will
+send the order to the blood draw company, which will be either LabCorp
+or Quest Diagnostics. Once LabCorp or Quest Diagnostics has received
+the order, I can book an appointment time with them, or try a
+walk-in. Walk-ins may not always be serviced in case of reduced staff
+availability, and may have indeterminate wait times.
+
+I should aim to book at least two days before my intended date of
+going for the tests. Keep in mind the test location hours (usually
+Monday to Friday, opening around 7 AM or 8 AM, and staying open till
+around 4 PM).
 
 Try to book at a time when there is nothing of this sort in the
 previous or next two weeks:
