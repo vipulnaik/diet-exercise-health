@@ -8,13 +8,18 @@ April 2025.
 ## Cost estimate
 
 Cost estimates were based on list prices on requestatest.com on
-2024-09-25.
+2024-09-25. However, shortly after preparing the estimates, I
+discovered (see
+[here](https://docs.google.com/spreadsheets/d/1tDZmLggmeozfBUBBFDzJG1d3aJ5GnUZlmJJ9ySGONQM/edit)
+and
+[here](https://www.reddit.com/r/PeterAttia/comments/192lrle/on_demand_labwork_price_comparison/))
+that some other labs such as Own Your Labs and Marek Diagnostics, are
+substantially cheaper. I haven't done enough research on this, but I
+should make sure to learn more about the pros and cons of different
+ordering services, and will likely switch to one of these (Own Your
+Labs and Marek Diagnostics) unless I find good reasons not to.
 
 Total cost of tests so far: LabCorp: $420; Quest Diagnostics: $478
-
-**Currently, the pricing favors LabCorp. However, prices are subject
-to change so recheck all the prices before starting the booking
-process.**
 
 ## Test reruns from 2024
 
