@@ -37,20 +37,30 @@ of the need for anal spasms, and in general felt better. The swelling
 also seemed to have reduced. However, after dinner, there was a brief
 increase in the burning sensation that subsided within an hour or so.
 
+I continued to experience improvement through 2024-09-25 and
+2024-09-26, though it was hard to get a clear moment-to-moment
+trajectory of improvement. But overall, my frequency and painfulness
+of anal spasms continued to reduce and my mind was less distracted by
+the situation; there were times when I couldn't even perceive a
+problem in the area by casually directing my mind to it.
+
 ## Strategies from last time to consider
 
 ### Food
 
-For ~~2024-09-21 and 2024-09-22~~ at least one week starting
-2024-09-21, I'm taking a break from walnuts, sauerkraut, and
-kimchi. If it's an anal fissure (the most likely cause), it's
-recommended to avoid nuts as these are a sharp food. Sauerkraut and
-kimchi are somewhat intense foods as well. As I have to pause the
-consumption of these foods leading up to my dental cleaning
-appointment on 2024-10-09 anyway, I may end up just refraining from
-these foods all the way to 2024-10-09, though it's also possible that
-if things heal completely by 2024-09-27, I might have some sauerkraut
-and walnuts on 2024-10-01 and 2024-10-02.
+#### Walnuts
+
+I paused consumption of walnuts on 2024-09-21. I resumed consumption
+on 2024-09-25 at a rate of about 50% of my usual consumption. As of
+2024-09-26 morning, I do not appear to have experienced any clear
+adverse effects from resuming walnuts.
+
+#### Sauerkraut and kimchi
+
+I have paused sauerkraut and kimchi starting 2024-09-21. I may resume
+sauerkraut briefly around 2024-09-28 but will have to pause it again
+starting 2024-10-03 in preparation for an upcoming dental cleaning
+appointment.
 
 ### Pain management: anal contractions and spasms
 
