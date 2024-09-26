@@ -483,5 +483,15 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-24','Beefsteak tomato',6),
   /* New bottle/packet openings as the old ones finished */
   ('2024-09-24','Kite Hill Greek Style Plant-Based Yogurt',1), /* second meal; my consumption rate for yogurt has been higher than in the past as I have paused sauerkraut and walnuts consumption */
-  ('2024-09-24','TJ Roasted Seaweed',1); /* second meal; my consumption rate for yogurt has been higher than in the past as I have paused sauerkraut and walnuts consumption */
+  ('2024-09-24','TJ Roasted Seaweed',1), /* second meal; my consumption rate for yogurt has been higher than in the past as I have paused sauerkraut and walnuts consumption */
+  /* Meal prep 2024-09-25 (second meal) */
+  ('2024-09-25','Eggplant',1),
+  ('2024-09-25','TJ Kale',1),
+  ('2024-09-25','TJ Carrots',1),
+  ('2024-09-25','Green bell pepper',4),
+  ('2024-09-25','Red bell pepper',2),
+  ('2024-09-25','Beefsteak tomato',6),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-09-25','TJ Almond Milk',1),
+  ('2024-09-25','TJ Carb Savvy Tortillas',1);
   /* Double-check the date before committing */
