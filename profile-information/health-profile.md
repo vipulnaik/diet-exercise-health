@@ -278,18 +278,19 @@ relatively unhealthy diet with more consumption of hot chocolate (a
 sugary drink) and outside food, my HbA1c was at 5.5, a little below
 the prediabetic range.
 
-However, my more recent reading as of June 2021 gives a HbA1c of 5.0,
-which is far enough away from the prediabetic range. This likely
-reflects improvements to diet (no sugary drinks, and less outside
-food).
+However, my more recent reading as of June 2021 gives a HbA1c of 5.0.
+
+My reading in September 2024 came to 5.5. However, a note on the Quest
+Diagnostics website suggested changes to the measurement method that
+may increase measured HbA1c by up to 0.3 percentage points.
 
 ### Lipid profile
 
 I've taken lipid profile measurements starting April 2004, with my
-most recent measurement being in June 2021 as part of my [2021 blood
-test plans](../events/2021/2021-blood-test-plans.md).
+most recent measurement being in September 2024 as part of my [2024 blood
+test plans](../events/2024/2024-blood-test-plans.md).
 
-Overall, my most recent lipid profile (as of 2021) is close enough to
+Overall, my most recent lipid profile (as of 2024) is close enough to
 normal, but this is something I need to continue monitoring given
 family diabetic tendencies.
 
@@ -297,89 +298,37 @@ family diabetic tendencies.
 
 My cholesterol total has always stayed within range. Overall, it
 appears to have been increasing somewhat from ~150 in 2004 to being
-only slightly below the upper limit of 200 in the last test in 2021.
+only slightly below the upper limit of 200 in the last test in
+2021. However, in 2024, it dropped a little bit from the 2021 level,
+getting to 177. This is a step in the positive direction.
 
-It will be interesting to see how my cholesterol evolves as of the
-next measurement. I've made a number of improvements to diet and
-lifestyle since the previous measurement.
+#### Cholesterol HDL (acceptable range: 30-60 mg/dL, some sources say >= 40 mg/dL)
 
-#### Cholesterol HDL direct (acceptable range: 30-60 mg/dL)
-
-My first cholesterol HDL direct reading, done 2004, showed a result of
-28, below the acceptable range. Since then, my HDL has been generally
-increasing. The last two readings (2017 and 2021) were 51 and 46
-respectively, which are well within the range and specifically, in the
-upper half of the range.
+My first cholesterol HDL reading, done 2004, showed a result of 28,
+below the acceptable range. Since then, my HDL has been generally
+increasing. The last two readings (2021 and 2024) were both at 46,
+which are within the range.
 
 #### Cholesterol LDL (acceptable range: 0-100 mg/dL)
 
 My LDL measurements have always hovered around the threshold, with the
 very first reading in April 2004 being 99, just below the threshold of
-100. My last two measurements, in November 2017 and June 2021, have
-both come out above 100, at 109.7 and 122 respectively.
-
-#### Cholesterol VLDL (acceptable range: 0-35 mg/dL)
-
-My VLDL measurements have generally been within the acceptable range,
-though there were two outlier measurements, in 2005 and 2007
-respectively, both from the same lab. My November 2017 measurement of
-15.8 was safely within the limit.
-
-The June 2021 tests do not include any measurement of VLDL. According
-to [this page](https://medlineplus.gov/vldlcholesterol.html), VLDL
-*can't* be directly measured, and it is extrapolated based on serum
-triglycerides by taking 1/5 of the value of serum
-triglycerides. Empirically, it does look like the reported test
-results since September 2005 have followed the 1/5 formula, so if we
-applied the same formula to the June 2021 test results, then the VLDL
-would work out to 24.8, which would be within the normal range.
+100. My last two measurements, in June 2021 and September 2024, both
+were above the threshold, at 122 and 112 respectively.
 
 #### Serum triglycerides (acceptable range: 0-150 mg/dL)
 
-Using the 1/5 mapping of cholesterol VLDL and serum triglycerides, it
-seems that the threshold on triglycerides is a little stricter than on
-VLDL. Some of my older readings were above the threshold, but my most
-recent readings have been within the threshold, with the two recent
-readings being 79 (November 2017) and 124 (June 2021).
+My last two serum triglycerides readings (June 2021 and September
+2024) have been 124 and 79, both of them within range, with the
+September 2024 reading being particularly good.
 
-#### Triglyceride:HDL ratio
+### Insulin (uIU/mL)
 
-Although my blood tests don't directly report this ratio, I've seen a
-bunch of online guidance suggesting that the ratio of triglycerides to
-HDL is more predictive of problems than the ratio of LDL to HDL.
-
-In my November 2017 test, I got a triglyceride:HDL ratio of 79/51
-which is a little over 1.5, which is at the boundary of the healthy
-range of 1.5 and below.
-
-My June 2021 test was not that great, with a triglyceride:HDL ratio of
-124/46 which is at 2.7, a little above 2.5. Above 2.5 is considered
-cause for concern. With that said, it's just one reading, and I really
-need a wider range of readings to get a clearer picture.
-
-### Insulin
-
-I have gotten tested for insulin only once, in June 2021. The reading
-came to 3.6, compared to a reference range of 0 to 19.6. Generally,
-lower is better. 6 and below is considered fairly healthy, so my
-reading is at a fairly healthy level.
-
-### Liver function tests
-
-I've gotten liver function tests done in June 2005 and December
-2016. In June 2005, I got bilirubin, ALT, and AST. Bilirubin came
-above normal; ALT and AST came within the normal range, but for ALT in
-particular, the reading of 28 was above what I now understand to be
-the desired upper limit of 25.
-
-In December 2016, I only got ALT and AST (no bilirubin). Both readings
-came fairly healthy; the ALT reading in particular was just 11, well
-within the desired upper limit of 25.
-
-On 2024-04-30, as part of my [urgent care
-visit](../events/2024/2024-04-30-urgent-care-visit-and-tests.md) I got a
-comprehensive metabolic panel (CMP). This includes some of the liver
-function tests, particularly the ALT and AST. Both came back normal.
+I have gotten tested for insulin twice, in June 2021 and September
+2024 respectively. My readings were respectively 3.6 and 4.6, well
+below the threshold of concern (set at 19.6 originally but reduced to
+18.4). The levels seem low enough to suggest that I don't have insulin
+resistance at this stage.
 
 ## Infectious diseases and vaccines
 
@@ -815,11 +764,11 @@ My current supplement regime as of 2023 is:
     fortification in my almond milk), continuing with the
     supplementation is the safe choice for now.
 
-* 1 daily vegan omega-3 from Freshfield
-  * As of the most recent measurement (2021) my omega-3 was still a
-    bit on the low end, so I'm continuing with the supplementation,
-    while also trying to get omega-3 from the diet as much as possible
-    (spinach and walnuts)
+* 2 daily vegan omega-3 from Freshfield
+
+  * Based on non-ideal omega-3 test results in both June 2021 and
+    September 2024, I'm increasing my supplement daily dose from 1
+    softgel to 2 softgels.
 
 * 1 daily Calcium/Magnesium/Zinc from Nature Made
   * This is just as a safety measure; I don't think I am deficient in
@@ -838,8 +787,8 @@ My current supplement regime as of 2023 is:
     out.
 
 * Occasional Vitamin B Complex supplement I may take this occasionally
-  * to hedge against Vitamin B deficiency; if traveling and without
-  * access to my full set of foods, I take this daily.
+  (I stopped taking this after suspecting that it was contributing to
+  my abdominal discomfort).
 
 With the exception of the occasional Vitamin C supplement and
 occasional Vitamin B Complex supplement, I have all of these with my
