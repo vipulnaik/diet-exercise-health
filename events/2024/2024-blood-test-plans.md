@@ -3,7 +3,7 @@
 This page documents the thought process behind deciding on my blood
 tests, as well as the process of getting them.
 
-## Test list for phase 1
+## Test list
 
 I started working on this test shortlist in November 2023. I later
 updated it in late August 2024 prior to ordering.
@@ -78,57 +78,27 @@ I'm getting these tests done both due to not feeling well now, and to
 get another followup measurement after my April tests (which were not
 done with the proper fasting).
 
-## Test shortlist for phase 2 of tests (targeted for around August/September of 2024)
+## Results and takeaways
 
-NOTE: If my lipid panel, HbA1c, or insulin test results are concerning,
-I may end up deferring these tests in order to be able to combine them
-with a followup lipid panel measurement.
+Results have been included in [test_results.sql](../../sql/test_results.sql).
 
-### Magnesium-zinc-copper panel
+There have been two takeaways:
 
-Test details: https://requestatest.com/mag-zinc-copper-panel-testing (LabCorp: $125; Quest Diagnostics: $125)
+* I've decided to reduce my extent of use of olive oil in food
+  (current plan is to still use olive oil, just in a lower
+  quantity). Roughly, the plan is to halve the usage so that a single
+  1 liter bottle lasts about 5-6 weeks instead of the current average
+  of 3 weeks. I seem to be roughly on track for this goal.
 
-My primary interest is in magnesium and zinc, but the other parts of the panel don't hurt.
+  This is expected to help reduce my LDL cholesterol, triglycerides,
+  and non-HDL cholesterol. These are already better than they were in
+  2021, but still above the desired range and reducing olive
+  oil. These may also help with omega-3.
 
-### Creatine
+* I've decided to increase my daily dose of omega-3 from 1 softgel per
+  day to 2 softgels per day. See
+  [here](2024-09-25-decision-to-increase-omega-3-supplement-daily-dose.md)
+  for more information.
 
-Test details: https://requestatest.com/creatine-blood-test (LabCorp: $39; Quest Diagnostics: $89)
-
-I haven't been tested before for this (according to my records), but I
-did get a test for the related creatinine, where I was below the
-expected range. However, the creatinine test was mainly to detect
-being *above* the relevant range.
-
-Creatine is something that vegans are expected to be deficient in. In
-2021, I skipped the testing as I was not planning to start on
-supplementation even conditional to being deficient. Now that I've
-been doing strength exercises more regularly, I think I'm prepared to
-start supplementation if deficient, and the test results might inform
-the dose I use to supplement.
-
-## Tests that didn't make the cut
-
-Below are some tests that I've had previously, that I decided not to get again:
-
-Test details:
-
-* Hepatic function https://requestatest.com/hepatic-function-testing
-  (LabCorp: $39; Quest Diagnostics: $29): My main interest is in ALT
-  (as an indication of fatty liver disease). The most significant
-  parts of this are covered in the CMP test.
-
-* https://requestatest.com/c-reactive-protein-high-sensitivity-testing
-  and https://requestatest.com/c-reactive-protein-quantitative-testing
-  because they don't seem necessary yet, and because I got a normal
-  result for the latter in 2016.
-
-## More expensive niche tests to investigate for the future
-
-* Organic acid test: https://requestatest.com/organic-acid-urine-test
-  (LabCorp: $429): A very interesting test, but I need to see if I
-  should get it done from a more specialized company that offers a
-  more detailed diagnostic report, such as Genova Diagnostics
-  (https://connect.gdx.net/products/nutrition-organic-acids/) ($289).
-
-* TrioSmart three-gas test https://www.triosmartbreath.com/orderonline
-  ($349).
+My plans for the next round of blood tests are in [2025 blood test
+plans](../2025/2025-blood-test-plans.md).
