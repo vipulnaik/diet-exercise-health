@@ -79,6 +79,8 @@ discomfort](best-practices-around-abdominal-discomfort.md).
 
 ### After mouth issues
 
+See also [best practices around mouth bites](best-practices-around-mouth-bites.md).
+
 To be safe, I should pause consumption of sauerkraut, kimchi, and walnuts,
 until at least two days after any of these is true:
 
@@ -109,6 +111,8 @@ consumption of these until about a week after the issue appears to be
 completely resolved.
 
 ### After anal swelling issues (assumed to be anal fissures)
+
+See also [best practices around anal swelling](best-practices-around-anal-swelling.md).
 
 For anal swelling issues, it is safer to pause the consumption of
 sauerkraut, kimchi, and walnuts until at least two days after any of
