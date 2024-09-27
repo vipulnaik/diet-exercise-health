@@ -1,11 +1,9 @@
 # Best practices around blood tests
 
-## Build out the blood test plans a few months in advance
-
-This includes research on the blood tests, their costs, methodologies,
-and what I'll learn from them.
-
-Also get the latest information on the test locations and hours.
+This document focuses on the process of ordering and getting blood
+tests, not around the decision process behind them. For the latter,
+see [best practices around blood test
+decisioning](best-practices-around-blood-test-decisioning.md).
 
 ## Order the tests and book the appointment
 
