@@ -2340,14 +2340,14 @@ A few changes:
   and things coming up. This may have been a bit bad health-wise but
   it's good to see that I have been able to handle it.
 
-* I had a biting-like incident (not an actual bite) on my right lower
-  lip on 2024-09-17 that didn't really cause pain or smarting but did
-  draw my attention on 2024-09-17 and 2024-09-20. In hindsight, I
-  think it was close to healed on 2024-09-17, but that the Udupi
-  Palace spinach masala dosa as well as the ongoing consumption of
-  sauerkraut and kimchi, and maybe further aggravation with nuts, may
-  have prevented a full recovery and led to a reaggravation on
-  2024-09-20.
+* I had a [biting-like incident](2024-09-17-mouth-bite.md) (not an
+  actual bite) on my right lower lip on 2024-09-17 that didn't really
+  cause pain or smarting but did draw my attention on 2024-09-17 and
+  2024-09-20. In hindsight, I think it was close to healed on
+  2024-09-17, but that the Udupi Palace spinach masala dosa as well as
+  the ongoing consumption of sauerkraut and kimchi, and maybe further
+  aggravation with nuts, may have prevented a full recovery and led to
+  a reaggravation on 2024-09-20.
 
 * On the evening of 2024-09-20, I had an experience of smarting around
   the anus, while not experiencing bowel pressure. See [2024-09-20
