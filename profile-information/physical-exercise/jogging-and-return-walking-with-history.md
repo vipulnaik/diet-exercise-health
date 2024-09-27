@@ -52,21 +52,52 @@ I'm generally not in a hurry to get anywhere, and if there are
 significant traffic logjams I might change my route a little bit.
 
 I aim to jog for the full duration of at least one way (1 mile) plus
-at least the initial 40% of the other way (0.4 miles) minus some parts
-where I have to slow down (e.g., when crossing a road, or due to dogs
-or children nearby who might get excited by somebody moving fast, or
-when cars are moving out of parking spots). So in general I aim to jog
-at least 1.4 miles and walk the remaining 0.6 miles. When I have
-more energy, I may jog a larger portion, and therefore walk back a
-shorter residual duration. In general, when reasonably energetic, I
-jog about 1.5-1.8 miles and walk back the remaining 0.2-0.5 miles.
+some portion of the other way, totaling to somewhere between 1 and 2
+miles. There may be portions where I have to slow down (e.g., when
+crossing a road, or due to dogs or children nearby who might get
+excited by somebody moving fast, or when cars are moving out of
+parking spots).
+
+The total distance I jog is generally in the range of 1.5-1.8 miles,
+and the distance I walk back is generally in the range of 0.2-0.5
+miles.
 
 Overall, one way (the first 1 mile, mostly jogging) takes me about
 9-12 minutes and the return journey (mix of jogging and walking)
 takes me about 13-17 minutes.
 
-Prior to 2024-05-29, the threshold was 1.25 miles jogging instead of
-the current threshold of 1.4 miles joging.
+### Thresholds
+
+My threshold for the minimum distance jogged, as set on 2024-09-27 are
+as follows:
+
+* Ideal conditions threshold: 1.5 miles
+
+* Slightly degraded conditions threshold: 1.4 miles
+
+* Significantly degraded conditions threshold: 1.25 miles
+
+The ideal conditions threshold applies when I am system-wise healthy
+(though I might have local issues) and don't have overexertion
+fatigue, have been jogging regularly, and the temperature is in the
+range of 15 to 20 degrees Celsius (59 to 68 degrees Fahrenheit).
+
+The slightly degraded conditions threshold applies when only one of these holds:
+
+* I have skipped jogging for the past three or more days.
+
+* I am recovering from a system-wide sickness.
+
+* I have moderate fatigue from cognitive or physical overexertion or
+  an emotionally stressful event yesterday or today.
+
+* The temperature is slightly off from ideal -- either 10 to 15
+  degrees Celsius (50 to 59 degrees Fahrenheit) or 20 to 25 degrees
+  Celsius (68 to 77 degrees Fahrenheit).
+
+The significant degraded conditions threshold applies when two or more
+of the above conditions hold, or the temperature is below 10 degrees
+Celsius or above 25 degrees Celsius.
 
 I record in my exercise tracker file (for instance, [2024 exercise
 tracker](2024-exercise-tracker.md) for 2024) when I skip jogging or
@@ -193,5 +224,9 @@ Over time, I switched to at least the initial 1.25 miles jogging + walking the
 remainder of the 2-mile total.
 
 On 2024-05-29, based on recent data, I decided to increase my
-threshold to the first 1.4 miles jogging + the remainder of the 2-mile journey
-walking.
+threshold to the first 1.4 miles jogging + the remainder of the 2-mile
+journey walking.
+
+On 2024-09-27, I increased the baseline threshold to 1.5 miles but
+included criteria for degraded thresholds of 1.4 miles and 1.25 miles
+respectively.
