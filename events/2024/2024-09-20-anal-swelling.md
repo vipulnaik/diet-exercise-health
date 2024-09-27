@@ -7,6 +7,8 @@ See also [2021-09-12 anal swelling](../2021/2021-09-12-anal-swelling.md).
 
 ## Initial symptoms and development
 
+### 2024-09-20
+
 On the evening of 2024-09-20, I noticed a slight itching pain in my
 lower anus. The itch largely happened only when I contracted the area
 using my muscles, but I also felt an urge to do this contraction.
@@ -14,12 +16,15 @@ using my muscles, but I also felt an urge to do this contraction.
 On inspection, there was a bit of swelling in the area where I was
 experiencing the itch.
 
+### 2024-09-21
+
 I had a normal bowel movement the next day (2024-09-21) and no clear
 increase in effort, discomfort, or pain for bowel movement. There was
 also bleeding while wiping the area. The sensations in the area were
 subdued during and before the bowel movement, and were greatest when
 my bowel was empty.
 
+### 2024-09-22
 On 2024-09-22, I seem to have had a bit more effort with bowel
 movement, but this isn't clearly related to the anal
 swelling. However, I noticed a little bit of blood when wiping on
@@ -29,22 +34,29 @@ symptoms. It's not clear if the faster evolution is suggestive of
 things being worse or being more likely to resolve quickly, or just a
 matter of chance.
 
+### 2024-09-23
+
 My symptoms may have improved on 2024-09-23, but there was no clear
 qualitative change.
+
+### 2024-09-24
 
 By 2024-09-24, I was experiencing a clear reduction in the frequency
 of the need for anal spasms, and in general felt better. The swelling
 also seemed to have reduced. However, after dinner, there was a brief
 increase in the burning sensation that subsided within an hour or so.
 
-I continued to experience improvement through 2024-09-25 and
-2024-09-26, though it was hard to get a clear moment-to-moment
-trajectory of improvement. But overall, my frequency and painfulness
-of anal spasms continued to reduce and my mind was less distracted by
-the situation; there were times when I couldn't even perceive a
-problem in the area by casually directing my mind to it.
+### 2024-09-25, 2024-09-26, and 2024-09-27
 
-## Strategies from last time to consider
+I continued to experience improvement through 2024-09-25 and
+2024-09-26 (despite resuming walnuts on 2024-09-25), though it was
+hard to get a clear moment-to-moment trajectory of improvement. But
+overall, my frequency and painfulness of anal spasms continued to
+reduce and my mind was less distracted by the situation; there were
+times when I couldn't even perceive a problem in the area by casually
+directing my mind to it.
+
+## Strategies and their implementation
 
 ### Food
 

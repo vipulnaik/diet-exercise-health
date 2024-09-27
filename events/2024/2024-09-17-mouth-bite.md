@@ -110,3 +110,27 @@ photo, but failed. So here are my notes on what it looks like:
   gradient of a deep pink around the area, which I don't see in real
   life. This might be averaging the deep red wound area with the
   surrounding area and then smoothing it out.
+
+## 2024-09-27: the area turns pink in the morning
+
+### Update in the morning, around 9 AM, after brushing my teeth
+
+On the morning of 2024-09-27, I examined the area again after brushing
+my teeth. At this time, I did not notice any clear deep red portion --
+it was all pink, maybe with a very slight reddening. This suggests
+that it has healed. I also wasn't feeling much sensation in the
+area. So, it looks like monitoring the color evolution between red and
+pink might indicate the healing.
+
+It will be interesting to see if there are particular triggers that
+cause the area to turn red, which would suggest that there are things
+I am doing that are interfering with or even reversing the healing
+process.
+
+Another anecdotal observation I have is that having moisture/saliva in
+the general vicinity of the area seems to reduce my sensation of the
+thing, and *may* also promote healing. So, one trick that may work is
+to either generate more saliva or redirect the existing saliva I have
+to the area and let it sit there. I think this may be a mechanical
+protective effect where it prevents the area from rubbing against
+other areas.

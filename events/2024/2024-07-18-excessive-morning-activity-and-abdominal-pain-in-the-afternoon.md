@@ -2307,9 +2307,9 @@ load over time as has been the trend.
 The main new best practice is to not overstretch exercise-wise, which
 I expect to be an ongoing precaution.
 
-## Sixty-four days later (2024-09-20)
+### Sixty-four days later (2024-09-20)
 
-### Food updates
+#### Food updates
 
 I've mostly been keeping to the same diet as described in the food
 section for 2024-09-12, but I have experimented with a few other
@@ -2321,7 +2321,7 @@ things:
 * I bought Carb Savvy Tortillas on 2024-09-18 and started eating them
   on 2024-09-19.
 
-### Symptom updates
+#### Symptom updates
 
 My symptoms are fairly similar to the current symmptoms I recorded as
 of 2024-09-12.
@@ -2355,6 +2355,29 @@ A few changes:
   coincided with my attention being drawn toward the "bite" area. In
   hindsight, I think the Udupi Palace spinach masala dosa consumption
   may have played a role here.
+
+### Seventy-one days later (2024-09-27)
+
+#### Food updates
+
+I paused sauerkraut, kimchi, and walnuts for a few days starting
+2024-09-21, in order to facilitate recovery from the mouth bite and
+anal swelling.
+
+I resumed walnuts consumption on 2024-09-25 at 50% of my usual level,
+while being careful to not let the walnuts near the sore area of the
+mouth.
+
+The pause and restart were not motivated by the abdominal pain issues.
+
+#### Symptom updates
+
+I haven't had many symptoms related to abdominal pain, and the few I
+have had had been hard to separate out from the anal swelling.
+
+It will be easier to gauge my residual symptoms, if any, after the
+anal swelling is completely healed, which I am hoping will happen in
+the next one week.
 
 ## Current learnings
 
