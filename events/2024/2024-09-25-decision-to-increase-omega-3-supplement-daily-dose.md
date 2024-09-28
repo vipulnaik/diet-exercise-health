@@ -104,3 +104,7 @@ further or adding another omega-3 supplement on top (as different
 supplements have different strength profiles; the one I am currently
 having has only DHA and DPA and no EPA, and the existing research has
 been more focused on EPA with DPA being too new).
+
+Followup doc: [2024-09-28: decision to experimentally add another
+omega-3
+supplement](2024-09-28-decision-to-experimentally-add-another-omega-3-supplement.md).
