@@ -1,5 +1,11 @@
 # Vocal note holds (with history)
 
+NOTE: This exercise has been put on hold as of 2024-09-28; instead I'm
+doing the [humming with intermittent pauses
+exercise](humming-with-intermittent-pauses-with-history.md), that
+shares similar goals and functional relevance, but more directly
+trains to the functionally relevant aspects.
+
 ## Goal and functional relevance
 
 Although I don't talk a lot regularly, I do often need to have long

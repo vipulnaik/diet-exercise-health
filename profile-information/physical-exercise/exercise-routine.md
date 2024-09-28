@@ -208,11 +208,12 @@ breath holds, generally for 45 to 72 seconds. See
 [breath-holds-with-history.md](breath-holds-with-history.md) for
 more background information.
 
-## Vocal note holds
+## Humming with intermittent pauses
 
 Goal of exercise: build (I have a long way to go)
 
 This includes humming and vocal note holds + tunes.
 
-See [vocal-note-holds-with-history.md](vocal-note-holds-with-history.md) for
-more background information.
+See
+[humming-with-intermittent-pauses-with-history.md](humming-with-intermittent-pauses-with-history.md)
+for more background information.
