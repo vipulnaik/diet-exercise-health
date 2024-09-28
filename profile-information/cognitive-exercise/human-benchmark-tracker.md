@@ -57,3 +57,7 @@ I've continued to do four tests as a logged-in user:
 
 * Number memory: 13.6 points moving average, placing me at the 96.2th
   percentle. My score ranges between 13 and 15.
+
+* Visual memory: 9 points moving average over very few attempts,
+  placing me at the 5.0th percentile. I am planning to do a lot of
+  practice of this and move up to a consistently higher score.
