@@ -9,11 +9,23 @@ from 1 to 2 softgels.
 
 I use the [Freshfield vegan
 omega-3](https://www.amazon.com/dp/B07H9GL3Y8) that has 450 mg of DHA
-and 70 mg of DPA per softgel. The guidance on the bottle says 1-2
-softgels per day. Given that 1 softgel seems to not be cutting it,
-I've decided to up the dosage to 2 softgels. I also confirmed that the
-recommended omega-3 supplement dosage in general is 250-500 mg at the
-low end and 1000-1500 mg at the high end.
+and 70 mg of DPA per softgel (NOTE 2024-09-28: actually this is per 2
+gels, see next para). The guidance on the bottle says 1-2 softgels per
+day. Given that 1 softgel seems to not be cutting it, I've decided to
+up the dosage to 2 softgels. I also confirmed that the recommended
+omega-3 supplement dosage in general is 250-500 mg at the low end and
+1000-1500 mg at the high end.
+
+NOTE ADDED 2024-09-28: I noticed that actually the 450 mg DHA and 70
+mg DPA measure is for a "serving size" of 2 softgels (one of the
+comments in an Amazon review tipped me off). Seems like other omega-3
+supplement companies also do this; not sure of the reasons. In any
+case, what that means is that I've been taking 260 mg (low end of
+recommended dosage) so going up to 520 mg (high end of recommended
+dosage) should be very safe. It may still not be enough, but I can at
+least get directional information on the extent to which it's moving
+the measured omega-3 after which I can decide whether to adjust dosage
+further or try another supplement.
 
 The alternative would be dietary omega-3, but dietary omega-3 has
 challenges in the vegan context:
