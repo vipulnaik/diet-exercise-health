@@ -43,7 +43,7 @@ challenges in the vegan context:
   so dietary adjustments to reduce olive oil (that has a high
   omega-6:omega-3 ratio) should help, and I'm already doing this. But,
   there may be a natural ceiling here, and popping an extra supplement
-  dose seems like a more surefre way of achieving the higher
+  dose seems like a more surefire way of achieving the higher
   long-chain omega-3 concentrations without my body needing to engage
   in synthesis.
 
@@ -71,3 +71,36 @@ little while and then do a further blood test to assess the effect. I
 think it makes sense to wait at least 6 months before the next blood
 test, so that the effect of the supplement increase can be clearly
 seen.
+
+## Addendum
+
+On 2024-09-27 and 2024-09-28, I listened to
+https://www.youtube.com/watch?v=2Nz7nFlvx9M to get more background on
+the omega-3 picture. Some of the takes from there, that may not be
+universally agreed upon by other experts:
+
+* Dietary conversion of ALA to DHA/DPA/EPA is poor (even poorer than I
+  thought) so trying to increase ALA consumption is likely not an
+  effective strategy to increase omega-3 levels (though obviously it's
+  important to make sure to get enough ALA as it's essential)
+
+* It's unclear if omega-6 reduction is a useful target; increasing
+  long-chain omega-3 directly by taking more of it seems best. Omega-6
+  is not "bad" per se and the value of looking at the ratio is not
+  clear.
+
+* There is huge variation between people in how their levels of
+  DHA/DPA/EPA respond to a given level of supplementation.
+
+* Dosing at levels like 1 gram per day should be fairly safe. Even
+  going to something like 4-6 grams of long-chain omega-3 is safe (but
+  expensive!). It's only at doses in the 25 grams range for people who
+  already have some health issue like high triglycerides, that
+  potentially negative effects are seen.
+
+All of the above suggest that if the increase in dosage is working
+directionally but not by enough, I should consider increasing dosage
+further or adding another omega-3 supplement on top (as different
+supplements have different strength profiles; the one I am currently
+having has only DHA and DPA and no EPA, and the existing research has
+been more focused on EPA with DPA being too new).
