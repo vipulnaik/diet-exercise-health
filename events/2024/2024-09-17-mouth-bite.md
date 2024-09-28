@@ -111,7 +111,7 @@ photo, but failed. So here are my notes on what it looks like:
   life. This might be averaging the deep red wound area with the
   surrounding area and then smoothing it out.
 
-## 2024-09-27: the area turns pink in the morning
+## 2024-09-27: the area turns pink in the morning and stayas that way
 
 ### Update in the morning, around 9 AM, after brushing my teeth
 
@@ -134,3 +134,15 @@ to either generate more saliva or redirect the existing saliva I have
 to the area and let it sit there. I think this may be a mechanical
 protective effect where it prevents the area from rubbing against
 other areas.
+
+### Update the next morning based on checks throughout the day
+
+The color stayed pink through the day and I didn't have any
+aggravation.
+
+## 2024-09-28: the area stays pink in the morning
+
+### Update in the morning, around 9 AM, after brushing my teeth
+
+The area stayed pink and I continued to not experience any sensation
+in the area.

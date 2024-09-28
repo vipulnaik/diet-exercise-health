@@ -46,7 +46,7 @@ of the need for anal spasms, and in general felt better. The swelling
 also seemed to have reduced. However, after dinner, there was a brief
 increase in the burning sensation that subsided within an hour or so.
 
-### 2024-09-25, 2024-09-26, and 2024-09-27
+### 2024-09-25, 2024-09-26, 2024-09-27, and 2024-09-28
 
 I continued to experience improvement through 2024-09-25 and
 2024-09-26 (despite resuming walnuts on 2024-09-25), though it was
@@ -55,6 +55,9 @@ overall, my frequency and painfulness of anal spasms continued to
 reduce and my mind was less distracted by the situation; there were
 times when I couldn't even perceive a problem in the area by casually
 directing my mind to it.
+
+There continued to be gradual improvements through 2024-09-27 and
+2024-09-28.
 
 ## Strategies and their implementation
 
