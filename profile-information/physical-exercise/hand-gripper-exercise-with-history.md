@@ -44,7 +44,7 @@ has been helpful occasionally for carrying complex, unwieldy loads
 (where it's not just the weight of the load but the awkward way it
 hangs which means I need to use grip strength).
 
-## Current protocol and status as of 2024-09-22
+## Current protocol and status as of 2024-09-28
 
 ### First of alternating days (focus on maintaining)
 
@@ -75,14 +75,50 @@ multiple open/closes outside of my daily routine.
 
 ### Second of alternating days (focus on building)
 
-I do this on the other alternating days from the ones where I do the
-exercises in the preceding section.
+* Right hand on 200 lb:
 
-* Right hand on 200 lb: I am far from being able to close. I can do a
-  little further than parallel.
+  * First, try to close just with the right hand. I can generally get
+    a little further than parallel, but far from all the way.
+
+  * Now, while keeping the hand gripper in that position, wrap the
+    left hand around the right hand to go the remaining distance to
+    closing.
+
+  * Now release the left hand while trying to maintain the closed
+    position with the right hand. This probably won't succeed, but I
+    might succeed in maintaining a level that's still more closed than
+    what I was able to actively achieve without the level of the left
+    hand.
+
+  * Release after a few seconds. There may be brief muscle aches that
+    dissipate within a minute. Massage the area if they don't, and
+    consider head-and-neck strength exericses if the aches persist.
 
 * Left hand on 200 lb: I am far from being able to close. I can just
-  about get to parallel.
+  about get to parallel. So at this point, the effort to try to close
+  here is just a formal effort.
+
+NOTE: It may be wise to wait a few minutes after doing the 200 lb and
+before proceeding to the 100 lb, or do them at different times of the
+day.
+
+* Right hand on 100 lb with specific fingers excluded: The goal is to
+  increase the strength in specific fingers while still using a load
+  that is not too much for me wrist as a whole.
+
+  * Excluding the little finger: I should be able to do it, but it's
+    much harder than using all fingers.
+
+  * Excluding the index finger: I am not able to do this consistently.
+
+* Left hand on 100 lb with specific fingers excluded: The goal is to
+  increase the strength in specific fingers while still using a load
+  that is not too much for me wrist as a whole.
+
+  * Excluding the little finger: I should be able to do it, but it's
+    much harder than using all fingers.
+
+  * Excluding the index finger: I am not able to do this consistently.
 
 ### Post-exercise relaxation
 
@@ -278,3 +314,9 @@ Here is the protocol as of this time:
 I have decided to make the bundle of 150 lb and 100 lb exercises (that
 are now at a maintain level) every alternate day, and on the other
 alternate day, try the 200 lb, which is what I am trying to build to.
+
+## Update on 2024-09-28
+
+For the building exercises, I've created a more elaborate exercise for
+the 200 lb, and added an exercise for 100 lb with specific fingers
+excluded.
