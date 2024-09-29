@@ -46,7 +46,7 @@ of the need for anal spasms, and in general felt better. The swelling
 also seemed to have reduced. However, after dinner, there was a brief
 increase in the burning sensation that subsided within an hour or so.
 
-### 2024-09-25, 2024-09-26, 2024-09-27, and 2024-09-28
+### 2024-09-25 to 2024-09-29
 
 I continued to experience improvement through 2024-09-25 and
 2024-09-26 (despite resuming walnuts on 2024-09-25), though it was
@@ -56,8 +56,11 @@ reduce and my mind was less distracted by the situation; there were
 times when I couldn't even perceive a problem in the area by casually
 directing my mind to it.
 
-There continued to be gradual improvements through 2024-09-27 and
-2024-09-28.
+There continued to be gradual improvements through 2024-09-27 to
+2024-09-29. As of 2024-09-29, I feel much less swelling and the
+problem seems to be close to solved, though if I deliberately do a
+significant contraction I do notice a little pain (but I have no urge
+to do that significant of a contraction).
 
 ## Strategies and their implementation
 

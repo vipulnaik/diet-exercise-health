@@ -146,3 +146,15 @@ aggravation.
 
 The area stayed pink and I continued to not experience any sensation
 in the area.
+
+### Update the next morning based on checks throughout the day
+
+The color stayed pink through the day and I didn't have any
+aggravation.
+
+## 2024-09-29: the area stays pink in the morning
+
+### Update in the morning, around 9 AM, after brushing my teeth
+
+The area stayed pink and I continued to not experience any sensation
+in the area.
