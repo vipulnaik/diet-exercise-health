@@ -75,7 +75,9 @@ multiple open/closes outside of my daily routine.
 
 ### Second of alternating days (focus on building)
 
-* Right hand on 200 lb:
+* [NOTE: Paused temporarily starting 2024-09-29 while I figure out if
+  this led to muscle strain causing lower neck inflammation.] Right hand
+  on 200 lb:
 
   * First, try to close just with the right hand. I can generally get
     a little further than parallel, but far from all the way.
@@ -94,9 +96,11 @@ multiple open/closes outside of my daily routine.
     dissipate within a minute. Massage the area if they don't, and
     consider head-and-neck strength exericses if the aches persist.
 
-* Left hand on 200 lb: I am far from being able to close. I can just
-  about get to parallel. So at this point, the effort to try to close
-  here is just a formal effort.
+* [NOTE: Paused temporarily starting 2024-09-29 while I figure out if
+  this led to muscle strain causing lower neck inflammation.] Left
+  hand on 200 lb: I am far from being able to close. I can just about
+  get to parallel. So at this point, the effort to try to close here
+  is just a formal effort.
 
 NOTE: It may be wise to wait a few minutes after doing the 200 lb and
 before proceeding to the 100 lb, or do them at different times of the
