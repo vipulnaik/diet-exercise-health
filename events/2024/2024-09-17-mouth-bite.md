@@ -158,3 +158,9 @@ aggravation.
 
 The area stayed pink and I continued to not experience any sensation
 in the area.
+
+### Resumption of sauerkraut in the evening
+
+In the evening, as the area had stayed pink and was no longer
+generating a notable sensation for the past few days, I resumed
+sauerkraut at about 25-50% of usual levels.

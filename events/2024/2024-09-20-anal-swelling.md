@@ -25,6 +25,7 @@ subdued during and before the bowel movement, and were greatest when
 my bowel was empty.
 
 ### 2024-09-22
+
 On 2024-09-22, I seem to have had a bit more effort with bowel
 movement, but this isn't clearly related to the anal
 swelling. However, I noticed a little bit of blood when wiping on
@@ -75,10 +76,13 @@ adverse effects from resuming walnuts.
 
 #### Sauerkraut and kimchi
 
-I have paused sauerkraut and kimchi starting 2024-09-21. I may resume
+I paused sauerkraut and kimchi starting 2024-09-21. I may resume
 sauerkraut briefly around 2024-09-28 but will have to pause it again
 starting 2024-10-03 in preparation for an upcoming dental cleaning
 appointment.
+
+I resumed sauerkraut at around 25-50% of usual levels on 2024-09-29
+with my evening meal.
 
 ### Pain management: anal contractions and spasms
 
