@@ -63,6 +63,15 @@ problem seems to be close to solved, though if I deliberately do a
 significant contraction I do notice a little pain (but I have no urge
 to do that significant of a contraction).
 
+### 2024-09-30: self-declaration of being free of symptoms that get in my way
+
+As of the morning of 2024-09-30, after having a normal bowel movement
+even after consuming sauerkraut the previous night, I'm self-declaring
+as being free of symptoms that get in my way. However, the swelling is
+not completely gone and I should do weekly updates monitoring both the
+size of the swelling and my subjective sensation after a deliberate
+anal sphincter contraction.
+
 ## Strategies and their implementation
 
 ### Food

@@ -34,6 +34,16 @@ On the morning of 2024-09-29, I put a water block flex bandage over
 the bite-like area and an ordinary bandage over the sore/boil/pimple
 on the lower neck.
 
+In the evening, I took off the ordinary bandage over the
+sore/boil/pimple, but kept the water block flex bandage on. The water
+block flex bandage survived my bath without any dislodging. Seems like
+waterproof bandages basically work as advertised when not on the hands!
+
+## 2024-09-30
+
+The water block flex bandage appears to have survived overnight and is
+still intact in the morning.
+
 ## Muscle strain as a potential explanation
 
 Currently, the most likely potential explanation is that in the last

@@ -164,3 +164,15 @@ in the area.
 In the evening, as the area had stayed pink and was no longer
 generating a notable sensation for the past few days, I resumed
 sauerkraut at about 25-50% of usual levels.
+
+## 2024-09-30: the area stays pink but I briefly experience increased sensation
+
+On 2024-09-30, in the morning, I briefly noticed increased sensation,
+but the raea had stayed pink and the increased sensation dissipated
+later in the morning. However, I also noticed a little bit of a sense
+of reflux that I had not noticed for the past few days.
+
+To be on the safer side, my plan is to skip sauerkraut today
+(2024-09-30) and maybe have it once more on 2024-10-01, then skip it
+until 2024-10-12, which is anyway mostly needed in light of the
+upcoming dental cleaning appointment on 2024-10-09.
