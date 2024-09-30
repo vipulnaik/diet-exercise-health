@@ -9,7 +9,7 @@ create table food_preparations_and_openings_lower_bounds(
 insert into food_preparations_and_openings_lower_bounds(food_type, num_days, quantity_lower_bound) values
   ('Lundberg Sustainable California White Basmati Rice',12,1.95),
   ('TJ Kale',10,2),
-  ('TJ English Shelled Peas',10,3),
+  ('TJ English Shelled Peas',14,3),
   ('Beefsteak tomato',14,8),
   ('TJ Almond Milk',10,1),
   ('TJ Miso Ginger Broth',10,1),

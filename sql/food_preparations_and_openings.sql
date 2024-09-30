@@ -503,5 +503,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep 2024-09-28 (overnight soaking in the evening for cooking and eating the next day) */
   ('2024-09-28','TJ Green Lentils',0.32),
   /* Rice prep 2024-09-29 (second meal) */
-  ('2024-09-29','Lundberg Sustainable California White Basmati Rice',0.8);
+  ('2024-09-29','Lundberg Sustainable California White Basmati Rice',0.8),
+  /* Potatoes prep 2024-09-30 (first meal) */
+  ('2024-09-30','Gold potatoes 5 lb',0.43),
+  ('2024-09-30','TJ Kale',1),
+  ('2024-09-30','TJ English Shelled Peas',0.9),
+  ('2024-09-30','Beefsteak tomato',6);
   /* Double-check the date before committing */
