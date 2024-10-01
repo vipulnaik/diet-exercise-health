@@ -42,16 +42,19 @@ waterproof bandages basically work as advertised when not on the hands!
 ### 2024-09-30
 
 The water block flex bandage appears to have survived overnight and is
-still intact in the morning. It stayed intact throughout the day. I didn't experience any further inflammation in the area
+still intact in the morning. It stayed intact throughout the day. I
+didn't experience any further inflammation in the area
 
 ### 2024-10-01
 
 I took the water block flex bandage off around 10 AM, about 48 hours
-after I had put it on. There's still a bit of a red dot but no
-surrounding redness. My plan is to keep the area open for a few hours
+after I had put it on. There was still a bit of a red dot but no
+surrounding redness. My plan was to keep the area open for a few hours
 and after that I will likely put anothe water block flex bandage on
-the area. I want to leave the area open a little bit to make sure
+the area. I wanted to leave the area open a little bit to make sure
 there is no maceration and to let the surrounding skin breathe.
+
+At around 1 PM, I put a new water block flex bandage on.
 
 ## Muscle strain as a potential explanation
 
