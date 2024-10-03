@@ -56,6 +56,16 @@ there is no maceration and to let the surrounding skin breathe.
 
 At around 1 PM, I put a new water block flex bandage on.
 
+## 2024-10-02
+
+I took the water block flex bandage off at around 9:25 PM.
+
+I put a new bandage on at around 11:20 PM. I oriented the new bandage
+horizontally instead of vertically, as there was some more minor
+inflammation to the right, and also I wanted the area above to breathe
+given that it had been bandaged (with brief breaks) for the past 3.5
+days.
+
 ## Muscle strain as a potential explanation
 
 Currently, the most likely potential explanation is that in the last
