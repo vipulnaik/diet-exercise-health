@@ -514,5 +514,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-01','TJ Miso Ginger Broth',1), /* first meal */
   ('2024-10-01','TJ Almond Milk',1), /* second meal */
   ('2024-10-01','TJ Roasted Seaweed',1), /* second meal */
-  ('2024-10-01','Kite Hill Greek Style Plant-Based Yogurt',1); /* second meal */
+  ('2024-10-01','Kite Hill Greek Style Plant-Based Yogurt',1), /* second meal */
+  /* Rice prep 2024-10-03 (first meal) */
+  ('2024-10-03','Lundberg Sustainable California White Basmati Rice',0.8);
   /* Double-check the date before committing */
