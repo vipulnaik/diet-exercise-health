@@ -19,7 +19,9 @@ Sections of this document:
 * [Standing-on-one-leg-with-eyes-closed exercise](#standing-on-one-leg-with-eyes-closed-exercise)
 * [Standing-on-toes-with-eyes-closed exercise](#standing-on-toes-with-eyes-closed-exercise)
 * [Hand gripper exercise](#hand-gripper-exercise)
+* [Dead hang](#dead-hang)
 * [Breath holds](#breath-holds)
+* [Humming with intermittent pauses](#humming-with-intermittent-pauses)
 
 ## Functional relevance and goals of exercise
 
@@ -197,6 +199,13 @@ ramping up slowly in terms of both the strength of the gripper and the
 duration of closing. I use 100 lb, 150 lb, and 200 lb metal hand
 grippers. See [here](hand-gripper-exercise-with-history.md) for more
 details, including reasons for skipping.
+
+## Dead hang
+
+Goal of exercise: build; the current level is reasonable but not great
+
+I started doing dead hang in October 2024. See
+[here](dead-hang-with-history.md) for more details.
 
 ## Breath holds
 
