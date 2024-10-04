@@ -176,3 +176,8 @@ To be on the safer side, my plan is to skip sauerkraut today
 (2024-09-30) and maybe have it once more on 2024-10-01, then skip it
 until 2024-10-12, which is anyway mostly needed in light of the
 upcoming dental cleaning appointment on 2024-10-09.
+
+## 2024-10-01 onward: no further recording; no increase of inflammation
+
+Starting 2024-10-01, I stopped further recording. There was no
+increase of inflammation or redness in the area.
