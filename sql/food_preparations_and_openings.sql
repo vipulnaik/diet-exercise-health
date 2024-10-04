@@ -516,5 +516,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-01','TJ Roasted Seaweed',1), /* second meal */
   ('2024-10-01','Kite Hill Greek Style Plant-Based Yogurt',1), /* second meal */
   /* Rice prep 2024-10-03 (first meal) */
-  ('2024-10-03','Lundberg Sustainable California White Basmati Rice',0.8);
+  ('2024-10-03','Lundberg Sustainable California White Basmati Rice',0.8),
+  /* Potatoes prep 2024-10-03 (second meal) */
+  ('2024-10-03','Gold potatoes 5 lb',0.43),
+  ('2024-10-03','TJ Kale',1),
+  ('2024-10-03','TJ English Shelled Peas',2),
+  ('2024-10-03','Beefsteak tomato',6),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-10-03','TJ Miso Ginger Broth',1), /* second meal */
+  ('2024-10-03','TJ Roasted Seaweed',1), /* second meal */
+  ('2024-10-03','TJ Carb Savvy Tortillas',1); /* second meal */
   /* Double-check the date before committing */
