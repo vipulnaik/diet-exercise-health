@@ -66,6 +66,18 @@ inflammation to the right, and also I wanted the area above to breathe
 given that it had been bandaged (with brief breaks) for the past 3.5
 days.
 
+## 2024-10-04
+
+I took the water block flex bandage off at around 9:10 PM.
+
+I can see an imprint of the active portion of the bandage. Also, the
+area of the bite-like cut now seems more healed, with white stuff on
+top. Removing the bandage has raised my sensation in the area, so it's
+suggesting I need to re-bandage it after waiting a little while to get
+the surrounding skin to breathe.
+
+I applied vaseline over the area.
+
 ## Muscle strain as a potential explanation
 
 Currently, the most likely potential explanation is that in the last
