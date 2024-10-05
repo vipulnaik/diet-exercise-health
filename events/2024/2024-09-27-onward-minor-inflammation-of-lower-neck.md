@@ -78,6 +78,10 @@ the surrounding skin to breathe.
 
 I applied vaseline over the area.
 
+I applied a new bandage at around 9:35 PM as I was feeling itching in
+the area that hadn't been present while the previous bandage had been
+on. The itching stopped shortly after applying the new bandage.
+
 ## Muscle strain as a potential explanation
 
 Currently, the most likely potential explanation is that in the last
