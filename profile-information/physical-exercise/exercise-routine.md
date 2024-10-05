@@ -22,6 +22,7 @@ Sections of this document:
 * [Dead hang](#dead-hang)
 * [Breath holds](#breath-holds)
 * [Humming with intermittent pauses](#humming-with-intermittent-pauses)
+* [Deliberate falling practice](#deliberate-falling-practice)
 
 ## Functional relevance and goals of exercise
 
@@ -221,8 +222,14 @@ more background information.
 
 Goal of exercise: build (I have a long way to go)
 
-This includes humming and vocal note holds + tunes.
-
 See
 [humming-with-intermittent-pauses-with-history.md](humming-with-intermittent-pauses-with-history.md)
+for more background information.
+
+## Deliberate falling practice
+
+Goal of exercise: maintain and verify
+
+See
+[deliberate-falling-practice-with-history.md](deliberate-falling-practice-with-history.md)
 for more background information.
