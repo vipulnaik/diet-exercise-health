@@ -25,7 +25,8 @@ after returning from jogging.
 * Underhand dead hang (palms facing me) for as long as I can; as of
   2024-10-04, this is appromximately 30-35 seconds.
 
-* Overhand dead hang (palms away from me) for as long as I can.
+* Overhand dead hang (palms away from me) for as long as I can; as of
+  2024-10-06, this is about 45-50 seconds.
 
 ## 2024-10-02 onward: started underhand dead hang
 
@@ -38,5 +39,5 @@ is about 30-35 seconds.
 
 ## 2024-10-06 onward: introducing overhand dead hang as well
 
-Starting 2024-10-06, I plan to introduce the overhand dead hang as
-well and get time estimates for both.
+Starting 2024-10-06, I introduced the overhand dead and got an
+estimate of about 45-50 seconds.
