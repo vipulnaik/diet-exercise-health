@@ -82,6 +82,14 @@ I applied a new bandage at around 9:35 PM as I was feeling itching in
 the area that hadn't been present while the previous bandage had been
 on. The itching stopped shortly after applying the new bandage.
 
+## 2024-10-05
+
+At around 10:30 PM, I removed and immediately re-applied the water
+block flex bandage, changing its orientation a little bit to cover a
+reddening slightly above the area covered by the bandage. The bite
+area itself seems to have healed quite well, per the brief glimpse of
+it I got in between the removal and the re-application.
+
 ## Muscle strain as a potential explanation
 
 Currently, the most likely potential explanation is that in the last
