@@ -536,5 +536,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep 2024-10-05 (overnight soaking for consumption the next day) */
   ('2024-10-05','TJ Green Lentils',0.45),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-10-06','TJ Turmeric',1);
+  ('2024-10-06','TJ Turmeric',1), /* completing the lentils prep (first meal) */
+  ('2024-10-06','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
+  ('2024-10-06','TJ Almond Milk',1); /* first meal */
   /* Double-check the date before committing */
