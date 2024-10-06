@@ -90,6 +90,11 @@ reddening slightly above the area covered by the bandage. The bite
 area itself seems to have healed quite well, per the brief glimpse of
 it I got in between the removal and the re-application.
 
+However, around midnight, I removed the bandage entirely as it felt
+like it was getting in the way more than helping; the re-applied
+bandage seemed to not properly cover the original bite area anyway,
+perhaps because I had applied it incorrectly or it moved a little bit.
+
 ## Muscle strain as a potential explanation
 
 Currently, the most likely potential explanation is that in the last
