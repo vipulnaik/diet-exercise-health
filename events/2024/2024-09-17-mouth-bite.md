@@ -40,14 +40,15 @@ By the morning of 2024-09-22, I was back to normal.
 
 ## 2024-09-24: return of sensations
 
-On 2024-09-24 my attention was drawn to it again (there was
-no pain or discomfort per se, but my mind was noticing it way more
-than it had for the past two days). I'm not sure what the deal is,
-since I've been very conservative with my food choices owing to the
-[anal swell. I wonder if there's some psychological cycle going on
-here, or if it actually got worse. Going forward, my plan is to do a
-daily visual check and tongue probe even when my attention is not
-drawn to it so that I can see how the underlying picture is changing.
+On 2024-09-24 my attention was drawn to it again (there was no pain or
+discomfort per se, but my mind was noticing it way more than it had
+for the past two days). I'm not sure what the deal is, since I've been
+very conservative with my food choices owing to the [anal
+swelling](2024-09-20-anal-swelling.md). I wonder if there's some
+psychological cycle going on here, or if it actually got worse. Going
+forward, my plan is to do a daily visual check and tongue probe even
+when my attention is not drawn to it so that I can see how the
+underlying picture is changing.
 
 I tried hard to use my phone to take a photo, but the phone camera
 resolution just didn't seem good enough to take the photo, and it was
