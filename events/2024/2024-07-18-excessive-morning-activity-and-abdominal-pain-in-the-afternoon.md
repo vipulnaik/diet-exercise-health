@@ -2230,7 +2230,7 @@ My plan for data 2024-09-13 onward is to stop daily recording.
 My current symptoms as of the time of stopping daily recording are:
 
 * Intermittent pain/discomfort below the belly button, with occasional
-  pain on the right (though thi has become less frequent over time)
+  pain on the right (though this has become less frequent over time)
 
 * A general sensation of tension / tightness / cramping when I probe
   or think about the area, even if I am not actively in pain.
