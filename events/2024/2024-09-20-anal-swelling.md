@@ -96,7 +96,7 @@ with my evening meal.
 ### Pain management: anal contractions and spasms
 
 I combined the learnings from [last
-time]((../2021/2021-09-12-anal-swelling.md) with a bunch of YouTube
+time](../2021/2021-09-12-anal-swelling.md) with a bunch of YouTube
 research. I found the videos of [Albert Chung (Your Friendly
 Proctologist)](https://www.youtube.com/@yourfriendlyproctologist) very
 helpful.
