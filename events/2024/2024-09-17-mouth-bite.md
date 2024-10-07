@@ -112,7 +112,7 @@ photo, but failed. So here are my notes on what it looks like:
   life. This might be averaging the deep red wound area with the
   surrounding area and then smoothing it out.
 
-## 2024-09-27: the area turns pink in the morning and stayas that way
+## 2024-09-27: the area turns pink in the morning and stays that way
 
 ### Update in the morning, around 9 AM, after brushing my teeth
 
