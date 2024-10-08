@@ -468,3 +468,8 @@ and then later made a trip to Amazon Hub Locker for package pickup.
 
 I made a trip in the morning to the post office at 3175 Adeline Street
 to drop off a piece of mail.
+
+## Monday October 7
+
+In the evening, I made a trip to the Amazon Hub Locker at ASUC for
+package pickup. On the way back, I bought some stuff from Walgreens.
