@@ -205,3 +205,19 @@ during the breath hold.
 From this time onward, my plan is to do this practice on alternate
 days instead of daily, so that on the other alternate days I can do
 practice of [vocal note holds](vocal-note-holds-with-history.md).
+
+## 2024-10-08 update
+
+My practice has mostly stayed the same as described in the 2024-05-16
+update. However, my average duration of breath hold has now increased
+a bit. Whereas previously it was about 45 to 72 seconds, my range is
+now around 53 to 80 seconds. However, my "control pause" doesn't feel
+like it has improved much, still being in the 30-40 second range. It
+seems like most of the improvement seems to be from being better able
+to continue the breath hold after I don't feel like continuing it,
+rather than an increase in the control pause itself. This also seems
+to be true for intra-day and intra-hold variation: the holds where I
+feel like giving up early can often be longer than the holds where I
+don't feel like giving up until a bit later. Basically, it feels like
+the control pause and max-pause are not very tightly coupled. However,
+this is a bit hard to quantify, so my impression may be mistaken.
