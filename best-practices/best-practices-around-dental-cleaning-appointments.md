@@ -81,6 +81,18 @@ shopped for ahead of the appointment if possible.
   of sauerkraut, with a note to delay if I'm experiencing excess
   salivation.
 
+### Reminder to examine teeth with the dental mirror and take photos with the intraoral camera two days ago
+
+Set a reminder for two days prior to the dental cleaning for the following:
+
+First, spend some time reviewing all back teeth with the dental
+mirror.
+
+Use the intraoral camera to take photos of all parts of the
+teeth. Upload the photos to Google Drive and GitHub. Review them
+closely and update the notes associated with the dental cleaning
+appointment.
+
 ### Reminder to skip exercise on the day of the appointment
 
 This is to conserve time and energy for the appointment.

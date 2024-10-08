@@ -23,7 +23,17 @@ I decided to go for the [sapling vegan
 omega-3](https://www.amazon.com/gp/product/B09ZQ3FWBZ/). I placed the
 order and will start consumption once I receive the supplement.
 
-My current plan is to do 2 doses each of Freshfield and sapling
+~~My current plan is to do 2 doses each of Freshfield and sapling
 everyday, but if I sense potential adverse reactions my plan is to
 drop down to doing 2 doses of Freshfield and 2 doses of sapling each
-on alternating days.
+on alternating days.~~
+
+UPDATE 2024-10-08: I've decided to do 1 dose of Freshfield and 1 dose
+of sapling everyday, which is a bit more conservative and also
+diversifies my source better. It also keeps costs low and more
+sustainable. After my next omega-3 and cholesterol test, I'll have a
+better idea if this supplementation level is sufficient for my goals.
+
+Also, I've decided to defer starting the dose to a few days after my
+[2024-10-09 dental cleaning](2024-10-09-dental-cleaning.md), so as not
+to create confounding factors.
