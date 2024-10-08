@@ -2379,6 +2379,21 @@ It will be easier to gauge my residual symptoms, if any, after the
 anal swelling is completely healed, which I am hoping will happen in
 the next one week.
 
+### Eighty-two days (2024-10-08)
+
+#### Food updates
+
+Since the previous update, I had a bit of sauerkraut but then paused
+it again ahead of my [2024-10-09 dental
+cleaning](2024-10-09-dental-cleaning.md). I also continued walnuts
+until 2024-10-03, when I paused them again before dental cleaning.
+
+#### Symptom updates
+
+I still intermittently experience cramping-like pain, but it tends to
+be mild and brief. My fermentation scores continue to be low but still
+positive (incuding on methane).
+
 ## Current learnings
 
 I was updating [best practices around abdominal
