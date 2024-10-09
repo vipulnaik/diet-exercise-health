@@ -143,6 +143,22 @@ handled the previous night, so that even if I'm in a rush I don't miss
 doing it. This includes any planning for additional things I hope to
 do in the trip after the appointment.
 
+### Reminder to take photos and examine with a dental mirror the evening of the appointment
+
+Make sure to examine my teeth with a dental mirror and also take
+photos before I go to sleep after the appointment. Exactly when I do
+it depends on what else I have going on in the day.
+
+### Reminder to drink plenty of water and keep my talking load low for the two days after the appointment (to minimize and better address the risk of excess salivation)
+
+I should closely monitor my saliva levels for the two days after the
+appointment.
+
+Drinking plenty of water helps address the risk of dry mouth.
+
+Keeping my talking load low may help reduce excess salivation and also
+reduce the inconvenience imposed by excess salivation.
+
 ### Reminder to set reminders for the next dental cleaning appointment
 
 Set a reminder for the evening of the dental cleaning appointment to
@@ -151,7 +167,10 @@ following this doc.
 
 ## Things to keep in mind during the appointment
 
-Don't keep the mouth open too wide for too long. In particular, close
-it for brief intervals in between when the hygienist is not working on
-the mouth. Keeping the mouth open for too long can trigger excess
-salivation the next day.
+* Make sure I know the signal to use with the hygienist to communicate
+  if I have pain or need the cleaning to be stopped or paused.
+
+* Don't keep the mouth open too wide for too long. In particular,
+  close it for brief intervals in between when the hygienist is not
+  working on the mouth. Keeping the mouth open for too long can
+  trigger excess salivation the next day.
