@@ -203,6 +203,12 @@ may have been exacerbated by overbrushing.
 She also thought that the tissue graft would be a one-and-done
 procedure rather than something I needed to get done regularly.
 
+She also asked me if I experience sensitivity in my teeth. I responded
+that I don't. The context (per my prior background, not explicitly
+discussed) is that recession can eventually lead to sensitivity as
+more and more of the sensitive surface of the tooth (that's meant to
+be under the gumline) gets exposed.
+
 ### Mouth bite consultation question
 
 I asked the dentist if they would be the right people to go to in case
