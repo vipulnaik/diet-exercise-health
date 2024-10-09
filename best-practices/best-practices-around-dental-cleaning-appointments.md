@@ -93,9 +93,29 @@ teeth. Upload the photos to Google Drive and GitHub. Review them
 closely and update the notes associated with the dental cleaning
 appointment.
 
+### Reminder to do normal face shaving 1 or 2 days prior to appointment and discard razor used
+
+I don't want to be in a situation where I have a lot of face shaving
+to do the morning of the appointment, so I should make sure not to
+skip normal face shaving 1 or 2 days prior. Also, discard the razor when done so that I have a fresh razor for the shaving the morning of the appointment.
+
+### Reminder to do thorough face shaving between 3 and 6 hours prior to the appointment (using a new razor)
+
+Shave slowly and thoroughly. Be particularly thorough and careful in
+the area above and below the lips.
+
 ### Reminder to skip exercise on the day of the appointment
 
 This is to conserve time and energy for the appointment.
+
+### Reminder to keep fermentable food consumption to a minimum on the morning of the appointment
+
+In particular, this includes peas and lentils. Sauerkraut and kimchi I
+have already stopped by this point. The goal is to reduce the risk of
+flatulence and abdominal discomfort during the dental cleaning
+process. My target threshold is more strict (I want to avoid abdominal
+discomfort more completely) given the nature of the process and the
+extended confinement.
 
 ### Packing / prep reminder for the night before the appointment
 
