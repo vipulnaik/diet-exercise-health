@@ -40,7 +40,7 @@ work calendar as well.
 
 ### Reminder to probe and be more careful around food consumption starting nine days before the appointment
 
-While the full stoppage should only happen three days befoer the
+While the full stoppage should only happen six days before the
 appointment (see later) it's important to raise my level of caution
 starting around nine days before the appointment. This elevated
 caution means paying particular attention to the consumption of hot,
