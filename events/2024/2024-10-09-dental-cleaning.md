@@ -40,3 +40,18 @@ A few things I noticed:
   [this
   thread](https://www.reddit.com/r/Dentistry/comments/eeryr5/what_are_these_black_lines_on_the_back_of_my_teeth/)
   for some related information.
+
+### List of things to discuss
+
+Questions for dentist and hygienist:
+
+* Salivation after previous cleaning -- any best practices to follow
+  to reduce the risk?
+
+* Recession chart
+
+* Black stain in back upper left tooth
+
+Questions for receptionist / check-out:
+
+* Membership renewal process
