@@ -77,12 +77,20 @@ on 2025-04-03 (one year after I had reactivated it at my previous
 dental cleaning appointment), and also confirmed that I had the
 flexibility to cancel the decision until the renewal date.
 
-### Gum review and periodontal chart
+### Rinse, health questionnaire check, gum review and periodontal chart
 
-Shortly after 1 PM, the hygienist called me in. She reviewed my gums
-and did my periodontal chart. She asked me if I have any questions and
-I listed the stuff about the black stain and excess salivation, to be
-discussed when the dentist would come for the exam.
+Shortly after 1 PM, the hygienist called me in. She first asked me to
+rinse using the prepared mouthwash solution, which I did.
+
+She took a quick look at my health questionnaire (that I had last
+updated last time) and confirmed that there are no meaningful updates
+to my medications and allergies.
+
+She asked me if I have any questions and I listed the stuff about the
+black stain and excess salivation, to be discussed when the dentist
+would come for the exam.
+
+She then reviewed my gums and did my periodontal chart.
 
 ### Polishing
 
