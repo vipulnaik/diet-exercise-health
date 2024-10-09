@@ -268,3 +268,8 @@ notice a few broad differences:
   the tooth to the gum is very clean and looks similar to the crown. I
   did, however, see a few small spots that might be calculus that
   remain.
+
+* Maybe there is more saliva (as seen in the bubbles and froth in the
+  photos). But the comparison here is harder because saliva can move
+  around within the mouth and can be temporarily swallowed, so it's
+  not as stable a readout as calculus or stains.
