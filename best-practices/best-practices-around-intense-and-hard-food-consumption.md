@@ -1,9 +1,11 @@
 # Best practices around intense and hard food consumption
 
 ## Intense food
+
 The following foods are ones I consider intense:
 
-* Very intense: spicy outside food, including food from Indian and Thai restaurants
+* Very intense: spicy outside food, including food from Indian and
+  Thai restaurants
 * Moderately intense: Sauerkraut and kimchi
 
 ## Hard foods

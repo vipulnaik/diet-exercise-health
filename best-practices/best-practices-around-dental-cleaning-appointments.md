@@ -78,6 +78,10 @@ shopped for ahead of the appointment if possible.
 
 ### Reminder to pause consumption of sauerkraut, walnuts, lemons, and spicy foods
 
+* Reminder for two weeks prior to the appointment to pause consumption
+  of any very intense / spicy foods that I don't usually consume every
+  week.
+
 * Reminder for eight days prior to the appointment to pause
   consumption of sauerkraut, kimchi, spicy foods, and lemons
   (basically all intense foods).
