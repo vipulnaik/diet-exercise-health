@@ -54,4 +54,6 @@ insert into foodmarble_aire_2_breath_tests(reading_date, index_within_reading_da
   /* 2024-10-04 */
   ('2024-10-04',1,116,1,0.5,0.7,'This reading, taken at 3:37 PM, was a little under 2 hours after I finished my first meal at 1:41 PM. The fermentation scores were low and very similar to the previous reading taken about a week ago.'),
   /* 2024-10-07 */
-  ('2024-10-07',1,157,1,0.9,0.4,'This reading, taken at 3:45 PM, was about 2.5 hours after I finished my first meal at 1:08 PM. The fermentation scores were low and very similar to the past few readings.');
+  ('2024-10-07',1,157,1,0.9,0.4,'This reading, taken at 3:45 PM, was about 2.5 hours after I finished my first meal at 1:08 PM. The fermentation scores were low and very similar to the past few readings.'),
+  /* 2024-10-08 */
+  ('2024-10-08',1,138,2,0.6,0,'This reading, taken at 10:55 PM, was about 2 hours 18 minutes after I finished my second meal at 8:37 PM. The fermentation scores were slightly lower than my last few readings with the methane returning to zero.');
