@@ -19,7 +19,26 @@ work calendar as well.
 
 ## Calendar reminders around the event
 
-## Reminder to probe and be more careful around food consumption starting nine days before the appointment
+### Reminder to review maintenance windows, work calendar events, and Slack alert for work stuff (two weeks prior) -- put on work calendar
+
+* Maintenance windows for work alerts where I'm primary: I can set
+  these up when the appointment time is confirmed (usually six months
+  prior) but should review two weeks prior as there may be changes to
+  the list of affected services. Generally, set the maintenance window
+  to start two hours prior to the start and end five hours after the
+  end.
+
+* Overrides for me for services where I rotate with others: I should
+  probably handle these about two weeks prior to the appointment. Try
+  for the override to be a full-day override covering at least two
+  hours prior to the start and four hours after the end of the appointment.
+
+* Work calendar events and Slack reminders: At the two-week-prior
+  mark, I should clear out as much as possible, and then after that be
+  particularly careful in the 2-3 days leading up to the appointment
+  to keep that day clear.
+
+### Reminder to probe and be more careful around food consumption starting nine days before the appointment
 
 While the full stoppage should only happen three days befoer the
 appointment (see later) it's important to raise my level of caution

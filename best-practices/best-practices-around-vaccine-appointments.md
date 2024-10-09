@@ -61,6 +61,21 @@ adjusted based on factors such as the following:
 
 Add the following calendar reminders.
 
+### ASAP after the appointment date and time are confirmed
+
+* Maintenance windows for work alerts where I'm primary: I can set
+  these up when the appointment time is confirmed. Generally, set the
+  maintenance window to start two hours prior to the start and end
+  five hours after the end.
+
+* Overrides for me for services where I rotate with others: Try for
+  the override to be a full-day override covering at least two hours
+  prior to the start and four hours after the end of the appointment.
+
+* Work calendar events and Slack reminders: I should clear out as much
+  as possible, and then after that be particularly careful in the 2-3
+  days leading up to the appointment to keep that day clear.
+
 ### Reminder for date of appointment
 
 The calendar event should start 2 hours prior to the appointment and
