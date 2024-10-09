@@ -20,4 +20,5 @@ insert into doctor_visits(visit_date, doctor, specialty, visit_notes) values
   ('2023-09-27','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2023/2023-09-27-dental-cleaning.md'),
   ('2023-10-04','Tang Eye Center','eye','https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2023/2023-10-04-eye-exam.md'),
   ('2024-04-03','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-04-03-dental-cleaning.md'),
-  ('2024-04-30','Milvia Urgent Care','urgent care','https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-04-30-urgent-care-visit-and-tests.md');
+  ('2024-04-30','Milvia Urgent Care','urgent care','https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-04-30-urgent-care-visit-and-tests.md'),
+  ('2024-10-09','Total Health Dental Care','dental','https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-10-09-dental-cleaning.md');
