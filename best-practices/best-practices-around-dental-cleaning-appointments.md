@@ -78,11 +78,15 @@ shopped for ahead of the appointment if possible.
 
 ### Reminder to pause consumption of sauerkraut, walnuts, lemons, and spicy foods
 
+* Reminder for eight days prior to the appointment to pause
+  consumption of sauerkraut, kimchi, spicy foods, and lemons
+  (basically all intense foods).
+
 * Reminder for six days prior to the appointment to pause consumption
-  of sauerkraut, kimchi, walnuts, and spicy foods. This reduces the
-  risk of injury in the cheek and gum area that might cause more pain
-  during the dental cleaning process. Any food prep during this time
-  should not include cayenne pepper. I should also avoid outside food.
+  of walnuts. This reduces the risk of injury in the cheek and gum
+  area that might cause more pain during the dental cleaning
+  process. Any food prep during this time should not include cayenne
+  pepper. I should also avoid outside food.
 
   Also, when consuming recently prepared hot food, I should make sure
   to mix it with cooler liquid foods so that the hottest temperature
@@ -127,7 +131,7 @@ the area above and below the lips.
 
 This is to conserve time and energy for the appointment.
 
-### Reminder to keep fermentable food consumption to a minimum on the morning of the appointment
+### Reminder to keep fermentable food consumption to a minimum starting 24 hours prior to the appointment
 
 In particular, this includes peas and lentils. Sauerkraut and kimchi I
 have already stopped by this point. The goal is to reduce the risk of
@@ -164,6 +168,14 @@ reduce the inconvenience imposed by excess salivation.
 Set a reminder for the evening of the dental cleaning appointment to
 set calendar reminders for the next dental cleaning appointment
 following this doc.
+
+### Reminder to check for head and neck soreness the day after the appointment and skip strength exercises / hand gripper exercises if there is soreness
+
+Sometimes, the ergonomics of the dental cleaning appointment may cause
+or exacerbate head and neck soreness. Although mild, this can be
+exacerbated by strength exercises and hand gripper exercises. Check
+the day after the appointment and consider skipping these exercises in
+case of observed soreness.
 
 ## Things to keep in mind during the appointment
 
