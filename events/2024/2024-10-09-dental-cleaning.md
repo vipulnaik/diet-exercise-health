@@ -10,6 +10,7 @@ Sections of this document:
 * [Prior preparation](#prior-preparation)
 * [Appointment](#appointment)
 * [Feedback and discussion](#feedback-and-discussion)
+* [Aftereffects and followup](#aftereffects-and-followup)
 
 ## Prior preparation
 
@@ -235,3 +236,35 @@ The dentist and hygienist both said that my oral health seemed
 good. They confirmed no structural issues with the teeth, other than
 the recession, no issues with the gums, no issues with saliva
 production, and good head/neck/jaw alignment.
+
+## Aftereffects and followup
+
+### Examination with dental mirror and intraoral camera
+
+At around 4:15 PM, I examined my back teeth with the dental mirror. I
+then also took photos of my teeth with the intraoral camera and saved
+them to Google Drive and GitHub.
+
+The order of photos was similar to last time:
+
+* First I did the back, then the front
+
+* Within each, I did the top (maxillary) first and the bottom (mandibular) later
+
+* Within each, I did left, then middle, then right
+
+Unfortunately, the lighting conditions and angles did not match up
+with last time, making a direct comparison difficult. However, I did
+notice a few broad differences:
+
+* The black stains were fewer and smaller than before. With the
+  mirror, I didn't even notice the staining on the back left, only a
+  small stain on the back right.
+
+* There was a clear reduction in the color gradient of the tooth;
+  prior to cleaning, the tooth was white around the crown and became
+  yellower, with spots of what is probably calculus, near the
+  root. The color gradient is now mostly gone, and the connection of
+  the tooth to the gum is very clean and looks similar to the crown. I
+  did, however, see a few small spots that might be calculus that
+  remain.
