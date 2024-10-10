@@ -87,8 +87,8 @@ shopped for ahead of the appointment if possible.
   (basically all intense foods).
 
 * Reminder for six days prior to the appointment to pause consumption
-  of walnuts. This reduces the risk of injury in the cheek and gum
-  area that might cause more pain during the dental cleaning
+  of walnuts. This reduces the risk of injury in the cheek and
+  gum area that might cause more pain during the dental cleaning
   process. Any food prep during this time should not include cayenne
   pepper. I should also avoid outside food.
 
@@ -101,12 +101,16 @@ shopped for ahead of the appointment if possible.
   Consume a vegan probiotic yogurt instead of sauerkraut over that
   time period.
 
-* Reminder for the day after the appointment to resume consumption of
-  walnuts.
+* Reminder for two days after the appointment to resume consumption of
+  walnuts and relax the strictures regarding hot food. The reason for
+  the day of waiting is to make sure there are no mouth injuries
+  created or exacerbated by the cleaning process or by some of the
+  induced factors from it (such as increased sensitivity or dry
+  mouth).
 
-* Reminder for three days after the appointment to resume consumption
-  of sauerkraut, with a note to delay if I'm experiencing excess
-  salivation.
+* Reminder for four days after the appointment to resume consumption
+  of sauerkraut, with a note to delay if I'm experiencing drooling,
+  mouth dryness, or excess salivation.
 
 ### Reminder to examine teeth with the dental mirror and take photos with the intraoral camera two days ago
 
