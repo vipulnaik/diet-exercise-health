@@ -134,10 +134,10 @@ necessary, but is a best practice.
 
 * If I have significant bowel pressure already (before getting to an
   upright position) then it may be better to have a bowel movement and
-  then spend some extra time in bed. However, generally speaker, bowel
-  pressure doesn't become significant at less than 7 hours of sleep
-  until I spend some time in a seated or upright position, so in order
-  to get extra sleep I should try to avoid getting in a seated
+  then spend some extra time in bed. However, generally speaking,
+  bowel pressure doesn't become significant at less than 7 hours of
+  sleep until I spend some time in a seated or upright position, so in
+  order to get extra sleep I should try to avoid getting in a seated
   position.
 
 ### Reducing the incidence of unplanned late sleep
