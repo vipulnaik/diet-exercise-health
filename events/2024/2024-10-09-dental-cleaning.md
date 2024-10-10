@@ -286,3 +286,9 @@ where I'd had a mouth bite a few weeks ago. I confirmed in the mirror
 that it was the same area. The role of the dental cleaning is not
 clear. More details
 [here](2024-09-17-mouth-bite.md#2024-10-09-seeming-resurgence-of-redness).
+
+### More drooling than usual overnight
+
+I had more minor drooling in my sleep than usual (usually I have a
+little bit of drool a few times a month, but this night I had multiple
+incidents of minor drooling.
