@@ -278,3 +278,11 @@ notice a few broad differences:
   photos). But the comparison here is harder because saliva can move
   around within the mouth and can be temporarily swallowed, so it's
   not as stable a readout as calculus or stains.
+
+### Mouth bite gets re-inflamed after dinner
+
+After my second meal of the day, I experienced sensations in the area
+where I'd had a mouth bite a few weeks ago. I confirmed in the mirror
+that it was the same area. The role of the dental cleaning is not
+clear. More details
+[here](2024-09-17-mouth-bite.md#2024-10-09-seeming-resurgence-of-redness).

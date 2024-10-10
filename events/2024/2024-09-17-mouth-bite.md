@@ -178,7 +178,50 @@ To be on the safer side, my plan is to skip sauerkraut today
 until 2024-10-12, which is anyway mostly needed in light of the
 upcoming dental cleaning appointment on 2024-10-09.
 
-## 2024-10-01 onward: no further recording; no increase of inflammation
+## 2024-10-01 to 2024-10-08: no further recording; no increase of inflammation
 
 Starting 2024-10-01, I stopped further recording. There was no
 increase of inflammation or redness in the area.
+
+## 2024-10-09: seeming resurgence of redness
+
+On 2024-10-09, after my second meal, I experienced increased sensation
+in the area. On visual examination, I confirmed a resurgence of
+redness. Overall, the picture (both physical and experiential) closely
+matched what I had documented for 2024-09-26.
+
+### Immediate trigger: hot food consumption
+
+The immediate trigger was the consumption of my meal, which included a
+potatoes prep served from the stove, so it was hotter than usual, and
+included tomatoes. This is likely to be the thing that inflamed the
+area. However, it is suspicious for this to happen suddenly after
+about two weeks of things being quiet. I've had hot tomatoes before
+withount incident!
+
+### Potential aggravator: recent dental cleaning
+
+One thing of note is that earlier in the day, I had a [dental
+cleaning](2024-10-09-dental-cleaning.md). I think the dental cleaning
+could have increased the sensivity in any of these ways:
+
+* Temporary reduction in saliva / increase in dryness
+
+* Slight injury from the moving around of sharp instruments in the
+  mouth, that may not have been enough to inflame the area by itself
+  but may have made it more sensitive.
+
+  I did notice the sharp end of the instrument did brush against an
+  area of my lower lip but I believe it was more on the left than the
+  mouth bite area. There may also have been some stretching or pulling
+  of the area that made it more sensitivty.
+
+* Increased sensitivity due to residues of other materials or for
+  other reasons.
+
+My plan is to monitor for a day or two, and wait that much before
+attempting to resume walnuts and sauerkraut.
+
+### Interaction with resurgence of abdominal pain and other situational factors
+
+Leaving this in as a placeholder that I might expand upon later.
