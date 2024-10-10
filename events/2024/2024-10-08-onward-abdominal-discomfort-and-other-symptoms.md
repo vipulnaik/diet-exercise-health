@@ -51,13 +51,15 @@ make me think about them, rather than being able to ignore them.
 
 The two times in question were late morning / early afternoon and late
 evening / early night. They coincided with the period around the
-consumption of the first and second meal respectively.
+consumption of the first and second meal respectively. In both cases,
+things subsided in a few hours and I was back to normal.
 
-Separate from the discomfort, I didn't have any other symptoms such as
-a clear increase in flatlence. My fermentation reading from FoodMarble
-(taken around the time the discomfort was starting to subside) came
-pretty low for hydrogen and zero for methane, so it doesn't look like
-(as of yet) fermentation of these two gases is driving things.
+Separate from the discomfort, I didn't have any other GI symptoms such
+as a clear increase in flatlence. My fermentation reading from
+FoodMarble (taken around the time the discomfort was starting to
+subside) came pretty low for hydrogen and zero for methane, so it
+doesn't look like (as of yet) fermentation of these two gases is
+driving things.
 
 Other symptoms I experienced were right neck and shoulder fatigue and
 general fatigue; I also observed increased urination, which is partly
