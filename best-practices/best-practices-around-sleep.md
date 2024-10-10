@@ -142,35 +142,37 @@ necessary, but is a best practice.
 
 ### Reducing the incidence of unplanned late sleep
 
-Unplanned late sleep can occur for a few reasons:
+#### Distinction between immediate versus lagged impetus for staying up late
 
-* Laundry delays: In some cases, the laundry room is in use when I
-  want to start my load of laundry, or switch it from the washer to
-  the dryer. Where feasible, I should prefer to delay laundry by a day
-  rather than have my laundry work stretch through the night;
-  attempting laundry when I still have enough stuff that a day's delay
-  won't matter helps with that decision. Also, where possible, I
-  should try to start laundry at least six hours before my latest
-  reasonable sleep time.
+One kind of reason for staying up late is an in-the-moment decision to
+continue staying up, because of stuff that I want to do. The good
+thing with this kind of reason is that I have the flexibility to
+change my mind.
 
-* Food prep needed: Sometimes, I am out of food and need to prepare
-  new food, and the process just ends up taking a lot of
-  time. Moreover, I need to stay up for a few hours after finishing
-  the food. Better planning to make sure I start food prep early
-  enough can help with this.
+Another kind of reason for staying up late is that something comes up
+that is unexpected and time-sensitive.
 
-* Getting sucked into something: This could be something related to my
-  day job, personal project, etc. Often, this happens in cases where
-  the day was spent in chores or meetings, and it's only late in the
-  evening that I finally get a chance to dig into something. The
-  incidence of this can be reduced by being more disciplined and
-  deliberately avoiding starting things late in the day that I might
-  get sucked into.
+A third kind of reason for staying up late is that I am trapped by the
+consequences of earlier decisions. This could include cases where I am
+trapped to do specific stuff (like laundry that I started earlier in
+the day when I thought it'd go quicker, or day job stuff where I
+either procrastinated on it earlier in the day or made some mistakes
+that made it take much longer) and also cases where I just have to
+stay awake and upright because earlier stuff led me to have my last
+meal late in the day. I may feel so trapped despite feeling groggy and
+sleepy.
 
-In general, unplanned late sleep isn't too bad, and particularly the
-last cause can be a net plus in many cases! However, especially for
-the first two, it's often preventable and I should try to follow the
-strategies to reduce the incidence of these.
+This third kind of reason is something I want to avoid as much as
+possible (the first kind of reason is generally positive due to the
+flexibility I have to back out, and the second kind of reason is
+largely unavoidable at least locally).
+
+#### Time targets to avoid lagged reasons for staying up late
+
+To avoid cases where I end up staying up late due to being trapped by
+earlier decisions, I need to have an overall mental map early in the
+day regarding the consequences for me if I do specific activities at
+those early times.
 
 ### Reducing the incidence of sudden waking up
 
