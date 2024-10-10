@@ -754,9 +754,23 @@ continued good Vitamin D levels](../events/2021/2021-blood-test-plans.md), I swi
 to a vegan 2500 IU Vitamin D3 supplement from Doctor's Best. I had
 previously used the 2000 IU supplement from Finest Nutrition.
 
+### September 2024: increase to dose and diversity of omega-3 supplements
+
+* [2024-09-25: decision to increase omega-3 supplement daily dose](../events/2024/2024-09-25-decision-to-increase-omega-3-supplement-daily-dose.md)
+* [2024-09-28: decision to experimentally add another omega-3 supplement](../events/2024/2024-09-28-decision-to-experimentally-add-another-omega-3-supplement.md)
+
+The net of these two decisions is that I now have one dose of
+Freshfield and one dose of sapling, both vegan omega-3 supplements.
+
+### October 2024: experimentation with Atrantil
+
+See
+[2024-10-02-atrantil-purchase.md](../events/2024/2024-10-02-atrantil-purchase.md)
+for more information.
+
 ### Current supplements
 
-My current supplement regime as of 2023 is:
+My current supplement regime as of October 2024 is:
 
 * 1 daily 2500 IU vegan Vitamin D3 from Doctor's Best
   * My measured Vitamin D level is solidly in the normal range, but
@@ -764,7 +778,7 @@ My current supplement regime as of 2023 is:
     fortification in my almond milk), continuing with the
     supplementation is the safe choice for now.
 
-* 2 daily vegan omega-3 from Freshfield
+* 2 daily vegan omega-3, with one from Freshfield and one from sapling
 
   * Based on non-ideal omega-3 test results in both June 2021 and
     September 2024, I'm increasing my supplement daily dose from 1
@@ -779,6 +793,9 @@ My current supplement regime as of 2023 is:
     showed I was at the high end) but given my vegan diet, it's better
     to keep taking the supplement. Vitamin B12 is water-soluble so
     excess should flow out.
+
+* Experimental Atrantil consumption (I may ramp this up or down based
+  on my estimate of how it's affecting abdominal discomfort)
 
 * Occasional Vitamin C supplement
   * I generally take this before or after events where I expect to be

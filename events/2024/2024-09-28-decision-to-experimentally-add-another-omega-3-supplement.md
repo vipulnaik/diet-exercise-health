@@ -37,3 +37,6 @@ better idea if this supplementation level is sufficient for my goals.
 Also, I've decided to defer starting the dose to a few days after my
 [2024-10-09 dental cleaning](2024-10-09-dental-cleaning.md), so as not
 to create confounding factors.
+
+UPDATE 2024-10-10: I've started the protocol decided 2024-10-08; one
+dose each of Freshfield and sapling every day with my morning meal.

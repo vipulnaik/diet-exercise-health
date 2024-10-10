@@ -225,3 +225,9 @@ attempting to resume walnuts and sauerkraut.
 ### Interaction with resurgence of abdominal pain and other situational factors
 
 Leaving this in as a placeholder that I might expand upon later.
+
+## 2024-10-10: further evolution
+
+As of 2024-10-10, the redness appears to have reduced but the size /
+swelling may have increased a little bit. I think it went through a
+healing process overnight that was not very complete.
