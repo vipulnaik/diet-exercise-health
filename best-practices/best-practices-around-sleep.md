@@ -111,6 +111,13 @@ The earliest time by which I should be in bed is 2 hours earlier than
 the latest time, unless I am feeling fatigue that makes me want to go
 to bed earlier than that.
 
+Worked example: Let's say that these days, I tend to get up around 8
+AM, I need to be up by 9:30 AM for a work meeting at 10:30 AM, and my
+alarm is set for 8:45 AM. The respective latest sleeping time
+constraints imposed by these are 1 AM, 1:30 AM, and 12:45 AM. The
+earliest of these is 12:45 AM, so the latest time I can get in bed is
+12:45 AM.
+
 Also, **don't get into bed less than 3 hours after finishing my last
 meal**.
 
@@ -142,47 +149,102 @@ necessary, but is a best practice.
 
 ### Reducing the incidence of unplanned late sleep
 
-#### Distinction between immediate versus lagged impetus for staying up late
+As far as reducing unplanned late sleep goes, there are two related
+goals:
 
-One kind of reason for staying up late is an in-the-moment decision to
-continue staying up, because of stuff that I want to do. The good
-thing with this kind of reason is that I have the flexibility to
-change my mind.
+* Sleep by the latest time described in [When to get into
+  bed](#when-to-get-into-bed).
 
-Another kind of reason for staying up late is that something comes up
-that is unexpected and time-sensitive.
+* Have the flexibility to sleep earlier if I feel sleepy or if other
+  new information comes up; as much as possible I should not feel
+  "trapped" to stay awake by choices made earlier in the day, if I
+  feel cognitively or physically too fatigued to be awake or do useful
+  things while awake.
 
-A third kind of reason for staying up late is that I am trapped by the
-consequences of earlier decisions. This could include cases where I am
-trapped to do specific stuff (like laundry that I started earlier in
-the day when I thought it'd go quicker, or day job stuff where I
-either procrastinated on it earlier in the day or made some mistakes
-that made it take much longer) and also cases where I just have to
-stay awake and upright because earlier stuff led me to have my last
-meal late in the day. I may feel so trapped despite feeling groggy and
-sleepy.
+#### Have clarity every day as to the latest-in-bed time
 
-This third kind of reason is something I want to avoid as much as
-possible (the first kind of reason is generally positive due to the
-flexibility I have to back out, and the second kind of reason is
-largely unavoidable at least locally).
+Right when I wake up in the morning, I should have clarity on the
+latest time I can get into bed. This should be at the back of my mind
+and can influence my decisions throughout the day. In some cases, new
+information such as weather details, planned house maintenance, or
+developments in terms of meetings can change the time a little bit.
 
-#### Time targets to avoid lagged reasons for staying up late
+For instance, in the worked example in [When to get into
+bed](#when-to-get-into-bed), I worked out that I need to get into bed
+by 12:45 AM. I should have awareness of that piece of
+information. Also, I should adjust it based on any sleep backlog or
+need for additional seep.
 
-To avoid cases where I end up staying up late due to being trapped by
-earlier decisions, I need to have an overall mental map early in the
-day regarding the consequences for me if I do specific activities at
-those early times.
+#### Set a 1-hour-notice-to-sleep time
 
-### Reducing the incidence of sudden waking up
+My 1-hour-notice-to-sleep time should be set to at least 1 hour prior
+to the latest time I need to get into bed. However, it should
+generally be set to earlier, to account for the possibility of feeling
+sleepy earlier. As a general rule of thumb, if I don't have a sleep
+backlog, making sure that it's at least 9.5 hours prior to my natural
+waking-up time is wise. However, if I have a sleep backlog, I should
+add in approximately the number of hours of sleep backlog I estimate,
+with relevant adjustments.
 
-* Make sure the alarm is set to a reasonable time, at least 30 minutes
-  after when I expect to wake up naturally.
+For instance, in the worked example in [When to get into
+bed](#when-to-get-into-bed), I said that my natural waking-up time
+these days is 8 AM. Based on this, my 1-hour-notice-to-sleep time
+should be set at 10:30 PM.
 
-* To the extent possible, configure alerts so that they don't phone me
-  before my natural waking-up time. On occasions where I need to sleep
-  in a bit more due to going to sleep late, I may want to tweak the
-  alert settings temporarily.
+#### What I should have completed by the 1-hour-notice-to-sleep time
+
+My target should be to finish all activities of these kinds by the 1-hour-notice-to-sleep time:
+
+* Laundry, including sorting of the dried laundry
+
+* Cooking and cleaning dishes post-cooking (I sometimes defer cleaning
+  dishes to a little later even after being done cooking)
+
+* Any cognitive work on the computer that I need to get done during
+  the day, or that I can't leave in the middle easily
+
+* All end-of-day dental care including final rinsing, flossing, and
+  brushing teeth
+
+* At least one iteration of my night checklist, including checking
+  email, messages, text messages, calendar events, etc.
+
+* I should have elapsed at least 2 hours since finishing of my last
+  meal (so that with an extra 1 hour, I would hit 3 hours).
+
+The only activities I need to do that I may not have done in the
+1-hour-notice-to-sleep time are semi-optional end-of-day grooming
+activities including shower/bath and shaving. I say semi-optional
+because if I get a sudden wave of drowsiness, I could in principle go
+to sleep without doing them, and wake up the next day and catch up on
+them.
+
+#### What I can do after the 1-hour-notice-to-sleep time
+
+There are two approaches I can use:
+
+* Do shower/bath and shaving (if pending) first, so that I am fully
+  ready to sleep. If I then feel energetic and want to do more, do
+  more. If I feel semi-energetic, do it in bed from my phone.
+
+* Continue working on the computer, but making sure to pick tasks that
+  I can interrupt any time, with no commitment. In particular, this
+  means no actions affecting code or configuration changes to
+  production sites (whether personal or day job). The kinds of things
+  that fit here include things like documentation, writing prose,
+  etc. where it's okay to leave it half-way and okay to make
+  mistakes. I should also maintain a strong preference for things that
+  can be done on dark mode screens (so not visiting websites with a
+  white background too much).
+
+I think which of these approaches I use depends on my level of fatigue
+and expectation that I might suddenly feel drowsy. If I anticipate
+suddenly feeling drowsy, it's better to take the former
+approach. However, the latter approach is better otherwise since it
+means I have a forced break between screen time and going to bed (the
+shower/bath time).
+
+Either way, I need to make sure to still hit my latest-in-bed time.
 
 ## Best practices to follow during health issues
 
