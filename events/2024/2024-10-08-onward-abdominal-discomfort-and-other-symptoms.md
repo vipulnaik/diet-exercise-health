@@ -48,6 +48,9 @@ a clear increase in flatlence. My fermentation reading from FoodMarble
 pretty low for hydrogen and zero for methane, so it doesn't look like
 (as of yet) fermentation of these two gases is driving things.
 
+Other symptoms I experienced were right neck and shoulder fatigue and
+general fatigue.
+
 ## 2024-10-09: abdominal discomfort recurs and I try Atrantil
 
 On 2024-10-19, I noticed abdominal discomfort symptoms around 12:50 PM
@@ -68,4 +71,6 @@ safe; after verifying that 'll up to 2 doses per day. The presence of
 abdominal discomfort these days gives me a clear target of treatment
 for Atrantil.
 
-
+Other symptoms I experienced (for a subset of the time I experienced
+abdominal discomfort) include head, neck, and shoulder fatigue and
+general fatigue/lethargy.
