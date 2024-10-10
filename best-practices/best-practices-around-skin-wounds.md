@@ -13,16 +13,24 @@ important to move slowly.
 
 ### Moisturizing
 
-Moisturizing at a decent regularity in general, and particularly after
-being in dry environments, cold or hot environments, or extensive hand
-washing or sanitizer use, can keep the overall risk of wounds low.
+Moisturizing (with vaseline hydrating lotion)  at a decent regularity
+in general, and particularly after being in dry environments, cold or
+hot environments, or extensive hand washing or sanitizer use, can keep
+the overall risk of wounds low.
 
 The hands in particular should be moisturized frequently given their
 extensive contact with other stuff and frequent washing and
 sanitization.
 
 Also, taking particular care to moisturize areas that have minor skin
-damage, that makes them more sensitive to bigger wounds, can help.
+damage, that makes them more sensitive to bigger wounds, can help. In
+particular, it's important to moisturize after any impact that creates
+enhanced sensation or reddening, even if there are no cuts or bleeding
+yet.
+
+I should carry some moisturizer in my backpack so I have access to it
+as part of outside trips in general, ready for use in case I have
+impacts while on the go.
 
 ## Handling
 
@@ -90,7 +98,9 @@ For face:
   stability of the bandages.
 
 In all cases not involving the hands or face, try to keep the bandage
-for as long as possible, until I feel fully healed.
+for as long as possible, until I feel fully healed. Change daily until
+it looks fully clotted and in the process of healing, and after that
+change every 2 days.
 
 However, in cases involving the hands or face, follow this guideline:
 
