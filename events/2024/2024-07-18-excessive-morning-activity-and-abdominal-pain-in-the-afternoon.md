@@ -2394,6 +2394,9 @@ I still intermittently experience cramping-like pain, but it tends to
 be mild and brief. My fermentation scores continue to be low but still
 positive (incuding on methane).
 
+NOTE: This ends this document. I continue at
+[2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md](2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md).
+
 ## Current learnings
 
 I was updating [best practices around abdominal
