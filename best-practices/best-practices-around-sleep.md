@@ -246,6 +246,16 @@ shower/bath time).
 
 Either way, I need to make sure to still hit my latest-in-bed time.
 
+### Reducing the incidence of sudden waking up
+
+* If possible, make sure the alarm is set to a reasonable time, at
+  least 30 minutes after when I expect to wake up naturally.
+
+* To the extent possible, configure alerts so that they don't phone me
+  before my natural waking-up time. On occasions where I need to sleep
+  in a bit more due to going to sleep late, I may want to tweak the
+  alert settings temporarily.
+
 ## Best practices to follow during health issues
 
 ### When to get into bed
