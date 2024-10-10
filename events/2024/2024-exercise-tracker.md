@@ -861,3 +861,8 @@ to skip, since I was generally behind on other stuff as well.
 
 I did do the pre-jogging exercises (hand gripper, vocal note hold,
 standing on one leg, standing on toes).
+
+## 2024-10-09: skipping of all exercise for dental cleaning
+
+On 2024-10-09, I skipped all exercise for my [dental cleaning
+appointment](2024-10-09-dental-cleaning.md).
