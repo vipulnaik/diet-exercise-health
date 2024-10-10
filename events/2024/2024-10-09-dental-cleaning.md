@@ -142,6 +142,8 @@ dental mirror so that I was able to see the stains more clearly. I
 also clarified that my Internet research suggested that the black
 stains aren't an issue, but I wanted to get confirmation.
 
+The dentist asked me if I drank any tea or coffee. I said I didn't.
+
 The dentist mentioned that the hygienist had already done a good job
 covering up the stain.
 
@@ -208,6 +210,9 @@ consultation would be free given my membership.
 
 The dentist's view was that the recession was likely hereditary and
 may have been exacerbated by overbrushing.
+
+She also asked what kind of toothbrush I used -- manual or electric. I
+replied that I used a soft-bristled manual toothbrush.
 
 She also thought that the tissue graft would be a one-and-done
 procedure rather than something I needed to get done regularly.
