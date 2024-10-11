@@ -479,3 +479,10 @@ package pickup. On the way back, I bought some stuff from Walgreens.
 In the afternoon, I went for a dental cleaning appointment recorded in
 detail [here](2024-10-09-dental-cleaning.md). After that, I stopped by
 at Walgreens on the way back for some shopping.
+
+## Friday October 11
+
+In the afternoon, I made a trip to Citibank for financial transactions
+(getting quarters for use in laundry). I then went to Trader Joe's for
+food purchases recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).
