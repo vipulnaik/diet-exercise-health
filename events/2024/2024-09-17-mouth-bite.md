@@ -235,3 +235,10 @@ healing process overnight that was not very complete.
 By the evening of 2024-10-10, it seemed back to pink but still seemed
 a bit swollen compared to usual; my subjective sense (prior to
 looking) mirrored what I was seeing in the mirror.
+
+## 2024-10-11: seemingly back to baseline (almost)
+
+As of 2024-10-11, the area is pink and I don't feel much sensation in
+it. I think we're close to being back to baseline. I feel like the
+healing was fastest while I was sleeping (on both 2024-10-09 and
+2024-10-10).

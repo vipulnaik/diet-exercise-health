@@ -81,7 +81,8 @@ through the dental cleaning without thinking about it.
 The second noticeable round of symptoms started around 5 PM in the
 evening, as I was getting ready to go to Trader Joe's. It continued in
 the journey to Trader Joe's, and some of the journey back, but was
-largely gone when I started potatoes prep.
+largely gone when I started potatoes prep. I didn't have flatulence
+until around 6:30 PM or so when I had a brief bout of it.
 
 With my second meal, I took one capsule of atrantil to see if it was
 safe; after verifying that 'll up to 2 doses per day. The presence of
@@ -93,3 +94,18 @@ abdominal discomfort) include head, neck, and shoulder fatigue and
 general fatigue/lethargy. Some of these might have been exacerbated by
 the unnatural position and mouth opening that were part of the dental
 cleaning process.
+
+## 2024-10-10: Atrantil two doses and reduced symptoms
+
+On 2024-10-10, with my first meal, I took two doses of Atrantil. My
+abdominal symptoms in the late morning / early afternoon were much
+more subdued than the past two days. However, I did have brief
+head/neck/shoulder stiffness as usual, and this was not significantly
+less than the last two day
+
+In the evening, I again had a bit of abdominal discomfort, and the
+magnitude was less than the past two days, but still more than in the
+late morning / early afternoon.
+
+Overall, the data is consistent with Atrantil helping improve things,
+but not clearly so.
