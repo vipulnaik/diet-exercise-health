@@ -246,6 +246,38 @@ shower/bath time).
 
 Either way, I need to make sure to still hit my latest-in-bed time.
 
+#### Calculating backwards to determine the feasibility and latest start time for activities within the day
+
+Based on my 1-hour-notice-to-sleep time, I can calculate backwards to
+figure out the latest start time for various activities, such as
+meals, and also figure out if starting an activity would be feasible
+on the given day.
+
+As an illustrative example, use the following:
+
+* 4 hours minimum gap between end of second meal and going to sleep
+
+* 4 hours minimum gap between end of first meal and beginning of
+  second meal
+
+* 1 hour time budget for meal consumption
+
+* 1 hour gap between end of morning exercise and beginning of first meal
+
+* 1 hour duration for morning exercise
+
+Based on these, I would need to start my morning exercise at least 12
+hours before going to sleep. With a 1-hour-notice-to-sleep time of
+10:30 PM (effectively being able to sleep by 11:30 PM), that means I
+need to start my morning exercise by 11:30 AM, just using the minimum
+gaps. (Now, likely, the time budget for meal consumption can be shrunk
+and time gap between meals can be reduced to 3 hours, exercise can be
+shortened etc. when on a time crunch, but this is illustrative of the
+calculation using reasonably relaxed and safe numbers).
+
+I include more detailed calculations in this spirit in a private
+repository for my own reference.
+
 ### Reducing the incidence of sudden waking up
 
 * If possible, make sure the alarm is set to a reasonable time, at
