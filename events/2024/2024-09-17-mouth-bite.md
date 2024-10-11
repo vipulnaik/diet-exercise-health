@@ -231,3 +231,7 @@ Leaving this in as a placeholder that I might expand upon later.
 As of 2024-10-10, the redness appears to have reduced but the size /
 swelling may have increased a little bit. I think it went through a
 healing process overnight that was not very complete.
+
+By the evening of 2024-10-10, it seemed back to pink but still seemed
+a bit swollen compared to usual; my subjective sense (prior to
+looking) mirrored what I was seeing in the mirror.

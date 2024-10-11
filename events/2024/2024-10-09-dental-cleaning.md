@@ -292,3 +292,15 @@ clear. More details
 I had more minor drooling in my sleep than usual (usually I have a
 little bit of drool a few times a month, but this night I had multiple
 incidents of minor drooling.
+
+### No observed increase in salivation (until the night of 2024-10-10)
+
+Other than the overnight drooling, I did not observe any increase in
+salivation until the night of 2024-10-10. Last time, the salivation
+increase had kicked in 24 hours after the cleaning. This suggests to
+me that opening my mouth widely and continuously last time was a
+factor; also, the fact that last time I spent a lot of time talking
+continuously the next day may have been a factor. By not opening my
+mouth too wide and too long, drinking water regularly after returning,
+and making sure not to talk too much, I seem to have averted excess
+salivation.
