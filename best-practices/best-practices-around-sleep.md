@@ -181,15 +181,15 @@ My 1-hour-notice-to-sleep time should be set to at least 1 hour prior
 to the latest time I need to get into bed. However, it should
 generally be set to earlier, to account for the possibility of feeling
 sleepy earlier. As a general rule of thumb, if I don't have a sleep
-backlog, making sure that it's at least 9.5 hours prior to my natural
-waking-up time is wise. However, if I have a sleep backlog, I should
-add in approximately the number of hours of sleep backlog I estimate,
-with relevant adjustments.
+backlog, making sure that it's at least 8 hours 45 minutes prior to my
+natural waking-up time is wise. However, if I have a sleep backlog, I
+should add in approximately the number of hours of sleep backlog I
+estimate, with relevant adjustments.
 
 For instance, in the worked example in [When to get into
 bed](#when-to-get-into-bed), I said that my natural waking-up time
 these days is 8 AM. Based on this, my 1-hour-notice-to-sleep time
-should be set at 10:30 PM.
+should be set at 11:15 PM.
 
 #### What I should have completed by the 1-hour-notice-to-sleep time
 
