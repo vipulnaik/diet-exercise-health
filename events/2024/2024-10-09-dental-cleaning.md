@@ -304,3 +304,10 @@ continuously the next day may have been a factor. By not opening my
 mouth too wide and too long, drinking water regularly after returning,
 and making sure not to talk too much, I seem to have averted excess
 salivation.
+
+### Resumption of walnuts on the morning of 2024-10-11
+
+I resumed consumption of walnuts on the morning of 2024-10-11, after
+the mouth bite re-inflammation had subsided, and things otherwise
+seemed normal. I did not notice any adverse effects of consuming
+walnuts in either meal on 2024-10-11.
