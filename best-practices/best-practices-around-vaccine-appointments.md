@@ -63,6 +63,11 @@ adjusted based on factors such as the following:
   well so that the time range shows as blocked on the work calendar as
   well.
 
+  The actual appointment time should be noted in the calendar event. I
+  should aim to arrive at the location about 10 minutes prior to the
+  reporting time (which is generally 15 minutes prior to the
+  appointment, so in total it's 25 minutes prior to the appointment).
+
 ## Calendar reminders
 
 Add the following calendar reminders.
@@ -82,18 +87,6 @@ Add the following calendar reminders.
 * Work calendar events and Slack reminders: I should clear out as much
   as possible, and then after that be particularly careful in the 2-3
   days leading up to the appointment to keep that day clear.
-
-### Reminder for date of appointment
-
-The calendar event should start 2 hours prior to the appointment and
-end 2 hours after the appointment. The actual appointment time should
-be noted in the calendar event. I should aim to arrive at the location
-about 10 minutes prior to the reporting time (which is generally 15
-minutes prior to the appointment, so in total it's 25 minutes prior to
-the appointment).
-
-Make sure to invite my work email address to the calendar event so
-that it is blocked on the work calendar.
 
 ### Shopping reminder for two days prior to the appointment
 
