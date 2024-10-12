@@ -27,7 +27,7 @@ other medical appointments, vaccines, or blood tests.
   prior) but should review two weeks prior as there may be changes to
   the list of affected services. Generally, set the maintenance window
   to start four hours prior to the start and end five hours after the
-  end.
+  start (so four hours after the end).
 
 * Overrides for me for services where I rotate with others: I should
   probably handle these about two weeks prior to the appointment. Try
