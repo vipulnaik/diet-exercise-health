@@ -68,7 +68,7 @@ adjusted based on factors such as the following:
   reporting time (which is generally 15 minutes prior to the
   appointment, so in total it's 25 minutes prior to the appointment).
 
-## Calendar reminders
+## Calendar reminders and other preparation
 
 Add the following calendar reminders.
 
@@ -125,3 +125,9 @@ Anything I need to get ready for the vaccine appointment should
 ideally be handled the previous night, so that even if I'm in a rush I
 don't miss doing it. This includes any planning for additional things
 I hope to do in the trip after the appointment.
+
+### Make a document in `events/<year>` titled `<YYYY-MM-DD>-<slug for vaccine dose>.md`
+
+Follow the structure of previous documents of this sort. Note any
+special considerations or thoughts beyond just the execution of the
+instructions in this best practices doc.
