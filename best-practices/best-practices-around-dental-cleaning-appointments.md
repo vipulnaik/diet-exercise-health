@@ -26,13 +26,14 @@ other medical appointments, vaccines, or blood tests.
   these up when the appointment time is confirmed (usually six months
   prior) but should review two weeks prior as there may be changes to
   the list of affected services. Generally, set the maintenance window
-  to start two hours prior to the start and end five hours after the
+  to start four hours prior to the start and end five hours after the
   end.
 
 * Overrides for me for services where I rotate with others: I should
   probably handle these about two weeks prior to the appointment. Try
-  for the override to be a full-day override covering at least two
-  hours prior to the start and four hours after the end of the appointment.
+  for the override to be a full-day override; if a full day isn't
+  possible, try covering at least two hours prior to the start and
+  four hours after the end of the appointment.
 
 * Work calendar events and Slack reminders: At the two-week-prior
   mark, I should clear out as much as possible, and then after that be

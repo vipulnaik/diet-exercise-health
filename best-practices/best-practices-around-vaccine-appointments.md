@@ -71,12 +71,13 @@ Add the following calendar reminders.
 
 * Maintenance windows for work alerts where I'm primary: I can set
   these up when the appointment time is confirmed. Generally, set the
-  maintenance window to start two hours prior to the start and end
-  five hours after the end.
+  maintenance window to start four hours prior to the start and end
+  four hours after the end.
 
 * Overrides for me for services where I rotate with others: Try for
-  the override to be a full-day override covering at least two hours
-  prior to the start and four hours after the end of the appointment.
+  the override to be a full-day override; if a full day isn't
+  possible, try covering at least two hours prior to the start and
+  three hours after the end of the appointment.
 
 * Work calendar events and Slack reminders: I should clear out as much
   as possible, and then after that be particularly careful in the 2-3
