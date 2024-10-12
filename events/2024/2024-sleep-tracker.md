@@ -26,3 +26,28 @@ I plan to start recording starting 2024-10-11. I might also write
 separate documents on more complex incidents, but for cases where it's
 just a matter of one of the above and does not spill over into other
 related issues, I will just note it here.
+
+## 2024-10-11
+
+### A little bit of lethargy/fatigue after completing second meal and post-meal cleanup
+
+I experienced some degree of lethargy/fatigue after completing my
+second meal and post-meal cleanup. This also reflected in
+somewhat-lower-than-usual verbal memory scores (63, 55, and 86 points)
+at Human Benchmark, as well as lower-than-usual first sequence memory
+score (12 points) though my second sequence memory score of 27 points
+was high.
+
+A few comments:
+
+* My fatigue level was definitely less pronounced than yesterday, where
+  I also felt so overloaded that I didn't even feel like listening to
+  music while working.
+
+* I suspect it's partly related to some continued sleep backlog though
+  the situation is improve since yesterday.
+
+* I also suspect it's because of bunching a food purchase trip and
+  meal prep, which makes for a very long day. This isn't ideal, but it
+  ended up being the least bad option due to a bunch of other stuff
+  happening earlier in the week.
