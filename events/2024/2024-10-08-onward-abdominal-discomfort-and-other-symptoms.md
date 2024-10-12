@@ -109,3 +109,22 @@ late morning / early afternoon.
 
 Overall, the data is consistent with Atrantil helping improve things,
 but not clearly so.
+
+## 2024-10-11: Atrantil two doses and continued low symptoms
+
+On 2024-10-11, with my first meal, I took two doses of Atrantil. I
+also resumed consumption of walnuts, that I had stopped for my [dental
+cleaning](2024-10-09-dental-cleaning.md). Another improvement compared
+to the previous day was somewhat reduced fatigue as a result of
+catching up with some of the sleep backlog.
+
+Overall, I continued experiencing a similar or slightly lower level of
+GI symptoms compared to the previous day, and milder than 2024-10-08
+and 2024-10-09. I also did not experience the head/neck/shoulder pain
+that I had experienced until the previous day, so that was an
+improvement.
+
+My FoodMarble Aire 2 hydrogen fermentation score reading taken about
+90 minutes after my second meal was a little higher than usual, but
+still in the low range. My methane fermentation score continued to be
+zero.

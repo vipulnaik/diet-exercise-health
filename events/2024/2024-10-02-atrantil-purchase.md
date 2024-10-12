@@ -16,4 +16,6 @@ and 2024-10-09 led me to decide to start with Atrantil on
 there was any (positive or negative) reaction. After confirming no
 negative reaction, I upped to two capsules the morning of
 2024-10-10. My plan is to continue at 2 capsules a day until
-2024-10-16 and then reassess.
+2024-10-16 and then reassess. For more on the abdominal discomfort
+symptoms and their evolution, see
+[here](2024-10-08-abdominal-discomfort-and-other-symptoms.md).
