@@ -57,6 +57,12 @@ adjusted based on factors such as the following:
 * Review the email received for details such as what to carry, when to
   arrive.
 
+* Add the vaccine appointment to the calendar, with the appointment
+  time starting 2.5 hours prior to the appointment time and ending 2.5
+  hours after the appointment time. Invite my work email address as
+  well so that the time range shows as blocked on the work calendar as
+  well.
+
 ## Calendar reminders
 
 Add the following calendar reminders.
