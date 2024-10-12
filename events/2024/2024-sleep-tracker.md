@@ -51,3 +51,7 @@ A few comments:
   meal prep, which makes for a very long day. This isn't ideal, but it
   ended up being the least bad option due to a bunch of other stuff
   happening earlier in the week.
+
+UPDATE 11 PM: My mood and energy level recovered quite a bit over the
+hours, and my verbal memory attempts between 10:30 PM and 11 PM
+included my two highest scores so far (216 and 194 respectively).
