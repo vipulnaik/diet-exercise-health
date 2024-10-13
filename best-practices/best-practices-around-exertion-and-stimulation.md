@@ -193,6 +193,20 @@ guidance:
   things to address in the first few days so there may be
   non-discretionary tasks that I can't avoid.
 
+### Timing of MEWs
+
+My aim should be to spend at most 0.5 MEWs/hour at these times:
+
+* For 1 hour after intense cardio and strength exercise
+
+* For 1 hour after meal consumption
+
+* Starting 1 hour before the 1-hour-notice-to-sleep time
+
+Generally, this means no nontrivial outside trips during that
+time. However, the 0.5 MEWs/hour does allow for extended standing for
+post-meal cleanup work including washing dishes.
+
 ## Sun and heat exposure
 
 These are the limits:
