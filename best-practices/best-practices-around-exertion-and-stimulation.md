@@ -147,10 +147,12 @@ arrival) this means that the flight + associated activity alone is
 enough to use up my MEWs.
 
 That means that days where I have flights are days where the flight
-and associated travel alone exhausts my MEWs, so that I need to keep
-all additional MEWs to a minimum as much as possible. In fact, given
-the potential for things to go wrong and end up using even more MEWs,
-it is best to be well-rested and conserve MEWs. Which brings us to the
+and associated travel alone exhausts my whole-day MEWs. Moreover,
+since I (likely) won't have a meal in between, I definitely go over
+the between-meal MEWs by a huge margin! So, I need to keep all
+additional MEWs to a minimum as much as possible. In fact, given the
+potential for things to go wrong and end up using even more MEWs, it
+is best to be well-rested and conserve MEWs. Which brings us to the
 next topic.
 
 ### MEWs across days
@@ -169,7 +171,12 @@ guidance:
 
 * If I end up spending over 10 MEWs on any given day, I should target
   for the next day to be sufficiently low in MEWs so that the average
-  of the two days is still less than 9 MEWs.
+  of the two days is still less than 9 MEWs. If possible, I should aim
+  for fewer than 5 MEWs the next day (and even lower based on my level
+  of fatigue), and skip all discretionary expenditure of MEWs such as
+  exercise. However, if traveling to a new location, there may be
+  things to address in the first few days so there may be
+  non-discretionary tasks that I can't avoid.
 
 ## Sun and heat exposure
 
