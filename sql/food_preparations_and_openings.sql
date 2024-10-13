@@ -568,5 +568,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-12','TJ Almond Milk',1),
   /* Lentils prep 2024-10-12 (overnight soaking to cook and eat the next day) */
-  ('2024-10-12','TJ Green Lentils',0.55);
+  ('2024-10-12','TJ Green Lentils',0.55),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-10-13','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal; rate of consumption is expected to go down with the reintroduction of walnuts and sauerkraut */
+  ('2024-10-13','TJ Roasted Seaweed',1); /* first meal; rate of consumption is expected to go down as I switch back to once per day, with the reintroduction of walnuts and sauerkraut */
   /* Double-check the date before committing */
