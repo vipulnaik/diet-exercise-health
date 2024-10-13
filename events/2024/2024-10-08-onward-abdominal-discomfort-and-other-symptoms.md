@@ -134,7 +134,7 @@ My FoodMarble Aire 2 hydrogen fermentation score reading taken about
 still in the low range. My methane fermentation score continued to be
 zero.
 
-## 2024-10-12: Atrantil tow doses and continued low symptoms
+## 2024-10-12: Atrantil two doses and continued low symptoms
 
 On 2024-10-12, I continued the two doses of Atrantil. I continued to
 have mild abdominal discomfort symptoms, but the intermittent
@@ -145,12 +145,16 @@ post-meal cleanup (around 8 PM).
 
 My current thinking is that the cognitive and auditory overload of
 listening to educational content during meals, meal prep, and
-post-meal cleanup might be adding up to too much. While not the
-primary driver, I think it's a lever I should adjust based on my
-overall level of fatigue, and I should stop doing it to the extent
-feasible until I feel fully recovered energy-wise. Specifically:
+post-meal cleanup might be adding up to too much. I've formulated some
+best practices to keep these under control. See [best pratices around
+exertion and
+stimulation](../../best-practices/best-practies-around-exertion-and-stimulation.md)
+for more information.
 
-* Don't keep anything on during meal cleanup
+## 2024-10-13: Atrantil two doses and continued low symptoms + low fermentation scores
 
-* During meals and meal prep, lean toward a mix of at least 50%
-  relaxing entertainment
+On 2024-10-13, I experienced an increase in discomfort in the late
+morning, a little before exercise, but it mostly subsided on its own,
+leaving only a little bit of unease in its wake. I continued taking
+two doses of Atrantil. My FoodMarble Aire 2 breath test score taken in
+the early afternoon showed low fermentation score values.

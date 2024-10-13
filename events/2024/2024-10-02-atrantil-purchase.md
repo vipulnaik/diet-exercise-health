@@ -19,3 +19,8 @@ negative reaction, I upped to two capsules the morning of
 2024-10-16 and then reassess. For more on the abdominal discomfort
 symptoms and their evolution, see
 [here](2024-10-08-abdominal-discomfort-and-other-symptoms.md).
+
+On 2024-10-13 (and maybe a few times prior to that) I noticed
+occasionally getting a nutty burp where the kind of nut felt different
+from the only nut I directly eat (walnuts) so I wonder if that's the
+horse chestnut part of Atrantil.

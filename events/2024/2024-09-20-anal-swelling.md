@@ -72,6 +72,14 @@ not completely gone and I should do weekly updates monitoring both the
 size of the swelling and my subjective sensation after a deliberate
 anal sphincter contraction.
 
+### 2024-10-13: check-in update
+
+On 2024-10-13, after being mostly free of symptoms, I did a
+check-in. First, I confirmed that deliberate anal contractions caused
+me only minimal discomfort, not too different from what it used to
+before the swelling. Second, I checked the magnitude of the swelling
+and confirmed that it has significantly reduced.
+
 ## Strategies and their implementation
 
 ### Food
