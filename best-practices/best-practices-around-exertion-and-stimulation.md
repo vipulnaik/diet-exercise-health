@@ -18,7 +18,7 @@ sleep](best-practices-around-sleep.md).
 If I jog x miles and walk y miles, my total mile equivalents walked
 (MEW) are to be calculated as 2x + y.
 
-### Limits
+### Limits (simple version)
 
 With this calculation, the rules are as follows:
 
@@ -74,6 +74,102 @@ If I need to exceed these MEWs, try to follow these practices:
 * Try to take a break/rest at every 3 MEWs or less, of at least 30
   minutes. Make sure to drink water. If it's hot, make sure to take a
   break in the shade.
+
+### Limits (more complex version)
+
+The following is a more complex calculation of limits, that also assigns MEWs to other activities.
+
+Some of these other activities included:
+
+* Masked seating = 1 MEW/hour (think of being in an airport)
+
+* Standing in a home situation, with light movement (washing dishes,
+  cleaning, etc.) = 0.5 MEWs/hour. Home situations offer the
+  flexibility of taking breaks if tired, as well as more freedom in
+  terms of posture and movement direction.
+
+* Unmasked standing in a constrained outdoor situation = 1
+  MEW/hour. Examples here include standing in line, or standing in a
+  "standup"-like work discussion. Here, I have less flexibility to
+  move around as I please, and can't take breaks from standing.
+
+* Masked standing in a constrained outdoor situation = 1.5
+  MEWs/hour. This includes, for instance, standing in line at an
+  airport or grocery store.
+
+* Talking (lecture/presentation) = 1 MEW/hour. For group meetings
+  where I am taking only some percentage of what I would talk in a
+  lecture/presentation, I should adjust downward accordingly.
+
+Based on this additional information, I have the following limits:
+
+* 6 MEWs for every pre-meal / between meals / after all meals period
+
+* 10 MEWs for the whole day
+
+### Reworked example for a tyical day with the complex limits
+
+Here's a bit of a reworked example for a typical day. Let's say that
+in a day, I have these activities:
+
+* 2 miles of jogging+walking (worst-case all 2 miles being jogged): total 4 MEWs
+
+* About 2 hours standing in a home situation with light movement
+  (washing dishes, house stuff, etc.): 1 MEW
+
+* 30 minutes of talking (about 50% in a 1-hour virtual meeting): 0.5
+  MEWs
+
+* Trip for grocery shopping: 3 miles walking, plus 15 minutes in store
+  (let's say the line is quite long) wearing a mask: 3.375 MEWs
+
+The total is 8.875 MEWs, which is comfortably below the limit of 10
+MEWs. Moerover, as long as we don't do the first and last one in the
+same period, we should be fine in terms of overall exertion within
+each period.
+
+### Worked example of a flight
+
+In contrast, let's say I am taking a domestic flight that is 2 hours
+long. Let's say these are the estimates:
+
+* 3 hours standing with mask including 1 hour each in the journey to
+  and from, and 1 hour in the airport: 4.5 MEWs
+
+* 3 hours being seated with mask including 2 hours in the flight and 1
+  hour in the airport: 3 MEWs
+
+* About 1 mile total of walking (combining journeys to and from): 1 MEW
+
+As we can see, this alone totals to 8.5 MEWs. As it is normal to spend
+1-1.5 MEWs in normal daily activity (prior to departure or after
+arrival) this means that the flight + associated activity alone is
+enough to use up my MEWs.
+
+That means that days where I have flights are days where the flight
+and associated travel alone exhausts my MEWs, so that I need to keep
+all additional MEWs to a minimum as much as possible. In fact, given
+the potential for things to go wrong and end up using even more MEWs,
+it is best to be well-rested and conserve MEWs. Which brings us to the
+next topic.
+
+### MEWs across days
+
+In some cases (such as travel, urgent things that need to be done,
+etc.) I might have a day where my MEW expenditure is above the
+threshold of 10. If I can anticipate this in advance, I may be able to
+adjust both the preceding and following days; if it happens suddenly,
+I may still be able to adjust the following days. Here is some general
+guidance:
+
+* If I am undergoing an unusual situation such as travel, where even
+  the ordinary "everything goes well" case involves an expenditure
+  over 8 MEWs, I should skip exercise and target a total of less than
+  5 MEWs the previous day.
+
+* If I end up spending over 10 MEWs on any given day, I should target
+  for the next day to be sufficiently low in MEWs so that the average
+  of the two days is still less than 9 MEWs.
 
 ## Sun and heat exposure
 
