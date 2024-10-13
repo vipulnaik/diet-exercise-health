@@ -292,6 +292,52 @@ repository for my own reference.
   in a bit more due to going to sleep late, I may want to tweak the
   alert settings temporarily.
 
+## The role of temperature, light, and sound in my sleep cycle
+
+### The role of weather and ambient indoor temperature
+
+I had some empirical observations that make sense in the context of
+[temperature minimum as described by Andrew
+Huberman](https://ai.hubermanlab.com/s/qymYMnCJ). According to
+Huberman, the body reaches its minimum temperature around 1.5 hours
+before the natural time of waking up.
+
+My sleeping context is one where I generally draw curtains so that I
+don't get a lot of light streaming in (though there is enough for me
+to "know" that it's morning), but I don't have temperature
+control. The result is that temperature is likely the driving factor
+affecting my sleep cycle. In particular, my sleep cycle naturally
+gravitates to one where my temperature minimum coincides with the time
+that the indoor temperature is minimum.
+
+Interestingly, the temperature-based constraints are strongest during
+the hottest and coldest days. During the hottest days, the range of
+time where it is tolerably cool enough for me to sleep is narrow,
+forcing me to sleep during that time. This can be something like 1 AM
+to 9 AM, because indoor temperatures lag outdoor temperatures so that
+they don't get down to a sleep-compatible range until 1 AM. During the
+coldest days, I get a similar range of 1 AM to 9 AM, or even a little
+later (1:30 AM to 9:30 AM) because it takes until about 8 AM for the
+indoor temperature to start rising meaningfully.
+
+In mid-range weather (neither too hot or too cold) I can play
+temperature a little bit by keeping the window open earlier in the
+night, and then waking up and closing it around the time I want to hit
+my temperature minimum. Of course, this requires me to get up, which
+isn't possible if I am fast asleep or too cold to even get out of
+bed. This lever isn't available when it's too hot (the window is open
+throughout) or too cold (the window is closed throughout).
+
+### The role of light
+
+When using light in connection with sleep cycle, I need to factor in
+my light sensitivity. See the document on [best practices around
+light](best-practices-around-light.md). Generally speaking, I try not
+to maipulate light specifically for sleep during normal times, but I
+do use increased light sensitivity as a hint of potential sleep
+backlog. I might use light when deliberately adjusting sleep cycle by
+a nontrivial amount (more than 15 minutes per day).
+
 ## Best practices to follow during health issues
 
 ### When to get into bed
