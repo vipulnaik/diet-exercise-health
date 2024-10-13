@@ -67,8 +67,12 @@ scenarios where these might go off earlier:
 
 Separate from these, I might get up sometimes to urinate or due to
 some pain or bad dream. Usually, I'm able to go right back to sleep,
-but sometimes I can't. As of May 2024, this is very rare, but it could
-happen.
+but sometimes I can't. As of October 2024, it's common for me to wake
+up to urinate around 1-2 hours before officially waking up, and to be
+able to go back to a sleepy or semi-sleepy state immediately
+afterward. It is relatively rare for me to wake up spontaneously well
+before my natural waking time and be unable to get back into a restful
+state.
 
 The case of waking up suddenly tends to be worse in terms of bowel
 disruption than the case of sleeping late, likely because the body's
