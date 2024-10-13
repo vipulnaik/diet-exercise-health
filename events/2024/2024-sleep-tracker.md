@@ -31,7 +31,9 @@ related issues, I will just note it here.
 
 Ongoing health issues at this time:
 [2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md](2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md). The
-relationship with these issues is not clear.
+relationship with these issues is not clear, but in that document I
+have documented the lethargy in that broader context and also
+discussed potential overall causal factors.
 
 ### A little bit of lethargy/fatigue after completing second meal and post-meal cleanup
 
@@ -64,7 +66,9 @@ included my two highest scores so far (216 and 194 respectively).
 
 Ongoing health issues at this time:
 [2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md](2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md). The
-relationship with these issues is not clear.
+relationship with these issues is not clear, but in that document I
+have documented the lethargy in that broader context and also
+discussed potential overall causal factors.
 
 ### A little bit of lethargy/fatigue around 5 PM to 6 PM
 

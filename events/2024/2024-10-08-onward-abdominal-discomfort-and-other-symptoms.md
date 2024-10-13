@@ -28,10 +28,15 @@ incident](2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-aftern
   incident](2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md). But,
   I have been ramping up my level of physical exercise.
 
-* Cognitive exertion: By switching to watching/listening to videos
-  during meal prep, post-meal ccleanup, and meal consumption, I've
+* Cognitive exertion: By switching to watching/listening to
+  educational and cognitively at least somewhat demanding videos
+  during meal prep, post-meal cleanup, and meal consumption, I've
   added a new category to cognitive exertion without taking anything
-  out to compensate.
+  out to compensate. Previously, while I did watch videos during meals
+  and meal prep, only part of the time was on cognitively intense
+  stuff and the rest was on relaxing entertainment. And, I didn't
+  watch/listen to videos during post-meal cleanup, so there was less
+  forced auditory and cognitive stimulation.
 
 ### Immediate triggers
 
@@ -128,3 +133,24 @@ My FoodMarble Aire 2 hydrogen fermentation score reading taken about
 90 minutes after my second meal was a little higher than usual, but
 still in the low range. My methane fermentation score continued to be
 zero.
+
+## 2024-10-12: Atrantil tow doses and continued low symptoms
+
+On 2024-10-12, I continued the two doses of Atrantil. I continued to
+have mild abdominal discomfort symptoms, but the intermittent
+head/neck/shoulder tension was definitely relatively more
+concerning. Also, I had a lethargy/fatigue episode after my first meal
+around 5-6 PM, and then continued to feel a little low in energy after
+post-meal cleanup (around 8 PM).
+
+My current thinking is that the cognitive and auditory overload of
+listening to educational content during meals, meal prep, and
+post-meal cleanup might be adding up to too much. While not the
+primary driver, I think it's a lever I should adjust based on my
+overall level of fatigue, and I should stop doing it to the extent
+feasible until I feel fully recovered energy-wise. Specifically:
+
+* Don't keep anything on during meal cleanup
+
+* During meals and meal prep, lean toward a mix of at least 50%
+  relaxing entertainment
