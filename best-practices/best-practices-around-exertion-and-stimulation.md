@@ -215,19 +215,131 @@ These are the limits:
   of them have multiple stops. Even if done when sunny, they still fit
   within the limits.
 
-## Optional cognitive stimulation
+## Passive optional cognitive stimulation (POCS)
 
-* At most 45 minutes per day of audio on speaker, not including
-  meetings (where I am listening to it while washing dishes). This is
-  because listening to audio this way can be a bit strenuous and also
-  cuts into my unwinding / processing / sorting time. In practice,
-  doing this at the end of one meal, or during some meal prep or
-  cleaning activity, should be good enough.
+Passive optional cognitive stimulation (POCS) refers to cognitive
+stimulation that is both passive (I am watching a video or listening
+to an audio) and optional (I don't need to do this for any near-term
+deadline or goal), while also stimulating me cognitively because the
+material is challenging or semi-challenging. A lot of videos I watch
+around health and medicine have this characteristic. On the other
+hand, entertainment content doesn't count here, because the amount of
+material I'm trying to retain from it is low.
 
-* At most 2 hours per day of cognitively challenging or
-  semi-challenging audio/video for optional learning, except in cases
-  where I have a specific goal to learn something specific by a
-  deadline.
+* At most 45 minutes per day of POCS on speaker (where I am listening
+  to it while away from computer). This is because listening to audio
+  this way can be a bit strenuous and also cuts into my unwinding /
+  processing / sorting time. In practice, doing this at the end of one
+  meal, or during some meal prep or cleaning activity, should be good
+  enough.
+
+* At most 2 hours per day of POCS.
+
+* No POCS at these times:
+
+  * Until after I finish my morning exercise
+
+  * Starting 1 hour prior to my 1-hour-notice-to-sleep time
+
+* No multiplexing of POCS with any required cognitive stimulation
+  unless the latter is low risk, low or medium in open-endedness, and
+  low in peak cognitive strength (see next section for more on the
+  terminology). If I do need additional bits of stimulation when doing
+  such work, use music or lighter videos/audios that are not
+  cognitively challenging and where I am not trying to retain any of
+  the information.
+
+## Required cognitive stimulation
+
+Roughly speaking, required cognitive stimulation covers cognitive
+stimulation for day job, personal projects, personal finances,
+personal chores stuff (like writing this document), the occasional
+cognitive exercise using something like Human Benchmark, and meetings
+of various sorts. In some cases, listening to challenging audio or
+video falls under required cognitive stimulation if I am on a
+relatively tight deadline to acquire the information in question.
+
+### Axes of classification for required cognitive stimulation
+
+* Degree of risk:
+
+  * Low: Even if I mess something up, it won't matter (for instance,
+    writing text/notes for myself, working with code or data that has
+    a lot of checks and balances and feedback mechanisms that prevent
+    errors).
+
+  * Medium: If I mess something up, I may need to take corrective
+    action but it should generally be quickly caught and quickly fixed
+    (think 1 to 10 minutes).
+
+  * High: Any mistakes here can have meaningful consequences; I either
+    don't know how to address mistakes or the process I do know can
+    take a long time or be otherwise unpleasant and uncertain.
+
+* Degree of cognitive open-endedness:
+
+  * Low: Mechanical work that basically involves following a template
+
+  * Medium: Work that largel involves following a process but has
+    some small open-ended puzzles
+
+  * High: Work where there isn't a clear-cut process to follow
+
+* Peak cognitive strength / focus needed:
+
+  * Low: This includes relatively mechanical work but can also include
+    flow-state ideation work that might be very open-ended.
+
+  * Medium: I feel some need to "focus" and double-check
+    things. Often, moderately complex code changes or restructuring of
+    code or documents fits here.
+
+  * High: I'm stretching the limits of one or more cognitive
+    skills. For instance, Human Benchmark tends to need peak cognitive
+    strength in at least one dimension as I get close to failure. Note
+    that Human Benchmark is an example with low open-endedness but
+    high peak cognitive strength.
+
+### How I should think of timing required cognitive tasks based on the axes of classification
+
+Risk is the most important dimension for timing cognitive
+tasks. Essentially, I want to stick to low-risk tasks toward the end
+of the day, starting 1 hour prior to my 1-hour-notice-to-sleep
+time. Separately, I should ake sure to stay at low risk when timelines
+are tight, so that I don't end up stressed about fixing a mistake.
+
+Regarding cognitive open-endedness and peak cognitive strength, it's
+generally a bad idea to pick tasks that are simultaneously high in
+both in the 1 hour prior to my 1-hour-notice-to-sleep time. However,
+this is more of a judgment call thing. There are two related risks:
+
+* The open-endedness increases the risk of being hooked / not
+  achieving closure by the time I go to sleep, or delaying my sleep to
+  achieve closure.
+
+* The peak cognitive strength can raise the extent of overdrive I go
+  into, which gets in the way of getting into a calm state by the time
+  of going to sleep.
+
+Generally, things that are open-ended, but where the peak cognitive
+strength is low (e.g., flow-state ideation) *and* I feel comfortable
+wrapping up in the middle to continue the next day, are fine to do in
+the hour prior to my 1-hour-notice-to-sleep time. Also, things with
+high peak cognitive strength, but that are very well-contained, such
+as Human Benchmark tests, are also fine to do.
+
+### Implication for execution of night checklist
+
+It may be a good idea to do one pass of execution of my night
+checklist an hour before my 1-hour-notice-to-sleep time, and then
+another right before my 1-hour-notice-to-sleep time. The advantage of
+the first execution is that it helps me clear out any tricky items
+that need further investigation early on (if they are low or medium in
+risk and have a reasonable profile of open-endedness and peak
+cognitive strength) or set up plans to defer investigation to tomorrow
+(if not). The final pass of checking at the 1-hour-notice-to-sleep
+time is unlikely to surface much new stuff, so the risk of delaying my
+sleep time is reduced.
 
 ## Audio stimulation
 
