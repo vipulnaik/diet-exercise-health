@@ -74,3 +74,7 @@ pattern of the previous days. Although I did not go out in the
 afternoon, I did do a bunch of house cleaning so I was standing and
 moving around lightly for about 1.5 hours after eating, which is more
 than usual and may have resulted in some of the lethargy.
+
+I did do verbal memory and typing tests and got good scores, so I
+don't think the lethargy/fatigue was having the same impact on my
+cognition as it had been having yesterday.
