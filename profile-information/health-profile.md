@@ -103,17 +103,17 @@ machine) as part of my monthly blood pressure readings (as well as
 other one-off readings in response to health events or other
 incidents) in
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql). As
-of 2024-09-21, my morning heart rate readings (before exercise or
+of 2024-10-13, my morning heart rate readings (before exercise or
 eating) as measured as part of blood pressure measurement were on
-2024-09-21 with successive readings of 49 bpm and 44 bpm.
+2024-10-13 with successive readings of 53 bpm and 49 bpm.
 
 I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
 health events or other incidents) in
 [pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql). As
-of 2024-09-21, my morning heart rate reading (before exercise or
-eating) as measured by the pulse oximeter was on 2024-09-13 with a
-reading range of 46-50 bpm.
+of 2024-10-13, my morning heart rate reading (before exercise or
+eating) as measured by the pulse oximeter was on 2024-10-13 with a
+range of 49-55 bpm.
 
 For extensive older experiment results, see
 [2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
@@ -130,8 +130,8 @@ I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
 health events or other incidents) in
 [pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql). My
-most recent reading was a range of 94% to 97% over a period of two
-minutes.
+most recent reading taken on 2024-10-13 was a range of 99% to 100%
+over a period of one minute.
 
 For recent pulse oximeter readings, see
 [pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql).
@@ -151,7 +151,7 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting blood pressure readings (taken
-2024-09-21) were 106/70 and 104/69. I've had home blood pressure
+2024-10-13) were 106/67 and 100/64. I've had home blood pressure
 readings with the systolic between 91 and 115 and the diastolic
 between 55 and 75.
 
