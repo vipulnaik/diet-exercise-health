@@ -162,7 +162,9 @@ higher in situations such as these:
 
 * Sleep backlog (see [best practices around sleep](best-practices-around-sleep.md))
 
-* Head/neck/shoulder tension
+* Head/neck/shoulder tension which could be due to exercises (strength
+  exercises, dead hang, and hand gripper exercises), extended carrying
+  of heavy loads.
 
 * Cognitive overload
 
@@ -173,5 +175,7 @@ higher in situations such as these:
 * Immune activation (fighting off an infection)
 
 If I observe increased sensitivity, consider that one of the above may
-be a contributor and try to address that cause.
-
+be a contributor and try to address that cause. For instance, if I've
+been listening to a lot of music or audio, consider taking a break
+from music and audio, or least reducing the quantity radically, until
+I feel better.
