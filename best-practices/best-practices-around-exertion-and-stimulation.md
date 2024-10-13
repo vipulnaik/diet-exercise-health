@@ -11,6 +11,21 @@ adhere to, even if I feel like I can do more.
 It complements the [best practices around
 sleep](best-practices-around-sleep.md).
 
+## Heart rate as a measure of exertion and stimulation
+
+While not necessary under ordinary stimuli when I am otherwise health,
+the heart rate can be useful as a measure of my exertion and
+stimulation as well as my recovery when subject to unusual stimuli or
+when my baseline level of health is bad. I should target heart rates
+that are consistent with those seen in my [pulse oximeter
+readings](../sql/pulse_oximeter_readings.sql). Specifically, if the
+lower end of my heart rate is above 60 bpm, that is suggestive of
+either excessive exertion/stimulation from which I have not recovered
+yet, or recent food consumption (within the past 2 hours).
+
+I can measure the heart rate with a pulse oximeter, blood pressure
+machine, or by taking a pulse with a stethoscope or my finger.
+
 ## Walking/jogging: limit adjusted exertion level measured via MEWs
 
 ### MEW calculation
@@ -221,7 +236,10 @@ The optional cognitive stimulation above already places some limits on audio.
 In addition, limit the use of music and non-required audio through the
 day. In particular:
 
-* No music or other non-required audio until I have completed my morning exercise
+* No music or other non-required audio until I have completed my
+  morning exercise (and ideally for at least 30 minutes afterward or
+  until I am back to a normal heart rate), with the exception of music
+  specifically tied to exercises such as humming exercises
 
 * No music or other non-required audio for at least one hour prior to
   my 1-hour-notice-to-sleep time
