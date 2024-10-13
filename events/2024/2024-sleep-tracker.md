@@ -29,6 +29,10 @@ related issues, I will just note it here.
 
 ## 2024-10-11
 
+Ongoing health issues at this time:
+[2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md](2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md). The
+relationship with these issues is not clear.
+
 ### A little bit of lethargy/fatigue after completing second meal and post-meal cleanup
 
 I experienced some degree of lethargy/fatigue after completing my
@@ -55,3 +59,18 @@ A few comments:
 UPDATE 11 PM: My mood and energy level recovered quite a bit over the
 hours, and my verbal memory attempts between 10:30 PM and 11 PM
 included my two highest scores so far (216 and 194 respectively).
+
+## 2024-10-12
+
+Ongoing health issues at this time:
+[2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md](2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md). The
+relationship with these issues is not clear.
+
+### A little bit of lethargy/fatigue around 5 PM to 6 PM
+
+I experienced a bit of an energy crash around 5 PM, around 3.5 hours
+after the first meal. This likely continues the overall fatigue
+pattern of the previous days. Although I did not go out in the
+afternoon, I did do a bunch of house cleaning so I was standing and
+moving around lightly for about 1.5 hours after eating, which is more
+than usual and may have resulted in some of the lethargy.
