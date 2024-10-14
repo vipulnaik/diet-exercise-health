@@ -3,7 +3,8 @@
 On Wednesday 2024-04-03, I went to Total Health Dental Care at 3017
 Telegraph Avenue for a regular dental cleaning at 1 PM. The previous
 dental cleaning had been on
-[2023-09-27](2023-09-27-dental-cleaning.md).
+[2023-09-27](../2023/2023-09-27-dental-cleaning.md). The next dental
+cleaning would be on [2024-10-09](2024-10-09-dental-cleaning.md).
 
 Sections of this document:
 
