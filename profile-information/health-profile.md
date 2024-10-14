@@ -900,6 +900,9 @@ may go up to about 9 hours.
 I generally don't remember dreams when I wake up, but I sometimes do
 have dreams that I remember.
 
+For more on the practices I aspire to follow with respect to sleep,
+see [here](../best-practices/best-practices-around-sleep.md).
+
 ### Historical sleep issues
 
 In the early 2010s, I had issues with falling asleep, and experimented
