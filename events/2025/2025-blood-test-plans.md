@@ -7,19 +7,16 @@ April 2025.
 
 ## Cost estimate
 
-Cost estimates were based on list prices on requestatest.com on
-2024-09-25. However, shortly after preparing the estimates, I
-discovered (see
-[here](https://docs.google.com/spreadsheets/d/1tDZmLggmeozfBUBBFDzJG1d3aJ5GnUZlmJJ9ySGONQM/edit)
-and
-[here](https://www.reddit.com/r/PeterAttia/comments/192lrle/on_demand_labwork_price_comparison/))
-that some other labs such as Own Your Labs and Marek Diagnostics, are
-substantially cheaper. I haven't done enough research on this, but I
-should make sure to learn more about the pros and cons of different
-ordering services, and will likely switch to one of these (Own Your
-Labs and Marek Diagnostics) unless I find good reasons not to.
+Cost estimates were based on list prices on ownyourlabs.com,
+marekdiagnostics.com, and requestatest.com on 2024-10-14.
 
-Total cost of tests so far: LabCorp: $420; Quest Diagnostics: $478
+Total cost of tests so far:
+
+* Own Your Labs: $140.54
+* Marek Diagnostics: $103 or $116 depending on variant, plus $5 phlebotomist fee
+* Request A Test: LabCorp: $295; Quest Diagnostics: $353
+
+So far, it looks like Marek Diagnostics is the winner.
 
 ## Test reruns from 2024
 
@@ -28,7 +25,11 @@ takeaways](../2024/2024-blood-test-plans.md#results-and-takeaways).
 
 ### Lipid panel: followup measurement because of diabetic tendencies
 
-Test details: https://requestatest.com/lipid-panel-testing (LabCorp: $34; Quest Diagnostics: $36)
+Test details:
+
+* https://ownyourlabs.com/product/lipid-panel/ ($10)
+* https://marekdiagnostics.com/products/lipid-panel-total-cholesterol-hdl-ldl-vldl-triglycerides-hdl-ldl-ratio?_pos=2&_sid=97567c9e3&_ss=r ($10)
+* https://requestatest.com/lipid-panel-testing (LabCorp: $34; Quest Diagnostics: $36)
 
 After my September 2024 test, I reduced my olive oil consumption,
 added seaweed, and increased my omega-3 dosage. The first of these is
@@ -41,7 +42,11 @@ learning and trying things to reduce cholesterol.
 
 ### Apolipoprotein B
 
-Test details: https://requestatest.com/apolipoprotein-b-testing (LabCorp: $59; Quest Diagnostics: $65)
+Test details:
+
+* https://ownyourlabs.com/product/apolipoprotein-b/ ($17.20)
+* https://marekdiagnostics.com/products/apolipoprotein-b-apob?_pos=1&_sid=17bbc195f&_ss=r ($17)
+* https://requestatest.com/apolipoprotein-b-testing (LabCorp: $59; Quest Diagnostics: $65)
 
 Based on recent reading, apolipoprotein B is the mechanism by which
 high cholesterol levels increase the risk of atherosclerosis. The
@@ -52,7 +57,11 @@ clear correlational picture of the two.
 
 ### Comprehensive metabolic panel
 
-Test details: https://requestatest.com/comprehensive-metabolic-panel-testing (LabCorp: $34; Quest Diagnostics: $34)
+Test details:
+
+* https://ownyourlabs.com/product/comp-metabolic-panel-14/ ($10)
+* https://marekdiagnostics.com/collections/lab-builder/products/comprehensive-metabolic-panel-cmp ($10)
+* https://requestatest.com/comprehensive-metabolic-panel-testing (LabCorp: $34; Quest Diagnostics: $34)
 
 This is a good test to get done regularly. However, the particular
 motivation for doing it just 6-7 months after the previous test is to
@@ -67,23 +76,24 @@ may make sense to get one.
 
 ### Omega-3: followup measurement to test the success of supplementation and dietary changes
 
-Test details: https://requestatest.com/omega-3-blood-test (LabCorp: $129; Quest Diagnostics: $129)
+Test details:
+
+* https://ownyourlabs.com/product/omega-check/ ($66)
+* https://marekdiagnostics.com/products/omega-check?_pos=1&_sid=072c542f9&_ss=r ($60)
+* https://requestatest.com/omega-3-blood-test (LabCorp: $129; Quest Diagnostics: $129)
 
 The goal is to see if the [supplement dosage increase started
 2024-09-25](../2024/2024/2024-09-25-decision-to-increase-omega-3-supplement-daily-dose.md) is working well.
 
 ## New tests
 
-### Magnesium-zinc-copper panel
-
-Test details: https://requestatest.com/mag-zinc-copper-panel-testing (LabCorp: $125; Quest Diagnostics: $125)
-
-My primary interest is in magnesium and zinc, but the other parts of
-the panel don't hurt.
-
 ### Creatine
 
-Test details: https://requestatest.com/creatine-blood-test (LabCorp: $39; Quest Diagnostics: $89)
+Test details:
+
+* https://ownyourlabs.com/product/creatine-kinase-total/ ($37.34)
+* https://marekdiagnostics.com/products/creatine-kinase-ck-total?_pos=1&_sid=4b311cf52&_ss=r ($6), https://marekdiagnostics.com/products/creatine-kinase-ck-total-isoenzymes?_pos=2&_sid=4b311cf52&_ss=r ($19)
+* https://requestatest.com/creatine-blood-test (LabCorp: $39; Quest Diagnostics: $89)
 
 I haven't been tested before for this (according to my records), but I
 did get a test for the related creatinine, where I was below the
