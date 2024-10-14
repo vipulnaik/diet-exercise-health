@@ -49,24 +49,14 @@ last updated September 22, 2024. I hope to update this section
 whenever there's a new incident or the status of an existing incident
 changes significantly.
 
-### Abdominal pain issues starting 2024-07-18
+### Abdominal discomfort issues starting October 8, 2024
 
-This is a mostly-resolved issue as of September 22, 2024, but
-resolution is not fully confirmed.
+See [here](../events/2024/2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md).
 
-The full document is
+A similar longer-running earlier incident is documented
 [here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md).
 
 Learnings from it have not yet been reflected in this health profile.
-
-### Anal swelling (likely due to anal fissure) starting 2024-09-20
-
-Starting 2024-09-20, I experienced anal swelling, that seems to be
-likely due to an anal fissure. This is likely related to the
-consumption of more spicy food than usual after a few months of
-abstaining from it (which in turn was related to the abdominal pain).
-
-The full document is [here](../events/2024/2024-09-20-anal-swelling.md).
 
 ## Vital signs
 
@@ -180,7 +170,9 @@ increase in muscle mass.
 
 I have a lean, athletic appearance. My waist size is at the "small"
 end, with shorts/trousers sizes of 28 and 30 generally working for me,
-and 32 being manageable with a tight belt. I do not have a paunch.
+with 28 being the most preferred (no belt needed), 30 needing a loose
+belt, and 32 being manageable with a tight belt. I do not have a
+paunch.
 
 ## Dental status
 
@@ -191,7 +183,7 @@ and 32 being manageable with a tight belt. I do not have a paunch.
   dental health. Look in the folder `events/<year>` for files with the
   word `dental-cleaning` in them to locate the most recent
   appointment. As of the last edit of this document,
-  [this](../events/2024/2024-04-03-dental-cleaning.md) is my most
+  [this](../events/2024/2024-10-09-dental-cleaning.md) is my most
   recent appointment.
 
 * All four of my wisdom teeth have been removed. The removal was done
