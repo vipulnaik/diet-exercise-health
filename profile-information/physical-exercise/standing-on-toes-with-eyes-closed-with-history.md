@@ -12,7 +12,7 @@ raises the stakes so as to get more bang per second of exercise.
 When I started standing-on-toes-with-eyes-closed on 2024-09-09, I set
 a threshold of 15 seconds. Even this threshold, I was not able to
 consistently clear on the first try, leading to me doing 3 or 5 tries
-on many days.
+on many days. As of 2024-10-14 the threshold is 18 seconds.
 
 I don't have standard benchmarks for this, but my guess is that if I
 can consistently do 30 seconds or more, I would start hitting
@@ -36,6 +36,11 @@ The process is as follows:
   of my feet and place it elsewhere; open my eyes and note the elapsed
   time.
 
-My initial goal is to have a median of at least 15 seconds over the
+My initial goal is to have a median of at least 18 seconds over the
 first 1, 3, 5, 7, or 9 tries (however many are needed).
 
+## History
+
+When I started on 2024-09-09, I set a threshold of 15 seconds.
+
+On 2024-10-14, I increased the threshold to 18 seconds.
