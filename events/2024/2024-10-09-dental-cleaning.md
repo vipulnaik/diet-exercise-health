@@ -311,3 +311,9 @@ I resumed consumption of walnuts on the morning of 2024-10-11, after
 the mouth bite re-inflammation had subsided, and things otherwise
 seemed normal. I did not notice any adverse effects of consuming
 walnuts in either meal on 2024-10-11.
+
+### Resumption of sauerkraut on the morning of 2024-10-13
+
+I resumed consumption of sauerkraut on the morning of 2024-10-13,
+since it seemed like everything was normal. I did not notice any
+adverse effects on the day of resumption.
