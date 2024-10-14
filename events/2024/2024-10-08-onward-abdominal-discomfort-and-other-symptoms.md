@@ -158,3 +158,12 @@ morning, a little before exercise, but it mostly subsided on its own,
 leaving only a little bit of unease in its wake. I continued taking
 two doses of Atrantil. My FoodMarble Aire 2 breath test score taken in
 the early afternoon showed low fermentation score values.
+
+## 2024-10-14
+
+I experienced the abdominal discomfort earlier in the morning (shortly
+after bowel movement) rather than toward the mid-to-late morning. In
+general it looks like there has been a shift in when the abdominal
+discomfort kicks in in the morning, toward earlier. The duration
+hasn't increased much, and it continues to be intermittent for a few
+hours before taking a rest.
