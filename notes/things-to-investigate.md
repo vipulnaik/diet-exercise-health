@@ -38,6 +38,11 @@ List last updated: 2024-10-14
   if changes since last test have paid off in measurements) may be
   worth doing sooner.
 
+* NMR lipoprofile: I want to get this done at some point; the question
+  is whether I should do this instead of a regular lipid panel as part
+  of my upcoming round or defer it to a later round. I need to do more
+  research and learning regarding NMR lipoprofile and its benefits.
+
 * Look into DEXA scans. For instance, whole-body scans by DEXA (see
   [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
   more specialized one? I likely only need one every 5 years or so if
