@@ -109,3 +109,11 @@ doing the 100 lb hand gripper with fewer fingers. Within a few days,
 it will hopefully become clear if stopping the 200 lb hand gripper
 allows for recovery. If necessary, I will also pause the 100 lb and
 150 lb hand grippers.
+
+### Related finding
+
+On 2024-10-15, I found a [Reddit
+post](https://www.reddit.com/r/GripTraining/comments/oje6wv/a_unique_perspective_on_improving_grip_strength/)
+and [linked YouTube
+video](https://www.youtube.com/watch?v=vxR3RQ0W-7M) that explains how
+the muscles at the base of the neck are important for grip strength.
