@@ -37,18 +37,19 @@ swimming, where this also helps.
 ### The right target threshold
 
 My current target threshold that I'm hoping to build toward is around
-65 to 80 seconds. Currently (as of 2024-09-22) my range is 45 to 72
-seconds, with most measures being 50 to 65 seconds. At the range of 65
-to 80 seconds, the corresponding effects on the downstream functional
-effects I care about will be strong enough that it won't really be a
-bottleneck any more.
+70 to 90 seconds. Currently (as of 2024-10-14) my range is 50 to 80
+seconds, with most measures being 55 to 70 seconds. Once I hit the
+range of 70 to 90 seconds, I'll feel satisfied and will probably not
+be pushing to improve (though I might experience continued
+improvement).
 
-## Current protocol and status as of 2024-09-22
+## Current protocol and status as of 2024-10-14
 
 I do two successive breath holds in the morning, with a gap of about a
-minute in between. Each breath hold generally lasts between 45 and 72
-seconds. My goal is that after the end of the breath hold, I may have
-a few loud nasal breaths but should not generally need a mouth breath.
+minute in between. Each breath hold generally lasts between 50 and 80
+seconds, with most breath holds lasting between 55 and 70 seconds. My
+goal is that after the end of the breath hold, I may have a few loud
+nasal breaths but should not generally need a mouth breath.
 
 Starting 2024-09-22, my plan is to do this on alternate days instead
 of every day, so that the other day I can work on [humming with
@@ -207,18 +208,13 @@ From this time onward, my plan is to do this practice on alternate
 days instead of daily, so that on the other alternate days I can do
 practice of [vocal note holds](vocal-note-holds-with-history.md).
 
-## 2024-10-08 update
+## 2024-10-08 update (edited 2024-10-14)
 
 My practice has mostly stayed the same as described in the 2024-05-16
 update. However, my average duration of breath hold has now increased
 a bit. Whereas previously it was about 45 to 72 seconds, my range is
-now around 53 to 80 seconds. However, my "control pause" doesn't feel
-like it has improved much, still being in the 30-40 second range. It
-seems like most of the improvement seems to be from being better able
-to continue the breath hold after I don't feel like continuing it,
-rather than an increase in the control pause itself. This also seems
-to be true for intra-day and intra-hold variation: the holds where I
-feel like giving up early can often be longer than the holds where I
-don't feel like giving up until a bit later. Basically, it feels like
-the control pause and max-pause are not very tightly coupled. However,
-this is a bit hard to quantify, so my impression may be mistaken.
+now around 50 to 80 seconds. My control pause feels like it's about
+half my max pause, which is roughly consistent with what the Buteyko
+subreddit says, so my control pause is likely around 25 to 40
+seconds. However, control pause is much harder to measure than max
+pause, which is why I am sticking with max pause measurement.
