@@ -1,4 +1,4 @@
-# Humming exercise with intermittent pauses (with history)
+# Humming with intermittent pauses (with history)
 
 See also [vocal note holds with history](vocal-note-holds-with-history.md).
 

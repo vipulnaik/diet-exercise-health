@@ -51,8 +51,9 @@ seconds. My goal is that after the end of the breath hold, I may have
 a few loud nasal breaths but should not generally need a mouth breath.
 
 Starting 2024-09-22, my plan is to do this on alternate days instead
-of every day, so that the other day I can work on [vocal note
-holds](vocal-note-holds-with-history.md).
+of every day, so that the other day I can work on [humming with
+intermittent
+pauses](humming-with-intermittent-pauses-with-history.md).
 
 ## 2023-07-30: initial exploration
 
