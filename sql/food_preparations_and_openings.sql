@@ -573,5 +573,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-13','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal; rate of consumption is expected to go down with the reintroduction of walnuts and sauerkraut */
   ('2024-10-13','TJ Roasted Seaweed',1), /* first meal; rate of consumption is expected to go down as I switch back to once per day, with the reintroduction of walnuts and sauerkraut */
   /* Rice prep 2024-10-14 (first meal) -- there was still some rice left from the previous prep, but for logistical reasons I wanted to cook rice in the morning instead of the evening */
-  ('2024-10-14','Lundberg Sustainable California White Basmati Rice',0.8);
+  ('2024-10-14','Lundberg Sustainable California White Basmati Rice',0.8),
+  /* Potatoes prep 2024-10-14 (second meal) */
+  /* Potatoes prep 2024-10-09 (second meal) */
+  ('2024-10-14','Gold potatoes 5 lb',0.43),
+  ('2024-10-14','TJ Kale',1),
+  ('2024-10-14','TJ English Shelled Peas',2),
+  ('2024-10-14','Beefsteak tomato',6);
   /* Double-check the date before committing */
