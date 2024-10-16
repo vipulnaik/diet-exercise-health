@@ -582,5 +582,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-15','TJ Walnuts',1), /* first meal */
   /* Lentils prep 2024-10-15 (overnight soaking to cook and eat the next day) */
-  ('2024-10-15','Wild Harvest Organic Lentils',0.5);
+  ('2024-10-15','Wild Harvest Organic Lentils',0.5),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-10-16','TJ Miso Ginger Broth',1);
   /* Double-check the date before committing */
