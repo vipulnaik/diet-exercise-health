@@ -294,7 +294,7 @@ relatively tight deadline to acquire the information in question.
 
   * Low: Mechanical work that basically involves following a template
 
-  * Medium: Work that largel involves following a process but has
+  * Medium: Work that largely involves following a process but has
     some small open-ended puzzles
 
   * High: Work where there isn't a clear-cut process to follow
