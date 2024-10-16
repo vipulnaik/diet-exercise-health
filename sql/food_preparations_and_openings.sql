@@ -534,7 +534,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-04','Red bell pepper',2),
   ('2024-10-04','Beefsteak tomato',6),
   /* Lentils prep 2024-10-05 (overnight soaking for consumption the next day) */
-  ('2024-10-05','TJ Green Lentils',0.45),
+  ('2024-10-05','Wild Harvest Organic Lentils',0.45),
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-06','TJ Turmeric',1), /* completing the lentils prep (first meal) */
   ('2024-10-06','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
@@ -568,14 +568,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-12','TJ Almond Milk',1),
   /* Lentils prep 2024-10-12 (overnight soaking to cook and eat the next day) */
-  ('2024-10-12','TJ Green Lentils',0.55),
+  ('2024-10-12','Wild Harvest Organic Lentils',0.55),
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-13','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal; rate of consumption is expected to go down with the reintroduction of walnuts and sauerkraut */
   ('2024-10-13','TJ Roasted Seaweed',1), /* first meal; rate of consumption is expected to go down as I switch back to once per day, with the reintroduction of walnuts and sauerkraut */
   /* Rice prep 2024-10-14 (first meal) -- there was still some rice left from the previous prep, but for logistical reasons I wanted to cook rice in the morning instead of the evening */
   ('2024-10-14','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Potatoes prep 2024-10-14 (second meal) */
-  /* Potatoes prep 2024-10-09 (second meal) */
   ('2024-10-14','Gold potatoes 5 lb',0.43),
   ('2024-10-14','TJ Kale',1),
   ('2024-10-14','TJ English Shelled Peas',2),
