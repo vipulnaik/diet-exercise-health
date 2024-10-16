@@ -167,3 +167,25 @@ general it looks like there has been a shift in when the abdominal
 discomfort kicks in in the morning, toward earlier. The duration
 hasn't increased much, and it continues to be intermittent for a few
 hours before taking a rest.
+
+## 2024-10-15
+
+I did experience some intermittent abdominal discomfort but I think it
+was less than before, and not much by way of flatulence.
+
+Exertion and impact: I did sequence mmemory test, hitting new highs
+(which also meant I ended up spending a lot of time because the higher
+the level the more the time spent, quadratically so). I engaged in
+more auditory stimulation (listening to music, having stuff on speaker
+while washing dishes). And I also made another quickly-aborted attempt
+with the 200 lb hand gripper. The level of exertion fell within the
+limits I've set at [best practices around exertion and
+stimulation](../best-practices/best-practices-around-exertion-and-stimulation.md)
+but in some respects it was quite daring despite staying within the
+limits.
+
+I did experience slightly more head/neck/shoulder pain a few hours
+*after* engaging in some of these actions. I tried a few neck
+exercises and massages which may have helped but not very clearly
+so. It's not clear how much the exertion versus the lack of recovery
+from the underlying issue were contributing.
