@@ -170,9 +170,9 @@ balance.
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
 
-As of September 2024, my aim is to be able to manage at least 32
+As of October 2024, my aim is to be able to manage at least 34
 seconds on each leg, with adjustments for colder indoor
-temperatures. In practice, I generally do somewhere between 32 and 50
+temperatures. In practice, I generally do somewhere between 36 and 54
 seconds on each leg.
 
 See
