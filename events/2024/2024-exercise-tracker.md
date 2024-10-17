@@ -866,3 +866,12 @@ standing on one leg, standing on toes).
 
 On 2024-10-09, I skipped all exercise for my [dental cleaning
 appointment](2024-10-09-dental-cleaning.md).
+
+## 2024-10-16: skipping of most exercises due to lengthy conversation
+
+On 2024-10-16, I skipped most exercises due to a lengthy conversation
+with work colleagues. The only exercise I did was the hand gripper
+exercise.
+
+Some related information is
+[here](2024-10-16-extended-conversation-and-delay-in-meal.md).
