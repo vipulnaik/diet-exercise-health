@@ -7,10 +7,12 @@
 - Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (60 to 80 inches)
   - [ ] Both eyes
   - [ ] Left eye only
+  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
   - [ ] Right eye only
 - Functional medium distance vision test: Try to read the FineDine and Craftsman packages at a distance of about 6 feet (basically, read them seated); start at a slight angle and then work my way to straight reading
   - [ ] Both eyes
   - [ ] Left eye only
+  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
   - [ ] Right eye only
 - Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
   - [ ] Both eyes
