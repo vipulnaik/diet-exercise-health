@@ -584,5 +584,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep 2024-10-15 (overnight soaking to cook and eat the next day) */
   ('2024-10-15','Wild Harvest Organic Lentils',0.5),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-10-16','TJ Miso Ginger Broth',1);
+  ('2024-10-16','TJ Miso Ginger Broth',1), /* first meal */
+  ('2024-10-16','Kite Hill Greek Style Plant-Based Yogurt',1); /* second meal */
   /* Double-check the date before committing */
