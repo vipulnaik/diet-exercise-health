@@ -4,7 +4,7 @@
   - [ ] Both eyes at 25% magnification (threshold of 70 wpm on at least one of three attempts)
   - [ ] Left eye only (right eye closed) at 75% magnification (threshold of 80 wpm on at least one of three attempts)
   - [ ] Right eye only (left eye closed) at 75% magnification
-- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (60 to 80 inches)
+- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (40 to 60 inches)
   - [ ] Both eyes
   - [ ] Left eye only
   - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
