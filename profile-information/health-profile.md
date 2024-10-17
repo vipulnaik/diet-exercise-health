@@ -867,7 +867,7 @@ I started hand gripper exercises in July 2023; see
 [here](physical-exercise/hand-gripper-exercise-with-history.md) for
 the progression.
 
-ISee
+See
 [here](physical-exercise/standing-on-one-leg-with-eyes-closed-with-history.md)
 for the progression of my standing-on-one-leg-with-eyes-closed
 exercises; these started likely November 2021 or earlier, and I've
