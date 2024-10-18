@@ -2,7 +2,7 @@
 
 Last major update: July 12, 2024
 
-Last pass of full document review (with updates and corrections where needed): July 12, 2024
+Last pass of full document review (with updates and corrections where needed): October 17, 2024
 
 This is the health profile for Vipul Naik. It is updated
 periodically. It does not include details of specific
@@ -231,8 +231,12 @@ paunch.
   hour) can cause me to get fatigued. I have adjusted to this by
   getting sunglasses for outdoor trips, using dark mode and low-light
   settings for my electronics use, and keeping the lights off in the
-  evening / at night most of the time. The photosensitivity started
-  along with my [Decemer 2018 head/neck/jaw/tooth
+  evening / at night most of the time. For more on the practices I
+  follow (or try to follow), see [best practices around
+  light](../best-practices/best-practices-around-light.md).
+
+  The photosensitivity started along with my [Decemer 2018
+  head/neck/jaw/tooth
   pain](../events/2018/2018-12-head-neck-jaw-tooth-pain.md).
 
 ## Physical exam
@@ -246,11 +250,12 @@ for more context.
 On 2024-04-30, I had an abdominal exam and vitals measurements as part
 of my [urgent care visit](../events/2024/2024-04-30-urgent-care-visit-and-tests.md).
 
-Starting May 2024, I plan to do monthly physical self-exams that
+Starting May 2024, I have been doing monthly physical self-exams that
 include blood pressure measurement, auscultation of the abdomen and
-heart sound,s and palpation of the abdomen. I will take notes and
-investigate further if I notice anything unusual. My most recent
-physical self-exam was split between 2024-06-15 and 2024-06-23.
+heart sound,s and palpation of the abdomen. I take notes and
+investigate further if I notice anything unusual. As of October 2024,
+my most recent blood pressure measurement was on 2024-10-13 and my
+most recent palpation check and stethoscope check were on 2024-09-28.
 
 ## HbA1c, lipid profile, insulin, and liver function tests
 
@@ -295,19 +300,29 @@ only slightly below the upper limit of 200 in the last test in
 2021. However, in 2024, it dropped a little bit from the 2021 level,
 getting to 177. This is a step in the positive direction.
 
-#### Cholesterol HDL (acceptable range: 30-60 mg/dL, some sources say >= 40 mg/dL)
+#### HDL cholesterol (acceptable range: 30-60 mg/dL, some sources say >= 40 mg/dL)
 
 My first cholesterol HDL reading, done 2004, showed a result of 28,
 below the acceptable range. Since then, my HDL has been generally
 increasing. The last two readings (2021 and 2024) were both at 46,
 which are within the range.
 
-#### Cholesterol LDL (acceptable range: 0-100 mg/dL)
+#### LDL cholesterol (acceptable range: 0-100 mg/dL)
 
-My LDL measurements have always hovered around the threshold, with the
-very first reading in April 2004 being 99, just below the threshold of
-100. My last two measurements, in June 2021 and September 2024, both
-were above the threshold, at 122 and 112 respectively.
+My LDL cholesterol measurements have always hovered around the
+threshold, with the very first reading in April 2004 being 99, just
+below the threshold of 100. My last two measurements, in June 2021 and
+September 2024, both were above the threshold, at 122 and 112
+respectively.
+
+As of October 2024, I plan to do more frequent monitoring of this, and
+have also taken various actions that I am hoping will help reduce my
+LDL cholesterol over time. I plan to get tested for a wider range of
+related metrics, including getting a NMR lipoprofile at least once and
+getting Apo B measurements regularly, as these offer a better proxy of
+atherosclerotic risk than LDL cholesterol. See [2025 blood test
+plans](../events/2025/2025-blood-test-plans.md) for some of my future
+plans on this front.
 
 #### Serum triglycerides (acceptable range: 0-150 mg/dL)
 
@@ -326,10 +341,11 @@ resistance at this stage.
 ## Infectious diseases and vaccines
 
 See [vaccine_administrations.sql](../sql/vaccine_administrations.sql)
-for a full list of vaccine administrations. For some vaccine
-administrations, I also have an individual notes file about the
-vaccine administration; the notes file is linked from the notes column
-of the SQL.
+for a full list of vaccine administrations I received starting
+December 2014 (I also have a record of childhood vaccinations in a
+private repository). For some vaccine administrations, I also have an
+individual notes file about the vaccine administration; the notes file
+is linked from the notes column of the SQL.
 
 ### COVID-19
 
@@ -374,11 +390,17 @@ most recent administration was in [October
 In general, I have not had significant reactions to the flu shot. The
 main symptom has been slight soreness in the area of administration
 for the next day. For my [October 2023 flu
-shot](../events/2023/2023-10-13-flu-shot.md), the soreness continued in a relatively
-mild form for about a week, and might have been causal in some
-stiffness in the neck and shoulder as well. I believe this was due to
-an interaction with hand gripper exercises, that I [started doing in
-July 2023](../events/2023/2023-07-29-hand-gripper-exercise.md).
+shot](../events/2023/2023-10-13-flu-shot.md), the soreness continued
+in a relatively mild form for about a week, and might have been causal
+in some stiffness in the neck and shoulder as well. I believe this was
+due to an interaction with hand gripper exercises, that I [started
+doing in July
+2023](../events/2023/2023-07-29-hand-gripper-exercise.md). Since then,
+I have implemented [best practices around vaccine
+appointments](../best-practices/best-practices-around-vaccine-appointments.md)
+that include stopping strength exercises and hand gripper exercises a
+few days prior to the vaccine and resuming them a few days after the
+vaccine.
 
 ### Tdap (whooping cough)
 
@@ -527,11 +549,11 @@ helped change the way I use and think about BART.
 The switch to part-time work in March 2023 has led me to switch
 further in the direction of walking. Specifically, it's changed the
 distance threshold at which I decide to use BART instead of
-walking. When time was scarcer, I would tend to use BART at distances
-of 30 minutes or more; now the threshold is about 45 minutes and in
-some cases even higher. In particular, in practice pretty much
+walking. When time was scarcer, I would tend to use BART at walking
+distances of 30 minutes or more; now the threshold is about 45 minutes
+and in some cases even higher. In particular, in practice pretty much
 anything that can be done in Berkeley or in areas bordering Berkeley
-(such as North Oakland or Emeryville) I would do by walking.
+(such as North Oakland, Albany, or Emeryville) I would do by walking.
 
 ### Low-stress job
 
@@ -677,9 +699,12 @@ Here are some highlights of my current diet:
   something milk-based, such as a *raita*, if it comes as part of a
   dish I otherwise want to have.
 
-* I occasionally do shallow nutrient reviews such as the one in
-  [2021-04-11](../events/2021/2021-04-11-shallow-nutrient-review.md), and may make
-  diet adjustments based on that.
+* As part of the data entry of foods I have prepared and opened, I run
+  the verification queries alluded to above. These queries flag
+  significant deviations from my nutrient targets as well as
+  consumption of specific foods that goes outside the expected
+  bounds. I plan to continue refining and updating the verification
+  queries to provide ongoing monitoring of my consumption patterns.
 
 * The proportion of my food I eat that is restaurant takeout or
   equivalent (prepped meals) is, as of mid-2024, very small -- about
@@ -710,12 +735,12 @@ Here are some highlights of my current diet:
 
   * I try to take all my supplements with the first meal.
 
-  * I try to take sauerkraut only with the first meal (the goal is to
-    limit it to one meal, and doing it on the first meal is
-    easier). For the second meal, I might occasionally do something
-    with overlaps with sauerkraut, such as red chutney (also
-    sore-throat-inducing) or vegan probiotic yogurt (overlaps on the
-    probiotic front).
+  * I try to take sauerkraut or kimchi only with the first meal (the
+    goal is to limit it to one meal, and doing it on the first meal is
+    easier).
+
+  * I take seaweed with my second meal, i.e., the meal where I'm not
+    taking sauerkraut.
 
 ## Supplements
 
@@ -835,7 +860,7 @@ cleanings include breaks from exercise of varying durations. The
 magnitude of the break depends on the kind of activity. For instance,
 for dental cleanings, I only break on the day of. On the other hand,
 for blood tests, I break briefly from jogging for the prior day and
-day of , whereas for vaccines, I break briefly from jogging for the
+day of, whereas for vaccines, I break briefly from jogging for the
 day of and next two days. Breaks from strength exercises are longer
 for vaccines and blood tests due to their impact on arm strength. See
 the [best-practices folder](../best-practices/) for more details.
@@ -1038,6 +1063,6 @@ being successful.
 
 My skin is on the dry side of the spectrum, so particularly in colder
 climates, it can get cuts if not adequately cared for. I generally
-apply vaseline lotion to my hands and legs daily, and may do
-additional rounds of application during cold weather. With moderate
-care, I don't have any noticeable skin issues.
+apply vaseline lotion to my legs daily and to my hands (just the
+hands, not the forearms) several times a day. With moderate care, I don't
+have any noticeable skin issues.
