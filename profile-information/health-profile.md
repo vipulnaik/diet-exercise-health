@@ -857,7 +857,7 @@ Some of the changes I've made based on these:
 
   * [Best practices around abdominal discomfort](../best-practices/best-practices-around-abdominal-discomfort.md)
 
-  * [Best practices around bowel disruption due to sleep and stress](../best-pratices/best-practices-around-bowel-disruption-due-to-sleep-and-stress.md)
+  * [Best practices around bowel disruption due to sleep and stress](../best-practices/best-practices-around-bowel-disruption-due-to-sleep-and-stress.md)
 
   * [Best practices around intense and hard food consumption](../best-practices/best-practices-around-intense-and-hard-food-consumption.md)
 
