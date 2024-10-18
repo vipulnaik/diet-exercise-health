@@ -43,7 +43,7 @@ List last updated: 2024-10-17
   of my upcoming round or defer it to a later round. I need to do more
   research and learning regarding NMR lipoprofile and its benefits.
 
-* Look into DEXA scans. For instance, whole-body scans by DEXA (see
+* Look into DEXA scans. For instance, whole-body scans by BodySpec (see
   [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
   more specialized one? I likely only need one every 5 years or so if
   it comes out okay.
