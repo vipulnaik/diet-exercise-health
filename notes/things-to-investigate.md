@@ -1,6 +1,6 @@
 # Things to investigate
 
-List last updated: 2024-10-14
+List last updated: 2024-10-17
 
 ## Supplements
 
@@ -47,6 +47,10 @@ List last updated: 2024-10-14
   [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
   more specialized one? I likely only need one every 5 years or so if
   it comes out okay.
+
+## Data analysis
+
+* Take a fresh look at my 23andme data
 
 ## Procedures
 
