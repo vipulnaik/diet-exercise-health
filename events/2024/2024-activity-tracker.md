@@ -486,3 +486,10 @@ In the afternoon, I made a trip to Citibank for financial transactions
 (getting quarters for use in laundry). I then went to Trader Joe's for
 food purchases recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Friday October 18
+
+In the afternoon, I went to Walgreens to try to buy a 10 lb dumb bell,
+but the dumb bell was not in stock. I then went to Berkeley Bowl for
+food purchases recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).
