@@ -5,6 +5,11 @@ when feeling unwell. For the various checks, simple subjective
 versions are included for the cases where I lack the energy or
 resource access to do formal measurements.
 
+See also the files in the [best practices](../best-practices/) folder,
+that discuss best practices around prevention and amelioration of
+specific issues. Some of the files are linked from specific
+subsections.
+
 ## Basic measurements
 
 ### Temperature (and fever)
@@ -148,6 +153,50 @@ breathing changes the breathing pattern. Note the following down:
 
 * Use of the mouth for breathing.
 
+### Oxygen saturation level (SpO2) measured using pulse oximeter
+
+The pulse oximeter, in addition to measuring heart rate, also measures
+SpO2, the saturation percentage of oxygen. These are the concerning ranges:
+
+* If the minimum measured SpO2 over a period of a minute or more is
+  less than 92%, outside of contexts of extended breath holds or very
+  high peak intensity exercise, that is indicative of problems.
+
+* If the maximum measured SpO2 over a period of a minute or more is
+  less than 96%, outside of contexts of extended breath holds or very
+  high peak intensity exercise, that might be indicative of
+  problems. Monitor again for a few minutes or check again within the
+  next hour. If the maximum stays consistently below 96%, flag for
+  further investigation.
+
+A low value SpO2 means that the blood is not rich enough in oxygen;
+the technical name of this condition is hypoxemia, and the consequence
+of it is hypoxia (which in turn means that the tissues aren't getting
+enough oxygen). Outside of contexts of exercise and breath holds, a
+minimum SpO2 below 92% or maximum SpO2 persistently being below 96% is
+suggestive of hypoxemia.
+
+There are many potential reasons for hypoxemia, but they all involve
+the steps leading from the nose (for breathing in) to the exchange of
+oxygen between the lungs and pulmonary circulation (known as "external
+respiration"). In particular, nasal blockages that result in
+insufficient oxygen can be one cause, so that clearing the nose may
+solve the problem.
+
+Various lung conditions (many of which overlap with each other), such
+as emphysema, pulmonary edema, pneumonia, COPD, bronchitis,
+pneumothorax, etc. can cause hypoxemia. It is, however, extremely
+unlikely that I would suddenly develop one of these conditions; in
+practice the pathway is likely to be something like an infection (such
+as COVID or the flu) leading to pneumonia.
+
+If I am otherwise feeling well and the SpO2 level is still above 88%,
+walk to urgent care immediately and to the emergency room
+otherwise. Take the pulse oximeter with me so that I can continue to
+monitor while waiting. If I am not feeling well, or the level is below
+88%, take a rideshare to the emergency room if I can manage it,
+otherwise call for an ambulance.
+
 ## Cognitive status and related aspects
 
 ### Typing as a test of cognitive alertness and coordination
@@ -156,7 +205,7 @@ The [Human Benchmark typing
 test](https://humanbenchmark.com/tests/typing) is a test of cognitive
 alertness and coordination. If I score below 70 wpm on each of 1-3
 consecutive tries (however many I can afford stamina-wise), compared
-to my usual range of 80-100 wpm, suggests that I have issues affecting
+to my usual range of 90-110 wpm, suggests that I have issues affecting
 some mix of my cognition and my motor coordination.
 
 If I am not able to hit that 70 wpm, that's generally an indicator of
@@ -177,33 +226,31 @@ levels are low, because it requires less moving around.
 
 For verbal memory, scoring below 50 on each of 1-3 consecutive tries
 (however many I can afford stamina-wise) is indicative of degraded
-cognitive performance. For sequence memory, scoring below 10 (compared
-to my usual range of 12-23) on 1-3 consecutive tries (however many I
-can afford stamina-wise) id indicative of degraded cognitive
-performance.
+cognitive performance. For sequence memory, scoring below 10 on each
+of 1-3 consecutive tries (however many I can afford stamina-wise) id
+indicative of degraded cognitive performance.
+
+For more background information on my current practice and typical averages, see:
+
+* [Human Benchmark verbal memory exercise with history](human-benchmark-verbal-memory-exercise-with-history.md)
+* [Human Benchmark sequence memory exercise with history](human-benchmark-sequence-memory-exercise-with-history.md)
 
 NOTE: Scoring above the thresholds might still reflect some cognitive
 degradation, but it's more ambiguous and I should use other pieces of
-information. The thresholds I've selected are ones where I should just
-automatically assume I am cognitively degraded, without having to
-expend brainpower into the determination.
+information. Often, scoring above the thresholds but still below my
+average might be indicative of things like fatigue or impatience
+rather than reflecting cognitive degradation per se. While that's
+still useful information, it probably doesn't mean that I need to stay
+away from cognitive work entirely due to the risk.
 
 ## Abdominal signs
 
-### LEGIT: Excessive burping and flatulence
+See also:
 
-If I have a lot of burping and/or flatulence, and this doesn't go away
-on drinking water, there is likely an issue such as excess stomach
-acid production (hypergastrinemia, usually due to gastritis) and GERD
-(gastroesophageal reflux). This confirms that the pain or discomfort I
-am feeling has a functional basis, and is not purely neuromuscular.
+* [Best practices around abdominal discomfort](../best-practices/best-practices-around-abdominal-discomfort.md)
+* [Best practices around bowel disruption due to sleep and stress](../best-practices/best-practices-around-bowel-disruption-due-to-sleep-and-stress.md)
 
-This should be considered serious only if it's leading to symptoms
-such as hearburn, sore throat, coughing, etc. However, even if it's
-not leading to these, it should still be documented and eventually
-tackled.
-
-### SERIOUS: Visible bloating
+### SERIOUS: Visible bloating (abdominal distension)
 
 Check for visible bloating (visible to the naked eye). Compare to my
 usual self and look at images on the Internet.
@@ -226,6 +273,12 @@ for pain that gets me to keep trying to shift position, and note if
 there are specific positions where the pain is lower.
 
 ## Mood and fatigue
+
+See also [best practices around exertion and
+stimulation](../best-practices/best-practices-around-exertion-and-stimulation.md). If
+I follow these well, I am very unlikely to naturally have a level of
+fatigue of the sort described below, outside of things downstream of
+an infection or acute physical event.
 
 ### Overload from simple tasks
 
