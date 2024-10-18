@@ -189,3 +189,26 @@ I did experience slightly more head/neck/shoulder pain a few hours
 exercises and massages which may have helped but not very clearly
 so. It's not clear how much the exertion versus the lack of recovery
 from the underlying issue were contributing.
+
+## 2024-10-16
+
+I had a 4.5-hour-long conversation with work colleagues about non-work
+topics. See
+[here](2024-10-16-extended-conversation-and-delay-in-meal.md) for more
+details. I was able to get a degree of sympathetic activation for the
+conversation and had no abdominal discomfort during it, though I did
+have intermittent abdominal discomfort later in the day.
+
+## 2024-10-17
+
+The day was fairly normal. I had brief intermittent discomfort around noon,
+shortly before eating. I also had a bit more flatulence than usual,
+but it was not unpleasant.
+
+Apart from the intermittent discomfort, the main thing I find unusual
+nowadays is the greater feeling of fullness/heaviness after meals
+(generally lasting about 30-60 minutes). Prior to the [first iteration
+of problems on 2024-04-25](2024-04-25-abdominal-pain.md), this kind of
+feeling was very unusual, happening only occasionally. I don't know
+the extent to which this is explained by general dietary changes over
+time, and how much it's related to the abdominal discomfort.
