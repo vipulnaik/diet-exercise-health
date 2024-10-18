@@ -779,7 +779,7 @@ regularly. Disruptions have been as follows:
   movement every day, I had cases where I felt bowel pressure later in
   the day and went for additional bowel movements, most of them
   successful. See
-  [here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md#second-bowel-movement)
+  [here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md#bowel-movement-cycle)
   for more details.
 
 * Travel-related disruptions: My digestive cycle takes about 2-3 days
