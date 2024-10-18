@@ -14,6 +14,8 @@ production. However, there could be other causes.
 
 ### Avoid multiple overexertion factors
 
+See also [best practces around exertion and stimulation](best-practices-around-exertion-and-stimulation.md).
+
 The following are some overexertion factors that can have weird
 dysregulatory effects, even outside of their direct effect on bowel
 movements:

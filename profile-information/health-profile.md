@@ -34,6 +34,7 @@ Sections of this document:
 * [Injuries](#injuries)
 * [Lifestyle](#lifestyle)
 * [Diet](#diet)
+* [Digestive cycle](#digestive-cycle)
 * [Supplements](#supplements)
 * [Physical exercise](#physical-exercise)
 * [Cognitive exercise](#cognitive-exercise)
@@ -742,6 +743,153 @@ Here are some highlights of my current diet:
   * I take seaweed with my second meal, i.e., the meal where I'm not
     taking sauerkraut.
 
+## Digestive cycle
+
+### Bowel movement cycle
+
+I have daily morning bowel movements. Generally, after I wake up and
+urinate, I spend about 10-15 minutes on the computer catching up on my
+morning checklist, allowing the pressure to build up, then I have a
+bowel movement.
+
+Occasionally I have an additional bowel movement later in the day, or
+am unable to have a bowel movement in the morning. These cases are
+very unusual. The frequency of such incidents is generally less than
+one per month under normal conditions.
+
+I've basically adhered to this bowel movement cycle pretty
+regularly. Disruptions have been as follows:
+
+* After the consumption of clindamycin after the [2023-07-05 wisdom
+  tooth removal (left
+  side)](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md), one of the
+  side-effects was diarrhea; there was digestive cycle disruption for
+  a few weeks even as the diarrhea subsided.
+
+* The [2024-04-25
+  incident](../events/2024/2024-04-25-abdominal-pain.md) was a case of
+  severe abdominal pain accompanying constipation-like symptoms,
+  though I still did have a bowel movement everyday -- just a
+  smaller-than-usual one on 2024-04-25 and 2024-04-26. My bowel
+  movement cycle returned to normal on 2024-04-27.
+
+* As part of the [2024-07-18 onward
+  incident](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md),
+  for a period of about a month, despite having regular morning bowel
+  movement every day, I had cases where I felt bowel pressure later in
+  the day and went for additional bowel movements, most of them
+  successful. See
+  [here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md#second-bowel-movement)
+  for more details.
+
+* Travel-related disruptions: My digestive cycle takes about 2-3 days
+  to return to normal after travel that results in timezone change. I
+  still have a bowel movement within every 48 hours, but the timing
+  may be off. However, short travel within the same timezone is
+  generally not disruptive (such as travel from the San Francisco Bay
+  Area to Portland or Bengaluru to Chennai).
+
+* Disruptions due to waking up early for something: On 2024-04-21, I
+  used an alarm to wake up about 2 hours prior to my normal waking-up
+  time, and was unable to have a bowel movement that day. This might
+  have been one of the causal factors for the 2024-04-25 abdominal
+  pain alluded to above.
+
+* Bowel movement after intense food consumption: On 2024-03-27, I ate
+  with work colleagues at Tay Ho Restaurant in Oakland. A combination
+  of urine suppression and the spicy food that I'm not used to having,
+  led to me having a bowel movement when I got back home. This kind of
+  incident is rare.
+
+### Abdominal discomfort
+
+In 2023, I had diarrhea and basically a digestive reset of sorts as a
+result of clindamycin consumption; see my [2023-07-05 wisdom tooth
+removal (left
+side)](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md)
+for details. As far as I can make out, I recovered in a few weeks.
+
+In 2024, I have had more mysterious cases of abdominal discomfort,
+that might have related causes. I've documented these incidents to
+varying degrees of detail. The three main clusters of events are as
+follows:
+
+* [2024-04-25 abdominal pain](../events/2024/2024-04-25-abdominal-pain.md): This was
+  characterized by severe pain and led to an urgent care trip and
+  bloodwork. However, most of the recovery was quick.
+
+* [2024-07-18 excessive morning activity and abdominal pain in the
+  afternoon](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md);
+  This had less of an acute/severe manifestation but did continue for
+  longer. It included abdominal discomfort, flatulence, bloating and
+  cramping sensations (no visible distension), and symptoms in the
+  vicinty of constipation despite regular daily bowel movements. This
+  led me to do a lot of research into potential causes. I also took a
+  number of steps including temporary FODMAP restriction (eventually
+  reversed after I felt better). Potential causes are described in the
+  document.
+
+* [2024-10-08 onward abdominal discomfort and other
+  symptoms](../events/2024/2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md):
+  As of the last edit of this document, this is the latest iteration
+  of the issue. It's milder than previous iterations and I have not
+  needed to make temporary adjustments to diet and exercise.
+
+Some of the changes I've made based on these:
+
+* I purchased a FoodMarble Aire 2 and take regular fermentation score
+  readings. See [here](../sql/foodmarble_aire_2_breath_tests.sql). At
+  least after the purchase, I have not seen consistent issues with
+  hydrogen and methane fermentation levels, which has given me more
+  confidence that at least as of now, I am unlikely to be experiencing
+  small intestinal bacterial overgrowth (SIBO) or intestinal
+  methanogen overgrowth (IMO). (This still leaves open the possibility
+  that I did experience IMO in past incidents).
+
+* I purchased and experimented with Atrantil; see
+  [here](../events/2024/2024-10-02-atrantil-purchase.md). This is
+  generally good for digestive health, and is particularly helps if I
+  get IMO (or something in the direction of it).
+
+* I built and refined best practices in a number of areas:
+
+  Documents directly related to food, digestive cycle, and abdominal discomfort:
+
+  * [Best practices around abdominal discomfort](../best-practices/best-practices-around-abdominal-discomfort.md)
+
+  * [Best practices around bowel disruption due to sleep and stress](../best-pratices/best-practices-around-bowel-disruption-due-to-sleep-and-stress.md)
+
+  * [Best practices around intense and hard food consumption](../best-practices/best-practices-around-intense-and-hard-food-consumption.md)
+
+  Best practices in other areas that were likely contributors:
+
+  * [Best practices around
+    sleep](../best-practices/best-practices-around-sleep.md) since I
+    suspect that sleep cycle disruption was a contributing factor in
+    the 2024-04-25 and 2024-10-08 cases (though not in itself very
+    severe).
+
+  * [Best practices around exertion and
+    stimulation](../best-practices/best-practices-around-exertion-and-stimulation.md)
+    since I think overexertion has been a contributor to all three
+    incidents (and has effects beyond digestive cycle disruption).
+
+### Fermentation scores using the FoodMarble Aire 2
+
+Starting around early September 2024, I have been regularly recording
+my hydrogen and methane fermentation scores using the FoodMarble Aire
+2. The scores can be found
+[here](../sql/foodmarble_aire_2_breath_tests.sql). Although the levels
+in most cases seems way below the levels that would indicate an
+overgrowth, I find it valuable to continue monitoring so as to be able
+to detect an overgrowth before it takes effect. I also suspect that my
+2024-07-18 incident might have been related to methanogen overgrowth;
+I just didn't have the device at the time to measure my methane
+fermentation.
+
+For more on the purchase decision for the FoodMarble Aire 2, see
+[here](../events/2024/2024-08-21-foodmarble-aire-2-purchase-decision-process.md).
+
 ## Supplements
 
 You can get my supplement consumption history from
@@ -949,15 +1097,8 @@ conclusive information). In any case, my sleep issues resolved
 themselves over time. As of 2024, I don't have any ongoing sleep
 issues (such as difficulty falling asleep, highly restless sleep,
 etc.)
- 
+
 ## Other routine elements
-
-### Bowel movements
-
-I have daily morning bowel movements. Generally, after I wake up and
-urinate, I spend about 10-15 minutes on the computer catching up on my
-morning checklist, allowing the pressure to build up, then I have a
-bowel movement.
 
 ### Dental routine
 
