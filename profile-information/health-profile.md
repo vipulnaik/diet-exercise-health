@@ -585,7 +585,7 @@ I have never smoked or used other nicotine-based products.
 
 I have not been exposed to any significant amount of secondhand or
 thirdhand smoke. I haven't been indoors with somebody smoking for the
-past several years as of 2023, and have only briefly passed by or
+past several years as of 2024, and have only briefly passed by or
 trailed people smoking outdoors occasionally.
 
 #### Alcohol
