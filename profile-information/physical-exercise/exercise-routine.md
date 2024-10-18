@@ -2,7 +2,8 @@
 
 Last major update: September 23, 2023
 
-Last pass of full document review (with updates and corrections where needed): May 17, 2024
+Last pass of full document review (with updates and corrections where
+needed): October 17, 2024
 
 This document describes my exercise routine. I intend to update it
 when there are changes to my ongoing routine. See also my yearly
