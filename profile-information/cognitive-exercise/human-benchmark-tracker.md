@@ -1,4 +1,4 @@
-# Human bemchmark tracker
+# Human benchmark tracker
 
 This document is for notes on my performance on [human benchmark
 tests](https://humanbenchmark.com/). I don't record all scores, just
