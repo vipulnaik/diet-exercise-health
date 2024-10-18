@@ -35,7 +35,8 @@ Sections of this document:
 * [Lifestyle](#lifestyle)
 * [Diet](#diet)
 * [Supplements](#supplements)
-* [Exercise](#exercise)
+* [Physical exercise](#physical-exercise)
+* [Cognitive exercise](#cognitive-exercise)
 * [Sleep](#sleep)
 * [Other routine elements](#other-routine-elements)
 * [Medications](#medications)
@@ -814,7 +815,7 @@ meals](../events/2021/2021-08-28-sore-throat-after-meals.md). I haven't bought
 anything similar since then, since I haven't had similar inflammation
 issues.
 
-## Exercise
+## Physical exercise
 
 When feeling well, I do running/jogging almost-daily, strength
 exercises about 3 times a week, and various balance/flexibility
@@ -877,6 +878,17 @@ I also started looking into Buteyko breathing in July 2023; eventually
 this led me to start doing breath holds regularly; see
 [here](physical-exercise/breath-holds-with-history.md) for some
 background information.
+
+## Cognitive exercise
+
+In 2024, I started putting together a cognitive exercise regimen. The
+exercises I am doing are mostly from [Human
+Benchmark](https://humanbenchmark.com/). As of October 2024, some of
+the exercises have clearly defined frequencies and goals, while others
+are still experimental.
+
+See [exercise-routine.md](../cognitive-exercise/exercise-routine.md)
+for more details.
 
 ## Sleep
 

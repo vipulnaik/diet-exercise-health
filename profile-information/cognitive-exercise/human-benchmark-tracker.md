@@ -1,8 +1,13 @@
-# Human benchmark tracker
+# Human Benchmark tracker
 
 This document is for notes on my performance on [human benchmark
 tests](https://humanbenchmark.com/). I don't record all scores, just
 summaries of my recent and cumulative trends periodically.
+
+The following exercises have their own pages and have been removed from this summary. Eventually all exercises should have their own page:
+
+* [Sequence memory](human-bechmark-sequence-memory-exercise-with-history.md)
+* [Verbal memory](human-benchmark-verbal-memory-exercise-with-history.md)
 
 ## 2024-05-16
 
