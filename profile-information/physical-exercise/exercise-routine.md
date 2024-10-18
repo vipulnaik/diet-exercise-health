@@ -63,12 +63,12 @@ exercises. The frequency of the recover exercise should be similar to
 that of the build exercise. Their relative timing may depend on the
 specifics of what's being exercised.
 
-Functional relevance: generally, the goal of a build exercise is
-generally to make me more capable of handling specific real-world
-situations better; this could be a mix of situations that occur
-regularly and exceptional situations. The claim here is that building
-further beyond a certain level will be helpful to the execution of
-those real-world tasks.
+Functional relevance: generally, the goal of a build exercise is to
+make me more capable of handling specific real-world situations
+better; this could be a mix of situations that occur regularly and
+exceptional situations. The claim here is that building further beyond
+a certain level will be helpful to the execution of those real-world
+tasks.
 
 ### Maintain (frequency should be between daily and once a week)
 
