@@ -45,9 +45,11 @@ around fasting as much as possible.
   eating, to make sure my throat was not too dry before I started
   eating. I started that first meal at 2:39 PM.
 
-* I skipped sauerkraut and walnuts -- the more intense and hard foods
-  for the mouth and throat -- in the first meal I had after the
-  conversation.
+* In the first meal, I added more liberal quantities of yogurt to
+  provide a more soft, smooth, and cold touch to the food.
 
-* I added more liberal quantities of yogurt to provide a more soft,
-  smooth, and cold touch to the food.
+* I skipped sauerkraut and walnuts on 2024-10-16 and 2024-10-17 in
+  line with best practices. I resumed walnuts on
+  2024-10-18. Technically the resumption was about 47 hours after the
+  talking, compared to guidance to wait at least 48 hours, but it was
+  close enough in spirit.
