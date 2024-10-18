@@ -214,7 +214,7 @@ Goal of exercise: build, though the current level is a respectable one
 to maintain
 
 I generally do two breath holds in quick succession, both max-pause
-breath holds, generally for 45 to 72 seconds. See
+breath holds, generally for 50 to 80 seconds. See
 [breath-holds-with-history.md](breath-holds-with-history.md) for
 more background information.
 
