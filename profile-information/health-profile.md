@@ -46,9 +46,9 @@ Sections of this document:
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated September 22, 2024. I hope to update this section
-whenever there's a new incident or the status of an existing incident
-changes significantly.
+last updated October 14, 2024. I hope to update this section whenever
+there's a new incident or the status of an existing incident changes
+significantly.
 
 ### Abdominal discomfort issues starting October 8, 2024
 
