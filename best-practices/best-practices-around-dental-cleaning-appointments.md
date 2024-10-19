@@ -80,9 +80,10 @@ shopped for ahead of the appointment if possible.
 
 ### Reminder to pause consumption of sauerkraut, walnuts, lemons, and spicy foods
 
-* Reminder for two weeks prior to the appointment to pause consumption
-  of any very intense / spicy foods that I don't usually consume every
-  week.
+* Reminder for two weeks prior to the appointment to stop using
+  cayenne pepper in food preparation beyond this point, and pause
+  consumption of any very intense / spicy foods that I don't usually
+  consume every week.
 
 * Reminder for eight days prior to the appointment to pause
   consumption of sauerkraut, kimchi, spicy foods, and lemons
@@ -91,8 +92,7 @@ shopped for ahead of the appointment if possible.
 * Reminder for six days prior to the appointment to pause consumption
   of walnuts. This reduces the risk of injury in the cheek and
   gum area that might cause more pain during the dental cleaning
-  process. Any food prep during this time should not include cayenne
-  pepper. I should also avoid outside food.
+  process.
 
   Also, when consuming recently prepared hot food, I should make sure
   to mix it with cooler liquid foods so that the hottest temperature
