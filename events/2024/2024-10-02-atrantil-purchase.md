@@ -25,8 +25,18 @@ occasionally getting a nutty burp where the kind of nut felt different
 from the only nut I directly eat (walnuts) so I wonder if that's the
 horse chestnut part of Atrantil.
 
-As of 2024-10-17, my plan is to pause for a week (until 2024-10-23
+As of 2024-10-17, my plan was to pause for a week (until 2024-10-23
 inclusive) after which I will decide whether to resume on an ongoing
 basis, resume only in case of symptoms above some threshold, resume as
 an occasionally consumed supplement, or resume prior to specific
 events (as a prophylactic).
+
+On 2024-10-19, I took two capsules, going against my original pausing
+plan. This was in response to increased anal irritation (which was
+likely due to the resumption of cayenne pepper mixed with the
+temporary stopping of walnuts and sauerkraut that might have provided
+a counterbalance to the capsaicin). My fermentation scores had
+continued to be low. But I was curious to see if atrantil would help
+with symptom relief. As of 2024-10-19, I am not yet decided whether I
+will immediately resume daily consumption of Atrantil or still hold
+off and resume daily consumption starting 2024-10-24.
