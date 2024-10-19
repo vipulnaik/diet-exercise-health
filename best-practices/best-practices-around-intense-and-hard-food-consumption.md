@@ -6,6 +6,9 @@ The following foods are ones I consider intense:
 
 * Very intense: spicy outside food, including food from Indian and
   Thai restaurants
+* Dose-dependently intense: Cayenne pepper that I add to my meal prep
+  and potatoes prep sometimes (the intensity depends a lot on the
+  dose)
 * Moderately intense: Sauerkraut and kimchi
 
 ## Hard foods
@@ -47,6 +50,29 @@ in advance, try to avoid sauerkraut / kimchi consumption the day of,
 and for two days after, the intense food consumption. Symptoms (anal
 swelling, mouth issues, etc.) from very intense foods can take up to
 two days to appear.
+
+### For cayenne pepper: make sure to err on the side of a low dose for all meals, and skip in case of any elevated risk factors
+
+I want to continue using cayenne pepper to get slight capsaicin
+exposure, which helps with spice tolerance for the event of having to
+eat outside food (particularly Indian, Thai, and Vietnamese, which
+tend to be decent options in terms of cost and nutrition). However,
+the main downside of cayenne pepper is that once it is added to a meal
+prep, it cannot be un-added, so I am stuck with it for the whole of
+the consumption of that meal prep, even if I develop issues that lead
+me to want to limit intense food consumption.
+
+For safety, therefore:
+
+* Err on the side of dosing low in the prepared meal. Consider adding
+  more separately if I really want to.
+
+* Skip whenever there are potential factors that elevate my risk, even
+  if I'm not sure if those factors will materialize. For instance,
+  mouth bites, increased anal irritation, throat issues.
+
+* Choose an even smaller dose if reintroducing after two or more weeks
+  of abstinence, as tolerance may take a while to build back up.
 
 ## Limits related to fasting
 
