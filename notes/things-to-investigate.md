@@ -57,3 +57,13 @@ List last updated: 2024-10-17
 * Gum tissue graft -- get a deeper understanding of what the process
   involves and decide whether and when to do a specialist consultation
   and what questions to cover in the consultation.
+
+## Best practices docs to write
+
+* Eye irritation
+
+* Dental pain (both spontaneous and after procedures)
+
+* Cold and flu
+
+* Anal irritation (overlaps with and should link to intense and hard food consumption doc)
