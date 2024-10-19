@@ -13,10 +13,10 @@ important to move slowly.
 
 ### Moisturizing
 
-Moisturizing (with vaseline hydrating lotion)  at a decent regularity
-in general, and particularly after being in dry environments, cold or
-hot environments, or extensive hand washing or sanitizer use, can keep
-the overall risk of wounds low.
+Moisturizing (with vaseline hydrating lotion) at a decent regularity
+in general, and particularly before and after being in dry
+environments, cold or hot environments, or extensive hand washing or
+sanitizer use, can keep the overall risk of wounds low.
 
 The hands in particular should be moisturized frequently given their
 extensive contact with other stuff and frequent washing and
