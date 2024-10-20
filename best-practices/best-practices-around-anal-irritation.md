@@ -177,3 +177,20 @@ later.
 These include sitz baths, creams, taking photos, and consulting a
 specialist.
 
+## Best practices around recovery/reintroduction after anal swelling
+
+### Resume walnuts after things seem perfect or are on recovery for at least three days
+
+Resume walnuts after three days on a recovery trajectory, or after one
+day of things being perfect. Resume at 50% capacity and ramp up to
+100% after waiting at least two days at 50%.
+
+### Resume sauerkraut at least three days after resuming walnuts; ramp 25%, 50%, 75%, 100%
+
+Wait at least three days after resuming walnuts to resume sauerkraut,
+assuming no adverse symptoms and continued recovery trajectory. Ramp
+25%, 50%, 75%, 100%.
+
+### Resume capsaicin foods about a week after resuming sauerkraut, if all looks good
+
+Err on the side of caution.
