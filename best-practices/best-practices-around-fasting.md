@@ -13,6 +13,11 @@ specifically, a sore esophagus. Looking at the potential causes
 my guess is that this happens due to "stomach acid rising into the
 esophagus" though it could also reflect one of the other causes.
 
+See also:
+
+* [Best practices around intense and hard food consumption](best-practices-around-intense-and-hard-food-consumption.md)
+* [Best practices around anal irritation](best-practices-around-anal-irritation.md)
+
 ## Some relevant past experiences
 
 * [2024-10-16: extended conversation and delay in meal](../events/2024/2024-10-16-extended-conversation-and-delay-in-meal.md)
