@@ -15,15 +15,21 @@ esophagus" though it could also reflect one of the other causes.
 
 ## Some relevant past experiences
 
-* [2024-05-21: unplanned 19-hour fast](2024-05-21-unplanned-19-hour-fast.md)
-* [2024-01-27: unplanned 22-hour fast](2024-01-27-unplanned-22-hour-fast.md) that was an exacerbating factor for the [2024-01 garlic-flavored olive oil and sore throat incident](2024-01-garlic-flavored-olive-oil-and-sore-throat.md)
+* [2024-10-16: extended conversation and delay in meal](../events/2024/2024-10-16-extended-conversation-and-delay-in-meal.md)
+* [2024-05-21: unplanned 19-hour fast](../events/2024/2024-05-21-unplanned-19-hour-fast.md)
+* [2024-01-27: unplanned 22-hour fast](../events/2024/2024-01-27-unplanned-22-hour-fast.md) that was an exacerbating factor for the [2024-01 garlic-flavored olive oil and sore throat incident](../events/2024/2024-01-garlic-flavored-olive-oil-and-sore-throat.md)
 
-## Before the fast (if it is planned): avoid outside food and switch from sauerkraut to vegan probiotic yogurt
+## Before the fast (if it is planned): avoid outside food and avoid intense foods
 
 If I can anticipate a potential fast happening within the next 48
-hours, avoid outside food over that time period, and try to switch
-from sauerkraut to vegan probiotic yogurt for the 1-2 days before the
-fast, and make sure to stock up on vegan probiotic yogurt.
+hours, avoid outside food over that time period. Also, make these adjustments:
+
+* Do not consume sauerkraut and kimchi (intense foods I eat at home).
+
+* Do not include cayenne pepper in any meals that I expect to be
+  consuming in the 48 hours before or after the fast.
+
+For hard foods, such as walnuts, no prior restraint is needed.
 
 ## During and particularly near the end of the fast: hydrate before eating
 
@@ -44,21 +50,31 @@ water.
   the Udupi Palace sambhar. Try to avoid for about a week after a fast
   or at least four days after last-experienced symptoms.
 
-* Sauerkraut: This is very acidic and should be avoided for about 48
-  hours after a fast or after last-experienced soreness. Go for vegan
-  probiotic yogurt instead.
+* Walnuts: The sharp edges of the nuts could irritate an already
+  inflamed esophagus. Walnuts should be avoided for about 44 hours
+  after a fast or after last-experienced soreness (so about two
+  calendar days, but setting the limit to 44 instead of 48 hours to
+  account for the meal two days later being started earlier than the
+  delayed meal due to the fast).
+
+  NOTE: Don't resume in the same meal as resuming sauerkraut, so as to be
+  able to isolate any adverse effects of resuming. Stagger the
+  resumption into separate meals.
+
+* Sauerkraut: This is very acidic and should be avoided for about 68
+  hours after a fast or after last-experienced soreness. However, be
+  careful that sauerkraut can be a neutralizing factor for capsaicin,
+  which is alkaline, so if I have cayenne pepper mixed in the meal,
+  accompany the reduction in sauerkraut with a corresponding increase
+  in other neutralizers, including vegan probiotic yogurt.
 
   NOTE: Don't resume in the same meal as resuming walnuts, so as to be
   able to isolate any adverse effects of resuming. Stagger the
   resumption into separate meals and, if possible, into separate days.
 
-* Walnuts: The sharp edges of the nuts could irritate an already
-  inflamed esophagus. Walnuts should be avoided for about 48 hours
-  after a fast or after last-experienced soreness.
-
-  NOTE: Don't resume in the same meal as resuming sauerkraut, so as to be
-  able to isolate any adverse effects of resuming. Stagger the
-  resumption into separate meals.
+* Kimchi: This has both acidic components and capsaicin, both of which
+  can be irritating. This should be avoinded for about 92 hours after
+  a fast and after last-experienced soreness.
 
 * Oil: I don't generally have standalone oil anyway, but this
   avoidance can be interpreted in terms of avoiding oil-rich portions
@@ -70,7 +86,8 @@ water.
 * Cayenne pepper / red pepper: For any meals prepared after I am aware
   of a sore throat or anticipate consuming after a fast, I shouldn't
   add red pepper to the food. However, it's fine to consume
-  already-cooked food that has a bit of red pepper.
+  already-cooked food that has a bit of red pepper, as long as I take
+  adequate amounts of vegan probiotic yogurt to dilute the effect.
 
 ## Foods to have more of after a fast
 
