@@ -33,11 +33,8 @@ events (as a prophylactic).
 
 On 2024-10-19, I took two capsules, going against my original pausing
 plan. This was in response to [anal
-swelling](2024-10-17-anal-swelling.md) (which was likely due to the
-resumption of cayenne pepper and consumption of kimchi mixed with the
-temporary stopping of walnuts and sauerkraut that might have provided
-a counterbalance to the capsaicin). My fermentation scores had
-continued to be low. But I was curious to see if atrantil would help
-with symptom relief. As of 2024-10-19, I am not yet decided whether I
-will immediately resume daily consumption of Atrantil or still hold
-off and resume daily consumption starting 2024-10-24.
+swelling](2024-10-17-anal-swelling.md). I decided the next day that it
+made sense to continue going with the Atrantil for a 20-day period
+(until 2024-11-07 inclusive) to gauge the effects of a "full course",
+while keeping in mind the possibility of stopping in case of adverse
+effects.

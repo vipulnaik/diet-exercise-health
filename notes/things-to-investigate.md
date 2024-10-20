@@ -1,6 +1,6 @@
 # Things to investigate
 
-List last updated: 2024-10-17
+List last updated: 2024-10-20
 
 ## Supplements
 
@@ -11,8 +11,9 @@ List last updated: 2024-10-17
   to figure out if new regimen is for the long term. Blood test
   results may influence the decision.
 
-* Atrantil: ongoing till 2024-10-16 -- after that, pause fully, have
-  occasionally? Need to do more research. Doc
+* Atrantil: used 2024-10-09 to 2024-10-16, then paused and resumed
+  2024-10-19 onward for plan of up to 20 days. Need to re-evaluate
+  after that. Doc
   [here](../events/2024/2024-10-02-atrantil-purchase.md)
 
 * n-acetylcysteine (+ selenium) supplement
