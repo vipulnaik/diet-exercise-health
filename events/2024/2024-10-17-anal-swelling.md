@@ -66,6 +66,11 @@ the swelling making bowel movement a little more pleasant.
 
 2024-10-19 was the day I resumed sauerkraut consumption.
 
+On 2024-10-20, the painfulness of voluntary anal sphincter contraction
+was clearly higher, and the urge for it was also higher. My rough
+sense is that it compared with the level I had experienced on
+2024-09-24, after the two-day peak of 2024-09-22 and 2024-09-23.
+
 ## Comparison with previous anal swelling incidents
 
 * There was no visible change to the quantity or nature of my stool,
@@ -79,7 +84,9 @@ the swelling making bowel movement a little more pleasant.
   previous incidents.
 
 * My urge for anal spasms was much lower and the painfulness of
-  voluntary full anal sphincter contractions was lower.
+  voluntary full anal sphincter contractions was lower; however, on
+  2024-10-20, it did somewhat match the level it had been at in the
+  2024-09 incident around 2024-09-24 (about two days after the peak).
 
 ## Theories
 
