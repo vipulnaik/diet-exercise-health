@@ -2,6 +2,26 @@
 
 List last updated: 2024-10-20
 
+Time on these things would be in a mix of personal chores and other
+activities buckets. The other activities bucket would be used for
+general learning, including watching YouTube videos. The personal
+chores bucket would be for focused work for my own health, including
+best practices documentation, event logging, purchasing supplements
+and tests, going to get the tests, documenting the results, etc.
+
+The work can further be classified as time-sensitive (triggered by
+currently occurring issues) versus non-time-sensitive (most other
+exploratory stuff). The (personal chores bucket, non-time-sensitive)
+stuff I generally try to do on weekdays only. The other buckets I can
+do on weekdays or weekends. The other activities bucket stuff is
+limited to 2 hours per day as it falls under POCS; see [best practices
+around exertion and
+stimulation](../best-practices/best-practices-around-exertion-and-stimulation.md).
+
+My goal is to be sufficiently forward-thinking with this list that I
+investigate and consolidate knowledge before it becomes
+time-sensitive.
+
 ## Supplements
 
 * Omega-3: recent changes to
@@ -14,17 +34,17 @@ List last updated: 2024-10-20
 * Atrantil: used 2024-10-09 to 2024-10-16, then paused and resumed
   2024-10-19 onward for plan of up to 20 days. Need to re-evaluate
   after that. Doc
-  [here](../events/2024/2024-10-02-atrantil-purchase.md)
+  [here](../events/2024/2024-10-02-atrantil-purchase.md).
 
 * n-acetylcysteine (+ selenium) supplement
   https://www.amazon.com/gp/product/B0013OUQ3S/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1
-  has been siting in Amazon cart. It can help with acetaminophen
-  toxicity and seems good to have in general, but need to do more
-  research. No doc yet.
+  ordered; planning to experiment at some point. It can help with
+  acetaminophen toxicity and seems good to have in general, but need
+  to do more research. No doc yet.
 
 * L-lysine supplement
   https://www.amazon.com/gp/product/B0BVTNNL7T/ref=ox_sc_act_title_2?smid=A3R3S1UQYGX6C0&psc=1
-  is sitting in my Amazon cart.
+  ordered; planning to experiment at some point.
 
 * Creatine supplement (deferred for now as I want to focus on the most
   important amino acids first).
@@ -67,4 +87,4 @@ List last updated: 2024-10-20
 
 * Cold and flu
 
-* Anal irritation (overlaps with and should link to intense and hard food consumption doc)
+* Eye exam (preparatory steps)
