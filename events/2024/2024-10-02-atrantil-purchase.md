@@ -32,8 +32,9 @@ an occasionally consumed supplement, or resume prior to specific
 events (as a prophylactic).
 
 On 2024-10-19, I took two capsules, going against my original pausing
-plan. This was in response to increased anal irritation (which was
-likely due to the resumption of cayenne pepper mixed with the
+plan. This was in response to [anal
+swelling](2024-10-17-anal-swelling.md) (which was likely due to the
+resumption of cayenne pepper and consumption of kimchi mixed with the
 temporary stopping of walnuts and sauerkraut that might have provided
 a counterbalance to the capsaicin). My fermentation scores had
 continued to be low. But I was curious to see if atrantil would help

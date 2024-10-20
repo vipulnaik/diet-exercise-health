@@ -212,3 +212,6 @@ of problems on 2024-04-25](2024-04-25-abdominal-pain.md), this kind of
 feeling was very unusual, happening only occasionally. I don't know
 the extent to which this is explained by general dietary changes over
 time, and how much it's related to the abdominal discomfort.
+
+Something new developed here that may be related: [2024-10-17 anal
+swelling](2024-10-17-anal-swelling.md).
