@@ -49,6 +49,9 @@ it intermittently. I didn't think to take any action until later in
 the evening, but by that time I had already done another meal prep and
 included cayenne pepper in it.
 
+This was also the day I resumed walnuts consumption having exhausted
+the two days after the long talking session.
+
 Unlike the incident of 2024-09-20, I did not have anal spasms or a
 strong urge for anal sphincter contraction. Even when I did do a full
 anal contraction, it did not cause a sharp pain, being either
@@ -60,6 +63,8 @@ Symptoms were largely similar to late 2024-10-18, but I did notice
 that voluntary full anal contractions were a little more consistently
 unpleasant. The burning sensation had reduced and it was more about
 the swelling making bowel movement a little more pleasant.
+
+2024-10-19 was the day I resumed sauerkraut consumption.
 
 ## Comparison with previous anal swelling incidents
 

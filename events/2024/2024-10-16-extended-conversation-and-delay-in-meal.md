@@ -52,4 +52,4 @@ around fasting as much as possible.
   line with best practices. I resumed walnuts on
   2024-10-18. Technically the resumption was about 47 hours after the
   talking, compared to guidance to wait at least 48 hours, but it was
-  close enough in spirit.
+  close enough in spirit. I resumed sauerkraut on 2024-10-19.
