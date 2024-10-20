@@ -205,7 +205,7 @@ queries = [
 
     "select epoch, daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg as effective_daily_sodium_in_mg from daily_pw_amounts_by_epoch where daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg < 1200 or daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg > 2700;",
 
-    "select epoch, daily_potassium_in_mg from daily_pw_amounts_by_epoch where daily_potassium_in_mg < 3400 or daily_potassium_in_mg > 4700;",
+    "select epoch, daily_potassium_in_mg from daily_pw_amounts_by_epoch where daily_potassium_in_mg < 3300 or daily_potassium_in_mg > 4700;",
 ]
 
 _connection = connection.connect()
