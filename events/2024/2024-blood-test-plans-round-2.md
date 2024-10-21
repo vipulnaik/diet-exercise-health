@@ -1,27 +1,60 @@
-# 2025 blood test plans
+# 2024 blood test plans (round 2)
 
 ## Current planned test time
 
-I'm thinking of getting these tests done around late March or early
-April 2025.
+I'm thinking of getting these tests done in November or December 2024.
 
 ## Cost estimate
 
 Cost estimates were based on list prices on ownyourlabs.com,
-marekdiagnostics.com, and requestatest.com on 2024-10-14.
+marekdiagnostics.com, and requestatest.com on 2024-10-14 for most
+tests. A few additiona tests were added on 2024-10-21 and prices at
+the time were used for the additional tests.
 
 Total cost of tests so far:
 
-* Own Your Labs: $209.15
-* Marek Diagnostics: $168 or $181 depending on variant, plus $5 phlebotomist fee
+* Own Your Labs: $244.35
+* Marek Diagnostics: $203 or $216 depending on variant, plus $5 phlebotomist fee
 * Request A Test: LabCorp: $380; Quest Diagnostics: $317 not including NMR lipoprofile which is exclusive to LabCorp
 
 So far, it looks like Marek Diagnostics is the winner.
 
-## Test reruns from 2024
+## Test reruns from September 2024
 
 For background, see [2024 blood test plans: Results and
 takeaways](../2024/2024-blood-test-plans.md#results-and-takeaways).
+
+### Comprehensive metabolic panel
+
+Test details:
+
+* https://ownyourlabs.com/product/comp-metabolic-panel-14/ ($10)
+* https://marekdiagnostics.com/collections/lab-builder/products/comprehensive-metabolic-panel-cmp ($10)
+* https://requestatest.com/comprehensive-metabolic-panel-testing (LabCorp: $34; Quest Diagnostics: $34)
+
+This is a good test to get done regularly. However, the particular
+motivation for doing it just 6-7 months after the previous test is to
+confirm that the low BUN level (which was due to temporary diet
+changes that reduced protein intake) has been fixed.
+
+I might end up combining this with a CBC with differential; however,
+as of the time of writing this, I don't see a compelling reason to get
+a CBC with differential just 6-7 months after the previous
+one. However, if I have concerning health episodes in the interim, it
+may make sense to get one.
+
+### Omega-3: followup measurement to test the success of supplementation and dietary changes
+
+Test details:
+
+* https://ownyourlabs.com/product/omega-check/ ($66)
+* https://marekdiagnostics.com/products/omega-check?_pos=1&_sid=072c542f9&_ss=r ($60)
+* https://requestatest.com/omega-3-blood-test (LabCorp: $129; Quest Diagnostics: $129)
+
+The goal is to see if the [supplement dosage increase started
+2024-09-25](../2024/2024/2024-09-25-decision-to-increase-omega-3-supplement-daily-dose.md) is working well.
+
+## New tests
 
 ### NMR lipoprofile with insulin resistance markers: an advanced version of the lipid panel (for a one-time advanced measurement; in the future I expect to return to a regular lipid panel and do the NMR every few years)
 
@@ -65,37 +98,20 @@ important to measure this along with lipid profile, in order to get a
 clear correlational picture of the two. In particular, it is expected
 that apo B (in mg/dL) is about 0.054 times LDL-P (in nmol/L).
 
-### Comprehensive metabolic panel
+### Lipoprotein a (Lp(a))
 
-Test details:
+* https://ownyourlabs.com/product/lipoproteina/ ($35.20)
+* https://marekdiagnostics.com/products/lipoproteina-lpa?_pos=1&_psq=lipoprotein&_ss=e&_v=1.0 ($35)
+* https://requestatest.com/lipoprotein-a-testing (LabCorp: $55; Quest Diagnostics: $61)
 
-* https://ownyourlabs.com/product/comp-metabolic-panel-14/ ($10)
-* https://marekdiagnostics.com/collections/lab-builder/products/comprehensive-metabolic-panel-cmp ($10)
-* https://requestatest.com/comprehensive-metabolic-panel-testing (LabCorp: $34; Quest Diagnostics: $34)
-
-This is a good test to get done regularly. However, the particular
-motivation for doing it just 6-7 months after the previous test is to
-confirm that the low BUN level (which was due to temporary diet
-changes that reduced protein intake) has been fixed.
-
-I might end up combining this with a CBC with differential; however,
-as of the time of writing this, I don't see a compelling reason to get
-a CBC with differential just 6-7 months after the previous
-one. However, if I have concerning health episodes in the interim, it
-may make sense to get one.
-
-### Omega-3: followup measurement to test the success of supplementation and dietary changes
-
-Test details:
-
-* https://ownyourlabs.com/product/omega-check/ ($66)
-* https://marekdiagnostics.com/products/omega-check?_pos=1&_sid=072c542f9&_ss=r ($60)
-* https://requestatest.com/omega-3-blood-test (LabCorp: $129; Quest Diagnostics: $129)
-
-The goal is to see if the [supplement dosage increase started
-2024-09-25](../2024/2024/2024-09-25-decision-to-increase-omega-3-supplement-daily-dose.md) is working well.
-
-## New tests
+This is a mostly-genetically-determined kind of LDL that does not
+respond much to either lifestyle interventions or most of the existing
+pharmacological interventions (including statins). I likely just need
+to do this test once to get to know if I have a Lp(a) problem, and the
+implications can then inform the rest of my decisions. Since it's just
+about doing it once and it is not responsive to the kinds of changes I
+am likely to make in the next few months, it makes sense to get this
+test done sooner rather than later and get that information.
 
 ### Creatine
 

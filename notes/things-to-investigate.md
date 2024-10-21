@@ -50,21 +50,13 @@ time-sensitive.
   important amino acids first).
 
 ## Tests
-
-* Refine [2025 blood test
-  plans](../events/2025/2025-blood-test-plans.md) and maybe do some of
-  the tests sooner if they are decision-relevant. In particular, CMP
-  (to confirm BUN stuff is back to normal), omega-3 (to decide whether
-  supplement regimen needs further changes), and NMR lipoprofile + apo
-  B may be worth doing sooner.
-
 * Look into DEXA scans. For instance, whole-body scans by BodySpec (see
   [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
   more specialized one? I likely only need one every 5 years or so if
   it comes out okay.
 
-* Look into thyroid panel as something to add to the 2025 blood test
-  plans.
+* Look into thyroid panel as something to add to [2024 blood test
+  plans: round 2](../events/2024/2024-blood-test-plans-round-2.md).
 
 ## Data analysis
 
