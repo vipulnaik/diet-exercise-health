@@ -50,6 +50,7 @@ time-sensitive.
   important amino acids first).
 
 ## Tests
+
 * Look into DEXA scans. For instance, whole-body scans by BodySpec (see
   [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
   more specialized one? I likely only need one every 5 years or so if
