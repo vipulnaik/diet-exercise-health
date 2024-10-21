@@ -164,7 +164,7 @@ immediately start using the hand grippers.
 
 Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
 
-## Observations as of the first few days of using the 100 lb hand gripper
+### Observations as of the first few days of using the 100 lb hand gripper
 
 * I can crush the hand gripper fully and consistently when I use both
   hands, with my left hand on one side and my right hand on the other
@@ -201,7 +201,7 @@ wasn't able to close this hand gripper with either hand (each hand
 individually was only able to partially close up to the "vertical"
 stage). With both hands together, I was able to close the 150 lb.
 
-## Update on 2023-09-06
+### Update on 2023-09-06
 
 For the first time ever, I was able to close the 150 lb hand gripper
 with my right hand. However, I was not able to repeat this feat
@@ -212,7 +212,7 @@ consistent close with my right hand.
 I felt pain in the area of my fingers that had pressed the gripper
 after closing this; it was clearly effortful.
 
-## Update on 2023-10-23 / 2023-10-24 / 2023-10-25
+### Update on 2023-10-23 / 2023-10-24 / 2023-10-25
 
 I am now occasionally just about able to close the 150 lb hand gripper
 with my left hand. I can also now reasonably consistently close the
@@ -220,7 +220,7 @@ with my left hand. I can also now reasonably consistently close the
 comfortably close the 100 lb hand gripper with either hand, though
 with the left hand it still is a bit displaced sometimes.
 
-## Intermittently reduced right hand strength on 2023-10-27
+### Intermittently reduced right hand strength on 2023-10-27
 
 On Friday 2023-10-27, I tried the hand gripper at 9 AM. I was able to
 comfortably close the 100 lb with both hands, but was not able to
@@ -241,7 +241,7 @@ hand.
 I tried again after a minute, and now I was just barely able to close
 the 150 lb with my right hand.
 
-## Update on 2024-03-17
+### Update on 2024-03-17
 
 Starting this day, I am planning to do a daily practice of keeping the
 100 lb hand gripper closed for at least 5 consecutive seconds with
@@ -249,7 +249,7 @@ each hand separately. 5 is about what I can reasonably do right
 now. I'm hoping to increase it gradually to a larger amount, like 10
 seconds.
 
-## Update on 2024-05-07
+### Update on 2024-05-07
 
 As of now, I am generally able to keep the 100 lb hand gripper closed
 in either hand for at least 10 seconds, and occasionally going up to
@@ -258,7 +258,7 @@ and I immediately close it back, in well under a second). For the 150
 lb, with my right hand, I am able to keep it closed for about 3-5
 seconds.
 
-## Update on 2024-05-13
+### Update on 2024-05-13
 
 For the first time ever, I took out my 200 lb hand gripper and started
 trying to close it. After a few attempts, I was able to get it to the
@@ -266,7 +266,7 @@ parallel position with each hand individually, but no further. I was
 able to get it to close by wrapping one hand around another for the
 last portion (from parallel to close).
 
-## Update on 2024-08-02
+### Update on 2024-08-02
 
 For the last few weeks, I have switched to a practice of doing the 150
 lb hand gripper and then the 100 lb hand gripper every morning, and
@@ -290,7 +290,7 @@ This is the sequence I have been following:
   20 seconds, but then I would not be able to do the 150 lb
   immediately aferward. That's why I start with the 150 lb.
 
-## Update on 2024-09-09
+### Update on 2024-09-09
 
 The main change since the last update is a slight increase in the time
 I can stay closed with the 150 lb.
@@ -313,13 +313,13 @@ Here is the protocol as of this time:
   20 seconds, but then I would not be able to do the 150 lb
   immediately aferward. That's why I start with the 150 lb.
 
-## Update on 2024-09-22
+### Update on 2024-09-22
 
 I have decided to make the bundle of 150 lb and 100 lb exercises (that
 are now at a maintain level) every alternate day, and on the other
 alternate day, try the 200 lb, which is what I am trying to build to.
 
-## Update on 2024-09-28
+### Update on 2024-09-28
 
 For the building exercises, I've created a more elaborate exercise for
 the 200 lb, and added an exercise for 100 lb with specific fingers
