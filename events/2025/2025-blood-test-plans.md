@@ -12,9 +12,9 @@ marekdiagnostics.com, and requestatest.com on 2024-10-14.
 
 Total cost of tests so far:
 
-* Own Your Labs: $140.54
-* Marek Diagnostics: $103 or $116 depending on variant, plus $5 phlebotomist fee
-* Request A Test: LabCorp: $295; Quest Diagnostics: $353
+* Own Your Labs: $209.15
+* Marek Diagnostics: $168 or $181 depending on variant, plus $5 phlebotomist fee
+* Request A Test: LabCorp: $380; Quest Diagnostics: $317 not including NMR lipoprofile which is exclusive to LabCorp
 
 So far, it looks like Marek Diagnostics is the winner.
 
@@ -23,18 +23,27 @@ So far, it looks like Marek Diagnostics is the winner.
 For background, see [2024 blood test plans: Results and
 takeaways](../2024/2024-blood-test-plans.md#results-and-takeaways).
 
-### Lipid panel: followup measurement because of diabetic tendencies
+### NMR lipoprofile with insulin resistance markers: an advanced version of the lipid panel (for a one-time advanced measurement; in the future I expect to return to a regular lipid panel and do the NMR every few years)
 
 Test details:
 
-* https://ownyourlabs.com/product/lipid-panel/ ($10)
-* https://marekdiagnostics.com/products/lipid-panel-total-cholesterol-hdl-ldl-vldl-triglycerides-hdl-ldl-ratio?_pos=2&_sid=97567c9e3&_ss=r ($10)
-* https://requestatest.com/lipid-panel-testing (LabCorp: $34; Quest Diagnostics: $36)
+* https://ownyourlabs.com/product/nmr-lipoprofile-lipids-ir-markers-graph/ ($78.61)
+* https://marekdiagnostics.com/products/nmr-lipoprofile%C2%AE-with-lipids-and-insulin-resistance-markers-with-graph?_pos=2&_sid=b3579a4ac&_ss=r ($75)
+* https://requestatest.com/nmr-lipoprofile-with-insulin-resistance-markers-test (LabCorp: $119; this test is not available on Quest Diagnostics)
 
 After my September 2024 test, I reduced my olive oil consumption,
 added seaweed, and increased my omega-3 dosage. The first of these is
 expected to have a direct effect through reducing my saturated fat
 levels. Increasing omega-3 dosage may also help.
+
+I'm getting the NMR version as that also includes particle count. I
+can also use this particle count to see if the measured apolipoprotein
+B is as expected (apolipoprotein in mg/dL should be a little more than
+0.054 times the LDL-P measured in nmol/L, because there should be one
+apo B per LDL-P, and apo B molecular weight is 540000, so 1 nmol/L is
+540000 ng/L = 0.54 mg/L = 0.054 mg/dL. There will be some additional
+apo B coming from VLDL and IDL so the apo B should generally be a
+little higher than estimated this way).
 
 If this measurement continues to show values in the same range as
 September 2024, I plan to devote significant further resources to
@@ -53,7 +62,8 @@ high cholesterol levels increase the risk of atherosclerosis. The
 level of apolipoprotein B may therefore be a more direct metric of the
 rate of damage. It will be good to measure this. I think it's
 important to measure this along with lipid profile, in order to get a
-clear correlational picture of the two.
+clear correlational picture of the two. In particular, it is expected
+that apo B (in mg/dL) is about 0.054 times LDL-P (in nmol/L).
 
 ### Comprehensive metabolic panel
 

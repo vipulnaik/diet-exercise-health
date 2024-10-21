@@ -55,19 +55,16 @@ time-sensitive.
   plans](../events/2025/2025-blood-test-plans.md) and maybe do some of
   the tests sooner if they are decision-relevant. In particular, CMP
   (to confirm BUN stuff is back to normal), omega-3 (to decide whether
-  supplement regimen needs further changes), and lipid panel (to see
-  if changes since last test have paid off in measurements) may be
-  worth doing sooner.
-
-* NMR lipoprofile: I want to get this done at some point; the question
-  is whether I should do this instead of a regular lipid panel as part
-  of my upcoming round or defer it to a later round. I need to do more
-  research and learning regarding NMR lipoprofile and its benefits.
+  supplement regimen needs further changes), and NMR lipoprofile + apo
+  B may be worth doing sooner.
 
 * Look into DEXA scans. For instance, whole-body scans by BodySpec (see
   [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
   more specialized one? I likely only need one every 5 years or so if
   it comes out okay.
+
+* Look into thyroid panel as something to add to the 2025 blood test
+  plans.
 
 ## Data analysis
 
