@@ -605,5 +605,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-20','Gold potatoes 5 lb',0.43),
   ('2024-10-20','TJ Kale',1),
   ('2024-10-20','TJ English Shelled Peas',2),
-  ('2024-10-20','Beefsteak tomato',6);
+  ('2024-10-20','Beefsteak tomato',6),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-10-21','TJ Almond Milk',1);
   /* Double-check the date before committing */
