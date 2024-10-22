@@ -582,7 +582,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-15','TJ Walnuts',1), /* first meal */
   /* Lentils prep 2024-10-15 (overnight soaking to cook and eat the next day) */
-  ('2024-10-15','Wild Harvest Organic Lentils',0.5),
+  ('2024-10-15','Wild Harvest Organic Lentils',0.55),
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-16','TJ Miso Ginger Broth',1), /* first meal */
   ('2024-10-16','Kite Hill Greek Style Plant-Based Yogurt',1), /* second meal */
@@ -607,5 +607,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-20','TJ English Shelled Peas',2),
   ('2024-10-20','Beefsteak tomato',6),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-10-21','TJ Almond Milk',1);
+  ('2024-10-21','TJ Almond Milk',1),
+  /* Lentils prep 2024-10-21 (overnight soaking to cook and eat the next day) */
+  ('2024-10-21','Wild Harvest Organic Lentils',0.45);
   /* Double-check the date before committing */
