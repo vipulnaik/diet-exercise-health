@@ -215,3 +215,10 @@ time, and how much it's related to the abdominal discomfort.
 
 Something new developed here that may be related: [2024-10-17 anal
 swelling](2024-10-17-anal-swelling.md).
+
+## 2024-10-21
+
+I have not been taking regular notes on the abdominal discomfort. It
+has become more and more intermittent over time, and what is left can
+be a little difficult to separate from the anal swelling. I'll take
+stock of it again once the anal swelling is more substantially healed.

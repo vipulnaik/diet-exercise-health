@@ -71,6 +71,14 @@ was clearly higher, and the urge for it was also higher. My rough
 sense is that it compared with the level I had experienced on
 2024-09-24, after the two-day peak of 2024-09-22 and 2024-09-23.
 
+I did not include cayenne pepper in my potatoes prep for 2024-10-20.
+
+### 2024-10-21
+
+There seems to be a recovery relative to 2024-10-20, and a return to
+the level of 2024-10-19. I've continued refraining from consuming
+walnuts and sauerkraut.
+
 ## Comparison with previous anal swelling incidents
 
 * There was no visible change to the quantity or nature of my stool,
