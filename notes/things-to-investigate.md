@@ -31,11 +31,6 @@ time-sensitive.
   to figure out if new regimen is for the long term. Blood test
   results may influence the decision.
 
-* Atrantil: used 2024-10-09 to 2024-10-16, then paused and resumed
-  2024-10-19 onward for plan of up to 20 days. Need to re-evaluate
-  after that. Doc
-  [here](../events/2024/2024-10-02-atrantil-purchase.md).
-
 * n-acetylcysteine (+ selenium) supplement
   https://www.amazon.com/gp/product/B0013OUQ3S/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1
   ordered; planning to experiment at some point. It can help with
