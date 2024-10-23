@@ -616,5 +616,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-22','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
   /* Rice prep 2024-10-22 (second meal) */
   ('2024-10-22','Lundberg Sustainable California White Basmati Rice',0.8),
-  ('2024-10-22','TJ Turmeric',1); /* opened as part of rice prep; coincidence that I opened a new cumin bottle earlier in the day for lentils prep! */
+  ('2024-10-22','TJ Turmeric',1), /* opened as part of rice prep; coincidence that I opened a new cumin bottle earlier in the day for lentils prep! */
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-10-22','TJ Miso Ginger Broth',1); /* second meal */
   /* Double-check the date before committing */
