@@ -44,17 +44,26 @@ Sections of this document:
 * [Medications](#medications)
 * [Surgeries](#surgeries)
 * [Skin](#skin)
+* [Aging](#aging)
 
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated October 14, 2024. I hope to update this section whenever
+last updated October 23, 2024. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
 significantly.
 
+### Anal swelling starting October 17, 2024
+
+See [here](../events/2024/2024-10-17-anal-swelling.md).
+
 ### Abdominal discomfort issues starting October 8, 2024
 
-See [here](../events/2024/2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md).
+See
+[here](../events/2024/2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md). This
+has been largely superseded by the anal swelling but I don't consider
+it completely closed yet (it'll be easier to judge this once the anal
+swelling has resolved).
 
 A similar longer-running earlier incident is documented
 [here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md).
@@ -1209,3 +1218,82 @@ climates, it can get cuts if not adequately cared for. I generally
 apply vaseline lotion to my legs daily and to my hands (just the
 hands, not the forearms) several times a day. With moderate care, I don't
 have any noticeable skin issues.
+
+## Aging
+
+This section presents a picture of my aging from my mid-to-late
+twenties to my mid-to-late thirties, with a particular focus on the
+evolution in the later years, when I've been better at keeping track
+of things.
+
+Ways I seem to be stable with age:
+
+* Resting vitals (heart rate, blood pressure): I don't have good
+  historical measurements prior to mid-2023, as I did not have tools
+  to measure heart rate and blood pressure at home. But based on the
+  few measurements I got over the prior years, things do look roughly
+  stable on these fronts.
+
+* Eye health (roughly): There was a long gap from my previous eye
+  checkup to the one in 2021, but my loose impression is that my eye
+  health has roughly stayed the same.
+
+* Baseline skin health (afaicmo) not accounting for better deliberate
+  care steps: My skin has been on the dry side but the use of vaseline
+  hydrating lotion has generally done the trick and prevented more serious issues.
+
+* Total accounted-for hours (a rough measure of total realized
+  capacity to do stuff) seems largely stable. It did go down in around
+  mid-2023 after shifting to part-time work, and is now back up
+  roughly to match original levels.
+
+Ways I seem to be getting better with age:
+
+* Crystallized intelligence / knowledge in general seem to be improving.
+
+* Processes / protocols seem to be improving (around both how to
+  prevent and respond to health things and to general life things).
+
+* Short-run cognitive and physical strength and stamina seem to be
+  improving in the areas where I do regular practice; haven’t noticed
+  any clear trends in other areas. Regular practice with a focus on
+  improvement only started around 2021 and picked up around 2023.
+
+* Peak negatives (health issues, injuries, etc.) seem to be declining;
+  when I do get injured or a health issue, it seems to be more
+  minor. This is likely due to the better processes and protocols as
+  mentioned above.
+
+* Stress seems to be reducing, but this is likely mostly environmental
+  (less sympathetic activation with working from home, reduced hours,
+  less uncertainty-driven stress at work).
+
+* Dental health is improving, thanks to improved dental practices
+  including flossing, rinsing, and regular 6-month cleanings. The
+  improvement happened starting 2021.
+
+* Lipid profile may be improving, but more data is needed.
+
+Ways I seem to be getting worse with age:
+
+* Slow (but steady?) balding and graying. However, the rate of this
+  doesn't seem unusually high relative to other males of my age.
+
+* Low-grade subjective physical distress may be getting worse
+  (starting April 2024), but this might be dominated by a couple of
+  categories (GI tract issues).
+
+* Recovery time from acute stresses may be increasing; I can’t subject
+  myself to junk and recover the next day, but it’s not clear how good
+  I was at recovering in the past, since I tend to record things more
+  now (and also seem to be better — or luckier -- at avoiding acute
+  stresses in the first place).
+
+* Related to the above two, I might have increased “sensitivity” to
+  minor things, which may be good and bad; the good side of the
+  increased sensitivity is the ability to act before things get bad,
+  the flip side is being distracted by it even when my ability to act
+  is limited. Example: previously despite having relatively
+  significant gum disease I didn’t really notice any gum pain except
+  during acute flares, now I seem to notice the most minor thing with
+  my teeth and gums and lips and cheek.
