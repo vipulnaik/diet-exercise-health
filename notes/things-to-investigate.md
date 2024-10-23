@@ -54,6 +54,10 @@ time-sensitive.
 * Look into thyroid panel as something to add to [2024 blood test
   plans: round 2](../events/2024/2024-blood-test-plans-round-2.md).
 
+* Look into whether to add testosterone testing (and what version of
+  it) to [2024 blood test plans: round
+  2](../events/2024/2024-blood-test-plans-round-2.md).
+
 ## Data analysis
 
 * Take a fresh look at my 23andme data
