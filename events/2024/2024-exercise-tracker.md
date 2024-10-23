@@ -875,3 +875,11 @@ exercise.
 
 Some related information is
 [here](2024-10-16-extended-conversation-and-delay-in-meal.md).
+
+## 2024-10-23 onward: pausing of all strength exercises, hand gripper exercises, and dead hang exercises
+
+Starting 2024-10-23, two days prior to the appointment, I stopped all
+strength exercises, hand gripper exercises, and dead hang
+exercises. The goal was to reduce tension in the neck, shoulder, and
+arm muscles. This stoppage followed the [best practices around vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.md).
