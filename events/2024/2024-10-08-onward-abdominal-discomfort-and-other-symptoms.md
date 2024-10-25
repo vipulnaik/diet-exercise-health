@@ -222,3 +222,18 @@ I have not been taking regular notes on the abdominal discomfort. It
 has become more and more intermittent over time, and what is left can
 be a little difficult to separate from the anal swelling. I'll take
 stock of it again once the anal swelling is more substantially healed.
+
+## 2024-10-24
+
+There was a recurence of a larger level of abdominal discomfort after
+my evening meal, where I had a freshly made
+potatoes/tomatoes/peas/kale prep. I feel like the tomatoes and
+potatoes were responsible for the acid feel and resistant starch feel
+respectively. Interestingly, peas, that I would previously implicate
+as FODMAPs, didn't feel like a contributor.
+
+I also had stronger bowel pressure than usual the next
+morning. However, after bowel movement, things seemed fine.
+
+It could be that one of the potatoes or tomatoes had a bit of spoilage
+and my body was just complaining about it.
