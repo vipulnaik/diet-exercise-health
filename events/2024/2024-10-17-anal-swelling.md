@@ -79,6 +79,19 @@ There seems to be a recovery relative to 2024-10-20, and a return to
 the level of 2024-10-19. I've continued refraining from consuming
 walnuts and sauerkraut.
 
+## 2024-10-22 to 2024-10-25
+
+It's been hard gauging progress, because the day-over-day change
+doesn't seem too big. However, overall it does look like the anal
+spasm issue is mostly gone. Itching in general and pain on a
+deliberate anal sphincter contraction are still present to some
+extent. I have continued with the practice of wet wiping after bowel
+movement (I do a dry wipe initially and then a wet wipe after that
+followed by a dry wipe) and a couple other times a day (just a wet
+wipe followed by a dry wipe).
+
+I've continued to refrain from walnuts and sauerkraut.
+
 ## Comparison with previous anal swelling incidents
 
 * There was no visible change to the quantity or nature of my stool,
