@@ -493,3 +493,9 @@ In the afternoon, I went to Walgreens to try to buy a 10 lb dumb bell,
 but the dumb bell was not in stock. I then went to Berkeley Bowl for
 food purchases recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Friday October 25
+
+In the afternoon, I went to Walgreens for my flu shot, documented at
+[2024-10-25 flu shot](2024-10-25-flu-shot.md), I bought a few items
+from Walgreens after being done with the flu shot.

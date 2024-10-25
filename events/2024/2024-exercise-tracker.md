@@ -878,8 +878,17 @@ Some related information is
 
 ## 2024-10-23 onward: pausing of all strength exercises, hand gripper exercises, and dead hang exercises
 
-Starting 2024-10-23, two days prior to the appointment, I stopped all
-strength exercises, hand gripper exercises, and dead hang
-exercises. The goal was to reduce tension in the neck, shoulder, and
-arm muscles. This stoppage followed the [best practices around vaccine
+Starting 2024-10-23, two days prior to my [2024-10-25 flu
+shot](2024-10-25-flu-shot.md), I stopped all strength exercises, hand
+gripper exercises, and dead hang exercises. The goal was to reduce
+tension in the neck, shoulder, and arm muscles. This stoppage followed
+the [best practices around vaccine
 appointments](../../best-practices/best-practices-around-vaccine-appointments.md).
+
+## 2024-10-25 onward: skipping of jogging and breath holds
+
+Starting 2024-10-25, the day of my [2024-10-25 flu
+shot](2024-10-25-flu-shot.md), I stopped jogging and breath
+holds. Essentially I skipped all exercise on this day and plan to
+continue skipping exercise (with the possible exception of balance
+exercises) on the weekend (2024-10-26 and 2024-10-27).
