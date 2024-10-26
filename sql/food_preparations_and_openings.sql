@@ -628,5 +628,16 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-24','TJ Roasted Seaweed',1), /* second meal */
   ('2024-10-24','Kite Hill Greek Style Plant-Based Yogurt',1), /* second meal */
-  ('2024-10-24','TJ Carb Savvy Tortillas',1); /* second meal */
+  ('2024-10-24','TJ Carb Savvy Tortillas',1), /* second meal */
+  /* Meal prep 2024-10-25 (second meal) */
+  ('2024-10-25','Eggplant',1),
+  ('2024-10-25','TJ Kale',1),
+  ('2024-10-25','TJ Carrots',1),
+  ('2024-10-25','Green bell pepper',4),
+  ('2024-10-25','Red bell pepper',2),
+  ('2024-10-25','Beefsteak tomato',6),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-10-25','Trader Giotto''s Olive Oil',1), /* opened for meal prep documented above */
+  ('2024-10-25','TJ Carb Savvy Tortillas',1), /* second meal */
+  ('2024-10-25','TJ Miso Ginger Broth',1); /* second meal */
   /* Double-check the date before committing */
