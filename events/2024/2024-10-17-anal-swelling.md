@@ -79,7 +79,7 @@ There seems to be a recovery relative to 2024-10-20, and a return to
 the level of 2024-10-19. I've continued refraining from consuming
 walnuts and sauerkraut.
 
-## 2024-10-22 to 2024-10-25
+### 2024-10-22 to 2024-10-24
 
 It's been hard gauging progress, because the day-over-day change
 doesn't seem too big. However, overall it does look like the anal
@@ -91,6 +91,14 @@ followed by a dry wipe) and a couple other times a day (just a wet
 wipe followed by a dry wipe).
 
 I've continued to refrain from walnuts and sauerkraut.
+
+### 2024-10-25
+
+Things mostly continued on the trajectory of very gradual
+improvement. I continued following the same practices as I had been,
+with one change: I consumed a small amount of walnuts with my evening
+meal. This was about 25-35% of what I typically consume in a single
+meal.
 
 ## Comparison with previous anal swelling incidents
 
