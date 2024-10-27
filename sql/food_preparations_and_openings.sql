@@ -639,5 +639,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-25','Trader Giotto''s Olive Oil',1), /* opened for meal prep documented above */
   ('2024-10-25','TJ Carb Savvy Tortillas',1), /* second meal */
-  ('2024-10-25','TJ Miso Ginger Broth',1); /* second meal */
+  ('2024-10-25','TJ Miso Ginger Broth',1), /* second meal */
+  ('2024-10-26','TJ Carb Savvy Tortillas',1); /* second meal */
   /* Double-check the date before committing */
