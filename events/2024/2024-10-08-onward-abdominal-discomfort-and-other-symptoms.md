@@ -237,3 +237,20 @@ morning. However, after bowel movement, things seemed fine.
 
 It could be that one of the potatoes or tomatoes had a bit of spoilage
 and my body was just complaining about it.
+
+## 2024-10-26
+
+While things were pretty good after my morning meal, there was a
+recurrence of a larger level of abdominal discomfort (as well as
+flatulence) after my evening meal, comparable to though slightly less
+than 2024-10-24 (the reduction in anal swelling itching helped keep
+the overall level more pleasant). I'm now suspecting something in the
+potatoes and kale, as I had no "acid-like" feel (that would implicate
+tomatoes) but it does feel like something that is common between
+potatoes and kale. Overall, whatever it is, it doesn't seem to be the
+sort of thing that has negative functional impacts other than the
+abdominal discomfort and flatulence; it doesn't affect small intestine
+digestion and it doesn't get in the way of bowel movement cycle. So,
+while it would be good to get a better handle on what it is and what
+triggers it to be higher uder some conditions (so as to reduce my
+discomfort), I am not currently worried about its broader effects.
