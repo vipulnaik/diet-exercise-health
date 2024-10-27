@@ -640,5 +640,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-25','Trader Giotto''s Olive Oil',1), /* opened for meal prep documented above */
   ('2024-10-25','TJ Carb Savvy Tortillas',1), /* second meal */
   ('2024-10-25','TJ Miso Ginger Broth',1), /* second meal */
-  ('2024-10-26','TJ Carb Savvy Tortillas',1); /* second meal */
+  ('2024-10-26','TJ Carb Savvy Tortillas',1), /* second meal */
+  /* Rice prep 2024-10-27 (first meal) */
+  ('2024-10-27','Lundberg Sustainable California White Basmati Rice',0.8);
   /* Double-check the date before committing */
