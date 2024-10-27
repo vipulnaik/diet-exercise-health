@@ -499,3 +499,8 @@ food purchases recorded in
 In the afternoon, I went to Walgreens for my flu shot, documented at
 [2024-10-25 flu shot](2024-10-25-flu-shot.md), I bought a few items
 from Walgreens after being done with the flu shot.
+
+## Sunday October 27
+
+In the afternoon, I made a trip to the Amazon Hub Locker at ASUC for
+package pickup.
