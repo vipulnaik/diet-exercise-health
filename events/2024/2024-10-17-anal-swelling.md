@@ -57,7 +57,7 @@ strong urge for anal sphincter contraction. Even when I did do a full
 anal contraction, it did not cause a sharp pain, being either
 pleasant, neutral, and mildly unpleasant.
 
-### 2024-10-19 and 2024-10-20
+### 2024-10-19
 
 Symptoms were largely similar to late 2024-10-18, but I did notice
 that voluntary full anal contractions were a little more consistently
@@ -66,10 +66,16 @@ the swelling making bowel movement a little more pleasant.
 
 2024-10-19 was the day I resumed sauerkraut consumption.
 
+### 2024-10-20
+
 On 2024-10-20, the painfulness of voluntary anal sphincter contraction
 was clearly higher, and the urge for it was also higher. My rough
 sense is that it compared with the level I had experienced on
 2024-09-24, after the two-day peak of 2024-09-22 and 2024-09-23.
+
+I paused walnuts and sauerkraut consumption out of precaution, since
+it seemed like resuming them in the past few days hadn't improved the
+situation.
 
 I did not include cayenne pepper in my potatoes prep for 2024-10-20.
 
@@ -110,6 +116,9 @@ feel some itching on the morning of 2024-10-27, which is likely due to
 irritation from bowel movement. So as of 2024-10-27, I don't think
 it's fully addressed but it may be sufficiently addressed as to not
 cause itching most of the time.
+
+On 2024-10-27, I resumed sauerkraut (about 50% of usual amount) and
+increased my walnuts consumption to around 60-80% of typical.
 
 ## Comparison with previous anal swelling incidents
 

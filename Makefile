@@ -11,11 +11,12 @@ reset:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists blood_pressure_readings;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists doctor_visits;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists foodmarble_aire_2_breath_tests;"
-	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_waste;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_preparations_and_openings;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_preparations_and_openings_lower_bounds;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_preparations_and_openings_upper_bounds;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_purchases;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_pauses;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_waste;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_types;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists broad_food_types;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists heinrich_incidents;"
@@ -38,6 +39,7 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_upper_bounds.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_pauses.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_waste.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/heinrich_incidents.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/pulse_oximeter_readings.sql
