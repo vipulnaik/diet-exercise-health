@@ -92,13 +92,24 @@ wipe followed by a dry wipe).
 
 I've continued to refrain from walnuts and sauerkraut.
 
-### 2024-10-25
+### 2024-10-25 to 2024-10-27
 
 Things mostly continued on the trajectory of very gradual
 improvement. I continued following the same practices as I had been,
-with one change: I consumed a small amount of walnuts with my evening
-meal. This was about 25-35% of what I typically consume in a single
-meal.
+with one change: I started resuming walnuts.
+
+I consumed a small amount of walnuts with my evening meal. This was
+about 25-35% of what I typically consume in a single meal.
+
+On 2024-10-26, I consumed a similar amount (25-35% of a single meal's
+consumption) in both meals.
+
+By the evening of 2024-10-26, I didn't feel itching from the anal
+swelling, so I skipped one iteration of wet wiping. However, I did
+feel some itching on the morning of 2024-10-27, which is likely due to
+irritation from bowel movement. So as of 2024-10-27, I don't think
+it's fully addressed but it may be sufficiently addressed as to not
+cause itching most of the time.
 
 ## Comparison with previous anal swelling incidents
 
