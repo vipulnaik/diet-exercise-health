@@ -892,3 +892,15 @@ shot](2024-10-25-flu-shot.md), I stopped jogging and breath
 holds. Essentially I skipped all exercise on this day and plan to
 continue skipping exercise (with the possible exception of balance
 exercises) on the weekend (2024-10-26 and 2024-10-27).
+
+## 2024-10-28: resumption of jogging and some other exercises
+
+On 2024-10-28, as per the plan outlined in my best practices around
+vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.md),
+I went for jogging and was able to cover the minimum distance (though
+not a lot more). I also resumned the humming-with-intermittent-pauses
+exercises, the standing-on-one-leg-with-eyes-closed exercise, and the
+standing-on-toes-with-eyes-closed exercise. I continued to refrain
+from strength exercises, hand gripper exercises, and dead hang
+exercises.
