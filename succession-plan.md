@@ -11,9 +11,9 @@ the people who will inherit Vipul Naik's digital resources.
 
 No further substantive updates should be made to this repository after
 Vipul Naik's death or permanent incapacitation. That's because this
-repository is intended to only cover Vipul Naik's ongoing activities,
-and therefore its underlying truth should not update after his death
-or permanent incapacitation.
+repository is intended to only cover Vipul Naik's diet, exercise and
+health status while alive, and therefore its underlying truth should
+not update after his death or permanent incapacitation.
 
 Vipul Naik's digital successor on GitHub, or any others that person
 delegates to, may make updates of this sort (but are not
