@@ -5,6 +5,8 @@ repository in the case of Vipul Naik's death or permanent
 incapacitation. This plan should be viewed as non-binding guidance on
 the people who will inherit Vipul Naik's digital resources.
 
+## Repository
+
 ### No further substantive updates
 
 No further substantive updates should be made to this repository after
