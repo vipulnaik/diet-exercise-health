@@ -1,14 +1,18 @@
 # Best practices around gum and cheek injuries
 
+See also [best practices about intense and hard food
+consumption](best-practices-around-intense-and-hard-food-consumption.md).
+
 ## Best practices around prevention
 
-### Prevention under the ordinary counrse of events
+### Prevention under the ordinary course of events
 
 Under ordinary circumstances, I need to take care of prevention, but
 it's not super-critical. Here are a few things to keep in mind:
 
-* Sauerkraut: Make sure to not have sauerkraut in isolation too much;
-  always mix it with other milder stuff, e.g., some almond milk.
+* Sauerkraut / kimchi: Make sure to not have sauerkraut or kimchi in
+  isolation too much; always mix it with other milder stuff, e.g.,
+  some almond milk, yogurt, or miso ginger broth.
 
 * Lemons: Similarly, mix lemons with other things and don't have them
   in isolation or the acidity can be too high.
@@ -51,7 +55,7 @@ For minor injuries, a minimal set of additional precautions is fine:
 * Use cold presses against the area occasionally.
 
 * Monitor for recovery over the next 1-2 days. If there's no recovery,
-  consider the possibility that the injur is more major.
+  consider the possibility that the injury is more major.
 
 ### Case of a mid-level injury: no bleeding, but pain when eating or during dental hygiene
 
