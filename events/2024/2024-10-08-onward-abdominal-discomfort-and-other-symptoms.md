@@ -7,6 +7,10 @@ qualitatively close to what I experienced toward the end of the
 previous round (starting with the [2024-07-18
 incident](2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md)).
 
+As of 2024-10-29, I am considering this incident closed, although I
+think there are still things I need to figure out in the space of
+abdominal discomfort and my GI system.
+
 ## Potential triggers leading up to this
 
 ### General triggers
@@ -254,3 +258,6 @@ digestion and it doesn't get in the way of bowel movement cycle. So,
 while it would be good to get a better handle on what it is and what
 triggers it to be higher uder some conditions (so as to reduce my
 discomfort), I am not currently worried about its broader effects.
+
+This elevation in discomfort seems to have subsided in about 48 hours,
+by the evening of 2024-10-28.

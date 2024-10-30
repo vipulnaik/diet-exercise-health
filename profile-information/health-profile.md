@@ -49,24 +49,20 @@ Sections of this document:
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated October 23, 2024. I hope to update this section whenever
+last updated October 29, 2024. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
-significantly.
+significantly. I remove from here incidets that I consider closed; I
+may consider an incident closed once the healing is well on its way
+and it is no longer meaningfully affected my daily life, even if not
+all of its ramifications have been fully addressed.
 
-### Anal swelling starting October 17, 2024
+### Tongue tip injury and itchiness
 
-See [here](../events/2024/2024-10-17-anal-swelling.md).
-
-### Abdominal discomfort issues starting October 8, 2024
-
-See
-[here](../events/2024/2024-10-08-onward-abdominal-discomfort-and-other-symptoms.md). This
-has been largely superseded by the anal swelling but I don't consider
-it completely closed yet (it'll be easier to judge this once the anal
-swelling has resolved).
-
-A similar longer-running earlier incident is documented
-[here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md).
+On 2024-10-28, I had a tongue tip injury (it hit my upper teeth while
+I was eating). There was no severe pain, bleeding, visible redness, or
+swelling. But I did experience itchiness that did not go away in 24
+hours. More details are
+[here](../events/2024/2024-10-28-tongue-tip-injury-and-itchiness.md).
 
 Learnings from it have not yet been reflected in this health profile.
 

@@ -120,6 +120,21 @@ cause itching most of the time.
 On 2024-10-27, I resumed sauerkraut (about 50% of usual amount) and
 increased my walnuts consumption to around 60-80% of typical.
 
+## 2024-10-28 and 2024-10-29
+
+On these day, I continued to maintain sauerkraut at 50-100% of te
+usual amount and walnuts at 60-80% of typical. Another complication
+arose: [tongue tip injury and
+itchiness](2024-10-28-tongue-tip-injury-and-itchiness.md) that might
+lead me to pause sauerkraut and walnuts starting 2024-10-30.
+
+I have also reduced the frequency of wet wiping and no long experience
+anal itchiness or pain at anal sphincter contraction that is clearly
+more than I would when well. Therefore, as of the end of 2024-10-29, I
+am considering the issue resolved even though there is still some
+residual healing that remains. I do not have plans to update this
+document further unless there are additional unexpected developments.
+
 ## Comparison with previous anal swelling incidents
 
 * There was no visible change to the quantity or nature of my stool,
