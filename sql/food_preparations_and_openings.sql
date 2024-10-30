@@ -648,5 +648,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep 2024-10-28 (overnight soaking to cook and eat tomorrow) */
   ('2024-10-28','TJ Green Lentils',0.5),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-10-29','TJ Roasted Seaweed',1);
+  ('2024-10-29','TJ Roasted Seaweed',1),
+  /* Rice prep 2024-10-30 (first meal) */
+  ('2024-10-30','Lundberg Sustainable California White Basmati Rice',0.8);
   /* Double-check the date before committing */
