@@ -22,10 +22,17 @@ foods; if anything, the sensations were greatly reduced when eating in
 general, which might be due to the increased saliva production and the
 generally cold nature of food being calming for the area.
 
-My plan is that if I continue experiencing itchiness on the morning of
+~~My plan is that if I continue experiencing itchiness on the morning of
 2024-10-30, I will implement the best practices around mouth
 bites. Specifically, I plan to pause the consumption of intense and
 hard foods, for the two days of 2024-10-30 and 2024-10-31, per the
 best practices, and then reassess the situation on 2024-11-01. I'll
 also be keeping in mind the other best practices, including drinking
-enough water, coating the area with saliva, and doing regular probes.
+enough water, coating the area with saliva, and doing regular probes.~~
+
+I was no longer experiencing itchiness on the morning of 2024-10-30,
+so I have scrapped the plan to pause sauerkraut and walnuts
+consumption, though I might still reduce consumption and will continue
+to be mindful of the other points. I am considering the incident
+closed as of 2024-10-30 though I will continue to monitor things.
+

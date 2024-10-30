@@ -49,22 +49,15 @@ Sections of this document:
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated October 29, 2024. I hope to update this section whenever
+last updated October 30, 2024. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
 significantly. I remove from here incidets that I consider closed; I
 may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affected my daily life, even if not
 all of its ramifications have been fully addressed.
 
-### Tongue tip injury and itchiness
-
-On 2024-10-28, I had a tongue tip injury (it hit my upper teeth while
-I was eating). There was no severe pain, bleeding, visible redness, or
-swelling. But I did experience itchiness that did not go away in 24
-hours. More details are
-[here](../events/2024/2024-10-28-tongue-tip-injury-and-itchiness.md).
-
-Learnings from it have not yet been reflected in this health profile.
+As of October 30, 2024, there are no ongoing incidents. See recent
+incidents under the [events/2024 folder](../events/2024/).
 
 ## Vital signs
 
