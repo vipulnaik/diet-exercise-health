@@ -32,7 +32,11 @@ enough water, coating the area with saliva, and doing regular probes.~~
 
 I was no longer experiencing itchiness on the morning of 2024-10-30,
 so I have scrapped the plan to pause sauerkraut and walnuts
-consumption, though I might still reduce consumption and will continue
-to be mindful of the other points. I am considering the incident
-closed as of 2024-10-30 though I will continue to monitor things.
+consumption.
 
+However, as part of the first meal on 2024-10-30, one of the walnuts
+halves that I ate had a sharp edge that hit a different portion of the
+tongue, causing a bit of itchiness there. If the itchiness persists to
+my evening meal I might skip walnuts -- I have not decided as of the
+end of the first meal. Even if I do have walnuts, I need to pay close
+attention to technique to eliminate sharp impacts on the tongue.
