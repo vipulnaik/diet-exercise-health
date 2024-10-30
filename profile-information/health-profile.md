@@ -56,8 +56,10 @@ may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affected my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of October 30, 2024, there are no ongoing incidents. See recent
-incidents under the [events/2024 folder](../events/2024/).
+As of October 30, 2024, the only ongoing incident is [tongue tip
+injury and
+itchiness](../events/2024/2024-10-28-tongue-tip-injury-and-itchiness.md). See
+recent incidents under the [events/2024 folder](../events/2024/).
 
 ## Vital signs
 
