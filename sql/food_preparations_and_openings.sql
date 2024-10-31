@@ -654,5 +654,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-10-30','TJ Miso Ginger Broth',1), /* first meal */
   ('2024-10-30','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal -- included finishing up the old container for half of the meal */
-  ('2024-10-30','TJ Walnuts',1); /* first meal -- included finishing up the old packet for half of the meal */
+  ('2024-10-30','TJ Walnuts',1), /* first meal -- included finishing up the old packet for half of the meal */
+  /* Potatoes prep 2024-10-30 (second meal) */
+  ('2024-10-30','Gold potatoes 5 lb',0.43),
+  ('2024-10-30','TJ Kale',1),
+  ('2024-10-30','TJ English Shelled Peas',2),
+  ('2024-10-30','Beefsteak tomato',6);
   /* Double-check the date before committing */
