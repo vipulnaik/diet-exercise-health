@@ -904,3 +904,9 @@ exercises, the standing-on-one-leg-with-eyes-closed exercise, and the
 standing-on-toes-with-eyes-closed exercise. I continued to refrain
 from strength exercises, hand gripper exercises, and dead hang
 exercises.
+
+## 2024-10-31: skipped exercise due to scheduling issues
+
+On 2024-10-31, I skipped exercise due to scheduling issues -- I got up
+late, had a few things to tackle in the morning, and then got into
+meetings from 10:30 AM till 1 PM.
