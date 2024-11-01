@@ -12,7 +12,11 @@ diet) are enough for sustenance but not for adding muscle fast.
 I picked up the purchased lysine on 2024-10-27, and took my first capsule
 on 2024-10-27 with my evening meal.
 
-As of 2024-10-27, my plan is to take 1 capsule daily for a week and
+As of 2024-10-27, my plan was to take 1 capsule daily for a week and
 then reassess. After reassessment, I may go down to zero, stick to 1
 daily, or do 1 with each meal (it's safe to take up to 3 daily, but it
 seems recommnded to separate them across meals).
+
+On 2024-11-01, I decided to stick to 1 capsule daily for the time
+being, and revisit after a few months to see if I want to change the
+dosage.

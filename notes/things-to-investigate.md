@@ -33,30 +33,27 @@ time-sensitive.
 
 * n-acetylcysteine (+ selenium) supplement
   https://www.amazon.com/gp/product/B0013OUQ3S/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1
-  ordered; planning to experiment at some point. It can help with
-  acetaminophen toxicity and seems good to have in general, but need
-  to do more research. No doc yet.
-
-* L-lysine supplement
-  https://www.amazon.com/gp/product/B0BVTNNL7T/ref=ox_sc_act_title_2?smid=A3R3S1UQYGX6C0&psc=1
-  ordered; planning to experiment at some point.
+  purchased and received; planning to experiment at some point. It can
+  help with acetaminophen toxicity and seems good to have in general,
+  but need to do more research. No doc yet.
 
 * Creatine supplement (deferred for now as I want to focus on the most
   important amino acids first).
 
 ## Tests
 
-* Look into DEXA scans. For instance, whole-body scans by BodySpec (see
+* Look into DEXA scans to be done in late 2024 or some time in
+  2025. For instance, whole-body scans by BodySpec (see
   [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
   more specialized one? I likely only need one every 5 years or so if
   it comes out okay.
 
-* Look into thyroid panel as something to add to [2024 blood test
-  plans: round 2](../events/2024/2024-blood-test-plans-round-2.md).
-
-* Look into whether to add testosterone testing (and what version of
-  it) to [2024 blood test plans: round
+* Start planning for 2025 blood tests. This will likely be based on
+  the results of the [2024 blood tests round
   2](../events/2024/2024-blood-test-plans-round-2.md).
+
+* Look into coronary artery calcium (CAC) / CT angiogram to be done at
+  some point in the next 2-3 years.
 
 ## Data analysis
 
