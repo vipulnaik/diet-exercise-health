@@ -13,11 +13,12 @@ the time were used for the additional tests.
 
 Total cost of tests so far:
 
-* Own Your Labs: $244.35
-* Marek Diagnostics: $203 or $216 depending on variant, plus $5 phlebotomist fee
-* Request A Test: LabCorp: $380; Quest Diagnostics: $317 not including NMR lipoprofile which is exclusive to LabCorp
+* Own Your Labs: $238.71
+* Marek Diagnostics: $217 plus $5 phlebotomist fee
+* Request A Test: LabCorp: $390; Quest Diagnostics: $277 not including NMR lipoprofile which is exclusive to LabCorp
 
-So far, it looks like Marek Diagnostics is the winner.
+So far, it looks like Marek Diagnostics is the winner, and that's what
+I plan to use.
 
 ## Test reruns from September 2024
 
@@ -113,24 +114,32 @@ about doing it once and it is not responsive to the kinds of changes I
 am likely to make in the next few months, it makes sense to get this
 test done sooner rather than later and get that information.
 
-### Creatine
+### Thyroid panel
 
 Test details:
 
-* https://ownyourlabs.com/product/creatine-kinase-total/ ($37.34)
-* https://marekdiagnostics.com/products/creatine-kinase-ck-total?_pos=1&_sid=4b311cf52&_ss=r ($6), https://marekdiagnostics.com/products/creatine-kinase-ck-total-isoenzymes?_pos=2&_sid=4b311cf52&_ss=r ($19)
-* https://requestatest.com/creatine-blood-test (LabCorp: $39; Quest Diagnostics: $89)
+* https://ownyourlabs.com/product/thyroid-panel/ ($31.70)
+* https://marekdiagnostics.com/products/basic-thyroid-panel-tsh-t4-t3-uptake-free-thyroxine-index?_pos=3&_sid=3089ecb1b&_ss=r ($20)
+* https://requestatest.com/thyroid-basic-panel-with-tsh-testing (LabCorp: $49; Quest Diagnostics: $49)
 
-I haven't been tested before for this (according to my records), but I
-did get a test for the related creatinine, where I was below the
-expected range. However, the creatinine test was mainly to detect
-being *above* the relevant range.
+I was tested for TSH back in 2017. It seems reasonable to test thyroid
+panel every 4 to 8 years and increase the frequency of testing if
+things are potentially concerning. For this round, I'm doing the more
+elaborate test rather than only testing TSH, to get a better overall
+picture.
 
-Creatine is something that vegans are expected to be deficient in. In
-2021, I skipped the testing as I was not planning to start on
-supplementation even conditional to being deficient. In 2024, I
-skipped the test from the first set of tests as I was already getting
-a lot of things tested. Now that I've been doing strength exercises
-more regularly, I think I'm prepared to start supplementation if
-deficient, and the test results might inform the dose I use to
-supplement.
+## Tests I am not getting this time but considered
+
+* Serum creatine appears to be available on Request A Test at
+  https://requestatest.com/creatine-blood-test but not on Own Your Lbs
+  or Marek Diagnostics. Both Own Your Lab and Marek Diagnostics do
+  have creatine kinase, but this is a different test. (I initially
+  confused the two). As my plan for this round is to place the order
+  via Marek Diagnostics, I'm planning to skip serum creatine. I may
+  potentially do a future round using Request A Test for serum
+  creatine, perhaps along with other tests exclusively available via
+  Request A Test.
+
+* Testosterone test has many variants. I'd like to have a better
+  understanding before proceeding to get this test, so I am skipping
+  it from this round.
