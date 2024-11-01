@@ -1,7 +1,7 @@
 create table test_sample_collections(
   `collection_slug` varchar(255) primary key not null,
   `collection_date` date,
-  `sample_type` enum('Blood','Stool','Urine','Breath'),
+  `sample_type` enum('Blood','Stool','Urine','Breath','Saliva'),
   `fasting` boolean,
   `collection_lab` varchar(255),
   `requester` varchar(255),
@@ -30,4 +30,5 @@ insert into test_sample_collections(collection_slug, collection_date, sample_typ
   ('April 2024 Sutter Health blood tests','2024-04-30','Blood',false,'Sutter Health','Urgent care','See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-04-30-urgent-care-visit-and-tests.md for more context. I had finished eating about 6.5 hours prior to these tests, so though not fasting tests, these were also not post-prandial. I had also had a citrus drink concoction right before the blood draw (for my urease breath test).','2024-04-30-complete-blood-count.pdf|2024-04-30-comprehensive-metabolic-panel.pdf|2024-04-30-lipase.pdf'),
   ('April 2024 Sutter Health urease breath test','2024-04-30','Breath',false,'Sutter Health','Urgent care','See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-04-30-urgent-care-visit-and-tests.md for more context. I had finished eating about 6.5 hours prior to the first breathing-out, and hadn''t had water for about 2.5 hours prior to the first breathing-out.','2024-04-30-breath-test.pdf'),
   ('April 2024 Sutter Health urine test','2024-04-30','Urine',false,'Sutter Health','Urgent care','See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-04-30-urgent-care-visit-and-tests.md for more context. I had finished eating about 6.5 hours prior to the test.','2024-04-30-urinalysis.pdf'),
-  ('September 2024 Quest Diagnostics tests','2024-09-03','Blood',true,'Quest Diagnostics','Self (via Request A Test)','Several tests; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-blood-test-plans.md for more details and https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-09-03-blood-tests.md for the test collection experience. The blood draw was about 15 hours after the end of my last meal.','2024-09-03-quest-diagnostics.pdf');
+  ('September 2024 Quest Diagnostics tests','2024-09-03','Blood',true,'Quest Diagnostics','Self (via Request A Test)','Several tests; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-blood-test-plans.md for more details and https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-09-03-blood-tests.md for the test collection experience. The blood draw was about 15 hours after the end of my last meal.','2024-09-03-quest-diagnostics.pdf'),
+  ('October 2024 23andMe genetic test','2024-10-31','Saliva',false,'23andMe','Self','23andMe chip upgrade from v3 to v5; I do not plan to make my test results available publicly.',NULL);
