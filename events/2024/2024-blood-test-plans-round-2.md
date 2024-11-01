@@ -1,8 +1,10 @@
 # 2024 blood test plans (round 2)
 
-## Current planned test time
+## Test order
 
-I'm thinking of getting these tests done in November or December 2024.
+On 2024-10-31, I placed the test order with Marek Diagnostics for
+$222, consistent with the plans outlined below. As of 2024-10-31, I
+still need to get the actual blood draw done.
 
 ## Cost estimate
 
@@ -14,11 +16,11 @@ the time were used for the additional tests.
 Total cost of tests so far:
 
 * Own Your Labs: $238.71
-* Marek Diagnostics: $217 plus $5 phlebotomist fee
+* Marek Diagnostics: $217 plus $5 phlebotomist fee, totaling to $222
 * Request A Test: LabCorp: $390; Quest Diagnostics: $277 not including NMR lipoprofile which is exclusive to LabCorp
 
-So far, it looks like Marek Diagnostics is the winner, and that's what
-I plan to use.
+From these, Marek Diagnostics worked out to be the winner in terms of
+cost, and indeed it did end up costing what I had calculated ($222).
 
 ## Test reruns from September 2024
 
