@@ -73,6 +73,17 @@ This is to avoid any staining or damage particularly from the
 liquids. See note later about the removable funnel cap staining the
 lower inside of the box.
 
+### Avoid these activities while counting down the time for saliva collection
+
+* Too much throat or mouth exertion
+
+  * Avoid talking, humming, or other vocal cord exertion
+
+  * Avoid excessive mouth opening
+
+* Nasal congestion: If I have a congested nose, blow it out at the
+  start, so that mucus/phlegm in saliva is reduced
+
 ## Some additional gotchas noted in the 23andMe collection process
 
 ### Saliva collection
