@@ -40,3 +40,8 @@ tongue, causing a bit of itchiness there. If the itchiness persists to
 my evening meal I might skip walnuts -- I have not decided as of the
 end of the first meal. Even if I do have walnuts, I need to pay close
 attention to technique to eliminate sharp impacts on the tongue.
+
+UPDATE 2024-11-01: For the past day or so, this has been mild and
+intermittent enough (despite my not restricting my diet in any way,
+though I have tried to be more careful when chewing). So, I am
+considering the issue resolved.
