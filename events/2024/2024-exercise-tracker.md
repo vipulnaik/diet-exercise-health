@@ -895,8 +895,8 @@ exercises) on the weekend (2024-10-26 and 2024-10-27).
 
 ## 2024-10-28: resumption of jogging and some other exercises
 
-On 2024-10-28, as per the plan outlined in my best practices around
-vaccine
+On Monday 2024-10-28, as per the plan outlined in my best practices
+around vaccine
 appointments](../../best-practices/best-practices-around-vaccine-appointments.md),
 I went for jogging and was able to cover the minimum distance (though
 not a lot more). I also resumned the humming-with-intermittent-pauses
@@ -905,8 +905,24 @@ standing-on-toes-with-eyes-closed exercise. I continued to refrain
 from strength exercises, hand gripper exercises, and dead hang
 exercises.
 
+## 2024-10-29: resumption of non-vaccine arm hand gripper exercises
+
+On Tuesday 2024-10-29, as per the plan outlined in my best practices
+around vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.md),
+I resumed hand gripper exercises with my left arm (the non-vaccine
+arm).
+
 ## 2024-10-31: skipped exercise due to scheduling issues
 
-On 2024-10-31, I skipped exercise due to scheduling issues -- I got up
-late, had a few things to tackle in the morning, and then got into
-meetings from 10:30 AM till 1 PM.
+On Thursday 2024-10-31, I skipped exercise due to scheduling issues --
+I got up late, had a few things to tackle in the morning, and then got
+into meetings from 10:30 AM till 1 PM.
+
+## 2024-11-01: resumption of vaccine arm hand gripper exercises
+
+On Friday 2024-11-01, as per the plan outlined in my best practices
+around vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.md),
+I resumed hand gripper exercises with my right arm (the arm where I
+had received the vaccine).
