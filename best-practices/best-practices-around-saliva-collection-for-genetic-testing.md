@@ -79,10 +79,10 @@ lower inside of the box.
 
 My first round of saliva collection (started about 39 minutes after I
 last drank water) took about a minute and was very bubble-free, but it
-seemed to include some gooey material that I was worried was some sort
-of contamination (it may have beem mucus or some food particle reflux
-or something from the tissues I was using to wipe my mouth during the
-process). To be safe, I poured it off and re-collected. However, this
+seemed to include a small strand of gooey material that I was worried
+was some sort of contamination (it may have beem mucus or some food
+particle reflux, considering I had eaten a little over an hour
+ago). To be safe, I poured it off and re-collected. However, this
 second time the collection took about 3 minutes and did have a fair
 amount of bubbles. I tried draining off the bubbles on top, but didn't
 succeed, and instead drained the saliva below the bubbles to some
