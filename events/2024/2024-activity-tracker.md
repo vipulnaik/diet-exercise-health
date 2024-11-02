@@ -504,3 +504,16 @@ from Walgreens after being done with the flu shot.
 
 In the afternoon, I made a trip to the Amazon Hub Locker at ASUC for
 package pickup.
+
+## Friday November 1
+
+In the late afternoon / early evening, I made a trip to downtown
+Berkeley. I first stopped at the USPS post office at 2000 Allston Way
+to drop off my 23andMe saliva sample.
+
+I then stopped at Citibank for financial transactions (getting
+quarters to use for laundry).
+
+I then went to Trader Joe's for
+food purchases recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).
