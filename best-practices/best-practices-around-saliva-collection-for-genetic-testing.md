@@ -116,6 +116,11 @@ In the future:
   liquid part to the line. Though if the first collection works, there
   shouldn't be much by way of bubbles.
 
+UPDATE 2024-11-01: When I checked the sample in preparation for
+closing up for submission, the bubbles had disappeared and it was all
+clear liquid saliva. This reinforces the point to not worry about
+bubbles.
+
 ### Removable funnel cap placement
 
 I made the mistake of placing the removable funnel cap, after removing
@@ -124,3 +129,6 @@ ended up staining a part of the lower inside of the box.
 
 In general, make sure not to put anything in the box for return until
 getting to the final packing stage.
+
+UPDATE 2024-11-01: This had dried completely by the time I closed up
+my kit for submission, and didn't leave any visible stain.
