@@ -2983,7 +2983,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-10-30','TJ Walnuts',1),
   ('2024-10-30','TJ English Shelled Peas',2),
   ('2024-10-30','TJ Roasted Seaweed',1),
-  /* 2024-11-01 Trader Joe's; total cost $33.62; checkout at 3:48 PM; paid by debit card */
+  /* 2024-11-01 Trader Joe's; total cost $33.62; checkout at 4:48 PM; paid by debit card */
   ('2024-11-01','TJ Almond Milk',1),
   ('2024-11-01','TJ Kale',1),
   ('2024-11-01','Green bell pepper',4),
