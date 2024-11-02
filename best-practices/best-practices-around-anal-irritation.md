@@ -114,7 +114,7 @@ fine (i.e., from a primary prevention perspective).
 
 ### Responding to an itching or burning sensation (no bleeding and no significant swelling yet)
 
-The early waning sign, that may self-resolve, or may be a harbinger of
+The early warning sign, that may self-resolve, or may be a harbinger of
 worse things, is an itching or burning sensation. Sometimes, there's
 also a sensation of heaviness or closing up. These usually happen
 early in the swelling process, so the hope is that prompt action here

@@ -135,6 +135,20 @@ am considering the issue resolved even though there is still some
 residual healing that remains. I do not have plans to update this
 document further unless there are additional unexpected developments.
 
+### 2024-10-30 to 2024-11-02
+
+Over this period, my wet wiping has been limited to after bowel
+movement (and after dry wiping to get to a clean state). I haven't
+experienced itchiness or pain at anal sphincter contraction.
+
+### 2024-11-03 onward
+
+My plan for 2024-11-03 onward is to return to my steady-state best
+practices. In particular, I will stop wet wiping except in cases where
+I am experiencing itchiness or irritation. Basically, I'll follow the
+guiadance
+[here](../../best-practices/best-practices-around-anal-irritation.md).
+
 ## Comparison with previous anal swelling incidents
 
 * There was no visible change to the quantity or nature of my stool,
