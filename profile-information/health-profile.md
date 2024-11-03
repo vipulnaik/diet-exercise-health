@@ -954,14 +954,20 @@ My current supplement regime as of October 2024 is:
   * This is just as a safety measure; I don't think I am deficient in
     any of these but it's good to top them up given my vegan diet.
 
-* 1 daily Vitamin B12 (supplier can change over time)
-  * I am not currently deficient in Vitamin B12 (the last test in 2018
-    showed I was at the high end) but given my vegan diet, it's better
-    to keep taking the supplement. Vitamin B12 is water-soluble so
-    excess should flow out.
+* 1 daily or once-in-two-days Vitamin B12 (supplier can change over time)
 
-* Experimental Atrantil consumption (I may ramp this up or down based
-  on my estimate of how it's affecting abdominal discomfort)
+  * I target taking 500 mcg daily. When the stock I have is for 1000
+    mcg, I take it once every two days instead of daily.
+
+  * I am not currently deficient in Vitamin B12 (the last test in
+    September 2024) but this is likely primarily due to
+    supplementation. Given my vegan diet, it's better to keep taking
+    the supplement. Vitamin B12 is water-soluble so excess should flow
+    out.
+
+* 1 daily vegan lysine (600 mg).
+
+* Occasional Atrantil consumption in case of significant abdominal discomfort
 
 * Occasional Vitamin C supplement
   * I generally take this before or after events where I expect to be
