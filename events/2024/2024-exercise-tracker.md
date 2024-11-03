@@ -926,3 +926,10 @@ around vaccine
 appointments](../../best-practices/best-practices-around-vaccine-appointments.md),
 I resumed hand gripper exercises with my right arm (the arm where I
 had received the vaccine).
+
+## 2024-11-03: resumption of strength exercises
+
+On Sunday 2024-11-03, as per the plan outlined in my best practices
+around vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.md),
+I resumed strength exercises.
