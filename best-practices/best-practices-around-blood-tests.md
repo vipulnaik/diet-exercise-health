@@ -63,7 +63,7 @@ I should budget to leave about 2 hours after waking up, arrive 30
 minutes after leaving, and spend about an hour at the test location,
 then 30 minutes back.
 
-Since there's not fixed date, just an intended date, I can move this
+Since there's no fixed date, just an intended date, I can move this
 around if things happen at work.
 
 ### Reminders to sleep early starting two days before the test date
@@ -78,8 +78,8 @@ appointment, use the estimated time of walk-in.
 
 ### Shopping reminder for two days prior to the appointment
 
-Carrying heavy grocery bags can be a challenge after getting a sore
-arm due to a vaccine.
+Carrying heavy grocery bags can be a challenge after having blood draw
+in an arm.
 
 ### Weather check reminder for two days prior to the appointment
 

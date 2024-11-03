@@ -1,10 +1,23 @@
 # 2024 blood test plans (round 2)
 
-## Test order
+## Test order and appointment
+
+### Order
 
 On 2024-10-31, I placed the test order with Marek Diagnostics for
-$222, consistent with the plans outlined below. As of 2024-10-31, I
-still need to get the actual blood draw done.
+$222, consistent with the plans outlined below. I received the
+requisition form immediately, but as of 2024-11-03, I had not received
+guidance on how to interact with LabCorp about it.
+
+### Appointment booking
+
+Rather than waiting for the guidance, I booked an appointment for
+Friday 2024-11-22 10:30 AM. The appointment booking process did not
+ask for order details, but asked me to confirm that I did have the
+order. The reason I booked the appointment rather than wait for Marek
+Diagnostics to email me guidance was that appointments need to be
+booked 2-3 weeks in advance, and I wanted to snag the slot while it
+was available. It is possible to reschedule or cancel the appointment.
 
 ## Cost estimate
 
