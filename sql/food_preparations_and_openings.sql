@@ -321,7 +321,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-13','Red bell pepper',2),
   ('2024-08-13','Beefsteak tomato',6),
   /* Potatoes prep 2024-08-15; skipping both broccoli and peas this time, and instead using more potatoes */
-  ('2024-08-15','Gold potatoes 5 lb',0.43),
+  ('2024-08-15','Gold potatoes 5 lb',0.51),
   ('2024-08-15','TJ Kale',1),
   ('2024-08-15','Beefsteak tomato',5),
   /* New bottle/packet openings as the old ones finished */
@@ -335,7 +335,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-08-19 (second meal) */
   ('2024-08-19','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Potatoes prep 2024-08-20 (first meal) */
-  ('2024-08-20','Gold potatoes 5 lb',0.43),
+  ('2024-08-20','Gold potatoes 5 lb',0.51),
   ('2024-08-20','TJ Kale',1),
   ('2024-08-20','Beefsteak tomato',5),
   /* New bottle/packet openings as the old ones finished */
@@ -355,7 +355,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-23','Red bell pepper',2),
   ('2024-08-23','Beefsteak tomato',6),
   /* Potatoes prep 2024-08-24 (first meal) */
-  ('2024-08-24','Gold potatoes 5 lb',0.43),
+  ('2024-08-24','Gold potatoes 5 lb',0.51),
   ('2024-08-24','TJ Kale',1),
   ('2024-08-24','Beefsteak tomato',6),
   /* New bottle/packet openings as the old ones finished */
@@ -368,7 +368,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-08-28','Kite Hill Greek Style Plant-Based Yogurt',1), /* opened with second meal */
   ('2024-08-29','TJ Walnuts',1), /* opened with first meal */
   /* Potatoes prep 2024-08-29 (second meal) */
-  ('2024-08-29','Gold potatoes 5 lb',0.43),
+  ('2024-08-29','Gold potatoes 5 lb',0.51),
   ('2024-08-29','TJ Kale',1),
   ('2024-08-29','Beefsteak tomato',5.5),
   /* Rice prep 2024-08-30 (second meal) */
@@ -387,7 +387,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-01','Red bell pepper',2),
   ('2024-09-01','Beefsteak tomato',6),
   /* Potatoes prep 2024-09-02 (first meal) */
-  ('2024-09-02','Gold potatoes 5 lb',0.43),
+  ('2024-09-02','Gold potatoes 5 lb',0.51),
   ('2024-09-02','TJ Kale',1),
   ('2024-09-02','Beefsteak tomato',6),
   /* Rice prep 2024-09-03 (first meal) */
@@ -401,7 +401,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-06','TJ Almond Milk',1), /* technically opened with first meal but started using in second meal */
   ('2024-09-06','TJ Miso Ginger Broth',1), /* opened with second meal */
   /* Potatoes prep 2024-09-07 (first meal) */
-  ('2024-09-07','Gold potatoes 5 lb',0.43),
+  ('2024-09-07','Gold potatoes 5 lb',0.51),
   ('2024-09-07','TJ Kale',1),
   ('2024-09-07','TJ English Shelled Peas',1),
   ('2024-09-07','Beefsteak tomato',6),
@@ -424,7 +424,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-10','TJ Roasted Seaweed',1), /* second meal; this is also my first time having this since I started recording; I last had seaweed not bought by me back around 2019 */
   ('2024-09-11','Kite Hill Greek Style Plant-Based Yogurt',1), /* opened with first meal */
   /* Potatoes prep 2024-09-12 (first meal) */
-  ('2024-09-12','Gold potatoes 5 lb',0.43),
+  ('2024-09-12','Gold potatoes 5 lb',0.51),
   ('2024-09-12','TJ Kale',1),
   ('2024-09-12','TJ English Shelled Peas',2),
   ('2024-09-12','Beefsteak tomato',6),
@@ -461,7 +461,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Takeout food 2024-09-18 */
   ('2024-09-18','Udupi Palace spinach masala dosa',1),
   /* Potatoes prep 2024-09-19 (first meal) */
-  ('2024-09-19','Gold potatoes 5 lb',0.43),
+  ('2024-09-19','Gold potatoes 5 lb',0.51),
   ('2024-09-19','TJ Kale',1),
   ('2024-09-19','TJ English Shelled Peas',1.8), /* about 20% of one packet was lost due to peas scattering after an aggressive open */
   ('2024-09-19','Beefsteak tomato',6),
@@ -477,7 +477,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-22','TJ Roasted Seaweed',1), /* second meal */
   ('2024-09-24','TJ Miso Ginger Broth',1), /* first meal; my consumption rate for miso ginger broth has been higher than in the past as I have paused sauerkraut and walnuts consumption */
   /* Potatoes prep 2024-09-24 (second meal) */
-  ('2024-09-24','Gold potatoes 5 lb',0.43),
+  ('2024-09-24','Gold potatoes 5 lb',0.51),
   ('2024-09-24','TJ Kale',1),
   ('2024-09-24','TJ English Shelled Peas',2),
   ('2024-09-24','Beefsteak tomato',6),
@@ -505,7 +505,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-09-29 (second meal) */
   ('2024-09-29','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Potatoes prep 2024-09-30 (first meal) */
-  ('2024-09-30','Gold potatoes 5 lb',0.43),
+  ('2024-09-30','Gold potatoes 5 lb',0.51),
   ('2024-09-30','TJ Kale',1),
   ('2024-09-30','TJ English Shelled Peas',0.9),
   ('2024-09-30','Beefsteak tomato',6),
@@ -518,7 +518,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-10-03 (first meal) */
   ('2024-10-03','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Potatoes prep 2024-10-03 (second meal) */
-  ('2024-10-03','Gold potatoes 5 lb',0.43),
+  ('2024-10-03','Gold potatoes 5 lb',0.51),
   ('2024-10-03','TJ Kale',1),
   ('2024-10-03','TJ English Shelled Peas',2),
   ('2024-10-03','Beefsteak tomato',6),
@@ -545,7 +545,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-06','TJ Roasted Seaweed',1), /* second meal */
   ('2024-10-07','TJ Miso Ginger Broth',1), /* second meal */
   /* Potatoes prep 2024-10-09 (second meal) */
-  ('2024-10-09','Gold potatoes 5 lb',0.43),
+  ('2024-10-09','Gold potatoes 5 lb',0.51),
   ('2024-10-09','TJ Kale',1),
   ('2024-10-09','TJ English Shelled Peas',2),
   ('2024-10-09','Beefsteak tomato',6),
@@ -575,7 +575,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-10-14 (first meal) -- there was still some rice left from the previous prep, but for logistical reasons I wanted to cook rice in the morning instead of the evening */
   ('2024-10-14','Lundberg Sustainable California White Basmati Rice',0.8),
   /* Potatoes prep 2024-10-14 (second meal) */
-  ('2024-10-14','Gold potatoes 5 lb',0.43),
+  ('2024-10-14','Gold potatoes 5 lb',0.51),
   ('2024-10-14','TJ Kale',1),
   ('2024-10-14','TJ English Shelled Peas',2),
   ('2024-10-14','Beefsteak tomato',6),
@@ -602,7 +602,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-19','TJ Roasted Seaweed',1), /* second meal */
   ('2024-10-20','TJ Miso Ginger Broth',1), /* first meal */
   /* Potatoes prep 2024-10-20 (second meal) */
-  ('2024-10-20','Gold potatoes 5 lb',0.43),
+  ('2024-10-20','Gold potatoes 5 lb',0.51),
   ('2024-10-20','TJ Kale',1),
   ('2024-10-20','TJ English Shelled Peas',2),
   ('2024-10-20','Beefsteak tomato',6),
@@ -621,7 +621,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-22','TJ Miso Ginger Broth',1), /* second meal */
   ('2024-10-23','TJ Carb Savvy Tortillas',1), /* second meal */
   /* Potatoes prep 2024-10-24 */
-  ('2024-10-24','Gold potatoes 5 lb',0.43),
+  ('2024-10-24','Gold potatoes 5 lb',0.51),
   ('2024-10-24','TJ Kale',1),
   ('2024-10-24','TJ English Shelled Peas',2),
   ('2024-10-24','Beefsteak tomato',6),
@@ -656,7 +656,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-10-30','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal -- included finishing up the old container for half of the meal */
   ('2024-10-30','TJ Walnuts',1), /* first meal -- included finishing up the old packet for half of the meal */
   /* Potatoes prep 2024-10-30 (second meal) */
-  ('2024-10-30','Gold potatoes 5 lb',0.43),
+  ('2024-10-30','Gold potatoes 5 lb',0.51),
   ('2024-10-30','TJ Kale',1),
   ('2024-10-30','TJ English Shelled Peas',2),
   ('2024-10-30','Beefsteak tomato',6),
@@ -680,7 +680,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-03','Kite Hill Greek Style Plant-Based Yogurt',1), /* second meal */
   ('2024-11-03','TJ Carb Savvy Tortillas',1), /* second meal */
   /* Potatoes prep 2024-11-04 (first meal) */
-  ('2024-11-04','Gold potatoes 5 lb',0.43),
+  ('2024-11-04','Gold potatoes 5 lb',0.51),
   ('2024-11-04','TJ Kale',1),
   ('2024-11-04','TJ English Shelled Peas',2),
   ('2024-11-04','Beefsteak tomato',6);
