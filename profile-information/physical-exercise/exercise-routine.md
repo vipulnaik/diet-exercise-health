@@ -171,9 +171,9 @@ balance.
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
 
-As of October 2024, my aim is to be able to manage at least 34
+As of November 2024, my aim is to be able to manage at least 36
 seconds on each leg, with adjustments for colder indoor
-temperatures. In practice, I generally do somewhere between 36 and 54
+temperatures. In practice, I generally do somewhere between 40 and 60
 seconds on each leg.
 
 See
@@ -184,7 +184,7 @@ for more details.
 
 Goal of exercise: build
 
-As of October 2024, my aim is to be able to manage at least 18 seconds
+As of November 2024, my aim is to be able to manage at least 21 seconds
 without having to lift and reposition either foot.
 
 See

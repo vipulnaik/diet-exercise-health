@@ -8,7 +8,7 @@ practice and some variants of it.
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 34 seconds
+### Maintain standing-on-one-leg-with-eyes-closed for at least 36 seconds
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -21,22 +21,22 @@ According to
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
 (average of 18.3 seconds. As somebody in my late 30s (as of 2024), my
-threshold is at least 34 seconds per leg, and in practice I do between
-36 and 54 seconds on the first try most of the time.
+threshold is at least 36 seconds per leg, and in practice I do between
+40 and 60 seconds on the first try most of the time.
 
 At this point, it's not clear that increasing the duration has
 real-world effects either in practice or in theory, and time spent
 standing with eyes closed can't be multiplexed with other things, so
-my plan is to sustain the minimum of 34 seconds for
+my plan is to sustain the minimum of 36 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
 up. However, I might make slight upward adjustment; for instance, if I
-observe myself consistently exceeding 36 seconds, I might increase the
-threshold to 36 seconds.
+observe myself consistently exceeding 40 seconds, I might increase the
+threshold to 40 seconds.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 34 seconds over a
-single year, I think just being able to maintain at 34 seconds should
-be good enough.
+that I've increased the threshold from 10 seconds to 36 seconds over a
+little more than a year, I think just being able to maintain at 36
+seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
 exercises, such as
@@ -64,7 +64,7 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 34 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 36 seconds with adjustments for colder temperatures)
 
 * Prior to 2023-10-28, the de facto threshold duration was 10 seconds
 
@@ -168,7 +168,7 @@ The standard version of the exercise is as follows:
   * Baseline of 32 seconds
 
   * If I am doing the exercise after I return from jogging, no
-    adjustment (32 seconds remains the target)
+    adjustment (32 seconds remains the target).
 
   * If I am doing the exercise without jogging or similar warmup, then
     temperature-based adjustment as follows. If the temperature is 20
@@ -192,12 +192,28 @@ The standard version of the exercise is as follows:
   * If I am doing the exercise without jogging or similar warmup, then
     temperature-based adjustment as follows. If the temperature is 20
     degrees Celsius or higher, no adjustment. If the temperature is
-    greater than 4 degrees Celsius and less than 20 degrees Celsius,
+    greater than 3 degrees Celsius and less than 20 degrees Celsius,
     then twice the temperature in degrees Celsius - 6. For instance,
     if the temperature is 10 degrees Celsius, the threshold is 14. For
     temperatures of less than 3 degrees Celsius, I should skip this
     exercise or do it with no threshold expectation.
 
+* Starting 2024-11-05, I am increasing the baseline threshold to 36
+  seconds. The new logic is:
+
+  * Baseline of 36 seconds
+
+  * If I am doing the exercise after I return from jogging, no
+    adjustment (36 seconds remains the target)
+
+  * If I am doing the exercise without jogging or similar warmup, then
+    temperature-based adjustment as follows. If the temperature is 20
+    degrees Celsius or higher, no adjustment. If the temperature is
+    greater than 2 degrees Celsius and less than 20 degrees Celsius,
+    then twice the temperature in degrees Celsius - 4. For instance,
+    if the temperature is 10 degrees Celsius, the threshold is 14. For
+    temperatures of 2 degrees Celsius or less, I should skip this
+    exercise or do it with no threshold expectation.
 
 ### How the threshold duration is used
 
