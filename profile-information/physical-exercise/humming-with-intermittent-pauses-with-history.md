@@ -36,15 +36,14 @@ For training, I am using these songs:
   regular 4/4 meter so I can use powers of 2 easily, with roughly 8
   beats every 4.5 seconds, or each beat is about 562 ms.
 
-I might also use these songs in the future, though they're trickier
-due to being in triple meter:
+I might also use these songs in the future:
 
 * [No More War](https://www.youtube.com/watch?v=4ADnsqiqAI8)
 
 * [Official Game of Thrones Opening
-  Credits](https://www.youtube.com/watch?v=s7L2PVdrb_8) (this is also
-  trickier because the song has more of a progression, but I can just
-  hum the main refrain)
+  Credits](https://www.youtube.com/watch?v=s7L2PVdrb_8) (this is in
+  triple meter and is also trickier because the song has more of a
+  progression, but I can just hum the main refrain)
 
 For the Chennai Express theme song, my current observations are as follows:
 
