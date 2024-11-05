@@ -34,6 +34,13 @@ previous or next two weeks:
 
 ## Calendar reminders
 
+### Even before the appointment is confirmed
+
+* Download the requisition form to my phone for offline access.
+
+* Calendar reminder to print out two copies of the requisition form
+  and sign one copy.
+
 ### ASAP after the appointment date and time are confirmed
 
 * Maintenance windows for work alerts where I'm primary: I can set
@@ -123,7 +130,7 @@ rid of the distortion.
 Supplement consumption can be resumed in the meal I have immediately
 after the blood test, or the next day.
 
-### Packing / prep reminder for the night before the blood test
+### (Including printed requisition form and phone copy of requisition form) Packing / prep reminder for the night before the blood test
 
 Since blood tests are relatively early in the morning, anything I need
 to get ready for them should ideally be handled the previous night, so
