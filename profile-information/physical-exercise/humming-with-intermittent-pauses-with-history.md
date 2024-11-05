@@ -18,7 +18,7 @@ fashion over a period of minutes.
 
 The protocol is that I hum a tune continuously except specific beats
 (e.g., 1 in every 8 beats) and I use that specific beat to pause my
-hum and take a nasal inbreath. The goal is to be able to hum the tune for
+hum and take a nasal inbreath.
 
 There are three parameters here:
 
