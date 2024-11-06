@@ -517,3 +517,8 @@ quarters to use for laundry).
 I then went to Trader Joe's for
 food purchases recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Tuesday November 5
+
+In the afternoon, I made two back-to-back trips to Walgreens for
+purchases.
