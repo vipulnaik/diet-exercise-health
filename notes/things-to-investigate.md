@@ -1,6 +1,6 @@
 # Things to investigate
 
-List last updated: 2024-10-20
+List last updated: 2024-11-06
 
 Time on these things would be in a mix of personal chores and other
 activities buckets. The other activities bucket would be used for
@@ -30,12 +30,6 @@ time-sensitive.
   [diversity](../events/2024/2024-09-28-decision-to-experimentally-add-another-omega-3-supplement.md). Need
   to figure out if new regimen is for the long term. Blood test
   results may influence the decision.
-
-* n-acetylcysteine (+ selenium) supplement
-  https://www.amazon.com/gp/product/B0013OUQ3S/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1
-  purchased and received; planning to experiment at some point. It can
-  help with acetaminophen toxicity and seems good to have in general,
-  but need to do more research. No doc yet.
 
 * Creatine supplement (deferred for now as I want to focus on the most
   important amino acids first).
