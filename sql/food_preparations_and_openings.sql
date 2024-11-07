@@ -692,5 +692,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep 2024-11-05 (overnight soaking to cook and eat the next day) */
   ('2024-11-05','TJ Green Lentils',0.5),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-11-06','TJ Miso Ginger Broth',1); /* first meal */
+  ('2024-11-06','TJ Miso Ginger Broth',1), /* first meal */
+  ('2024-11-06','Kite Hill Greek Style Plant-Based Yogurt',1), /* second meal */
+  /* Takeout food 2024-11-06 (second meal) -- I had the dosa fully in the meal but the sambhar and chutney only partially, in order to reduce the "outside food" load in a single day */
+  ('2024-11-06','Udupi Palace spinach masala dosa',1);
   /* Double-check the date before committing */
