@@ -3011,7 +3011,10 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-11-06','Beefsteak tomato',6),
   ('2024-11-06','Green bell pepper',4),
   /* 2024-11-06 Udupi Palace; total cost $14.28; paid by cash */
-  ('2024-11-06','Udupi Palace spinach masala dosa',1);
+  ('2024-11-06','Udupi Palace spinach masala dosa',1),
+  /* 2024-11-07 Berkeley Bowl; total cost $53.91; checkout at 3:22 PM; paid by credit card */
+  ('2024-11-07','Lundberg Sustainable California White Basmati Rice',3),
+  ('2024-11-07','Kite Hill Greek Style Plant-Based Yogurt',5); /* I was billed for 6, but I only noticed after getting back home */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
