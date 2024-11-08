@@ -704,5 +704,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-07','Red bell pepper',2),
   ('2024-11-07','Beefsteak tomato',6),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-11-07','TJ Carb Savvy Tortillas',1); /* first meal */
+  ('2024-11-07','TJ Carb Savvy Tortillas',1), /* first meal */
+  ('2024-11-08','TJ Carb Savvy Tortillas',1), /* first meal */
+  ('2024-11-08','TJ Almond Milk',1); /* first meal */
   /* Double-check the date before committing */
