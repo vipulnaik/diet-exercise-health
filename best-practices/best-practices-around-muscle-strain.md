@@ -15,3 +15,7 @@ For laundry, don't put on PIP joints.
 
 For grocery bags over long durations, try to put more on wrist area
 than PIP area. Latter is weaker.
+
+Relationship between muscle strain and skin wounds that are not driven
+(mainly) by impacts. Example of lower neck inflammation after hand
+gripper exercises.
