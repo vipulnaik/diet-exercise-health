@@ -59,7 +59,9 @@ time-sensitive.
   involves and decide whether and when to do a specialist consultation
   and what questions to cover in the consultation.
 
-## Best practices docs to write
+## Best practices docs to write or expand
+
+* [Muscle strain](../best-practices/best-practices-around-muscle-strain.md)
 
 * Eye irritation
 
