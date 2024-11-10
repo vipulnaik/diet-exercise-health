@@ -934,6 +934,13 @@ See
 [2024-10-02-atrantil-purchase.md](../events/2024/2024-10-02-atrantil-purchase.md)
 for more information.
 
+### October and November 2024: experimentation with lysine and n-acetylcysteine
+
+See
+[2024-10-16-lysine-purchase.md](../events/2024/2024-10-16-lysine-purchase.md)
+and
+[2024-10-16-n-acetyl-cysteine-purchase.md](../events/2024/2024-10-16-n-acetyl-cysteine-purchase.md).
+
 ### Current supplements
 
 My current supplement regime as of October 2024 is:
@@ -966,6 +973,8 @@ My current supplement regime as of October 2024 is:
     out.
 
 * 1 daily vegan lysine (600 mg).
+
+* 1 daily vegan n-acetylcysteine with selenium (600 mg).
 
 * Occasional Atrantil consumption in case of significant abdominal discomfort
 
