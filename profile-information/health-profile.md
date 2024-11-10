@@ -943,7 +943,7 @@ and
 
 ### Current supplements
 
-My current supplement regime as of October 2024 is:
+My current supplement regime as of November 2024 is:
 
 * 1 daily 2500 IU vegan Vitamin D3 from Doctor's Best
   * My measured Vitamin D level is solidly in the normal range, but
