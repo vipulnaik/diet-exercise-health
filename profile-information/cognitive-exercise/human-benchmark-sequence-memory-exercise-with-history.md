@@ -46,13 +46,14 @@ play further, but taking frequency below once a week makes it harder
 to maintain. So, in practice, aiming for over 30 (while still going as
 far as I can in each play) is my current strategy.
 
-## Current protocol and status as of 2024-10-17
+## Current protocol and status as of 2024-11-10
 
-My goal is to play the exercise 1 to 2 times a week. I should start
-the exercise when I have at least 25 minutes to spare. I should not
-play it twice in succession (unless I have a misclick or accident that
-causes the play to be prematurely terminated), and ideally not play it
-on successive days.
+My goal is to play the exercise for about one sitting every two weeks,
+with 1-2 plays per sitting. I should start the exercise when I have at
+least 25 minutes to spare. From 2024-10-17 to 2024-11-10, the protocol
+was to do 1-2 plays weekly, but given the time expenditure, and the
+fact that I generally do consistently well, I think a frequency of
+once every two weeks is sufficient to maintain the skill.
 
 What times should I choose? Generally, a weekend day when I am *not*
 doing strength exercises (as that generally means I am spending less
@@ -181,3 +182,10 @@ It's important to go slow when clicking. In particular:
   day, this was driven by the development of the strategy documented
   in [My strategy](#my-strategy). The three most recent scores were
   42, 36, and 39.
+
+* 2024-11-10: 33.6 points moving average. The trend remains similar to
+  2024-10-16. One thing worth noting is that for some of the games, I
+  deliberately failed the game after getting a high enough score due
+  to the game taking a lot of time that I didn't have to spare. So I
+  could potentially have scored a little higher in those cases had I
+  had the time and energy.
