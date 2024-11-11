@@ -933,3 +933,10 @@ On Sunday 2024-11-03, as per the plan outlined in my best practices
 around vaccine
 appointments](../../best-practices/best-practices-around-vaccine-appointments.md),
 I resumed strength exercises.
+
+## 2024-11-11: skipping of jogging and strength exercises due to rain
+
+On Monday 2024-11-11, due to rain in the morning, I skipped jogging
+and strength exercises. I still did other exercises including hand
+gripper exercises, breath holds, standing-on-one-leg-with-eyes-closed
+exercises, and the standing-on-toes-with-eyes-closed exercise.
