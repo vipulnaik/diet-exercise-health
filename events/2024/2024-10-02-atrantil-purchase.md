@@ -59,7 +59,7 @@ My current plan with Atrantil is as follows:
   as well as signs of nutty reflux (burping) or flatulence.
 
 * Otherwise, take 2 capsules in a meal about once every 5 to 14 days;
-  this is more to do a bit of polyphen replenishment and get regular
+  this is more to do a bit of polyphenol replenishment and get regular
   feedback on whether it significantly helps or hurts me; if it helps
   me a lot, that might be suggestive of doing a course of a few days;
   if it hurts me, that is useful information for my contingency plan
