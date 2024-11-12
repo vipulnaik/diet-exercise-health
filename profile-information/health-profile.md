@@ -49,17 +49,15 @@ Sections of this document:
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated November 11, 2024. I hope to update this section whenever
+last updated November 12, 2024. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
 significantly. I remove from here incidents that I consider closed; I
 may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affected my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of November 11, 2024, the only ongoing incident is [2024-11-09
-onward: abdominal
-discomfort](2024-11-09-onward-abdominal-discomfort.md). See recent
-incidents under the [events/2024 folder](../events/2024/).
+As of November 12, 2024, there are no ongoing incidents. You can see
+the list of incidents for 2024 in the [events/2024 folder](../events/2024).
 
 ## Vital signs
 

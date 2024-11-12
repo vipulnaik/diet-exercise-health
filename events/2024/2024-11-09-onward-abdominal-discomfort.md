@@ -16,6 +16,10 @@ By the morning of 2024-11-11, abdominal discomfort was the only clear
 surviving symptom. The qualia had shifted from a bloating sensation to
 a cramping sensation.
 
+By the morning of 2024-11-12, the abdominal discomfort had largely
+cleared; any residual discomfort was not different from levels seen
+under normal fluctuation. So, I am considering the incident closed.
+
 ## Theories as to potential causes
 
 * Overexertion in the call on Saturday was a likely trigger but not
