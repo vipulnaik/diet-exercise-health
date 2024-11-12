@@ -522,3 +522,9 @@ food purchases recorded in
 
 In the afternoon, I made two back-to-back trips to Walgreens for
 purchases.
+
+## Monday November 11
+
+In the afternoon/evening, I made a trip to the Amazon Hub Locker to
+pick up a package. On the way back, I stopped at Walgreens to do some
+shopping.
