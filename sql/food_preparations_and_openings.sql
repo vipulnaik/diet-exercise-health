@@ -707,6 +707,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-07','TJ Carb Savvy Tortillas',1), /* first meal */
   ('2024-11-08','TJ Carb Savvy Tortillas',1), /* first meal */
   ('2024-11-08','TJ Almond Milk',1), /* first meal */
+  ('2024-11-08','TJ Roasted Seaweed',1), /* second meal -- this is inferred / backfilled and the date may be off */
   /* Potatoes prep 2024-11-09 (first meal) */
   ('2024-11-09','Gold potatoes 5 lb',0.51),
   ('2024-11-09','TJ Kale',1),
@@ -720,5 +721,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-11-10','TJ Carb Savvy Tortillas',1), /* second meal */
   ('2024-11-11','TJ Miso Ginger Broth',1), /* first meal */
-  ('2024-11-11','TJ Walnuts',1); /* first meal */
+  ('2024-11-11','TJ Walnuts',1), /* first meal */
+  ('2024-11-11','TJ Roasted Seaweed',1), /* second meal */
+  ('2024-11-12','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
+  ('2024-11-12','TJ Carb Savvy Tortillas',1); /* second meal */
   /* Double-check the date before committing */
