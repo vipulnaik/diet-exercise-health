@@ -34,6 +34,14 @@ time-sensitive.
 * Creatine supplement (deferred for now as I want to focus on the most
   important amino acids first).
 
+## Other treatments
+
+* Topical minoxidil for balding; both the how-to (for instance, the
+  videos
+  [here](https://www.youtube.com/results?search_query=how+to+use+minoxidil))
+  and more on the theory of how balding and hair regrowth work; also,
+  learn more about more powerful and risky tools like finasteride
+
 ## Tests
 
 * Look into DEXA scans to be done in late 2024 or some time in
