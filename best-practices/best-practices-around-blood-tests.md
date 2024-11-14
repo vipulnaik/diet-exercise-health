@@ -7,7 +7,7 @@ decisioning](best-practices-around-blood-test-decisioning.md).
 
 ## Order the tests and book the appointment
 
-The bprocess is generally two-phase: first, I order via a provider,
+The process is generally two-phase: first, I order via a provider,
 such as Own Your Labs, Marek Diagnostics, or Request A Test. They will
 send the order to the blood draw company, which will be either LabCorp
 or Quest Diagnostics. Once LabCorp or Quest Diagnostics has received
@@ -19,6 +19,12 @@ I should aim to book at least two days before my intended date of
 going for the tests. Keep in mind the test location hours (usually
 Monday to Friday, opening around 7 AM or 8 AM, and staying open till
 around 4 PM).
+
+For time of day, some time between 9:30 AM and 11:30 AM is best, with
+10 AM to 11 AM being ideal. However, consider my general routine of
+meals and waking up and try to pick a time that is at least 2.5 hours
+after my natural waking-up time, and ideally somewhere between 3 and 4
+hours.
 
 Try to book at a time when there is nothing of this sort in the
 previous or next two weeks:
@@ -62,9 +68,9 @@ Since the test is likely to include at least some pieces that require
 fasting, I should do the test in the morning, ideally after waking up,
 bowel movement, morning tasks, and bath (and without eating).
 
-Set a calendar reminder from 7 AM to noon on the test date. Invite my
-work email address as well so that the time is blocked on my work
-calendar.
+Set a calendar reminder from 7 AM to at least two hours after the test
+time on the test date. Invite my work email address as well so that
+the time is blocked on my work calendar.
 
 I should budget to leave about 2 hours after waking up, arrive 30
 minutes after leaving, and spend about an hour at the test location,
