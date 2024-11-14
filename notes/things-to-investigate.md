@@ -1,6 +1,6 @@
 # Things to investigate
 
-List last updated: 2024-11-06
+List last updated: 2024-11-14
 
 Time on these things would be in a mix of personal chores and other
 activities buckets. The other activities bucket would be used for
@@ -56,10 +56,6 @@ time-sensitive.
 
 * Look into coronary artery calcium (CAC) / CT angiogram to be done at
   some point in the next 2-3 years.
-
-## Data analysis
-
-* Take a fresh look at my 23andme data
 
 ## Procedures
 
