@@ -940,3 +940,12 @@ On Monday 2024-11-11, due to rain in the morning, I skipped jogging
 and strength exercises. I still did other exercises including hand
 gripper exercises, breath holds, standing-on-one-leg-with-eyes-closed
 exercises, and the standing-on-toes-with-eyes-closed exercise.
+
+## 2024-11-13: skipped most exercise due to lengthy call and rain
+
+On 2024-11-13, I skipped most exercise due to a lengthy call in the
+morning (a planned one). By the time the call ended, it was quite late
+and it was anyway raining.
+
+I did do hand gripper exercises in the evening but skipped all other
+exercises.
