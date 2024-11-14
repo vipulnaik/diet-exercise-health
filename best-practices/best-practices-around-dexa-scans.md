@@ -102,7 +102,17 @@ like a safe practice.
 
 What printed or phone documents do I need to carry?
 
+Make sure I have the right clothes for tomorrow.
+
+Make sure I have the right stuff to empty my pockets into my backpack
+(keys, wallet, etc. would need to be removed from my pockets during
+the scan).
+
 ## Day of the appointment
+
+### Make sure to wear clothes without any metal (even zippers)
+
+Clothes with metal can interfere with the integrity of DEXA scans.
 
 ### Make sure to drink enough water (if testing allows)
 
