@@ -69,8 +69,6 @@ time-sensitive.
 
 ## Best practices docs to write or expand
 
-* [Muscle strain](../best-practices/best-practices-around-muscle-strain.md)
-
 * Eye irritation
 
 * Dental pain (both spontaneous and after procedures)
