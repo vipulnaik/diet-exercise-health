@@ -117,3 +117,25 @@ urgent care visit would be included under urgent care center costs
 (and therefore folded under the $60/visit HMO charge). From a
 budgeting perspective, I should assume that it is not covered, until I
 get clear confirmation that it is.
+
+## Vaccinations
+
+I generally do one COVID-19 vaccine and one flu vaccine every winter
+season, which could translate to between 0 and 2 of each depending on
+when in the season I get the vaccine. While I can cover these
+out-of-pocket, having insurance cover them is a nice perk.
+
+It looks like both the HMO and PPO plan use the [Rx Ultra
+network](https://www.blueshieldca.com/en/home/be-well/pharmacy/our-pharmacy-network)
+that provides pharmacy benefits including Walgreens and
+CVS. Vaccinations done at a pharmacy are covered under pharmacy
+benefits.
+
+All plans cover vaccinations as these fall under [preventive
+care](https://www.healthcare.gov/preventive-care-adults/). The flu is
+explicitly listed there. COVID-19 is not explicitly listed (perhaps
+because it's a more recent vaccine) but my experience so far suggests
+that it is always covered. In any case, there does not seem to be any
+difference between HMO and PPO in terms of whether they cover
+preventive care or in terms of their pharmacy network, so this is not
+a point of differentiation between the services.
