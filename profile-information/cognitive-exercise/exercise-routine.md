@@ -10,9 +10,10 @@ Goal of exercise: Maintain at 30+ score
 
 Further information: [Human Benchmark sequence memory exercise with history](human-bechmark-sequence-memory-exercise-with-history.md)
 
-My goal is to play sequence memory about once a week and maintain a
-score of 30+. I should play this on a weekend day when I am not doing
-strength exercises and budget at least 25 minutes for the exercise.
+My goal is to play sequence memory about once every two weeks and
+maintain a score of 30+. I should play this on a weekend day when I am
+not doing strength exercises and budget at least 25 minutes for the
+exercise.
 
 ## Verbal memory
 
