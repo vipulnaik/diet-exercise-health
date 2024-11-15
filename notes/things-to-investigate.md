@@ -50,6 +50,28 @@ time-sensitive.
   more specialized one? I likely only need one every 5 years or so if
   it comes out okay.
 
+  Likely action: May/June 2025; continued research and work on myself
+  until then
+
+  Progress so far:
+
+  * I write [best practices around DEXA
+    scans](../best-practices/best-practices-around-dexa-scans.md).
+
+  * I've watched a few videos and have some further material to watch.
+
+  * I plan to get the DEXA around May/June 2025 (as I want to focus my
+    energy on other things right now). I also plan to continue
+    focusing on exercises and other practices that are expected to
+    improve the underlying data for the time being. The reason for not
+    getting the DEXA sooner is that I don't expect the DEXA to be
+    decision-relevant for the near term -- for a wide range of
+    plausible outcomes, I expect the same action items in the near
+    term. The DEXA is more useful as a long-term benchmark, and it
+    would be more interesting to get this benchmark after more time
+    following the kind of exercise regimen that I think is both
+    desirable and sustainable.
+
 * Start planning for 2025 blood tests. This will likely be based on
   the results of the [2024 blood tests round
   2](../events/2024/2024-blood-test-plans-round-2.md).
