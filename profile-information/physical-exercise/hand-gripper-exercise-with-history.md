@@ -53,7 +53,21 @@ steps in quick succession:
 
 * Right hand on 150 lb: I close and keep closed for about 7-12 seconds.
 
+  NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
+  (generally when the ambient temperature is below 16 degrees
+  Celsius), I may not be able to fully close this hand gripper. In
+  such cases, I may defer this portion of the exercise to a later part
+  of the day when it is warmer. Alternatively, I may do the exercise
+  with an almost-closed rather than fully-closed position.
+
 * Left hand on 150 lb: I close and keep closed for about 7-12 seconds.
+
+  NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
+  (generally when the ambient temperature is below 16 degrees
+  Celsius), I may not be able to fully close this hand gripper. In
+  such cases, I may defer this portion of the exercise to a later part
+  of the day when it is warmer. Alternatively, I may do the exercise
+  with an almost-closed rather than fully-closed position.
 
 * Right hand on 100 lb: I close and keep closed for about 10-20
   seconds (generally about 15 seconds); if I were to start with the
