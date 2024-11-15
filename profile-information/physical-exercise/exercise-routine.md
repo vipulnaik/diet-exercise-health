@@ -145,19 +145,26 @@ under slightly and significantly degraded conditions respectively. I
 also tend to walk around for most of my chores, though these generally
 happen only once every few days.
 
-See
-[jogging-and-return-walking-with-history.md](jogging-and-return-walking-with-history.md)
-for more details.
+See [here](jogging-and-return-walking-with-history.md) for more
+details.
 
-## Strength exercises
+## Weight-lifting exercises
 
 Goal of exercise: build
 
-I have done strength exercises off and on, but mostly off, till about
-2021. In November 2021, I started doing strength exercises regularly
-in November 2021 and have ramped them up slowly since then. See
-[strength-exercises-with-history.md](strength-exercises-with-history.md)
-for details.
+I have done weight-lifting exercises off and on, but mostly off, till
+about 2021. In November 2021, I started doing weight-lifting exercises
+regularly in November 2021 and have ramped them up slowly since
+then. See [here](weight-lifting-exercises-with-history.md) for
+details.
+
+## Push-ups
+
+Goal of exercise: build
+
+I have not done push-ups in any significant quantity prior to starting
+in November 2021 along with weight-lifting exercises. I have ramed up
+the number slowly. See [here](push-ups-with-history.md) for details.
 
 ## Standing-on-one-leg-with-eyes-closed exercise
 
@@ -176,9 +183,8 @@ seconds on each leg, with adjustments for colder indoor
 temperatures. In practice, I generally do somewhere between 40 and 60
 seconds on each leg.
 
-See
-[standing-on-one-leg-with-eyes-closed-with-history.md](standing-on-one-leg-with-eyes-closed-with-history.md)
-for more details.
+See [here](standing-on-one-leg-with-eyes-closed-with-history.md) for
+more details.
 
 ## Standing-on-toes-with-eyes-closed exercise
 
@@ -187,9 +193,8 @@ Goal of exercise: build
 As of November 2024, my aim is to be able to manage at least 21 seconds
 without having to lift and reposition either foot.
 
-See
-[standing-on-toes-with-eyes-closed-with-history.md](standing-on-toes-with-eyes-closed-with-history.md)
-for more details.
+See [here](standing-on-toes-with-eyes-closed-with-history.md) for more
+details.
 
 ## Hand gripper exercise
 
@@ -209,6 +214,13 @@ Goal of exercise: build; the current level is reasonable but not great
 I started doing dead hang in October 2024. See
 [here](dead-hang-with-history.md) for more details.
 
+## Pull-ups
+
+Goal of exercise: build
+
+I started doing pull-ups in November 0224. See
+[here](pull-ups-with-history.md) for details.
+
 ## Breath holds
 
 Goal of exercise: build, though the current level is a respectable one
@@ -216,7 +228,7 @@ to maintain
 
 I generally do two breath holds in quick succession, both max-pause
 breath holds, generally for 50 to 80 seconds. See
-[breath-holds-with-history.md](breath-holds-with-history.md) for
+[here](breath-holds-with-history.md) for
 more background information.
 
 ## Humming with intermittent pauses
@@ -224,13 +236,12 @@ more background information.
 Goal of exercise: build (I have a long way to go)
 
 See
-[humming-with-intermittent-pauses-with-history.md](humming-with-intermittent-pauses-with-history.md)
+[here](humming-with-intermittent-pauses-with-history.md)
 for more background information.
 
 ## Deliberate falling practice
 
 Goal of exercise: maintain and verify
 
-See
-[deliberate-falling-practice-with-history.md](deliberate-falling-practice-with-history.md)
-for more background information.
+See [here](deliberate-falling-practice-with-history.md) for more
+background information.

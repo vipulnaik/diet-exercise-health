@@ -1,16 +1,16 @@
-# Strength exercises (with history)
+# Weight-lifting exercises (with history)
 
 ## Goal and functional relevance of exercise
 
 ### Build toward being able to do all exercises on 10 lb in each hand and some exercises at higher weights
 
-Strength exercises are super-important as being able to carry, hold,
+Weight-lifting exercises are super-important as being able to carry, hold,
 and move things around can be relevant for day-to-day and one-off
 real-world situations.
 
 From a day-to-day perspective, carrying grocery bags home has become
-much more effortless as I've ramped up strength exercises, and I
-attribute the success here to strength exercises (and maybe some hand
+much more effortless as I've ramped up weight-lifting exercises, and I
+attribute the success here to weight-lifting exercises (and maybe some hand
 gripper exercise).
 
 For unusual situations, things like moving furniture or heavy
@@ -25,18 +25,18 @@ better handle sudden impact injuries, though for the most part I
 should not be using that mechanism (I should just avoid getting
 injured).
 
-## Current protocol for strength exercises
+## Current protocol
 
 ### Frequency: 2 to 3 days
 
-I generally do strength exercises about once every 2-3 days when
+I generally do weight-lifting exercises about once every 2-3 days when
 well. The gap is variable between 2 and 3 days, allowing me a bit of
 flexibility in terms of time availability, fatigue levels, and other
 strength-using stuff during the day (such as shopping).
 
 ### Warmup
 
-I always start strength exercises after returning from jogging (within
+I always start weight-lifting exercises after returning from jogging (within
 about 20 minutes of returning). Also, right before starting, I do
 standing-on-one-leg-with-eyes-closed exercises. The goal of these is
 to confirm that my balance is fine -- if there are issues with my
@@ -76,39 +76,26 @@ is fatiguing me or I am having trouble with it, I can pause the
 weightlifting before proceeding to a higher weight where there is more
 risk of injury.
 
-### Pushups
-
-After the weights, I proceed to do pushups on the exercise mat.
-
-To count a pushup, I require my nose to touch the exercise mat. As the
-mat can curl up a bit, the level can be about 1-2 inches above the
-level of my hands.
-
-I generally stay in the pushup position through the exercise. I do 4-8
-repetitions and then break (while staying in the pushup position) for
-leg stretches. Then I continue with the pushups.
-
-The number of pushups I can manage can vary quite a bit. When I'm
-feeling low on energy, it's in the range of 10-15. When I am higher on
-energy, it's in the range of 17-22.
+After finishing weights, I do push-ups documented at [push-ups (with
+history)](push-ups-with-history.md).
 
 ### Gap to meal
 
 I generally try to wait at least 30 minutes between the finishing of
-strength exercises and my next meal, following
+weight-lifting exercises and my next meal, following
 [this](2021-01-10-ben-greenfield-hormesis.md), though I do try to
-drink water immediately upon completion of the strength exercises.
+drink water immediately upon completion of the weight-lifting exercises.
 
 ### Reasons for skipping
 
-Since I do strength exercises after returning from jogging, any of the
+Since I do weight-lifting exercises after returning from jogging, any of the
 reasons for skipping jogging also lead to skipping strength
-exercises. However, since the frequency of strength exercises is once
+exercises. However, since the frequency of weight-lifting exercises is once
 every 2-3 days, with variability in whether I do 2 or 3 days, I may
 skip jogging on one day without effectively skipping strength
 exercises.
 
-In addition, I may skip strength exercises for these reasons:
+In addition, I may skip weight-lifting exercises for these reasons:
 
 * **Post-jogging fatigue or hunger**: In some cases, I am feeling fine
   before I start jogging, but jogging fatigues me or gets me to a
@@ -117,30 +104,30 @@ In addition, I may skip strength exercises for these reasons:
 
 * **Muscle aches or abdominal discomfort**: Even beyond a clear
   sickness, if I am feeing any kind of aches or strain on the muscles
-  that I expect to use heavily during strength exercises, I skip the
-  strength exercises.
+  that I expect to use heavily during weight-lifting exercises, I skip the
+  weight-lifting exercises.
 
 * **Pre- and post-break for vaccination**: For vaccination (or any
   other injection into the muscle) I have a pre-break of three days
-  and a post-break of one week for strength exercises. For blood
+  and a post-break of one week for weight-lifting exercises. For blood
   draws, I have a pre-break of one day and a post-break of three days
-  for strength exercises.
+  for weight-lifting exercises.
 
 * **Finger injury that gets in the way of gripping**: This can get in
   othe way of weights as well as pushups.
 
 ## History
 
-I have done strength exercises off and on, but mostly off, till about
-2021. In November 2021, I started doing strength exercises regularly
+I have done weight-lifting exercises off and on, but mostly off, till about
+2021. In November 2021, I started doing weight-lifting exercises regularly
 in November 2021 and have ramped them up slowly since then.
 
-## 2021-11-02: starting my steady strength exercise journey 
+## 2021-11-02: starting my steady weight-lifting exercise journey 
 
 On Tuesday, November 2, 2021, I received my order of weights. The
 previous day I had received my exercise mat order.
 
-Starting on Tuesday, I began alternating-day weightlifting, pushups
+Starting on Tuesday, I began alternating-day weightlifting, push-ups
 and stretching exercises.
 
 I had already been doing stand-on-one-leg-with-eyes-closed exercises
@@ -148,7 +135,7 @@ reasonably regularly; I resolved to do these as part of my
 alternate-day practice, though I might also do it on the other days
 when I wasn't doing weightlifting.
 
-All my weightlifting and stretching exercises are done while on the
+All my weight-lifting and stretching exercises are done while on the
 exercise mat; the stand-on-one-leg-with-eyes-closed I may do while on
 and off the exercise mat (stand-on-one-leg-with-eyes-closed is harder
 on a mat because of the less stable surface of the mat).
@@ -177,9 +164,9 @@ On Friday 2024-01-12, when I went to Walgreens for my COVID vaccine, I bought
 a 8 lb dumb bell on the way back; I already had one other 8 lb dumb
 bell, so this was my second such dumb bell, allowing for simultaneous
 exercise with 8 lb in both hands. However, since I had just received
-the vaccine, I took a break from strength exercises for a few days.
+the vaccine, I took a break from weight-lifting exercises for a few days.
 
-On Sunday 2024-01-21, as part of resumed strength exercises, I
+On Sunday 2024-01-21, as part of resumed weight-lifting exercises, I
 exercised with 8 lb dumb bells in both hands for the first time. For
 my exercise sequence, I started with the 3 lb dumb bells, then
 proceeded to do the same exercises on the 5 lb dumb bells, and finally
