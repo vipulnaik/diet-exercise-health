@@ -744,5 +744,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-11-14','Kite Hill Greek Style Plant-Based Yogurt',1), /* second meal */
   ('2024-11-14','TJ Carb Savvy Tortillas',1), /* second meal */
-  ('2024-11-15','TJ Miso Ginger Broth',1); /* second meal */
+  ('2024-11-15','TJ Miso Ginger Broth',1), /* second meal */
+  /* Lentils prep 2024-11-15 (overnight soaking to cook tomorrow) */
+  ('2024-11-15','TJ Green Lentils',0.5);
   /* Double-check the date before committing */
