@@ -528,3 +528,8 @@ purchases.
 In the afternoon/evening, I made a trip to the Amazon Hub Locker to
 pick up a package. On the way back, I stopped at Walgreens to do some
 shopping.
+
+## Friday November 15
+
+In the afternoon/evening, I made an administrative trip. On the way
+back, I stopped at Walgreens and bought a few items.
