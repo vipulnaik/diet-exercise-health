@@ -27,5 +27,6 @@ insert into food_waste(waste_date, food_type, quantity, after_preparation_or_ope
   ('2024-09-28','TJ Green Lentils',0.08,false,'When I was draining the water used to soak the green lentils, some of the lentils on top fell out.'),
   ('2024-09-30','TJ English Shelled Peas',0.1,false,'A few peas fell off (about 10% of one packet) from the packet when I peeled off the paperboard label prior to opening for use.'),
   ('2024-10-30','Beefsteak tomato',0.25,true,'A few tomato pieces fell out from an overloaded pot at various points of time in the cooking process.'),
-  ('2024-10-30','TJ Kale',0.05,true,'Some of the kale I poured into the pot fell out as part of the pouring process.');
+  ('2024-10-30','TJ Kale',0.05,true,'Some of the kale I poured into the pot fell out as part of the pouring process.'),
+  ('2024-11-16','Gold potatoes 5 lb',0.97,false,'I had stored these in the freezer and then moved them to the fridge. The potatoes became mush and leaked into the vegetable tray I had to throw them out. One potato that I had used with the previous prep was excluded from this discard.');
   /* Double-check the date before committing */
