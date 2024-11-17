@@ -746,5 +746,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-14','TJ Carb Savvy Tortillas',1), /* second meal */
   ('2024-11-15','TJ Miso Ginger Broth',1), /* second meal */
   /* Lentils prep 2024-11-15 (overnight soaking to cook tomorrow) */
-  ('2024-11-15','TJ Green Lentils',0.5);
+  ('2024-11-15','TJ Green Lentils',0.5),
+  /* Rice prep 2024-11-16 (second meal) */
+  ('2024-11-16','Lundberg Sustainable California White Basmati Rice',0.9); /* more than before! This is because I'm consuming at a faster rate in the cold weather */
   /* Double-check the date before committing */
