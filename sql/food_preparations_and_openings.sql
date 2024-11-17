@@ -748,5 +748,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep 2024-11-15 (overnight soaking to cook tomorrow) */
   ('2024-11-15','TJ Green Lentils',0.5),
   /* Rice prep 2024-11-16 (second meal) */
-  ('2024-11-16','Lundberg Sustainable California White Basmati Rice',0.9); /* more than before! This is because I'm consuming at a faster rate in the cold weather */
+  ('2024-11-16','Lundberg Sustainable California White Basmati Rice',0.9), /* more than before! This is because I'm consuming at a faster rate in the cold weather */
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-11-16','TJ Roasted Seaweed',1), /* second meal */
+  ('2024-11-16','TJ Carb Savvy Tortillas',1);
   /* Double-check the date before committing */
