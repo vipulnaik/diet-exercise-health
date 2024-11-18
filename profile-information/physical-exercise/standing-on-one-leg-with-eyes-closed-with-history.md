@@ -21,21 +21,20 @@ According to
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
 (average of 18.3 seconds. As somebody in my late 30s (as of 2024), my
-threshold is at least 36 seconds per leg, and in practice I do between
-40 and 60 seconds on the first try most of the time.
+threshold is at least 40 seconds per leg, and in practice I do between
+42 and 66 seconds on the first try most of the time.
 
 At this point, it's not clear that increasing the duration has
 real-world effects either in practice or in theory, and time spent
 standing with eyes closed can't be multiplexed with other things, so
-my plan is to sustain the minimum of 36 seconds for
+my plan is to sustain the minimum of 40 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
-up. However, I might make slight upward adjustment; for instance, if I
-observe myself consistently exceeding 40 seconds, I might increase the
-threshold to 40 seconds.
+up. Time considerations make it dificult to push the threshold too far
+up, even if I am eventually able to do clearly over 40 seconds.
 
 From my perspective, the key is to prevent age-induced decline. Given
 that I've increased the threshold from 10 seconds to 36 seconds over a
-little more than a year, I think just being able to maintain at 36
+little more than a year, I think just being able to maintain at 40
 seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
@@ -215,6 +214,23 @@ The standard version of the exercise is as follows:
     temperatures of 2 degrees Celsius or less, I should skip this
     exercise or do it with no threshold expectation.
 
+* Starting 2024-11-17, I am increasing the baseline threshold to 40
+  seconds. The new logic is:
+
+  * Baseline of 40 seconds
+
+  * If I am doing the exercise after I return from jogging, no
+    adjustment (40 seconds remains the target)
+
+  * If I am doing the exercise without jogging or similar warmup, then
+    temperature-based adjustment as follows. If the temperature is 20
+    degrees Celsius or higher, no adjustment. If the temperature is
+    greater than 0 degrees Celsius and less than 20 degrees Celsius,
+    then twice the temperature in degrees Celsius. For instance,
+    if the temperature is 10 degrees Celsius, the threshold is 20. For
+    temperatures of0 degrees Celsius or less, I should skip this
+    exercise or do it with no threshold expectation.
+
 ### How the threshold duration is used
 
 If I don't clear the threshold duration on my first attempt, I
@@ -225,7 +241,7 @@ could stop at 3, 5, 7, or 9 attempts).
 ### Full retry
 
 If I fail the full iteration, i.e., even after 9 attempts, I do not
-have a median of 20 seconds (with threshold adjustment as needed) or
+have a median of 40 seconds (with threshold adjustment as needed) or
 higher, this is likely due to temporary stability issues. The most
 common reason is sleepy or trembling legs; this could be due to
 ambient cold temperatures or having been seated too long.
