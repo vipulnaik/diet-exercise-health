@@ -36,7 +36,7 @@ The process is as follows:
   of my feet and place it elsewhere; open my eyes and note the elapsed
   time.
 
-My initial goal is to have a median of at least 21 seconds over the
+My initial goal is to have a median of at least 24 seconds over the
 first 1, 3, 5, 7, or 9 tries (however many are needed).
 
 ## History
@@ -46,3 +46,5 @@ When I started on 2024-09-09, I set a threshold of 15 seconds.
 On 2024-10-14, I increased the threshold to 18 seconds.
 
 On 2024-11-05, I increased the threshold to 21 seconds.
+
+On 2024-11-17, I increased the threshold to 24 seconds.
