@@ -139,8 +139,8 @@ exercises regularly.
 Goal of exercise: burn + maintain (not trying to build though I do
 expect some improvement over time))
 
-I jog daily for a minimum of 1.5 miles and walk the remainder of the
-2-mile journey, with reduced thresholds of 1.4 miles and 1.25 miles
+I jog daily for a minimum of 1.6 miles and walk the remainder of the
+2-mile journey, with reduced thresholds of 1.5 miles and 1.4 miles
 under slightly and significantly degraded conditions respectively. I
 also tend to walk around for most of my chores, though these generally
 happen only once every few days.
