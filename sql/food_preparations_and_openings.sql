@@ -758,5 +758,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-17','Beefsteak tomato',7), /* 1 extra tomato because I didn't have any peas and I wanted to compensate partly for the volume */
   /* New bottle/packet openings as the old ones finished */
   ('2024-11-17','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
-  ('2024-11-17','TJ Almond Milk',1); /* first meal */
+  ('2024-11-17','TJ Almond Milk',1), /* first meal */
+  ('2024-11-17','TJ Carb Savvy Tortillas',1); /* second meal */
   /* Double-check the date before committing */
