@@ -751,5 +751,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-16','Lundberg Sustainable California White Basmati Rice',0.9), /* more than before! This is because I'm consuming at a faster rate in the cold weather */
   /* New bottle/packet openings as the old ones finished */
   ('2024-11-16','TJ Roasted Seaweed',1), /* second meal */
-  ('2024-11-16','TJ Carb Savvy Tortillas',1);
+  ('2024-11-16','TJ Carb Savvy Tortillas',1), /* second meal */
+  ('2024-11-17','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
+  ('2024-11-17','TJ Almond Milk',1); /* first meal */
   /* Double-check the date before committing */
