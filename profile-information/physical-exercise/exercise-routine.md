@@ -196,6 +196,17 @@ without having to lift and reposition either foot.
 See [here](standing-on-toes-with-eyes-closed-with-history.md) for more
 details.
 
+## Hopping
+
+Goal of exercise: build (but maintaining may be good enough)
+
+As of November 2024, my aim is to build toward being able to hop at
+least 20 feet including direction changes. I don't yet have enough
+data to gauge whether I need to build toward this or can simply
+maintain. I may also change my goals as I learn more.
+
+See [here](hopping-with-history.md) for more details.
+
 ## Hand gripper exercise
 
 Goal of exercise: build, though the current level is a respectable one
