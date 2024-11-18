@@ -4,10 +4,13 @@ This document is for notes on my performance on [human benchmark
 tests](https://humanbenchmark.com/). I don't record all scores, just
 summaries of my recent and cumulative trends periodically.
 
-The following exercises have their own pages and have been removed from this summary. Eventually all exercises should have their own page:
+The following exercises have their own pages and have been removed
+from this summary. Eventually all exercises should have their own
+page:
 
 * [Sequence memory](human-bechmark-sequence-memory-exercise-with-history.md)
 * [Verbal memory](human-benchmark-verbal-memory-exercise-with-history.md)
+* [Chimp test](human-benchmark-chimp-test-exercise-with-history.md)
 
 ## 2024-05-16
 
@@ -17,18 +20,6 @@ So far I've done four tests as logged-in user:
   respectively. This places me at the 94.1th percentile. I have had
   previous practice with this test (before logging in) and obviously
   have a lot of practice typing in real life.
-
-* Sequence memory: 15.4 points, averaging across 19 plays; a modal
-  around 17-19, and a max of 22. This places me at the 90.9th
-  percentile. I have had a fair amount of practice with this test
-  before logging in and creating an account; however, on the flip
-  side, a few runs of the test, particularly the lower-scoring ones,
-  were done in distracted settings.
-
-* Verbal memory: 66.5 points, averaging 65 points and 68 points. This
-  places me at the 77.72th percentile. Unlike the typing and sequence
-  memory tests, I have not yet had practice with this test prior to
-  these two plays.
 
 * Number memory: 14.0 points, with just one play at 14.0 points. This
   places me at the 96.2th percentile. Although I had not had recent
@@ -50,16 +41,6 @@ I've continued to do four tests as a logged-in user:
 * Typing: 95 wpm moving average, placing me at the 94.1th
   percentile. The score values range from 70 wpm to 110 wpm.
 
-* Sequence memory: 17.2 points moving average, placing me at the
-  94.9th percentile. The score values range from 10 to 20, but with a
-  few data points below 10 and a few above 20. My highest recorded
-  score seems to be 29. My normal good score is in the 16-20 range.
-
-* Verbal memory: 118.4 points moving average, placing me at the 95.0th
-  percentile. My historical score range is between 40 and 160, but
-  recent results have been on the higher end. This may be a case of a
-  game where I have improved in game-specific ways.
-
 * Number memory: 13.6 points moving average, placing me at the 96.2th
   percentle. My score ranges between 13 and 15.
 
@@ -76,18 +57,6 @@ quite a bit:
   percentile. My scores are generally in the 95-110 wpm range with
   occasional dips down to the 80s.
 
-* Sequence memory: 20.4 points moving average, placing me at the
-  97.6th percentile. I generally score in the 17-30 range (which is
-  where I land when not distracted and without making a careless
-  error), but occasionally score in the 10-16 range when i make a
-  careless error or get distracted.
-
-* Verbal memory: 144.0 points moving average, placing me at the 97.9th
-  percentile. My score can vary quite a bit, with 50 on the low end
-  and 216 as my highest score. Generally, scores around 150-200 are
-  what I can achieve when paying full attention (no distraction) and
-  if I don't make a careless error.
-
 * Number memory: 13.6 points moving average, placing me at the 96.2th
   percentle. My score ranges between 13 and 15. There's no update
   since last month.
@@ -98,11 +67,6 @@ quite a bit:
   past it to level 11. Very occasionally I fail to get to level 10. My
   highest level ever is 13, which may have been due to getting lucky
   with some patterns.
-
-* Chimp test: 11.5 points moving average, placing me at the 77.5th
-  percentile. I've played this only four times, with scores of 10, 12,
-  13, and 11 respectively. I probably need to play it more to get a
-  clear picture of where I stand and then to improve it.
 
 * Reaction time: 303 ms, placing me at the 7.3th percentile. This seems
   very hard to improve. I rarely get reaction times less than 230 ms,
