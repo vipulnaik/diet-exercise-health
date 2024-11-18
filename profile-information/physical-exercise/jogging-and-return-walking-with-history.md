@@ -58,8 +58,8 @@ crossing a road, or due to dogs or children nearby who might get
 excited by somebody moving fast, or when cars are moving out of
 parking spots).
 
-The total distance I jog is generally in the range of 1.5-1.8 miles,
-and the distance I walk back is generally in the range of 0.2-0.5
+The total distance I jog is generally in the range of 1.75-2.0 miles,
+and the distance I walk back is generally in the range of 0-0.25
 miles.
 
 Overall, one way (the first 1 mile, mostly jogging) takes me about
@@ -68,19 +68,19 @@ takes me about 13-17 minutes.
 
 ### Thresholds
 
-My threshold for the minimum distance jogged, as set on 2024-09-27 are
+My threshold for the minimum distance jogged, as updated on 2024-11-17, are
 as follows:
 
-* Ideal conditions threshold: 1.5 miles
+* Ideal conditions threshold: 1.6 miles
 
-* Slightly degraded conditions threshold: 1.4 miles
+* Slightly degraded conditions threshold: 1.5 miles
 
-* Significantly degraded conditions threshold: 1.25 miles
+* Significantly degraded conditions threshold: 1.4 miles
 
 The ideal conditions threshold applies when I am system-wise healthy
 (though I might have local issues) and don't have overexertion
 fatigue, have been jogging regularly, and the temperature is in the
-range of 15 to 20 degrees Celsius (59 to 68 degrees Fahrenheit).
+range of 13 to 20 degrees Celsius (55 to 68 degrees Fahrenheit).
 
 The slightly degraded conditions threshold applies when only one of these holds:
 
@@ -91,12 +91,12 @@ The slightly degraded conditions threshold applies when only one of these holds:
 * I have moderate fatigue from cognitive or physical overexertion or
   an emotionally stressful event yesterday or today.
 
-* The temperature is slightly off from ideal -- either 10 to 15
-  degrees Celsius (50 to 59 degrees Fahrenheit) or 20 to 25 degrees
+* The temperature is slightly off from ideal -- either 8 to 13
+  degrees Celsius (46 to 55 degrees Fahrenheit) or 20 to 25 degrees
   Celsius (68 to 77 degrees Fahrenheit).
 
 The significant degraded conditions threshold applies when two or more
-of the above conditions hold, or the temperature is below 10 degrees
+of the above conditions hold, or the temperature is below 8 degrees
 Celsius or above 25 degrees Celsius.
 
 I record in my exercise tracker file (for instance, [2024 exercise
@@ -220,8 +220,8 @@ I initially started with a goal of at least 1 mile jogging + the
 remainder of the 2-mile journey walking, with the return walking
 punctuated by brief bursts of jogging.
 
-Over time, I switched to at least the initial 1.25 miles jogging + walking the
-remainder of the 2-mile total.
+Over time, I switched to at least the initial 1.25 miles jogging +
+walking the remainder of the 2-mile total.
 
 On 2024-05-29, based on recent data, I decided to increase my
 threshold to the first 1.4 miles jogging + the remainder of the 2-mile
@@ -230,3 +230,8 @@ journey walking.
 On 2024-09-27, I increased the baseline threshold to 1.5 miles but
 included criteria for degraded thresholds of 1.4 miles and 1.25 miles
 respectively.
+
+On 2024-11-17, I increased the baseline threshold to 1.6 miles (from
+1.5 miles) and also expanded the temperature range for baseline. I
+also increased the degraded thresholds to 1.5 miles (from 1.4 miles)
+and 1.4 miles (from 1.25 miles) respectively.
