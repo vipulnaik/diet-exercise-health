@@ -760,5 +760,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-17','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
   ('2024-11-17','TJ Almond Milk',1), /* first meal */
   ('2024-11-17','TJ Carb Savvy Tortillas',1), /* second meal */
-  ('2024-11-18','TJ Carb Savvy Tortillas',1); /* second meal */
+  ('2024-11-18','TJ Carb Savvy Tortillas',1), /* second meal */
+  /* Lentils prep 2024-11-18 (overnight soaking to cook tomorrow) */
+  ('2024-11-18','TJ Green Lentils',0.5);
   /* Double-check the date before committing */
