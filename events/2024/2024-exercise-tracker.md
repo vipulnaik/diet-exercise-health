@@ -949,3 +949,18 @@ and it was anyway raining.
 
 I did do hand gripper exercises in the evening but skipped all other
 exercises.
+
+## 2024-11-19: skipped jogging and strength exercises
+
+On Tuesday 2024-11-19, mostly due to time/scheduling considerations, I
+skipped jogging and strength exercises. I did not have any strict
+timing requirements, but calculated that if I did jogging and strength
+exercises at the late starting time, it would end up delaying my whole
+day and could lead me to miss my target sleep time.
+
+I did the breath holds, hand gripper exercises, and
+standing-with-eyes-closed exercises. I had trouble hitting the
+thresholds for standing-with-eyes-closed but managed on retries; the
+instability was likely due to the cold weather. I had trouble closing
+the 150 lb hand gripper initially but succeeded later in the day as it
+got warmer.
