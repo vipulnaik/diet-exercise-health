@@ -36,8 +36,11 @@ The process is as follows:
   of my feet and place it elsewhere; open my eyes and note the elapsed
   time.
 
-My initial goal is to have a median of at least 24 seconds over the
-first 1, 3, 5, 7, or 9 tries (however many are needed).
+My goal is to keep trying (up to 5 attempts) until I clear the
+threshold on at least one attempt.
+
+Prior to 2024-11-19, I was using median instead of maximum, but
+maximum makes more sense given the increased threshold.
 
 ## History
 

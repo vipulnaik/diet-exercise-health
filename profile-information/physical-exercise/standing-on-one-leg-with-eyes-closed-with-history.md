@@ -234,17 +234,21 @@ The standard version of the exercise is as follows:
 ### How the threshold duration is used
 
 If I don't clear the threshold duration on my first attempt, I
-continue to do attempts (total odd number of attempts) until the
-median is the threshold duration or more. I try up to 9 attempts (so I
-could stop at 3, 5, 7, or 9 attempts).
+continue to do attempts until I clear the threshold on any
+attempt. The maximum number of attempts is 5.
+
+NOTE: Prior to 2024-11-19, I was using the median across attempts
+rather than the maximum. With the significantly increased threshold,
+using the maximum makes sense and helps make sure I don't end up
+spending several minutes on this exercise. The median made sense in
+the past when the threshold was lower.
 
 ### Full retry
 
-If I fail the full iteration, i.e., even after 9 attempts, I do not
-have a median of 40 seconds (with threshold adjustment as needed) or
-higher, this is likely due to temporary stability issues. The most
-common reason is sleepy or trembling legs; this could be due to
-ambient cold temperatures or having been seated too long.
+If I fail the full iteration, i.e., even after 5 attempts, I do not
+clear the threshold, this is likely due to temporary stability
+issues. The most common reason is sleepy or trembling legs; this could
+be due to ambient cold temperatures or having been seated too long.
 
 In such a case, I should stand *with my eyes open* for up to two
 minutes (i.e., either a full two minutes or however long I can stand)
