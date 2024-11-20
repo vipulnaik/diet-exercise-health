@@ -308,7 +308,7 @@ insert into food_types(short_name, long_name, url, calories,
 
   ('TJ Walnuts','Trader Joe''s Organic Raw Walnuts: Halves & Pieces',NULL,2186,
   /* broad food type */ 'Walnut',
-  /* fat-related columns */ 218.6,18.2,0,157.9,30.4,
+  /* fat-related columns */ 218.6,18.2,0,30.4,157.9,
   /* cholesterol */ 0,
   /* sodium and potassium (mostly from salts) */ 0,1457,
   /* protein-related columns */ 48.6,
@@ -712,7 +712,19 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0.1,20,1,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
-  /* notes */ 'I used the printed information for the whole container (there was also a column with information for a serving size, which was claimed to be about half the container, though the arithmetic didn''t always match up between the columns). The information at https://www.traderjoes.com/home/products/pdp/organic-roasted-seaweed-with-sea-salt-062405 roughly matches the serving size data, but is slightly different.');
+  /* notes */ 'I used the printed information for the whole container (there was also a column with information for a serving size, which was claimed to be about half the container, though the arithmetic didn''t always match up between the columns). The information at https://www.traderjoes.com/home/products/pdp/organic-roasted-seaweed-with-sea-salt-062405 roughly matches the serving size data, but is slightly different.'),
+
+  ('California Walnuts','California Grown Shelled Walnuts','https://www.mercari.com/us/item/m83026942049/',3040,
+  /* broad food type */ 'Walnut',
+  /* fat-related columns */ 288,24,0,40,208,
+  /* cholesterol-related columns */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,2000,
+  /* carbohydrate-related columns */ 64,32,16,
+  /* protein-related columns */ 64,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,448,16,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* notes */ 'I used the information for the back for one serving and multiplied by 16 as it said there are 16 servings per container.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
