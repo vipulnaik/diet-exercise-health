@@ -762,5 +762,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-17','TJ Carb Savvy Tortillas',1), /* second meal */
   ('2024-11-18','TJ Carb Savvy Tortillas',1), /* second meal */
   /* Lentils prep 2024-11-18 (overnight soaking to cook tomorrow) */
-  ('2024-11-18','TJ Green Lentils',0.5);
+  ('2024-11-18','TJ Green Lentils',0.5),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-11-19','TJ Carb Savvy Tortillas',1), /* second meal */
+  ('2024-11-19','California Walnuts',1); /* second meal */
   /* Double-check the date before committing */
