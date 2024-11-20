@@ -19,6 +19,17 @@ Diagnostics to email me guidance was that appointments need to be
 booked 2-3 weeks in advance, and I wanted to snag the slot while it
 was available. It is possible to reschedule or cancel the appointment.
 
+#### Update to appointment booking
+
+On Tuesday 2024-11-19, I reviewed the weather forecast and noticed
+that it was expected to be raining on Friday 2024-11-22 and on the
+days leading up to it as well as the days following it. In light of
+this, I rescheduled my blood draw appointment to Friday 2024-12-13 at
+10:30 AM, based on my calendar and the availability of
+appointments. It's too early to know what the weather will be like at
+that time. I also moved all the reminders three weeks into the future
+since I had moved the appointment three weeks into the future.
+
 ## Cost estimate
 
 Cost estimates were based on list prices on ownyourlabs.com,
