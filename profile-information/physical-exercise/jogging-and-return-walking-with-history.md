@@ -200,6 +200,33 @@ I have a few different reasons for skipping:
   least once every 15 days. So, if there's no break happening for any
   of the other reasons for 15 days, I will take a forced knee rest.
 
+### Home jogging alternative
+
+With home jogging, I jog in a small loop repeatedly for about 20
+minutes at home, while in my socks (no shoes). While not quite as
+diverse as outside jogging, it is good enough to warm me up for
+strength exercises. It has the following advantages:
+
+* It can be done when weather reasons prevent me from going outside
+  for jogging, but these weather reasons don't apply inside the house
+  (or apply to a lesser extent). Cold, wind, pollution, and rain are
+  examples of such weather conditions. Extreme heat may apply both
+  inside and outside the house.
+
+  This is particularly relevant for situations where there is rain for
+  several days at a stretch. I don't want to skip jogging and strength
+  exercises for too many days at a stretch, so the home jogging
+  alternative is worth considering for such situations.
+
+* There is less overhead (such as getting my keys, wearing my shoes,
+  etc.) so it can be fit in better when my schedule is tighter. In
+  such cases, it may be a better alternative than a shorter jogging
+  route as I get more quantity of exercise for reduced time.
+
+* In cases where I need to be close to my computer for other reasons
+  (for instance, something going on at work) home jogging may be a
+  viable alternative.
+
 ## History with jogging
 
 I've been interested in jogging ever since I was around nine or ten
@@ -235,3 +262,6 @@ On 2024-11-17, I increased the baseline threshold to 1.6 miles (from
 1.5 miles) and also expanded the temperature range for baseline. I
 also increased the degraded thresholds to 1.5 miles (from 1.4 miles)
 and 1.4 miles (from 1.25 miles) respectively.
+
+On 2024-11-20, I formally instituted home jogging as an alternative,
+and gave it a try.

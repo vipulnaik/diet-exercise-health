@@ -964,3 +964,10 @@ thresholds for standing-with-eyes-closed but managed on retries; the
 instability was likely due to the cold weather. I had trouble closing
 the 150 lb hand gripper initially but succeeded later in the day as it
 got warmer.
+
+## 2024-11-20: first try at home jogging
+
+On 2024-11-20, I tried the home jogging protocol for the first time,
+allowing me to do strength exercises even though I could not go
+outside for jogging. I plan to continue the home jogging as long as
+the rain situation continues.
