@@ -53,7 +53,7 @@ last updated November 12, 2024. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
 significantly. I remove from here incidents that I consider closed; I
 may consider an incident closed once the healing is well on its way
-and it is no longer meaningfully affected my daily life, even if not
+and it is no longer meaningfully affecting my daily life, even if not
 all of its ramifications have been fully addressed.
 
 As of November 12, 2024, there are no ongoing incidents. You can see
