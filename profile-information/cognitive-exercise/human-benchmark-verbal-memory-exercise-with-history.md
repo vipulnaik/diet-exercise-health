@@ -67,3 +67,8 @@ in the day, for instance, in the evening, after my
   and 216 as my highest score. Generally, scores around 150-200 are
   what I can achieve when paying full attention (no distraction) and
   if I don't make a careless error.
+
+* 2024-11-20: 131.0 points moving average, placing me at the 97.2th
+  percentile. Not much has changed qualitatively since 2024-10-15. The
+  variation in my scores, on both the upper and lower end, may have
+  reduced somewhat.

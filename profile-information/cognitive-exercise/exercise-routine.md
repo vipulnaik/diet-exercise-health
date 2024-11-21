@@ -46,6 +46,16 @@ Further information: [Human Benchmark chimp test exercise with history](human-be
 My goal is to play chimp test about 2-3 times per week till I can get
 to consistently scoring 20 or more.
 
+## Typing
+
+Goal of exercise: Maintan average of 90 wpm+, try to build toward 150 wpm
+
+Further information: [Human Benchmark typing exercise with history](human-benchmark-typing-exercise-with-history.md)
+
+My goal is to do the typing exercise about 1-3 times a week and try to
+improve, though I am not putting in any concerted effort toward
+improvement.
+
 ## Other unincorporated exercises
 
 See [Human Benchmark tracker](human-benchmark-tracker.md) for other

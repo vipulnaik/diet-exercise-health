@@ -12,29 +12,9 @@ page:
 * [Verbal memory](human-benchmark-verbal-memory-exercise-with-history.md)
 * [Number memory](human-benchmark-number-memory-exercise-with-history.md)
 * [Chimp test](human-benchmark-chimp-test-exercise-with-history.md)
-
-## 2024-05-16
-
-So far I've done four tests as logged-in user:
-
-* Typing: 94 wpm, averaging two data points of 85 wpm and 102 wpm
-  respectively. This places me at the 94.1th percentile. I have had
-  previous practice with this test (before logging in) and obviously
-  have a lot of practice typing in real life.
-
-## 2024-05-23: off-cycle update on single-handed typing
-
-My single-handed typing speeds were 50 wpm for the left hand and 39
-wpm for the right hand. Overall, this suggests that my two-handed
-typing speed is close to the sum of my typing speeds with each hand
-individually.
+* [Typing](human-benchmark-typing-exercise-with-history.md)
 
 ## 2024-09-21
-
-I've continued to do four tests as a logged-in user:
-
-* Typing: 95 wpm moving average, placing me at the 94.1th
-  percentile. The score values range from 70 wpm to 110 wpm.
 
 * Visual memory: 9 points moving average over very few attempts,
   placing me at the 5.0th percentile. I am planning to do a lot of
@@ -44,10 +24,6 @@ I've continued to do four tests as a logged-in user:
 
 I've been doing more regular practice, and appear to have improved
 quite a bit:
-
-* Typing: 102 wpm moving average, placing me at the 97.2th
-  percentile. My scores are generally in the 95-110 wpm range with
-  occasional dips down to the 80s.
 
 * Visual memory: 10.8 points moving average, placing me at the 40.5th
   percentile. The score distribution on the whole has 9 and 10 as
