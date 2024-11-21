@@ -769,5 +769,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-11-20 (first meal) */
   ('2024-11-20','Lundberg Sustainable California White Basmati Rice',0.9),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-11-20','Kite Hill Greek Style Plant-Based Yogurt',1); /* first meal */
+  ('2024-11-20','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
+  /* Meal prep 2024-11-20 (second meal) */
+  ('2024-11-20','Green bell pepper',4),
+  ('2024-11-20','Red bell pepper',4),
+  ('2024-11-20','TJ Kale',1),
+  ('2024-11-20','TJ Carrots',1),
+  ('2024-11-20','Beefsteak tomato',6),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-11-20','TJ Carb Savvy Tortillas',1), /* second meal */
+  ('2024-11-20','TJ Miso Ginger Broth',1); /* second meal */
   /* Double-check the date before committing */
