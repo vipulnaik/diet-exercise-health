@@ -971,3 +971,15 @@ On 2024-11-20, I tried the home jogging protocol for the first time,
 allowing me to do strength exercises even though I could not go
 outside for jogging. I plan to continue the home jogging as long as
 the rain situation continues.
+
+## 2024-11-21: at-home jogging plus skipping of dead hang and pull-ups
+
+On 2024-11-21, I did at-home jogging because it was raining; although
+the rain was stopping soon, the sidewalks were still very wet.
+
+Due to a lack of time between at-home jogging and my work meeting, I
+was not able to do dead hang and pull-ups right after at-home
+jogging. After the meeting was over, it was getting late and I didn't
+want to delay my meal further, so I decided to skip dead hang and
+pull-ups for the day (but plan to displace them to the next day so
+overall there is not much skipping).
