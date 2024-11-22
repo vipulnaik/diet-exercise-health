@@ -44,8 +44,8 @@ time-sensitive.
 
 ## Tests
 
-* Look into DEXA scans to be done in late 2024 or some time in
-  2025. For instance, whole-body scans by BodySpec (see
+* Look into DEXA scans to be done in 2025. For instance, whole-body
+  scans by BodySpec (see
   [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
   more specialized one? I likely only need one every 5 years or so if
   it comes out okay.
