@@ -533,3 +533,9 @@ shopping.
 
 In the afternoon/evening, I made an administrative trip. On the way
 back, I stopped at Walgreens and bought a few items.
+
+## Thursday November 21
+
+In the afternoon/evening, I made a trip to Walgreens for some
+purchases. After that, I went to Berkeley Bowl for food purchases
+recorded in [food_purchases.sql](../../sql/food_purchases.sql).
