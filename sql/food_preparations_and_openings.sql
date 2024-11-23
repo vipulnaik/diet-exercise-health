@@ -787,5 +787,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-11-21','TJ Turmeric',1), /* prepared for use in potatoes prep above */
   ('2024-11-21','TJ Carb Savvy Tortillas',1), /* second meal */
-  ('2024-11-22','Kite Hill Greek Style Plant-Based Yogurt',1); /* first meal */
+  ('2024-11-22','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
+  ('2024-11-22','TJ Roasted Seaweed',1); /* second meal */
   /* Double-check the date before committing */
