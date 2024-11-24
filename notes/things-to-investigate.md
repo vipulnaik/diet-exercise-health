@@ -87,6 +87,11 @@ time-sensitive.
 
 ## Best practices docs to write or expand
 
+My plan for making progress on these is that, in weeks where I am
+relative low on other one-off tasks in the health space, I'll pick one
+doc from this list and spend 1-2 hours on it, likely on a Wednesday or
+Friday
+
 * Eye irritation
 
 * Dental pain (both spontaneous and after procedures)
