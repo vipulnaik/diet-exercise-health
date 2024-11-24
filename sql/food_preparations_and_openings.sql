@@ -789,5 +789,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-21','TJ Carb Savvy Tortillas',1), /* second meal */
   ('2024-11-22','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
   ('2024-11-22','TJ Roasted Seaweed',1), /* second meal */
-  ('2024-11-23','TJ Sauerkraut',1); /* first meal */
+  ('2024-11-23','TJ Sauerkraut',1), /* first meal */
+  /* Rice prep 2024-11-23 (second meal) */
+  ('2024-11-23','Lundberg Sustainable California White Basmati Rice',0.9);
   /* Double-check the date before committing */
