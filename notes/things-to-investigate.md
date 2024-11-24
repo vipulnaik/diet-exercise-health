@@ -94,3 +94,7 @@ time-sensitive.
 * Cold and flu
 
 * Eye exam (preparatory steps)
+
+## Documents to write and augment with my improved understanding
+
+* Weaning myself away from using laptop in bed (March 2020 to late 2022)
