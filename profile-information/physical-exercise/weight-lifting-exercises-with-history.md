@@ -43,9 +43,9 @@ to confirm that my balance is fine -- if there are issues with my
 balance, this could increase the risk of injury during strength
 exercises.
 
-### Weightlifting
+### Weight-lifting
 
-I do my weightlifting exercises while standing on an exercise
+I do my weight-lifting exercises while standing on an exercise
 mat. This is to reduce the risk of injury from any fall due to loss of
 balance.
 
@@ -70,10 +70,13 @@ is my sequence:
   where I am currently reaching my peak number of repetitions before
   getting fatigued
 
+* 10 lb pair, exercise 1: about 10 to 15 repetitions; I tend to be
+  noticeably slower doing the exercise with 10 lb than with 8 lb.
+
 The reason I always start with the 3 lb is for a mix of warmup and
 verification purposes. If, on a given day, I find that the 3 lb pair
 is fatiguing me or I am having trouble with it, I can pause the
-weightlifting before proceeding to a higher weight where there is more
+weight-lifting before proceeding to a higher weight where there is more
 risk of injury.
 
 After finishing weights, I do push-ups documented at [push-ups (with
@@ -127,13 +130,13 @@ in November 2021 and have ramped them up slowly since then.
 On Tuesday, November 2, 2021, I received my order of weights. The
 previous day I had received my exercise mat order.
 
-Starting on Tuesday, I began alternating-day weightlifting, push-ups
+Starting on Tuesday, I began alternating-day weight-lifting, push-ups
 and stretching exercises.
 
 I had already been doing stand-on-one-leg-with-eyes-closed exercises
 reasonably regularly; I resolved to do these as part of my
 alternate-day practice, though I might also do it on the other days
-when I wasn't doing weightlifting.
+when I wasn't doing weight-lifting.
 
 All my weight-lifting and stretching exercises are done while on the
 exercise mat; the stand-on-one-leg-with-eyes-closed I may do while on
@@ -186,3 +189,11 @@ bagpack strap off my right shoulder so that it loosely rested on my
 upper right arm. After a little while, I transferred the lighter bag
 to my right hand but kept the strap off my right shoulder until I
 could get back home and take it all off.
+
+## 2024-11-25: weight-lifting weight increase (addition of 10 lb dumb bells)
+
+On 2024-11-25, I introduced exercise 1 for 10 lb dumb bells as a new
+step at the end of my weight-lifting sequence. I had been planning to
+introduce this for a while, and had been blocked on purchasing the 10
+lb dumb bells. I finally bought them on 2024-11-24 evening, allowing
+me to start using the 10 lb dumb bells.
