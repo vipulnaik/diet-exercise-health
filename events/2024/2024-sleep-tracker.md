@@ -140,3 +140,17 @@ reasonable amount of sleep without any day of very low sleep, despite
 all the disruption. Hopefully, with the daylight saving switch, and
 the end to the bunching of personal chores tasks, I'll be able to
 return to a more normal and consistent sleep schedule.
+
+## Sleeping late on 2024-11-21 due to rain-related scheduling issues, rippling through to 2024-11-24
+
+On Thursday 2024-11-21, the rain let up briefly, but it was scheduled
+to rain heavily the next day (2024-11-22). So, I decided to do a bunch
+of things on 2024-11-21 that I might normally spread out across
+days. The effect of this was that I went to sleep pretty late (around
+2:26 AM) and this had a ripple effect in terms of shifting my daily
+cycle a few hours into the future for the next few days.
+
+On Sunday 2024-11-24, I ended up not being able to have dinner by the
+time of my chat with parents, which caused my dinner to be quite late,
+therefore hampering my efforts to move my cycle back to a more normal
+one.
