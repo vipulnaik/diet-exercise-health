@@ -203,9 +203,13 @@ I have a few different reasons for skipping:
 ### Home jogging alternative
 
 With home jogging, I jog in a small loop repeatedly for about 20
-minutes at home, while in my socks (no shoes). While not quite as
-diverse as outside jogging, it is good enough to warm me up for
-strength exercises. It has the following advantages:
+minutes at home, while in my socks (no shoes). More specifically, I
+try to do at least 20 minutes (pushing myself to continue if I feel
+like giving up before then) and go on to at most 25 minutes based on
+my mood and time availability.
+
+While not quite as diverse as outside jogging, it is good enough to
+warm me up for strength exercises. It has the following advantages:
 
 * It can be done when weather reasons prevent me from going outside
   for jogging, but these weather reasons don't apply inside the house

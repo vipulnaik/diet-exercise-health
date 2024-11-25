@@ -983,3 +983,15 @@ jogging. After the meeting was over, it was getting late and I didn't
 want to delay my meal further, so I decided to skip dead hang and
 pull-ups for the day (but plan to displace them to the next day so
 overall there is not much skipping).
+
+## 2024-11-22, 2024-11-23, and 2024-11-25: at-home jogging
+
+On 2024-11-22, 2024-11-23, and 2024-11-25, due to either ongoing rain
+or wet sidewalks, I did at-home jogging. I did go out for jogging on
+2024-11-24.
+
+## 2024-11-25: addition of 10 lb dumb bells to weight-lifting
+
+On 2024-11-25, I added 10 lb dumb bells to my weight-lifting
+sequence. For the full sequence as well as its history, see
+[here](../../profile-information/physical-exercise/weight-lifting-exercises-with-history.md).
