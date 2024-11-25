@@ -539,3 +539,8 @@ back, I stopped at Walgreens and bought a few items.
 In the afternoon/evening, I made a trip to Walgreens for some
 purchases. After that, I went to Berkeley Bowl for food purchases
 recorded in [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Sunday November 24
+
+In the evening, I made a trip to Sports Basement and purchased two 10
+lb dumb bells there.
