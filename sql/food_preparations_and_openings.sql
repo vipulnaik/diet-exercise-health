@@ -802,5 +802,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-25','Gold potatoes 5 lb',0.55),
   ('2024-11-25','TJ Kale',1),
   ('2024-11-25','TJ English Shelled Peas',1), /* I didn't find any in stock in my last Trader Joe's trip, so I used the extra one from last time */
-  ('2024-11-25','Beefsteak tomato',7);
+  ('2024-11-25','Beefsteak tomato',7),
+  /* Lentils prep 2024-11-25 (overnight soaking to cook the next day) */
+  ('2024-11-25','TJ Green Lentils',0.5);
   /* Double-check the date before committing */
