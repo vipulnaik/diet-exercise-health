@@ -93,7 +93,7 @@ Dr. Mike](https://www.youtube.com/@DrMattDrMike).
 
 Within Ninja Nerd, I consume the content as playlists. At any given
 time, I might be going through 3 to 5 different playlists that I can
-switc between based on my mood, and within a playlist I generally
+switch between based on my mood, and within a playlist I generally
 proceed linearly. I might sometimes go back and rewatch earlier
 content in a playlist if I discover I haven't retained enough of it to
 make sense of later content.
