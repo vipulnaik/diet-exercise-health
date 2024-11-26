@@ -153,4 +153,14 @@ cycle a few hours into the future for the next few days.
 On Sunday 2024-11-24, I ended up not being able to have dinner by the
 time of my chat with parents, which caused my dinner to be quite late,
 therefore hampering my efforts to move my cycle back to a more normal
-one.
+one. I ended up going to sleep at 2:19 AM.
+
+On Monday 2024-11-25, I woke up at 8:18 AM due to a work alert -- I
+expect I would have slept at least one more hour otherwise. The
+investigation of the work alert, though brief, led me to being in an
+upright position for long enough that my bowel pressure built up, and
+after my bowel movement I did not feel like going back to sleep. While
+my bowel movement was probably almost complete, it may still have been
+a bit short of a fll bowel movement. The net effect is that I got
+inadequate sleep and may have had a slightly incomplete bowel
+movement.
