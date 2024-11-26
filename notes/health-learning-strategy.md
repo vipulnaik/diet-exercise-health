@@ -5,7 +5,15 @@ Document written: November 26, 2024
 Document last updated: November 26, 2024
 
 This document provides the broad contours of the strategy I am using
-to learn about my health.
+to learn about my health. The majority of this health learning is
+multiplexed with eating, meal prep, or cleaning, so that it does not
+directly eat into time for other things. Nonetheless, I do expect that
+the cognitive effort of learning this stuff may be using up my
+cognitive energy, so I am careful to follow [best practices around
+exertion and
+stimulation](../best-practices/best-practices-around-exertion-and-stimulation.md)
+-- roughly limiting this to 2 hours per day and to 45 minutes per day
+when away from computer.
 
 My health learning strategy has the following aspects:
 
