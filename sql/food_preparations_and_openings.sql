@@ -797,5 +797,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-23','California Walnuts',1), /* second meal */
   ('2024-11-24','Kite Hill Greek Style Plant-Based Yogurt',1), /* first meal */
   ('2024-11-25','TJ Carb Savvy Tortillas',1), /* first meal */
-  ('2024-11-25','TJ Miso Ginger Broth',1); /* first meal */
+  ('2024-11-25','TJ Miso Ginger Broth',1), /* first meal */
+  /* Potatoes prep 2024-11-25 (second meal) */
+  ('2024-11-25','Gold potatoes 5 lb',0.55),
+  ('2024-11-25','TJ Kale',1),
+  ('2024-11-25','TJ English Shelled Peas',1), /* I didn't find any in stock in my last Trader Joe's trip, so I used the extra one from last time */
+  ('2024-11-25','Beefsteak tomato',7);
   /* Double-check the date before committing */
