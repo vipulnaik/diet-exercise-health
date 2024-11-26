@@ -9,10 +9,32 @@ to learn about my health.
 
 My health learning strategy has the following aspects:
 
-* [Medical school curriculum education](#medical-school-curriculum-education)
-* [Longevity and personal health optimization space education](#longevity-and-personal-health-optimization-space-education)
-* [Stories of patients, doctors, nurses, and caregivers](#stories-of-patients-doctors-nurses-and-caregivers)
-* [Deep dives into specific areas](#deep-dives-into-specific-areas)
+* [Medical school curriculum
+  education](#medical-school-curriculum-education): I'm primarily
+  doing this during eating and meal prep while in front of my
+  computer. I'm mainly using Ninja Nerd for this, and am hoping to
+  finish a first pass by the end of 2026 and a second pass plus review
+  by the end of 2029.
+
+* [Longevity and personal health optimization space
+  education](#longevity-and-personal-health-optimization-space-education):
+  I'm primarily doing this during eating, meal prep, and post-meal
+  cleaning. I'm mainly using Peter Attia and Andrew Huberman for this,
+  and expect to be on top of most of the parts that are interesting to
+  me by the end of 2025.
+
+* [Stories of patients, doctors, nurses, and
+  caregivers](#stories-of-patients-doctors-nurses-and-caregivers): I'm
+  primarily doing this during eating, meal prep, and post-meal
+  cleaning. Consumption sources are variable and there is no specific
+  expected trajectory.
+
+* [Deep dives into specific areas](#deep-dives-into-specific-areas): I
+  do this as needed for a topic. Unlike the other categories, here I
+  may do more work beyond just watching videos during eating or meal
+  prep. Consumption sources are topic-dependent. My hope is to get
+  faster over time with deep dives, as my background knowledge
+  improves.
 
 ## Medical school curriculum education
 
@@ -41,11 +63,12 @@ allows me to apply the diff from any such source better.
 #### Understanding various kinds of pathology and the processes the medical establishment uses
 
 This is less relevant to me in the near term, but it is helpful
-particularly when I have concerning symptoms (or when somebody else
-has them). By knowing better the potential causes as well as how the
-medical establishment is likely to proceed with diagnosis, I can make
-a more informed decision regarding how to handle the situation and
-whether to seek medical attention.
+particularly when I have concerning symptoms (or when a friend or
+family member has them and is interested in my input). By knowing
+better the potential causes as well as how the medical establishment
+is likely to proceed with diagnosis, I can make a more informed
+decision regarding how to handle the situation and whether to seek
+medical attention.
 
 ### Consumption context
 
