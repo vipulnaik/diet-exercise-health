@@ -1154,6 +1154,10 @@ and in most cases, I have to throw it after it expires.
 
 ### Past medication consumption
 
+* 2024-11-27: I took a dose of acetaminophen (along with
+  n-acetylcysteine) to address [pain from anal
+  swelling](../events/2024/2024-11-25-anal-swelling.md).
+
 * 2024-04-25: I took a dose of acetaminophen to address my [2024-04-25
   abdominal pain](../events/2024/2024-04-25-abdominal-pain.md).
 
