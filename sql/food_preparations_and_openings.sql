@@ -804,5 +804,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-25','TJ English Shelled Peas',1), /* I didn't find any in stock in my last Trader Joe's trip, so I used the extra one from last time */
   ('2024-11-25','Beefsteak tomato',7),
   /* Lentils prep 2024-11-25 (overnight soaking to cook the next day) */
-  ('2024-11-25','TJ Green Lentils',0.5);
+  ('2024-11-25','TJ Green Lentils',0.5),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-11-26','TJ Carb Savvy Tortillas',1), /* first meal */
+  ('2024-11-26','California Walnuts',1), /* first meal */
+  ('2024-11-26','TJ Almond Milk',1), /* first meal */
+  ('2024-11-26','Kite Hill Greek Style Plant-Based Yogurt',1); /* first meal */
   /* Double-check the date before committing */
