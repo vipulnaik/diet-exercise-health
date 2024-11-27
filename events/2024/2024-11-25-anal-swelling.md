@@ -49,7 +49,7 @@ and some itching if I did an anal sphincter contraction, but it was
 not bringing itself to my attention. I formally went to sleep around
 1:20 AM.
 
-### 2024-11-26
+### 2024-11-26 during the day
 
 On the morning of 2024-11-26, it was perhaps a bit more noticeable but
 also hard to separate out from the general pressure of a bowel
@@ -69,6 +69,22 @@ I did a few additional rounds of wet wipes through the day.
 I did not stop walnuts and sauerkraut in my first meal of 2024-11-26,
 though I did have only about 50% of my usual sauerkraut quantity and
 about 60-80% of my usual walnuts quantity.
+
+### 2024-11-26 at night
+
+Although I was reasonably relaxed when going to sleep, I had a lot of
+noticeable pain at night, compounded by other sources of discomfort
+including the cold and the need to urinate. I often felt like touching
+or rubbing the swelling, though I only gently touched it and did not
+scratch or rub. I got up twice at night to urinate, compared to my
+norm of once per night.
+
+### 2024-11-27 in the morning
+
+When I woke up in the morning, my sense of bowel pressure was stronger
+than usual, which may be due to an interaction with the swelling.
+
+The pain subsided quite a bit after bowel movement.
 
 ## Other notes
 
