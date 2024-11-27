@@ -995,3 +995,15 @@ or wet sidewalks, I did at-home jogging. I did go out for jogging on
 On 2024-11-25, I added 10 lb dumb bells to my weight-lifting
 sequence. For the full sequence as well as its history, see
 [here](../../profile-information/physical-exercise/weight-lifting-exercises-with-history.md).
+
+## 2024-11-27: skipped breath holds and strength exercises
+
+On 2024-11-27, I skipped breath holds (mainly because I forgot and
+then decided later it's not worth doing later). I also skipped
+strength exercises due to time constraints (I did not want to delay
+eating too much, and also was worried about exacerbating pain due to
+my anal swelling).
+
+I did other exercises (jogging, hand grippers,
+standing-on-one-leg-with-eyes-closed,
+standing-on-toes-with-eyes-closed).
