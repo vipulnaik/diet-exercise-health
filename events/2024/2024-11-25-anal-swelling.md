@@ -86,6 +86,11 @@ than usual, which may be due to an interaction with the swelling.
 
 The pain subsided quite a bit after bowel movement.
 
+### 2024-11-27 first meal
+
+This time, I completely skipped sauerkraut and had only 30% or so of
+my usual walnut intake.
+
 ### 2024-11-27 after my meal
 
 At around 3:20 PM, 20 minutes after finishing my meal, in light of
