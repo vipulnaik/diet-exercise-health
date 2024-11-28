@@ -70,7 +70,7 @@ I did not stop walnuts and sauerkraut in my first meal of 2024-11-26,
 though I did have only about 50% of my usual sauerkraut quantity and
 about 60-80% of my usual walnuts quantity.
 
-### 2024-11-26 at night
+### 2024-11-26 to 2024-11-27 at night
 
 Although I was reasonably relaxed when going to sleep, I had a lot of
 noticeable pain at night, compounded by other sources of discomfort
@@ -147,6 +147,30 @@ I also suspect that the pain I was previously feeling was some mix of
 direct pain from the swelling and the interaction of buildup pressure
 and the swelling. With the bowel movement done, the pain I now feel is
 more directly just the irritation from the swelling.
+
+### 2024-11-27 to 2024-11-28 at night
+
+I went to sleep around 12:10 AM. Overall, my sleep was better than the
+previous night, which is likely because of the bowel movement earlier
+in the evening that reduced the pressure. I also made sure to urinate
+right before going to sleep, to reduce the pressure.
+
+I got up twice to urinate: once around 2:30 AM and once around 5:30
+AM. I was then woken up at 9:15 AM by the alarm, at which point I was
+already semi-awake. I urinated and got back in bed for a few minutes
+before formally waking up at around 9:28 AM.
+
+### 2024-11-28 morning
+
+On most days, I catch up with email and other minor morning checklist
+items prior to my bowel movement, but the bowel pressure in the
+morning was so strong that I went for bowel movement as soon as I woke
+up.
+
+The bowel movement size was about 70-80% of a full bowel movement, and
+there was once again a bit of blood in the stool and on the toilet
+paper when I wiped, similar to last evening. Overall, I felt very
+relieved after the bowel movement.
 
 ## Other notes
 
