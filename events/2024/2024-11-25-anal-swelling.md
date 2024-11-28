@@ -143,6 +143,11 @@ the swelling, which resulted in some bleeding, but the hope is that
 this is a one-time thing and the residual swelling (which seems to be
 less) will fix itself over time.
 
+I also suspect that the pain I was previously feeling was some mix of
+direct pain from the swelling and the interaction of buildup pressure
+and the swelling. With the bowel movement done, the pain I now feel is
+more directly just the irritation from the swelling.
+
 ## Other notes
 
 ### Cold, muscle tensing, and wet wipes
