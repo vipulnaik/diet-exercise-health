@@ -544,3 +544,15 @@ recorded in [food_purchases.sql](../../sql/food_purchases.sql).
 
 In the evening, I made a trip to Sports Basement and purchased two 10
 lb dumb bells there.
+
+## Wednesday November 27
+
+In the late afternoon / early evening, I made a trip to downtown
+Berkeley. I first stopped at Target and bought AA batteries.
+
+I then stopped at Citibank for financial transactions (getting
+quarters to use for laundry).
+
+I then went to Trader Joe's for
+food purchases recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).
