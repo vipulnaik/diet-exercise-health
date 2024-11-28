@@ -91,7 +91,7 @@ The pain subsided quite a bit after bowel movement.
 This time, I completely skipped sauerkraut and had only 30% or so of
 my usual walnut intake.
 
-### 2024-11-27 after my meal
+### 2024-11-27 after my meal: acetaminophen consumption
 
 At around 3:20 PM, 20 minutes after finishing my meal, in light of
 pesistent nagging pain, even though it wasn't too severe, I decided to
@@ -107,6 +107,41 @@ could not tolerate the pain, but rather to see if acetaminophen is
 effective with this kind of pain. Also, given that I was planning to
 make an outside trip in the near future, I was particularly keen to
 reduce my pain for the duration of the trip.
+
+And it's plausible that the acetaminophen worked! Starting about 30-45
+minutes later, I felt my brain much less drawn to the pain even though
+I could still feel the pain if I concentrated my thoughts on it. But
+the effect size was not super-dramatic, and I can't rule out placebo
+effects and other confounders.
+
+### 2024-11-27 second meal
+
+For my second meal of 2024-11-27, I continued to have walnuts at a
+reduced rate (about 30% of usual intake).
+
+### 2024-11-27 after second meal: unexpected bowel movement
+
+I finished my second meal at 8:04 PM. I then did post-meal
+cleanup. Around 9:15 PM, I got back to my computer for desk
+work. Unexpectedly, about 5 minutes later, I had a strong urge for
+bowel movement.
+
+Given my suspicion that past straining is what might have created the
+swelling in the first place, I decided to limit myself to one minute
+of trying, and also to not linger for more than a minute after
+stopping. The bowel movement started out within a few seconds, and was
+quick and stopped quickly. The bowel movement was somewhere around
+70-80% of a full morning bowel movement, which suggests that I did
+indeed have some buildup arising from the Monday early wake-up, that I
+had not been able to fully clear.
+
+More relevantly to my anal swelling, there was a bit of blood in the
+stool and some blood on wiping around the area of the
+swelling. Moreover, the extent of the swelling seems to have
+reduced. It seems like the passing of stool helped break up some of
+the swelling, which resulted in some bleeding, but the hope is that
+this is a one-time thing and the residual swelling (which seems to be
+less) will fix itself over time.
 
 ## Other notes
 
