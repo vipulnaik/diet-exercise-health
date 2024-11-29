@@ -172,6 +172,33 @@ there was once again a bit of blood in the stool and on the toilet
 paper when I wiped, similar to last evening. Overall, I felt very
 relieved after the bowel movement.
 
+### 2024-11-28 later in the day
+
+Unlike the previous day, the discomfort from the anal swelling did not
+distract me from my other work. I only noticed it sporadically (and
+not in an unpleasant way) and occasionally when consciously directing
+my attention to the area.
+
+I continued to refrain from sauerkraut and kept my walnuts consumption
+low, but did not take any other precautions.
+
+I also stopped wet wiping given its poor track record.
+
+I did not take any acetaminophen.
+
+### 2024-11-28 to 2024-11-29 at night
+
+I had a better sleep than the previous night. I went to sleep at 11:49
+PM and woke up at 9:15 AM via the alarm (though I was already
+semi-awake by then). I only got up once in between to urinate, at
+around 4:40 AM.
+
+### 2024-11-29 in the morning
+
+Unlike the previous day, I was able to hold out for bowel movement,
+finishing my morning checklist before going. I also did not have any
+blood in stool or on wiping.
+
 ## Other notes
 
 ### Cold, muscle tensing, and wet wipes

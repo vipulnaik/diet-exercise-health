@@ -164,3 +164,23 @@ my bowel movement was probably almost complete, it may still have been
 a bit short of a fll bowel movement. The net effect is that I got
 inadequate sleep and may have had a slightly incomplete bowel
 movement.
+
+## 9-hour sleep as a new pattern starting 2024-11-26 night onward
+
+For a few days starting 2024-11-26, I have been sleeping aroun 9 hours:
+
+* 2024-11-26 to 2024-11-27: 12:15 AM to 9:24 AM
+
+* 2024-11-27 to 2024-11-28: 12:10 AM to 9:28 AM
+
+* 2024-11-28 to 2024-11-29: 11:49 PM to 9:15 AM
+
+It's unclear if this is to catch up on a sleep backlog created by
+insufficient and interruped sleep from 2024-11-24 to 2024-11-25 (see
+above), extra sleep to recover from [anal
+swelling](2024-11-25-anal-swelling.md), or a new norm of extra sleep
+needed due to the cold weather. It may also be that it's hard to wake
+up before 9 AM in general due to the cold. That might suggest going to
+sleep later than I am, but that runs the risk of inadequate sleep if I
+need to wake up early as happened on Monday. So for now, I'll let
+things continue and see what pattern emerges.
