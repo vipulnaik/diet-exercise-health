@@ -37,7 +37,8 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_types.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_lower_bounds.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_upper_bounds.sql
-	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_schema.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2024.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases_schema.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases_2021.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases_2022.sql
