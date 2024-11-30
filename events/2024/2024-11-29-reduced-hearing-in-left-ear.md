@@ -18,5 +18,14 @@ volume of 1.5x in the left ear felt like the same subjective volume as
 Unfortunately I don't have a prior benchmark to know whether my
 hearing was balanced between the ears earlier.
 
+My suspicion as of 2024-11-29 is that this is because I slept for a
+long time on my left side. In fact, hearing in both ears may be
+reduced somewhat, but the left side is differentially more affected
+and that's what I am noticing. Based on Googling, it does seem like
+sleeping on one side for long can be a contributor to more earwax
+buildup that can reduce hearing. My guess is that this will subside
+after some time, but my plan is to sleep more on my right side to help
+address the issue.
+
 I'll continue monitoring for the next few days and see if the hearing
 situation persists.
