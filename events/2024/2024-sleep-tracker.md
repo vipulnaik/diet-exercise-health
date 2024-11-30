@@ -184,3 +184,12 @@ up before 9 AM in general due to the cold. That might suggest going to
 sleep later than I am, but that runs the risk of inadequate sleep if I
 need to wake up early as happened on Monday. So for now, I'll let
 things continue and see what pattern emerges.
+
+From 2024-11-29 to 2024-11-30, I had a more normal amount of sleep,
+and woke up without an alarm:
+
+* 2024-11-29 to 2024-11-30: 12:16 AM to 8:35 AM
+
+While 8 hours 19 minutes is more than my typical amount of sleep, it
+might be reasonable for a winter season, particularly considering the
+fact that I woke up once in between to urinate.
