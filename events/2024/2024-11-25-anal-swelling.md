@@ -199,6 +199,11 @@ Unlike the previous day, I was able to hold out for bowel movement,
 finishing my morning checklist before going. I also did not have any
 blood in stool or on wiping.
 
+### 2024-11-29 later in the day
+
+The anal swelling is no longer drawing my attention or getting in the
+way of my mobility. At this point, I consider the incident closed.
+
 ## Other notes
 
 ### Cold, muscle tensing, and wet wipes
