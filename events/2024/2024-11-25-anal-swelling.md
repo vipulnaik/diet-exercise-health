@@ -202,7 +202,18 @@ blood in stool or on wiping.
 ### 2024-11-29 later in the day
 
 The anal swelling is no longer drawing my attention or getting in the
-way of my mobility. At this point, I consider the incident closed.
+way of my mobility. At this point, I consider the incident closed,
+though I might include further updates.
+
+### 2024-11-30 in the morning
+
+Unlike the last few days, I woke up a little earlier (around 8:35 AM)
+without the alarm. The passing of stool was a little harder than
+yesterday, and I felt more itching / discomfort after doing so than I
+had previously. I attribute this to it being colder when I woke up and
+my muscles being tenser, rather than structural issues (there
+continued to be no bleeding and not much direct pain from the
+swelling).
 
 ## Other notes
 
