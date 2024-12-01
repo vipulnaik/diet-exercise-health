@@ -8,7 +8,7 @@ practice and some variants of it.
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 36 seconds
+### Maintain standing-on-one-leg-with-eyes-closed for at least 40 seconds
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -33,7 +33,7 @@ up. Time considerations make it dificult to push the threshold too far
 up, even if I am eventually able to do clearly over 40 seconds.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 36 seconds over a
+that I've increased the threshold from 10 seconds to 40 seconds over a
 little more than a year, I think just being able to maintain at 40
 seconds should be good enough.
 
@@ -63,7 +63,7 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 36 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 40 seconds with adjustments for colder temperatures)
 
 * Prior to 2023-10-28, the de facto threshold duration was 10 seconds
 
