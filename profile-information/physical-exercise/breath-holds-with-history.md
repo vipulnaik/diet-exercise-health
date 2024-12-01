@@ -43,7 +43,14 @@ range of 70 to 90 seconds, I'll feel satisfied and will probably not
 be pushing to improve (though I might experience continued
 improvement).
 
-## Current protocol and status as of 2024-10-14
+However, as of 2024-11-30, I am pausing efforts to aggressively build
+toward the target threshold, by reducing my exercise frequency to
+every 4 days. This is a trade-off for time (and keeping in mind that
+winter tends to have a higher load of work related to cooking, food
+purchases, eating, and cleaning, so I am more pressed for time). I
+may return to a more aggressive build mode in the future.
+
+## Current protocol and status as of 2024-12-01
 
 I do two successive breath holds in the morning, with a gap of about a
 minute in between. Each breath hold generally lasts between 50 and 80
@@ -51,9 +58,10 @@ seconds, with most breath holds lasting between 55 and 70 seconds. My
 goal is that after the end of the breath hold, I may have a few loud
 nasal breaths but should not generally need a mouth breath.
 
-Starting 2024-09-22, my plan is to do this on alternate days instead
-of every day, so that the other day I can work on [humming with
-intermittent
+My plan is to do this exercise once every 4 days, with the idea being
+to only do it on days that I am *not* planning to do weight-lifting
+and push-ups, and to do it on alternate days of this nature. The
+exercise I'm alternating this with is [humming with intermittent
 pauses](humming-with-intermittent-pauses-with-history.md).
 
 ## 2023-07-30: initial exploration
@@ -218,3 +226,35 @@ half my max pause, which is roughly consistent with what the Buteyko
 subreddit says, so my control pause is likely around 25 to 40
 seconds. However, control pause is much harder to measure than max
 pause, which is why I am sticking with max pause measurement.
+
+## 2024-11-30 update (effective 2024-12-01)
+
+Going forward, my plan is to do this exercise once every 4 days rather
+than once every 2 days, with the idea being to only do it on days that
+I am *not* planning to do weight-lifting and push-ups, and to do it on
+alternate days of this nature. Here are a few thoughts on this:
+
+* I expect that reducing the frequency to once every 4 days will make
+  it more of a "maintain" than a "build" exercise for the time
+  being. If I see my max-pause maintained, I will be happy to keep
+  this frequency for the time being. If I see my max-pause go down,
+  though, I may need to return to the frequency of once every 2 days.
+
+* By doing this only on days that I am not doing weight-lifting and
+  push-ups, I am trying to balance out the exercise time between
+  days. Generally, days that I do weight-lifting and push-ups tend to
+  be days that I spend more time exercising, so saving time on those
+  days by skipping breath holds can help. More balance between days in
+  the time I spend exercising is helpful in terms of keeping my times
+  for other daily activities (such as eating) consistent.
+
+* The motivation for this change is partly the nature of winter: as I
+  spend more energy staying warm, I have more of an appetite, which
+  increases my time spent eating, cooking, buying food, and cleaning
+  dishes. This puts more pressure on the rest of my time. My thinking
+  as of now is that moving to a "maintain" mode during these months of
+  greater time scarcity, at least for exercises where I am already at
+  a reasonable level, makes sense. I can re-evaluate the situation in
+  the summer; I expect to have some time freed up from reducing
+  food-related work, *but* I don't yet know how I will want to direct
+  that freed-up time.

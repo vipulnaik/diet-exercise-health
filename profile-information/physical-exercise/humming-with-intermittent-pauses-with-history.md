@@ -14,7 +14,7 @@ holds, the goal isn't to have a long note with no pause, but to be
 able to cycle between vocal cord use and breathing in in a sustainable
 fashion over a period of minutes.
 
-## Current protocol as of 2024-11-16
+## Current protocol as of 2024-12-01
 
 The protocol is that I hum a tune continuously except specific beats
 (e.g., 1 in every 8 beats) and I use that specific beat to pause my
@@ -59,20 +59,55 @@ For the Chennai Express theme song, my current observations are as follows:
   beats, but after a few minutes, I can only manage 1 in 4 (or even 2
   in 4) beats.
 
-The plan is to do all the above listed bullet point exercises at least
-every alternate day as part of regular routine, and then a few times
-additionally if I get a chance. At some point, I may be able to drop
-the 1 in 8 and proceed to 1 in 16 and 1 in 32 exercises.
+The protocol is to do one iteration of the first bullet point and at
+least one iteration of the second bullet point shortly after.
+
+For frequency, I should do this in the morning before going jogging,
+roughly once every 4 days, determined as alternate days among days
+that I am not doing weight-lifting and push-ups. The exercise I'm
+alternating this with is [breath holds](breath-holds-with-history.md).
 
 ## History
 
 ### Introduction on 2024-09-28
 
 When I started this exercise on 2024-09-28, I was able to comfortably
-do 1 in 8 and I could do 1 in 16 but with some fatigue.
+do 1 in 8 and I could do 1 in 16 but with some fatigue. My initial
+frequency was alternate days before going jogging.
 
-#### Update on 2024-11-16
+### Update on 2024-11-16
 
 On 2024-11-16, based on progress, I've upped the expectation to
 comfortable do 1 in 16 and to be able to do 1 in 32 for almost one
 round.
+
+### Update on 2024-11-30 effective 2024-12-01
+
+I'm reducing the frequency to once every 4 days, determined as
+alternate days among days that I am not doing weight-lifting and
+push-ups.
+
+* I expect that reducing the frequency to once every 4 days will make
+  it more of a "maintain" than a "build" exercise for the time
+  being. If I see my performance maintained, I will be happy to keep
+  this frequency for the time being. If I see my performance go down,
+  though, I may need to return to the frequency of once every 2 days.
+
+* By doing this only on days that I am not doing weight-lifting and
+  push-ups, I am trying to balance out the exercise time between
+  days. Generally, days that I do weight-lifting and push-ups tend to
+  be days that I spend more time exercising, so saving time on those
+  days by skipping breath holds can help. More balance between days in
+  the time I spend exercising is helpful in terms of keeping my times
+  for other daily activities (such as eating) consistent.
+
+* The motivation for this change is partly the nature of winter: as I
+  spend more energy staying warm, I have more of an appetite, which
+  increases my time spent eating, cooking, buying food, and cleaning
+  dishes. This puts more pressure on the rest of my time. My thinking
+  as of now is that moving to a "maintain" mode during these months of
+  greater time scarcity, at least for exercises where I am already at
+  a reasonable level, makes sense. I can re-evaluate the situation in
+  the summer; I expect to have some time freed up from reducing
+  food-related work, *but* I don't yet know how I will want to direct
+  that freed-up time.

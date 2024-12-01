@@ -263,6 +263,8 @@ completion I do it for the other leg.
 
 ### Triggers for overall exercise
 
+#### Settings prior to 2024-11-30
+
 I should do the overall exercise once before going out jogging, and
 once after coming back from jogging and before any strength
 exercises. If I'm doing strength exercises without having gone
@@ -288,14 +290,45 @@ super-severe.
 I might also discretionarily do the
 standing-on-one-leg-with-eyes-closed at other times of the day.
 
+#### Settings 2024-11-30 onward
+
+From 2024-11-30 onward, in order to save time, particularly in the
+morning when time may be more scarce, I am making the following
+change:
+
+* I do the standing-on-one-leg-with-eyes-closed exercise prior to
+  jogging *only* on days where I don't plan to do weight-lifting and
+  push-ups after returning from jogging.
+
+* I'll continue to do the standing-on-one-leg-with-eyes-closed
+  exercise after joggging and before weight-lifting.
+
+The net effect of this change is that rather than doing the exercise
+an average of 1.5 times a day (twice on days when I do weight-lifting
+(before and after jogging) and once on other days, I now do the
+exercise just once per day. While the total time saved is about 2-3
+minutes which is not much, saving that time before going jogging gives
+me a bit more flexibility insofar as it gets my exercise finished
+sooner, which in turn unblocks me to eat sooner and do other post-meal
+activities sooner.
+
+The motivation for this change is that at this point, I have hit a
+level that I only wish to maintain, not build from. My guess is that
+doing the exercise once a day is sufficient for the goal of
+maintaining (in fact I may be able to build even doing it once a day,
+so further reduction in the future may also happen).
+
+The other notes about the exercise remain unchanged.
+
 ## Standing on one leg with eyes open: standard version
 
 I already mentioned standing on one leg with eyes open as an exercise
 I might do if I am not able to clear the threshold for standing on one
 leg with eyes closed. However, separate from that, I should also do
 the exercise of standing on one leg with eyes open (for two minutes or
-however long I can maintain my balance) once a week, once for each
-leg. Since this is a somewhat time-consuming exercise, I should
-generally do it on a weekend day; it generally makes sense to do
-before strength exercises, so I should do it on the weekend day that
-I'm doing strength exercises.
+however long I can maintain my balance) at least once a month (EDITED
+2024-11-30 from "once a week"), once for each leg. Since this is a
+somewhat time-consuming exercise, I should generally do it on a
+weekend day; it generally makes sense to do before strength exercises,
+so I should do it on the weekend day that I'm doing strength
+exercises.

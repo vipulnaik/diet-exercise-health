@@ -22,7 +22,14 @@ diminishing returns in terms of this exercise, and can sustain it.
 
 I've been doing this exercise daily starting Monday 2024-09-09,
 generally as a followup to [standing on one leg with eyes
-closed](standing-on-one-leg-with-eyes-closed-with-history.md).
+closed](standing-on-one-leg-with-eyes-closed-with-history.md). The
+stipulations regarding the conditions under which to do the
+standing-on-one-leg-with-eyes-closed exercise apply to this exercise
+as well. While some of the frequency considerations are different (I'm
+in maintain mode with standing-on-one-leg-with-eyes-closed but in
+build mode for standing-on-toes-with-eyes-closed) I think the
+frequency of once a day is still good enough to build the little bit
+more that I need to get to my target of 30 seconds.
 
 The process is as follows:
 
