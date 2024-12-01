@@ -827,5 +827,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-11-29','TJ Carb Savvy Tortillas',1), /* first meal */
   ('2024-11-30','TJ Carb Savvy Tortillas',1), /* first meal */
   /* Rice prep 2024-11-30 (second meal) */
-  ('2024-11-30','Lundberg Sustainable California White Basmati Rice',0.9);
+  ('2024-11-30','Lundberg Sustainable California White Basmati Rice',0.9),
+  /* Lentils prep 2024-11-30 (overnight soaking to cook the next day) */
+  ('2024-11-30','TJ Green Lentils',0.5);
   /* Double-check the date before committing */
