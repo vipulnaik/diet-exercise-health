@@ -215,6 +215,11 @@ my muscles being tenser, rather than structural issues (there
 continued to be no bleeding and not much direct pain from the
 swelling).
 
+## 2024-12-02
+
+On this day I resumed sauerkraut consumption, though at less than half
+of my usual level.
+
 ## Other notes
 
 ### Cold, muscle tensing, and wet wipes
