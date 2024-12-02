@@ -18,4 +18,9 @@ is because the HVAC system is working properly or because it's been
 warmer these past couple of days (as it has been warmer during the
 daytime so maybe there is just more heat buffer to eat through at
 night). Regardless, my sleep quality has been better with the higher
-temperature, so I plan to keep this HVAC setting.
+temperature, so I plan to keep this HVAC setting. I also think that
+having the temperature set to just a few degrees above where it would
+organically fall to, and starting this setting while the temperature
+is above that, may be less stressful to the HVAC system than setting
+it to a very high temperature compared to what it would organically be
+(which may be what I tried in past years and found to not work).
