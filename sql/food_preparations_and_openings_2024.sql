@@ -836,7 +836,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-01','TJ Carb Savvy Tortillas',1), /* first meal */
   ('2024-12-01','California Walnuts',1), /* first meal */
   /* Potatoes prep 2024-12-02 (first meal) */
-  ('2024-12-02','Gold potatoes 5 lb',0.45),
+  ('2024-12-02','Gold potatoes 5 lb',0.55),
   ('2024-12-02','TJ Kale',1),
   ('2024-12-02','Beefsteak tomato',7),
   /* New bottle/packet openings as the old ones finished */
