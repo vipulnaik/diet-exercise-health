@@ -33,3 +33,8 @@ situation persists.
 UPDATE 2024-11-30: The situation seems similar (about a ratio of 1.5).
 
 UPDATE 2024-12-02: The situation seems similar (about a ratio of 1.5).
+
+UPDATE 2024-12-04: I feel like the situation is more balanced; the
+ratio feels more like 1.25 now, and I don't feel that sense of
+compression/heaviness in my left ear. I think this is close enough to
+balanced, but I plan to do another check on 2024-12-07.
