@@ -858,5 +858,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-05','Beefsteak tomato',6,1),
   /* New bottle/packet openings as the old ones finished */
   ('2024-12-05','Trader Giotto''s Olive Oil',1,1), /* opened for meal prep documented above */
-  ('2024-12-05','Kite Hill Greek Style Plant-Based Yogurt',1,1);
+  ('2024-12-05','Kite Hill Greek Style Plant-Based Yogurt',1,1),
+  ('2024-12-05','California Walnuts',1,2);
   /* Double-check the date before committing */
