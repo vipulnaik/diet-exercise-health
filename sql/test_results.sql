@@ -263,7 +263,6 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('September 2024 Quest Diagnostics tests','Monocytes','%',NULL,NULL,5.3,'Normal','This test was part of a complete blood count (CBC).'),
   ('September 2024 Quest Diagnostics tests','Eosinophils','%',NULL,NULL,3.3,'Normal','This test was part of a complete blood count (CBC).'),
   ('September 2024 Quest Diagnostics tests','Basophils','%',NULL,NULL,0.5,'Normal','This test was part of a complete blood count (CBC).'),
-  /* a few more entries need to be added */
   /* April 2024 Sutter Health comprehensive metabolic panel (not fasting; 6.5 hours after meal) */
   ('April 2024 Sutter Health blood tests','Sodium','mmol/L',136,145,140,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Potassium','mmol/L',3.5,5.1,4.1,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
