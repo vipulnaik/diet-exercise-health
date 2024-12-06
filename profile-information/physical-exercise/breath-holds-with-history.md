@@ -50,7 +50,7 @@ winter tends to have a higher load of work related to cooking, food
 purchases, eating, and cleaning, so I am more pressed for time). I
 may return to a more aggressive build mode in the future.
 
-## Current protocol and status as of 2024-12-01
+## Current protocol and status as of 2024-12-06
 
 I do two successive breath holds in the morning, with a gap of about a
 minute in between. Each breath hold generally lasts between 50 and 80
@@ -58,10 +58,11 @@ seconds, with most breath holds lasting between 55 and 70 seconds. My
 goal is that after the end of the breath hold, I may have a few loud
 nasal breaths but should not generally need a mouth breath.
 
-My plan is to do this exercise once every 4 days, with the idea being
-to only do it on days that I am *not* planning to do weight-lifting
-and push-ups, and to do it on alternate days of this nature. The
-exercise I'm alternating this with is [humming with intermittent
+My plan is to do this exercise once every 6 days, with the idea being
+to only do it on days that I am *not* planning to do weight-lifting,
+push-ups, pull-ups, or dead hang, and to do it on alternate days of
+this nature. The exercise I'm alternating this with is [humming with
+intermittent
 pauses](humming-with-intermittent-pauses-with-history.md).
 
 ## 2023-07-30: initial exploration
@@ -258,3 +259,11 @@ alternate days of this nature. Here are a few thoughts on this:
   the summer; I expect to have some time freed up from reducing
   food-related work, *but* I don't yet know how I will want to direct
   that freed-up time.
+
+## 2024-12-06 update
+
+I am reducing the frequency of this exercise from once every 4 days to
+once every 6 days; now I only do this exercise on days when I am not
+doing either weight-lifting + push-ups or dead hang + pull-ups. This
+accompanies an overall reduction in the frequency of those strength
+exercises.

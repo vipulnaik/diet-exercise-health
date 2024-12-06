@@ -18,15 +18,18 @@ exercises](strength-exercises-with-history.md).
 
 ## Current practice
 
-I aim to do this on alternating days, and more specifically on the
-days that I am not doing strength exercises. Generally, I do this
-after returning from jogging.
+Generally, I do this after returning from jogging.
 
 * Underhand dead hang (palms facing me) for as long as I can; as of
   2024-10-04, this is appromximately 30-35 seconds.
 
 * Overhand dead hang (palms away from me) for as long as I can; as of
   2024-10-06, this is about 45-50 seconds.
+
+From 2024-12-06 onward, I aim to do this once every 3 days, and more
+specifically on the days after my strength exercise break and the day
+before I do weight-lifting exercises. Previously I did the exercise on
+alternating days, alternating with weight-lifting.
 
 ## 2024-10-02 onward: started underhand dead hang
 

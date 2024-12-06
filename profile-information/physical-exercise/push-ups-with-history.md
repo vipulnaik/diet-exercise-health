@@ -18,7 +18,7 @@ push-ups, and finger push-ups.
 
 I generally do push-ups after [weight-lifting
 exercises](weight-lifting-exercises-with-history.md). I do this set
-once every 2-3 days.
+once every 3 days.
 
 ### Standard exercise: palm, toes, both hands and both feet, normal hand spacing, nose touch
 

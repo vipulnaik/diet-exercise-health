@@ -14,7 +14,7 @@ holds, the goal isn't to have a long note with no pause, but to be
 able to cycle between vocal cord use and breathing in in a sustainable
 fashion over a period of minutes.
 
-## Current protocol as of 2024-12-01
+## Current protocol as of 2024-12-06
 
 The protocol is that I hum a tune continuously except specific beats
 (e.g., 1 in every 8 beats) and I use that specific beat to pause my
@@ -63,9 +63,10 @@ The protocol is to do one iteration of the first bullet point and at
 least one iteration of the second bullet point shortly after.
 
 For frequency, I should do this in the morning before going jogging,
-roughly once every 4 days, determined as alternate days among days
-that I am not doing weight-lifting and push-ups. The exercise I'm
-alternating this with is [breath holds](breath-holds-with-history.md).
+roughly once every 6 days, determined as alternate days among days
+that I am not doing weight-lifting, push-ups, dead hang, or
+pull-ups. The exercise I'm alternating this with is [breath
+holds](breath-holds-with-history.md).
 
 ## History
 
@@ -111,3 +112,11 @@ push-ups.
   the summer; I expect to have some time freed up from reducing
   food-related work, *but* I don't yet know how I will want to direct
   that freed-up time.
+
+## 2024-12-06 update
+
+I am reducing the frequency of this exercise from once every 4 days to
+once every 6 days; now I only do this exercise on days when I am not
+doing either weight-lifting + push-ups or dead hang + pull-ups. This
+accompanies an overall reduction in the frequency of those strength
+exercises.

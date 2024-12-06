@@ -27,12 +27,17 @@ injured).
 
 ## Current protocol
 
-### Frequency: 2 to 3 days
+### Frequency: once every 3 days
 
-I generally do weight-lifting exercises about once every 2-3 days when
-well. The gap is variable between 2 and 3 days, allowing me a bit of
-flexibility in terms of time availability, fatigue levels, and other
-strength-using stuff during the day (such as shopping).
+I generally do weight-lifting exercises about once every 3 days when
+well. Previously I targeted 2 days but slipped to 3 days occasionally;
+however, over time I got better and better at doing 2 days, and then
+also did strength exercises (dead hang and push-ups) on the other half
+of the days. This may not be ideal for my recovery.
+
+Starting 2024-12-06, I am strictly sticking to once every 3 days, with
+the preceding day being for pull-ups / dead hang and the following day
+being a rest day for all strength exercises.
 
 ### Warmup
 
