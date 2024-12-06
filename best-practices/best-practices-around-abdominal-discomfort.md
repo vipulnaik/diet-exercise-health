@@ -50,6 +50,11 @@ As much as possible, try to avoid all of these. For instance:
 * Conversely, if I don't have a lot cooked, try to avoid/skip outside
   trips.
 
+### Meal quantity control
+
+See [best practices around meal
+quantity](best-practices-around-meal-quantity.md).
+
 ### Foods to avoid after overexertion
 
 My current, not fully validated, theory is that having lots of FODMAPs

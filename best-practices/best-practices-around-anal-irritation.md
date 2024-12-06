@@ -110,6 +110,13 @@ To a first approximation, I am not planning to take any specific steps
 around hard foods when it comes to anal irritation, when I am feeling
 fine (i.e., from a primary prevention perspective).
 
+### Meal quantity control
+
+Having more food in my GI tract can increase some of the stress on the
+anus, not just during bowel movement, but even otherwise, which can
+exacerbate the risk of anal swelling. See [best practices around meal
+quantity](best-practices-around-meal-quantity.md).
+
 ## Best practices around stopping the irritation in its tracks
 
 ### Responding to an itching or burning sensation (no bleeding and no significant swelling yet)
@@ -153,6 +160,14 @@ anal sphincter control, including:
   either significant or recurrent itching or burning sensation). If I
   really do need walnuts, limit consumption to less than 50% of my
   usual level.
+
+#### Meal quantity control
+
+Having more food in my GI tract can not only exacerbate the risk of
+anal swelling; it can also make existing swelling more painful by
+increasing the ongoing pressure both during bowel movement and at
+other times. See [best practices around meal
+quantity](best-practices-around-meal-quantity.md).
 
 ### Once the swelling is more serious
 
