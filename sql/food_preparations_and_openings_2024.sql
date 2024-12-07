@@ -800,6 +800,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep 2024-11-25 (overnight soaking to cook the next day) */
   ('2024-11-25','TJ Green Lentils',0.5,3),
   /* New bottle/packet openings as the old ones finished */
+  ('2024-11-26','Morton Iodized Sea Salt',1,NULL), /* date is approximate and has been backfilled */
   ('2024-11-26','TJ Carb Savvy Tortillas',1,1),
   ('2024-11-26','California Walnuts',1,1),
   ('2024-11-26','TJ Almond Milk',1,1),
@@ -836,7 +837,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-01','TJ Carb Savvy Tortillas',1,1),
   ('2024-12-01','California Walnuts',1,1),
   /* Potatoes prep 2024-12-02 (first meal) */
-  ('2024-12-02','Gold potatoes 5 lb',0.55,1),
+  ('2024-12-02','Gold potatoes 5 lb',0.5,1),
   ('2024-12-02','TJ Kale',1,1),
   ('2024-12-02','Beefsteak tomato',7,1),
   /* New bottle/packet openings as the old ones finished */
@@ -859,5 +860,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-12-05','Trader Giotto''s Olive Oil',1,1), /* opened for meal prep documented above */
   ('2024-12-05','Kite Hill Greek Style Plant-Based Yogurt',1,1),
-  ('2024-12-05','California Walnuts',1,2);
+  ('2024-12-05','California Walnuts',1,2),
+  /* Potatoes prep 2024-12-06 (first meal) */
+  ('2024-12-06','Gold potatoes 5 lb',0.5,1),
+  ('2024-12-06','TJ Kale',1,1),
+  ('2024-12-06','Beefsteak tomato',6,1),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-12-06','TJ Carb Savvy Tortillas',1,1);
   /* Double-check the date before committing */
