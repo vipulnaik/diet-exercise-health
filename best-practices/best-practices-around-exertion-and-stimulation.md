@@ -13,8 +13,8 @@ sleep](best-practices-around-sleep.md).
 
 ## Heart rate as a measure of exertion and stimulation
 
-While not necessary under ordinary stimuli when I am otherwise health,
-the heart rate can be useful as a measure of my exertion and
+While not necessary under ordinary stimuli when I am otherwise
+healthy, the heart rate can be useful as a measure of my exertion and
 stimulation as well as my recovery when subject to unusual stimuli or
 when my baseline level of health is bad. I should target heart rates
 that are consistent with those seen in my [pulse oximeter
