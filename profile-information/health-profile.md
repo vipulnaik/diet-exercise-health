@@ -327,9 +327,9 @@ have also taken various actions that I am hoping will help reduce my
 LDL cholesterol over time. I plan to get tested for a wider range of
 related metrics, including getting a NMR lipoprofile at least once and
 getting Apo B measurements regularly, as these offer a better proxy of
-atherosclerotic risk than LDL cholesterol. See [2025 blood test
-plans](../events/2025/2025-blood-test-plans.md) for some of my future
-plans on this front.
+atherosclerotic risk than LDL cholesterol. See [2024 blood test plans
+(round 2)](../events/2024/2024-blood-test-plans-round-2.md) for some
+of my future plans on this front.
 
 #### Serum triglycerides (acceptable range: 0-150 mg/dL)
 
