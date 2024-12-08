@@ -193,3 +193,39 @@ and woke up without an alarm:
 While 8 hours 19 minutes is more than my typical amount of sleep, it
 might be reasonable for a winter season, particularly considering the
 fact that I woke up once in between to urinate.
+
+## Sleeping late overnight from 2024-12-06 due to getting hooked to something
+
+In the evening on Friday 2024-12-06, I started work on Groupprops
+subwiki. While this was initially expected to be a short stint of
+work, I ended up getting hooked to the work and spending about 2 hours
+on it, due to which I ended up closing for sleep at around 1:15 AM,
+compared to my intention to do so latest by midnight (with my
+latest-in-bed time about 1 AM).
+
+I ended up going to sleep at 2:07 AM, about an hour after my
+latest-in-bed time.
+
+I did have at the back of my mind through the process that I don't
+have any need to wake up early the next day, as it was Saturday, so I
+wasn't being very strict. I also delayed my alarm times by an hour
+(from 9:15 AM and 9:30 AM to 10:15 AM and 10:30 AM).
+
+However, I ended up waking up on the morning of Saturday 2024-12-07 at
+around 8:52 AM, having slept about 6 hours 45 minutes. While this was
+under 7 hours, it was close enough to 7 hours, and I felt awake
+enough, that I continued to stay awake.
+
+I worked again on Grouppprops subwiki, and was hooked to it, till
+around noon. This delayed some of the rest of my day compared to my
+ideal goal, but not by too much, and I was able to readjust timings to
+target going to sleep at a normal or even slightly earlier than normal
+time on Saturday night.
+
+I had a good bowel movement, and felt alert in the morning, but did
+have a bit more of a sense of left-sided ear compression, related to
+my [reduced hearing](2024-11-29-reduced-hearing-in-left-ear.md). Also,
+after I did my dead hang and pull-ups, that sense increased and I felt
+a bit more head/neck/shoulder tension. I think the reduced sleep may
+be a contributor to these, though not the only one, and my hope is
+that sleeping well on Saturday night should get things back to normal.
