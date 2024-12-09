@@ -229,3 +229,9 @@ after I did my dead hang and pull-ups, that sense increased and I felt
 a bit more head/neck/shoulder tension. I think the reduced sleep may
 be a contributor to these, though not the only one, and my hope is
 that sleeping well on Saturday night should get things back to normal.
+
+UPDATE 2024-12-08: I went to sleep at 12:51 AM and woke up around 9:42
+AM feeling refreshed. I didn't have any of the increased
+head/neck/shoulder tension despite doing weight-lifting and push-ups
+later in the day, and lugging a bunch of stuff back from Trader
+Joe's. So I think I am back to normal.
