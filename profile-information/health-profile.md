@@ -30,7 +30,9 @@ Sections of this document:
 * [Dental status](#dental-status)
 * [Eye status](#eye-status)
 * [Physical exam](#physical-exam)
-* [HbA1c, lipid profile, insulin, and liver function tests](#hba1c-lipid-profile-insulin-and-liver-function-tests)
+* [Insulin sensitivity and glycemic control](#insulin-sensitivity-and-glycemic-control)
+* [Lipid profile and related measures of atherosclerotic risk](#lipid-profile-and-related-measures-of-atherosclerotic-risk)
+* [Metabolic syndrome evaluation](#metabolic-syndrome-evaluation)
 * [Infectious diseases and vaccines](#infectious-diseases-and-vaccines)
 * [Injuries](#injuries)
 * [Lifestyle](#lifestyle)
@@ -264,32 +266,83 @@ investigate further if I notice anything unusual. As of October 2024,
 my most recent blood pressure measurement was on 2024-10-13 and my
 most recent palpation check and stethoscope check were on 2024-09-28.
 
-## HbA1c, lipid profile, insulin, and liver function tests
+## Insulin sensitivity and glycemic control
 
-One of the sets of metrics I get tested every few years is my lipid
-profile and HbA1c. This is due to a family history of diabetes and
-other complications. For the full list of readings, see
-[test_results.sql](../sql/test_results.sql).
+### Insulin sensitivity/resistance spectrum measurements
 
-### HbA1c
+The spectrum from insulin sensitivity to insulin resistance measures
+how sensitive the body is to insulin for the purpose of controlling
+blood glucose. The more sensitive, the less insulin is needed to
+maintain normal blood glucose. As of 2024, my insulin-sensitivity
+seems to be in the optimal range. I do not seem to have insulin
+resistance, and I plan to continue monitoring for this.
 
-The HbA1c is a percentage, though the percentage sign is usually
-omitted from the readings. 6.5 and higher is considered diabetic, 5.7
-to 6.4 is considered prediabetic, and 4 to 5.6 is considered normal.
+#### Insulin resistance measured using fasting insulin (HOMA-IR method)
+
+I have measured fasting insulin twice, once in June 2021, where I got
+a reading of 3.6 uIU/mL, and once in September 2024, where I got a
+reading of 4.6 uIU/mL. Both readings are in the normal range. The
+thresholds for insulin itself were set at 19.6 and 18.4 in these two
+tests, so I am well within the thresholds.
+
+The second reading (from September 2024) was obtained alongside a
+blood glucose reading, which was 85 mg/dL. This allows for the
+calculation of homeostatic model assessment insulin resistance
+(HOMA-IR), which is obtained by multiplying the fasting insulin and
+fasting blood glucose measured simultaneously (in units uIU/mL and
+mg/dL) and dividing by 405. My HOMA-IR score of 0.97 is less than 1,
+which marks me as insulin-sensitive and not insulin-resistant (in
+general, a range of 0.5 to 1.4 is considered insulin-sensitive, with
+scores of 1 or lower considered optimal).
+
+#### Insulin resistance measured using NMR lipoprofile (NMR-IR method)
+
+I plan to get a NMR lipoprofile as part of my second round of 2024
+blood tests (in December 2024). This will include a measure of insulin
+resistance.
+
+### Glycemic control
+
+Glycemic control refers to control of blood glucose levels. Generally,
+insulin resistance is the main factor that causes poor glycemic
+control in the long term. In the short term, glycemic control may be
+poor due to a range of other factors including short-run dietary and
+energy expenditure choices.
+
+#### Blood glucose levels
+
+I have had fasting blood glucose measured in September 2024, where it
+came to 85 mg/dL, which is in the normal range (less than 100 mg/dL is
+considered normal for fasting blood glucose).
+
+I also had a non-fasting blood glucose in April 2024, which was about
+6.5 hours after my last meal. This reading came to 92 mg/dL. A
+6.5-hour gap is too large for post-prandial measurement but too little
+to be considered a fasting measurement.
+
+#### HbA1c
+
+HbA1c measures the percentage of hemoglobin that is glycated. It
+reflects a weighted average of the frequency and extent of elevated
+blood glucose levels over the past 3 to 4 months (determed by the
+lifetime of the red blood cell). HbA1c levels of 6.5% and higher are
+considered indicative of diabetes. Levels of 5.7% to 6.4% are
+considered indicative of prediabetes, and levels of 5.6% are below are
+considered normal.
 
 My HbA1c has never been measured in the prediabetic range. In December
 2016, when I was having stomach issues, and in general had a
 relatively unhealthy diet with more consumption of hot chocolate (a
-sugary drink) and outside food, my HbA1c was at 5.5, a little below
+sugary drink) and outside food, my HbA1c was at 5.5%, a little below
 the prediabetic range.
 
-However, my more recent reading as of June 2021 gives a HbA1c of 5.0.
+However, my more recent reading as of June 2021 gives a HbA1c of 5.0%.
 
-My reading in September 2024 came to 5.5. However, a note on the Quest
+My reading in September 2024 came to 5.5%. However, a note on the Quest
 Diagnostics website suggested changes to the measurement method that
 may increase measured HbA1c by up to 0.3 percentage points.
 
-### Lipid profile
+## Lipid profile and related measures of atherosclerotic risk
 
 I've taken lipid profile measurements starting April 2004, with my
 most recent measurement being in September 2024 as part of my [2024 blood
@@ -299,7 +352,7 @@ Overall, my most recent lipid profile (as of 2024) is close enough to
 normal, but this is something I need to continue monitoring given
 family diabetic tendencies.
 
-#### Cholesterol total (acceptable range: 0-200 mg/dL)
+### Cholesterol total (acceptable range: 0-200 mg/dL)
 
 My cholesterol total has always stayed within range. Overall, it
 appears to have been increasing somewhat from ~150 in 2004 to being
@@ -307,14 +360,14 @@ only slightly below the upper limit of 200 in the last test in
 2021. However, in 2024, it dropped a little bit from the 2021 level,
 getting to 177. This is a step in the positive direction.
 
-#### HDL cholesterol (acceptable range: 30-60 mg/dL, some sources say >= 40 mg/dL)
+### HDL cholesterol (acceptable range: 30-60 mg/dL, some sources say >= 40 mg/dL)
 
 My first cholesterol HDL reading, done 2004, showed a result of 28,
 below the acceptable range. Since then, my HDL has been generally
 increasing. The last two readings (2021 and 2024) were both at 46,
 which are within the range.
 
-#### LDL cholesterol (acceptable range: 0-100 mg/dL)
+### LDL cholesterol (acceptable range: 0-100 mg/dL)
 
 My LDL cholesterol measurements have always hovered around the
 threshold, with the very first reading in April 2004 being 99, just
@@ -331,19 +384,30 @@ atherosclerotic risk than LDL cholesterol. See [2024 blood test plans
 (round 2)](../events/2024/2024-blood-test-plans-round-2.md) for some
 of my future plans on this front.
 
-#### Serum triglycerides (acceptable range: 0-150 mg/dL)
+### Serum triglycerides (acceptable range: 0-150 mg/dL)
 
 My last two serum triglycerides readings (June 2021 and September
-2024) have been 124 and 79, both of them within range, with the
+2024) have been 124 and 89, both of them within range, with the
 September 2024 reading being particularly good.
 
-### Insulin (uIU/mL)
+## Metabolic syndrome evaluation
 
-I have gotten tested for insulin twice, in June 2021 and September
-2024 respectively. My readings were respectively 3.6 and 4.6, well
-below the threshold of concern (set at 19.6 originally but reduced to
-18.4). The levels seem low enough to suggest that I don't have insulin
-resistance at this stage.
+Based on the document so far, it's clear that I don't satisfy any of
+the conditions for metabolic syndrome:
+
+* Hypertension: My blood pressure is well below 120/80.
+
+* Hyperglycemia: My blood glucose was measured as normal in September
+  2024 (fasting) and April 2024 (6.5 hours after meal), and proxy
+  measures based on HbA1c also suggest that it's normal.
+
+* HDL cholesterol: At 46 mg/dL, this is above the threshold of 40 mg/dL for males.
+
+* Serum triglycerides: At 89 mg/dL, my most recent reading is well
+  below the threshold of 150 mg/dL.
+
+* Waist size: At 28 inches, my waist size is well below the thresholf
+  of 40 inches.
 
 ## Infectious diseases and vaccines
 
