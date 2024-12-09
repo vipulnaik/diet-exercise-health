@@ -875,5 +875,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-12-07','TJ Carb Savvy Tortillas',1,1),
   /* Lentils prep 2024-12-07 (overnight soaking to cook the next day) */
-  ('2024-12-07','TJ Green Lentils',0.5,3);
+  ('2024-12-07','TJ Green Lentils',0.5,3),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-12-08','TJ Carb Savvy Tortillas',1,2), /* started new pack before old pack ended because this pack has an earlier "best by" date */
+  ('2024-12-08','TJ Miso Ginger Broth',1,2);
   /* Double-check the date before committing */
