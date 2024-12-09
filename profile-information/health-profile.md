@@ -292,11 +292,11 @@ which marks me as insulin-sensitive and not insulin-resistant (in
 general, a range of 0.5 to 1.4 is considered insulin-sensitive, with
 scores of 1 or lower considered optimal).
 
-#### Insulin resistance measured using NMR lipoprofile (NMR-IR method)
+#### Insulin resistance measured using NMR lipoprofile (LP-IR method)
 
 I plan to get a NMR lipoprofile as part of my second round of 2024
 blood tests (in December 2024). This will include a measure of insulin
-resistance.
+resistance. This calculation method is called LP-IR.
 
 ### Glycemic control
 
