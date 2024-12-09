@@ -1007,3 +1007,12 @@ my anal swelling).
 I did other exercises (jogging, hand grippers,
 standing-on-one-leg-with-eyes-closed,
 standing-on-toes-with-eyes-closed).
+
+## 2024-12-09: at-home jogging due to time constraints
+
+On 2024-12-09, due to time constraints related to an upcoming meeting,
+I opted for at-home jogging instead of going out to jog. This saved me
+time in two ways: I didn't have the overhead of getting ready to go
+out + returning after going out, and I didn't need a safety margin
+between end of exercise and start of meeting as there was less
+uncertainty.
