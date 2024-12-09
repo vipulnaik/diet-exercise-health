@@ -195,8 +195,6 @@ queries = [
 
     "select epoch, daily_saturated_fat_in_grams from daily_pw_amounts_by_epoch where daily_saturated_fat_in_grams > 15;",
 
-    "select epoch, daily_sugars_in_grams from daily_pw_amounts_by_epoch where daily_sugars_in_grams > 45;",
-
     "select epoch, daily_protein_in_grams from daily_pw_amounts_by_epoch where daily_protein_in_grams < 52;",
 
     "select epoch, daily_oxalate_in_mg from daily_pw_amounts_by_epoch where daily_oxalate_in_mg > 135;",
