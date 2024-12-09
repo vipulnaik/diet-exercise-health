@@ -265,6 +265,10 @@ most recent palpation check and stethoscope check were on 2024-09-28.
 
 ## Insulin sensitivity and glycemic control
 
+You can get full details
+[here](https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql)
+of all test results for me so far of tests discussed in this section.
+
 ### Insulin sensitivity/resistance spectrum measurements
 
 The spectrum from insulin sensitivity to insulin resistance measures
@@ -340,6 +344,10 @@ Diagnostics website suggested changes to the measurement method that
 may increase measured HbA1c by up to 0.3 percentage points.
 
 ## Lipid profile and related measures of atherosclerotic risk
+
+You can get full details
+[here](https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql)
+of all test results for me so far of tests discussed in this section.
 
 I've taken lipid profile measurements starting April 2004, with my
 most recent measurement being in September 2024 as part of my [2024 blood
