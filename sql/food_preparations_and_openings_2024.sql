@@ -887,5 +887,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-09','TJ Carrots',1,2),
   ('2024-12-09','Green bell pepper',4,2),
   ('2024-12-09','Red bell pepper',2,2),
-  ('2024-12-09','Beefsteak tomato',7,2); /* extra tomato as there was space */
+  ('2024-12-09','Beefsteak tomato',7,2), /* extra tomato as there was space */
+  /* Rice prep 2024-12-10 (first meal) */
+  ('2024-12-10','Lundberg Sustainable California White Basmati Rice',0.9,1);
   /* Double-check the date before committing */
