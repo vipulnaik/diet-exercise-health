@@ -879,5 +879,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2024-12-08','TJ Carb Savvy Tortillas',1,2), /* started new pack before old pack ended because this pack has an earlier "best by" date */
   ('2024-12-08','TJ Miso Ginger Broth',1,2),
-  ('2024-12-09','Kite Hill Greek Style Plant-Based Yogurt',1,1);
+  ('2024-12-09','Kite Hill Greek Style Plant-Based Yogurt',1,1),
+  ('2024-12-09','California Walnuts',1,1),
+  /* Meal prep 2024-12-09 (second meal) */
+  ('2024-12-09','Eggplant',1,2),
+  ('2024-12-09','TJ Kale',1,2),
+  ('2024-12-09','TJ Carrots',1,2),
+  ('2024-12-09','Green bell pepper',4,2),
+  ('2024-12-09','Red bell pepper',2,2),
+  ('2024-12-09','Beefsteak tomato',7,2); /* extra tomato as there was space */
   /* Double-check the date before committing */
