@@ -231,6 +231,10 @@ These are the limits:
 
 ## Passive optional cognitive stimulation (POCS)
 
+NOTE: These limits were updated 2024-12-10 in light of recent
+data. See the history of the document on GitHub to see the previous
+limits.
+
 Passive optional cognitive stimulation (POCS) refers to cognitive
 stimulation that is both passive (I am watching a video or listening
 to an audio) and optional (I don't need to do this for any near-term
@@ -240,20 +244,39 @@ around health and medicine have this characteristic. On the other
 hand, entertainment content doesn't count here, because the amount of
 material I'm trying to retain from it is low.
 
-* At most 45 minutes per day of POCS on speaker (where I am listening
-  to it while away from computer). This is because listening to audio
-  this way can be a bit strenuous and also cuts into my unwinding /
-  processing / sorting time. In practice, doing this at the end of one
-  meal, or during some meal prep or cleaning activity, should be good
-  enough.
+* POCS limits:
 
-* At most 2 hours per day of POCS.
+  * 1 hour for continuous POCS
 
-* No POCS at these times:
+  * 2 hours soft limit for POCS per day -- only go over this if I feel
+    very confident that I can handle more
+
+  * 3 hours hard limit for POCS per day -- don't go over this even if I
+    feel like I can handle more
+
+* POCS on speaker (where I am listening to it while away from
+  computer). Limits here are a little lower because listening to
+  audio this way can be a bit strenuous and also cuts into my
+  unwinding / processing / sorting time.
+
+  * 45 minutes for continuous POCS on speaker
+
+  * 1 hour soft limit for POCS on speaker per day
+
+  * 1 hour 20 minutes for POCS per day -- don't go over this even if I
+    feel like I can handle more
+
+* Soft block POCS at these times; only override this if I am fairly
+  eager and comfortable:
 
   * Until after I finish my morning exercise
 
-  * Starting 1 hour prior to my 1-hour-notice-to-sleep time
+  * Starting 1 hour prior to my 1-hour-notice-to-sleep time and until
+    I get into bed.
+
+  Once I get into bed (getting ready to sleep), I can watch some POCS
+  as I prepare for sleep (up to 15 minutes) if I still have quota for
+  the day.
 
 * No multiplexing of POCS with any required cognitive stimulation
   unless the latter is low risk, low or medium in open-endedness, and
