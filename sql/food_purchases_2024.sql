@@ -812,7 +812,14 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-12-08','TJ Carrots',1),
   ('2024-12-08','Red bell pepper',2),
   ('2024-12-08','Beefsteak tomato',9),
-  ('2024-12-08','Green bell pepper',4);
+  ('2024-12-08','Green bell pepper',4),
+  /* 2024-12-10 Trader Joe's; total cost $31.01; checkout at 6:14 PM; paid by credit card */
+  ('2024-12-10','Trader Giotto''s Olive Oil',1),
+  ('2024-12-10','TJ Kale',2),
+  ('2024-12-10','Gold potatoes 5 lb',1),
+  ('2024-12-10','TJ Green Lentils',2),
+  ('2024-12-10','TJ Carb Savvy Tortillas',1),
+  ('2024-12-10','Beefsteak tomato',10); /* I was billed for 2 */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
