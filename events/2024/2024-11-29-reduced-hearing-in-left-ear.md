@@ -41,3 +41,6 @@ balanced, but I plan to do another check on 2024-12-07.
 
 UPDATE 2024-12-07: The hearing balance seems to still be around a
 ratio of 1.25. I've set a reminder to do another check on 2024-12-10.
+
+UPDATE 2024-12-10: The hearing balance seems to still be around a
+ratio of 1.25. I've set a reminder to do another check on 2024-12-13.
