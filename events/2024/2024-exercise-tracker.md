@@ -1016,3 +1016,13 @@ time in two ways: I didn't have the overhead of getting ready to go
 out + returning after going out, and I didn't need a safety margin
 between end of exercise and start of meeting as there was less
 uncertainty.
+
+## 2024-12-10: skipped strength exercises after returning from jogging due to time constraints
+
+On 2024-12-10, when I returned from jogging, I needed to investigate
+an alert. By the time I was done with it, it was getting late; I
+didn't want to do strength exercises as the exercise/eating gap would
+have led me to eat too late and delay the rest of my day. Since this
+was a day where I had deferred standing-on-one-leg-with-eyes-closed
+and standing-on-toes-with-eyes-closed exercises to be done along with
+strength exercises, I ended up skipping these exercises as well.
