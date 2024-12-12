@@ -891,5 +891,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Rice prep 2024-12-10 (first meal) */
   ('2024-12-10','Lundberg Sustainable California White Basmati Rice',0.9,1),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-12-10','TJ Carb Savvy Tortillas',1,1);
+  ('2024-12-10','TJ Carb Savvy Tortillas',1,1),
+  ('2024-12-11','Kite Hill Greek Style Plant-Based Yogurt',1,1);
   /* Double-check the date before committing */
