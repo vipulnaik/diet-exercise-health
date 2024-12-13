@@ -556,3 +556,11 @@ quarters to use for laundry).
 I then went to Trader Joe's for
 food purchases recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Friday December 13
+
+In the morning, I went to LabCorp for a blood draw, described
+[here](2024-12-13-blood-tests.md).
+
+After finishing the blood draw, I stopped at Walgreens on the way back
+and did some shopping.

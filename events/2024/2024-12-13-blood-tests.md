@@ -42,9 +42,12 @@ AM.
 I drank a bunch of water a little before 9:30 AM in preparation for
 the blood draw.
 
-I left my place at around 9:35 AM. I arrived at the LabCorp location
-at around 9:55 AM. Fortunately, it had stopped raining by the time I
-left, though the sidewalks were still a bit wet.
+I left my place at around 9:35 AM. Fortunately, it had stopped raining
+by the time I left, though the sidewalks were still a bit wet.
+
+I arrived at the building housing the LabCorp location (3000 Colby
+Street) at around 9:55 AM. I put on my mask, sanitized my hands, and
+then proceeded to enter the location.
 
 ### Check-in process
 
