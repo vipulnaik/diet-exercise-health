@@ -30,6 +30,32 @@ appointments. It's too early to know what the weather will be like at
 that time. I also moved all the reminders three weeks into the future
 since I had moved the appointment three weeks into the future.
 
+### Appointment
+
+For details of how the appointment transpired, see
+[2024-12-13-blood-tests.md](2024-12-13-blood-tests.md).
+
+### Status on LabCorp and Marek Diagnostics websites after appointment
+
+As of around noon on 2024-12-13, the status is as follows:
+
+* The LabCorp website still does not show the order. This is as
+  expected, since my last order from Request A Test also did not show
+  up in my LabCorp account (but the orders from Jeff Aron did show
+  up). Also, Quest Diagnostics did show my previous order from Request
+  A Test and even showed partial results, whereas Request A Test only
+  showed me the results once all the results were back. My guess is
+  that in this case, Marek Diagnostics will only get the results once
+  all the results are back, and unlike the Quest Diagnostics / Request
+  A Test situation, I will not get partial information earlier. But let's see!
+
+* Marek Diagnostics shows the order as "Fulfilled" which I think means
+  that they got information from LabCorp indicating that they have
+  collected the sample. However, I did not check the status of the
+  order on the Marek Diagnostics website prior to the appointment, so
+  I don't know for sure. There are no results on the Marek Diagnostics
+  website.
+
 ## Cost estimate
 
 Cost estimates were based on list prices on ownyourlabs.com,
