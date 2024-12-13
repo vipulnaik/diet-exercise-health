@@ -47,7 +47,8 @@ by the time I left, though the sidewalks were still a bit wet.
 
 I arrived at the building housing the LabCorp location (3000 Colby
 Street) at around 9:55 AM. I put on my mask, sanitized my hands, and
-then proceeded to enter the location.
+then proceeded to enter the location (Suite 100 -- it was the first
+room on the right of the hallway after I entered).
 
 ### Check-in process
 
