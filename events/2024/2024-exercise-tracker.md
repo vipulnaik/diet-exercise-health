@@ -1033,3 +1033,10 @@ strength exercises, I ended up skipping these exercises as well.
 On Wednesday 2024-12-11, I skipped all exercise due to a lengthy
 meeting with work colleagues and a long list of things to do after
 that.
+
+## 2024-12-12: skipped all exercise in preparation for blood test tomorrow
+
+On 2024-12-12, I skipped all exercise in preparation for a blood test
+the next morning (2024-12-13). Conveniently, this also was the day
+that it was raining throughout the day, which means that even if I did
+exercise it would have had to be at-home jogging.
