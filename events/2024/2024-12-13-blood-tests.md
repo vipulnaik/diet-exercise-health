@@ -70,18 +70,29 @@ records. Then she asked for my appointment time. I said 10:30 AM. I
 then went back to the waiting area and sat down. The process finished
 around 10:05 AM.
 
+Overall, there were about 2 to 4 people in the waiting area at a given
+time, out of about 8 chairs. Usually one person was talking to the
+front desk, so there were 2 to 3 people seated out of about 8 chairs.
+
 ### Preliminaries for blood draw
 
 At around 10:09 AM, I was called by the phlebotomist who would do my
 blood draw. I was told to wait in room 2. It was around 10:10 AM by
 the time I got in room 2 and got seated.
 
-At around 10:13 AM, the phlebotomist came into the room. There was
-some confusion as she though I also had a stool sample, but I
+At around 10:13 AM, the phlebotomist came into the waiting area. There
+was some confusion as she though I also had a stool sample, but I
 clarified that I don't. She realized she had accidentally gotten an
 additional order with mine. She sorted it out and then came back for
 my blood draw. She asked for my name and date of birth to confirm my
 identity. Then, the blood draw process started.
+
+Given that I was called in for my blood draw much earlier than my
+appointment time, it is likely that I would have been able to get the
+draw done as a walk-in candidate as well. Overall, the level of
+crowdedness seemed lower than Quest Diagnostics when I went there in
+September, but that might have partly been because it was an unlucky
+day with one of the phlebotomists being out.
 
 ### Blood draw process
 
