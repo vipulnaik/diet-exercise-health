@@ -123,3 +123,14 @@ have all my belongings, then exited the LabCorp area. While still in
 the building but outside the LabCorp area, I took off my mask and
 recorded the time; it was 10:18 AM. I then headed back home (with a
 stop at Walgreens for a few purchases).
+
+### Resumption of supplements with meal
+
+I had my first meal of the day from 2:29 PM to 3:18 PM. I resumed
+regular consumption of supplements with this meal.
+
+### Bandage change
+
+Around 3:55 PM (a little under 6 hours after the blood draw), I
+switched from the thing tied around my elbow to a single water block
+flex bandage covering the area of the blood draw.
