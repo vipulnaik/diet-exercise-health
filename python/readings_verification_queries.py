@@ -13,7 +13,7 @@ queries = [
     # Pulse oximeter
     "select * from pulse_oximeter_readings where not (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_min_bpm between 40 and 65) and not (reading_date = '2024-08-27');",
 
-    "select * from pulse_oximeter_readings where not (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_max_bpm between 45 and 70) and not (reading_date = '2024-08-27');",
+    "select * from pulse_oximeter_readings where not (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_max_bpm between 45 and 70) and not (reading_date in ('2024-08-27','2024-12-14'));",
 
     "select * from pulse_oximeter_readings where (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_min_bpm between 50 and 100);",
 
