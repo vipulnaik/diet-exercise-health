@@ -905,5 +905,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-12','TJ Roasted Seaweed',1,2),
   ('2024-12-13','Kite Hill Greek Style Plant-Based Yogurt',1,1),
   /* Rice prep 2024-12-14 (first meal) */
-  ('2024-12-14','Lundberg Sustainable California White Basmati Rice',0.9,1);
+  ('2024-12-14','Lundberg Sustainable California White Basmati Rice',0.9,1),
+  /* Potatoes prep 2024-12-14 (second meal) */
+  ('2024-12-14','Gold potatoes 5 lb',0.45,2),
+  ('2024-12-14','TJ Kale',1,2),
+  ('2024-12-14','TJ English Shelled Peas',2,2),
+  ('2024-12-14','Beefsteak tomato',7,2),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-12-14','TJ Miso Ginger Broth',1,2);
   /* Double-check the date before committing */
