@@ -4,9 +4,9 @@
 
 Total so far ecluding enhanced lipid panel that is only from Marek Diagnostics:
 
-* Own Your Labs: $96.94
-* Marek Diagnostics: $63
-* Request A Test: $191 (same for LabCorp and Quest Diagnostics) but also does not include creatine kinase
+* Own Your Labs: $105.34
+* Marek Diagnostics: $73
+* Request A Test: LabCorp: $220; Quest Diagnostics: $226
 
 So far, Marek Diagnostics seems to be the cheapest and it also has the
 enhanced lipid panel that the others don't have.
@@ -71,4 +71,8 @@ CMP.
 * https://marekdiagnostics.com/products/c-reactive-protein-high-sensitivity-hs-crp ($23)
 * https://requestatest.com/c-reactive-protein-high-sensitivity-testing (LabCorp: $59; Quest Diagnostics: $59)
 
+### Complete blood count (CBC) with differential
 
+* https://ownyourlabs.com/product/cbc-with-differential-platelet/ ($8.40)
+* https://marekdiagnostics.com/products/complete-blood-count-cbc-with-nlr-differential-and-platelets ($10)
+* https://requestatest.com/cbc-with-differential-testing (LabCorp: $29; Quest Diagnostics: $35)
