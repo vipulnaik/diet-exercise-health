@@ -300,16 +300,50 @@ blood glucose reading, which was 85 mg/dL. This allows for the
 calculation of homeostatic model assessment insulin resistance
 (HOMA-IR), which is obtained by multiplying the fasting insulin and
 fasting blood glucose measured simultaneously (in units uIU/mL and
-mg/dL) and dividing by 405. My HOMA-IR score of 0.97 is less than 1,
-which marks me as insulin-sensitive and not insulin-resistant (in
+mg/dL) and dividing by 405. **My HOMA-IR score of 0.97 is less than 1,
+which marks me as insulin-sensitive and not insulin-resistant** (in
 general, a range of 0.5 to 1.4 is considered insulin-sensitive, with
 scores of 1 or lower considered optimal).
 
 #### Insulin resistance measured using NMR lipoprofile (LP-IR method)
 
-I plan to get a NMR lipoprofile as part of my second round of 2024
-blood tests (in December 2024). This will include a measure of insulin
+I got a NMR lipoprofile as part of my second round of 2024 blood
+tests. The blood draw was on 2024-12-13; as of 2024-12-15, I am still
+waiting for the results. This will include a measure of insulin
 resistance. This calculation method is called LP-IR.
+
+#### Ratio of triglycerides to HDL (TG/HDL-C ratio)
+
+The ratio of triglycerides to HDL cholesterol (known as the TG/HDL-C
+ratio)is considered an approximate measure of insulin resistance; a
+higher TG/HDL-C ratio indicates more insulin resistance. Roughly,
+ratios of 2 or lower are considered ideal; [this
+paper](https://www.sciencedirect.com/science/article/abs/pii/S1933287421001197)
+suggests 2.6 or lower for men and 1.7 or lower for women. Ratios of 4
+or higher are considered high-risk.
+
+However, people with higher standards have advocated targeting a
+TG/HDL-C ratio of 1 or less.
+
+**My TG/HDL-C ratio from the September 2024 blood tests was 89/46
+(readings of 89 mg/dL and 46 mg/dL respectively) which is 1.93, a
+little less than 2, and therefore optimal according to standard
+reference ranges, but way higher than the value of 1 advocated by
+people with higher standards.**
+
+My previous TG/HDL-C ratios have been higher; for instance, the ratio
+in June 2021 was 124/46 which is about 2.7, a little worse than
+optimal, but still below the high-risk range. My reading in November
+2017 was 79/51 which is about 1.55, which is in the optimal range
+though not optimal by the higher standards. My earlier readings showed
+wider fluctuation, with some readings giving a ratio of less than 2
+and other readings giving ratios above 4 and in some cases even above
+6.
+
+Overall, TG/HDL-C paints a somewhat worse picture in terms of the
+insulin sensitivity/resistance spectrum than the HOMA-IR calculation,
+but at least when restricted to the latest reading, this is still
+within the "optimal" range.
 
 ### Glycemic control
 
