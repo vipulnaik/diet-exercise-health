@@ -96,17 +96,23 @@ machine) as part of my monthly blood pressure readings (as well as
 other one-off readings in response to health events or other
 incidents) in
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql). As
-of 2024-11-20, my latest morning heart rate readings from the BP
+of 2024-12-15, my latest morning heart rate readings from the BP
 machine (before exercise or eating) as measured as part of blood
-pressure measurement were on 2024-11-20 with both readings at 46 bpm.
+pressure measurement were on 2024-12-15 with readings of 49 bpm and 48
+bpm respectively.
 
 I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
 health events or other incidents) in
 [pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql). As
-of 2024-11-20, my latest morning heart rate reading from the pulse
+of 2024-12-15, my latest morning heart rate reading from the pulse
 oximeter (before exercise or eating) as measured by the pulse oximeter
-was on 2024-10-13 with a range of 49-55 bpm.
+was on 2024-10-13 with a range of 49-55 bpm. During winter months, the
+pulse oximeter tends to have trouble reading out in the morning,
+likely due to cold hands. My most recent afternoon heart rate reading
+measured by the pulse oximeter was on 2024-12-14 with a range of 60-71
+bpm; this reading was taken about 2.5 hours after finishing a meal and
+is typical of such readings.
 
 For extensive older experiment results, see
 [2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
@@ -143,10 +149,13 @@ for a historical established temperature baseline.
 
 ### Blood pressure
 
-My most recent at-home resting blood pressure readings (taken
-2024-11-20) were 99/65 and 99/63. I've had home blood pressure
-readings with the systolic between 91 and 115 and the diastolic
-between 55 and 75.
+My most recent at-home resting morning blood pressure readings (taken
+2024-12-15) were 98/66 and 93/70. My most recent afternoon blood
+pressure readings (taken 2024-12-14 about 2.5 hours after finishing a
+meal) were 102/62 and 93/60.
+
+I've had home blood pressure readings with the systolic between 91 and
+115 and the diastolic between 55 and 75.
 
 These readings use the Omron blood pressure machine, which uses an
 oscillometric method. Manual blood pressure measurements will likely
