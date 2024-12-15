@@ -1034,9 +1034,22 @@ On Wednesday 2024-12-11, I skipped all exercise due to a lengthy
 meeting with work colleagues and a long list of things to do after
 that.
 
-## 2024-12-12: skipped all exercise in preparation for blood test tomorrow
+## 2024-12-12: skipped all exercise in preparation for blood draw tomorrow
 
-On 2024-12-12, I skipped all exercise in preparation for a blood test
-the next morning (2024-12-13). Conveniently, this also was the day
-that it was raining throughout the day, which means that even if I did
-exercise it would have had to be at-home jogging.
+On Thursday 2024-12-12, I skipped all exercise in preparation for a
+blood draw the next morning (2024-12-13) (see
+[here](2024-12-13-blood-tests.md)). Conveniently, this also was the
+day that it was raining throughout the day, which means that even if I
+did exercise it would have had to be at-home jogging.
+
+## 2024-12-13: skipped all exercises for blood draw
+
+On Friday 2024-12-13, I skipped all exercises due to a blood draw (see
+[here](2024-12-13-blood-tests.md)).
+
+## 2024-12-14: resumption of some exercises (non-strength)
+
+On Saturday 2024-12-14, following best practices, I resumed breath
+holds, standing-on-one-leg-with-eyes-closed,
+standing-on-toes-with-eyes-closed, and jogging. The jogging had to be
+at-home as it was raining.

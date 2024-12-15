@@ -31,7 +31,7 @@ PM. This is about an hour prior to my usual meal time.
 
 I went to sleep at 11:06 PM.
 
-## Day of the blood draw
+## Day of the blood draw (2024-12-13)
 
 ### Getting ready and reaching the location
 
@@ -134,3 +134,17 @@ regular consumption of supplements with this meal.
 Around 3:55 PM (a little under 6 hours after the blood draw), I
 switched from the thing tied around my elbow to a single water block
 flex bandage covering the area of the blood draw.
+
+## Next day (2024-12-14)
+
+### Resumption of some exercises
+
+On Saturday 2024-12-14, following best practices, I resumed breath
+holds, standing-on-one-leg-with-eyes-closed,
+standing-on-toes-with-eyes-closed, and jogging. The jogging had to be
+at-home as it was raining.
+
+### Bandage removal
+
+I removed the water block flex bandage around midnight going from
+2024-12-14 to 2024-12-15, after keeping it on for about 32 hours.
