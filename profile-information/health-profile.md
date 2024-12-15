@@ -274,7 +274,7 @@ of all test results for me so far of tests discussed in this section.
 The spectrum from insulin sensitivity to insulin resistance measures
 how sensitive the body is to insulin for the purpose of controlling
 blood glucose. The more sensitive, the less insulin is needed to
-maintain normal blood glucose. As of 2024, my insulin-sensitivity
+maintain normal blood glucose. As of 2024, my insulin sensitivity
 seems to be in the optimal range. I do not seem to have insulin
 resistance, and I plan to continue monitoring for this.
 
