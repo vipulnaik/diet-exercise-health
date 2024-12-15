@@ -220,6 +220,12 @@ swelling).
 On this day I resumed sauerkraut consumption, though at less than half
 of my usual level.
 
+## 2024-12-15
+
+At this point, the swelling seems to have healed / subsided enough
+that I plan to stop daily wet wiping after bowel movement starting
+tomorrow.
+
 ## Other notes
 
 ### Cold, muscle tensing, and wet wipes
