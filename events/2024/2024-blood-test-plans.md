@@ -100,5 +100,5 @@ There have been two takeaways:
   [here](2024-09-25-decision-to-increase-omega-3-supplement-daily-dose.md)
   for more information.
 
-My plans for the next round of blood tests are in [2025 blood test
-plans](../2025/2025-blood-test-plans.md).
+My plans for the next round of blood tests are in [2024 blood test
+plans (round 2)](2024-blood-test-plans-round-2.md).
