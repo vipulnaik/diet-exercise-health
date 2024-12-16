@@ -4,9 +4,9 @@
 
 Total so far ecluding enhanced lipid panel that is only from Marek Diagnostics:
 
-* Own Your Labs: $427.70
-* Marek Diagnostics: $160 plus $5 phlebotomist fee, totaling to $165; if we add the enhanced lipid panel we get to $215
-* Request A Test: LabCorp: $339 (also excludes creatine kinase); Quest Diagnostics: $226 (excludes both creatine kinase and cystatin C)
+* Own Your Labs: $495.70
+* Marek Diagnostics: $225 plus $5 phlebotomist fee, totaling to $230; if we add the enhanced lipid panel we get to $280
+* Request A Test: LabCorp: $408 (also excludes creatine kinase); Quest Diagnostics: $295 (excludes both creatine kinase and cystatin C)
 
 So far, Marek Diagnostics seems to be the cheapest and it also has the
 enhanced lipid panel that the others don't have.
@@ -88,3 +88,9 @@ estimate of eGFR. If it agrees with the estimate I obtain via
 creatinine as part of the CMP, then I don't need to redo this test for
 at least 4 years. In case of significant divergence though (with the
 cystatin C value *much lower*), I may need to do this test annually.
+
+### Homocysteine
+
+* https://ownyourlabs.com/product/homocysteine-plasma/ ($68)
+* https://marekdiagnostics.com/products/homocysteine ($65)
+* https://requestatest.com/homocysteine-testing ($69)
