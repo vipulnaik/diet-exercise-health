@@ -267,7 +267,7 @@ of my [urgent care visit](../events/2024/2024-04-30-urgent-care-visit-and-tests.
 
 Starting May 2024, I have been doing monthly physical self-exams that
 include blood pressure measurement, auscultation of the abdomen and
-heart sound,s and palpation of the abdomen. I take notes and
+heart sounds, and palpation of the abdomen. I take notes and
 investigate further if I notice anything unusual. As of October 2024,
 my most recent blood pressure measurement was on 2024-10-13 and my
 most recent palpation check and stethoscope check were on 2024-09-28.
