@@ -1053,3 +1053,9 @@ On Saturday 2024-12-14, following best practices, I resumed breath
 holds, standing-on-one-leg-with-eyes-closed,
 standing-on-toes-with-eyes-closed, and jogging. The jogging had to be
 at-home as it was raining.
+
+## 2024-12-16: resumption of hand grip exercises
+
+On Monday 2024-12-16, I resumed hand gripper exercises in both
+hands. I also updated the gap from blood tests to resumption of
+strength exercises from 7 days to 4 days.

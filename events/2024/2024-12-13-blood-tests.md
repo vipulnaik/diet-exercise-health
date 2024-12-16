@@ -135,16 +135,22 @@ Around 3:55 PM (a little under 6 hours after the blood draw), I
 switched from the thing tied around my elbow to a single water block
 flex bandage covering the area of the blood draw.
 
-## Next day (2024-12-14)
+## Later days
 
-### Resumption of some exercises
+### Resumption of some exercises on 2024-12-14
 
 On Saturday 2024-12-14, following best practices, I resumed breath
 holds, standing-on-one-leg-with-eyes-closed,
 standing-on-toes-with-eyes-closed, and jogging. The jogging had to be
 at-home as it was raining.
 
-### Bandage removal
+### Bandage removal going from 2024-12-14 to 2024-12-15
 
 I removed the water block flex bandage around midnight going from
 2024-12-14 to 2024-12-15, after keeping it on for about 32 hours.
+
+### Resumption of hand gripper exercises on 2024-12-16
+
+On Monday 2024-12-16, I resumed hand gripper exercises in both
+hands. I also updated the gap from blood tests to resumption of
+strength exercises from 7 days to 4 days.
