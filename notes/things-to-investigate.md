@@ -72,8 +72,9 @@ time-sensitive.
     following the kind of exercise regimen that I think is both
     desirable and sustainable.
 
-* Start planning for 2025 blood tests. This will likely be based on
-  the results of the [2024 blood tests round
+* Start planning for 2025 blood tests (partial work
+  [here](../events/2025/2025-blood-test-plans.md)). This will likely
+  be based on the results of the [2024 blood tests round
   2](../events/2024/2024-blood-test-plans-round-2.md).
 
 * Look into coronary artery calcium (CAC) / CT angiogram to be done at
