@@ -2,6 +2,8 @@
 
 List last updated: 2024-11-14
 
+Last status update: 2024-12-15
+
 Time on these things would be in a mix of personal chores and other
 activities buckets. The other activities bucket would be used for
 general learning, including watching YouTube videos. The personal
