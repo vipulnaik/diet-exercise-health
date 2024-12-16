@@ -4,9 +4,9 @@
 
 Total so far ecluding enhanced lipid panel that is only from Marek Diagnostics:
 
-* Own Your Labs: $105.34
-* Marek Diagnostics: $73
-* Request A Test: LabCorp: $220; Quest Diagnostics: $226
+* Own Your Labs: $427.70
+* Marek Diagnostics: $160
+* Request A Test: LabCorp: $339 (also excludes creatine kinase); Quest Diagnostics: $226 (excludes both creatine kinase and cystatin C)
 
 So far, Marek Diagnostics seems to be the cheapest and it also has the
 enhanced lipid panel that the others don't have.
@@ -59,7 +59,7 @@ HbA1c can be compared.
 
 * https://ownyourlabs.com/product/creatine-kinase-total/ ($37.34)
 * https://marekdiagnostics.com/products/creatine-kinase-ck-total ($6)
-* Request A Test doesn't seem to have this, but it has a creatine test
+* Request A Test doesn't seem to have this, but it has a creatine test for $39; I do not know for sure how the tests relate
 
 This is good as a measure of muscle growth/damage/regrowth and can be
 good for the interpretation of ALT and AST values that are part of a
@@ -76,3 +76,15 @@ CMP.
 * https://ownyourlabs.com/product/cbc-with-differential-platelet/ ($8.40)
 * https://marekdiagnostics.com/products/complete-blood-count-cbc-with-nlr-differential-and-platelets ($10)
 * https://requestatest.com/cbc-with-differential-testing (LabCorp: $29; Quest Diagnostics: $35)
+
+### Cystatin C (for more accurate kidney eGFR)
+
+* https://ownyourlabs.com/product/cystatin-c-2/ ($322.36)
+* https://marekdiagnostics.com/products/cystatin-c-with-egfr ($87)
+* https://requestatest.com/cystatin-c-test (LabCorp: $119; not available on Quest Diagnostics)
+
+This is expected to be a once every 4-8 years test for a more accurate
+estimate of eGFR. If it agrees with the estimate I obtain via
+creatinine as part of the CMP, then I don't need to redo this test for
+at least 4 years. In case of significant divergence though (with the
+cystatin C value *much lower*), I may need to do this test annually.
