@@ -110,12 +110,12 @@ NOTE: Jogging and breath holds can be resumed the next day after the
 blood test if I'm feeling up to it. No calendar reminder is needed.
 
 * Resume reminder for hand gripper exercises for the arm from which
-  the blood wasn't drawn: Three days after the blood draw
+  the blood wasn't drawn: Two days after the blood draw
 
 * Resume reminder for hand gripper exercises for the arm from which
-  blood was drawn: Five days after the blood draw
+  blood was drawn: Three days after the blood draw
 
-* Resume reminder for strength exercises: Seven days after the blood draw
+* Resume reminder for strength exercises: Four days after the blood draw
 
 ### Reminders to pause supplements for two days prior to the blood test
 
