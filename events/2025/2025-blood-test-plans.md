@@ -5,7 +5,7 @@
 Total so far ecluding enhanced lipid panel that is only from Marek Diagnostics:
 
 * Own Your Labs: $427.70
-* Marek Diagnostics: $160
+* Marek Diagnostics: $160 plus $5 phlebotomist fee, totaling to $165; if we add the enhanced lipid panel we get to $215
 * Request A Test: LabCorp: $339 (also excludes creatine kinase); Quest Diagnostics: $226 (excludes both creatine kinase and cystatin C)
 
 So far, Marek Diagnostics seems to be the cheapest and it also has the
