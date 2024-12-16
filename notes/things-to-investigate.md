@@ -55,7 +55,7 @@ time-sensitive.
 
   Progress so far:
 
-  * I write [best practices around DEXA
+  * I wrote [best practices around DEXA
     scans](../best-practices/best-practices-around-dexa-scans.md).
 
   * I've watched a few videos and have some further material to watch.
