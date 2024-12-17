@@ -796,10 +796,13 @@ consumption of yogurt.
 ### Current diet
 
 You can get a general sense of my current diet by looking at my [food
-preparations and openings](../sql/food_preparations_and_openings.sql);
-this data goes back to 2024-05-30 (May 30, 2024). I also have food
-purchase data going further back to 2021-03-10 (March 10, 2021), at
-[food purchases](../sql/food_purchases.sql).
+preparations and
+openings](../sql/food_preparations_and_openings_2024.sql); this data
+goes back to 2024-05-30 (May 30, 2024). I also have food purchase data
+going further back to 2021-03-10 (March 10, 2021). Data for the latest
+year (2024) can be accessed [here](../sql/food_purchases_2024.sql);
+similar files for previous years going back to 2021 are available in
+the [containing folder](../sql/).
 
 I also keep track of my food waste [here](../sql/food_waste.sql).
 
