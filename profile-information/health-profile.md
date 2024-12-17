@@ -922,6 +922,15 @@ regularly. Disruptions have been as follows:
   led to me having a bowel movement when I got back home. This kind of
   incident is rare.
 
+* Second bowel movements every few days from 2024-11-25 to 2024-12-04
+  as a result of some combination of significant increase in food
+  intake (with the temperature dropping) and anal swelling. I
+  addressed this by reducing food intake, trying to make my place
+  warmer to reduce appetite, continuin to let my anal swelling heal,
+  and switching to more fats and proteins relative to carbs and fiber
+  (though in absolute terms, all of them still went up quite a bit) to
+  reduce the amount of stool to pass.
+
 ### Abdominal discomfort
 
 In 2023, I had diarrhea and basically a digestive reset of sorts as a
