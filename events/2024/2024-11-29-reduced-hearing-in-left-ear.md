@@ -54,5 +54,67 @@ ratio of 1.25. I've set a reminder to do another check on 2024-12-16
 
 UPDATE 2024-12-17: The hearing balance seems to still be around a
 ratio of 1.25, though I now feel like it's hard to really
-differentiate within the 1.25-1.5 range. I've set a reminder to do
-another check on 2024-12-20.
+differentiate within the 1.25-1.5 range.
+
+The persistence of this issue led me to decide to dig more deeply into
+the topic.
+
+## More comprehensive evaluation on 2024-12-17
+
+### More thorough testing of minimum audible volume
+
+My previous testing was based on testing when sounds are equally loud
+to the left and right ear. However, that requires more of a subjective
+judgment. I decided to do something different -- take a soundtrack and
+find the minimum volume at which I could make out the words when
+playing it into my left and right ear.
+
+The Macbook Air has a gradation of 16 levels and 64 sub-levels (the
+sub-levels can be accessed by pressing alt+shift while adjusting the
+level up or down).
+
+Here's what I found:
+
+* With the right ear, I was able to hear and make out the words (for a
+  known soundtrack) at the lowest level (1 out of 64).
+
+* With the left ear, I needed to be at a level of around 14 out of 64
+  to be able to make out the words.
+
+I can't find a clear decibel mapping of the levels, but the
+guesstimate is that the max volume is about 75-90 decibels, so
+assuming linear increase in decibels with each gradation, starting at
+0 dB for a gradation of 1, that's a difference of about 15 to 19
+decibels in hearing between my ears. This seems significant -- my
+right ear hearing seems fine whereas my left ear hearing seems to be
+reduced.
+
+### Free online hearing test at resound.com
+
+Source: https://www.resound.com/en-us/online-hearing-test
+
+I set the speakers to balanced at maximum volume.
+
+Left ear:
+
+* 500 Hz: very barely at 7 sometimes, definitely faintly at 8
+
+* 1000 Hz: definitely faintly at 8
+
+* 2000 Hz: very faintly at 9
+
+* 4000 Hz: definitely faintly at 8
+
+* Overall verdict: Possible loss; it's slightly in the yellow
+
+Right ear:
+
+* 500 Hz: very barely at 6 sometimes, definitely faintly at 7
+
+* 1000 Hz: definitely faintly at 7
+
+* 2000 Hz: definitely faintly at 5
+
+* 4000 Hz: definitely faintly at 2
+
+* Overall verdict: No loss detected; it's all green
