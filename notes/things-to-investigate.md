@@ -24,6 +24,11 @@ My goal is to be sufficiently forward-thinking with this list that I
 investigate and consolidate knowledge before it becomes
 time-sensitive.
 
+## Investigations into health conditions
+
+* Figure out next steps for [reduced hearing in left
+  ear](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md)
+
 ## Supplements
 
 * Omega-3: recent changes to
