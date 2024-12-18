@@ -139,7 +139,16 @@ For screens, I use two tools:
   a lower level of brightness. Unfortunately, sometimes the ambient
   level of light is so low that even the least bright setting of the
   screen is still too bright, making the screen a concentrated light
-  source. Now, it's a bit of "lesser of two evils" -- putting an
+  source. (EDIT: On 2024-12-17, while investigating something similar
+  for sound, I discovered that Macbooks allow for a more fine-grained
+  control of brightness and sound volume (at 1/4 of the usual
+  granularity) that I can avail by pressing alt+shift while adjusting
+  the brightness or sound. This might be a useful option in the future
+  in cases where the ambient light level is so low that even the
+  lowest standard screen brightness is too much. If so, the next
+  paragraph may be less applicable than when I wrote it.)
+
+  Now, it's a bit of "lesser of two evils" -- putting an
   artificial light on may in some cases be the lesser evil because
   that concentrated light source, even though brighter, is still not
   something I am directly staring at. I think sometimes it does happen
