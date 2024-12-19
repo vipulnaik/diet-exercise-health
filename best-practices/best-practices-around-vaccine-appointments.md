@@ -102,8 +102,23 @@ Set a weather check reminder for two days prior to the appointment.
 * Pause reminder for strength exercises and hand gripper exercises:
   Two days prior to the vaccine appointment
 
+  Rationale: the vaccine is injected intramuscularly (in the muscle),
+  generally in the arm muscle. Generally, strength exercises and hand
+  gripper exercises cause wear and tear of the muscles and the
+  recovery from this wear and tear can take 1-2 days. This is By
+  pausing strength exercises for two days prior to the vaccine, I
+  increase the chances that my arm muscles are fully recovered at the
+  time of the vaccine.
+
 * Resume reminder for hand gripper exercise in the non-vaccine arm:
   Four days after the vaccine appointment
+
+  Rationale: the vaccine is administrated intramuscularly in the arm
+  muscle, which can create a stress not just on the muscle in that
+  arm, but for muscles in the neck area that serves both arms. Tensing
+  the other arm can interact with that stress and cause more pain, so
+  it's safest to pause anything that will unnecessarily tense that
+  other arm.
 
 * Resume reminder for hand gripper exercise in the vaccine arm: Seven
   days after the vaccine appointment
