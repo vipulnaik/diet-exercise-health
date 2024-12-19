@@ -197,13 +197,13 @@ paunch.
 
 * I generally get dental checkups and cleaning done every 6-7
   months. As of 2024, my dental care is handled by Total Health Dental
-  Care, and I go to the branch at 3017 Telegraph Avenue. The notes for
-  the most recent appointment should reflect the current status of my
-  dental health. Look in the folder `events/<year>` for files with the
-  word `dental-cleaning` in them to locate the most recent
-  appointment. As of the last edit of this document,
-  [this](../events/2024/2024-10-09-dental-cleaning.md) is my most
-  recent appointment.
+  Care, and I go to the branch at 3017 Telegraph Avenue, Berkeley, CA
+  94705. The notes for the most recent appointment should reflect the
+  current status of my dental health. Look in the folder
+  `events/<year>` for files with the word `dental-cleaning` in them to
+  locate the most recent appointment. As of the last edit of this
+  document, [this](../events/2024/2024-10-09-dental-cleaning.md) is my
+  most recent appointment.
 
 * All four of my wisdom teeth have been removed. The removal was done
   in 2023: [overall doc](../events/2023/2023-wisdom-tooth-removal.md), [left
