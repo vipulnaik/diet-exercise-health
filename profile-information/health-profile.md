@@ -36,6 +36,7 @@ Sections of this document:
   * [Insulin sensitivity and glycemic control](#insulin-sensitivity-and-glycemic-control) (these help determine the chances of getting to diabetes)
   * [Lipid profile and related measures of atherosclerotic risk](#lipid-profile-and-related-measures-of-atherosclerotic-risk)
   * [Metabolic syndrome evaluation](#metabolic-syndrome-evaluation)
+  * Markers of internal inflammation (section to be written)
 * Upcoming section to be written around internal organs, will cover
   what I can gather from measurements taken in my blood tests as well
   as other biomarkers covered in the preceding section to paint a
