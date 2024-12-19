@@ -1059,3 +1059,10 @@ at-home as it was raining.
 On Monday 2024-12-16, I resumed hand gripper exercises in both
 hands. I also updated the gap from blood tests to resumption of
 strength exercises from 7 days to 4 days.
+
+## 2024-12-18: skipped most exercise due to time-sensitive stuff at work
+
+On 2024-12-18, I skipped most exercise due to time-sensitive stuff at
+work. Also, I did not want to delay eating too much since my cycle was
+already quite shifted. I did manage to squeeze in (pun intended!) hand
+gripper exercise.
