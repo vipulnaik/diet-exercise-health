@@ -257,6 +257,11 @@ paunch.
   head/neck/jaw/tooth
   pain](../events/2018/2018-12-head-neck-jaw-tooth-pain.md).
 
+* A long time ago (in my 20s) I was diagnosed with strabismus (lazy
+  eye) and briefly did exercises to improve it. I have not observed
+  issues related to lazy eye myself, nor has this been flagged to me
+  in my eye exams in 2021 and 2023.
+
 ## Physical exam
 
 As of May 2024, my last full physical exam by a medical professional
