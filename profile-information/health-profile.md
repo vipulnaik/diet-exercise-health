@@ -1,15 +1,14 @@
 # Health profile
 
-Last major update: December 9, 2024
+Last major update: December 18, 2024 (this mostly entailed a
+reordering of sections and addition of notes on future sections to
+write)
 
-Last pass of full document review (with updates and corrections where
-needed): December 16, 2024
-
-This is the health profile for Vipul Naik. It is updated
-periodically. It does not include details of specific
-events/incidents; these are generally recorded in their own respective
-files. Links to the most recent and/or relevant incidents are included
-here.
+This is the health profile for Vipul Naik, an adult male in his late
+30s (born 1986). It is updated periodically. It does not include
+details of specific events/incidents; these are generally recorded in
+their own respective files. Links to the most recent and/or relevant
+incidents are included here.
 
 When updating this document:
 
@@ -25,27 +24,41 @@ When updating this document:
 Sections of this document:
 
 * [Ongoing incidents](#ongoing-incidents)
-* [Vital signs](#vital-signs)
-* [Physical build](#physical-build)
-* [Dental status](#dental-status)
-* [Eye status](#eye-status)
-* [Physical exam](#physical-exam)
-* [Insulin sensitivity and glycemic control](#insulin-sensitivity-and-glycemic-control)
-* [Lipid profile and related measures of atherosclerotic risk](#lipid-profile-and-related-measures-of-atherosclerotic-risk)
-* [Metabolic syndrome evaluation](#metabolic-syndrome-evaluation)
-* [Infectious diseases and vaccines](#infectious-diseases-and-vaccines)
-* [Injuries](#injuries)
-* [Lifestyle](#lifestyle)
-* [Diet](#diet)
-* [Digestive cycle](#digestive-cycle)
-* [Supplements](#supplements)
-* [Physical exercise](#physical-exercise)
-* [Cognitive exercise](#cognitive-exercise)
-* [Sleep](#sleep)
-* [Other routine elements](#other-routine-elements)
-* [Medications](#medications)
-* [Surgeries](#surgeries)
-* [Skin](#skin)
+* Key statistics
+  * [Vital signs](#vital-signs): heart rate, SpO2, temperature, blood pressure
+  * [Physical build](#physical-build): about average height and lean build
+* Sensory and external organs:
+  * [Dental status](#dental-status)
+  * [Eye status](#eye-status)
+  * [Ears and hearing status](#ears-and-hearing-status)
+  * [Skin](#skin)
+* Internal trends and biomarkers
+  * [Insulin sensitivity and glycemic control](#insulin-sensitivity-and-glycemic-control) (these help determine the chances of getting to diabetes)
+  * [Lipid profile and related measures of atherosclerotic risk](#lipid-profile-and-related-measures-of-atherosclerotic-risk)
+  * [Metabolic syndrome evaluation](#metabolic-syndrome-evaluation)
+* Upcoming section to be written around internal organs, will cover
+  what I can gather from measurements taken in my blood tests as well
+  as other biomarkers covered in the preceding section to paint a
+  picture both of the current health and of the trajectory of my liver
+  health.
+  * Liver status (include ALT and AST measurements, MADLD chances, insulin sensitivity implications, info from DEXA scan if I get it)
+  * Kidney status (include GFR estimation, urine evaluation, inferences from CMP)
+  * Lung status (I haven't done any pulmonary function tests, so inferences will be indirect)
+  * Heart status (I don't have much to go on except measurement of vitals and general lifestyle info)
+* Lifestyle factors
+  * [Lifestyle](#lifestyle)
+  * [Diet](#diet)
+  * [Digestive cycle](#digestive-cycle)
+  * [Supplements](#supplements)
+  * [Physical exercise](#physical-exercise)
+  * [Cognitive exercise](#cognitive-exercise)
+  * [Sleep](#sleep)
+  * [Other routine elements](#other-routine-elements)
+* Medical matters (excluding digestive and sleep stuff covered in preceding sections)
+  * [Infectious diseases and vaccines](#infectious-diseases-and-vaccines)
+  * [Injuries](#injuries)
+  * [Medications](#medications)
+  * [Surgeries](#surgeries)
 * [Aging](#aging)
 
 ## Ongoing incidents
@@ -193,6 +206,13 @@ with 28 being the most preferred (no belt needed), 30 needing a loose
 belt, and 32 being manageable with a tight belt. I do not have a
 paunch.
 
+### Pending DEXA scan
+
+I'm planning to get a DEXA scan done some time in the next few months
+(as of December 2024) to get a better picture of my body
+composition. Key insights from the DEXA scan will be included here
+once it is done.
+
 ## Dental status
 
 * I generally get dental checkups and cleaning done every 6-7
@@ -262,23 +282,30 @@ paunch.
   issues related to lazy eye myself, nor has this been flagged to me
   in my eye exams in 2021 and 2023.
 
-## Physical exam
+## Ears and hearing status
 
-As of May 2024, my last full physical exam by a medical professional
-was in December 2016, when I went to a gastro specialist for my
-stomach pain issues. See
-[here](../events/2016/2016-11-to-2016-12-stomach-pain-and-resolution.md#doctor-visit)
-for more context.
+Based on self-assessment, I have issues hearing with my left ear, with
+a hearing loss of around 15-19 dB based on crude measurements. This
+hearing loss seems to have had a sudden onset on 2024-11-29 when I
+woke up, though I did not quantify the loss at the time. The hearing
+in my right ear seems fine.
 
-On 2024-04-30, I had an abdominal exam and vitals measurements as part
-of my [urgent care visit](../events/2024/2024-04-30-urgent-care-visit-and-tests.md).
+I am planning to get an audiological evaluation to figure out the root
+cause and get it fixed if it's easy enough. See
+[here](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md) for
+more information.
 
-Starting May 2024, I have been doing monthly physical self-exams that
-include blood pressure measurement, auscultation of the abdomen and
-heart sounds, and palpation of the abdomen. I take notes and
-investigate further if I notice anything unusual. As of October 2024,
-my most recent blood pressure measurement was on 2024-10-13 and my
-most recent palpation check and stethoscope check were on 2024-09-28.
+I also had an ear infection as a child that caused me to lose hearing
+quite a bit. Fortunately, it was caught quickly enough and I was
+operated on and able to recover my hearing.
+
+## Skin
+
+My skin is on the dry side of the spectrum, so particularly in colder
+climates, it can get cuts if not adequately cared for. I generally
+apply vaseline lotion to my legs daily and to my hands (just the
+hands, not the forearms) several times a day. With moderate care, I don't
+have any noticeable skin issues.
 
 ## Insulin sensitivity and glycemic control
 
@@ -396,6 +423,11 @@ may increase measured HbA1c by up to 0.3 percentage points.
 
 ## Lipid profile and related measures of atherosclerotic risk
 
+NOTE: This section needs a rewrite based on my more refined
+understanding of atherosclerotic risk; I am deferring this rewrite to
+when I get back the results for my December 2024 blood tests as those
+results will include a lot of useful information.
+
 You can get full details
 [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql)
 of all test results for me so far of tests discussed in this section.
@@ -464,176 +496,6 @@ the conditions for metabolic syndrome:
 
 * Waist size: At 28 inches, my waist size is well below the thresholf
   of 40 inches.
-
-## Infectious diseases and vaccines
-
-See [vaccine_administrations.sql](../sql/vaccine_administrations.sql)
-for a full list of vaccine administrations I received starting
-December 2014 (I also have a record of childhood vaccinations in a
-private repository). For some vaccine administrations, I also have an
-individual notes file about the vaccine administration; the notes file
-is linked from the notes column of the SQL.
-
-### COVID-19
-
-I have never been diagnosed with COVID-19, and am fairly confident
-that I have not been infected with COVID-19.
-
-I tested myself once (on 2022-04-06) for COVID-19 using at at-home
-test, when I was having a fever. I tested negative. The fever was
-likely an aftereffect of an injury. See
-[here](../events/2022/2022-04-05-fall-and-phone-screen-crack.md#covid-19-antigent-test)
-for details.
-
-I got my primary COVID-19 vaccine series from Pfizer in 2021 (in May
-2021 and [June
-2021](../events/2021/2021-06-25-pfizer-covid-vaccine-dose-2.md)). Since then, I have
-been getting a booster every year, with the booster some time between
-November and January. As of the writing of this document, my most
-recent vaccine was on [January 12,
-2024](../events/2024/2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md).
-
-Starting with my second COVID-19 dose and then for each booster dose
-(though much less pronounced for the January 2024 dose), I
-have reacted with a slight fever; the fever has generally subsided
-within 36 hours of getting the dose. With successive boosters, both
-the onset of the fever and its resolution have tended to get faster.
-
-### Influenza (flu)
-
-I'm reasonably confident that I have not had the flu or any other
-influenza-like illness (ILI) since 2014.
-
-I have been getting annual flu shots since around 2010 (though I might
-have missed a year or two in between). I generally get the flu shot
-some time between September and December each year.
-
-I have records of the date of vaccination starting 2015; this
-information is available in
-[vaccine_administrations.sql](../sql/vaccine_administrations.sql). My
-most recent administration was in [October
-2024](../events/2024/2024-10-25-flu-shot.md).
-
-In general, I have not had significant reactions to the flu shot. The
-main symptom has been slight soreness in the area of administration
-for the next day. For my [October 2023 flu
-shot](../events/2023/2023-10-13-flu-shot.md), the soreness continued
-in a relatively mild form for about a week, and might have been causal
-in some stiffness in the neck and shoulder as well. I believe this was
-due to an interaction with hand gripper exercises, that I [started
-doing in July
-2023](../events/2023/2023-07-29-hand-gripper-exercise.md). Since then,
-I have implemented [best practices around vaccine
-appointments](../best-practices/best-practices-around-vaccine-appointments.md)
-that include stopping strength exercises and hand gripper exercises a
-few days prior to the vaccine and resuming them a few days after the
-vaccine.
-
-### Tdap (whooping cough)
-
-My most recent Tdap vaccine was on 2024-07-12 (July 12, 2024); see
-[here](../events/2024/2024-07-12-tdap-vaccine-booster-dose.md) for
-details. This was a 10-year booster dose. My previous Tdap vaccine was
-on 2014-12-15, after a major running fall.
-
-### Childhood vaccines
-
-I got the standard set of vaccines as a young child in India. Prior to
-moving to the United States for graduate study, I reviewed my vaccine
-history and got a few additional vaccines to be compliant with the
-requirements (including possibly vaccines that I had already gotten as
-a child but didn't have a record of). Details of my childhood vaccines
-have been digitized but are not included publicly due to potential
-sensitivity of some of the data (including the ability to infer date
-of birth / place of birth from the timing of some of the vaccine
-series).
-
-### Common cold and sore throat / running nose
-
-I have had occasional cases of sore throat / running nose, that I
-believe might be due to the common cold or other causes, such as
-dietary irritants. In all the cases, I suspect dietary irritants
-rather than respiratory cold viruses as the cause, but I might be
-wrong in some of the cases.
-
-* [2023-08-04 sore throat suspected to be due to sauerkraut and red
-  chutney
-  consumption](../events/2023/2023-08-04-sauerkraut-red-chutney-and-sore-throat.md):
-  This was during my recovery period from my [2023-07-05 wisdom tooth
-  removal (left side)](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md),
-  and was likely due to aftereffects of the wisdom tooth removal
-  itself or my body's adverse reaction to the preventative antibiotic
-  (clindamycin) that I took after the procedure.
-
-* [2021-08-28 sore throat after
-  meals](../events/2021/2021-08-28-sore-throat-after-meals.md): Just a sore throat,
-  no runny nose; I addressed this with some remedial measures.
-
-* [2021-02-27 sauerkraut and sore
-  throat](../events/2021/2021-02-27-sauerkraut-and-sore-throat.md): Just a sore
-  throat, no runny nose; I addressed this by briefly taking a break
-  from sauerkraut.
-
-* [2019-08-30 Thai yellow curry and subsequent
-  cold](../events/2019/2019-08-30-thai-yellow-curry-and-subsequent-cold.md): After
-  having a huge amount of Thai yellow cury, I had a runny nose. The
-  runny nose recovered quickly. I believe it was throat irritation and
-  not a viral cold, but I'm not sure.
-
-Overall, my incidence of runny nose has been very low since I moved to
-Berkeley in 2014; the above incident list is likely comprehensive
-starting 2019, and there may have been equivalent/similar incidents at
-a similar frequency going back to 2014.
-
-From 2007 to 2013 I was in Chicago and got clear-cut cases of the
-common cold (not attributable to anything dietary) once every 1-2
-years.
-
-In my childhood, I used to get common colds quite often (perhaps even
-more frequently than my peers).
-
-### Other cases of fever (excluding after vaccines)
-
-* [2022-04-05 fall and phone screen
-  crack](../events/2022/2022-04-05-fall-and-phone-screen-crack.md): I had a brief
-  fever after the injury; slight fever after injuries is expected.
-
-* [2021-08-22 fever and rash](../events/2021/2021-08-22-fever-and-rash.md): I had a
-  brief fever and rash the day after I cleaned out a nest and had a
-  bunch of stuff fall on me during the cleaning process.
-
-* [2020-07-28 fever
-  episode](../events/2020/2020-coronavirus-activity-tracker#tuesday-july-28) that
-  resolved after a long night's sleep.
-
-### Childhood diseases
-
-#### Chickenpox
-
-I got chickenpox when I was around 4 or 5.
-
-#### Ear infection
-
-I got an ear infection before the age of 4, due to which I lost about
-60% of my hearing. Fortunately, the infection was detected quickly and
-I was operated on and recovered my hearing.
-
-## Injuries
-
-See [accidents.sql](../sql/accidents.sql) that includes accidents that
-injured me or damaged my stuff. The most significant injuries since
-2014 that affected me bodily are listed below:
-
-* [2022-04-05 fall and phone screen
-  crack](../events/2022/2022-04-05-fall-and-phone-screen-crack.md): This was a
-  running fall accompanied by a phone screen crack.
-
-* [2019-09-10 traffic accident](../events/2019/2019-09-10-traffic-accident.md): I was
-  hit by a car at a stop sign (traveling very slowly).
-
-* 2014-12-15 running fall: This was a major running fall, that
-  prompted me to get a Tdap vaccine and sit with my knees spread out
-  for a few days.
 
 ## Lifestyle
 
@@ -1270,6 +1132,176 @@ etc.)
 * Flossing with pick on floss holder: Once after post-meal cleanup for
   second meal of the day, after saltwater rinse. Total once per day.
 
+## Infectious diseases and vaccines
+
+See [vaccine_administrations.sql](../sql/vaccine_administrations.sql)
+for a full list of vaccine administrations I received starting
+December 2014 (I also have a record of childhood vaccinations in a
+private repository). For some vaccine administrations, I also have an
+individual notes file about the vaccine administration; the notes file
+is linked from the notes column of the SQL.
+
+### COVID-19
+
+I have never been diagnosed with COVID-19, and am fairly confident
+that I have not been infected with COVID-19.
+
+I tested myself once (on 2022-04-06) for COVID-19 using at at-home
+test, when I was having a fever. I tested negative. The fever was
+likely an aftereffect of an injury. See
+[here](../events/2022/2022-04-05-fall-and-phone-screen-crack.md#covid-19-antigent-test)
+for details.
+
+I got my primary COVID-19 vaccine series from Pfizer in 2021 (in May
+2021 and [June
+2021](../events/2021/2021-06-25-pfizer-covid-vaccine-dose-2.md)). Since then, I have
+been getting a booster every year, with the booster some time between
+November and January. As of the writing of this document, my most
+recent vaccine was on [January 12,
+2024](../events/2024/2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md).
+
+Starting with my second COVID-19 dose and then for each booster dose
+(though much less pronounced for the January 2024 dose), I
+have reacted with a slight fever; the fever has generally subsided
+within 36 hours of getting the dose. With successive boosters, both
+the onset of the fever and its resolution have tended to get faster.
+
+### Influenza (flu)
+
+I'm reasonably confident that I have not had the flu or any other
+influenza-like illness (ILI) since 2014.
+
+I have been getting annual flu shots since around 2010 (though I might
+have missed a year or two in between). I generally get the flu shot
+some time between September and December each year.
+
+I have records of the date of vaccination starting 2015; this
+information is available in
+[vaccine_administrations.sql](../sql/vaccine_administrations.sql). My
+most recent administration was in [October
+2024](../events/2024/2024-10-25-flu-shot.md).
+
+In general, I have not had significant reactions to the flu shot. The
+main symptom has been slight soreness in the area of administration
+for the next day. For my [October 2023 flu
+shot](../events/2023/2023-10-13-flu-shot.md), the soreness continued
+in a relatively mild form for about a week, and might have been causal
+in some stiffness in the neck and shoulder as well. I believe this was
+due to an interaction with hand gripper exercises, that I [started
+doing in July
+2023](../events/2023/2023-07-29-hand-gripper-exercise.md). Since then,
+I have implemented [best practices around vaccine
+appointments](../best-practices/best-practices-around-vaccine-appointments.md)
+that include stopping strength exercises and hand gripper exercises a
+few days prior to the vaccine and resuming them a few days after the
+vaccine.
+
+### Tdap (whooping cough)
+
+My most recent Tdap vaccine was on 2024-07-12 (July 12, 2024); see
+[here](../events/2024/2024-07-12-tdap-vaccine-booster-dose.md) for
+details. This was a 10-year booster dose. My previous Tdap vaccine was
+on 2014-12-15, after a major running fall.
+
+### Childhood vaccines
+
+I got the standard set of vaccines as a young child in India. Prior to
+moving to the United States for graduate study, I reviewed my vaccine
+history and got a few additional vaccines to be compliant with the
+requirements (including possibly vaccines that I had already gotten as
+a child but didn't have a record of). Details of my childhood vaccines
+have been digitized but are not included publicly due to potential
+sensitivity of some of the data (including the ability to infer date
+of birth / place of birth from the timing of some of the vaccine
+series).
+
+### Common cold and sore throat / running nose
+
+I have had occasional cases of sore throat / running nose, that I
+believe might be due to the common cold or other causes, such as
+dietary irritants. In all the cases, I suspect dietary irritants
+rather than respiratory cold viruses as the cause, but I might be
+wrong in some of the cases.
+
+* [2023-08-04 sore throat suspected to be due to sauerkraut and red
+  chutney
+  consumption](../events/2023/2023-08-04-sauerkraut-red-chutney-and-sore-throat.md):
+  This was during my recovery period from my [2023-07-05 wisdom tooth
+  removal (left side)](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md),
+  and was likely due to aftereffects of the wisdom tooth removal
+  itself or my body's adverse reaction to the preventative antibiotic
+  (clindamycin) that I took after the procedure.
+
+* [2021-08-28 sore throat after
+  meals](../events/2021/2021-08-28-sore-throat-after-meals.md): Just a sore throat,
+  no runny nose; I addressed this with some remedial measures.
+
+* [2021-02-27 sauerkraut and sore
+  throat](../events/2021/2021-02-27-sauerkraut-and-sore-throat.md): Just a sore
+  throat, no runny nose; I addressed this by briefly taking a break
+  from sauerkraut.
+
+* [2019-08-30 Thai yellow curry and subsequent
+  cold](../events/2019/2019-08-30-thai-yellow-curry-and-subsequent-cold.md): After
+  having a huge amount of Thai yellow cury, I had a runny nose. The
+  runny nose recovered quickly. I believe it was throat irritation and
+  not a viral cold, but I'm not sure.
+
+Overall, my incidence of runny nose has been very low since I moved to
+Berkeley in 2014; the above incident list is likely comprehensive
+starting 2019, and there may have been equivalent/similar incidents at
+a similar frequency going back to 2014.
+
+From 2007 to 2013 I was in Chicago and got clear-cut cases of the
+common cold (not attributable to anything dietary) once every 1-2
+years.
+
+In my childhood, I used to get common colds quite often (perhaps even
+more frequently than my peers).
+
+### Other cases of fever (excluding after vaccines)
+
+* [2022-04-05 fall and phone screen
+  crack](../events/2022/2022-04-05-fall-and-phone-screen-crack.md): I had a brief
+  fever after the injury; slight fever after injuries is expected.
+
+* [2021-08-22 fever and rash](../events/2021/2021-08-22-fever-and-rash.md): I had a
+  brief fever and rash the day after I cleaned out a nest and had a
+  bunch of stuff fall on me during the cleaning process.
+
+* [2020-07-28 fever
+  episode](../events/2020/2020-coronavirus-activity-tracker#tuesday-july-28) that
+  resolved after a long night's sleep.
+
+### Childhood diseases
+
+#### Chickenpox
+
+I got chickenpox when I was around 4 or 5.
+
+#### Ear infection
+
+I got an ear infection before the age of 4, due to which I lost about
+60% of my hearing. Fortunately, the infection was detected quickly and
+I was operated on and recovered my hearing.
+
+## Injuries
+
+See [accidents.sql](../sql/accidents.sql) that includes accidents that
+injured me or damaged my stuff. The most significant injuries since
+2014 that affected me bodily are listed below:
+
+* [2022-04-05 fall and phone screen
+  crack](../events/2022/2022-04-05-fall-and-phone-screen-crack.md): This was a
+  running fall accompanied by a phone screen crack.
+
+* [2019-09-10 traffic accident](../events/2019/2019-09-10-traffic-accident.md): I was
+  hit by a car at a stop sign (traveling very slowly).
+
+* 2014-12-15 running fall: This was a major running fall, that
+  prompted me to get a Tdap vaccine and sit with my knees spread out
+  for a few days.
+
 ## Medications
 
 I do not take any ongoing medications (except supplements; see
@@ -1356,14 +1388,6 @@ conducted by an ENT specialist.
 I had a wart above my upper lip as a child (I'm not sure exactly what
 age). I had two attempted wart removal procedures, with the second one
 being successful.
-
-## Skin
-
-My skin is on the dry side of the spectrum, so particularly in colder
-climates, it can get cuts if not adequately cared for. I generally
-apply vaseline lotion to my legs daily and to my hands (just the
-hands, not the forearms) several times a day. With moderate care, I don't
-have any noticeable skin issues.
 
 ## Aging
 
