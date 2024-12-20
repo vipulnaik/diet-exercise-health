@@ -154,3 +154,10 @@ I removed the water block flex bandage around midnight going from
 On Monday 2024-12-16, I resumed hand gripper exercises in both
 hands. I also updated the gap from blood tests to resumption of
 strength exercises from 7 days to 4 days.
+
+### Resumption of strength exercises (dead hang and pull-ups) on 2024-12-19
+
+This was also the day I resumed strength exercises (dead hang and
+pull-ups). I had intended to resume two days ago (2024-12-17) but had
+to skip strength exercises that day and had to skip all exercises on
+2024-12-18 due to time-sensitive work stuff.

@@ -1066,3 +1066,17 @@ On 2024-12-18, I skipped most exercise due to time-sensitive stuff at
 work. Also, I did not want to delay eating too much since my cycle was
 already quite shifted. I did manage to squeeze in (pun intended!) hand
 gripper exercise.
+
+## 2024-12-19: at-home jogging due to time constraints and cold in the morning; resumed strength exercises (dead hang and pull-ups)
+
+On 2024-12-19, I did at-home jogging instead of going out to jog. The
+context was that it was cold outside in the morning, and I had
+meetings later in the day which meant I could not go out jogging later
+in the morning / early afternoon when it would be warm enough. Also, I
+was a bit squeezed for time and doing at-home jogging cut down on a
+few minutes of overhead, allowing me to fit in jogging more easily.
+
+This was also the day I resumed strength exercises (dead hang and
+pull-ups). I had intended to resume two days ago (2024-12-17) but had
+to skip strength exercises that day and had to skip all exercises on
+2024-12-18 due to time-sensitive work stuff.
