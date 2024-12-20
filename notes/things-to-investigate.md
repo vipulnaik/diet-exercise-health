@@ -1,8 +1,6 @@
 # Things to investigate
 
-List last updated: 2024-11-14
-
-Last status update: 2024-12-15
+List last updated: 2024-12-20
 
 Time on these things would be in a mix of personal chores and other
 activities buckets. The other activities bucket would be used for
@@ -28,6 +26,8 @@ time-sensitive.
 
 * Figure out next steps for [reduced hearing in left
   ear](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md)
+
+* Investigate lipid-lowering strategies (focused on LDL and Apo B).
 
 ## Supplements
 
