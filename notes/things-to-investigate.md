@@ -27,7 +27,8 @@ time-sensitive.
 * Figure out next steps for [reduced hearing in left
   ear](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md)
 
-* Investigate lipid-lowering strategies (focused on LDL and Apo B).
+* Investigate lipid-lowering strategies (focused on LDL and Apo
+  B). Notes [here](lipid-lowering-strategies.md).
 
 ## Supplements
 
