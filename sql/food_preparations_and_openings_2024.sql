@@ -935,5 +935,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Takeout food 2024-12-18 (second meal) -- I had the dosa fully in the meal but the sambhar and chutney only partially, in order to reduce the "outside food" load in a single day */
   ('2024-12-18','Udupi Palace spinach masala dosa',1,2),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-12-19','Kite Hill Greek Style Plant-Based Yogurt',1,1);
+  ('2024-12-19','Kite Hill Greek Style Plant-Based Yogurt',1,1),
+  /* Potatoes prep 2024-12-19 (second meal) */
+  ('2024-12-19','Gold potatoes 5 lb',0.55,2),
+  ('2024-12-19','TJ Kale',1,2),
+  ('2024-12-19','TJ English Shelled Peas',2,2),
+  ('2024-12-19','Beefsteak tomato',6,2);
   /* Double-check the date before committing */
