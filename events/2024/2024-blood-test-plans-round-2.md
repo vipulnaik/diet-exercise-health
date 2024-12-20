@@ -1,6 +1,6 @@
 # 2024 blood test plans (round 2)
 
-## Test order and appointment
+## Test order, appointment, and results
 
 ### Order
 
@@ -55,6 +55,24 @@ As of around noon on 2024-12-13, the status is as follows:
   order on the Marek Diagnostics website prior to the appointment, so
   I don't know for sure. There are no results on the Marek Diagnostics
   website.
+
+### Results
+
+On Thursday 2024-12-19 at 9:47 AM PST, I got an email and a text
+message from LabCorp informing me that the results are available. I
+was able to log in and view and download the results. Later the same
+day, at 1:05 PM, I got an email from Marek Diagnostics with an
+encrypted attachment PDF with the results. The PDF seemed identical to
+what I had gotten from LabCorp. I could not see any results on the
+Marek Diagnostics website.
+
+As of 2024-12-19, I am in the process of updating the results in
+[test_results.sql](../../sql/test_results.sql). Further action items,
+including updates to my health profile to reflect the key takeaways
+from the results, are also pending.
+
+As of 2024-12-19, I do not plan to update the current document with
+takeaways from the results.
 
 ## Cost estimate
 
