@@ -399,14 +399,15 @@ energy expenditure choices.
 
 #### Blood glucose levels
 
-I have had fasting blood glucose measured in September 2024, where it
-came to 85 mg/dL, which is in the normal range (less than 100 mg/dL is
-considered normal for fasting blood glucose).
+My fasting blood glucose appears to be around 85 mg/dL, and I have one
+non-fasting measure of 92 mg/dL. I have not used an at-home glucose
+measurement tool or a continuous glucose monitor yet.
 
-I also had a non-fasting blood glucose in April 2024, which was about
-6.5 hours after my last meal. This reading came to 92 mg/dL. A
-6.5-hour gap is too large for post-prandial measurement but too little
-to be considered a fasting measurement.
+Reading date | Blood glucose (mg/dL) | Hours since last meal (12 or more is considered fasting)
+-- | -- | --
+2024-12-13 (December 2024) | 85 | 15
+2024-09-03 (September 2024) | 85 | 15
+2024-04-30 (April 2024) | 92 | 6.5
 
 #### HbA1c
 
@@ -418,17 +419,15 @@ considered indicative of diabetes. Levels of 5.7% to 6.4% are
 considered indicative of prediabetes, and levels of 5.6% are below are
 considered normal.
 
-My HbA1c has never been measured in the prediabetic range. In December
-2016, when I was having stomach issues, and in general had a
-relatively unhealthy diet with more consumption of hot chocolate (a
-sugary drink) and outside food, my HbA1c was at 5.5%, a little below
-the prediabetic range.
+Reading date | HbA1c (%) | Fasting blood glucose (mg/dL) in the same blood draw (if present)
+-- | -- | --
+2024-09-03 (September 2024) | 5.5 | 85
+2021-06-30 (June 2021) | 5.0 | N/A
+2016-12-12 (December 2016) | 5.5 | N/A
 
-However, my more recent reading as of June 2021 gives a HbA1c of 5.0%.
-
-My reading in September 2024 came to 5.5%. However, a note on the Quest
-Diagnostics website suggested changes to the measurement method that
-may increase measured HbA1c by up to 0.3 percentage points.
+For comparing the June 2021 and September 2024 readings, a note on the
+Quest Diagnostics website suggested changes to the measurement method
+that may increase measured HbA1c by up to 0.3 percentage points.
 
 ## Lipid profile and related measures of atherosclerotic risk
 
