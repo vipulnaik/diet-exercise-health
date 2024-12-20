@@ -323,7 +323,7 @@ maintain normal blood glucose. As of 2024, my insulin sensitivity
 seems to be in the optimal range. I do not seem to have insulin
 resistance, and I plan to continue monitoring for this.
 
-#### Insulin resistance measured using fasting insulin (HOMA-IR method)
+#### Insulin resistance calculated using fasting insulin (HOMA-IR method)
 
 I have measured fasting insulin twice, once in June 2021, where I got
 a reading of 3.6 uIU/mL, and once in September 2024, where I got a
@@ -341,12 +341,23 @@ which marks me as insulin-sensitive and not insulin-resistant** (in
 general, a range of 0.5 to 1.4 is considered insulin-sensitive, with
 scores of 1 or lower considered optimal).
 
-#### Insulin resistance measured using NMR lipoprofile (LP-IR method)
+For ease of consumption, here are my three recent readings that contain either fasting glucose or fasting insulin or both.
+
+Reading date | Fasting glucose (mg/dL) | Fasting insulin (uIU/mL) | HOMA-IR (less than 1 is optimal, less than 1.4 is good, less than 2 is okay)
+-- | -- | -- | --
+2024-12-13 (December 2024) | 85 | N/A | can't calculate
+2024-09-03 (September 2024) | 85 | 4.6 | 0.97
+2021-06-30 (June 2021) | N/A | 3.6 | can't calculate, but if glucose were <= 100 mg/dL (which I expect it would have been), I would be in the optimal range
+
+#### Insulin resistance calculated using NMR lipoprofile (LP-IR method)
 
 I got a NMR lipoprofile as part of my second round of 2024 blood
-tests. The blood draw was on 2024-12-13; as of 2024-12-15, I am still
-waiting for the results. This will include a measure of insulin
-resistance. This calculation method is called LP-IR.
+tests. The test calculated my LP-IR score as < 25, placing me in the
+25% with the highest insulin sensitivity or the lowest risk of
+developing insulin resistance. The bad LDL portion of the NMR
+lipoprofile (that on its own would have put me between the 50th and
+75th percentile of risk) was more than compensated for by the good HDL
+and VLDL portions.
 
 #### Ratio of triglycerides to HDL (TG/HDL-C ratio)
 
@@ -361,25 +372,22 @@ or higher are considered high-risk.
 However, people with higher standards have advocated targeting a
 TG/HDL-C ratio of 1 or less.
 
-**My TG/HDL-C ratio from the September 2024 blood tests was 89/46
-(readings of 89 mg/dL and 46 mg/dL respectively) which is 1.93, a
-little less than 2, and therefore optimal according to standard
-reference ranges, but way higher than the value of 1 advocated by
-people with higher standards.**
+Here are my four most recent readings and the calculated TG/HDL-C
+ratios:
 
-My previous TG/HDL-C ratios have been higher; for instance, the ratio
-in June 2021 was 124/46 which is about 2.7, a little worse than
-optimal, but still below the high-risk range. My reading in November
-2017 was 79/51 which is about 1.55, which is in the optimal range
-though not optimal by the higher standards. My earlier readings showed
-wider fluctuation, with some readings giving a ratio of less than 2
-and other readings giving ratios above 4 and in some cases even above
-6.
+Reading date | Triglycerides (mg/dL) | HDL-C (mg/dL) | Ratio (less than 1 is optimal, less than 2 is decent, less than 2.6 is okay for males)
+-- | -- | -- | --
+2024-12-13 (December 2024) | 56 | 66 | 0.85
+2024-09-03 (September 2024) | 89 | 46 | 1.93
+2021-06-30 (June 2021) | 124 | 46 | 2.70
+2017-11-12 (November 2017) | 79 | 51 | 1.55
 
-Overall, TG/HDL-C paints a somewhat worse picture in terms of the
-insulin sensitivity/resistance spectrum than the HOMA-IR calculation,
-but at least when restricted to the latest reading, this is still
-within the "optimal" range.
+While the most recent reading paints an "optimal" picture, the other
+readings paint a picture ranging from decent to slightly
+worrisome. Overall, it's clear that I do not have significant insulin
+resistance at this stage, but the picture is not quite as optimal as
+the HOMA-IR calculation suggests. Continued monitoring will help paint
+a clearer picture.
 
 ### Glycemic control
 
