@@ -5,6 +5,10 @@ queries = [
 
     "select * from test_results where diagnosis = 'Normal' and (reference_interval_high_end < measured_value);",
 
+    "select * from test_results where diagnosis = 'Low' and (reference_interval_low_end <= measured_value);",
+
+    "select * from test_results where diagnosis = 'High' and (reference_interval_high_end >= measured_value);",
+
     """
     select * from test_results where
     (reference_interval_low_end is null or reference_interval_low_end < measured_value)
