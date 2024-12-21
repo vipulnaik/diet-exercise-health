@@ -93,7 +93,7 @@ reduced.
 
 Source: https://www.resound.com/en-us/online-hearing-test
 
-I set the speakers to balanced at maximum volume.
+I used headphones and set the speakers to balanced at maximum volume.
 
 Left ear:
 
@@ -118,3 +118,59 @@ Right ear:
 * 4000 Hz: definitely faintly at 2
 
 * Overall verdict: No loss detected; it's all green
+
+## Re-evaluation on 2024-12-21
+
+### Minimum volume test for audible words
+
+I used the track [Ellie Goulding - Love Me Like You Do (Fifty Shades
+Freed) (Official Video)](https://www.youtube.com/watch?v=eVVaqFDG6Fo)
+on YouTube with the YouTube volume set to maximum, so I was only
+adjusting my Macbook Air speaker volume. I used headphones.
+
+* Left ear: I was barely able to make out the words at about 8/64
+  volume, but tended to lose the thread of the words. It was only
+  around 12/64 that I could consistently maintain the thread of the
+  words. At around 20/64 I could get the words and some of the
+  background music. To get the opening soft music properly, I had to
+  get to around 32/64.
+
+* Right ear: I was able to make out the words at 1/64 volume, though
+  it took a few seconds to get my ear perked up, and there were a few
+  parts where I lost the thread of the words. At 2/64 I was quite
+  comfortably able to hear the words relying on the fact that I
+  already knew them, though still not clearly hear the background
+  music. At around 4/64, I could hear the words and some of the
+  background music; at around 8/64, I could get the words and the main
+  background music. To get the opening soft music properly, I had to
+  go to around 16/64.
+
+### Free online hearing test at resound.com
+
+Source: https://www.resound.com/en-us/online-hearing-test
+
+I used headphones and set the speakers to balanced at maximum volume.
+
+Left ear:
+
+* 500 Hz: barely at 7 (this is what I selected), more clearly at 8
+
+* 1000 Hz: barely at 8 (this is what I selected), more clearly at 9
+
+* 2000 Hz: barely at 10 (this is what I selected), more clearly at 11
+
+* 4000 Hz: barely at 8 (this is what I selected), more clearly at 9
+
+* Overall verdict: Possible loss; it's slightly in the yellow
+
+Right ear:
+
+* 500 Hz: barely at 5 (this is what I selected), more clearly at 6
+
+* 1000 Hz: barely ay 7 (this is what I selected), more clearly at 8
+
+* 2000 Hz: barely at 4 (this is what I selected), more clearly at 5
+
+* 4000 Hz: barely at 2 ( this is what I selected), more clearly at 3
+
+* Overall verdict: No loos detected; it's all green
