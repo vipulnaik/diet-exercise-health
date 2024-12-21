@@ -1,5 +1,61 @@
 # 2024-11-29: reduced hearing in left ear
 
+## Overall summary
+
+Here's what happened:
+
+* I subjectively experienced compression of my left ear and a sense
+  that I wasn't hearing that well in that ear when I woke up on
+  2024-11-29. I verified the hearing imbalance later in the day.
+
+* I checked every 3-4 days and confirmed that a hearing imbalance
+  existed, but did not quantify it well until 2024-12-17. This
+  reflected my ignorance of how to quantify hearing loss.
+
+* On 2024-12-17 I did two kinds of test for a more thorough
+  evaluation.
+
+  * I determined the minimum volume in each ear where the words and
+    other sounds of [Ellie Goulding - Love Me Like You Do (Fifty
+    Shades Freed) (Official
+    Video)](https://www.youtube.com/watch?v=eVVaqFDG6Fo) were audible.
+
+  * I did the online test at
+    https://www.resound.com/en-us/online-hearing-test that tested my
+    hearing in each ear at frequencies of 500 Hz, 1000 Hz, 2000 Hz,
+    and 4000 Hz.
+
+  Both of these confirmed hearing disparities between the ears. The
+  test of different frequencies highlighted that the disparity between
+  the ears gets more pronounced at higher frequencies, with the
+  disparity really extreme at 4000 Hz. This means that when it comes
+  to low-pitched sounds, the ears are not that different, but when it
+  comes to higher-pitched sounds, the left ear has a lot more trouble.
+
+* I repeated both tests on 2024-12-21, with a slightly more detailed
+  evaluation, and got very similar results, though it seemed that I
+  was able to make out the words with my left ear at slightly lower
+  volume.
+
+Based on this, these are the characteristics of my hearing loss:
+
+* Seemingly sudden, though I do not have similar data prior to
+  2024-11-29. However, I do know that prior to 2024-11-29, when I used
+  headphones, they sounded balanced between the ears, whereas know,
+  they feel like they are about 60:40 toward the right ear.
+
+* Seemingly more loss at high frequencies, with the biggest loss at
+  4000 Hz and the second biggest loss at 2000 Hz.
+
+* Overall magnitude of difference between the ears (for a blended
+  track) seems to be somewhere between 10 dB and 20 dB.
+
+## Onset on 2024-11-29 and initial notes until 2024-12-17
+
+NOTE: The initial notes are based on a poor understanding of how
+hearing works. The later sections include better evaluations of the
+situation.
+
 On 2024-11-29, when I woke up in the morning, I noticed that my left
 ear felt a bit compressed. I also noticed that audio seemed to be a
 little less loud than usual, though I could still hear it clearly.
@@ -72,6 +128,10 @@ playing it into my left and right ear.
 The Macbook Air has a gradation of 16 levels and 64 sub-levels (the
 sub-levels can be accessed by pressing alt+shift while adjusting the
 level up or down).
+
+I used the track [Ellie Goulding - Love Me Like You Do (Fifty Shades
+Freed) (Official Video)](https://www.youtube.com/watch?v=eVVaqFDG6Fo)
+for my testing.
 
 Here's what I found:
 
