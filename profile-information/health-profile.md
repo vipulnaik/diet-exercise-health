@@ -404,9 +404,9 @@ measurement:
   LP-IR at roughly yearly granularity.
 
 * TG/HDL-C ratio calculation: Get a lipid panel (either a basic one or
-  a NMR lipoprofile) every 3-6 months, getting 2-4 readings per
-  year. This will give a time series of TG/HDL-C with 2-4 data points
-  per year.
+  a NMR lipoprofile) every 3 to 6 months, getting 2 to 4 readings per
+  year. This will give a time series of TG/HDL-C with 2 to 4 data
+  points per year.
 
 If the combined picture from the levels and trends revealed in these
 measurements is concerning, and I don't get other information that
