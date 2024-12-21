@@ -843,7 +843,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2024-12-18','TJ Kimchi',1),
   ('2024-12-18','California Walnuts',2),
   /* 2024-12-18 Udupi Palace; total cost $14.28; paid by cash */
-  ('2024-12-18','Udupi Palace spinach masala dosa',1);
+  ('2024-12-18','Udupi Palace spinach masala dosa',1),
+  /* 2024-12-20 Trader Joe's; total cost $42.55; checkout at 5:32 PM; paid by credit card */
+  ('2024-12-20','Eggplant',2),
+  ('2024-12-20','TJ Carb Savvy Tortillas',3),
+  ('2024-12-20','TJ Almond Milk',1),
+  ('2024-12-20','TJ Miso Ginger Broth',1),
+  ('2024-12-20','TJ Kale',2),
+  ('2024-12-20','Beefsteak tomato',9),
+  ('2024-12-20','Red bell pepper',2),
+  ('2024-12-20','TJ Carrots',1),
+  ('2024-12-20','Green bell pepper',4);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
