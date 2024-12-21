@@ -389,6 +389,35 @@ resistance at this stage, but the picture is not quite as optimal as
 the HOMA-IR calculation suggests. Continued monitoring will help paint
 a clearer picture.
 
+#### Plan for followup measurements and actions
+
+My plan is to monitor my insulin sensitivity through periodic
+measurement:
+
+* HOMA-IR calculation: I plan to get simultaneous readings of fasting
+  glucose (as part of a comprehensive metabolic panel) and fasting
+  insulin about once a year. This will give a time series of HOMA-IR
+  at roughly yearly granularity.
+
+* LP-IR calculation: I plan to get a NMR lipoprofile (that includes
+  the LP-IR score) about once a year. This wiill give a time seies of
+  LP-IR at roughly yearly granularity.
+
+* TG/HDL-C ratio calculation: Get a lipid panel (either a basic one or
+  a NMR lipoprofile) every 3-6 months, getting 2-4 readings per
+  year. This will give a time series of TG/HDL-C with 2-4 data points
+  per year.
+
+If the combined picture from the levels and trends revealed in these
+measurements is concerning, and I don't get other information that
+causes me to update, I may invest more effort. Until then, I do not
+plan to do any further research or lifestyle adjustment around insulin
+sensitivity.
+
+If I do get new information, I may look into also adding post-prandial
+glucse + insulin measurements. This will involve getting a
+post-prandial blood test.
+
 ### Glycemic control
 
 Glycemic control refers to control of blood glucose levels. Generally,
@@ -428,6 +457,43 @@ Reading date | HbA1c (%) | Fasting blood glucose (mg/dL) in the same blood draw 
 For comparing the June 2021 and September 2024 readings, a note on the
 Quest Diagnostics website suggested changes to the measurement method
 that may increase measured HbA1c by up to 0.3 percentage points.
+
+#### Plan for followup measurements and actions
+
+My plan is to monitor my glycemic control through periodic
+measurement:
+
+* Fasting blood glucose: I plan to get this tested as part of a
+  comprehensive metabolic panel (CMP) once every 3 to 6 months, or 2
+  to 4 times a year.
+
+* HbA1c: I plan to get this tested at least once a year, and with that
+  measurement done alongside a CMP so that I can compare the
+  measurements. However, if I get a reading at or above 5.7%, I will
+  do a followup measurement within 3 to 6 months of that measurement.
+
+I plan to put in more effort into investigating this if either if my
+insulin sensitivity worsens or one of these happens; otherwise I am
+not planning to do further research or make lifestyle adjustments:
+
+* A single fasting blood glucose reading at or above 100 mg/dL
+
+* Two consecutive fasting blood glucose readings at or above 92 mg/dL
+
+* A single HbA1c reading at or above 6.0%
+
+* Two consecutive HbA1c readings at or above 5.7%
+
+Further investigative efforts may look as follows:
+
+* At-home glucose meter so that I can measure my blood glucose at
+  multiple times in the day periodically
+
+* Continuous glucose monitor for about two weeks to get a picture of
+  the fluctuation in my blood glucose levels
+
+These measurements could help inform and refine my food consumption
+strategy.
 
 ## Lipid profile and related measures of atherosclerotic risk
 
