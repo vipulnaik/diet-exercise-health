@@ -956,5 +956,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-21','Red bell pepper',2,2),
   ('2024-12-21','Beefsteak tomato',8,2), /* extra tomatoes as there was space */
   /* New bottle/packet openings as the old ones finished */
-  ('2024-12-21','TJ Carb Savvy Tortillas',1,2);
+  ('2024-12-21','TJ Carb Savvy Tortillas',1,2),
+  /* Lentils prep 2024-12-21 (overnight soaking to cook the next day) */
+  ('2024-12-21','TJ Green Lentils',0.5,3);
   /* Double-check the date before committing */
