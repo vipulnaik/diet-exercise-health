@@ -1080,3 +1080,8 @@ This was also the day I resumed strength exercises (dead hang and
 pull-ups). I had intended to resume two days ago (2024-12-17) but had
 to skip strength exercises that day and had to skip all exercises on
 2024-12-18 due to time-sensitive work stuff.
+
+## 2024-12-21: at-home jogging due to intermittent rain and wet sidewalks
+
+On Saturday 2024-12-21, I did at-home jogging due to intermittent rain
+and wet sidewalks.
