@@ -947,5 +947,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-20','TJ Carb Savvy Tortillas',1,1),
   ('2024-12-20','TJ Miso Ginger Broth',1,1),
   ('2024-12-20','Kite Hill Greek Style Plant-Based Yogurt',1,2),
-  ('2024-12-21','TJ Almond Milk',1,1);
+  ('2024-12-21','TJ Almond Milk',1,1),
+  /* Meal prep 2024-12-21 (second meal) */
+  ('2024-12-21','Eggplant',1,2),
+  ('2024-12-21','TJ Kale',1,2),
+  ('2024-12-21','TJ Carrots',1,2),
+  ('2024-12-21','Green bell pepper',4,2),
+  ('2024-12-21','Red bell pepper',2,2),
+  ('2024-12-21','Beefsteak tomato',8,2), /* extra tomatoes as there was space */
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-12-21','TJ Carb Savvy Tortillas',1,2);
   /* Double-check the date before committing */
