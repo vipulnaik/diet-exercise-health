@@ -234,3 +234,9 @@ Right ear:
 * 4000 Hz: barely at 2 ( this is what I selected), more clearly at 3
 
 * Overall verdict: No loos detected; it's all green
+
+## Call to Bekeley Hearing Center on 2024-12-23
+
+On 2024-12-23, I made a phone call to Berkeley Hearing Center to book
+an appointment for Wednesday 2025-01-15 3:45 PM. Call details are
+[here](2024-12-23-berkeley-hearing-center-call.md).
