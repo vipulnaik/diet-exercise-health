@@ -1099,3 +1099,9 @@ ended up being quite intensive. This was on top of my regular exercise
 that I did not skip today, so I might have overexercised for the day,
 and am planning to skip exercise tomorrow to make sure I recover
 properly.
+
+## 2024-12-23: skipping all exercise
+
+I'm skipping all exercise today to recover from the exertion
+yesterday, and also to give myself a bit more time to catch up on a
+number of things.
