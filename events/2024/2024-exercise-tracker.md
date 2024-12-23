@@ -1085,3 +1085,17 @@ to skip strength exercises that day and had to skip all exercises on
 
 On Saturday 2024-12-21, I did at-home jogging due to intermittent rain
 and wet sidewalks.
+
+## 2024-12-22: extra natural exercise associated with Amazon package pickup
+
+On 2024-12-22, I ended up getting extra natural exercise associated
+with my Amazon package pickup. I took my suitcase which weights about
+4.2 kg to the location, and then walked back with a packed suitcase
+weighing about 10.7 kg. When carrying it on the way back, I did put it
+down frequently but did not roll it on the sidewalk. On average, I put
+it down a little more than once per block walked, and switched hands
+about 2-3 times per block. Each way was about 1.3-1.4 miles so it
+ended up being quite intensive. This was on top of my regular exercise
+that I did not skip today, so I might have overexercised for the day,
+and am planning to skip exercise tomorrow to make sure I recover
+properly.
