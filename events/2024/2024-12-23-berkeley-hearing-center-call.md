@@ -1,8 +1,10 @@
 # 2024-12-23: Berkeley Hearing Center call
 
 I placed a phone call to the [Berkeley Hearing
-Center](https://berkeleyhearing.com/) at 11:40 AM. The call lasted 8
-minutes 42 seconds.
+Center](https://berkeleyhearing.com/) at 11:40 AM to book an
+appointment for an [audiological
+evaluation](https://berkeleyhearing.com/services/audiological-evaluation/). The
+call lasted 8 minutes 42 seconds.
 
 ## Appointment booking process and questions
 
