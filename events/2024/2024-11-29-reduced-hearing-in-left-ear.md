@@ -233,7 +233,7 @@ Right ear:
 
 * 4000 Hz: barely at 2 ( this is what I selected), more clearly at 3
 
-* Overall verdict: No loos detected; it's all green
+* Overall verdict: No loss detected; it's all green
 
 ## Call to Bekeley Hearing Center on 2024-12-23
 
