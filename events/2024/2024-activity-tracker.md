@@ -553,8 +553,7 @@ Berkeley. I first stopped at Target and bought AA batteries.
 I then stopped at Citibank for financial transactions (getting
 quarters to use for laundry).
 
-I then went to Trader Joe's for
-food purchases recorded in
+I then went to Trader Joe's for food purchases recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
 
 ## Friday December 13
@@ -564,3 +563,11 @@ In the morning, I went to LabCorp for a blood draw, described
 
 After finishing the blood draw, I stopped at Walgreens on the way back
 and did some shopping.
+
+## Sunday December 22
+
+In the evening, I made a trip to the Amazon Hub Locker at ASUC for
+package pickup. I took my suitcase as there was a lot of stuff to pick
+up. After getting back home and dumping the suitcase, I immediately
+left for Berkeley Bowl for food purchases recorded in
+[food_purchases.sql](../../sql/food_purchases.sql).
