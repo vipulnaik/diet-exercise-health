@@ -963,5 +963,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-22','TJ Kimchi',1,1),
   ('2024-12-22','California Walnuts',1,1),
   ('2024-12-22','Kite Hill Greek Style Plant-Based Yogurt',1,2),
-  ('2024-12-22','TJ Carb Savvy Tortillas',1,2);
+  ('2024-12-22','TJ Carb Savvy Tortillas',1,2),
+  ('2024-12-23','TJ Carb Savvy Tortillas',1,2);
   /* Double-check the date before committing */
