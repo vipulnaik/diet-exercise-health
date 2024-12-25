@@ -942,7 +942,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-19','TJ English Shelled Peas',2,2),
   ('2024-12-19','Beefsteak tomato',6,2),
   /* Rice prep 2024-12-20 (first meal) */
-  ('2024-12-20','Lundberg Sustainable California White Basmati Rice',0.90,1),
+  ('2024-12-20','Lundberg Sustainable California White Basmati Rice',0.9,1),
   /* New bottle/packet openings as the old ones finished */
   ('2024-12-20','TJ Carb Savvy Tortillas',1,1),
   ('2024-12-20','TJ Miso Ginger Broth',1,1),
@@ -971,5 +971,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-24','TJ English Shelled Peas',2,1),
   ('2024-12-24','Beefsteak tomato',7,1),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-12-24','TJ Sauerkraut',1,1);
+  ('2024-12-24','TJ Sauerkraut',1,1),
+  /* Rice prep 2024-12-24 (second meal) */
+  ('2024-12-24','Lundberg Sustainable California White Basmati Rice',0.9,2);
   /* Double-check the date before committing */
