@@ -106,5 +106,5 @@ treatment. Then, look into the following:
   impact on blood pressure and heart rate in light of my curent blood
   pressure and heart rate.
 
-* Interaction with other treatements, oral and topical: This might
+* Interaction with other treatments, oral and topical: This might
   involve looking up drug-drug interactions.
