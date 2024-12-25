@@ -571,3 +571,9 @@ package pickup. I took my suitcase as there was a lot of stuff to pick
 up. After getting back home and dumping the suitcase, I immediately
 left for Berkeley Bowl for food purchases recorded in
 [food_purchases.sql](../../sql/food_purchases.sql).
+
+## Tuesday December 24
+
+In the evening, I made a trip to Walgreens to purchase earwax removal
+products. I also bought a couple of dish soap bottles as part of the
+trip.
