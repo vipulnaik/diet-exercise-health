@@ -240,3 +240,93 @@ Right ear:
 On 2024-12-23, I made a phone call to Berkeley Hearing Center to book
 an appointment for Wednesday 2025-01-15 3:45 PM. Call details are
 [here](2024-12-23-berkeley-hearing-center-call.md).
+
+## Research on and efforts toward earwax removal on 2024-12-24
+
+On 2024-12-24, I began a bunch of research around earwax removal. The
+goal was to figure out whether I could remove my earwax myself, and if
+I did, to figure out the effect that removal had on my hearing. To
+this end, I watched a bunch of videos:
+
+* [How to safely remove ear wax at home using a bulb syringe](https://www.youtube.com/watch?v=6Ee0VtgwmyI) by Doctor O'Donovan
+* [How to Use Ear Drops Properly](https://www.youtube.com/watch?v=65uAZr7TsAE) by Apotex Inc.
+* [Ear Wax - Which Ear Drops are the best?](https://www.youtube.com/watch?v=qos5xwAfTOI) by Vik Veer
+* [Ear Wax- Which Ear Drops are the best? (followup video)](https://www.youtube.com/watch?v=TkyX7KDzRzg) by Vik Veer
+
+In the evening, I made a trip to Walgreens to get items that could
+help with earwax removal. I ended up buying these items:
+
+* Walgreens earwax removal drops (active ingredient: carbamide
+  peroxide; this is a store brand equivalent of Debrox earwax removal
+  drops)
+
+* Earwax MD (active ingredient: sodium bicarbonate) from Eosera
+
+* Walgreens earwax removal kit (this is a syringe design that is
+  claimed to be superior to the bulb syringe that seems like the
+  default)
+
+After some thought after getting back home, I decided it's worth
+trying the Earwax MD first. This uses sodium bicarbonate. The main
+downside is that sodium bicarbonate, being alkaline, is not good to
+apply repeatedly. So, it's important to limit to maybe two
+applications within the space of a week. It also claims that it can
+make significant progress in just one application, so my plan is to
+see how that first application goes and pause if it doesn't succeed.
+
+I watched the [How to on the Eosera
+website](https://eosera.com/howto.html). My plan is to do this before
+my bath on the night of 2024-12-24 *only for my left ear*, so I can
+rinse out the ear as part of te bath. I plan to lie down for about 20
+minutes total but I will see how things go and may end up lying down
+for a little bit longer. I'll use the phone's timer to keep track of
+time, and make sure that stuff is accessible to me while I'm lying
+down on my right side, so that I can stay in position.
+
+I also reviewed the [best practices around adding a topical treatment
+protocol](../best-practices/best-practices-around-adding-a-topical-treatment-protocol.md)
+which is intended to address loosely similar situations albeit still
+somewhat different ones from these. Since I'm starting off by doing
+this one-time rather than as an ongoing protocol, I don't need to
+answer all the questions upfront. However, here are my current drafts
+of answers.
+
+* If there are different strengths and formulations, the difference
+  between them: I watched some of the videos above to compare
+  different formulations. Sodium bicarbonate is among the more
+  effective, but may be unwise to apply frequently. The hope is that I
+  make significant progress with the first application.
+
+* Expected dose range: My plan is to limit myself to a single tube,
+  and squeeze as much of it as I need to till my left ear feels full.
+
+* Frequency range: I'm currently only planning to do this once to
+  begin with, and at most one more time within the next week. I will
+  re-evaluate after that.
+
+* Minimum and maximum dose gap: Minimum gap of 1 day. No maximum gap.
+
+* Impact of missing a dose -- is it advisable to double-dose, or just
+  contine with other doses regularly? Don't double-dose.
+
+* Any dependence or tolerance effects that are known: I'm not yet
+  planning to do this often enough for such effects to become a
+  concern.
+
+Timing information: Based on the how-to, this is most convenient to do
+before a bath so that I can wash the ear out properly.
+
+Risk of getting in eyes: My plan is to keep my eyes closed during the
+squeezing process, and for most of the 20 minutes waiting time after
+that. If for whatever reason something does get in my eyes, it looks
+like the priority will be to flush the eyes for a lengthy period of
+time, and forgo the earwax removal benefits for this time.
+
+Risk of getting on hands: The tube structure means that there
+shouldn't be stuff getting on hands. Even so, I'll keep towels
+handy to wipe my hands, and if a lot gets on hands I may again have to
+abandon the earwax removal plan and focus on washing my hands first.
+
+Other parts of the skin: My plan is to wipe off minor amounts that get
+on the skin, but if a lot gets on and it's itching and burning, then
+cleaning it up takes priority over earwax removal.
