@@ -243,6 +243,8 @@ an appointment for Wednesday 2025-01-15 3:45 PM. Call details are
 
 ## Research on and efforts toward earwax removal on 2024-12-24
 
+### Research and planning
+
 On 2024-12-24, I began a bunch of research around earwax removal. The
 goal was to figure out whether I could remove my earwax myself, and if
 I did, to figure out the effect that removal had on my hearing. To
@@ -330,3 +332,55 @@ abandon the earwax removal plan and focus on washing my hands first.
 Other parts of the skin: My plan is to wipe off minor amounts that get
 on the skin, but if a lot gets on and it's itching and burning, then
 cleaning it up takes priority over earwax removal.
+
+### Execution of eardrop application in left ear
+
+I applied the Earwax MD eardrops on 2024-12-24 around 11:33 PM in my
+left ear only, which was a little over 2.5 hours after I had finished
+my second meal at around 8:58 PM.
+
+Before beginning, I started my phone clock timer for 20 minutes. I had
+also separated one of the five tubes from the others and loosened its
+cap. I put two hand towels on top of my pillow, then I lay down on the
+bed on my right side, with one hand towel in a position where I could
+move it to above my ear as needed.
+
+I uncapped the tube, then applied it with my left hand on my left ear
+while holding the cap in my right hand. I kept applying till my left
+ear felt full, with puses of a few seconds in between to gauge the
+state of things. Once my left ear felt full, I capped the tube and lay
+it down. I kept my eyes closed for most of the process except when
+capping and uncapping, and mostly stayed lying down though I did tilt
+up a littl bit (while still keeping the left side up) when putting the
+tube down.
+
+I then continued to lay down on my right side, with my eyes closed for
+most of the time, till the 20-minute timer went off. The discomfort
+peaked in the first 3 to 5 minutes, and then died down after that to a
+steady level. I used the hand towel to clean out any leak around the
+ear and also pressed it gently against the ear a couple of times over
+the course of waiting. Overall, with the exception of the first few
+minutes, this was close enough to a normal experience of laying down
+and resting.
+
+After the 20-minute timer went off (around 11:53 PM), I set a timer
+for another 10 minutes; while setting the timer, I opened my eyes and
+raised myself a little bit but continued to keep my left side up.
+
+Around 12:03 AM, a few seconds before the timer was set to go off, I
+checked my phone, saw that the timer is about to go off, then
+cancelled the timer. I got up and checked the status of the portion of
+the hand towel that I had used to wipe my ear. There were a few brown
+spots there.
+
+I then squirted warm water into my left ear using the Walgreens ear
+syringe a few times. After that, I went for my bath, where I got more
+opportunity to get water in my ear and check for wax. Overall, the
+earwax felt more soft than usual, but I did not see a huge amount of
+discharge.
+
+After my bath, I redid hearing tests starting around 12:34 AM.
+
+### Hearing tests after eardrop application (past midnight going into 2024-12-25)
+
+TODO fill these in
