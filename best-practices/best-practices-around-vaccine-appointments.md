@@ -1,5 +1,9 @@
 # Best practices around vaccine appointments
 
+See [best practices around medical
+appointments](best-practices-around-medical-appointments.md) for
+general principles informing these best practices.
+
 ## Use the calendar reminder as the date of booking
 
 The calendar reminders have been selected to allow for a reasonable
