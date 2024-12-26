@@ -19,6 +19,7 @@ reset:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_waste;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_types;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists broad_food_types;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists frequency_hearing_test_results;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists heinrich_incidents;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists pulse_oximeter_readings;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists test_results;"
@@ -46,6 +47,7 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases_2024.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_pauses.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_waste.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/frequency_hearing_test_results.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/heinrich_incidents.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/pulse_oximeter_readings.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/tests.sql

@@ -227,7 +227,7 @@ Right ear:
 
 * 500 Hz: barely at 5 (this is what I selected), more clearly at 6
 
-* 1000 Hz: barely ay 7 (this is what I selected), more clearly at 8
+* 1000 Hz: barely at 7 (this is what I selected), more clearly at 8
 
 * 2000 Hz: barely at 4 (this is what I selected), more clearly at 5
 
@@ -439,3 +439,17 @@ You](https://www.youtube.com/watch?v=JGwWNGJdvx8) and confirmed that I
 got similar volume levels as for my main test track (Love Me Like You
 Do); about 8/64 for making out the words with the left ear and 1/64
 for making out the words with the right ear.
+
+## Followup frequency tests to just be recorded in the SQL file; updates to cadence of checking
+
+I've made a SQL file
+[here](../../sql/frequency_hearing_test_results.sql) and I plan to
+record followup tests only in that file until there is a dramatic
+change or a clear trend. I will continue to record other tests (such
+as using the YouTube tracks) in this file until such time as I develop
+a clear testing protocol for those tests.
+
+Going forward, my plan is to do the frequency hearing tests once every
+3 days and the YouTube track tests every 6 days (i.e., with alternate
+rounds of frequency hearing tests) until I get new information, such
+as from my audiological evaluation.
