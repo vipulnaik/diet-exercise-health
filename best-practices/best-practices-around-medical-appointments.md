@@ -25,6 +25,12 @@ after.
   * Choose a day and time so that the risk of weather disruption is
     minimal.
 
+  * Book sufficiently in advance that other things can be adjusted in
+    the run-up to the event. At least 1 week and ideally about 3 weeks
+    is preferable; beyond 3 weeks there are no significant gains. This
+    does conflict a little bit with weather selection, since weather
+    forecasting is usually not great for more than 1 week out
+
 * IM principle as a post-selection adjustment principle:
 
   * Take care of on-call overrides and maintenance windows.
