@@ -22,22 +22,31 @@ adjusted based on factors such as the following:
 
 ### Date selection
 
-* Booking about 1-3 weeks in advance is ideal. However, in some cases,
-  there may be significant backlogs and it may only be possible to
-  book 3+ weeks in advance.
+* (local IM pre / book in advance) Booking about 1-3 weeks in advance
+  is ideal. However, in some cases, there may be significant backlogs
+  and it may only be possible to book 3+ weeks in advance.
 
-* Preferable date / time: Friday 3 PM; this minimizes interference
-  with my day job
+* (local IM pre / good time of day and day of
+  week; recovery / general energy conservation): Preferable date /
+  time: Friday 3 PM (but confirm free on both personal and work
+  calendar); this minimizes interference with my day job and the time
+  is usually free. Another reason to do Friday rather than Wednesday
+  is that vaccines impose greater recovery costs than many other
+  medical procedures, so having a vaccine on a Friday allows for less
+  interference with day job during the recovery process.
 
-* Check the weather conditions around the time of booking: In
-  particular, avoid days of rain forecast (if possible), or days when
-  it is unusually hot or cold
+* (local IM pre / free time; regional IM pre / busyness) Check for
+  appointments and other commitments on the day of booking or the two
+  days after booking. Two days after is important because recovery
+  from vaccines can take up to two days.
 
-* Check for appointments and other commitments on the day of booking
-  or the two days after booking
+* (local IM pre / weather; regional IM pre / weather) Check the
+  weather conditions around the time of booking: In particular, avoid
+  days of rain forecast (if possible), or days when it is unusually
+  hot or cold
 
-* Try to select a time with nothing of this sort in the preceding or
-  following two weeks:
+* (regional IM pre / travel + medical) Try to select a time with
+  nothing of this sort in the preceding or following two weeks:
 
   * Ill health of any sort
 
@@ -47,6 +56,12 @@ adjusted based on factors such as the following:
   * Intercity travel
 
   * Unusually high-stress events
+
+I'm omitting "(regional IM pre / cyclic personal chores load)" as the
+timing of vaccines is often in the winter due to peak infectious
+season reasons, even though that is also the period when cyclic
+personal chores load is maximum. All other considerations under "local
+IM pre" and "regional IM pre" are covered above.
 
 ### Booking steps
 
