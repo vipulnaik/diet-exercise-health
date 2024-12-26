@@ -82,28 +82,28 @@ There are a few broad angles to preparation:
 
 * Interference minimization discussed in the preceding sections
 
-* (Preparation / accuracy of testing) Accuracy of testing: This
+* (preparation / accuracy of testing) Accuracy of testing: This
   applies to medical appointments involving a test, such as a blood
   test. Pausing some activities prior to the appointment may be
   necessary for more accurate testing. This may include pauses on
   food, supplements, medications, and exercise.
 
-* (Preparation / general energy conservation) Conservation of energy:
+* (preparation / general energy conservation) Conservation of energy:
   Some medical procedures can be intensive on my body, using up my
   MEWs for the day and more! It may be wise to conserve energy in the
   days leading up to the appointment so as to be well-rested.
 
-* (Preparation / local rest) Rest to particular muscles or organs in
+* (preparation / local rest) Rest to particular muscles or organs in
   preparation for heavy use: For instance, rest to my muscles ahead of
   a vaccine.
 
-* (Preparation / risk reduction) Risk reduction: For instance, minor
+* (preparation / risk reduction) Risk reduction: For instance, minor
   mouth injuries can make dental cleaning more painful. For this
   reason, I pause intense and hard food consumption in the days
   leading up to a dental cleaning appointment, even though the risk of
   mouth injuries per unit consumption is small.
 
-* (Direct preparation) Direct preparation (particularly for new and
+* (preparation / direct) Direct preparation (particularly for new and
   complex procedures): For things that I do regularly, such as blood
   tests, vaccine appointments, and dental cleaning, no direct
   preparation is needed. In contrast, things that are new and/or
@@ -120,13 +120,13 @@ There are a few broad angles to preparation:
 
 There are a few broad angles to recovery:
 
-* (Recovery / general energy conservation) Conservation of overall
+* (recovery / general energy conservation) Conservation of overall
   energy during bodily recovery: For things like vaccines, there is an
   insult to my system and my body needs to direct its resources to
   addressing that insult. For things like blood tests, the depletion
   of blood may result in some need for recovery.
 
-* (Recovery / local rest + reduced capacity + increased injury risk)
+* (recovery / local rest + reduced capacity + increased injury risk)
   Coping with temporarily reduced capacity and increased injury risk
   to a particular area that was manipulated: For instance, for
   vaccines, the arm muscle that was injected into is sensitive. For
@@ -137,7 +137,7 @@ There are a few broad angles to recovery:
   further or having other mishaps due to not accounting for its
   reduced capacity.
 
-* (Recovery / documentation and processing) Documentation effort and
+* (recovery / documentation and processing) Documentation effort and
   processing of the information: Generally, I acquire new information,
   either as part of the appointment itself, or in followup reports I
   receive after the appointment. This entails documentation effort and
