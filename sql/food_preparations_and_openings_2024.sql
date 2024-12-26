@@ -976,5 +976,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-24','Lundberg Sustainable California White Basmati Rice',0.9,2),
   /* New bottle/packet openings as the old ones finished */
   ('2024-12-25','Kite Hill Greek Style Plant-Based Yogurt',1,1),
-  ('2024-12-25','California Walnuts',1,1);
+  ('2024-12-25','California Walnuts',1,1),
+  /* Lentils prep 2024-12-25 (overnight soaking to cook the next day) */
+  ('2024-12-25','TJ Green Lentils',0.5,3);
   /* Double-check the date before committing */
