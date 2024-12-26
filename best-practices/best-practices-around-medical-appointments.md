@@ -59,7 +59,7 @@ are:
 
 * Chances of rain over the time period; even if that particular day is
   clear of rain, rain in the days before and after reduces my
-  scheduling flexibility for needed shopping around the period)
+  scheduling flexibility for needed shopping around the period
   (higher in the winter).
 
 ### Preparation
