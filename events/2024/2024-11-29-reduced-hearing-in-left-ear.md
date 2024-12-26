@@ -379,8 +379,63 @@ opportunity to get water in my ear and check for wax. Overall, the
 earwax felt more soft than usual, but I did not see a huge amount of
 discharge.
 
-After my bath, I redid hearing tests starting around 12:34 AM.
-
 ### Hearing tests after eardrop application (past midnight going into 2024-12-25)
 
-TODO fill these in
+At 12:34 AM on 2024-12-25, an hour after eardrop application and after
+having had a bath that should have been enough to wash things out, I
+redid my usual hearing tests. I began with the [Resound online hearing
+test](https://www.resound.com/en-us/online-hearing-test).
+
+Here are the results for the left ear for the minimum level at which I
+could barely hear the sound:
+
+* 500 Hz: 7
+
+* 1000 Hz: 8
+
+* 2000 Hz: 9
+
+* 4000 Hz: 8
+
+And for the right ear:
+
+* 500 Hz: 6
+
+* 1000 Hz: 5
+
+* 2000 Hz: 3
+
+* 4000 Hz: 2
+
+These results are very similar to the ones on 2024-12-21, so there
+appears to have been no clear immediate change for better or worse as
+a result of the eardrop application.
+
+I also did my usual testing with the track [Ellie Goulding - Love Me
+Like You Do (Fifty Shades Freed) (Official
+Video)](https://www.youtube.com/watch?v=eVVaqFDG6Fo) on YouTube with
+the YouTube volume set to maximum, so I was only adjusting my Macbook
+Air speaker volume. I used headphones. Here are some of the findings:
+
+* Left ear: I was barely able to make out the words at about 8/64
+  volume (similar to the evaluation on 2024-12-21), but tended to lose
+  the thread of the words. With a real stretch, I could go as low as
+  6/64 and just barely make out the words.
+
+* Right ear: I was able to make out the words at 1/64 volume. This is
+  consistent with the evaluation on 2024-12-21.
+
+I also did a new kind of evaluation, namely an equivalence evaluation:
+for a low volume on the right ear, I tried to find the comparable
+volume setting on the left ear that felt subjectively as loud. These
+are my findings:
+
+* 4/64 (or 1/16) on right ear roughly matched 24/64 (6/16) on left ear
+
+* 8/64 (or 2/16) on right ear roughly matched 3264 (8/16) on left ear
+
+I also tested using the track [Shape of
+You](https://www.youtube.com/watch?v=JGwWNGJdvx8) and confirmed that I
+got similar volume levels as for my main test track (Love Me Like You
+Do); about 8/64 for making out the words with the left ear and 1/64
+for making out the words with the right ear.
