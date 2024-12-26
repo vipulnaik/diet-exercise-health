@@ -1105,3 +1105,10 @@ properly.
 I'm skipping all exercise today to recover from the exertion
 yesterday, and also to give myself a bit more time to catch up on a
 number of things.
+
+## 2024-12-24 and 2024-12-25: at-home jogging
+
+Due to a mix of reasons including rain, cold, and time crunch, I did
+at-home jogging on 2024-12-24 and 2024-12-25. On both 2024-12-24 and
+2024-12-25, I was able to multiplex the at-home jogging with listening
+to a video. The rest of my exercise proceeded normally.
