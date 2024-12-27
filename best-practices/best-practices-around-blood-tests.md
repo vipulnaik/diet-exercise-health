@@ -36,7 +36,6 @@ inapplicable and hence omitted:
   intuitions and decide to take a break if I need, but I don't need to
   deliberately take additional time.
 
-
 ## Order the tests and book the appointment
 
 The process is generally two-phase: first, I order via a provider,
@@ -166,15 +165,16 @@ around if things happen at work.
 I don't need to sleep super-early, but it's good to not stay up too
 late. Set calendar reminders for these.
 
-### (preparation / direct) Reminder to eat so that I finish about 14 hours prior to my expected blood draw time
+### (preparation / accuracy of testing) Reminder to eat so that I finish about 14 hours prior to my expected blood draw time
 
 This will depend on the specific appointment
 time, if any; if no appointment, use the estimated time of walk-in.
 
 ### (local IM post / cyclic personal chores) Shopping reminder for two days prior to the appointment
 
-Carrying heavy grocery bags can be a challenge after having blood draw
-in an arm.
+It'll be good to get grocery shopping done so that I don't have to
+scramble on or after the day of the appointment. Carrying heavy
+grocery bags can be a challenge after having blood draw in an arm.
 
 ### (local IM post / weather check) Weather check reminder for two days prior to the appointment
 
