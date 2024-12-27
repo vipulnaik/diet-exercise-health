@@ -980,5 +980,15 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep 2024-12-25 (overnight soaking to cook the next day) */
   ('2024-12-25','TJ Green Lentils',0.5,3),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-12-26','TJ Carb Savvy Tortillas',1,2);
+  ('2024-12-26','TJ Carb Savvy Tortillas',1,2),
+  /* Meal prep 2024-12-27 (first meal) */
+  ('2024-12-27','Eggplant',1,1),
+  ('2024-12-27','TJ Kale',1,1),
+  ('2024-12-27','TJ Carrots',1,1),
+  ('2024-12-27','Green bell pepper',4,1),
+  ('2024-12-27','Red bell pepper',2,1),
+  ('2024-12-27','Beefsteak tomato',8,1), /* extra tomatoes as there was space */
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-12-27','Kite Hill Greek Style Plant-Based Yogurt',1,1),
+  ('2024-12-27','TJ Carb Savvy Tortillas',1,1);
   /* Double-check the date before committing */
