@@ -51,6 +51,11 @@ after.
   * (local IM post / weather check) Check the weather two days before
     the appointment and reschedule if needed and feasible.
 
+  * (local IM post / calendar) Work calendar events and Slack
+    reminders: I should clear out as much as possible, and then after
+    that be particularly careful in the 2-3 days leading up to the
+    appointment to keep that day clear.
+
 ### Interference minimization (regional) (regional IM principle)
 
 The regional IM principle says that the time around the medical
@@ -75,13 +80,6 @@ are:
   even if that particular day is clear of rain, rain in the days
   before and after reduces my scheduling flexibility for needed
   shopping around the period (higher in the winter).
-
-Regional IM principle as a post-selection adjustment principle:
-
-* (regional IM post / calendar) Work calendar events and Slack
-  reminders: I should clear out as much as possible, and then after
-  that be particularly careful in the 2-3 days leading up to the
-  appointment to keep that day clear.
 
 ### Preparation
 

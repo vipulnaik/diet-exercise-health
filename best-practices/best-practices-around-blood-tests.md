@@ -19,11 +19,6 @@ from my arm.
 Of the principles listed in the document, the following are
 inapplicable and hence omitted:
 
-* (regional IM post / calendar) Unlike other more intensive
-  procedures, blood tests are relatively straightforward and don't
-  need proactive clearing of the calendar and Slack reminders in the
-  preceding days.
-
 * (preparation / local rest) The blood test does locally deplete my
   arm, but prior rest isn't needed; only care after the fact is
   needed.
@@ -155,7 +150,7 @@ around if things happen at work.
   covering at least two hours prior to the start and four hours after
   the end of the appointment.
 
-* (regional IM post / calendar) Work calendar events and Slack
+* (local IM post / calendar) Work calendar events and Slack
   reminders: I should clear out as much as possible, and then after
   that be particularly careful in the 2-3 days leading up to the
   appointment to keep that day clear.

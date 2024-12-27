@@ -14,6 +14,9 @@ from my arm.
 Of the principles listed in the document, the following are
 inapplicable and hence omitted:
 
+* (local IM post / calendar) The scan will be on a weekend so work
+  calendar stuff doesn't apply.
+
 * (preparation / general energy conservation)
   (preparation / local rest)
   (preparation / risk reduction)
@@ -126,11 +129,6 @@ location, and return about 1 to 1.5 hours after leaving.
   rotate with others: Try for the override to be a full-day override
   covering at least two hours prior to the start and four hours after
   the end of the appointment.
-
-* (regional IM post / calendar) Work calendar events and Slack
-  reminders: I should clear out as much as possible, and then after
-  that be particularly careful in the 2-3 days leading up to the
-  appointment to keep that day clear.
 
 ### (preparation / direct) Reminders to sleep early starting two days before the test date
 

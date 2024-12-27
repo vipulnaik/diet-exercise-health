@@ -116,7 +116,7 @@ Add the following calendar reminders.
   if a full day isn't possible, try covering at least two hours prior
   to the start and three hours after the end of the appointment.
 
-* (regional IM post / calendar) Work calendar events and Slack
+* (local IM post / calendar) Work calendar events and Slack
   reminders: I should clear out as much as possible, and then after
   that be particularly careful in the 2-3 days leading up to the
   appointment to keep that day clear.
