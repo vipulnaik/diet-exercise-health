@@ -36,13 +36,13 @@ after.
   * (local IM pre / weather) Choose a day and time so that the risk of
     weather disruption is minimal.
 
-* IM principle as a post-selection adjustment principle:
-
-  * (local IM post / on-call) Take care of on-call overrides and
-    maintenance windows.
+* Local IM principle as a post-selection adjustment principle:
 
   * (local IM post / mark-on-calendar) Make sure to mark on calendar
     and not take on other things that might interfere.
+
+  * (local IM post / on-call) Take care of on-call overrides and
+    maintenance windows.
 
   * (local IM post / cyclic personal chores) Make sure to arrange
     cyclic personal chores so that as little as possible is "needed"
@@ -75,6 +75,13 @@ are:
   even if that particular day is clear of rain, rain in the days
   before and after reduces my scheduling flexibility for needed
   shopping around the period (higher in the winter).
+
+Regional IM principle as a post-selection adjustment principle:
+
+* (regional IM post / calendar) Work calendar events and Slack
+  reminders: I should clear out as much as possible, and then after
+  that be particularly careful in the 2-3 days leading up to the
+  appointment to keep that day clear.
 
 ### Preparation
 
