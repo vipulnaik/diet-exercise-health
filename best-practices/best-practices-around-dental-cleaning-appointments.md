@@ -1,5 +1,55 @@
 # Best practices around dental cleaning appointments
 
+## Tally check
+
+See [best practices around medical
+appointments](best-practices-around-medical-appointments.md) for
+general principles informing these best practices.
+
+The main things specific to vaccine appointments are local strain at
+the site of administration, which is the arm muscle, and therefore
+also increased strain in the arm and neck muscles.
+
+Of the principles listed in the document, the following are
+inapplicable and hence omitted:
+
+* (local IM pre / weather) The appointment is booked far enough in
+  advance that I don't have clarity on the weather conditions. With
+  that said, the current cadence (April and October) is decent for
+  Berkeley weather.
+
+* (local IM post / weather check) The 72-hour cancellation notice
+  means that I can't do a 2-day weather check to influence my
+  appointment.
+
+* (regional IM pre / busyness) The appointment is booked far enough in
+advance that I don't have clarity on my level of busyness.
+
+* (regional IM pre / travel + medical) The appointment is booked too
+  far in advance for this to factor in, but if travel and medical
+  plans come up, I would factor those in and reschedule the
+  appointment.
+
+* (regional IM pre / cyclic personal chores load) ) The appointment is
+  booked far enough in advance that I don't have clarity on my level
+  of cyclic personal chores load.
+
+* (regional IM pre / weather) The appointment is booked far enough in
+  advance that I don't have clarity on the weather conditions. With
+  that said, the current cadence (April and October) is decent for
+  Berkeley weather.
+
+* (preparation / accuracy of testing) Nothing special is needed beyond
+  my ongoing usual dental hygiene (though we can think of some of the
+  cautions around intense and hard foods as being sort-of-related, but
+  they fall under risk reduction).
+
+* (preparation / local rest) No particular local rest is needed prior
+  to the appointment.
+
+* (recovery / general energy conservation) No specific recovery is
+  needed in a typical case.
+
 ## (local IM post / mark-on-calendar) Note the appointment date and time
 
 (local IM pre / book in advance)
@@ -163,11 +213,13 @@ handled the previous night, so that even if I'm in a rush I don't miss
 doing it. This includes any planning for additional things I hope to
 do in the trip after the appointment.
 
-### (recovery / documentation and processing) Reminder to take photos and examine with a dental mirror the evening of the appointment
+### (recovery / documentation and processing) Reminder to take photos and examine with a dental mirror the evening of the appointment, then document the event
 
 Make sure to examine my teeth with a dental mirror and also take
 photos before I go to sleep after the appointment. Exactly when I do
 it depends on what else I have going on in the day.
+
+Then, make sure to document the dental cleaning event.
 
 ### (recovery / local rest + reduced capacity + increased injury risk) Reminder to drink plenty of water and keep my talking load low for the two days after the appointment (to minimize and better address the risk of excess salivation)
 
