@@ -45,4 +45,13 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, ea
   ('2024-12-25',2,'right',500,6,NULL),
   ('2024-12-25',2,'right',1000,5,NULL),
   ('2024-12-25',2,'right',2000,3,NULL),
-  ('2024-12-25',2,'right',4000,2,NULL);
+  ('2024-12-25',2,'right',4000,2,NULL),
+  /* 2024-12-28 10:23 AM test */
+  ('2024-12-28',1,'left',500,6,NULL),
+  ('2024-12-28',1,'left',1000,8,NULL),
+  ('2024-12-28',1,'left',2000,8,'very faint here, perhaps 9 would be better'),
+  ('2024-12-28',1,'left',4000,8,'very clear despite not being audible at all at 7'),
+  ('2024-12-28',1,'right',500,6,NULL),
+  ('2024-12-28',1,'right',1000,6,NULL),
+  ('2024-12-28',1,'right',2000,3,NULL),
+  ('2024-12-28',1,'right',4000,1,NULL);
