@@ -2,13 +2,13 @@ import shared, connection
 
 queries = [
     # Blood pressure
-    "select * from blood_pressure_readings where measurer = 'self' and not (systolic_bp_mm_hg between 90 and 120);",
+    "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (systolic_bp_mm_hg between 90 and 120);",
 
-    "select * from blood_pressure_readings where measurer = 'self' and not (diastolic_bp_mm_hg between 55 and 85);",
+    "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (diastolic_bp_mm_hg between 55 and 85);",
 
-    "select * from blood_pressure_readings where measurer = 'self' and not (systolic_bp_mm_hg - diastolic_bp_mm_hg between 27 and 50) and not (reading_date in ('2024-12-15','2024-12-28'));",
+    "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (systolic_bp_mm_hg - diastolic_bp_mm_hg between 27 and 50) and not (reading_date in ('2024-12-15','2024-12-28'));",
 
-    "select * from blood_pressure_readings where measurer = 'self' and not (heart_rate_bpm between 40 and 75);",
+    "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (heart_rate_bpm between 40 and 75);",
 
     # Pulse oximeter
     "select * from pulse_oximeter_readings where not (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_min_bpm between 40 and 65) and not (reading_date = '2024-08-27');",
