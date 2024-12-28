@@ -4,9 +4,9 @@
 
 Total so far ecluding enhanced lipid panel that is only from Marek Diagnostics:
 
-* Own Your Labs: $495.70
-* Marek Diagnostics: $225 plus $5 phlebotomist fee, totaling to $230; if we add the enhanced lipid panel we get to $280
-* Request A Test: LabCorp: $408 (also excludes creatine kinase); Quest Diagnostics: $295 (excludes both creatine kinase and cystatin C)
+* Own Your Labs: $512.50
+* Marek Diagnostics: $236 plus $5 phlebotomist fee, totaling to $241; if we add the enhanced lipid panel we get to $291
+* Request A Test: LabCorp: $467 (also excludes creatine kinase); Quest Diagnostics: $352 (excludes both creatine kinase and cystatin C)
 
 So far, Marek Diagnostics seems to be the cheapest and it also has the
 enhanced lipid panel that the others don't have.
@@ -93,4 +93,14 @@ cystatin C value *much lower*), I may need to do this test annually.
 
 * https://ownyourlabs.com/product/homocysteine-plasma/ ($68)
 * https://marekdiagnostics.com/products/homocysteine ($65)
-* https://requestatest.com/homocysteine-testing ($69)
+* https://requestatest.com/homocysteine-testing (LabCorp: $69; Quest Diagnostics: $69)
+
+### Prostate-specific antigen (PSA)
+
+* https://ownyourlabs.com/product/prostate-specific-ag-serum/ ($16.80)
+* https://marekdiagnostics.com/products/prostate-specific-antigen-psa ($11)
+* https://requestatest.com/prostate-specific-antigen-testing (LabCorp: $59; Quest Diagnostics: $57)
+
+This is useful as an early screen for prostate cancer and other
+prostate issues. It would also help to get a baseline level that I can
+compare against in future testing.
