@@ -990,5 +990,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-27','Beefsteak tomato',8,1), /* extra tomatoes as there was space */
   /* New bottle/packet openings as the old ones finished */
   ('2024-12-27','Kite Hill Greek Style Plant-Based Yogurt',1,1),
-  ('2024-12-27','TJ Carb Savvy Tortillas',1,1);
+  ('2024-12-27','TJ Carb Savvy Tortillas',1,1),
+  ('2024-12-27','TJ Carb Savvy Tortillas',1,2), /* yes, I did open a second pack in the second meal */
+  ('2024-12-27','TJ Roasted Seaweed',1,2);
   /* Double-check the date before committing */
