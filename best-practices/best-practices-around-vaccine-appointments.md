@@ -90,7 +90,7 @@ adjusted based on factors such as the following:
   arrive.
 
 * (local IM post / mark-on-calendar) Add the vaccine appointment to
-  the calendar, with the appointment time starting 2.5 hours prior to
+  the calendar, with the calendar event starting 2.5 hours prior to
   the appointment time and ending 2.5 hours after the appointment
   time. Invite my work email address as well so that the time range
   shows as blocked on the work calendar as well.
