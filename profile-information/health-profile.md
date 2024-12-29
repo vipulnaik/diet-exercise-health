@@ -534,7 +534,7 @@ is a good proxy for the risk created by atherogenic particles, and
 since Apo B measures the former, it is a proxy for atherogenic
 particle risk. (Contrast this with measuring the cholesterol content
 in these particles, such as LDL cholesterol; although usually highly
-concordant in most cases, this is a elss predictive measure than the
+concordant in most cases, this is a less predictive measure than the
 particle concentration when they do differ).
 
 As of December 2024, I have only one data point directly measuring Apo
