@@ -556,11 +556,11 @@ Reading date | Apo B (mg/dL) | Inferred atherogenic particle concentration (self
 
 Lp(a) particles are a particular kind of LDL particle that have an
 additional apolipoprotein attached to them called apoliprotein (a)
-(Apo (a)) (in addition to Apo B). This is different from apo A
+(Apo (a)) (in addition to Apo B). This is different from Apo A
 (capital A) which is the apolipoprotein found on HDL
 particles. Confusingly, the term Lp(a) is also used for the gene that
-codes for apo (a). This gene varies quite a bit between individuals,
-and that variation drives variation in the exact structure of apo (a)
+codes for Apo (a). This gene varies quite a bit between individuals,
+and that variation drives variation in the exact structure of Apo (a)
 for a given individual. This variation in structure in turn affects
 the concentration of Lp (a). [This
 video](https://peterattiamd.com/benoitarsenault/) goes into a lot of
