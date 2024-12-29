@@ -538,14 +538,15 @@ concordant in most cases, this is a less predictive measure than the
 particle concentration when they do differ).
 
 As of December 2024, I have only one data point directly measuring Apo
-B, namely the reading from the blood test done on December 13. My
-inferred atherogenic particle concentration of 1618 nmol/L uses
-550,000 as the molecular mass of Apo B. In this round of blood tests,
-I also got a NMR lipoprofile, that includes a direct measure of LDL
-particle concentration (LDL-P) of 1313 nmol/L, and very little VLDL,
-so the atherogenic particle concentration inferred that way would be
-close to 1313 nmol/L, which is lower. But this much discrepancy
-(around 20-25%) seems typical.
+B, namely the reading from the blood test done on December 13. The
+reading of 89 mg/dL is at the upper edge of acceptable, and I should
+ideally have a much lower Apo B. My inferred atherogenic particle
+concentration of 1618 nmol/L uses 550,000 as the molecular mass of Apo
+B. In this round of blood tests, I also got a NMR lipoprofile, that
+includes a direct measure of LDL particle concentration (LDL-P) of
+1313 nmol/L, and very little VLDL, so the atherogenic particle
+concentration inferred that way would be close to 1313 nmol/L, which
+is lower. But this much discrepancy (around 20-25%) seems typical.
 
 Reading date | Apo B (mg/dL) | Inferred atherogenic particle concentration (self-calculated) (nmol/L)
 -- | -- | --
