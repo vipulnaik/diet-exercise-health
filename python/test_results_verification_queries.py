@@ -32,7 +32,7 @@ queries = [
     from test_results group by test, units
     having lowest_low_end > 0
     and highest_low_end  > 1.5 * lowest_low_end
-    and not (test in ('Serum creatinine','Bilirubin total'));""",
+    and not (test in ('Serum creatinine','Total bilirubin','Alkaline phosphatase'));""",
 
     # The lymphocytes maximum varies between LabCorp 2016 (3.1), Quest Diagnostics 2021 (3.9) and Sutter Health 2024 (5.1)
     """
