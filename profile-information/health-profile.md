@@ -608,7 +608,7 @@ medications to try.
 
 I have one measurement of Lp(a), taken in December 2024, that shows my
 Lp(a) to be high. This means that the remarks above apply: the Lp(a)
-places me at increased atherosclerotic risks, increases the value to
+places me at increased atherosclerotic risk, increases the value to
 me of trying to reduce Apo B, and also argues more in favor of PCSK9
 inhibitors over statins.
 
