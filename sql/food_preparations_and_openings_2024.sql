@@ -995,5 +995,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-27','TJ Roasted Seaweed',1,2),
   ('2024-12-28','TJ Miso Ginger Broth',1,1),
   ('2024-12-28','TJ Carb Savvy Tortillas',1,2),
-  ('2024-12-28','California Walnuts',1,2);
+  ('2024-12-28','California Walnuts',1,2),
+  /* Rice prep 2024-12-29 (first meal) */
+  ('2024-12-29','Lundberg Sustainable California White Basmati Rice',0.9,1);
   /* Double-check the date before committing */
