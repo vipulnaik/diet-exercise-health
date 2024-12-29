@@ -2,7 +2,7 @@
 
 ## Tests
 
-Total so far ecluding enhanced lipid panel that is only from Marek Diagnostics:
+Total so far excluding enhanced lipid panel that is only from Marek Diagnostics:
 
 * Own Your Labs: $521
 * Marek Diagnostics: $246 plus $5 phlebotomist fee, totaling to $251; if we add the enhanced lipid panel we get to $301
