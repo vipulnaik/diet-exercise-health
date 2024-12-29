@@ -575,7 +575,7 @@ Lp(a) is significant for the following reasons:
   are more atherogenic.
 
 * Lp(a) levels seems to be mostly genetic, affected by the Lp(a) gene
-  that determines the exact structure of the apo(a) in the given
+  that determines the exact structure of the Apo (a) in the given
   individual. The key reason for this seems to be that Lp(a) levels
   are governed primarily by production rather than clearance, so most
   mechanisms that help improve clearance (including lifestyle and most
