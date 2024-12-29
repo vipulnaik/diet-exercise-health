@@ -4,9 +4,9 @@
 
 Total so far ecluding enhanced lipid panel that is only from Marek Diagnostics:
 
-* Own Your Labs: $512.50
-* Marek Diagnostics: $236 plus $5 phlebotomist fee, totaling to $241; if we add the enhanced lipid panel we get to $291
-* Request A Test: LabCorp: $467 (also excludes creatine kinase); Quest Diagnostics: $352 (excludes both creatine kinase and cystatin C)
+* Own Your Labs: $521
+* Marek Diagnostics: $246 plus $5 phlebotomist fee, totaling to $251; if we add the enhanced lipid panel we get to $301
+* Request A Test: LabCorp: $501 (also excludes creatine kinase); Quest Diagnostics: $381 (excludes both creatine kinase and cystatin C)
 
 So far, Marek Diagnostics seems to be the cheapest and it also has the
 enhanced lipid panel that the others don't have.
@@ -104,3 +104,9 @@ cystatin C value *much lower*), I may need to do this test annually.
 This is useful as an early screen for prostate cancer and other
 prostate issues. It would also help to get a baseline level that I can
 compare against in future testing.
+
+### Uric acid in blood
+
+* https://ownyourlabs.com/product/uric-acid-serum/ ($8.50)
+* https://marekdiagnostics.com/products/uric-acid ($10)
+* https://requestatest.com/uric-acid-gout-blood-test (LabCorp: $34; Quest Diagnostics: $29)
