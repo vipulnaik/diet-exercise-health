@@ -524,7 +524,7 @@ particles:
 * Each atherogenic particle has exactly one Apo B-100 on it.
 
 * Apo B-100 has a fixed molecular mass, so measuring the density (mass
-  perunit volume) is equivalent to measuring the molar concentration.
+  per unit volume) is equivalent to measuring the molar concentration.
 
 The upshot is that Apo B is good as a single numeric measure of
 atherogenic particle concentration.
