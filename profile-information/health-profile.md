@@ -510,10 +510,10 @@ The atherogenic particles are the particles that have the potential to
 contribute to atherosclerosis. This includes LDL (low density
 lipoprotein) and VLDL (very low density lipoprotein) particles (in
 practice, unless somebody has highly elevated triglycerides, LDL
-particles dominate the particle count). These particles are the input
-material to an oxidative process that ultimtaely leads to the
-formation of a "foam cell" that can ultimately lead to
-atherosclerosis.
+particles dominate the particle count). When such particles invade the
+endothelial lining of the wall of the blood vessel, this has the
+potential to lead to the formation of a "foam cell" that can
+ultimately lead to atherosclerosis.
 
 All the atherogenic particles have an apolipoprotein on them called
 apolipoprotein B (Apo B, more specifically Apo B-100; by default here,
