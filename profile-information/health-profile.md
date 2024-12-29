@@ -572,7 +572,7 @@ Lp(a) is significant for the following reasons:
   more atherogenic than typical LDL particles. This means that for
   individuals with elevated Lp(a), their Apo B understates their
   overall risk, because the Lp(a) subset of the atherogenic particles
-  are more atherogeic.
+  are more atherogenic.
 
 * Lp(a) levels seems to be mostly genetic, affected by the Lp(a) gene
   that determines the exact structure of the apo(a) in the given
