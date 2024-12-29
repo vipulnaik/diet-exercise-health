@@ -34,9 +34,9 @@ Sections of this document:
   * [Skin](#skin)
 * Internal trends and biomarkers
   * [Insulin sensitivity and glycemic control](#insulin-sensitivity-and-glycemic-control) (these help determine the chances of getting to diabetes)
-  * [Lipid profile and related measures of atherosclerotic risk](#lipid-profile-and-related-measures-of-atherosclerotic-risk)
+  * [Atherosclerotic risk](#atherosclerotic-risk)
   * [Metabolic syndrome evaluation](#metabolic-syndrome-evaluation)
-  * Markers of internal inflammation (section to be written)
+  * Markers of internal inflammation (section to be written; this has a lot of overlap with the atherosclerotic risk section insofar as many markers of internal inflammation are also contributors to atherosclerotic risk)
 * Upcoming section to be written around internal organs, will cover
   what I can gather from measurements taken in my blood tests as well
   as other biomarkers covered in the preceding section to paint a
@@ -496,62 +496,202 @@ Further investigative efforts may look as follows:
 These measurements could help inform and refine my food consumption
 strategy.
 
-## Lipid profile and related measures of atherosclerotic risk
-
-NOTE: This section needs a rewrite based on my more refined
-understanding of atherosclerotic risk; I am deferring this rewrite to
-when I get back the results for my December 2024 blood tests as those
-results will include a lot of useful information.
+## Atherosclerotic risk
 
 You can get full details
 [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql)
 of all test results for me so far of tests discussed in this section.
 
-I've taken lipid profile measurements starting April 2004, with my
-most recent measurement being in September 2024 as part of my [2024 blood
-test plans](../events/2024/2024-blood-test-plans.md).
+### Concentration of atherogenic particles in the blood
 
-Overall, my most recent lipid profile (as of 2024) is close enough to
-normal, but this is something I need to continue monitoring given
-family diabetic tendencies.
+#### Apolipoprotein B (Apo B): 89 mg/dL (upper end of desirable)
 
-### Cholesterol total (acceptable range: 0-200 mg/dL)
+The atherogenic particles are the particles that have the potential to
+contribute to atherosclerosis. This includes LDL (low density
+lipoprotein) and VLDL (very low density lipoprotein) particles (in
+practice, unless somebody has highly elevated triglycerides, LDL
+particles dominate the particle count). These particles are the input
+material to an oxidative process that ultimtaely leads to the
+formation of a "foam cell" that can ultimately lead to
+atherosclerosis.
 
-My cholesterol total has always stayed within range. Overall, it
-appears to have been increasing somewhat from ~150 in 2004 to being
-only slightly below the upper limit of 200 in the last test in
-2021. However, in 2024, it dropped a little bit from the 2021 level,
-getting to 177. This is a step in the positive direction.
+All the atherogenic particles have an apolipoprotein on them called
+apolipoprotein B (Apo B, more specifically Apo B-100; by default here,
+"Apo B" is shorthand for "Apo B-100"). There are two feature of apo B
+that make it a good way to gauge the concentration of atherogenic
+particles:
 
-### HDL cholesterol (acceptable range: 30-60 mg/dL, some sources say >= 40 mg/dL)
+* Each atherogenic particle has exactly one Apo B-100 on it.
 
-My first cholesterol HDL reading, done 2004, showed a result of 28,
-below the acceptable range. Since then, my HDL has been generally
-increasing. The last two readings (2021 and 2024) were both at 46,
-which are within the range.
+* Apo B-100 has a fixed molecular mass, so measuring the density (mass
+  perunit volume) is equivalent to measuring the molar concentration.
 
-### LDL cholesterol (acceptable range: 0-100 mg/dL)
+The upshot is that Apo B is good as a single numeric measure of
+atherogenic particle concentration.
 
-My LDL cholesterol measurements have always hovered around the
-threshold, with the very first reading in April 2004 being 99, just
-below the threshold of 100. My last two measurements, in June 2021 and
-September 2024, both were above the threshold, at 122 and 112
-respectively.
+It's also generally believed that atherogenic particle concentration
+is a good proxy for the risk created by atherogenic particles, and
+since Apo B measures the former, it is a proxy for atherogenic
+particle risk. (Contrast this with measuring the cholesterol content
+in these particles, such as LDL cholesterol; although usually highly
+concordant in most cases, this is a elss predictive measure than the
+particle concentration when they do differ).
 
-As of October 2024, I plan to do more frequent monitoring of this, and
-have also taken various actions that I am hoping will help reduce my
-LDL cholesterol over time. I plan to get tested for a wider range of
-related metrics, including getting a NMR lipoprofile at least once and
-getting Apo B measurements regularly, as these offer a better proxy of
-atherosclerotic risk than LDL cholesterol. See [2024 blood test plans
-(round 2)](../events/2024/2024-blood-test-plans-round-2.md) for some
-of my future plans on this front.
+As of December 2024, I have only one data point directly measuring Apo
+B, namely the reading from the blood test done on December 13. My
+inferred atherogenic particle concentration of 1618 nmol/L uses
+550,000 as the molecular mass of Apo B. In this round of blood tests,
+I also got a NMR lipoprofile, that includes a direct measure of LDL
+particle concentration (LDL-P) of 1313 nmol/L, and very little VLDL,
+so the atherogenic particle concentration inferred that way would be
+close to 1313 nmol/L, which is lower. But this much discrepancy
+(around 20-25%) seems typical.
 
-### Serum triglycerides (acceptable range: 0-150 mg/dL)
+Reading date | Apo B (mg/dL) | Inferred atherogenic particle concentration (self-calculated) (nmol/L)
+-- | -- | --
+2024-12-13 (December 2024) | 89 | 1618
 
-My last two serum triglycerides readings (June 2021 and September
-2024) have been 124 and 89, both of them within range, with the
-September 2024 reading being particularly good.
+#### Lipoprotein (a) (Lp(a)): 103.6 nmol/L (high)
+
+Lp(a) particles are a particular kind of LDL particle that have an
+additional apolipoprotein attached to them called apoliprotein (a)
+(Apo (a)) (in addition to Apo B). This is different from apo A
+(capital A) which is the apolipoprotein found on HDL
+particles. Confusingly, the term Lp(a) is also used for the gene that
+codes for apo (a). This gene varies quite a bit between individuals,
+and that variation drives variation in the exact structure of apo (a)
+for a given individual. This variation in structure in turn affects
+the concentration of Lp (a). [This
+video](https://peterattiamd.com/benoitarsenault/) goes into a lot of
+detail regarding Lp(a).
+
+Lp(a) is significant for the following reasons:
+
+* On a per-particle basis, Lp(a) particles are believed to be much
+  more atherogenic than typical LDL particles. This means that for
+  individuals with elevated Lp(a), their Apo B understates their
+  overall risk, because the Lp(a) subset of the atherogenic particles
+  are more atherogeic.
+
+* Lp(a) levels seems to be mostly genetic, affected by the Lp(a) gene
+  that determines the exact structure of the apo(a) in the given
+  individual. The key reason for this seems to be that Lp(a) levels
+  are governed primarily by production rather than clearance, so most
+  mechanisms that help improve clearance (including lifestyle and most
+  pharmacology) tend to affect the non-Lp(a) LDL particles more and
+  don't affect the Lp(a) that much.
+
+* Statins, one of the mainline treatments for high atherogenic
+  particle concentration, can worsen Lp(a) (though the overall effect
+  on atherogenic risk is still positive -- as demonstrated
+  experimentally -- because of more reduction in non-LDL particles
+  than increase in Lp(a) particles even after accounting for Lp(a)
+  particles being more atherogenic on a particle-by-particle basis).
+
+* On the other hand, PCSK9 inhibitors, a more expensive and more
+  recent type of medication for high atherogenic particle
+  concentrations, do reduce Lp(a) somewhat. As of 2024, there is no
+  oral PCSK9 inhibitor, though there's one from Merck (called MK-0616)
+  that is under trial (see
+  [here](https://www.merck.com/news/merck-initiates-phase-3-clinical-program-for-oral-pcsk9-inhibitor-candidate-mk-0616/)).
+
+* There are drugs under development called antisense oligonucleotides,
+  that reduce Lp(a) significantly (to the tune of 80%). It remains to
+  be seen whether lowering Lp(a) pharmacologically is able to drive
+  improvements in outcomes (that's what the trials will be for).
+
+In light of this, it is useful to get a baseline measure of one's
+Lp(a) to (a) get a baseline estimate of one of the factors affecting
+atherosclerotic risk and (b) make more informed choices regarding
+medications to try.
+
+I have one measurement of Lp(a), taken in December 2024, that shows my
+Lp(a) to be high. This means that the remarks above apply: the Lp(a)
+places me at increased atherosclerotic risks, increases the value to
+me of trying to reduce Apo B, and also argues more in favor of PCSK9
+inhibitors over statins.
+
+Reading date | Lp(a) (nmol/L)
+-- | --
+2024-12-13 (December 2024) | 103.6
+
+#### LDL cholesterol (LDL-C): 109 to 122 mg/dL (high)
+
+Although not as good a measure as Apo B, LDL-C has the advantage that
+I have more data points for it. Here are my most recent readings of
+LDL-C:
+
+Reading date | LDL-C (mg/dL) | Method | Other related measures
+-- | -- | -- | --
+2024-12-13 (December 2024) | 122 | NIH equation 2 | LDL-P: 1313 nmol/L, Apo B: 89 mg/dL
+2024-09-03 (September 2024) | 112 | Martin-Hopkins | N/A
+2021-06-30 (June 2021) | 122 | Martin-Hopkins | N/A
+2017-11-12 (November 2017) | 109.7 | Colorimetric | N/A
+
+These readings paint a picture concordant with my recent Apo B
+reading, and suggest that I've had issues with high atherogenic
+particle concentrations for a long time.
+
+#### Plan for followup measurements and actions
+
+See [here](../notes/lipid-lowering-strategies.md) for my more detailed
+plans for 2025 and 2026. The TL;DR is frequent measurement of the
+important biomarkers, more one-off measurements, and investigation of
+pharmacological options.
+
+### Other contributing factors to atherosclerotic risk
+
+Atherogenic particles, proxied by Apo B measurement, are the input to
+the formation of foam cells which in turn lead to atherosclerosis. A
+number of other factors affect the propensity of the atherogenic
+particles to form foam cells.
+
+The first step is for the particles to invade the endothelium -- the
+inner lining of the blood vessel. The endothelium's response to this
+invasion is what kicks off atherosclerosis. Thus, factors that
+influence both how easily a given particle can invade the endothelium
+and how aggressively the endothelium responds can affect the extent of
+atherosclerosis.
+
+#### Blood pressure as a contributor: low and therefore good for me
+
+High blood pressure has a mechanical effect of pushing the atherogenic
+particles against the endothelium, which can increase the extent to
+which they invade the endothelium. Fortunately in my case, my blood
+pressure is consistently on the low end so blood pressure is not
+exacerbating the situation for me.
+
+#### Smoking as a contributor (in many ways): I don't smoke so therefore good for me
+
+Smoking contributes directly to endothelial damage, making it easier
+for atherogenic particles to invade the endothelium. It also increases
+the risk of atherosclerosis at numerous other stages of the process
+(for instance, elevating the concentration of atherogenic particles,
+increasing the clotting of blood, etc.).
+
+#### Insulin resistance: I don't seem to have it yet, so good for me
+
+Insulin resistance causes damage to the endothelial lining because
+both high levels of insulin and high levels of blood glucose damage
+the endothelial lining, and insulin resistance basically means having
+high levels of at least one of them most of the time (because high
+insulin is needed to get blood glucose low). Per the section on
+[insulin sensitivity and glycemic
+control](#insulin-sensitivity-and-glycemic-control), I don't have
+insulin resistance yet, and my glucose seems to be normal, so this is
+not adding to my atherosclerotic risk.
+
+#### Homocysteine: I haven't measured it yet
+
+Homocysteine can cause endothelial dysfunction. I haven't measured my
+homocysteine levels yet, so I don't have a clear picture of how I
+stack up on this measure.
+
+#### Uric acid: I haven't measured it yet
+
+Uric acid can cause endothelial dysfunction. I haven't measured my
+uric acid levels yet, so I don't have a clear picture of how I stack
+up on this measure.
 
 ## Metabolic syndrome evaluation
 
