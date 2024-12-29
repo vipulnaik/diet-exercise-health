@@ -993,5 +993,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-27','TJ Carb Savvy Tortillas',1,1),
   ('2024-12-27','TJ Carb Savvy Tortillas',1,2), /* yes, I did open a second pack in the second meal */
   ('2024-12-27','TJ Roasted Seaweed',1,2),
-  ('2024-12-28','TJ Miso Ginger Broth',1,1);
+  ('2024-12-28','TJ Miso Ginger Broth',1,1),
+  ('2024-12-28','TJ Carb Savvy Tortillas',1,2),
+  ('2024-12-28','California Walnuts',1,2);
   /* Double-check the date before committing */
