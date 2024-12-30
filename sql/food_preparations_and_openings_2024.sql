@@ -1001,5 +1001,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Potatoes prep 2024-12-29 (second meal) -- no peas this time because they were not in stock when I went yesterday to Trader Joe's */
   ('2024-12-29','Gold potatoes 5 lb',0.5,2),
   ('2024-12-29','TJ Kale',1,2), /* Tuscan Kale because the normal one wasn't in stock */
-  ('2024-12-29','Beefsteak tomato',6,2);
+  ('2024-12-29','Beefsteak tomato',6,2),
+  /* New bottle/packet openings as the old ones finished */
+  ('2024-12-29','Kite Hill Greek Style Plant-Based Yogurt',1,2);
   /* Double-check the date before committing */
