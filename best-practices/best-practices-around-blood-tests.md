@@ -65,7 +65,7 @@ test that requires fasting; the timing considerations are based on
 that. In case there are requirements to *not* be fasting, work out the
 right time for the blood test based on that. For time of day, some
 time between 9:30 AM and 11:30 AM is best, with 10 AM to 11 AM being
-ideal. This is be
+ideal.
 
 However, consider my general routine of meals and waking up and try to
 pick a time that is at least 2.5 hours after my natural waking-up
