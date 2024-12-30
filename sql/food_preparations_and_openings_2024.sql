@@ -997,5 +997,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-12-28','TJ Carb Savvy Tortillas',1,2),
   ('2024-12-28','California Walnuts',1,2),
   /* Rice prep 2024-12-29 (first meal) */
-  ('2024-12-29','Lundberg Sustainable California White Basmati Rice',0.9,1);
+  ('2024-12-29','Lundberg Sustainable California White Basmati Rice',0.9,1),
+  /* Potatoes prep 2024-12-29 (second meal) -- no peas this time because they were not in stock when I went yesterday to Trader Joe's */
+  ('2024-12-29','Gold potatoes 5 lb',0.5,2),
+  ('2024-12-29','TJ Kale',1,2), /* Tuscan Kale because the normal one wasn't in stock */
+  ('2024-12-29','Beefsteak tomato',6,2);
   /* Double-check the date before committing */
