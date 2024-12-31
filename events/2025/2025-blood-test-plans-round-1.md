@@ -11,11 +11,31 @@ round 1 of the tests. My plan is to round 1 in January 2025.
 Totals:
 
 * Own Your Labs: $497.80 (the main driver of the higher cost here is the cystatin C test) (does not include quantitative immunoglobulins)
-* Marek Diagnostics: $273 plus $5 blood draw fee
+* Marek Diagnostics: $273 plus $5 blood draw fee, totaling to $278
 * Request A Test: LabCorp $522 (excluding creatine kinase), Quest Diagnostics $283 (excluding creatine kinase, cystatin C, and quantitative immunoglobulins)
 
 Of these, Marek Diagnostics seems to be the cheapest, so my plan is to
 order from them.
+
+### Order
+
+I placed the order via Marek Diagnostics around 6:30 PM on
+2024-12-30. I was also able to use a discount coupon for 10% so that
+my total cost came to $250.20.
+
+After placed the order, I downloaded the requisition form from the
+Marek Diagnostics website. I also checked the order status on the
+Marek Diagnostics website. It shows as "Unfulfilled". That suggests
+that the transition in status from "Unfulfilled" to "Fulfilled"
+happens as part of the blood draw.
+
+### Appointment for blood draw
+
+Earlier in the day on 2024-12-30, I had booked a blood draw
+appointment with LabCorp for Wednesday 2025-01-22 11 AM. I plan to use
+that appointment to get the blood draw for these blood tests.
+
+TODO other post-booking steps still need to be completed.
 
 ## General thinking behind tests to include
 
