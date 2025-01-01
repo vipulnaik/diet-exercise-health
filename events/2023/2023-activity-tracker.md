@@ -5,28 +5,28 @@ tracker](2022-activity-tracker.md), recording my trips outside the
 home. I exclude trips for jogging and running. I also exclude trips
 for grocery purchases and picking up takeout from restaurants; you can
 get a sense for those trips by looking in
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Tuesday January 3
 
 In the afternoon, I made a trip to Citibank for some financial
 transactions. I finished around 1:35 PM. I then went to Trader Joe's
 for food purchases recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Sunday January 8
 
 In the late afternoon, I made a trip to Citibank for an ATM
 transaction.  I finished around 4:15 PM. I then went to Trader Joe's
 for food purchases recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Thursday January 12
 
 In the evening, I made a trip to downtown Berkeley. I first stopped at
 the Walgreens at Adeline Street to purchase suppplements, finishing
 around 5:20 PM. I then did some food purchases recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Monday January 23
 
@@ -39,7 +39,7 @@ from my colleague for the way back.
 In the evening, I made a trip to Udupi Palace for an in-person dinner
 with a work colleague, after which I made a trip to Trader Joe's. I've
 recorded the food purchased in both places at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Wednesday March 1
 
@@ -73,13 +73,13 @@ package. I left my home shortly after 4 PM and got back shortly after
 In the evening, I made a trip to the Amazon Hub Locker pickup location
 at ASUC Berkeley to pick up a few packages. I then went to downtown
 Berkeley for my usual food purchases recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Saturday April 8
 
 In the afternoon, I made a trip to the Citibank in downtown Berkeley
 for some financial transactions. After finishing, I made my usual food
-purchases recorded at [food_purchases.sql](../../sql/food_purchases.sql).
+purchases recorded at [food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 Later. in the evening, I made a trip to Walgreens for toiletries
 purchases. I finished checkout at 5:30 PM.
@@ -89,14 +89,14 @@ purchases. I finished checkout at 5:30 PM.
 In the late afternoon / early evening, I made a trip to Walgreens to
 buy toiletries. The purchase was around 4:30 PM. After finishing, I
 made my usual food purchases recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Friday April 28
 
 In the evening, I made a trip to Walgreens to top up on
 supplements. The purchase was made at 7:39 PM. After finishing, I made
 my usual food purchases recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Wednesday May 3
 
@@ -105,7 +105,7 @@ person. After the lunch, I dropped the other person off at the
 downtown Berkeley BART. Then I went to Citibank for some financial
 transactions and then to Trader Joe's to buy groceries. My food
 purchases are recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 Since it started raining around the time of my Trader Joe's trip, and
 I wasn't sure how long the rain will last, I took BART back (from
@@ -120,7 +120,7 @@ Street Food with another person. I walked to the location, arriving at
 6:20 PM, then waited for a spot to open up in the restaurant and for
 the other person to arrive. After the dinner, I went to Trader Joe's
 to buy groceries and walked back home. Food purchase details are
-recorded at [food_purchases.sql](../../sql/food_purchases.sql).
+recorded at [food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Wednesday June 7
 
@@ -129,13 +129,13 @@ in downtown Berkeley for some financial transactions. I was in the
 branch from abour 4:40 PM to about 4:55 PM. After that, I went to the
 nearby Ace Hardware where I purchased a few items, finishing checkout
 at 5:08 PM. After being done with that, I made some food purchases
-recorded at [food_purchases.sql](../../sql/food_purchases.sql).
+recorded at [food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Sunday June 25
 
 In the afternoon, I made a trip, first for some
 printing/copying/scanning, then for food purchases recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Friday June 30
 
@@ -158,14 +158,14 @@ appointment. Details are in
 In the evening, I went to the Amazon Hub Locker at the ASUC Student
 Union to pick up a package. I was done shortly before the weekend
 closing time of 5 PM. After that, I made my usual food purchases
-recorded at [food_purchases.sql](../../sql/food_purchases.sql).
+recorded at [food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Friday August 18
 
 In the evening, I went to the Amazon Hub Locker at the ASUC Student
 Union to pick up a package. I was done shortly after 7 PM. After that,
 I made my usual food purchases recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Friday August 23
 
@@ -190,7 +190,7 @@ the load I carried back was unusually heavy.
 In the late morning / early afternoon, I went to downtown Berkeley. I
 first went to Citibank for some banking transactions. After finishing,
 I went to Trader Joe's for grocery purchases, recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Saturday September 16
 
@@ -207,7 +207,7 @@ In the morning, I made a trip to downtown Berkeley. I first went to
 the post office to drop off mail for a former resident. I then went to
 Citibank for a few financial transactions. After that, I went to
 Trader Joe's for grocery purchases, recorded at
-[food_purchases.sql](../../sql/food_purchases.sql).
+[food_purchases_2023.sql](../../sql/food_purchases_2023.sql).
 
 ## Wednesday September 27
 
@@ -276,7 +276,7 @@ at Walgreens.
 
 In the late afternoon, I made a multi-stop trip. My stops included the
 post office, the bank, and a photo studio, after which I did food
-purchases recorded [here](../../sql/food_purchases.sql).
+purchases recorded [here](../../sql/food_purchases_2023.sql).
 
 ## Wednesday November 22
 
@@ -315,7 +315,7 @@ did not eat there. I walked to and from the place.
 In the late morning, I made a trip to downtown Berkeley; this included
 a trip to Ace Hardware to get higher-powered screwdrivers, plus a food
 purchase trip to Trader Joe's. The latter is recorded
-[here](../../sql/food_purchases.sql).
+[here](../../sql/food_purchases_2023.sql).
 
 ## Saturday December 9
 
@@ -323,7 +323,7 @@ In the late morning, I made a trip to downtown Berkeley. I first met a
 friend for lunch at Udupi Palace. Then we went to Trader Joe's where I
 bought some stuff, after which my friend dropped me back home in his
 car (on his own way back home). The food purchases are recorded
-[here](../../sql/food_purchases.sql).
+[here](../../sql/food_purchases_2023.sql).
 
 Shortly after returning home, in the early afternoon I made a trip to
 the ASUC Amazon Hub to pick up an Amazon package.
@@ -333,10 +333,10 @@ the ASUC Amazon Hub to pick up an Amazon package.
 In the early afternoon, I made a trip to downtown Berkeley. My trip
 included stops at Goodwill, Citibank, Foto Shop, and Target, after
 which I did my usual Trader Joe's and Udupi Palace trip. The food
-purchases are recorded [here](../../sql/food_purchases.sql).
+purchases are recorded [here](../../sql/food_purchases_2023.sql).
 
 ## Sunday December 31
 
 In the afternoon, I made a trip, first to the ASCU Amazon Hub to pick
 up a couple of packages, and then to Trader Joe's for food purchases
-recorded [here](../../sql/food_purchases.sql).
+recorded [here](../../sql/food_purchases_2023.sql).
