@@ -577,3 +577,12 @@ left for Berkeley Bowl for food purchases recorded in
 In the evening, I made a trip to Walgreens to purchase earwax removal
 products. I also bought a couple of dish soap bottles as part of the
 trip.
+
+## Tuesday December 31
+
+In the evening, I made a trip to downtown Berkeley. I first stopped at
+Citibank to withdraw quarters to use as laundry coins. I then went to
+Trader Joe's for food purchases recorded in
+[food_purchases_2024.sql](../../sql/food_purchases_2024.sql). On the
+way back, I made a short detour to check the donation hours for
+the Goodwill in downtown Berkeley.
