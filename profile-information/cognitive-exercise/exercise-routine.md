@@ -31,7 +31,7 @@ the exercise.
 
 Goal of exercise: Build toward consistently scoring 20+
 
-Further information: [[Human Benchmark number memory exercise with
+Further information: [Human Benchmark number memory exercise with
 history](human-benchmark-number-memory-exercise-with-history.md)
 
 My goal is to play number memory about once every 1-2 weeks until I
