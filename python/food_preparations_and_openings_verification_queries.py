@@ -9,10 +9,10 @@ queries = [
     "select * from food_preparations_and_openings where food_type in ('TJ Almond Milk','TJ Sauerkraut','TJ Walnuts','TJ Miso Ginger Broth','Trader Giotto''s Olive Oil') and quantity != 1;",
 
     # I should generally do 1 at a time, though exceptions are possible
-    "select * from food_preparations_and_openings where food_type in ('Eggplant','TJ Kale','TJ Carrots','TJ Broccoli Florets 12 oz') and quantity != 1;",
+    "select * from food_preparations_and_openings where food_type in ('Eggplant','TJ Kale','TJ Carrots','TJ Broccoli Florets 12 oz') and not (quantity between 0.85 and 1);",
 
     # I should generally do 2 at a time, though exceptions are possible
-    "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date in ('2024-09-08','2024-11-20'));",
+    "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date in ('2024-09-08','2024-11-20','2025-01-01'));",
 
     # I should generally do 2 or 3 at a time, though exceptions are possible
     "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and not (quantity in (2,3)) and not (preparation_or_opening_date in ('2024-09-07','2024-09-19','2024-09-30','2024-11-25'));",
@@ -249,21 +249,27 @@ queries = [
     union
       select *, 'previous' as epoch from previous_daily_pow_amounts;""",
 
-    "select epoch, daily_total_carb_in_grams from daily_pow_amounts_by_epoch where daily_total_carb_in_grams < 225 or daily_total_carb_in_grams > 335;",
+    # The wide range for daily calories reflects significant seasonal fluctuation
+    "select epoch, daily_calories from daily_pow_amounts_by_epoch where daily_calories < 1750 or daily_calories > 3000;",
 
-    "select epoch, daily_total_fat_in_grams from daily_pow_amounts_by_epoch where daily_total_fat_in_grams < 50 or daily_total_fat_in_grams > 110;",
+    # For the next two queries, I bound carbs and fats based on total calorie consumption as the calorie consumption can vary a lot by season
+    "select epoch, daily_total_carb_in_grams, daily_calories from daily_pow_amounts_by_epoch where daily_total_carb_in_grams < 0.1 * daily_calories or daily_total_carb_in_grams > 0.16 * daily_calories;",
 
+    "select epoch, daily_total_fat_in_grams, daily_calories from daily_pow_amounts_by_epoch where daily_total_fat_in_grams < 0.025 * daily_calories or daily_total_fat_in_grams > 0.05 * daily_calories;",
+
+    # For saturated fat I use an absolute bound
     "select epoch, daily_saturated_fat_in_grams from daily_pow_amounts_by_epoch where daily_saturated_fat_in_grams > 15;",
 
-    "select epoch, daily_protein_in_grams from daily_pow_amounts_by_epoch where daily_protein_in_grams < 52;",
+    # For protein I bound between 0.9 and 2.1 times an upper estimate of my body weight
+    "select epoch, daily_protein_in_grams from daily_pow_amounts_by_epoch where daily_protein_in_grams < 0.9 * 58 or daily_protein_in_grams > 2.1 * 58;",
 
-    "select epoch, daily_oxalate_in_mg from daily_pow_amounts_by_epoch where daily_oxalate_in_mg > 135;",
+    "select epoch, daily_oxalate_in_mg from daily_pow_amounts_by_epoch where daily_oxalate_in_mg > 150;",
 
     "select epoch, daily_calcium_in_mg from daily_pow_amounts_by_epoch where daily_calcium_in_mg < 650 or daily_calcium_in_mg > 2500;",
 
     "select epoch, daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg as effective_daily_sodium_in_mg from daily_pow_amounts_by_epoch where daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg < 1200 or daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg > 2700;",
 
-    "select epoch, daily_potassium_in_mg from daily_pow_amounts_by_epoch where daily_potassium_in_mg < 3200 or daily_potassium_in_mg > 4700;",
+    "select epoch, daily_potassium_in_mg from daily_pow_amounts_by_epoch where daily_potassium_in_mg < 3200 or daily_potassium_in_mg > 5100;",
 
     "select epoch, daily_vitamin_a_in_mcg from daily_pow_amounts_by_epoch where daily_vitamin_a_in_mcg < 900 or daily_vitamin_a_in_mcg > 3000;",
 ]
