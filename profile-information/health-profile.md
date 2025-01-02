@@ -701,13 +701,18 @@ the conditions for metabolic syndrome:
 
 * Hypertension: My blood pressure is well below 120/80.
 
-* Hyperglycemia: My blood glucose was measured as normal in December 2024 and September
-  2024 (both fasting) and April 2024 (6.5 hours after meal), and proxy
-  measures based on HbA1c also suggest that it's normal.
+* Hyperglycemia: My blood glucose was measured as normal in December
+  2024 and September 2024 (both fasting) and April 2024 (6.5 hours
+  after meal), and proxy measures based on HbA1c also suggest that
+  it's normal.
 
-* HDL cholesterol: My recent readings of 66 mg/dL (December 2024) and 46 mg/dL (September 2024) are above the lower threshold of 40 mg/dL for males.
+* HDL cholesterol: My recent readings of 66 mg/dL (December 2024) and
+  46 mg/dL (September 2024) are above the lower threshold of 40 mg/dL
+  for males.
 
-* Serum triglycerides: My recent readings of 56 mg/dL (December 2024) and 89 mg/dL (September 2024) are below the upper threshold of 150 mg/dL.
+* Serum triglycerides: My recent readings of 56 mg/dL (December 2024)
+  and 89 mg/dL (September 2024) are below the upper threshold of 150
+  mg/dL.
 
 * Waist size: At 28 inches, my waist size is well below the thresholf
   of 40 inches.
