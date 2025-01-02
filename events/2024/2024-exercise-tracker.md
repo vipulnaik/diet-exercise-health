@@ -1106,9 +1106,11 @@ I'm skipping all exercise today to recover from the exertion
 yesterday, and also to give myself a bit more time to catch up on a
 number of things.
 
-## 2024-12-24 to 2024-12-29: at-home jogging
+## 2024-12-24 to 2024-12-29 and 2024-12-31: at-home jogging
 
 Due to a mix of reasons including rain, cold, time crunch, and wet
 sidewalks due to recent rain, I did at-home jogging from 2024-12-24 to
-2024-12-29. On all days, I was able to multiplex the at-home jogging
-with listening to a video. The rest of my exercise proceeded normally.
+2024-12-29 and 2024-12-31. On all days, I was able to multiplex the
+at-home jogging with listening to a video. The rest of my exercise
+proceeded normally. I did go out jogging for one day in between
+(2024-12-30).
