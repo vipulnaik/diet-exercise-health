@@ -25,9 +25,11 @@ my total cost came to $250.20.
 
 After placed the order, I downloaded the requisition form from the
 Marek Diagnostics website. I also checked the order status on the
-Marek Diagnostics website. It shows as "Unfulfilled". That suggests
+Marek Diagnostics website. It shows as "Unfulfilled". ~~That suggests
 that the transition in status from "Unfulfilled" to "Fulfilled"
-happens as part of the blood draw.
+happens as part of the blood draw.~~ When I logged in again on
+2025-01-01, the order status showed as "Fulfilled" so it doesn't seem
+to refer to whether the blood sample has been submitted.
 
 ### Appointment for blood draw
 
@@ -35,7 +37,11 @@ Earlier in the day on 2024-12-30, I had booked a blood draw
 appointment with LabCorp for Wednesday 2025-01-22 11 AM. I plan to use
 that appointment to get the blood draw for these blood tests.
 
-TODO other post-booking steps still need to be completed.
+### Setup of calendar reminders
+
+On the evening/night of 2024-12-30, I set up various calendar
+reminders following the [best practices around blood
+tests](https://github.com/vipulnaik/diet-exercise-health/blob/master/best-practices/best-practices-around-blood-tests.md).
 
 ## General thinking behind tests to include
 
