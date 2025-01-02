@@ -432,7 +432,7 @@ are my findings:
 
 * 4/64 (or 1/16) on right ear roughly matched 24/64 (6/16) on left ear
 
-* 8/64 (or 2/16) on right ear roughly matched 3264 (8/16) on left ear
+* 8/64 (or 2/16) on right ear roughly matched 32/64 (8/16) on left ear
 
 I also tested using the track [Shape of
 You](https://www.youtube.com/watch?v=JGwWNGJdvx8) and confirmed that I
@@ -453,3 +453,26 @@ Going forward, my plan is to do the frequency hearing tests once every
 3 days and the YouTube track tests every 6 days (i.e., with alternate
 rounds of frequency hearing tests) until I get new information, such
 as from my audiological evaluation.
+
+## YouTube track hearing test results on 2025-01-01
+
+From about 5:35 PM to about 5:40 PM, I did my usual testing with the
+track [Ellie Goulding - Love Me Like You Do (Fifty Shades Freed)
+(Official Video)](https://www.youtube.com/watch?v=eVVaqFDG6Fo) on
+YouTube with the YouTube volume set to maximum, so I was only
+adjusting my Macbook Air speaker volume. I used headphones. Here are
+some of the findings:
+
+* Left ear: I was barely able to make out the words at about 8/64
+  volume (similar to the evaluations on 2024-12-21 and 2024-12-25),
+  but tended to lose the thread of the words. With a real stretch, I
+  could go as low as 6/64 and just barely make out the words.
+
+* Right ear: I was able to make out the words at 1/64 volume. This is
+  consistent with the evaluation on 2024-12-21.
+
+These are the results of my equivalence evaluation:
+
+* 4/64 (or 1/16) on right ear roughly matched 20/64 (5/16) on left ear
+
+* 8/64 (or 2/16) on right ear roughly matched 28/64 (7/16) on left ear
