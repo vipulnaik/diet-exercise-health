@@ -404,7 +404,7 @@ measurement:
   the LP-IR score) about once a year. This wiill give a time seies of
   LP-IR at roughly yearly granularity.
 
-* TG/HDL-C ratio calculation: Get a lipid panel (either a basic one or
+* TG/HDL-C ratio calculation: I plan to get a lipid panel (either a basic one or
   a NMR lipoprofile) every 3 to 6 months, getting 2 to 4 readings per
   year. This will give a time series of TG/HDL-C with 2 to 4 data
   points per year.
@@ -701,14 +701,13 @@ the conditions for metabolic syndrome:
 
 * Hypertension: My blood pressure is well below 120/80.
 
-* Hyperglycemia: My blood glucose was measured as normal in September
-  2024 (fasting) and April 2024 (6.5 hours after meal), and proxy
+* Hyperglycemia: My blood glucose was measured as normal in December 2024 and September
+  2024 (both fasting) and April 2024 (6.5 hours after meal), and proxy
   measures based on HbA1c also suggest that it's normal.
 
-* HDL cholesterol: At 46 mg/dL, this is above the threshold of 40 mg/dL for males.
+* HDL cholesterol: My recent readings of 66 mg/dL (December 2024) and 46 mg/daL (September 2024) are above the lower threshold of 40 mg/dL for males.
 
-* Serum triglycerides: At 89 mg/dL, my most recent reading is well
-  below the threshold of 150 mg/dL.
+* Serum triglycerides: My recent readings of 56 mg/dL (December 2024) and 89 mg/dL (September 2024) are below the upper threshold of 150 mg/dL.
 
 * Waist size: At 28 inches, my waist size is well below the thresholf
   of 40 inches.
