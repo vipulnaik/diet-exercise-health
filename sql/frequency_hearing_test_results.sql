@@ -54,4 +54,13 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, ea
   ('2024-12-28',1,'right',500,6,NULL),
   ('2024-12-28',1,'right',1000,6,NULL),
   ('2024-12-28',1,'right',2000,3,NULL),
-  ('2024-12-28',1,'right',4000,1,NULL);
+  ('2024-12-28',1,'right',4000,1,NULL),
+  /* 2025-01-01 4:55 PM test */
+  ('2025-01-01',1,'left',500,6,NULL),
+  ('2025-01-01',1,'left',1000,8,NULL),
+  ('2025-01-01',1,'left',2000,9,NULL),
+  ('2025-01-01',1,'left',4000,8,NULL),
+  ('2025-01-01',1,'right',500,5,NULL),
+  ('2025-01-01',1,'right',1000,5,NULL),
+  ('2025-01-01',1,'right',2000,2,'very faint, perhaps 3 would be better'),
+  ('2025-01-01',1,'right',4000,1,'it seems like I need to hit the "-" to start the sound; it doesn''t autoplay when I continue to this from the preceding frequency');
