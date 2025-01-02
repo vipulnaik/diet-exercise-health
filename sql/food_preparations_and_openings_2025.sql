@@ -4,5 +4,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-01','Red bell pepper',4,1), /* extra to compensate for no eggplant */
   ('2025-01-01','TJ Kale',0.95,1), /* a little bit dropped */
   ('2025-01-01','TJ Carrots (Organic)',1,1),
-  ('2025-01-01','Beefsteak tomato',5,1); /* fewer in number but bigger in size than usual */
+  ('2025-01-01','Beefsteak tomato',5,1), /* fewer in number but bigger in size than usual */
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-01-01','TJ Carb Savvy Tortillas',1,2),
+  ('2025-01-01','California Walnuts',1,2);
   /* Double-check the date before committing */
