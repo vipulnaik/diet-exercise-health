@@ -476,3 +476,57 @@ These are the results of my equivalence evaluation:
 * 4/64 (or 1/16) on right ear roughly matched 20/64 (5/16) on left ear
 
 * 8/64 (or 2/16) on right ear roughly matched 28/64 (7/16) on left ear
+
+## First round of testing with bone conduction headphones on 2025-01-02
+
+On 2025-01-02, I got my bone conduction headphones from Amazon. After
+connecting them successfully via Bluetooth, I ran a bunch of tests.
+
+For the frequency hearing tests, the results were shifted a bit
+upward, suggesting that the bone conduction headphones, perhaps due to
+lower overall volume, made it a bit more difficult to hear specific
+frequencies. While the left ear continued to be a bit worse than the
+right ear, the relative gap had narrowed quite a bit except for the
+2000 Hz frequency.
+
+On the other hand, for listening to an actual audio song, the bone
+conduction headphones seemed better particularly at the lowest
+volume. Testing with the track [Ellie Goulding - Love Me Like You Do (Fifty Shades Freed)
+(Official Video)](https://www.youtube.com/watch?v=eVVaqFDG6Fo):
+
+* Left ear: I was able to make out the words at 1/64 volume, compared
+  to 6/64 to 8/64 with normal headphones.
+
+* Right ear: I was able to make out the words at 1/64 volume, same as
+  with normal headphones.
+
+These are the results of my equivalence evaluation:
+
+* 4/64 (or 1/16) on right ear roughly match 12/64 (3/16) on left ear
+
+* 8/64 (or 2/16) on right ear roughly match 16/64 (4/16) on left ear
+
+However, there was one big difference: with the bone conduction
+headphones, with the left ear, even at high volumes, the words, though
+legible, sounded muffled. In contrast, with normal headphones, raising
+the volume high enough made the words clear. So, while the equivalence
+evaluation above applies to overall loudness, the clarity/muffling of
+words in the left ear never matched the level in the right ear even at
+a 1/16 volume.
+
+This suggests the following:
+
+* There is some difference between the left ear and right ear even as
+  far as the inner ear is concerned, but this might be limited to some
+  specific frequencies, such as 1000 Hz. This difference means that,
+  without help from the outer and middle ear, which might help with
+  relative modulation of frequencies, the left inner ear always has
+  trouble understanding speech.
+
+* The outer and middle ear come to the rescue but they might be doing
+  so by modulating other frequencies down in a way that makes me
+  unable to hear soft sounds. Or, perhaps there is a separate issue
+  (such as earwax) that is asymmetric in the outer/middle ear between
+  the left and right ears, and clearing this out will allow the outer
+  ear to play its modulating function better while still allowing me
+  to hear at low volumes?
