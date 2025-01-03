@@ -7,5 +7,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-01','Beefsteak tomato',5,1), /* fewer in number but bigger in size than usual */
   /* New bottle/packet openings as the old ones finished */
   ('2025-01-01','TJ Carb Savvy Tortillas',1,2),
-  ('2025-01-01','California Walnuts',1,2);
+  ('2025-01-01','California Walnuts',1,2),
+  /* 2025-01-02 rice prep */
+  ('2025-01-02','Lundberg Sustainable California White Basmati Rice',0.9,1),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-01-02','TJ Carb Savvy Tortillas',1,1);
   /* Double-check the date before committing */
