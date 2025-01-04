@@ -1,6 +1,6 @@
 # Things to investigate
 
-List last updated: 2024-12-20
+List last updated: 2025-01-04
 
 Time on these things would be in a mix of personal chores and other
 activities buckets. The other activities bucket would be used for
@@ -80,13 +80,21 @@ time-sensitive.
     following the kind of exercise regimen that I think is both
     desirable and sustainable.
 
-* Start planning for 2025 blood tests (partial work
-  [here](../events/2025/2025-blood-test-plans.md)). This will likely
-  be based on the results of the [2024 blood tests round
-  2](../events/2024/2024-blood-test-plans-round-2.md).
+* Continue with further parts of [2025 blood test
+  plans](../events/2025/2025-blood-test-plans.md). The first round is
+  already scheduled; see [2025 blood test plans: round
+  1](../events/2025/2025-blood-test-plans-round-1.md).
+
+* Get a heart echocardiogram, ECG. etc. For instance,
+  https://www.lifelinescreening.com/lp/vascular-screening-nurse offers
+  a package for $159 including carotid artery, abdominal aortic
+  aneurysm, EKG for atrial fibrillation, and peripheral arterial
+  disease.
 
 * Look into coronary artery calcium (CAC) / CT angiogram to be done at
-  some point in the next 2-3 years.
+  some point in the next 2-3 years. This seems to need a doctor's
+  referral (per quick Googling) unlike the stuff in the preceding
+  point.
 
 ## Procedures
 
