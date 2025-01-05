@@ -32,13 +32,6 @@ time-sensitive.
 
 ## Supplements
 
-* Omega-3: recent changes to
-  [dose](../events/2024/2024-09-25-decision-to-increase-omega-3-supplement-daily-dose.md)
-  and
-  [diversity](../events/2024/2024-09-28-decision-to-experimentally-add-another-omega-3-supplement.md). Need
-  to figure out if new regimen is for the long term. Blood test
-  results may influence the decision.
-
 * Creatine supplement (deferred for now as I want to focus on the most
   important amino acids first).
 

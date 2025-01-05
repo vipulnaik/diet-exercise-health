@@ -1174,8 +1174,23 @@ My current supplement regime as of November 2024 is:
 * 2 daily vegan omega-3, with one from Freshfield and one from sapling
 
   * Based on non-ideal omega-3 test results in both June 2021 and
-    September 2024, I'm increasing my supplement daily dose from 1
-    softgel to 2 softgels.
+    September 2024, I increased my supplement daily dose from 1
+    softgel to 2 softgels. The blood test results, particularly for
+    DHA, actually were worse in the test done in December 2024 after
+    the dose increase. However, I think that the plasma test has some
+    issues, particularly since I stop supplementation for two days
+    prior to the test. A red blood cell test (such as
+    [this](https://omegaquant.com/3-reasons-to-measure-omega-3-levels-in-red-blood-cells/))
+    would be ideal, but it requires a self-draw and is more of a
+    hassle. If doing plasma testing in the future, I plan to not pause
+    supplementation for two days prior to the test.
+
+  * I believe that the dose increase for omega-3 might have been
+    helpful in reducing my triglycerides and increasing my HDL-C,
+    which is what I saw going from September 2024 to December
+    2024. There is also anecdotal evidence of improvement in cognitive
+    abilities around that time as judged by Human Benchmark tests, but
+    it's hard to isolate that factor among many others.
 
 * 1 daily Calcium/Magnesium/Zinc from Nature Made
   * This is just as a safety measure; I don't think I am deficient in
