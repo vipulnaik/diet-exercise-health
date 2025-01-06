@@ -18,3 +18,9 @@ quite cold and my desire to finish jogging soon rather than wait till
 later in the day when it would be slightly warmer.
 
 On 2025-01-05, I returned to jogging outside.
+
+## 2025-01-06: abridged at-home jogging and skipped dead hang / pull-ups
+
+On Monday 2025-01-06, I did abridged at-home jogging primarily due to
+time constraints (about half the usual length). I also skipped dead
+hang and pull-ups, also due to time constraints.
