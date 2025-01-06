@@ -714,7 +714,7 @@ insert into food_types(short_name, long_name, url, calories,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
   /* notes */ 'I used the printed information for the whole container (there was also a column with information for a serving size, which was claimed to be about half the container, though the arithmetic didn''t always match up between the columns). The information at https://www.traderjoes.com/home/products/pdp/organic-roasted-seaweed-with-sea-salt-062405 roughly matches the serving size data, but is slightly different.'),
 
-  ('California Walnuts','California Grown Shelled Walnuts','https://www.mercari.com/us/item/m83026942049/',3040,
+  ('California Walnuts','California Grown Shelled Walnuts OR California Grown Chopped Walnuts','https://www.mercari.com/us/item/m83026942049/',3040,
   /* broad food type */ 'Walnut',
   /* fat-related columns */ 288,24,0,40,208,
   /* cholesterol-related columns */ 0,
