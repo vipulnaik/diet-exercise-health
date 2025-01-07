@@ -6,7 +6,7 @@ create table frequency_hearing_test_results(
   frequency integer,
   minimum_audible_volume integer,
   notes varchar(2000),
-  primary key (test_date, index_within_test_date, ear, frequency)
+  primary key (test_date, index_within_test_date, conduction_method, ear, frequency)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into frequency_hearing_test_results(test_date, index_within_test_date, conduction_method, ear, frequency, minimum_audible_volume, notes) values
@@ -73,4 +73,21 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, co
   ('2025-01-02',1,'bone','right',500,6,NULL),
   ('2025-01-02',1,'bone','right',1000,8,NULL),
   ('2025-01-02',1,'bone','right',2000,7,NULL),
-  ('2025-01-02',1,'bone','right',4000,6,NULL);
+  ('2025-01-02',1,'bone','right',4000,6,NULL),
+  /* 2025-01-06 6 PM test - both air and bone */
+  ('2025-01-06',1,'air','left',500,6,NULL),
+  ('2025-01-06',1,'air','left',1000,8,NULL),
+  ('2025-01-06',1,'air','left',2000,9,NULL),
+  ('2025-01-06',1,'air','left',4000,8,NULL),
+  ('2025-01-06',1,'air','right',500,7,NULL),
+  ('2025-01-06',1,'air','right',1000,6,NULL),
+  ('2025-01-06',1,'air','right',2000,4,NULL),
+  ('2025-01-06',1,'air','right',4000,1,NULL),
+  ('2025-01-06',1,'bone','left',500,6,NULL),
+  ('2025-01-06',1,'bone','left',1000,8,NULL),
+  ('2025-01-06',1,'bone','left',2000,11,NULL),
+  ('2025-01-06',1,'bone','left',4000,8,NULL),
+  ('2025-01-06',1,'bone','right',500,6,NULL),
+  ('2025-01-06',1,'bone','right',1000,8,NULL),
+  ('2025-01-06',1,'bone','right',2000,6,NULL),
+  ('2025-01-06',1,'bone','right',4000,6,NULL);
