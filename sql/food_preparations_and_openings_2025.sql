@@ -8,12 +8,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-01-01','TJ Carb Savvy Tortillas',1,2),
   ('2025-01-01','California Walnuts',1,2),
-  /* 2025-01-02 rice prep */
+  /* 2025-01-02 rice prep (first meal) */
   ('2025-01-02','Lundberg Sustainable California White Basmati Rice',0.9,1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-01-02','TJ Carb Savvy Tortillas',1,1),
   ('2025-01-02','Kite Hill Greek Style Plant-Based Yogurt',1,2),
-  /* Potatoes prep 2025-01-03 (second meal) -- no peas this time as they were not in stock in my recent trips to Trader Joe's */
+  /* 2025-01-03 potatoes prep (second meal) -- no peas this time as they were not in stock in my recent trips to Trader Joe's */
   ('2025-01-03','Gold potatoes 5 lb',0.5,2),
   ('2025-01-03','TJ Kale',1,2),
   ('2025-01-03','Beefsteak tomato',5,2),
@@ -24,20 +24,22 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-04','TJ Carb Savvy Tortillas',1,2),
   ('2025-01-04','Kite Hill Greek Style Plant-Based Yogurt',1,2),
   ('2025-01-04','TJ Roasted Seaweed',1,2),
-  /* Rice prep 2025-01-05 (first meal) */
+  /* 2025-01-05 rice prep (first meal) */
   ('2025-01-05','Lundberg Sustainable California White Basmati Rice',0.9,1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-01-05','California Walnuts',1,2),
-  /* Lentils prep 2025-01-05 (overnight soaking to cook the next day) */
+  /* 2025-01-05 lentils prep (overnight soaking to cook the next day) */
   ('2025-01-05','TJ Green Lentils',0.45,3),
   /* New bottle/packet openings as the old ones finished */
   ('2025-01-06','Kite Hill Greek Style Plant-Based Yogurt',1,2),
-  /* Meal prep 2025-01-07 (second meal) (seasoning: extra virgin olive oil, turmeric, cumin, salt; no garlic-flavored olive oil and no cayenne pepper) */
+  /* 2025-01-07 meal prep (second meal) (seasoning: extra virgin olive oil, turmeric, cumin, salt; no garlic-flavored olive oil and no cayenne pepper) */
   ('2025-01-07','Eggplant',1,2),
   ('2025-01-07','TJ Kale',1,2),
   ('2025-01-07','TJ Carrots',1,2),
   ('2025-01-07','Red bell pepper',4,2), /* extra red bell peppers as there were no green bell peppers */
   ('2025-01-07','Beefsteak tomato',6,2),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-01-07','TJ Carb Savvy Tortillas',1,2);
+  ('2025-01-07','TJ Carb Savvy Tortillas',1,2),
+  /* 2025-01-08 rice prep (first meal) (added turmeric, cumin, and salt) */
+  ('2025-01-08','Lundberg Sustainable California White Basmati Rice',0.9,1);
   /* Double-check the date before committing */
