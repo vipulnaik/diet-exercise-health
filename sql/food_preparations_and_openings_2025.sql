@@ -41,5 +41,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-01-07','TJ Carb Savvy Tortillas',1,2),
   /* 2025-01-08 rice prep (first meal) (added turmeric, cumin, and salt) */
-  ('2025-01-08','Lundberg Sustainable California White Basmati Rice',0.9,1);
+  ('2025-01-08','Lundberg Sustainable California White Basmati Rice',0.9,1),
+  /* 2025-01-08 potatoes prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt; no garlic-flavored olive oil) */
+  ('2025-01-08','Gold potatoes 3 lb',0.85,2),
+  ('2025-01-08','TJ Kale',1,2),
+  ('2025-01-08','TJ English Shelled Peas',2,2),
+  ('2025-01-08','Beefsteak tomato',4,2),
+  ('2025-01-08','Trader Giotto''s Olive Oil',1,2), /* opened as part of the prep as the old olive oil bottle finished during the prep */
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-01-08','Kite Hill Greek Style Plant-Based Yogurt',1,2);
   /* Double-check the date before committing */
