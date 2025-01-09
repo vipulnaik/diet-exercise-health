@@ -24,3 +24,18 @@ On 2025-01-05, I returned to jogging outside.
 On Monday 2025-01-06, I did abridged at-home jogging primarily due to
 time constraints (about half the usual length). I also skipped dead
 hang and pull-ups, also due to time constraints.
+
+## 2025-01-09: skipping all exercise due to general fatigue plus timing constraints
+
+On 2025-01-09, I skipped exercise due to a mix of general fatigue and
+timing constraints. I had stayed up late the previous day, got to bed
+late, woke up late, and had a somewhat busy morning. I didn't want to
+delay eating too much and I wanted to reset to an earlier time, and
+going out to exercise would have delayed things quite a bit.
+
+I was also generally fatigued from the past few hectic days, and also
+slightly underslept, and felt that skipping exercise would help me
+recover more quickly.
+
+I also have a lot of work to do, and skipping exercise could save me
+valuable time and help me get more on top of things.
