@@ -49,5 +49,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-08','Beefsteak tomato',4,2),
   ('2025-01-08','Trader Giotto''s Olive Oil',1,2), /* opened as part of the prep as the old olive oil bottle finished during the prep */
   /* New bottle/packet openings as the old ones finished */
-  ('2025-01-08','Kite Hill Greek Style Plant-Based Yogurt',1,2);
+  ('2025-01-08','Kite Hill Greek Style Plant-Based Yogurt',1,2),
+  ('2025-01-10','TJ Miso Ginger Broth',1,2),
+  ('2025-01-10','TJ Roasted Seaweed',1,2);
   /* Double-check the date before committing */
