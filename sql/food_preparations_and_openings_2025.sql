@@ -51,5 +51,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-01-08','Kite Hill Greek Style Plant-Based Yogurt',1,2),
   ('2025-01-10','TJ Miso Ginger Broth',1,2),
-  ('2025-01-10','TJ Roasted Seaweed',1,2);
+  ('2025-01-10','TJ Roasted Seaweed',1,2),
+  /* 2025-01-10 lentils prep (overnight soaking to cook the next day) */
+  ('2025-01-10','TJ Green Lentils',0.5,3);
   /* Double-check the date before committing */
