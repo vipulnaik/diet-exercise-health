@@ -52,6 +52,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-08','Kite Hill Greek Style Plant-Based Yogurt',1,2),
   ('2025-01-10','TJ Miso Ginger Broth',1,2),
   ('2025-01-10','TJ Roasted Seaweed',1,2),
+  ('2025-01-10','California Walnuts',1,2), /* added retroactively, potentially a little off; chopped walnuts this time */
   /* 2025-01-10 lentils prep (overnight soaking to cook the next day); added tuermeric, cumin, and salt */
   ('2025-01-10','TJ Green Lentils',0.5,3),
   ('2025-01-11','TJ Turmeric',1,1), /* opened when cooking lentils soaked overnight */
