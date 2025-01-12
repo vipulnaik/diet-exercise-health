@@ -39,3 +39,17 @@ recover more quickly.
 
 I also have a lot of work to do, and skipping exercise could save me
 valuable time and help me get more on top of things.
+
+## 2025-01-12: skipping all exercise due to time crunch for the day (due to sleep time adjustment needed)
+
+Primarily due to a large cyclic personal chores load, I went to sleep
+late on 2025-01-11 (around 3 AM), and correspondingly got up late on
+the morning of 2025-01-12 (around 11 AM). This would not normally be a
+problem, but I need to be up by 9 AM on 2025-01-13 to be ready for
+work meetings, which means I effectively have 2 hours less for
+2025-01-12. Skipping exercise is the prudent course to achieve this
+(because exercise not only directly costs time but also imposes an
+additional 1-hour delay on the meal start time).
+
+This might also be generally helpful considering that I am generally
+time-squeezed these days.
