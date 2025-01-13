@@ -53,3 +53,28 @@ additional 1-hour delay on the meal start time).
 
 This might also be generally helpful considering that I am generally
 time-squeezed these days.
+
+## 2025-01-13: at-home jogging, hand gripper close failure, and abridged strength exercises
+
+I did at-home jogging on 2025-01-13 due to having a bunch of work
+meetings (including some with active participation needed and some
+where I was more passive).
+
+I had a bit of soreness in the back of the neck / shoulders yesterday
+(with mor on the left shoulder), and although the feeling of soreness
+was mostly gone, my strength in those areas was not yet back to
+normal. As a result, I was unable to fully close the 150 lb hand
+gripper with my left hand. However, when I tried later in the day, I
+was able to close it, suggesting that my strength had recovered at
+least to some extent.
+
+For strength exercises, I was initially thinking of skipping, then
+decided to give them a try to get a benchmark of how much I can do in
+this state. I did both the usual exercises for 3 lb and 5 lb with no
+difficulty but with greater experienced fatigue than usual. For 8 lb,
+I did exercise 1 and then stopped. I did not do exercise 2 on 8 lb or
+exercise 1 on 10 lb, partly because I was already exhausted and partly
+because I didn't want to risk doing these harder exercises.
+
+For push-ups, I stopped at around 7 or 8 instead of going to the usual
+13 or higher. This reflected soreness and fatigue.
