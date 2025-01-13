@@ -55,7 +55,7 @@ creates a challenge as the pupils take time to adjust their size.
 When trying to read stuff, a decent degree of contrast is helpful for
 reducing eye strain. For this reason, for instance, dark mode may be
 preferable for some people. However, too much contrast can create
-issues with the evennes of lighting problemm (the pupils don't have a
+issues with the evenness of lighting problem (the pupils don't have a
 right setting to deal with variability). So, dark mode with moderate
 contrast but not excessive contrast is probably ideal.
 
