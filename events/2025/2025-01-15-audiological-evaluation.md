@@ -34,11 +34,32 @@ reason to suspect hearing loss, with asymmetry between the ears
 (with more loss in the left ear). More details on the loss of
 hearing are in later answers.
 
-In addition to the audiogram, I am also hoping to have my earwax
-situation formally checked as well as get some indications of
+In addition to the audiogram, I am also hoping to have any earwax and
+fluid buildup in my outer ear cleared, get a better understanding of
+whether I have excessive earwax, as well as get some indications of
 whether there may be issues such as fluid buildup in my middle or
 inner ear that are affecting my hearing. I have reasons to suspect
 fluid buildup, as elaborated in future answers.
+
+If I do have excessive earwax that is adversely affecting my hearing,
+I want to understand what at-home earwax removal regimen is likely to
+work, or how to safely experiment to find out. So far I've tried one
+round of sodium bicarbonate.
+
+If the issue is fluid buildup in the inner or middle ear or something
+else that cannot be addressed in your office or by me at home, I want
+to get referrals for followup consults or diagnostic exams.
+
+I would love to get more insight into any other things I should be
+doing to prevent further hearing loss.
+
+I also want a better understanding of how often I should be doing
+at-home hearing tests (and any other advice you have regarding the
+best ways to do such testing) and how often I should seek formal
+audiological evaluation. As documented in later answers, I've been
+doing some at-home testing to quantify my hearing loss and track it
+over time, but it would be good to get thoughts on better ways to do
+such testing.
 
 > Please describe situations that you have hearing difficulty in:
 
