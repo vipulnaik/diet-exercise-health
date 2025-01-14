@@ -44,7 +44,8 @@ fluid buildup, as elaborated in future answers.
 If I do have excessive earwax that is adversely affecting my hearing,
 I want to understand what at-home earwax removal regimen is likely to
 work, or how to safely experiment to find out. So far I've tried one
-round of sodium bicarbonate.
+round of sodium bicarbonate that seemed to make no difference
+(documented in a later answer).
 
 If the issue is fluid buildup in the inner or middle ear or something
 else that cannot be addressed in your office or by me at home, I want
