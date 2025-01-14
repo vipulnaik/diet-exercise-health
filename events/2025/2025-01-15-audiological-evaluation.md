@@ -105,7 +105,7 @@ b) Playing YouTube tracks such as
    https://www.youtube.com/watch?v=eVVaqFDG6Fo and identifying the
    minimum volume in each ear at which I can make out the words, using
    both normal headphones and bone conduction headphones. I use a
-   Macbook Air I use the fine-grained control of volume by using
+   Macbook Air. I use the fine-grained control of volume by using
    alt+shift when adjusting the volume, allowing for 64 volume levels
    in total.
 
