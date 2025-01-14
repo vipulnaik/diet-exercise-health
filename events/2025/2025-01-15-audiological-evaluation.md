@@ -100,7 +100,7 @@ b) Playing YouTube tracks such as
 
 c) Subjectively identifying what volume in the left ear seemed as loud
    to me as a given volume in the right ear, using both normal
-   headphones and bone cnduction headphones.
+   headphones and bone conduction headphones.
 
   * Using normal headphones, a volume of 4/64 (1/16) on the right ear
     matches about 20/64 (5/16) on the left ear.
