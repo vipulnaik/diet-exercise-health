@@ -113,6 +113,22 @@ c) Subjectively identifying what volume in the left ear seemed as loud
     normal headphones, where I could hear the words very clearly when
     the volume was high enough.
 
+I also attempted earwax removal on December 30, 2024. I used Earwax MD
+from Eosera, which has sodium bicarbonate as its active
+ingredient. Based on online information, I gathered that sodium
+bicarbonate should not be used too often, even though it is effective
+at earwax removal, because its alkaline nature is counter to the
+acidic environment needed for the ears to be protected from
+infections. Therefore, my plan was to use it once and see how
+effective it was, but not use it further until a more formal
+evaluation.
+
+The use of Earwax MD seems to have only removed a small amount of
+earwax, and comparing pre- and post- hearing tests using normal
+headphones did not show any difference (I did not have bone conduction
+headphones at the time, so I don't have pre- and post- data with bone
+conduction headphones).
+
 > 1. Have you ever experienced a sudden (<24 hours) or rapid (over
 > several weeks/months) change in your hearing? Have you noticed that
 > your hearing seems to change/fluctuate?
@@ -122,12 +138,14 @@ my left ear and thought I might have hearing loss there.  I initially
 attributed this to earwax buildup due to sleeping too long on my left
 side. Since then, the hearing in my left ear seems to be consistently
 worse than my right ear. I only formally started testing on December
-17, 2024 (and followed up with tests every few days) and the hearing
-in each ear has been consistent since then (no progressive
-deterioration). Unfortunately, I did not do any at-home hearing tests
-prior to November 29 so I can't say for sure if my hearing objectively
-got worse on that day, but prior to that I did not subjectively
-experience imbalance in my headphones.
+17, 2024 (and followed up with tests every few days) with normal
+headphones and the hearing in each ear has been consistent since then
+(no progressive deterioration). I added testing with bone conduction
+headphones on January 2, 2025, and results for bone conduction
+headphones have also stayed stable. Unfortunately, I did not do any
+at-home hearing tests prior to November 29 so I can't say for sure if
+my hearing objectively got worse on that day, but prior to that I did
+not subjectively experience imbalance in my headphones.
 
 > 3. Do you have ear pressure/ fullness/ the sensation of being underwater?
 
