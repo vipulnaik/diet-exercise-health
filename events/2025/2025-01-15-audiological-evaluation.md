@@ -144,7 +144,7 @@ to my left ear but none to my right ear.
 Occasionally (a few times a week) I also think I hear brief clicking
 noises in my left ear every few seconds, but they go away quickly.
 
-None of these symptoms triggers instictive emotions in me, but it may
+None of these symptoms triggers instinctive emotions in me, but it may
 be that I'm paying more attention to them now and they used to happen
 earlier as well. However, the asymmetry between the ears seems clear.
 
