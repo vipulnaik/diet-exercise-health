@@ -157,7 +157,7 @@ I had surgery in early 1990 as a young child. This was in response to
 a diagnosis of bilateral maxillary sinusitis based on an ENT X-ray and
 examination by an ENT specialist, with supporting evidence from a
 pathology report. The surgery included both myringotomy (to drain
-excess fluid from my middle ear) and adendoidectomy (to remove my
+excess fluid from my middle ear) and adenoidectomy (to remove my
 adenoids, that were causing the problem). Prior to the surgery, my
 audiogram showed a hearing loss of about 40-45 dB and a flat impedance
 curve (not much variation across frequencies). Audiograms done after
