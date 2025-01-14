@@ -29,22 +29,22 @@ questions I wanted to update the answers for).
 > What would you like to achieve from today's visit? Why did you decide to schedule an appointment today?
 
 I want to get a formal evaluation of the hearing in both my ears. I
-haven't had an audiological evaluation as an adult, and I have >
-reason to suspect hearing loss, with asymmetry between the ears >
-(with more loss in the left ear). More details on the loss of >
+haven't had an audiological evaluation as an adult, and I have
+reason to suspect hearing loss, with asymmetry between the ears
+(with more loss in the left ear). More details on the loss of
 hearing are in later answers.
 
 In addition to the audiogram, I am also hoping to have my earwax
-situation formally checked as well as get some indications of >
-whether there may be issues such as fluid buildup in my middle or >
-inner ear that are affecting my hearing. I have reasons to suspect >
+situation formally checked as well as get some indications of
+whether there may be issues such as fluid buildup in my middle or
+inner ear that are affecting my hearing. I have reasons to suspect
 fluid buildup, as elaborated in future answers.
 
 > Please describe situations that you have hearing difficulty in:
 
-The magnitude of my hearing loss is small enough that it hasn't >
-become an issue in normal situations. The main inconvenience right >
-now is that my headphones don't feel balanced by default when I use >
+The magnitude of my hearing loss is small enough that it hasn't
+become an issue in normal situations. The main inconvenience right
+now is that my headphones don't feel balanced by default when I use
 them -- they feel slightly skewed to the right.
 
 I've attempted to quantify my hearing through a variety of methods,
