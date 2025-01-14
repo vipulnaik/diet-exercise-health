@@ -109,9 +109,9 @@ c) Subjectively identifying what volume in the left ear seemed as loud
     right ear matches about 12/64 (3/16) on the left ear. However, one
     big difference is that with bone conduction headphones, the words
     always appeared muffled (though I could still make them out) to my
-    left ear even at high volumes. I didn't have this issue at normal
-    headphones, where I could hear the words very clearly when the
-    volume was high enough.
+    left ear even at high volumes. I didn't have this issue with
+    normal headphones, where I could hear the words very clearly when
+    the volume was high enough.
 
 > 1. Have you ever experienced a sudden (<24 hours) or rapid (over
 > several weeks/months) change in your hearing? Have you noticed that
