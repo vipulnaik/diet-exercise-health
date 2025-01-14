@@ -97,9 +97,9 @@ a) Online single-frequency hearing test at
 
   Overall, the right ear is at least as good as the left ear for all
   frequencies, with a bigger gap on higher frequencies, and a bigger
-  gap on normal headphones than bone conduction headphones. This seems
-  suggestive that at least part of the issue is with the outer or
-  middle ear.
+  gap on normal headphones than bone conduction headphones. This
+  suggests that at least part of the issue is with the outer or middle
+  ear.
 
 b) Playing YouTube tracks such as
    https://www.youtube.com/watch?v=eVVaqFDG6Fo and identifying the
