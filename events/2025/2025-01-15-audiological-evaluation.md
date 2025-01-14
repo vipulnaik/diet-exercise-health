@@ -135,6 +135,10 @@ c) Subjectively identifying what volume in the left ear seemed as loud
     normal headphones, where I could hear the words very clearly when
     the volume was high enough.
 
+  These results paint a picture of comparison between the ears that is
+  broadly similar to the picture painted by the single-frequency
+  hearing test.
+
 I also attempted earwax removal on December 30, 2024. I used Earwax MD
 from Eosera, which has sodium bicarbonate as its active
 ingredient. Based on online information, I gathered that sodium
