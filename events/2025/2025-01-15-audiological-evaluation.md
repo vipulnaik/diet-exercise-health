@@ -52,9 +52,9 @@ as documented below.
 
 a) Online single-frequency hearing test at
    https://www.resound.com/en-us/online-hearing-test using both normal
-   headphones and bone conduction, with the tests conducted every few
-   days and at different times of the day and night; the results are
-   fairly consistent across different iterations:
+   headphones and bone conduction headphones, with the tests conducted
+   every few days and at different times of the day and night; the
+   results are fairly consistent across different iterations:
 
   * 500 Hz: Both ears are very similar to each other, on both normal
     headphones and bone conduction headphones (score of about 6 out of
