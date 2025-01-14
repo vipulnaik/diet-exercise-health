@@ -203,9 +203,10 @@ examination by an ENT specialist, with supporting evidence from a
 pathology report. The surgery included both myringotomy (to drain
 excess fluid from my middle ear) and adenoidectomy (to remove my
 adenoids, that were causing the problem). Prior to the surgery, my
-audiogram showed a hearing loss of about 40-45 dB and a flat impedance
-curve (not much variation across frequencies). Audiograms done after
-my surgery indicated that my hearing had returned to normal.
+audiogram showed a hearing loss of about 40-45 dB in both ears and a
+flat impedance curve (not much variation across
+frequencies). Audiograms done after my surgery indicated that my
+hearing had returned to normal.
 
 I was able to get scans of records of the X-ray, pathology report, and
 prescriptions for pre-surgery care, post-surgery care, and followup
