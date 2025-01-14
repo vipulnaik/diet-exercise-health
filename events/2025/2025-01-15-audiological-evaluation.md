@@ -92,7 +92,7 @@ b) Playing YouTube tracks such as
     1 out of 64 (right ear).
 
   * Using bone conduction headphones, I can just about make out the
-    words of the song with a volume f 1 out of 64 on both ears.
+    words of the song with a volume of 1 out of 64 on both ears.
 
   These results paint a picture of comparison between the ears that is
   broadly similar to the picture painted by the single-frequency
