@@ -619,3 +619,12 @@ was near-perfect volume equivalence, as judged in these ways:
 
 Overall, based on these findings, I conclude that the issue of reduced
 hearing in my left ear has been addressed.
+
+## Next steps
+
+Going forward, I have included hearing tests as once-every-two-months
+tests, along with vision tests and dental photos. This should allow me
+to monitor for hearing loss in either ear and take followup action. My
+plan is to do earwax removal every 1-3 years by default, but sooner if
+I experience a decline in hearing or a subjective sense of fullness in
+either ear (of the sort that happened this time).
