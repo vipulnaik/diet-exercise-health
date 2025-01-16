@@ -225,9 +225,9 @@ fees. They said the standard hearing test is $250, but the cost will
 depend on the exact procedure, and the audiologist will tell me what
 the exact cost is expected to be.
 
-As I was wearing a mask, the lady doing the check-in asked if I wanted
-the audiologist to also wear a mask. I said that wouldn't be
-necessary.
+As I was wearing a mask, the patient care coordinator doing the
+check-in asked if I wanted the audiologist to also wear a mask. I said
+that wouldn't be necessary.
 
 At 3:28 PM, I was done with the check-in and sat down in the waiting area.
 
@@ -380,16 +380,16 @@ said I'll do at-home testing later in the evening.
 ### Chart copy
 
 I asked if I could get a record of the procedure. He said he'll have
-the chart emailed to me once he has finished it. He also told the lady
-at reception to make a note of this.
+the chart emailed to me once he has finished it. He also told the
+patient care coordinator to make a note of this.
 
 ## Checkout process
 
 After being done with the appointment, I went to the reception and
-paid the $150. The lady at the reception asked me if I want my receipt
-printed or emailed. I asked for it to be emailed. I later found the
-receipt in my email (or more specifically, a link in my email taking
-me to the receipt). I downloaded the receipt.
+paid the $150. The patient care coordinator asked me if I want my
+receipt printed or emailed. I asked for it to be emailed. I later
+found the receipt in my email (or more specifically, a link in my
+email taking me to the receipt). I downloaded the receipt.
 
 ## Journey back home and return home
 
