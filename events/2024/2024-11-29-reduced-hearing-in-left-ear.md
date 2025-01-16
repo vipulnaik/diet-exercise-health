@@ -530,3 +530,92 @@ This suggests the following:
   the left and right ears, and clearing this out will allow the outer
   ear to play its modulating function better while still allowing me
   to hear at low volumes?
+
+## Updates to intake form answers on 2025-01-13
+
+On 2025-01-13, I updated the answers to my intake form for the
+audiological evaluation appointment on 2025-01-15. This allowed me to
+get a sharper, crisper sense of what I was looking for in the
+appointment. You can see the updated answers
+[here](../2025/2025-01-15-audiological-evaluation.md#call-on-2025-01-13-and-update-to-intake-form-answers).
+
+## Conclusion on 2025-01-15
+
+On 2025-01-15, as part of what was going to my [audiological
+evaluation
+appointment](../2025/2025-01-15-audiological-evaluation.md), the
+audiologist and I decided to just do earwax removal, with the plan
+being for me to do at-home testing and book a followup appointment for
+a hearing test if I continued to have issues.
+
+On the way back, and after getting back home, I had a subjective
+perception that noises were louder than before. This subjective
+perception grew over the first hour or so after I left the office,
+which was likely an effect of my ears gradually drying out. However, I
+deferred formal testing until after I finished dinner, to make sure
+that my ears were completely dry.
+
+Starting 7:50 PM, I first did the [Resound online hearing
+test](https://www.resound.com/en-us/online-hearing-test) and recorded
+the results in the [SQL
+file](../../sql/frequency_hearing_test_results.sql). Overall, it seems
+that hearing in the left ear got a lot better, with improvement for
+both air and bone, and perhaps slightly more improvement on air than
+bone. Interestingly, there appears to have been no clear improvement
+on the right ear, with slight worsening for some frequencies and
+slight improvement for others.
+
+As far as comparison between the ears goes, with the new status quo,
+for air conduction, the left ear seems a bit better with the lower
+frequencies (particularly 500 Hz) and the right ear seems a bit better
+with the higher frequencies (such as 2000 Hz and 4000 Hz). For bone
+conduction, there is very little difference between the ears at any of
+the measured frequencies.
+
+This suggests that the earwax removal had an overall effect of
+improving the left ear and very little effect on the right ear, but
+that the ears have slightly different strength profiles in frequencies
+for air conduction but not bone conduction.
+
+I then proceeded to check real-world music videos such as [Love Me
+Like You Do](https://www.youtube.com/watch?v=eVVaqFDG6Fo),
+[Stitches](https://www.youtube.com/watch?v=VbfpW0pbvaU), [See You
+Again](https://www.youtube.com/watch?v=RgKAFK5djSk), and [Ae Dil Hai
+Mushkil (cover)](https://www.youtube.com/watch?v=7OLyMcLVlGs). Here
+are my observations:
+
+* With air conduction (normal headphones), the minimum volume at which I could make out
+  the words was 1/64 for each ear. There was no clear difference in
+  the level of clarity in the two ears. At 4/64, I could comfortably
+  make out the words in either ear.
+
+  This is similar to before for the right ear, but is a clear
+  improvement for the left ear, where the corresponding previous
+  volume was 6 to 8 out of 64.
+
+* With bone conduction (bone conduction headphones), the minimum
+  volume at which I could make out the words was 1/64 for each
+  ear. There was no clear difference in the level of clarity in the
+  two ears.
+
+  The volume level is the same as before for both ears. One difference
+  from before is that there was no longer any muffled sense in the
+  left ear.
+
+I also checked for perceived loudness using both air conduction and
+bone conduction. For both air conduction and bone conduction, there
+was near-perfect volume equivalence, as judged in these ways:
+
+* Moving the balance from left to right and back led to no perceived
+  change in loudness. I tried this at different volumes and for
+  different sound tracks, with both air conduction and bone
+  conduction. There was a very slight change in the overall timber,
+  which might be due to differences in the frequency profile of the
+  ears, but it wasn't really noticeable unless I paid very close
+  attention.
+
+* When the headphones were balanced, the sound felt like it was mostly
+  in the center of my head rather than skewed to the left or right.
+
+Overall, based on these findings, I conclude that the issue of reduced
+hearing in my left ear has been addressed.

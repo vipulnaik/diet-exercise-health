@@ -4,6 +4,9 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
+Last minor update: January 15, 2025 (to ongoing incidents and ears and
+hearing status sections)
+
 This is the health profile for Vipul Naik, an adult male in his late
 30s (born 1986). It is updated periodically. It does not include
 details of specific events/incidents; these are generally recorded in
@@ -65,18 +68,17 @@ Sections of this document:
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated November 29, 2024. I hope to update this section whenever
+last updated January 15, 2025. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
 significantly. I remove from here incidents that I consider closed; I
 may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affecting my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of November 29, 2024, the only ongoing incident is [2024-11-29
-reduced hearing in left
-ear](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md). You
-can see the list of incidents for 2024 in the [events/2024
-folder](../events/2024).
+As of January 15, 2025, I have no open incidents. You can see the list
+of incidents for 2024 in the [events/2024 folder](../events/2024), and
+the (currently empty) list of incidents for 2025 in the [events/2025
+folder](../events/2025).
 
 ## Vital signs
 
@@ -286,20 +288,20 @@ once it is done.
 
 ## Ears and hearing status
 
-Based on self-assessment, I have issues hearing with my left ear, with
-a hearing loss of around 15-19 dB based on crude measurements. This
-hearing loss seems to have had a sudden onset on 2024-11-29 when I
-woke up, though I did not quantify the loss at the time. The hearing
-in my right ear seems fine.
+I experienced reduced hearing in my left ear starting
+2024-11-29. After a bunch of at-home testing, I booked an audiological
+evaluation appointment for 2025-01-15. At the appointment, we decided
+to just do earwax removal instead of a hearing test, with the plan
+being for me to do a followup at-home hearing test and book an
+appointment for a hearing test + further evaluation if I continued to
+have issues. The at-home testing I did after the appointment suggested
+that the reduced hearing in my left ear had been resolved.
 
-I am planning to get an audiological evaluation to figure out the root
-cause and get it fixed if it's easy enough. See
-[here](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md) for
-more information.
+Related documents:
 
-I also had an ear infection as a child that caused me to lose hearing
-quite a bit. Fortunately, it was caught quickly enough and I was
-operated on and able to recover my hearing.
+* [2024-11-29: reduced hearing in left ear](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md)
+* [2024-12-23: Berkeley Hearing Center call](../events/2024/2024-12-23-berkeley-hearing-center-call.md)
+* [2025-01-15: audiological evaluation](../events/2025/2025-01-15-audiological-evaluation.md)
 
 ## Skin
 
