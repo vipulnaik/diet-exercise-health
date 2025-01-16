@@ -90,4 +90,21 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, co
   ('2025-01-06',1,'bone','right',500,6,NULL),
   ('2025-01-06',1,'bone','right',1000,8,NULL),
   ('2025-01-06',1,'bone','right',2000,6,NULL),
-  ('2025-01-06',1,'bone','right',4000,6,NULL);
+  ('2025-01-06',1,'bone','right',4000,6,NULL),
+  /* 2025-01-15 7:50 PM test -- both air and bone */
+  ('2025-01-15',1,'air','left',500,4,'very faint at 4, slightly clearer at 5'),
+  ('2025-01-15',1,'air','left',1000,6,'very faint at 6, clear at 7'),
+  ('2025-01-15',1,'air','left',2000,4,'reasonably clear at 4, can''t be sure if I am imagining it at 3'),
+  ('2025-01-15',1,'air','left',4000,4,'faint but clear at 4'),
+  ('2025-01-15',1,'air','right',500,8,'very clear at 8, not sure I can hear it at 7'),
+  ('2025-01-15',1,'air','right',1000,7,'faint but clear at 7, very clear at 8'),
+  ('2025-01-15',1,'air','right',2000,2,'very faint at 2, reasonably clear at 3'),
+  ('2025-01-15',1,'air','right',4000,1,'faint but clear at 1'),
+  ('2025-01-15',1,'bone','left',500,5,'clear at 5, cannot hear at all at 4'),
+  ('2025-01-15',1,'bone','left',1000,7,'clear at 7, cannot hear at all at 6'),
+  ('2025-01-15',1,'bone','left',2000,6,'faint but audible at 6, cannot hear at all at 5'),
+  ('2025-01-15',1,'bone','left',4000,7,'faint but audible at 7, cannot hear at all at 6'),
+  ('2025-01-15',1,'bone','right',500,5,'off-and-on audible at 5, continuously audible at 6, cannot hear at all at 4'),
+  ('2025-01-15',1,'bone','right',1000,7,'faint but clear at 7, very clear at 8'),
+  ('2025-01-15',1,'bone','right',2000,7,'faint but clear at 7, very clear at 8'),
+  ('2025-01-15',1,'bone','right',4000,6,'faint but audible at 6, faint but clear at 7');
