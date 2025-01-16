@@ -12,7 +12,7 @@ raises the stakes so as to get more bang per second of exercise.
 When I started standing-on-toes-with-eyes-closed on 2024-09-09, I set
 a threshold of 15 seconds. Even this threshold, I was not able to
 consistently clear on the first try, leading to me doing 3 or 5 tries
-on many days. As of 2024-10-14 the threshold is 18 seconds.
+on many days. As of 2025-01-16 the threshold is 27 seconds.
 
 I don't have standard benchmarks for this, but my guess is that if I
 can consistently do 30 seconds or more, I would start hitting
@@ -58,3 +58,5 @@ On 2024-10-14, I increased the threshold to 18 seconds.
 On 2024-11-05, I increased the threshold to 21 seconds.
 
 On 2024-11-17, I increased the threshold to 24 seconds.
+
+On 2025-01-16, I increased the threshold to 27 seconds.
