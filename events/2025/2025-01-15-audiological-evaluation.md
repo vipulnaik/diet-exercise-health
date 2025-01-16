@@ -1,7 +1,9 @@
 # 2025-01-15: audiological evaluation
 
 This document is for an audiological evaluation scheduled with
-Berkeley Hearing Center for Wednesday 2025-01-15 at 3:45 PM.
+Berkeley Hearing Center for Wednesday 2025-01-15 at 3:45
+PM. Eventually, this transformed into an earwax removal (cerumen
+removal) appointment.
 
 The corresponding best practices doc is
 [here](../../best-practices/best-practices-around-audiological-evaluation-appointments.md).
@@ -212,3 +214,197 @@ I was able to get scans of records of the X-ray, pathology report, and
 prescriptions for pre-surgery care, post-surgery care, and followup
 care. I've assembled these into a PDF that I am attaching.
 
+## Appointment
+
+### Arrival at location
+
+I arrived at the appointment location (Berkeley Hearing Center, 2748
+San Pablo Avenue) at around 3:27 PM. I checked in with the front
+desk. They checked me in to the appointment. I asked about the
+fees. They said the standard hearing test is $250, but the cost will
+depend on the exact procedure, and the audiologist will tell me what
+the exact cost is expected to be.
+
+As I was wearing a mask, the lady doing the check-in asked if I wanted
+the audiologist to also wear a mask. I said that wouldn't be
+necessary.
+
+At 3:28 PM, I was done with the check-in and sat down in the waiting area.
+
+### Beginning of discussion with audiologist and decision to focus on earwax removal
+
+Before beginning, the audiologist asked me if I wanted him to wear a
+mask. I said no need.
+
+I was initially called into the hearing test room. The audiologist
+said he had gone through my intake form answers. He mentioned that he
+had noticed that I had done a lot of at-home hearing tests. I gave him
+the requested TL;DR. He then brought out the otoscope to examine my
+ear.
+
+After taking a look, he said that there's a lot of earwax. He said
+that a single appointment can either do earwax removal or a hearing
+test. The earwax removal would be $150 and the hearing test would be
+$250. His sense was that earwax removal would likely address my
+hearing issues.
+
+Based on the information, I decided to do the earwax removal (from the
+outer ear) in this appointment, then go home and do at-home hearing
+tests, and then if I continued to have issues based on at-home hearing
+test, to book an appointment for a hearing test.
+
+I asked him a few followup questions prior to the start of earwax
+removal.
+
+Question: Did he see any asymmetry between the ears in earwax?
+
+Answer (with some paraphrasing by me): He didn't see any obvious
+discrepancy. Both ears had a lot of earwax. However, there could be
+differences in terms of the exact location and pattern of the earwax
+that could be causing differential effect on my hearing in the two
+ears. The easiest way to find out would be to do the earwax removal
+and see how it affects the hearing in the two ears.
+
+Question: If the issue is purely earwax-related, could it cause issues
+with hearing when using bone conduction headphones?
+
+Answer (with some paraphrasing by me): While the effect of earwax on
+bone conduction headphones is less than on normal headphones, there is
+still some effect. So hearing even with bone conduction headphones is
+expected to improve after earwax removal.
+
+Question: Did he check for issues with fluid buildup in the middle ear?
+
+Answer (with some paraphrasing by me): Testing of that sort would have
+to be done in a followup hearing test appointment. It couldn't be done
+right now because earwax was blocking the eardrum (that would need to
+be tapped/probed to get evidence of fluid buildup in the middle ear).
+
+### Preliminaries for earwax removal
+
+Before starting earwax removal, the audiologist asked me to sign a
+document giving my consent. In the document, I checked the box for
+whether I had had ear surgery, and wrote in details (myringotomy for
+bilateral maxillarly sinusitis) at his request.
+
+He warned me that the process of earwax removal may be painful or
+uncomfortable. He said there are three nerves around the ear:
+
+* Cranial nerve VII (7), the facial nerve
+
+* Cranial nerve VIII (8), the auditory nerve
+
+* Cranial nerve X (10), the vague nerve, that controls cough and
+  sneeze reflexes
+
+In particular, he said that I might have an impulse to cough or
+sneeze. I asked for confirmation that I could ask him to stop if I
+felt pain. He said yes.
+
+### Process of earwax removal
+
+After taking an initial look, he said that irrigation would be
+necessary to loosen the earwax enough to remove it. He brought a basin
+to drain the liquid, that I had to hold under the ear while he blew
+the water in and then drained the earwax.
+
+He started with the right ear. The process for the right ear ended
+with a large blob of earwax that he said was stuck against the eardrum.
+
+He then proceeded to the left ear. The process here seemed to take
+less time, but also caused me a bit more sudden shuddering. Not
+painful overall though.
+
+### Discussion regarding earwax removal
+
+This discussion was spread between early on (prior to earwax removal)
+and during and after earwax removal.
+
+I mentioned that I had used sodium bicarbonate ear drops once in my
+left ear, about a month after I started having hearing issues, and
+that I felt no difference to my hearing between the before and
+after. We discussed the use of ear drops in general.
+
+His professional opinion was that while ear drops could work in some
+cases, the key was to make sure to blow enough water for long enough
+for the earwax to come out. Otherwise, while ear drops do soften the
+earwax, it may end up just falling further in into the eardrum.
+
+He recommended getting a professional ear cleaning periodically. The
+standard recommendation was once a year, or once every 6 months if
+being really proactive. Ear drops would be more hit and miss so he
+didn't recommend them.
+
+I asked him what the consequences were of letting the earwax build up
+without getting it cleaned. He mentioned that one risk was that if
+there was too much earwax buildup, then the removal process could be
+more painful and lead to bleeding and discomfort. However, the
+accumulation of earwax did not directly lead to permanent or
+irreversible hearing loss -- removing the earwax should reverse any
+hearing loss due to earwax.
+
+I also asked what the factors were that drove earwax buildup. He said
+it was mostly a mix of genetics and random factors, but some things
+like using Q-tips or applying ear drops without adequate irrigation to
+actually clear out the wax, could make things worse.
+
+We also talked about the body's natural ability to clear out earwax,
+since the ears still have the scales (not found elsewhere in the human
+body) to transport the wax outward. Q-tips and ear drops without
+adequate irrigation could reverse some of that motion, so he advised
+against Q-tips and said ear drops were hit-and-miss.
+
+Regarding the sodium bicarbonate, he said that that tended to create a
+fizz and loosen the earwax but it often then went back down inside. It
+wasn't totally clear if that had happened in my case (since I think he
+was initially not clear that the ear drop use by me was only in the
+left ear, so he may have attributed the earwax stuck to the eardrum in
+the right ear to ear drop use).
+
+### Post-removal subjective evaluation
+
+As a formal hearing test was outside the scope of this appointment, he
+asked me to informally assess how the earwax removal felt. He
+mentioned that it may take a few hours for my ears to dry completely,
+and for me to fully get the hearing benefits of the earwax removal. It
+was also difficult for me to assess since my hearing loss wasn't
+severe enough to make out except when using headphones, particularly
+at low-volume settings.
+
+He did try to speed up the drying process by blowing in my ear with
+the ear syringe. It did help, but didn't fully dry my ears.
+
+He asked me if I had gotten my headphones, and I said I hadn't. So I
+said I'll do at-home testing later in the evening.
+
+### Chart copy
+
+I asked if I could get a record of the procedure. He said he'll have
+the chart emailed to me once he has finished it. He also told the lady
+at reception to make a note of this.
+
+## Checkout process
+
+After being done with the appointment, I went to the reception and
+paid the $150. The lady at the reception asked me if I want my receipt
+printed or emailed. I asked for it to be emailed. I later found the
+receipt in my email (or more specifically, a link in my email taking
+me to the receipt). I downloaded the receipt.
+
+## Journey back home and return home
+
+As I was walking back home (with a stop at Berkeley Bowl) I noticed
+gradually an increase in the perceived loudness of sounds. The effect
+continued for the first 30-45 minutes. Some of the things I noticed
+were that traffic seemed louder than usual, door closing was louder
+than usual, and toilet flush and water running seemed louder than
+usual.
+
+I deferred formal at-home testing until after dinner. I later did this
+testing, as recorded
+[here](../2024/2024-11-29-reduced-hearing-in-left-ear.md#conclusion-on-2025-01-15). The
+conclusion of the testing was that hearing in my left ear seemed to
+have improved a lot, but there wasn't clear improvement in the right
+ear. Overall, hearing in both ears was now at an acceptable level,
+leading me to consider the "reduced hearing in left ear" incident
+closed.
