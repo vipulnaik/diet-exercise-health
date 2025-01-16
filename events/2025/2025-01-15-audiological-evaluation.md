@@ -405,6 +405,11 @@ testing, as recorded
 [here](../2024/2024-11-29-reduced-hearing-in-left-ear.md#conclusion-on-2025-01-15). The
 conclusion of the testing was that hearing in my left ear seemed to
 have improved a lot, but there wasn't clear improvement in the right
-ear. Overall, hearing in both ears was now at an acceptable level,
+ear. The ears do seem to have different strengths in terms of
+frequencies. Interestingly, both air conduction and bone conduction
+tell similar stories now in terms of the relative strengths of the
+ears.
+
+Overall, hearing in both ears was now at an acceptable level,
 leading me to consider the "reduced hearing in left ear" incident
 closed.
