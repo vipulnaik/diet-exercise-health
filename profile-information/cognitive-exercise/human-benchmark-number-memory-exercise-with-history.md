@@ -49,3 +49,9 @@ when I have at least 10 minutes to spare.
 
 * 2024-11-17: 15.0 points moving average, placing me at the 97.7th
   percentile. My score ranges between 14 and 17.
+
+* 2025-01-16: 16.0 points moving average, placing me at the 98.46th
+  percentile. My score ranges between 14 and 17; compared to the last
+  time I recorded this, I have stayed within the same overall range,
+  but my distribution is more at the high end of the range; I also got
+  one score of 18.

@@ -53,7 +53,11 @@ My goal is to play about 1-3 times a week.
   percentile. My scores are generally in the 95-110 wpm range with
   occasional dips down to the 80s.
 
-* 2024-11-20: 94 wpm moving average, pacing me at the 94.1th
+* 2024-11-20: 94 wpm moving average, placing me at the 94.1th
   percentile. Recent scores have been a little lower, which might be
   due to the colder conditions making it a little harder to type fast
   and accurately.
+
+* 2025-01-16: 97 wpm moving average, placing me at the 94.12the
+  percentile. Not much has changed qualitatively since the last update
+  on 2024-11-20.

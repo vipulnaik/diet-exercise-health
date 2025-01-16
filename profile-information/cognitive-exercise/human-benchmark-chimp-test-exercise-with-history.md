@@ -110,3 +110,7 @@ transform the stored sequence to account for the disappearances.
   17. The 17 was actually a "throw" as I was getting tired and had
   lost 2 out of 3 lives already, but I likely would not have
   progressed much (maybe 1 more level).
+
+* 2025-01-16: 16.6 points moving average, placing me at the 97.47th
+  percentile. Not much has changed qualitatively since the last
+  update on 2024-11-17.

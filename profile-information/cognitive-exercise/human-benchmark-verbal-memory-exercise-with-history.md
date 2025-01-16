@@ -72,3 +72,7 @@ in the day, for instance, in the evening, after my
   percentile. Not much has changed qualitatively since 2024-10-15. The
   variation in my scores, on both the upper and lower end, may have
   reduced somewhat.
+
+* 2025-01-16: 154.6 points moving average, placing me at the 98.34th
+  percentile. Not much has changed qualitatively since the last
+  update on 2024-11-20.
