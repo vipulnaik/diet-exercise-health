@@ -78,3 +78,9 @@ because I didn't want to risk doing these harder exercises.
 
 For push-ups, I stopped at around 7 or 8 instead of going to the usual
 13 or higher. This reflected soreness and fatigue.
+
+## 2025-01-16: at-home jogging due to scheduling issues
+
+On 2025-01-16, despite good weather, I did at-home jogging due to
+scheduling issues (I didn't have enough time to go out to jog before a
+work meeting).
