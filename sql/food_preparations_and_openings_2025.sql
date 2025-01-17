@@ -81,5 +81,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-14','Kite Hill Greek Style Plant-Based Yogurt',1,2),
   ('2025-01-15','TJ Almond Milk',1,1),
   ('2025-01-15','TJ Miso Ginger Broth',1,1),
-  ('2025-01-15','California Walnuts',1,1); /* chopped ones; the old ones hadn't finished yet, but I wanted to avoid walnut dust to reduce the risk of tongue tip itchiness during my audiological evaluation */
+  ('2025-01-15','California Walnuts',1,1), /* chopped ones; the old ones hadn't finished yet, but I wanted to avoid walnut dust to reduce the risk of tongue tip itchiness during my audiological evaluation */
+  ('2025-01-16','TJ Carb Savvy Tortillas',1,2),
+  ('2025-01-16','TJ Roasted Seaweed',1,2),
+  ('2025-01-16','Kite Hill Greek Style Plant-Based Yogurt',1,2);
   /* Double-check the date before committing */
