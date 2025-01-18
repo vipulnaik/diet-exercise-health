@@ -1,6 +1,6 @@
 # Things to investigate
 
-List last updated: 2025-01-04
+List last updated: 2025-01-18
 
 Time on these things would be in a mix of personal chores and other
 activities buckets. The other activities bucket would be used for
@@ -102,7 +102,7 @@ relative low on other one-off tasks in the health space, I'll pick one
 doc from this list and spend 1-2 hours on it, likely on a Wednesday or
 Friday
 
-* [Stress and depression](best-practices-around-stress-and-depression.md)
+* [Stress and depression](../best-practices/best-practices-around-stress-and-depression.md)
 
 * Eye irritation
 
@@ -111,6 +111,12 @@ Friday
 * Cold and flu
 
 * Eye exam (preparatory steps)
+
+* Falling asleep, relaxing under adverse conditions, non-sleep deep
+  rest (this is different from [best practices around
+  sleep](../best-practices/best-practices-around-sleep.md) that are
+  focused more on the timing of going to bed and waking up, rather
+  than the psychology of actually falling asleep.
 
 ## Documents to write and augment with my improved understanding
 
