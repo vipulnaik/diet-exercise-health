@@ -11,6 +11,10 @@ about 15 minutes (estimted approximately by me; I didn't check the
 time) and then got back to a normal level of sensation, where it
 wasn't attracting my conscious attention.
 
+I removed the waterproof flex bandage at around 1:30 AM (so about 18
+hours later) toward the end of my shower/bath. There was a bit of red
+swelling still present, but no active bleeding.
+
 ## Learnings
 
 This incident comes on the heels (no pun intended) of a similar
