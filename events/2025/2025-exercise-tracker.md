@@ -85,8 +85,8 @@ On 2025-01-16, despite good weather, I did at-home jogging due to
 scheduling issues (I didn't have enough time to go out to jog before a
 work meeting).
 
-## 2025-01-17 and 2025-01-18: at-home jogging due to cold weather plus overall time constraints
+## 2025-01-17 to 2025-01-19: at-home jogging due to cold weather plus overall time constraints
 
-On 2025-01-17 and 2025-01-18, I did at-home jogging, due to a mix of
+From 2025-01-17 to 2025-01-19, I did at-home jogging, due to a mix of
 cold weather and overall time constraints (no imminent scheduling
 issues).
