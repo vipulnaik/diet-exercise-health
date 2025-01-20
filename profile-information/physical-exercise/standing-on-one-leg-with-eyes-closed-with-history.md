@@ -308,7 +308,7 @@ super-severe.
 I might also discretionarily do the
 standing-on-one-leg-with-eyes-closed at other times of the day.
 
-#### Settings 2024-11-30 onward
+#### Settings 2024-11-30 to 2025-01-19
 
 From 2024-11-30 onward, in order to save time, particularly in the
 morning when time may be more scarce, I am making the following
@@ -337,6 +337,18 @@ maintaining (in fact I may be able to build even doing it once a day,
 so further reduction in the future may also happen).
 
 The other notes about the exercise remain unchanged.
+
+### Settings 2025-01-20 onward
+
+In light of good and improving performance on the exercise, I am
+reducing the frequency to do it (before jogging) to the days that I am
+not doing either of the strength exercise sets (i.e., either weight
+lifting + push-ups or dead hang + pull-ups). This will make the
+frequency about one every three days. The goal of this change is to
+reduce my total exercise time, particularly on the days where it's
+longer, and as a side-effect also make it more equal across days. If I
+find deterioration from this reduced frequency, I might increase the
+frequency to two out of three days.
 
 ## Standing on one leg with eyes open: standard version
 

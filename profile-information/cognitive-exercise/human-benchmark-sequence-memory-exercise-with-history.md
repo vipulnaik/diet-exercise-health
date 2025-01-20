@@ -46,14 +46,18 @@ play further, but taking frequency below once a week makes it harder
 to maintain. So, in practice, aiming for over 30 (while still going as
 far as I can in each play) is my current strategy.
 
-## Current protocol and status as of 2024-11-10
+## Current protocol and status as of 2025-01-19
 
-My goal is to play the exercise for about one sitting every two weeks,
+My goal is to play the exercise for about one sitting every four weeks,
 with 1-2 plays per sitting. I should start the exercise when I have at
-least 25 minutes to spare. From 2024-10-17 to 2024-11-10, the protocol
-was to do 1-2 plays weekly, but given the time expenditure, and the
-fact that I generally do consistently well, I think a frequency of
-once every two weeks is sufficient to maintain the skill.
+least 25 minutes to spare.
+
+From 2024-10-17 to 2024-11-10, the protocol was to do 1-2 plays
+weekly, but given the time expenditure, and the fact that I generally
+do consistently well, I reduced the frequency to once every two weeks
+on 2024-11-10. I reduced the frequency further to once every four
+weeks on 2025-01-19, in light of continued good performance (and in
+fact somewhat improving performance).
 
 What times should I choose? Generally, a weekend day when I am *not*
 doing strength exercises (as that generally means I am spending less
