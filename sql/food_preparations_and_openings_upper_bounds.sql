@@ -15,5 +15,5 @@ insert into food_preparations_and_openings_upper_bounds(food_type, num_days, qua
   ('TJ Miso Ginger Broth',4,1),
   ('TJ Sauerkraut',6,1),
   ('California Walnuts',4,1),
-  ('Kite Hill Greek Style Plant-Based Yogurt',10,4),
+  ('Kite Hill Greek Style Plant-Based Yogurt',10,5),
   ('Udupi Palace spinach masala dosa',7,2);
