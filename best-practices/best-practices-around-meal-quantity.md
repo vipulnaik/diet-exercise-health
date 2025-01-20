@@ -14,7 +14,7 @@ in a day. Some of the risks of large meals are:
 
 * Larger stools, which increases the risk of having to have multiple
   stools in a day and also increases the risk of anal swelling and
-  other discomfort due to pressureq
+  other discomfort due to pressure
 
 These are generally the factors that give in first, so whereas there
 are other risks in principle (like obesity) the feedback mechanisms
