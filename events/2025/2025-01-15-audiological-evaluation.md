@@ -413,3 +413,12 @@ ears.
 Overall, hearing in both ears was now at an acceptable level,
 leading me to consider the "reduced hearing in left ear" incident
 closed.
+
+## Coda regarding subjective loudness
+
+The subjective perception of loudness that I experienced in the
+evening after the earwax removal (such as from traffic, when flushing,
+or when running water) gradually went away by the weekend of
+2025-01-18 and 2025-01-19. I did verify that my hearing in the left
+ear at low volumes remained intact, so it looks like the corection to
+subjective perception likely happened at a neurological level.

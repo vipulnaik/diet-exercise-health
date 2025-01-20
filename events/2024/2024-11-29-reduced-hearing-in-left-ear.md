@@ -620,6 +620,15 @@ was near-perfect volume equivalence, as judged in these ways:
 Overall, based on these findings, I conclude that the issue of reduced
 hearing in my left ear has been addressed.
 
+## Coda regarding subjective loudness
+
+The subjective perception of loudness that I experienced in the
+evening after the earwax removal (such as from traffic, when flushing,
+or when running water) gradually went away by the weekend of
+2025-01-18 and 2025-01-19. I did verify that my hearing in the left
+ear at low volumes remained intact, so it looks like the corection to
+subjective perception likely happened at a neurological level.
+
 ## Next steps
 
 Going forward, I have included hearing tests as once-every-two-months
