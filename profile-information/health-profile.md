@@ -40,7 +40,8 @@ Sections of this document:
   * [Atherosclerotic risk](#atherosclerotic-risk)
   * [Metabolic syndrome evaluation](#metabolic-syndrome-evaluation)
   * Markers of internal inflammation (section to be written; this has a lot of overlap with the atherosclerotic risk section insofar as many markers of internal inflammation are also contributors to atherosclerotic risk)
-* Upcoming section to be written around internal organs, will cover
+  * [Hormones](#hormones)
+* Upcoming sections to be written around internal organs, will cover
   what I can gather from measurements taken in my blood tests as well
   as other biomarkers covered in the preceding section to paint a
   picture both of the current health and of the trajectory of my liver
@@ -719,6 +720,74 @@ the conditions for metabolic syndrome:
 
 * Waist size: At 28 inches, my waist size is well below the thresholf
   of 40 inches.
+
+## Hormones
+
+NOTE: Insulin is covered along with glycemic control in the [insulin
+sensitivity and glycemic
+control](#insulin-sensitivity-and-glycemic-control) section.
+
+### Thyroid (T3, T4, TSH)
+
+You can get full details
+[here](https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql)
+of all test results for me so far of tests discussed in this section.
+
+Here's a quicker primer:
+
+* The pituitary gland produces a hormone called thyroid-stimulating
+  hormone (TSH); higher levels of TSH encourage the production of
+  thyroid hormone (see next point).
+
+* The thyroid gland produces the thyroid hormone in the form of T4
+  (thyroxine).
+
+* T4 can be converted to T3 (the difference being that T4 contains
+  four iodines and T3 contains three iodines). The enzyme that
+  facilitates this conversion is a deiodinase.
+
+* T3 is carried in the bloodstream by thyroxine-binding globulin (TBG).
+
+* In order to enter cells (where it can have its desired effects), T3
+  needs to dissociate from TBG and then enter the cell by attaching to
+  a membrane transport protein.
+
+Here is a simple 2 X 2 of hypothyroidism and hyperthyroidism:
+
+            |          High TSH         |        Low TSH
+  --        |            --             |           --
+High T3, T4 | secondary hyperthyroidism | primary hyperthyroidism
+Low T3, T4  | primary hypothyroidism    | secondary hypothyroidism
+
+The "poor man's" thyroid test is just to test for TSH, and if it comes
+out high or low, then to test T4 to figure out the case. If TSH is
+normal, then most likely thyroid function is normal.
+
+It's a little more expensive, but still worth it, to do a basic
+thyroid panel that includes TSH, T4, and a couple of other metrics
+(free thyroxine index and T3 uptake).
+
+This basic thyroid panel **does not measure** the level of free T3
+directly, which is a bit harder to get a hold of. There is a more
+expensive test using LC/MS to measure free T3.
+
+T3 uptake level (one of the pieces of the thyroid panel) measures the
+percentage of binding sites on TBG that are saturated with
+T3. However, this is a percentage, rather than a measure of how much
+T3 is bound. As a percentage, it is affected by both the level of T3
+and the level of TBG. An excess of TBG can result in a low T3 uptake
+level, but there may still be enough T3. To get clarity, a TBG level
+should also be measured along with the thyroid panel. See
+[here](https://www.rupahealth.com/biomarkers/t3-uptake) for an
+overview.
+
+So far, I've gotten one basic thyroid panel in December 2024 and one
+earlier reading of just TSH (November 2017). My TSH reading has been
+normal both times. My T4 and free thyroxine index were normal the one
+time I measured them. For T3 uptake, the one reading I have from
+December 2024 is just slightly below range, which could be due to low
+T3 or high TBG. I plan to add in TBG with my next thyroid panel so
+that I have more clarity on this aspect.
 
 ## Lifestyle
 
