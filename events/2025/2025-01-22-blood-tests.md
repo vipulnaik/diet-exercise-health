@@ -9,7 +9,7 @@ steps.
 
 On 2025-01-15, in the evening, I received an email from LabCorp
 notifying me that the 3000 Colby St location was closed until
-mid-February. y plan is to go to the 3100 San Pablo Ave
+mid-February. My plan is to go to the 3100 San Pablo Ave
 location. Unfortunately, it's too late to book an appointment with the
 location, so my plan is to try a walk-in, because an appointment for a
 later date won't work with my schedule. If I am unable to get a blood
