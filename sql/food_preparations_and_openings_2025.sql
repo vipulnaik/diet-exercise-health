@@ -107,5 +107,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-19','Red bell pepper',2,2),
   ('2025-01-19','Beefsteak tomato',6,2),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-01-19','TJ Miso Ginger Broth',1,2);
+  ('2025-01-19','TJ Miso Ginger Broth',1,2),
+  ('2025-01-19','TJ Carb Savvy Tortillas',1,2), /* this is backfilled and may be inaccurate */
+  /* 2025-01-20 potatoes prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt; no garlic-flavored olive oil) */
+  ('2025-01-20','Gold potatoes 5 lb',0.5,2),
+  ('2025-01-20','TJ Kale',1,2),
+  ('2025-01-20','TJ English Shelled Peas',2,2),
+  ('2025-01-20','Beefsteak tomato',5,2),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-01-20','Kite Hill Greek Style Plant-Based Yogurt',1,2),
+  ('2025-01-20','TJ Carb Savvy Tortillas',1,2);
   /* Double-check the date before committing */
