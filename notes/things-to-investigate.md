@@ -1,6 +1,6 @@
 # Things to investigate
 
-List last updated: 2025-01-18
+List last updated: 2025-01-20
 
 Time on these things would be in a mix of personal chores and other
 activities buckets. The other activities bucket would be used for
