@@ -16,3 +16,19 @@ later date won't work with my schedule. If I am unable to get a blood
 draw at the location on that date, I will likely book an appointment
 some time later (likely mid-March or so) at the 3000 Colby St
 location, which will likely be open by that time.
+
+## Preparatory steps
+
+### 2025-01-20 (two days prior): pause of all supplements
+
+Starting Monday 2025-01-20, I paused all supplements.
+
+### 2025-01-20 evening: weather check
+
+I'd been monitoring the weather forecast over the past few days and
+knew that rain on the day of the blood tests was unlikely. I did an
+official check on 2025-01-20 around 5:30 PM, by which time we were
+within the 48-hour window where weather forecasts are reasonably
+accurate. The probability of rain over the time period was shown as 0%
+and the forecasted temperature was not too low (56 degrees Fahrenheit
+at 11 AM).
