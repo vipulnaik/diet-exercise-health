@@ -35,7 +35,7 @@ at 11 AM).
 
 ### 2025-01-21: skipping of all exercises except balance exercises
 
-On 2025-01-21, in preparation for the next day's blood draw, I
+On Tuesday 2025-01-21, in preparation for the next day's blood draw, I
 skipped all exercises except balance exercises
 (standing-on-one-leg-with-eyes-closed and
 standing-on-toes-with-eyes-closed).
