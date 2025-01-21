@@ -32,3 +32,10 @@ within the 48-hour window where weather forecasts are reasonably
 accurate. The probability of rain over the time period was shown as 0%
 and the forecasted temperature was not too low (56 degrees Fahrenheit
 at 11 AM).
+
+### 2025-01-21: skipping of all exercises except balance exercises
+
+On 2025-01-21, in preparation for the next day's blood draw, I
+skipped all exercises except balance exercises
+(standing-on-one-leg-with-eyes-closed and
+standing-on-toes-with-eyes-closed).

@@ -90,3 +90,10 @@ work meeting).
 From 2025-01-17 to 2025-01-19, I did at-home jogging, due to a mix of
 cold weather and overall time constraints (no imminent scheduling
 issues).
+
+## 2025-01-21: skipping of all exercises except balance exercises
+
+On 2025-01-21, in preparation for the next day's blood draw, I
+skipped all exercises except balance exercises
+(standing-on-one-leg-with-eyes-closed and
+standing-on-toes-with-eyes-closed).
