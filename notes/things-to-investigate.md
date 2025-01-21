@@ -104,6 +104,8 @@ Friday
 
 * [Stress and depression](../best-practices/best-practices-around-stress-and-depression.md)
 
+* Urination and fluid intake
+
 * Eye irritation
 
 * Dental pain (both spontaneous and after procedures)
