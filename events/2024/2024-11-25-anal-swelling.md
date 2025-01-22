@@ -21,7 +21,7 @@ I experienced similar abdominal discomfort briefly in the evening on
 
 ### 2024-11-25 (prelude)
 
-As a result of my sleeping late on 2024-11-21 (as mentioned above)q,
+As a result of my sleeping late on 2024-11-21 (as mentioned above),
 my sleep cycle got shifted to later. I tried to fix things in the next
 few days, but not enough. On Sunday 2024-11-24, due to scheduling
 constraints, I again delayed my sleep quite a bit. Then, on the
