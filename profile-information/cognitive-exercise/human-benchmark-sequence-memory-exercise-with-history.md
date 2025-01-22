@@ -38,7 +38,7 @@ supplementation?), I've increased my average score over time to
 30+. At this point, my constraint is fatigue and time expenditure -- I
 can literally feel my brain hurt as I get into the high 30s, as I do
 sometimes. My goal is to maintain this level, by playing sequence
-memory one or two times a week.
+memory once every four weeks.
 
 Time taken on the game grows quadratically with level, so improving
 further may not be feasible time-wise unless I reduce my frequency of
