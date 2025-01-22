@@ -30,7 +30,7 @@ Through practice of the exercise, I hope to improve:
   modulation (I think I might already have achieved this at this point
   so there may not be much marginal value here).
 
-### The goal is to maintain a sequence memory exercise score of over 30
+### The goal is to verify a sequence memory exercise score of over 30
 
 Through a combination of improvement in focus and better strategy (and
 maybe physical improvements such as increased omega-3
