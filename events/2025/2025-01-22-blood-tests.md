@@ -39,3 +39,17 @@ On Tuesday 2025-01-21, in preparation for the next day's blood draw, I
 skipped all exercises except balance exercises
 (standing-on-one-leg-with-eyes-closed and
 standing-on-toes-with-eyes-closed).
+
+### 2025-01-21: early end to dinner
+
+I finished dinner at 8:27 PM. I had a few crumbs and sips during the
+cleaning process, with the last such sip at around 9 PM, but for
+"fasting" purposes the dinner can be considered to have finished at
+8:27 PM.
+
+### 2025-01-21: packing / prep
+
+I did packing / prep at around 10 AM. This included packing the
+requisition form (one signed copy and two unsigned copies) as well as
+a black pen. I also streamlined some other elements so as to be able
+to leave more quickly the next morning for the blood tests.
