@@ -125,7 +125,7 @@ the strain on the jaw muscles from keeping my mouth open for extended
 periods of time.
 
 Some of these exercises may play a dual role of being "verify"
-exercises during ordinary times (with a frequency betweek weekly and
+exercises during ordinary times (with a frequency between weekly and
 monthly) but then be done more frequently either preventatively or in
 response to a special situation.
 
