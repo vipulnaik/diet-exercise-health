@@ -182,7 +182,7 @@ cases where anal spasms cause me significant pain.
 ### It's not clear if thinking about the pain increases the chances of spasms
 
 Previously, I had been of the view that thinking about the pain
-increases the cahnces of spasms. I think there's some truth to this,
+increases the chances of spasms. I think there's some truth to this,
 but less than it originally appeared to have. The problem is that the
 causal arrow can go in either direction -- when my urge to have the
 spasm is high, my conscious thoughts may be directed toward it.
