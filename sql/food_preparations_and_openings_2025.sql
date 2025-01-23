@@ -121,5 +121,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-01-21 rice prep (second meal) (added turmeric, cumin, and salt) */
   ('2025-01-21','Lundberg Sustainable California White Basmati Rice',0.9,2),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-01-21','TJ Carb Savvy Tortillas',1,2);
+  ('2025-01-21','TJ Carb Savvy Tortillas',1,2),
+  ('2025-01-22','Kite Hill Greek Style Plant-Based Yogurt',1,2),
+  ('2025-01-22','California Walnuts',1,2),
+  /* 2025-01-22 lentils prep (overnight soaking to cook the next day); added tuermeric, cumin, and salt */
+  ('2025-01-22','TJ Green Lentils',0.5,3);
   /* Double-check the date before committing */
