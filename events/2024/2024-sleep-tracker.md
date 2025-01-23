@@ -6,9 +6,12 @@ details in private logs starting 2024-10-11).
 
 Rather, this document focuses on notable cases, particularly:
 
-* Cases where I slept less than 7 hours or more than 9 hours (as
+* Cases where I slept less than 7 hours or more than 10 hours (as
   measured in the time between when I went to bed and the time I woke
-  up, rather than actual sleep time)
+  up, rather than actual sleep time); for cases where I slept between
+  9 and 10 hours, I may optionally record but will skip recording if
+  this is during winter where temperatures are generally lower and
+  there is often a need for additional sleep
 
 * Cases where I had a particularly fitful or interrupted sleep
 
@@ -19,8 +22,9 @@ Rather, this document focuses on notable cases, particularly:
 * Cases where I went to sleep less than 3 hours after finishing my
   last meal
 
-* Cases where I went to bed more than 30 minute after the target time
-  by which I need to get into bed
+* Optionally, cases where I went to bed more than 30 minute after the
+  target time by which I need to get into bed (though I may not always
+  record such cases)
 
 I plan to start recording starting 2024-10-11. I might also write
 separate documents on more complex incidents, but for cases where it's

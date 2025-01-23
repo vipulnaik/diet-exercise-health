@@ -1,0 +1,114 @@
+# 2025 sleep tracker
+
+This document does not include details of my sleep time, waking-up
+time, and sleep duration on a daily basis (I am starting to keep those
+details in private logs starting 2024-10-11).
+
+Rather, this document focuses on notable cases, particularly:
+
+* Cases where I slept less than 7 hours or more than 10 hours (as
+  measured in the time between when I went to bed and the time I woke
+  up, rather than actual sleep time); for cases where I slept between
+  9 and 10 hours, I may optionally record but will skip recording if
+  this is during winter where temperatures are generally lower and
+  there is often a need for additional sleep
+
+* Cases where I had a particularly fitful or interrupted sleep
+
+* Cases where I felt very sleepy and lethargic before my
+  1-hour-notice-to-sleep time, outside of known cases of timezone
+  adjustment (within the expected timeframe for such adjustment)
+
+* Cases where I went to sleep less than 3 hours after finishing my
+  last meal
+
+* Optionally, cases where I went to bed more than 30 minute after the
+  target time by which I need to get into bed (though I may not always
+  record such cases)
+
+I plan to start recording starting 2024-10-11. I might also write
+separate documents on more complex incidents, but for cases where it's
+just a matter of one of the above and does not spill over into other
+related issues, I will just note it here.
+
+## 2025-01-22 to 2025-01-23: 2:30 AM to 8:41 AM
+
+This was an interesting situation. I break it down into three parts:
+
+* Trigger and background factors for sleeping late
+* Trigger and background facors for waking up early (i.e., without completing 7 hours)
+
+### Trigger and background factors for sleeping late
+
+I did soaking of lentils and was on track to have finished the
+recording of said soaking at around 12:40 AM. My plan was to get into
+bed a few minutes after that and then go to sleep within about 10
+minutes of getting into bed. All in all, if things had gone according
+to plan, I would have gone to sleep by 1 AM.
+
+However, when I was running make commands on the repo, I ran into
+unexpected issues. Diagnosing these issues ended up taking a while. At
+this point, it was a judgment call. Nothing here was truly urgent, but
+I did not want to go to sleep with this issue unresolved, so I
+continued working on it until finally resolving it and taking followup
+documentation steps. This was definitely a choice; I could have chosen
+to go to sleep and tackle this the next day, at the cost of a slight
+stress of unresolved stuff (I already have many unresolved threads,
+but this one felt like it was a higher degree of urgency than the rest
+because it gets to the integrity of my setup).
+
+I was finished shortly before 2 AM, but then saw an incoming pull
+request from a colleague, so spent a little time on it. Then I did my
+final wrap-up by around 2:20 AM. Finally, I headed into bed and my
+time of going to sleep was 2:30 AM.
+
+#### Background factors that led to the tech issue
+
+The background factor was that I was doing a bunch of work-related
+updates and (perhaps unwisely) also decided to make equivalent
+personal updates that ended up having unintended effects on my
+personal setup. The exact thing was hard to predict, but I could have
+been more proactive in terms of thinking of unexpected implications of
+updates, and tested earlier in the day. I also knew (from a colleague)
+that this specific issue can happen at some point as a result of
+updates, so I had it in the back of my mind, but didn't think it would
+happen to me now.
+
+### Trigger and background factors for waking up early (relative to sleep time)
+
+The trigger for waking up early was strong bowel pressure. Normally, I
+wake up without strong bowel pressure and the develop bowel pressue
+after a few minutes of being seated. However, in this case, my bowel
+pressure was strong enough that I felt I need to get up to get ready
+for a bowel movement.
+
+Some of the background factors involved in the waking-up time were:
+
+* I had been moving my waking up time to earlier over the past few
+  days, in preparation for [blood tests the previous
+  day](2025-01-22-blood-tests.md). So, I was primed to naturally wake
+  up around this time, though my actual waking-up time was a bit early
+  even considering that.
+
+* I needed to be up by about an hour later than the time I woke up,
+  for a work meeting. Although I still had time, I had primed my body
+  to "be up sooner" than my full sleep cycle would require.
+
+* I did finish my meal yesterday relatively early (8:07 PM) which
+  would be consistent with this waking-up time. The early meal was a
+  result of the general shifting of my schedule to earlier, as well as
+  other aspects of the way yesterday's schedule worked after the blood
+  tests.
+
+* It was a warmer early morning indoors than the past few days. For
+  instance, yesterday, the temperature was about 53F shortly after I
+  woke up yesterday (temperature was recorded at 9:03 AM). In
+  contrast, today the indoor temperature was about 58F at around 8:34
+  AM, I few minutes before I officially woke up.
+
+* Because of sleeping late, I ended up doing a second urination at
+  2:21 AM before going to sleep. As a result, My "mid-sleep" urination
+  happened late at 8:28 AM (normally it happens between 6 AM and 7
+  AM). So when I got back from mid-sleep urination, in light of it
+  being late and warm and just an hour to waking up, I ended up
+  getting up just a few minutes later.
