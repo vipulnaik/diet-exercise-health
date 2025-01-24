@@ -125,5 +125,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-22','Kite Hill Greek Style Plant-Based Yogurt',1,2),
   ('2025-01-22','California Walnuts',1,2),
   /* 2025-01-22 lentils prep (overnight soaking to cook the next day); added tuermeric, cumin, and salt */
-  ('2025-01-22','TJ Green Lentils',0.5,3);
+  ('2025-01-22','TJ Green Lentils',0.5,3),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-01-23','TJ Carb Savvy Tortillas',1,1);
   /* Double-check the date before committing */
