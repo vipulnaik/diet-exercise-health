@@ -22,6 +22,14 @@ evaluation appointment with Berkeley Hearing Center; details
 stopped at Berkeley Bowl for food purchases recorded
 [here](../../sql/food_purchases_2025.sql).
 
+## 2025-01-22
+
+On Wednesday 2025-01-22, in the morning (and going a little past noon)
+I went to the LabCorp location at 3100 San Pablo Ave for a blood
+draw. See
+[2025-01-22-blood-tests.md](2025-01-22-blood-tests.md#day-of-the-blood-draw-2025-01-22)
+for more information.
+
 ## 2025-01-23
 
 On Thursday 2025-01-23, I made a trip to downtown Berkeley. My first

@@ -97,3 +97,20 @@ On Tuesday 2025-01-21, in preparation for the next day's blood draw, I
 skipped all exercises except balance exercises
 (standing-on-one-leg-with-eyes-closed and
 standing-on-toes-with-eyes-closed).
+
+## 2025-01-22: skipping of all exercises for blood draw
+
+On Wednesday 2025-01-22, I skipped all exercises for my blood draw,
+conserving both time and energy for the blood draw.
+
+## 2025-01-23: resumption of some exercises
+
+On 2025-01-23, I resumed jogging (going out for it) and also did
+humming-with-intermittent-pauses. I skipped hand gripper exercises. I
+also didn't do standing-on-one-leg-with-eyes-closed and
+standing-on-toes-with-eyes-closed exercises, but that's just because
+they weren't due today as I had done them on Tuesday.
+
+I carried back fairly heavy groceries in the evening on 2025-01-23, so
+even though I didn't resume any strength exercises, this did *de
+facto* play a similar role.
