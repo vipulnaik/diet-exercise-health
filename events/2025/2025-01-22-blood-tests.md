@@ -216,3 +216,7 @@ they weren't due today as I had done them on Tuesday.
 I carried back fairly heavy groceries in the evening on 2025-01-23, so
 even though I didn't resume any strength exercises, this did *de
 facto* play a similar role.
+
+### Removal of bandage
+
+I removed the waterblock flex bandage on 2025-01-24 at 12:41 AM, almost 36 hours after having put it on.
