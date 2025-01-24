@@ -21,3 +21,11 @@ evaluation appointment with Berkeley Hearing Center; details
 [here](2025-01-15-audiological-evaluation.md). On the way back, I
 stopped at Berkeley Bowl for food purchases recorded
 [here](../../sql/food_purchases_2025.sql).
+
+## 2025-01-23
+
+On Thursday 2025-01-23, I made a trip to downtown Berkeley. My first
+stop was at Citibank, where I did a few financial transactions,
+including withdrawing quarters for laundry. I then went to Trader
+Joe's for food purchases recorded
+[here](../../sql/food_purchases_2025.sql).
