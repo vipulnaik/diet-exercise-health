@@ -207,7 +207,7 @@ reflective of the fluid reduction accomplsihed through the blood draw.
 
 ### Resumption of some exercises on 2025-01-23
 
-On 2025-01-23, I resumed jogging (going out for it) and also did
+On Thursday 2025-01-23, I resumed jogging (going out for it) and also did
 humming-with-intermittent-pauses. I skipped hand gripper exercises. I
 also didn't do standing-on-one-leg-with-eyes-closed and
 standing-on-toes-with-eyes-closed exercises, but that's just because
@@ -220,3 +220,10 @@ facto* play a similar role.
 ### Removal of bandage
 
 I removed the waterblock flex bandage on 2025-01-24 at 12:41 AM, almost 36 hours after having put it on.
+
+### Resumption of hand gripper exercises with left hand (not the blood draw arm) on 2025-01-24
+
+I did hand gripper exercises with my left hand (my blood draw was from
+the right arm) around 6:07 PM, almost three hours after my first meal,
+about about 2 days 6 hours after the blood draw. This was my first
+time doing hand gripper exercises after the blood draw.

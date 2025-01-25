@@ -105,12 +105,23 @@ conserving both time and energy for the blood draw.
 
 ## 2025-01-23: resumption of some exercises
 
-On 2025-01-23, I resumed jogging (going out for it) and also did
-humming-with-intermittent-pauses. I skipped hand gripper exercises. I
-also didn't do standing-on-one-leg-with-eyes-closed and
+On Thursday 2025-01-23, I resumed jogging (going out for it) and also
+did humming-with-intermittent-pauses. I skipped hand gripper
+exercises. I also didn't do standing-on-one-leg-with-eyes-closed and
 standing-on-toes-with-eyes-closed exercises, but that's just because
 they weren't due today as I had done them on Tuesday.
 
 I carried back fairly heavy groceries in the evening on 2025-01-23, so
 even though I didn't resume any strength exercises, this did *de
 facto* play a similar role.
+
+## 2025-01-24: resumption of hand gripper exercises (left hand only) and skipping of jogging
+
+On Friday 2025-01-24, I skipped jogging in the morning due to time
+constraints. In fact I didn't do any exercises at all in the morning.
+
+Instead, I did hand gripper exercises with my left hand only (skipping
+my right hand due to the recent blood draw from it) as well as
+standing-on-one-leg-with-eyes-closed and
+standing-on-toes-with-eyes-closed exercises, both later in the
+evening, a little under three hours after finishing my first meal.
