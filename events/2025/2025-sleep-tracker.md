@@ -112,3 +112,13 @@ Some of the background factors involved in the waking-up time were:
   AM). So when I got back from mid-sleep urination, in light of it
   being late and warm and just an hour to waking up, I ended up
   getting up just a few minutes later.
+
+### Update on the next night's sleep
+
+Going from 2025-01-23 to 2025-01-24, I had a little extra sleep that
+probably made up somewhat for the reduced sleep on this night. I went
+to sleep at 1:21 AM and woke up at 10:49 AM (my first alarm had been
+set for 10:45 AM, and I was semi-awake when it triggered; if it hadn't
+been for the alarm, I would likely have stayed in bed about 10-15
+minutes more). This is about 9.5 hours of sleep, which likely makes up
+a large portion of the reduced sleep.
