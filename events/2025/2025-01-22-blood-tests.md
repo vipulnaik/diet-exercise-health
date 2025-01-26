@@ -227,3 +227,9 @@ I did hand gripper exercises with my left hand (my blood draw was from
 the right arm) around 6:07 PM, almost three hours after my first meal,
 about about 2 days 6 hours after the blood draw. This was my first
 time doing hand gripper exercises after the blood draw.
+
+### Resumption of hand gripper exercises with the right hand (the blood draw arm) on 2025-01-25
+
+On Saturday 2025-01-25, I resumed hand gripper exercises with my right
+hand. I had resumed the left hand the previous day, so this completed
+the resumption of hand gripper exercises.

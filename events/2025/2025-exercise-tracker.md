@@ -125,3 +125,9 @@ my right hand due to the recent blood draw from it) as well as
 standing-on-one-leg-with-eyes-closed and
 standing-on-toes-with-eyes-closed exercises, both later in the
 evening, a little under three hours after finishing my first meal.
+
+## 2025-01-25: resumption of hand gripper exercises (right hand)
+
+On Saturday 2025-01-25, I resumed hand gripper exercises with my right
+hand. I had resumed the left hand the previous day, so this completed
+the resumption of hand gripper exercises.
