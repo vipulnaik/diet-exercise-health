@@ -131,3 +131,9 @@ evening, a little under three hours after finishing my first meal.
 On Saturday 2025-01-25, I resumed hand gripper exercises with my right
 hand. I had resumed the left hand the previous day, so this completed
 the resumption of hand gripper exercises.
+
+## 2025-01-26: resumption of strength exercises
+
+On Sunday 2025-01-26, I resumed strength exercises (dead hang and
+pull-ups). This begins a new 3-day cycle, with the next day for dumb
+bells and push-ups and the third day for rest from strength exercises.

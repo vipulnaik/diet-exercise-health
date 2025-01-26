@@ -233,3 +233,9 @@ time doing hand gripper exercises after the blood draw.
 On Saturday 2025-01-25, I resumed hand gripper exercises with my right
 hand. I had resumed the left hand the previous day, so this completed
 the resumption of hand gripper exercises.
+
+### Resumption of strength exercises (dead hang and pull-ups) on 2025-01-26
+
+On Sunday 2025-01-26, I resumed strength exercises (dead hang and
+pull-ups). This begins a new 3-day cycle, with the next day for dumb
+bells and push-ups and the third day for rest from strength exercises.
