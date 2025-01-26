@@ -44,3 +44,20 @@ is about 30-35 seconds.
 
 Starting 2024-10-06, I introduced the overhand dead and got an
 estimate of about 45-50 seconds.
+
+## 2025-01-26 status update
+
+As of 2025-01-26, I record dead hang based on the number of
+oscillations rather than the duration because it's easier to measure
+the number of oscillations. My empirical calculation of one
+oscillation is that it's somewhere between 2.2 and 2.5 seconds.
+
+In general, if I start with the overhand dead hang, I am able to do
+somewhere between 25 and 38 oscillations, and generally betwen 28 and
+34 oscillations. If I then follow this with an underhand dead hang, I
+can generally do somewhere between 5 and 17 oscillations. The number
+of oscillations for overhand and underhand in a session correlate. In
+other words, the sessions where I have more oscillations for the
+overhand dead hang tend to also have more oscillations for the
+underhand dead hang. The gap between the two numbers on a given day is
+usually around 20.

@@ -28,3 +28,10 @@ underhand and 2-3 overhand.
 
 I started doing pull-ups regularly (once evert 2-3 days, after dead
 hang) on 2024-11-14.
+
+### 2025-01-26 status update
+
+As of 2025-01-26, if I do the pull-ups immediately after doing an
+overhand and an underhand dead hang, and I start with overhand
+pull-ups, I can do 4 to 5 overhand pull-ups and 3 to 4 underhand
+pull-ups.
