@@ -137,3 +137,9 @@ the resumption of hand gripper exercises.
 On Sunday 2025-01-26, I resumed strength exercises (dead hang and
 pull-ups). This begins a new 3-day cycle, with the next day for dumb
 bells and push-ups and the third day for rest from strength exercises.
+
+## 2025-01-27: at-home jogging and skipping of strength exercises due to time constraints and scheduling issues
+
+On Monday 2025-01-27, I did at-home jogging and skipped strength
+exercises due to a combination of time constraints and scheduling
+issues.
