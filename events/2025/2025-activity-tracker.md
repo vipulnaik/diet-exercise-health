@@ -37,3 +37,12 @@ stop was at Citibank, where I did a few financial transactions,
 including withdrawing quarters for laundry. I then went to Trader
 Joe's for food purchases recorded
 [here](../../sql/food_purchases_2025.sql).
+
+## 2025-01-26
+
+In addition to my food purchases recorded
+[here](../../sql/food_purchases_2025.sql), I also stopped at a few
+ATMs: I stopped at the Allpoint ATM in the Walgreens on Adeline Street
+before my Berkeley Bowl trip, and I stopped at the Chase and Wells
+Fargo ATMs on Shattuck Avenue (near Center Street) on the way to
+Trader Joe's.
