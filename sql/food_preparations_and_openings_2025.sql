@@ -144,5 +144,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-25','California Walnuts',1,2),
   ('2025-01-25','TJ Almond Milk',1,2),
   ('2025-01-26','TJ Carb Savvy Tortillas',1,2),
-  ('2025-01-26','Kite Hill Greek Style Plant-Based Yogurt',1,2);
+  ('2025-01-26','Kite Hill Greek Style Plant-Based Yogurt',1,2),
+  ('2025-01-26','TJ Miso Ginger Broth',1,2);
   /* Double-check the date before committing */
