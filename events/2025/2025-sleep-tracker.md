@@ -122,3 +122,43 @@ set for 10:45 AM, and I was semi-awake when it triggered; if it hadn't
 been for the alarm, I would likely have stayed in bed about 10-15
 minutes more). This is about 9.5 hours of sleep, which likely makes up
 a large portion of the reduced sleep.
+
+## 2025-01-27 to 2025-01-28: 3:42 AM to 11:39 AM
+
+This was a case where I somewhat deliberately stayed up late because I
+really wanted to finish some travel planning work that I had not been
+able to get enough of a continuous stretch of time for during the day
+(due to things being busy with work and a heavy cyclic personal
+chores load). The work stretched a little longer than ideal, but it
+was within my range of expectations. I also did this knowing that I
+did not have any obligation to wake up early the next day.
+
+I went to sleep around 3:42 AM and updated my alarms to wake me up at
+11:30 AM and 11:45 AM. My sleep pattern seemed close to normal, just
+shifted a few hours. I was semi-awake at the time of the first alarm
+at 11:30 AM, and got out of bed at 11:39 AM.
+
+For comparison, these days, I typically go to sleep some time between
+12:30 AM and 1:30 AM (and almost always between 12 AM and 2 AM) and
+wake up some time between 9 AM and 11 AM.
+
+Overall, the duration of sleep was close to typical (almost 8
+hours). The quality was also typical, maybe a bit better because there
+was better temperature minimum alignment with the environment.
+
+One concern with this late-shifted sleep is missing out on some of the
+timing-specific early phases of sleep (where the circadian rhythm is
+based on typical sleep time rather than when I actually sleep) so I
+shouldn't sleep much later than my usual time too often. Of course,
+this wouldn't be a concern if I always slept this late, but that's not
+an option due to the other concern below.
+
+The other concern is social obligations, including meetings and alerts
+related to the day job as well as things happening in the physical
+environment (house and building repairs), some of which may not be
+announced in advance. There is a general expectation of being awake
+after 9 AM or at least by 10 AM.
+
+The conclusion is that while this is fine to do once in a while, my
+goal should be to pull back to a normal sleep schedule, skipping daily
+activities on the next day if necessary to achieve that.
