@@ -145,5 +145,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-25','TJ Almond Milk',1,2),
   ('2025-01-26','TJ Carb Savvy Tortillas',1,2),
   ('2025-01-26','Kite Hill Greek Style Plant-Based Yogurt',1,2),
-  ('2025-01-26','TJ Miso Ginger Broth',1,2);
+  ('2025-01-26','TJ Miso Ginger Broth',1,2),
+  /* 2025-01-27 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt; no garlic-flavored olive oil) */
+  ('2025-01-27','Eggplant',1,1),
+  ('2025-01-27','TJ Kale',1,1),
+  ('2025-01-27','TJ Carrots',1,1),
+  ('2025-01-27','Green bell pepper',4,1),
+  ('2025-01-27','Red bell pepper',2,1),
+  ('2025-01-27','Beefsteak tomato',7,1);
   /* Double-check the date before committing */
