@@ -161,5 +161,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-01-28','TJ English Shelled Peas',2,2),
   ('2025-01-28','Beefsteak tomato',5,2),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-01-28','Kite Hill Greek Style Plant-Based Yogurt',1,2);
+  ('2025-01-28','Kite Hill Greek Style Plant-Based Yogurt',1,2),
+  /* 2025-01-29 rice prep (first meal) (added turmeric, cumin, and salt) */
+  ('2025-01-29','Lundberg Sustainable California White Basmati Rice',0.9,1),
+  ('2025-01-29','TJ Cumin',1,1); /* opened along with rice prep */
   /* Double-check the date before committing */
