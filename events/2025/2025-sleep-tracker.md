@@ -123,7 +123,7 @@ been for the alarm, I would likely have stayed in bed about 10-15
 minutes more). This is about 9.5 hours of sleep, which likely makes up
 a large portion of the reduced sleep.
 
-## 2025-01-27 to 2025-01-28: 3:42 AM to 11:39 AM
+## 2025-01-27 to 2025-01-28: 3:42 AM to 11:39 AM, and following days
 
 This was a case where I somewhat deliberately stayed up late because I
 really wanted to finish some travel planning work that I had not been
@@ -162,3 +162,16 @@ after 9 AM or at least by 10 AM.
 The conclusion is that while this is fine to do once in a while, my
 goal should be to pull back to a normal sleep schedule, skipping daily
 activities on the next day if necessary to achieve that.
+
+### Next few days
+
+It took me a few days to return to a normal-ish cycle.
+
+* 2025-01-28 to 2025-01-29: 2:39 AM to 11:06 AM. The bottleneck in
+  this case was a mix of potatoes prep for second meal taking a long
+  time, and doing some work stuff that had continuity benefits
+  (causing a delay in starting potatoes prep). I also made a point of
+  maintaining usual gaps and not skipping exercise; if I were more
+  particular about getting back to a regular sleep cycle sooner, I
+  would have shortened gaps, skipped exercise, or deferred the work
+  item with continuity benefits.
