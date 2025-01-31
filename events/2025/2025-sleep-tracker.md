@@ -184,3 +184,9 @@ It took me a few days to return to a normal-ish cycle.
   me to still go to sleep earlier than the previous day. I ended up
   waking with the alarm (set for 9:45 AM) due to a work meeting at
   10:30 AM.
+
+* 2025-01-30 to 2025-01-31: 1 AM to 10:28 AM. The early sleep time
+  marks my return to normalcy. The time of waking up, though late, was
+  not constrained by any work meetings or other obligations, and the
+  long sleep duration reflects the cold weather. Overall, I feel like
+  I am back on track sleep-wise, so this incident is closed.
