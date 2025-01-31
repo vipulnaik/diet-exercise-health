@@ -175,3 +175,12 @@ It took me a few days to return to a normal-ish cycle.
   particular about getting back to a regular sleep cycle sooner, I
   would have shortened gaps, skipped exercise, or deferred the work
   item with continuity benefits.
+
+* 2025-01-29 to 2025-01-30: 1:58 AM to 9:46 AM. The bottleneck was
+  delays in having my first meal, which were again due to running into
+  some work stuff that needed continuous time early in my day. I
+  finished my first meal at 5:19 PM. However, I shortened the
+  inter-meal gap and started my second meal at 8:46 PM, which allowed
+  me to still go to sleep earlier than the previous day. I ended up
+  waking with the alarm (set for 9:45 AM) due to a work meeting at
+  10:30 AM.
