@@ -144,9 +144,12 @@ On Monday 2025-01-27, I did at-home jogging and skipped strength
 exercises due to a combination of time constraints and scheduling
 issues.
 
-## 2025-01-29: at-home jogging due to cold weather, time constraints, and to allow better multiplexing
+## 2025-01-29 and 2025-01-30: at-home jogging due to cold weather, time constraints, and to allow better multiplexing
 
-On Wednesday 2025-01-29, I did at-home jogging due to a mix of
-considerations: cold weather, time constraints, and better
-multiplexing (I wanted to turn the stove on at around midway through
-my jog, and I need to be at home when the stove is on).
+On Wednesday 2025-01-29 and Thursday 2025-01-30, I did at-home jogging
+due to a mix of considerations: cold weather, time constraints, and
+better multiplexing. On Wednesday, I wanted to turn the stove on at
+around midway through my jog, and I need to be at home when the stove
+is on. On Thursday, I multiplexed part of my jogging with a
+listen-only work meeting.
+
