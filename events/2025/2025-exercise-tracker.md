@@ -153,3 +153,9 @@ around midway through my jog, and I need to be at home when the stove
 is on. On Thursday, I multiplexed part of my jogging with a
 listen-only work meeting.
 
+## 2025-01-31: at-home jogging due to cold weather and rain, skipping of strength exercises due to scheduling constraints
+
+On Friday 2025-01-31, I did at-home jogging due to the cold weather
+and rain. I also skipped strength exercises due to scheduling
+constraints (I needed to finish my second meal by a certain time, and
+working backwards that worked out to a tight timeline).
