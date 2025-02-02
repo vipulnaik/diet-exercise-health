@@ -46,3 +46,13 @@ ATMs: I stopped at the Allpoint ATM in the Walgreens on Adeline Street
 before my Berkeley Bowl trip, and I stopped at the Chase and Wells
 Fargo ATMs on Shattuck Avenue (near Center Street) on the way to
 Trader Joe's.
+
+## 2025-02-01
+
+In the evening, I made a trip to Trader Joe's for grocery shopping;
+the purchases are recorded
+[here](../../sql/food_purchases_2025.sql). As it was raining lightly,
+and I didn't want my purchased food to get too wet on the way back, I
+decided to take BART back (from downtown Berkeley BART to Ashby BART)
+instead of walking back (which is what makes the trip worthy of
+recording in the activity tracker).
