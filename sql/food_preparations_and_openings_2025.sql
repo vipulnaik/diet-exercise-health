@@ -186,5 +186,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-02-01 rice prep (second meal) (added turmeric, cumin, and salt) */
   ('2025-02-01','Lundberg Sustainable California White Basmati Rice',0.9,2),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-02-01','California Walnuts',1,2);
+  ('2025-02-01','California Walnuts',1,2),
+  /* 2025-02-02 potatoes prep (first meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt, and somewhat unusually, cinnamon and basil) */
+  ('2025-02-02','Gold potatoes 5 lb',0.5,1),
+  ('2025-02-02','TJ Kale',1,1),
+  ('2025-02-02','TJ English Shelled Peas',2,1),
+  ('2025-02-02','Beefsteak tomato',4,1);
   /* Double-check the date before committing */
