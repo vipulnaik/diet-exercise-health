@@ -159,3 +159,9 @@ On Friday 2025-01-31, I did at-home jogging due to the cold weather
 and rain. I also skipped strength exercises due to scheduling
 constraints (I needed to finish my second meal by a certain time, and
 working backwards that worked out to a tight timeline).
+
+## 2025-02-01 and 2025-02-02: at-home jogging due to rain and wet sidewalks
+
+On 2025-02-01 and 2025-02-02, I did at-home jogging due to rain and
+wet sidewalks. The temperature was actually fine (it was not too
+cold).
