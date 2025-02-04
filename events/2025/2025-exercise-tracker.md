@@ -165,3 +165,11 @@ working backwards that worked out to a tight timeline).
 On 2025-02-01 and 2025-02-02, I did at-home jogging due to rain and
 wet sidewalks. The temperature was actually fine (it was not too
 cold).
+
+## 2025-02-03: at-home jogging due to intermittent rain
+
+On 2025-02-03, the sidewalks had mostly dried from previous rain, and
+it was warm, and I was planning to go out to jog. However, as I was
+getting ready to go out, I saw a weather forecast of a brief burst of
+rain for the next 30 minutes. In light of this, I cancelled my plan to
+go out and did at-home jogging.
