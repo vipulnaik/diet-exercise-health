@@ -192,7 +192,7 @@ more details.
 
 Goal of exercise: build
 
-As of January 2025, my aim is to be able to manage at least 27 seconds
+As of February 2025, my aim is to be able to manage at least 30 seconds
 without having to lift and reposition either foot.
 
 See [here](standing-on-toes-with-eyes-closed-with-history.md) for more
