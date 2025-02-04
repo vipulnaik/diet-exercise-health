@@ -165,7 +165,7 @@ details.
 Goal of exercise: build
 
 I have not done push-ups in any significant quantity prior to starting
-in November 2021 along with weight-lifting exercises. I have ramed up
+in November 2021 along with weight-lifting exercises. I have ramped up
 the number slowly. See [here](push-ups-with-history.md) for details.
 
 ## Standing-on-one-leg-with-eyes-closed exercise
@@ -180,7 +180,7 @@ balance.
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
 
-As of January 2025, my aim is to be able to manage at least 50 seconds
+As of February 2025, my aim is to be able to manage at least 60 seconds
 on each leg, with adjustments for colder indoor temperatures. In
 practice, I generally do somewhere between 50 and 80 seconds on each
 leg.

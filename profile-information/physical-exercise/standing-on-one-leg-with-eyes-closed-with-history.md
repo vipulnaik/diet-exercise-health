@@ -8,7 +8,7 @@ practice and some variants of it.
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 50 seconds
+### Maintain standing-on-one-leg-with-eyes-closed for at least 60 seconds (with adjustment for temperature)
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -21,20 +21,22 @@ According to
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
 (average of 18.3 seconds. As somebody in my late 30s (as of 2024), my
-threshold is at least 50 seconds per leg, and in practice I do between
-45 and 75 seconds on the first try most of the time.
+threshold is at least 60 seconds per leg with temperature adjustment,
+and in practice I do between 50 and 80 seconds on the first try most
+of the time (the values less than 60 seconds often still pass due to
+the temperature adjustment).
 
 At this point, it's not clear that increasing the duration has
 real-world effects either in practice or in theory, and time spent
 standing with eyes closed can't be multiplexed with other things, so
-my plan is to sustain the minimum of 50 seconds for
+my plan is to sustain the minimum of 60 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
 up. Time considerations make it dificult to push the threshold too far
-up, even if I am eventually able to do clearly over 50 seconds.
+up, even if I am eventually able to do clearly over 60 seconds.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 50 seconds over a
-period of about 1.25 years, I think just being able to maintain at 50
+that I've increased the threshold from 10 seconds to 56 seconds over a
+period of about 1.25 years, I think just being able to maintain at 60
 seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
@@ -63,7 +65,7 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 50 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 60 seconds with adjustments for colder temperatures)
 
 * Prior to 2023-10-28, the de facto threshold duration was 10 seconds
 
@@ -266,6 +268,19 @@ The standard version of the exercise is as follows:
     the threshold is 30 seconds. For temperatures of -5 degrees
     Celsius or less, I should skip this exercise or do it with no
     threshold expectation.
+
+* Starting 2025-02-03, I am increasing the baseline threshold to 60
+  seconds, but also increasing the temperature-based adjustment to 3
+  seconds for every degree Celsius. I am also removing the "return
+  from jogging" exemption. The new logic is:
+
+  * Baseline of 60 seconds
+
+  * If the temperature is 20 degrees Celsius or higher, no
+    adjustment. If the temperature is greater than 0 degrees Celsius
+    and less than 20 degrees Celsius, then three times the temperature
+    in degrees Celsius (in seconds). For instance, if the temperature
+    is 10 degrees Celsius, the threshold is 30 seconds.
 
 ### How the threshold duration is used
 
