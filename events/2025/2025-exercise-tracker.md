@@ -173,3 +173,15 @@ it was warm, and I was planning to go out to jog. However, as I was
 getting ready to go out, I saw a weather forecast of a brief burst of
 rain for the next 30 minutes. In light of this, I cancelled my plan to
 go out and did at-home jogging.
+
+## 2025-02-04: at-home jogging due to heavy rain
+
+On 2025-02-04, I did at-home jogging due to heavy rain.
+
+## 2025-02-05: skipping of jogging due to time constraints
+
+2025-02-05 was finally a day of decent weather! This would have been a
+good day to do exercise. However, I also wanted to make sure I got
+enough time for shopping, and if I did jogging (at-home or outside)
+then the post-jogging cooldown period would delay my meal and
+therefore my outside trips. So, I reluctantly skipped jogging.
