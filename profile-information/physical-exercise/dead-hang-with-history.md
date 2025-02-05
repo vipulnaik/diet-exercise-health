@@ -4,7 +4,7 @@ Reference article: https://www.dmoose.com/blogs/training/what-is-a-dead-hang
 
 ## Goal and functional relevance of exercise
 
-### Build towards being able to go both underhand and overhand for at least 1 minute
+### Build towards being able to go both underhand and overhand for at least 1 minute, when both are done in succession
 
 A dead hang is a good way to improve the strength of my arms and
 shoulders, while continuing to reinforce hand grip. It also helps with
@@ -12,6 +12,10 @@ balance and flexibility.
 
 This will help me be able to carry and move heavier loads while also
 stay balanced in more complex movements.
+
+I can already do overhand for well over a minute, but the underhand
+that I do following it is less than a minute. So, I still have some
+ways to go to build.
 
 There is significant overlap in goals with [strength
 exercises](strength-exercises-with-history.md).

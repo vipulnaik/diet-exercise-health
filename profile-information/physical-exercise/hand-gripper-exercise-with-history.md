@@ -51,35 +51,39 @@ hangs which means I need to use grip strength).
 I do this sequence every alternating day in the morning, with the
 steps in quick succession:
 
-* Right hand on 150 lb: I close and keep closed for about 10-20 seconds.
+* Right hand on 150 lb: I close and keep closed for about 15 to 25
+  seconds.
 
   NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
   (generally when the ambient temperature is below 16 degrees
-  Celsius), I may not be able to fully close this hand gripper. In
-  such cases, I may defer this portion of the exercise to a later part
-  of the day when it is warmer. Alternatively, I may do the exercise
-  with an almost-closed rather than fully-closed position.
+  Celsius), I may sometimes not be able to fully close this hand
+  gripper. In such cases, I may defer this portion of the exercise to
+  a later part of the day when it is warmer. Alternatively, I may do
+  the exercise with an almost-closed rather than fully-closed
+  position.
 
-* Left hand on 150 lb: I close and keep closed for about 10-20 seconds.
+* Left hand on 150 lb: I close and keep closed for about 10 to 20
+  seconds.
 
   NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
   (generally when the ambient temperature is below 16 degrees
-  Celsius), I may not be able to fully close this hand gripper. In
-  such cases, I may defer this portion of the exercise to a later part
-  of the day when it is warmer. Alternatively, I may do the exercise
-  with an almost-closed rather than fully-closed position.
+  Celsius), I may sometimes not be able to fully close this hand
+  gripper. In such cases, I may defer this portion of the exercise to
+  a later part of the day when it is warmer. Alternatively, I may do
+  the exercise with an almost-closed rather than fully-closed
+  position.
 
-* Right hand on 100 lb: I close and keep closed for about 15-30
-  seconds (generally about 20 seconds); if I were to start with the
-  100 lb instead of doing the 150 lb first, I would be able to do
-  more, but then I would not be able to do the 150 lb immediately
-  aferward. That's why I start with the 150 lb.
+* Right hand on 100 lb: I close and keep closed for about 20 to 35
+  seconds; if I were to start with the 100 lb instead of doing the 150
+  lb first, I would be able to do more, but then I would not be able
+  to do the 150 lb immediately aferward. That's why I start with the
+  150 lb.
 
-* Left hand on 100 lb: I close and keep closed for about 15-30
-  seconds (generally about 15 seconds); if I were to start with the
-  100 lb instead of doing the 150 lb first, I would be able to do over
-  20 seconds, but then I would not be able to do the 150 lb
-  immediately aferward. That's why I start with the 150 lb.
+* Left hand on 100 lb: I close and keep closed for about 15 to 30
+  seconds; if I were to start with the 100 lb instead of doing the 150
+  lb first, I would be able to do over 20 seconds, but then I would
+  not be able to do the 150 lb immediately aferward. That's why I
+  start with the 150 lb.
 
 I have generally switched away from doing multiple open/closes toward
 doing a close-and-hold. The close-and-hold is harder, but also quicker
@@ -89,35 +93,43 @@ multiple open/closes outside of my daily routine.
 
 ### Second of alternating days (focus on building)
 
-* Right hand on 150 lb: I close and keep closed for about 10-20 seconds.
+* Right hand on 150 lb: I close and keep closed for about 15 to 25
+  seconds.
 
   NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
   (generally when the ambient temperature is below 16 degrees
-  Celsius), I may not be able to fully close this hand gripper. In
-  such cases, I may defer this portion of the exercise to a later part
-  of the day when it is warmer. Alternatively, I may do the exercise
-  with an almost-closed rather than fully-closed position.
+  Celsius), I may sometimes not be able to fully close this hand
+  gripper. In such cases, I may defer this portion of the exercise to
+  a later part of the day when it is warmer. Alternatively, I may do
+  the exercise with an almost-closed rather than fully-closed
+  position.
 
-* Left hand on 150 lb: I close and keep closed for about 10-20 seconds.
+* Left hand on 150 lb: I close and keep closed for about 10 to 20
+  seconds.
 
   NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
   (generally when the ambient temperature is below 16 degrees
-  Celsius), I may not be able to fully close this hand gripper. In
-  such cases, I may defer this portion of the exercise to a later part
-  of the day when it is warmer. Alternatively, I may do the exercise
-  with an almost-closed rather than fully-closed position.
+  Celsius), I may sometimes not be able to fully close this hand
+  gripper. In such cases, I may defer this portion of the exercise to
+  a later part of the day when it is warmer. Alternatively, I may do
+  the exercise with an almost-closed rather than fully-closed
+  position.
 
 * Right hand on 100 lb with specific fingers excluded: The goal is to
   increase the strength in specific fingers while still using a load
   that is not too much for me wrist as a whole.
 
-  * Excluding the little finger: I close and keep closed for 4 to 12
-    seconds. I should be able to do it, but it's much harder than
-    using all fingers.
+  * Excluding the little finger (if I do this first): I close and keep
+    closed for 8 to 19 seconds. I should be able to do it, but it's
+    much harder than using all fingers.
 
-  * Excluding the index finger: I close and keep closed for 2 to 7
-    seconds. I should be able to do it, but it's much harder than
-    using all fingers.
+  * Excluding the index finger (if I do this second): I close and keep
+    closed for 4 to 12 seconds. I should be able to do it, but it's
+    much harder than using all fingers.
+
+  If I do the index finger exclusion first, then I might be able to do
+  longer than the expected duration for the index finger but shorter
+  than the expected duration for the little finger.
 
 * Left hand on 100 lb with specific fingers excluded: The goal is to
   increase the strength in specific fingers while still using a load
@@ -345,3 +357,19 @@ day, so I have a clearer picture of how well I am doing.
 * I included closing 150 lb for the alternate days where I do the 100
   lb with a finger excluded; this reflects the new process I have been
   following *de facto*.
+
+### Update on 2025-02-04
+
+I made a few minor protocol tweaks:
+
+* I increased the range of durations that I am able to keep the hand
+  gripper closed for my right hand, reflecting recently observed
+  increases. I did not update the range of durations for the left
+  hand, as the included range seems to reflect recent performance
+  reasonably accurately.
+
+* I added the word "sometimes" to the point about failure to close the
+  hand gripper when it is cold. This reflects the fact that in recent
+  times, I have been able to close the hand gripper even in the
+  morning (though it may have just been the case that my hands have
+  not been as cold recently as they used to be).
