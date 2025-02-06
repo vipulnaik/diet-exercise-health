@@ -100,8 +100,8 @@ sleep cycle.
 
 ### When to get into bed
 
-The latest time by which I should be in bed should be the earliest
-among these:
+Outside of cold winter days, the latest time by which I should be in
+bed should be the earliest among these:
 
 * At least 7 hours before the beginning of the range of time at which
   I naturally wake up; for instance, if I naturally wake up between 7
@@ -111,16 +111,28 @@ among these:
 
 * At least 9 hours before the time I absolutely need to get out of bed
 
-The earliest time by which I should be in bed is 2 hours earlier than
-the latest time, unless I am feeling fatigue that makes me want to go
-to bed earlier than that.
-
 Worked example: Let's say that these days, I tend to get up around 8
 AM, I need to be up by 9:30 AM for a work meeting at 10:30 AM, and my
 alarm is set for 8:45 AM. The respective latest sleeping time
 constraints imposed by these are 1 AM, 1:30 AM, and 12:45 AM. The
 earliest of these is 12:45 AM, so the latest time I can get in bed is
 12:45 AM.
+
+During cold winter days, I should expect to need 1 to 2 additional
+hours of sleep. As a rule of thumb, add one hour to the first
+constraint, 45 minutes to the second constraint, and 30 minutes to the
+third constraint:
+
+* At least 8 hours before the beginning of thr range of time at which
+  I naturally wake up
+
+* At least 8 hours 45 minutes before the time I have set my alarm for
+
+* At least 9.5 hours before the time I absolutely need to get out of bed
+
+The earliest time by which I should be in bed is 2 hours earlier than
+the latest time, unless I am feeling fatigue that makes me want to go
+to bed earlier than that.
 
 Also, **don't get into bed less than 3 hours after finishing my last
 meal**.
