@@ -235,14 +235,17 @@ sleep](../../best-practices/best-practices-around-sleep.md), adjusting
 thresholds for cold winter days. See
 [here](https://github.com/vipulnaik/diet-exercise-health/commit/1a7f4242543d42d1185ac16839d9cecbfd8fdd57).
 
-### Recovery the next day
+### Recovery the next day (Friday 2025-02-07)
 
-Unfortunately, I wasn't able to sleep extra the next day, because the
-strong bowel pressure worked to wake me up. I went to sleep at 2:03
-AM, got up mid-sleep to urinate at 8:46 AM, and then formally woke up
-at 9:29 AM, so I got a little under 7.5 hours of sleep. On the plus
-side, the indoor temperature was higher, so I didn't have that much of
-a need to sleep in.
+Unfortunately, I wasn't able to sleep extra the next day (Friday
+2025-02-07), because the strong bowel pressure worked to wake me up. I
+went to sleep at 2:03 AM, got up mid-sleep to urinate at 8:46 AM, and
+then formally woke up at 9:29 AM, so I got a little under 7.5 hours of
+sleep. On the plus side, the indoor temperature was higher, so I
+didn't have that much of a need to sleep in.
 
 I did have a larger bowel movement and got the sense of having caught
 up after yesterday's failed bowel movement.
+
+Overall, I felt fine and not too sleep-deprived, but perhaps not as
+fully refreshed as I might have with some extra sleep.
