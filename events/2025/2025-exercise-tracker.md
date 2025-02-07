@@ -185,3 +185,17 @@ good day to do exercise. However, I also wanted to make sure I got
 enough time for shopping, and if I did jogging (at-home or outside)
 then the post-jogging cooldown period would delay my meal and
 therefore my outside trips. So, I reluctantly skipped jogging.
+
+## 2025-02-07: jogging cut short due to watery flatulence + skipping of strength exercises
+
+On 2025-02-07, instead of jogging+walking 2 miles, I did
+jogging+walking of about 1 mile. I turned around halfway after having
+a watery flatulence, that I attribute to the bowel cycle disruption
+yesterday where I wasn't able to pass stool. Although I did have a
+large bowel movement this morning, there was probably still some
+residual disruption which led to the watery flatulence.
+
+After getting back, I decided to end exercise for today rather than
+continue with at-home jogging, giving me time to deal with the
+implications of the flatulence and also allowing my body to recover
+more fully from the bowel cycle disruption.
