@@ -211,5 +211,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-02-06','TJ English Shelled Peas',2,1),
   ('2025-02-06','Beefsteak tomato',7,1),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-02-06','TJ Sauerkraut',1,1);
+  ('2025-02-06','TJ Sauerkraut',1,1),
+  /* 2025-02-06 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt, and atypically, basil and cinnamon) */
+  ('2025-02-06','Eggplant',1,2),
+  ('2025-02-06','TJ Kale',1,2),
+  ('2025-02-06','TJ Carrots',1,2),
+  ('2025-02-06','Green bell pepper',4,2),
+  ('2025-02-06','Red bell pepper',2,2),
+  ('2025-02-06','Beefsteak tomato',7,2),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-02-06','TJ Carb Savvy Tortillas',1,2);
   /* Double-check the date before committing */
