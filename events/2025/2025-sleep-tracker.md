@@ -190,3 +190,59 @@ It took me a few days to return to a normal-ish cycle.
   not constrained by any work meetings or other obligations, and the
   long sleep duration reflects the cold weather. Overall, I feel like
   I am back on track sleep-wise, so this incident is closed.
+
+## 2025-02-06: interrupted sleep, failed bowel movement
+
+In the recent past, it's been very cold in the mornings, and that has
+meant waking up late. For instance, going from Tuesday 2025-02-04 to
+Wednesday 2025-02-05, I went to sleep at 1:51 AM and woke up at 11:21
+AM, to an indoor temperature of 55 degrees Fahrenheit. When I went to
+urinate at 7:55 AM mid-sleep, the indoor temperature was 51 degrees
+Fahrenheit.
+
+I needed to wake up by around 9:45 AM on Thursday 2025-02-06 for a
+work meeting at 10:30 AM. In order to achieve this after waking up
+late on Wednesday, I skipped exercise. I ended up going to sleep at
+1:29 AM and set alarms for 9:45 AM and 10 AM, which would give me
+about 8 hours 15 minutes to my first alarm time. While not ideal, this
+amount of sleep is generally (in normal weather) sufficient for me to
+perform okay. Falling asleep took a little longer than usual but not by
+much (maybe about 10 to 15 minutes more than usual?).
+
+However, an alert went off at 9:16 AM, waking me up mid-dream. After
+that, I stayed in bed for a bit, but knowing that I would need to wake
+up shortly anyway, I didn't go back fully to sleep, and I ended up
+getting out of bed and formally waking up at 9:30 AM. The indoor
+temperature I recorded at 9:50 AM was 56 degrees Fahrenheit.
+
+While I would normally develop a strong bowel movement urge within 20
+to 40 minutes after waking up, I hadn''t developed any clear urge by
+10:07 AM when I went for bowel movement to try it before the
+meeting. I returned at 10:28 AM from an unsuccessful bowel movement. I
+urinated quite a bit as part of the bowel movement. I blame
+insufficient sleep and the acute interruption of sleep by the alert;
+although on paper my sleep duration of 8 hour 1 minute is fine, it''s
+too little in the context of winter.
+
+### Actions taken for the future
+
+I changed the "business hours" for some of the alerting services I am
+on to start at 10 AM for the time being, while setting a reminder to
+move them back to 9 AM after a few weeks.
+
+I made a few updates to the [best practices around
+sleep](../../best-practices/best-practices-around-sleep.md), adjusting
+thresholds for cold winter days. See
+[here](https://github.com/vipulnaik/diet-exercise-health/commit/1a7f4242543d42d1185ac16839d9cecbfd8fdd57).
+
+### Recovery the next day
+
+Unfortunately, I wasn't able to sleep extra the next day, because the
+strong bowel pressure worked to wake me up. I went to sleep at 2:03
+AM, got up mid-sleep to urinate at 8:46 AM, and then formally woke up
+at 9:29 AM, so I got a little under 7.5 hours of sleep. On the plus
+side, the indoor temperature was higher, so I didn't have that much of
+a need to sleep in.
+
+I did have a larger bowel movement and got the sense of having caught
+up after yesterday's failed bowel movement.
