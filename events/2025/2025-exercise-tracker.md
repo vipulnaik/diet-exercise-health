@@ -190,10 +190,11 @@ therefore my outside trips. So, I reluctantly skipped jogging.
 
 On 2025-02-07, instead of jogging+walking 2 miles, I did
 jogging+walking of about 1 mile. I turned around halfway after having
-a watery flatulence, that I attribute to the bowel cycle disruption
-yesterday where I wasn't able to pass stool. Although I did have a
-large bowel movement this morning, there was probably still some
-residual disruption which led to the watery flatulence.
+a watery flatulence (the flatulence was around 12:58 PM), that I
+attribute to the bowel cycle disruption yesterday where I wasn't able
+to pass stool. Although I did have a large bowel movement this
+morning, there was probably still some residual disruption which led
+to the watery flatulence.
 
 After getting back, I decided to end exercise for today rather than
 continue with at-home jogging, giving me time to deal with the

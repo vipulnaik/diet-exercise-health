@@ -249,3 +249,6 @@ up after yesterday's failed bowel movement.
 
 Overall, I felt fine and not too sleep-deprived, but perhaps not as
 fully refreshed as I might have with some extra sleep.
+
+I also had a watery flatulence when I went jogging, causing me to turn
+around. The flatulence was at around 12:58 PM.
