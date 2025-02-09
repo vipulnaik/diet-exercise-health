@@ -24,14 +24,12 @@ life. The dimensions along which I want to improve my physical stamina
 further are not really ones that I expect to improve by jogging
 further.
 
-Another reason I don't want to overbuild on jogging is that jogging
-more regularly will both increase my time spent jogging (insofar as I
-will have to increase my total route length from 2 miles to a higher
-value if I regularly jog 2 miles, as I need at least 0.2 miles of
-return walking to cool down). It will also increase my need for
-calorie intake, which means spending more money and time preparing and
-eating food. While this isn't a big downside, I don't see much
-compensating upside.
+Another reason I don't want to overbuild on jogging is that regularly
+jogging beyond the 2 miles (that is my current route) will increase my
+time spent jogging. It will also increase my need for calorie intake,
+which means spending more money and time preparing and eating
+food. While this isn't a big downside, I don't see much compensating
+upside.
 
 With that said, I am definitely open to the possibility of jogging
 more; just not striving in that direction.
@@ -58,29 +56,35 @@ crossing a road, or due to dogs or children nearby who might get
 excited by somebody moving fast, or when cars are moving out of
 parking spots).
 
-The total distance I jog is generally in the range of 1.75-2.0 miles,
-and the distance I walk back is generally in the range of 0-0.25
-miles.
+The total distance I jog is generally in the range of 1.8-2.0 miles,
+and the distance I walk back is generally in the range of 0-0.2
+miles. In some cases, I may jog a little less, at around 1.75 miles,
+generally due to slight fatigue. Also, in cases of slight fatigue, I
+may pause jogging for a few seconds in between due to fatigue even
+before getting to the 1.75 miles
 
 Overall, one way (the first 1 mile, mostly jogging) takes me about
 9-12 minutes and the return journey (mix of jogging and walking)
-takes me about 13-17 minutes.
+takes me about 12-15 minutes.
 
 ### Thresholds
 
-My threshold for the minimum distance jogged, as updated on 2024-11-17, are
-as follows:
+My threshold for the minimum distance jogged, as updated on
+2025-02-09, are as follows:
 
-* Ideal conditions threshold: 1.6 miles
+* Ideal conditions threshold: 1.67 miles
 
-* Slightly degraded conditions threshold: 1.5 miles
+* Slightly degraded conditions threshold: 1.58 miles
 
-* Significantly degraded conditions threshold: 1.4 miles
+* Significantly degraded conditions threshold: 1.5 miles
 
 The ideal conditions threshold applies when I am system-wise healthy
 (though I might have local issues) and don't have overexertion
 fatigue, have been jogging regularly, and the temperature is in the
-range of 13 to 20 degrees Celsius (55 to 68 degrees Fahrenheit).
+range of 13 to 20 degrees Celsius (55 to 68 degrees Fahrenheit). Note
+that this threshold is still comfortably under the 1.75-2.0 miles that
+I usually jog, so there's a decent amount of buffer, reducing the
+pressure for me to feel the need to jog just to meet the threshold.
 
 The slightly degraded conditions threshold applies when only one of these holds:
 
@@ -202,11 +206,12 @@ I have a few different reasons for skipping:
 
 ### Home jogging alternative
 
-With home jogging, I jog in a small loop repeatedly for about 20
+With home jogging, I jog in a small loop repeatedly for about 25 to 30
 minutes at home, while in my socks (no shoes). More specifically, I
-try to do at least 20 minutes (pushing myself to continue if I feel
-like giving up before then) and go on to at most 25 minutes based on
-my mood and time availability.
+try to do at least 25 minutes (pushing myself to continue if I feel
+like giving up before then) and go on to at most 30 minutes based on
+my mood and time availability. However, in cases of time constraints,
+I may shorten the duration based on the time constraints.
 
 While not quite as diverse as outside jogging, it is good enough to
 warm me up for strength exercises. It has the following advantages:
@@ -234,8 +239,8 @@ warm me up for strength exercises. It has the following advantages:
 ## History with jogging
 
 I've been interested in jogging ever since I was around nine or ten
-years old. In fact, I used to jog a comparable amount to what I do now (or even more!)
-even back then.
+years old. In fact, I used to jog a comparable amount to what I do now
+(or even more!)  even back then.
 
 With some lapses in Chicago during cold weather, I've mostly tried to
 continue jogging regularly, with my jogging distances generally being
@@ -269,3 +274,7 @@ and 1.4 miles (from 1.25 miles) respectively.
 
 On 2024-11-20, I formally instituted home jogging as an alternative,
 and gave it a try.
+
+On 2025-02-09, I updated the distance thresholds for jogging as well
+as the duration of home jogging based on recent changes, and also made
+a few edits to the document for clarity.
