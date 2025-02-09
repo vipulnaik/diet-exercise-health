@@ -37,8 +37,8 @@ swimming, where this also helps.
 ### The right target threshold
 
 My current target threshold that I'm hoping to build toward is around
-70 to 90 seconds. Currently (as of 2024-10-14) my range is 50 to 80
-seconds, with most measures being 55 to 70 seconds. Once I hit the
+70 to 90 seconds. Currently (as of 2025-02-09) my range is 55 to 90
+seconds, with most measures being 60 to 85 seconds. Once I hit the
 range of 70 to 90 seconds, I'll feel satisfied and will probably not
 be pushing to improve (though I might experience continued
 improvement).
@@ -50,13 +50,13 @@ winter tends to have a higher load of work related to cooking, food
 purchases, eating, and cleaning, so I am more pressed for time). I
 may return to a more aggressive build mode in the future.
 
-## Current protocol and status as of 2024-12-06
+## Current protocol and status as of 2025-02-09
 
-I do two successive breath holds in the morning, with a gap of about a
-minute in between. Each breath hold generally lasts between 50 and 80
-seconds, with most breath holds lasting between 55 and 70 seconds. My
-goal is that after the end of the breath hold, I may have a few loud
-nasal breaths but should not generally need a mouth breath.
+I do two successive breath holds in the morning, with a gap of about 1
+to 2 minutes in between. Each breath hold generally lasts between 55
+and 90 seconds, with most breath holds lasting between 60 and 85
+seconds. My goal is that after the end of the breath hold, I may have
+a few loud nasal breaths but should not generally need a mouth breath.
 
 My plan is to do this exercise once every 6 days, with the idea being
 to only do it on days that I am *not* planning to do weight-lifting,
@@ -267,3 +267,11 @@ once every 6 days; now I only do this exercise on days when I am not
 doing either weight-lifting + push-ups or dead hang + pull-ups. This
 accompanies an overall reduction in the frequency of those strength
 exercises.
+
+## 2025-02-09 update
+
+I have increased the ranges of durations of breath holds as follows,
+reflecting recent improvements:
+
+* Duration range: (50 to 80 seconds) to (55 to 90 seconds)
+* Typical duration range: (55 to 70 seconds) to (60 to 85 seconds)
