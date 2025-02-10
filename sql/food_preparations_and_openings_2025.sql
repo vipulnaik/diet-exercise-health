@@ -230,5 +230,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-02-08','TJ Roasted Seaweed',1,2),
   ('2025-02-08','Morton Iodized Sea Salt',1,2), /* opened when doing saltwater rinse after second meal */
-  ('2025-02-09','TJ Carb Savvy Tortillas',1,1);
+  ('2025-02-09','TJ Carb Savvy Tortillas',1,1),
+  ('2025-02-09','Kite Hill Greek Style Plant-Based Yogurt',1,2),
+  /* 2025-02-09 (actually past midnight into 2025-02-10) lentils prep; overnight soaking to cook the next day with turmeric, cumin, and salt */
+  ('2025-02-09','TJ Green Lentils',0.5,3);
   /* Double-check the date before committing */
