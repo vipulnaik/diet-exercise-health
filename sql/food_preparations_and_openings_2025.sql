@@ -235,5 +235,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-02-09 (actually past midnight into 2025-02-10) lentils prep; overnight soaking to cook the next day with turmeric, cumin, and salt */
   ('2025-02-09','TJ Green Lentils',0.5,3),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-02-10','TJ Carb Savvy Tortillas',1,1);
+  ('2025-02-10','TJ Carb Savvy Tortillas',1,1),
+  /* 2025-02-11 potatoes prep (first meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt) */
+  ('2025-02-11','Gold potatoes 5 lb',0.5,1),
+  ('2025-02-11','TJ Kale',1,1),
+  ('2025-02-11','TJ English Shelled Peas',2,1),
+  ('2025-02-11','Beefsteak tomato',6,1),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-02-11','TJ Carb Savvy Tortillas',1,1),
+  ('2025-02-11','TJ Miso Ginger Broth',1,1);
   /* Double-check the date before committing */
