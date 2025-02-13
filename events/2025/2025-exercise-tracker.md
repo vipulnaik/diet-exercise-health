@@ -200,3 +200,8 @@ After getting back, I decided to end exercise for today rather than
 continue with at-home jogging, giving me time to deal with the
 implications of the flatulence and also allowing my body to recover
 more fully from the bowel cycle disruption.
+
+## 2025-02-12: skipped all exercises due to time-sensitive stuff with day job
+
+On Wednesday 2025-02-12, I skipped all exercises due to time-sensitive
+stuff with my day job.
