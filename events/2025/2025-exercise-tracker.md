@@ -222,3 +222,11 @@ most easily accomplished by skipping exercise.
 I did do hand gripper exercises (just before my meal) as well as
 standing-on-one-leg-with-eyes-closed and
 standing-on-toes-with-eyes-closed exercises (after my meal).
+
+## 2025-02-14: continued skipping of strength exercises to shift to an earlier sleep cycle
+
+On Friday 2025-02-14, I continued skipping strength exercises in order
+to be able to shift to an earlier sleep cycle. My efforts on Thursday
+to shift my cycle had not fully succeeded (I did go to sleep an hour
+earlier, but ended up waking at the old time likely to catch up with a
+slight sleep backlog).

@@ -252,3 +252,35 @@ fully refreshed as I might have with some extra sleep.
 
 I also had a watery flatulence when I went jogging, causing me to turn
 around. The flatulence was at around 12:58 PM.
+
+## 2025-02-11 night onward: shifted sleep cycle due to staying up late for some work stuff
+
+On 2025-02-11 going into 2025-02-12, I had to stay up late for
+time-sensitive work stuff that ended up going into an exception
+case. I ended up going to sleep at 3:29 AM, and had to skip some
+pre-sleep activities, like night-time bath, flossing and rinsing,
+emptying out the prepped rice, and cleaning the rice pot. I did make a point of brushing my teeth.
+
+I got up to urinate at 8:20 AM on 2025-02-12, checked some stuff with
+the work situation, and went back into bed shortly. I stayed in bed
+through the alarms set for 11:30 AM and 11:45 AM, and finally woke up
+at 11:53 AM.
+
+I skipped exercise to focus on the work situation. The situation
+finally got under control around 7:30 PM. I had a (mostly non-work)
+meeting with work colleagues at 8 PM that went on till 11 PM, and as a
+result my second meal was significantly delayed (I had it 11:35 PM to
+12:07 AM). I finally went to sleep at 3:36 AM, a similar time as
+yesterday, albeit without having to skip any steps unlike yesterday's
+crash sleep.
+
+On 2025-02-13, I got up to urinate at 9:49 AM, then went back to
+sleep.  I finally woke up at 11:54 AM. As the work situation was more
+under control, I skipped most exercises in order to shift my schedule
+back. I did end up finishing my second meal at 9:08 PM, which would
+have allowed me to go to sleep around 1 AM. However, I ended up
+catching up on small work items for a while and finally went to sleep
+at 2:36 AM. Still an hour earlier than the last two days, so progress.
+
+On 2025-02-14, I went to urinate at 10:01 AM, then went back to bed. I
+finally woke up at 11:49 AM.
