@@ -205,3 +205,20 @@ more fully from the bowel cycle disruption.
 
 On Wednesday 2025-02-12, I skipped all exercises due to time-sensitive
 stuff with my day job.
+
+## 2025-02-13: skipped most exercises to shift to an earlier sleep cycle while still getting time to wrap up time-sensitive stuff with day job
+
+On Thursday 2025-02-13, I skipped most exercises, in particular
+jogging and strength exercises, to be able to shift my sleep cycle
+back to normal-ish after staying up and sleeping in late for a couple
+of days due to time-sensitive stuff with the day job. Cutting exercise
+made the most sense as I still had things to catch up on with the
+time-sensitive stuff, so I didn't want to eat into other
+time. Moreover, exercise made particular sense because doing exercises
+adds not just the time of the exercise but the wait time between
+exercise and meal, delaying my whole day. Shifting the day earlier is
+most easily accomplished by skipping exercise.
+
+I did do hand gripper exercises (just before my meal) as well as
+standing-on-one-leg-with-eyes-closed and
+standing-on-toes-with-eyes-closed exercises (after my meal).
