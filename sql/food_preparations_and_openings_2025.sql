@@ -250,5 +250,16 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-02-11','TJ Turmeric',1,2), /* opened as part of rice prep */
   ('2025-02-11','Kite Hill Greek Style Plant-Based Yogurt',1,2),
   ('2025-02-12','TJ Carb Savvy Tortillas',1,1),
-  ('2025-02-13','TJ Carb Savvy Tortillas',1,1);
+  ('2025-02-13','TJ Carb Savvy Tortillas',1,1),
+  /* 2025-02-13 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt) */
+  ('2025-02-13','Eggplant',1,2),
+  ('2025-02-13','TJ Kale',1,2),
+  ('2025-02-13','TJ Carrots (Organic)',1,2),
+  ('2025-02-13','Green bell pepper',4,2),
+  ('2025-02-13','Red bell pepper',2,2),
+  ('2025-02-13','Beefsteak tomato',6,2),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-02-13','Kite Hill Greek Style Plant-Based Yogurt',1,2),
+  ('2025-02-13','TJ Roasted Seaweed',1,2), /* faster completion than usual because of consumption in both meals of the day from 2025-02-10 onward in light of sauerkraut pause */
+  ('2025-02-13','TJ Carb Savvy Tortillas',1,2);
   /* Double-check the date before committing */
