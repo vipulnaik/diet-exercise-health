@@ -263,5 +263,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-02-13','TJ Roasted Seaweed',1,2), /* faster completion than usual because of consumption in both meals of the day from 2025-02-10 onward in light of sauerkraut pause */
   ('2025-02-13','TJ Carb Savvy Tortillas',1,2),
   /* 2025-02-14 rice prep (second meal) (added turmeric, cumin, and salt) */
-  ('2025-02-14','Lundberg Sustainable California White Basmati Rice',0.9,2);
+  ('2025-02-14','Lundberg Sustainable California White Basmati Rice',0.9,2),
+  /* 2025-02-15 potatoes prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt, and somewhat unusually, a bit of cinnamon) */
+  ('2025-02-15','Gold potatoes 5 lb',0.5,2),
+  ('2025-02-15','TJ Kale',1,2),
+  ('2025-02-15','TJ English Shelled Peas',2,2),
+  ('2025-02-15','Beefsteak tomato',5,2),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-02-15','TJ Carb Savvy Tortillas',1,2),
+  ('2025-02-15','Kite Hill Greek Style Plant-Based Yogurt',1,2);
   /* Double-check the date before committing */
