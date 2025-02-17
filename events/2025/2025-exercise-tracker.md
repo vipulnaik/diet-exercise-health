@@ -230,3 +230,9 @@ to be able to shift to an earlier sleep cycle. My efforts on Thursday
 to shift my cycle had not fully succeeded (I did go to sleep an hour
 earlier, but ended up waking at the old time likely to catch up with a
 slight sleep backlog).
+
+## 2025-02-17: skipping of jogging to make time for chores and shift to an earlier sleep cycle
+
+On Monday 2025-02-17, I skipped jogging to make time for personal
+chores and shift to an earlier sleep cycle. I anyway didn't have to do
+strength exercises on this day.
