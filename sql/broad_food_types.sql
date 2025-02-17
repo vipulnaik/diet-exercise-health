@@ -22,6 +22,7 @@ insert into broad_food_types(broad_food_type, notes) values
   ('Broccoli','Nutritious thing'),
   ('Almond milk','Rich in added calcium and vitamins A and D'),
   ('Walnut','Rich in omega-3 and my main source of invisible fat'),
+  ('Almond','An alternative nut to walnuts when I am not able to procure walnuts'),
   ('Olive oil','Rich in monounsaturated fat and my main source of visible fat'),
   ('Sauerkraut / Kimchi','Fermented cabbage, mainly for probiotic effects; ideal as a probiotic when I am feeling well'),
   ('Vegan probiotic yogurt','Yogurt based on almond, coconut, or a combination, and with probiotics; ideal as a probiotic when I have an upset stomach'),
