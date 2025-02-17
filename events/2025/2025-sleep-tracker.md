@@ -275,12 +275,54 @@ yesterday, albeit without having to skip any steps unlike yesterday's
 crash sleep.
 
 On 2025-02-13, I got up to urinate at 9:49 AM, then went back to
-sleep.  I finally woke up at 11:54 AM. As the work situation was more
-under control, I skipped most exercises in order to shift my schedule
-back. I did end up finishing my second meal at 9:08 PM, which would
-have allowed me to go to sleep around 1 AM. However, I ended up
-catching up on small work items for a while and finally went to sleep
-at 2:36 AM. Still an hour earlier than the last two days, so progress.
+sleep. I finally woke up at 11:54 AM, for a total sleep duration of 8
+hours 18 minutes, minus about 4 minutes for the urination trip in
+between. As the work situation was more under control, I skipped most
+exercises in order to shift my schedule back. I did end up finishing
+my second meal at 9:08 PM, which would have allowed me to go to sleep
+around 1 AM. However, I ended up catching up on small work items for a
+while and finally went to sleep at 2:36 AM. Still an hour earlier than
+the last two days, so progress.
 
 On 2025-02-14, I went to urinate at 10:01 AM, then went back to bed. I
-finally woke up at 11:49 AM.
+finally woke up at 11:49 AM, for a total sleep duration of 9 hours 13
+minutes (minus about 6 minutes for the urination in between and
+associated other activities at the time). I went to sleep at 1:35 AM,
+which was an hour earlier than the previous day.
+
+On 2025-02-15, I got up to urinate at 8:35 AM, while the indoor
+temperature was 52 degrees Fahrenheit. I went back to sleep. My alarm
+went off at 11:30 AM and I finally woke up at 11:35 AM, for a total
+sleep duration of 10 hours, minus 5 minutes for the urination
+trip. The indoor temperature at this point was 58 degrees
+Fahrenheit. Given that I woke up this late, and given that I had a
+bunch of things to do during the day, I went to sleep at 2:52 AM.
+
+On 2025-02-16 I got up to urinate at 9:02 AM, when the indoor
+temperature was 57 degrees Fahrenheit. I went back to sleep, and
+properly woke up at 11:51 AM after getting through alarms at 11:30 AM
+and 11:45 AM, for a total sleep duration of 8 h ours 59 minutes, minus
+6 minutes for the urination trip. I went to sleep at 1:29 AM, staying
+awake for less than 14 hours (and therefore having a short day with
+less work done than usual).
+
+On 2025-02-17, I got up to urinate at 7:32 AM and then got up briefly
+around 8:25 AM. I finally woke up at 11:37 AM after getting through an
+alarm at 11:30 AM, for a total sleep duration of 10 hours 8 minutes,
+minus 14 minutes for my two in-between waking-up periods.
+
+As of 2025-02-17 early afternoon, my guess is that it's one of these
+factors:
+
+* My "sleep need" in this weather is about 9 hours, so the two days I
+  slept for just 8 hours (about 3:30 to 11:30) resulted in a sleep
+  backlog of about 2 hours, which I made up for with the two days of
+  sleeping 10 hours, so about 9 hours should suffice in the future.
+
+* As a result of those two late nights, my "waking-up time" has been
+  programmed to about 11:30 AM (and maybe even later if I didn't have
+  the alarms) so even if I sleep before 2:30 AM I just end up sleeping
+  more.
+
+Let's see what happens over the next couple of days and we'll be able
+to disambiguate the hypotheses.
