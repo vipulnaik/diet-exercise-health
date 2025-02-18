@@ -116,12 +116,11 @@ machine) as part of my monthly blood pressure readings (as well as
 other one-off readings in response to health events or other
 incidents) in
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql). As
-of 2025-01-18, my latest morning heart rate readings from the BP
+of 2025-02-18, my latest morning heart rate readings from the BP
 machine (before exercise or eating) as measured as part of blood
-pressure measurement were on 2025-01-18 with readings of 58 bpm and 60
-bpm respectively. Earlier readings on 2024-12-15 (which are a little
-lower and more typical when the ambient temperature is warmer) were 49
-bpm and 48 bpm respectively.
+pressure measurement were on 2025-02-18 with both readings coming to
+53 bpm. The ambient temperature at the time I took the readings was 61
+degrees Fahrenheit.
 
 I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
@@ -172,7 +171,7 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting morning blood pressure readings (taken
-2025-01-18) were 98/66 and 101/69. My most recent afternoon blood
+2025-02-18) were 101/62 and 97/64. My most recent afternoon blood
 pressure readings (taken 2024-12-14 about 2.5 hours after finishing a
 meal) were 102/62 and 93/60.
 
