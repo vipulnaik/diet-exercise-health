@@ -76,3 +76,7 @@ in the day, for instance, in the evening, after my
 * 2025-01-16: 154.6 points moving average, placing me at the 98.34th
   percentile. Not much has changed qualitatively since the last
   update on 2024-11-20.
+
+* 2025-02-18: 137.2 points moving average, placing me at the 97.24th
+  percentile. Not much has changed qualitatively since the last update
+  on 2025-01-16.

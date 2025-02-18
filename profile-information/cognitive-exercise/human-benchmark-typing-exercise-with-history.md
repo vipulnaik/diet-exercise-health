@@ -58,6 +58,10 @@ My goal is to play about 1-3 times a week.
   due to the colder conditions making it a little harder to type fast
   and accurately.
 
-* 2025-01-16: 97 wpm moving average, placing me at the 94.12the
+* 2025-01-16: 97 wpm moving average, placing me at the 94.12th
   percentile. Not much has changed qualitatively since the last update
   on 2024-11-20.
+
+* 2025-02-18: 100 wpm moving average, placing me at the 94.12th
+  percentile. NOt much has changed qualitatively since the last update
+  on 2025-01-16.

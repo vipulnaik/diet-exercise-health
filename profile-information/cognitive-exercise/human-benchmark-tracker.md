@@ -39,3 +39,17 @@ quite a bit:
 * Aim trainer: 721 ms, placing me at the 4.3th percentile. I expect to
   improve a little bit here with more practice, to at least get past
   the percentile for reaction time.
+
+## 2025-02-18
+
+* Visual memory: 10.2 points moving average, placing me at the 40.53th
+  percentile. Not much has changed qualitatively since the last update
+  on 2024-10-15.
+
+* Reaction time: 276 ms moving average, placing me at at 11.31th
+  percentile. Not much has changed qualitatively since the last update
+  on 2024-10-15.
+
+* Aim trainer: 705 ms moving average, placing me at the 4.34th
+  percentile. Not much has changed qualitatively since the last update
+  on 2024-10-15.

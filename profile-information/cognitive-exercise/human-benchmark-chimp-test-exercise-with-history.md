@@ -114,3 +114,8 @@ transform the stored sequence to account for the disappearances.
 * 2025-01-16: 16.6 points moving average, placing me at the 97.47th
   percentile. Not much has changed qualitatively since the last
   update on 2024-11-17.
+
+* 2025-02-18: 17.2 points moving average, placing me at the 98.12th
+  percentile. Not much has changed qualitatively since the last update
+  on 2025-01-16; I've just gotten a little bit better and shed the
+  older, lower scores from the moving average.
