@@ -122,7 +122,11 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-02-15','Trader Giotto''s Olive Oil',1),
   ('2025-02-15','TJ Miso Ginger Broth',1),
   ('2025-02-15','Beefsteak tomato',9),
-  ('2025-02-15','TJ Roasted Seaweed',1);
+  ('2025-02-15','TJ Roasted Seaweed',1),
+  /* 2025-02-17 (Monday) Whole Foods; total cost $27.45; checkout at 5:48 PM; paid by credit card; 5 items in transaction */
+  ('2025-02-17','Whole Foods Organic Multigrain and Seed Sandwich Bread',1),
+  ('2025-02-17','Whole Foods Mexical Whole Wheat Tortillas',1),
+  ('2025-02-17','Whole Foods Walnuts Halves and Pieces',3); /* 16 oz = 1 lb */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
