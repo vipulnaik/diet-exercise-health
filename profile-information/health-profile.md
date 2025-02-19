@@ -419,7 +419,7 @@ plan to do any further research or lifestyle adjustment around insulin
 sensitivity.
 
 If I do get new information, I may look into also adding post-prandial
-glucse + insulin measurements. This will involve getting a
+glucose + insulin measurements. This will involve getting a
 post-prandial blood test.
 
 ### Glycemic control
