@@ -4,8 +4,14 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
-Last minor update: January 15, 2025 (to ongoing incidents and ears and
-hearing status sections)
+Last substantive minor update: February 19, 2025
+
+NOTE (2025-02-19): I got [blood tests done on January 22,
+2025](../events/2025/2025-01-22-blood-tests.md). I got the results
+back shortly after that, but as of February 2025, have not had time to
+enter the results in the SQL file and incorporate them into the health
+profile. I plan to do this updating over the next few weeks, and will
+remove this note once the update is complete.
 
 This is the health profile for Vipul Naik, an adult male in his late
 30s (born 1986). It is updated periodically. It does not include
@@ -126,7 +132,7 @@ I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
 health events or other incidents) in
 [pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql). As
-of 2024-12-15, my latest morning heart rate reading from the pulse
+of 2025-02-18, my latest morning heart rate reading from the pulse
 oximeter (before exercise or eating) as measured by the pulse oximeter
 was on 2024-10-13 with a range of 49-55 bpm. During winter months, the
 pulse oximeter tends to have trouble reading out in the morning,
@@ -221,7 +227,7 @@ once it is done.
 ## Dental status
 
 * I generally get dental checkups and cleaning done every 6-7
-  months. As of 2024, my dental care is handled by Total Health Dental
+  months. As of 2025, my dental care is handled by Total Health Dental
   Care, and I go to the branch at 3017 Telegraph Avenue, Berkeley, CA
   94705. The notes for the most recent appointment should reflect the
   current status of my dental health. Look in the folder
@@ -250,7 +256,7 @@ once it is done.
 
 ## Eye status
 
-* I get eye exams every 1-2 years. As of 2024, I get my eye exams from
+* I get eye exams every 1-2 years. As of 2025, I get my eye exams from
   UC Berkeley Optometry. Look in the `events/<year>` folders for files
   with `eye-exam` in them to locate information on my eye exams. The
   most recent one is generally the one to pay attention to. As of the
@@ -323,7 +329,7 @@ of all test results for me so far of tests discussed in this section.
 The spectrum from insulin sensitivity to insulin resistance measures
 how sensitive the body is to insulin for the purpose of controlling
 blood glucose. The more sensitive, the less insulin is needed to
-maintain normal blood glucose. As of 2024, my insulin sensitivity
+maintain normal blood glucose. As of 2025, my insulin sensitivity
 seems to be in the optimal range. I do not seem to have insulin
 resistance, and I plan to continue monitoring for this.
 
@@ -594,7 +600,7 @@ Lp(a) is significant for the following reasons:
 
 * On the other hand, PCSK9 inhibitors, a more expensive and more
   recent type of medication for high atherogenic particle
-  concentrations, do reduce Lp(a) somewhat. As of 2024, there is no
+  concentrations, do reduce Lp(a) somewhat. As of 2025, there is no
   oral PCSK9 inhibitor, though there's one from Merck (called MK-0616)
   that is under trial (see
   [here](https://www.merck.com/news/merck-initiates-phase-3-clinical-program-for-oral-pcsk9-inhibitor-candidate-mk-0616/)).
@@ -1009,7 +1015,7 @@ Here are some highlights of my current diet:
   getting all of these. This was to the point that I haven't needed a
   microwave oven at all since 2022.
 
-* As of 2024, I have basically zero sugar-heavy foods or drinks.
+* As of 2025, I have basically zero sugar-heavy foods or drinks.
 
 * I have two meals a day on a typical day. My first meal is generally
   after my morning exercise (with a suitable waiting period in between
@@ -1415,7 +1421,7 @@ In the early 2010s, I had issues with falling asleep, and experimented
 with taking melatonin a few times to improve my sleep quality. I did
 not find clear improvement (but did not test extensively enough to get
 conclusive information). In any case, my sleep issues resolved
-themselves over time. As of 2024, I don't have any ongoing sleep
+themselves over time. As of 2025, I don't have any ongoing sleep
 issues (such as difficulty falling asleep, highly restless sleep,
 etc.)
 
