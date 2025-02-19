@@ -366,7 +366,7 @@ and VLDL portions.
 #### Ratio of triglycerides to HDL (TG/HDL-C ratio)
 
 The ratio of triglycerides to HDL cholesterol (known as the TG/HDL-C
-ratio)is considered an approximate measure of insulin resistance; a
+ratio) is considered an approximate measure of insulin resistance; a
 higher TG/HDL-C ratio indicates more insulin resistance. Roughly,
 ratios of 2 or lower are considered ideal; [this
 paper](https://www.sciencedirect.com/science/article/abs/pii/S1933287421001197)
