@@ -324,5 +324,33 @@ factors:
   the alarms) so even if I sleep before 2:30 AM I just end up sleeping
   more.
 
-Let's see what happens over the next couple of days and we'll be able
-to disambiguate the hypotheses.
+I went to sleep at 1:32 AM.
+
+I did mid-sleep urination at 4:54 AM. I woke up at 9:32 AM after
+alarms at 9:15 AM and 9:30 AM, for a planned meeting at 10 AM (that
+ultimately got cancelled). Although a little bit underslept, I stayed
+awake and I went for a bowel movement at 10:44 AM, suggesting that my
+sleep had been adequate.
+
+Since I had a lot of things to do (partly due to short periods of
+staying awake in the past few days) I ended up being able to go to
+sleep only at 2:57 AM; the temperature at this time was 62 degrees
+Fahrenheit. I woke up mid-sleep to urinate at 9:02 AM. The temperature
+at this time was 59 degrees Fahrenheit.I then went back to bed, got
+through alarms at 11 AM and 11:15 AM, and finally woke up at 11:23 AM;
+the temperature at this time was 60 degrees Fahrenheitx. This
+particular night was warmer than usual, with the temperature staying
+at or above 59 degrees Fahrenheit.
+
+This wraps up the incident as far as I am concerned. Overall, my
+assessment is as follows:
+
+* I need about 8 to 9 hours of sleep depending on the minimum
+  temperature value. When it's 59, about 8.5 hours is fine. When it
+  goes down to 56-57, 9 hours is needed. When it goes down even
+  further, even more hours are needed.
+
+* Based on the temperature minimum pattern, waking up some time 10:30
+  AM or later is ideal. But I can manage 9:30 AM if needed for a
+  meeting, as long as I don't have a sleep backlog and try to get at
+  least 8 hours of sleep (ideally more).
