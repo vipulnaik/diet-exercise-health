@@ -753,7 +753,7 @@ Here's a quicker primer:
 
 Here is a simple 2 X 2 of hypothyroidism and hyperthyroidism:
 
-            |          High TSH         |        Low TSH
+   Case     |          High TSH         |        Low TSH
   --        |            --             |           --
 High T3, T4 | secondary hyperthyroidism | primary hyperthyroidism
 Low T3, T4  | primary hypothyroidism    | secondary hypothyroidism
