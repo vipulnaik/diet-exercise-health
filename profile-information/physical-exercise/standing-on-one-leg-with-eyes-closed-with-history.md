@@ -382,16 +382,3 @@ reduce my total exercise time, particularly on the days where it's
 longer, and as a side-effect also make it more equal across days. If I
 find deterioration from this reduced frequency, I might increase the
 frequency to two out of three days.
-
-## Standing on one leg with eyes open: standard version
-
-I already mentioned standing on one leg with eyes open as an exercise
-I might do if I am not able to clear the threshold for standing on one
-leg with eyes closed. However, separate from that, I should also do
-the exercise of standing on one leg with eyes open (for two minutes or
-however long I can maintain my balance) at least once a month (EDITED
-2024-11-30 from "once a week"), once for each leg. Since this is a
-somewhat time-consuming exercise, I should generally do it on a
-weekend day; it generally makes sense to do before strength exercises,
-so I should do it on the weekend day that I'm doing strength
-exercises.

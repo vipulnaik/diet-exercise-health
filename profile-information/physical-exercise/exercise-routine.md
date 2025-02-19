@@ -19,6 +19,7 @@ Sections of this document:
 * [Weight-lifting exercises](#weight-lifting-exercises)
 * [Push-ups](#push-ups)
 * [Standing-on-one-leg-with-eyes-closed exercise](#standing-on-one-leg-with-eyes-closed-exercise)
+* [Standing-on-one-leg-with-eyes-open exercise](#standing-on-one-leg-with-eyes-open-exercise)
 * [Standing-on-toes-with-eyes-closed exercise](#standing-on-toes-with-eyes-closed-exercise)
 * [Hand gripper exercise](#hand-gripper-exercise)
 * [Dead hang](#dead-hang)
@@ -187,6 +188,24 @@ leg.
 
 See [here](standing-on-one-leg-with-eyes-closed-with-history.md) for
 more details.
+
+## Standing-on-one-leg-with-eyes-open exercise
+
+Goal of exercise: maintain (not trying to build though I do expect
+some improvement over time)
+
+This is a standard exercise of standing on one leg with both eyes
+closed. The exercise provides both a measurement of and helps improve
+balance.
+
+When I do this exercise, I do one round standing on the right leg, and
+one round standing on the left leg.
+
+As of February 2025, my aim is to be able to manage at least 4 minutes
+on each leg.
+
+Given the long time commitment of the exercise, I aim to do it only
+once a month.
 
 ## Standing-on-toes-with-eyes-closed exercise
 
