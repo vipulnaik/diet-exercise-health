@@ -236,3 +236,8 @@ slight sleep backlog).
 On Monday 2025-02-17, I skipped jogging to make time for personal
 chores and shift to an earlier sleep cycle. I anyway didn't have to do
 strength exercises on this day.
+
+## 2025-02-19: at-home jogging due to wet sidewalks from rain a few hours prior
+
+On Wednesday 2025-02-19, I did at-home jogging as the sidewalks were
+wet from rain a few hours prior.
