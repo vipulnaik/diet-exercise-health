@@ -48,19 +48,21 @@ I might also use these songs in the future:
 For the Chennai Express theme song, my current observations are as follows:
 
 * I can do the 1 in 32 beats for about 1 round but may feel out of
-  breath and miss additional beats toward the end. I can then follow
-  it up with 1 in 16 beats for one additional round. **This is my
-  default.**
+  breath and miss additional beats toward the end.
 
-* I can do the 1 in 16 beats for a few rounds of the song
-  comfortably.
+* I follow up with 1 round of 1 in 24 beats. Here, I sometimes make it
+  to the end fine, and sometimes miss an additional beat.
+
+* I then follow up by doing the 1 in 16 beats for a few rounds of the
+  song comfortably.
 
 * When jogging, right at the start of jogging, I can manage 1 in 8
   beats, but after a few minutes, I can only manage 1 in 4 (or even 2
   in 4) beats.
 
-The protocol is to do one iteration of the first bullet point and at
-least one iteration of the second bullet point shortly after.
+The protocol is to do the first three bullet points, though in case of
+time constraints, I may also do the first two (i.e., skip the 1 in 16
+that I know I can do).
 
 For frequency, I should do this in the morning before going jogging,
 roughly once every 6 days, determined as alternate days among days
@@ -79,7 +81,7 @@ frequency was alternate days before going jogging.
 ### Update on 2024-11-16
 
 On 2024-11-16, based on progress, I've upped the expectation to
-comfortable do 1 in 16 and to be able to do 1 in 32 for almost one
+comfortably do 1 in 16 and to be able to do 1 in 32 for almost one
 round.
 
 ### Update on 2024-11-30 effective 2024-12-01
@@ -113,10 +115,16 @@ push-ups.
   food-related work, *but* I don't yet know how I will want to direct
   that freed-up time.
 
-## 2024-12-06 update
+### 2024-12-06 update
 
 I am reducing the frequency of this exercise from once every 4 days to
 once every 6 days; now I only do this exercise on days when I am not
 doing either weight-lifting + push-ups or dead hang + pull-ups. This
 accompanies an overall reduction in the frequency of those strength
 exercises.
+
+### 2025-02-19 update
+
+I updated the protocol to include the 1 in 24 round that I have
+recently started doing in practice. I also noted that I might skip the
+rounds for 1 in 16 in case of time constraints.
