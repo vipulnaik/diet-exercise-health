@@ -45,6 +45,14 @@ time-sensitive.
 
 ## Tests
 
+* Execute on [2025 blood test plans: round
+  2](../events/2025/2025-blood-test-plans-round-2.md).
+
+* Finish data entry for blood tests done 2025-01-22.
+
+  * Look into 23andMe MTHFR stuff and methylated B vitamin
+    investigation in connection with homocysteine analysis.
+
 * Look into DEXA scans to be done in 2025. For instance, whole-body
   scans by BodySpec (see
   [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
@@ -72,11 +80,6 @@ time-sensitive.
     would be more interesting to get this benchmark after more time
     following the kind of exercise regimen that I think is both
     desirable and sustainable.
-
-* Continue with further parts of [2025 blood test
-  plans](../events/2025/2025-blood-test-plans.md). The first round is
-  already scheduled; see [2025 blood test plans: round
-  1](../events/2025/2025-blood-test-plans-round-1.md).
 
 * Get a heart echocardiogram, ECG. etc. For instance,
   https://www.lifelinescreening.com/lp/vascular-screening-nurse offers
