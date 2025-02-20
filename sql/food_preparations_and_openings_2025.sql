@@ -300,6 +300,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-02-19','TJ Carb Savvy Tortillas',1,1),
   ('2025-02-19','Kite Hill Greek Style Plant-Based Yogurt',1,2),
   ('2025-02-19','TJ Roasted Seaweed',1,2),
-  /* 2025-02-19 lentils prep (overnight soaking to cook the next day) */
+  /* 2025-02-19 lentils prep (overnight soaking to cook the next day; added turmeric, cumin, and salt after draining soaking water and adding water for cooking) */
   ('2025-02-19','TJ Green Lentils',0.5,3);
   /* Double-check the date before committing */
