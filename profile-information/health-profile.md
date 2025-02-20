@@ -1317,13 +1317,6 @@ issues.
 
 ## Physical exercise
 
-When feeling well, I do running/jogging almost-daily, strength
-exercises about 3 times a week, and various balance/flexibility
-exercises several times a week (between 3 and 7 times a week). I also
-do hand gripper exercises and breath holds daily. When I am less well,
-I may do a limited subset of these exercises, or reduce their
-frequency or intensity.
-
 I describe my exercise routine in more detail in
 [exercise-routine.md](physical-exercise/exercise-routine.md). I record
 my deviations from routine in an annual tracker file. For instance,
