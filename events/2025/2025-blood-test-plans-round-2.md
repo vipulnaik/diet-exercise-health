@@ -1,8 +1,10 @@
 # 2025 blood test plans: round 2
 
-Target booking date: some time late February / early March
+Target booking date: some time late February / early March (time
+permitting), otherwise some time in early-to-mid June
 
-Target blood draw date: some time late March / early April
+Target blood draw date: some time late March / early April (time
+permitting), otherwise some time in late June / early July
 
 ## Tests around lipids, insulin resistance, and diabetic tendencies
 
