@@ -78,3 +78,27 @@ Can be combined with total testosterone and albumin (part of CMP)
 using an online calculator such as
 [this](https://www.mdapp.co/free-and-bioavailable-testosterone-calculator-544/)
 to estimate free testosterone.
+
+## Tests of markers around inflammation and endothelial dysfunction that are particularly relevant for atherosclerotic risk
+
+### Complete blood count (CBC) with differential
+
+* https://ownyourlabs.com/product/cbc-with-differential-platelet/ ($8.40)
+* https://marekdiagnostics.com/products/complete-blood-count-cbc-with-nlr-differential-and-platelets ($10)
+* https://requestatest.com/cbc-with-differential-testing (LabCorp: $29; Quest Diagnostics: $35)
+
+Done in round 1 for 2025, with normal results. I'd like to do this
+again in round 2 to get more data points and be able to identify
+concerning trends.
+
+### C-reactive protein (high-sensitivity) as an inflammatory marker relevant to atherosclerosis
+
+* https://ownyourlabs.com/product/c-reactive-protein-cardiac/ ($26.40)
+* https://marekdiagnostics.com/products/c-reactive-protein-high-sensitivity-hs-crp ($23)
+* https://requestatest.com/c-reactive-protein-high-sensitivity-testing (LabCorp: $59; Quest Diagnostics: $59)
+
+Done in round 1 for 2025, with normal results. I'd like to do this
+again in round 2 to get more data points and be able to identify
+concerning trends. My expectation is that if round 2 comes back normal
+as well, the frequency going forward will be 1 to 2 times a year
+instead of 2 to 4 times a year.
