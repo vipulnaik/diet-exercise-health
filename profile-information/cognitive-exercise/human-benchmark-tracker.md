@@ -13,6 +13,7 @@ page:
 * [Number memory](human-benchmark-number-memory-exercise-with-history.md)
 * [Chimp test](human-benchmark-chimp-test-exercise-with-history.md)
 * [Typing](human-benchmark-typing-exercise-with-history.md)
+* [Reaction time](human-benchmark-reaction-time-exercise-with-history.md)
 
 ## 2024-09-21
 
@@ -32,10 +33,6 @@ quite a bit:
   highest level ever is 13, which may have been due to getting lucky
   with some patterns.
 
-* Reaction time: 303 ms, placing me at the 7.3th percentile. This seems
-  very hard to improve. I rarely get reaction times less than 230 ms,
-  even in the best of times.
-
 * Aim trainer: 721 ms, placing me at the 4.3th percentile. I expect to
   improve a little bit here with more practice, to at least get past
   the percentile for reaction time.
@@ -43,10 +40,6 @@ quite a bit:
 ## 2025-02-18
 
 * Visual memory: 10.2 points moving average, placing me at the 40.53th
-  percentile. Not much has changed qualitatively since the last update
-  on 2024-10-15.
-
-* Reaction time: 276 ms moving average, placing me at at 11.31th
   percentile. Not much has changed qualitatively since the last update
   on 2024-10-15.
 
