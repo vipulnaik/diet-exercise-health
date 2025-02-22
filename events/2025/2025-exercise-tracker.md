@@ -241,3 +241,11 @@ strength exercises on this day.
 
 On Wednesday 2025-02-19, I did at-home jogging as the sidewalks were
 wet from rain a few hours prior.
+
+## 2025-02-22: skipping of jogging and strength exercises to make time for chores and shift to an earlier sleep cycle
+
+On Saturday 2025-02-22, I chose to skip jogging and strength
+exercises. This was in order to make time for personal chores as well
+as shift to an earlier sleep cycle, in light of weather changes (it's
+getting warmer, making an earlier sleep cycle more feasible) as well
+as meetings earlier in the morning in the coming week.
