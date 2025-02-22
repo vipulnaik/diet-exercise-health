@@ -56,3 +56,9 @@ and I didn't want my purchased food to get too wet on the way back, I
 decided to take BART back (from downtown Berkeley BART to Ashby BART)
 instead of walking back (which is what makes the trip worthy of
 recording in the activity tracker).
+
+## 2025-02-21
+
+On Friday 2025-02-21, in the evening, I made a long-overdue trip to
+the Walgreens at Adeline Street to stock up on toiletries. I completed
+checkout at 5:42 PM.
