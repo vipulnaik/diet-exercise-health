@@ -125,7 +125,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-02-15','TJ Roasted Seaweed',1),
   /* 2025-02-17 (Monday) Whole Foods; total cost $27.45; checkout at 5:48 PM; paid by credit card; 5 items in transaction */
   ('2025-02-17','Whole Foods Organic Multigrain and Seed Sandwich Bread',1),
-  ('2025-02-17','Whole Foods Mexical Whole Wheat Tortillas',1),
+  ('2025-02-17','Whole Foods Mexican Whole Wheat Tortillas',1),
   ('2025-02-17','Whole Foods Walnuts Halves and Pieces',3), /* 16 oz = 1 lb */
   /* 2025-02-18 (Tuesday) Trader Joe's; total cost $36.39; checkout at 6:23 PM; paid by credit card; 21 items in transaction */
   ('2025-02-18','TJ Kale',2),
