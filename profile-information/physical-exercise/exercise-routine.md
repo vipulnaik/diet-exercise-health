@@ -28,6 +28,7 @@ Sections of this document:
 * [Breath holds](#breath-holds)
 * [Humming with intermittent pauses](#humming-with-intermittent-pauses)
 * [Deliberate falling practice](#deliberate-falling-practice)
+* [Neck strength exercises](#neck-strength-exercises)
 
 ## Functional relevance and goals of exercise
 
@@ -288,3 +289,10 @@ Goal of exercise: maintain and verify
 
 See [here](deliberate-falling-practice-with-history.md) for more
 background information.
+
+## Neck strength exercises
+
+Goal of exercise: build (but no numerical targets or benchmarks yet)
+
+See [here](neck-strength-exercises-with-history.md) for more
+information.
