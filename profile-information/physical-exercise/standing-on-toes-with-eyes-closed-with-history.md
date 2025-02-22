@@ -19,7 +19,29 @@ I don't have standard benchmarks for this, but I think a threshold of
 threshold, though if my performance continues to improve organically,
 I may increase the threshold further.
 
-## Standing on toes with eyes closed: standard version
+## Protocol
+
+* Stand on my toes (both feet). Both the toes and the portion of the
+  foot right before the toe can be in contact with the ground.
+
+* Close my eyes when the seconds counter hits a multiple of 5; note
+  the current time.
+
+* Try to stay in that position for as long as
+  possible, without repositioning either foot. Lifting or sliding
+  either foot is not allowed, and contact of the rest of the foot with
+  the floor is also not allowed. A little bit of rocking is permitted.
+  Continue to try to stand until I lose balance and have to lift one
+  of my feet and place it elsewhere; open my eyes and note the elapsed
+  time.
+
+My goal is to keep trying (up to 5 attempts) until I clear the
+threshold on at least one attempt.
+
+Prior to 2024-11-19, I was using median instead of maximum, but
+maximum makes more sense given the increased threshold.
+
+## Triggers for overall exercise
 
 I've been doing this exercise daily starting Monday 2024-09-09,
 generally as a followup to [standing on one leg with eyes
@@ -31,24 +53,6 @@ in maintain mode with standing-on-one-leg-with-eyes-closed but in
 build mode for standing-on-toes-with-eyes-closed) I think the
 frequency is still good enough to build the little bit more that I
 need to get to my target of 30 seconds.
-
-The process is as follows:
-
-* Stand on my toes (both feet). Both the toes and the portion of the
-  foot right before the toe can be in contact with the ground.
-
-* Close my eyes when the seconds counter hits a multiple of 5; note
-  the current time.
-
-* Continue to try to stand until I lose balance and have to lift one
-  of my feet and place it elsewhere; open my eyes and note the elapsed
-  time.
-
-My goal is to keep trying (up to 5 attempts) until I clear the
-threshold on at least one attempt.
-
-Prior to 2024-11-19, I was using median instead of maximum, but
-maximum makes more sense given the increased threshold.
 
 ## History
 

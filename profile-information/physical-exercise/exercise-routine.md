@@ -21,6 +21,7 @@ Sections of this document:
 * [Standing-on-one-leg-with-eyes-closed exercise](#standing-on-one-leg-with-eyes-closed-exercise)
 * [Standing-on-one-leg-with-eyes-open exercise](#standing-on-one-leg-with-eyes-open-exercise)
 * [Standing-on-toes-with-eyes-closed exercise](#standing-on-toes-with-eyes-closed-exercise)
+* [Standing-on-toes-with-eyes-open exercise](#standing-on-toes-with-eyes-open-exercise)
 * [Hand gripper exercise](#hand-gripper-exercise)
 * [Dead hang](#dead-hang)
 * [Pull-ups](#pull-ups)
@@ -209,12 +210,22 @@ once a month.
 
 ## Standing-on-toes-with-eyes-closed exercise
 
-Goal of exercise: build
+Goal of exercise: maintain
 
 As of February 2025, my aim is to be able to manage at least 30 seconds
 without having to lift and reposition either foot.
 
 See [here](standing-on-toes-with-eyes-closed-with-history.md) for more
+details.
+
+## Standing-on-toes-with-eyes-open exercise
+
+Goal of exercise: build
+
+As of February 2025, my aim is to build toward consistently doing at
+least 3 minutes without having to lift and reposition either foot.
+
+See [here](standing-on-toes-with-eyes-open-with-history.md) for more
 details.
 
 ## Hopping
