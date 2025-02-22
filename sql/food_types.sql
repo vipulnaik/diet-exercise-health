@@ -43,7 +43,7 @@ create table food_types(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into food_types(short_name, long_name, url, calories,
-  /* broad food types */ broad_food_type,
+  /* broad food type */ broad_food_type,
   /* fat-related columns */ total_fat_in_grams, saturated_fat_in_grams, trans_fat_in_grams, monounsaturated_fat_in_grams, polyunsaturated_fat_in_grams,
   /* cholesterol */ cholesterol_in_mg,
   /* sodium and potassium (mostly from salts) */ sodium_in_mg, potassium_in_mg,
@@ -734,6 +734,18 @@ insert into food_types(short_name, long_name, url, calories,
   /* carbohydrate-related columns */ 64,32,16,
   /* protein-related columns */ 64,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,480,12.8,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* notes */ 'I used the information for the back for one serving and multiplied by 16 as it said there are 16 servings per container.'),
+
+  ('TJ Almonds','Trader Joe''s Raw Almonds 16 oz','https://www.amazon.com/Trader-Joes-Raw-Almonds-16/dp/B0071J46MG',2560, /* calories from fat: 1920 */
+  /* broad food type */ 'Almond',
+  /* fat-related columns */ 224,16,0,144,56,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,NULL,
+  /* carbohydrate-related columns */ 96,48,16,
+  /* protein-related columns */ 96,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,NULL,1664 /* using 16 times 8% of RDA 1300 mg for a 2000-calorie diet */,17.28 /* using 16 times 6% of RDA 18 mg for a 2000-calorie diet */,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
   /* notes */ 'I used the information for the back for one serving and multiplied by 16 as it said there are 16 servings per container.');
