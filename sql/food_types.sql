@@ -724,6 +724,18 @@ insert into food_types(short_name, long_name, url, calories,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,448,16,
   /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
+  /* notes */ 'I used the information for the back for one serving and multiplied by 16 as it said there are 16 servings per container.'),
+
+  ('Whole Foods Walnuts Halves and Pieces','Whole Foods Walnuts Halves and Pieces, 16 oz','https://www.wholefoodsmarket.com/product/365-by-whole-foods-market-walnut-halves-and-pieces-16-oz-b074vfq3jm',2880,
+  /* broad food type */ 'Walnut',
+  /* fat-related columns */ 288,24,0,40,208,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,1920,
+  /* carbohydrate-related columns */ 64,32,16,
+  /* protein-related columns */ 64,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ NULL,NULL,0,480,12.8,
+  /* columns for other less commonly reported vitamins and minerals */ NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+  /* special oxalate column added in light of risk of kidney stones */ NULL,
   /* notes */ 'I used the information for the back for one serving and multiplied by 16 as it said there are 16 servings per container.');
 
 /* The list below is for food types for which we either cannot obtain
