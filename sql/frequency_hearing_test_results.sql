@@ -107,4 +107,21 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, co
   ('2025-01-15',1,'bone','right',500,5,'off-and-on audible at 5, continuously audible at 6, cannot hear at all at 4'),
   ('2025-01-15',1,'bone','right',1000,7,'faint but clear at 7, very clear at 8'),
   ('2025-01-15',1,'bone','right',2000,7,'faint but clear at 7, very clear at 8'),
-  ('2025-01-15',1,'bone','right',4000,6,'faint but audible at 6, faint but clear at 7');
+  ('2025-01-15',1,'bone','right',4000,6,'faint but audible at 6, faint but clear at 7'),
+  /* 2025-02-23 11:30 AM test -- both air and bone (this is the once-every-two-months periodic test) */
+  ('2025-02-23',1,'air','left',500,6,'faint but clear at 6 after first refamiliarizing myself with the sound at 7'),
+  ('2025-02-23',1,'air','left',1000,5,'faint but clear at 5'),
+  ('2025-02-23',1,'air','left',2000,4,'faint but clear at 4'),
+  ('2025-02-23',1,'air','left',4000,2,'faint but clear at 2 after refamiliarizing myself with the sound at 3'),
+  ('2025-02-23',1,'air','right',500,5,'very faint at 5 and faint and clear at 6 when I oriented myself so that the street traffic noise direction was orthogonal to my coronal plane. When it was coming from my right side, I needed go up to 7 to hear the sound clearly.'),
+  ('2025-02-23',1,'air','right',1000,6,'very faint at 6 and faint and clear at 7 when I oriented myself so that the street traffic noise direction was orthogonal to my coronal plane. When it was coming from my right side, I needed go up to 8 to hear the sound clearly.'),
+  ('2025-02-23',1,'air','right',2000,4,'very faint at 4 and faint and clear at 5'),
+  ('2025-02-23',1,'air','right',4000,1,'faint and clear at 1'),
+  ('2025-02-23',1,'bone','left',500,5,'clear at 5, cannot hear at all at 4'),
+  ('2025-02-23',1,'bone','left',1000,7,'clear at 7, cannot hear at all at 6'),
+  ('2025-02-23',1,'bone','left',2000,5,'very faint at 5, faint and clear at 6'),
+  ('2025-02-23',1,'bone','left',4000,6,'faint and clear at 6; sort of heard at 5 but not consistently and not for the full duration'),
+  ('2025-02-23',1,'bone','right',500,6,'very faint at 6, faint but clear at 7'),
+  ('2025-02-23',1,'bone','right',1000,8,'faint but clear at 8, could not hear at all at 7'),
+  ('2025-02-23',1,'bone','right',2000,7,'faint but clear at 7, very clear at 8; sort of heard at 6 but not consistently and not for the full duration'),
+  ('2025-02-23',1,'bone','right',4000,6,'faint but audible at 6, faint but clear at 7');
