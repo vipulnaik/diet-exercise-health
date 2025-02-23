@@ -280,7 +280,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-02-17','Lundberg Sustainable California White Basmati Rice',0.9,2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-02-17','Kite Hill Greek Style Plant-Based Yogurt',1,2),
-  ('2025-02-17','Whole Foods Walnuts Halves and Pieces',1,2),
+  ('2025-02-17','Whole Foods Walnuts',1,2),
   ('2025-02-17','Whole Foods Organic Multigrain and Seed Sandwich Bread',1,2),
   /* 2025-02-18 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt, and somewhat unusually, a bit of basil) */
   ('2025-02-18','Eggplant',1,2),
