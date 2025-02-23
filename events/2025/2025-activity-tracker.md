@@ -62,3 +62,12 @@ recording in the activity tracker).
 On Friday 2025-02-21, in the evening, I made a long-overdue trip to
 the Walgreens at Adeline Street to stock up on toiletries. I completed
 checkout at 5:42 PM.
+
+## 2025-02-22
+
+On Saturday 2025-02-22, I briefly stopped at Walgreens in the late
+afternoon to use the Allpoint ATM there and then checked whether the
+Seventh Generation dish soap was in stock. It wasn't, so I went to
+Berkeley Bowl and purchased some food as well as Seventh Generation
+dish soap. The purchases are recorded
+[here](../../sql/food_purchases_2025.sql).
