@@ -103,6 +103,6 @@ reading things in the 6-to-10-foot range more.
   - [x] Right eye only
     - Was not able to read the finest lines for a while and needed to get to about 4-5 feet to be able to read them relatively clearly
 - Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
-  - [ ] Both eyes
-  - [ ] Left eye only
-  - [ ] Right eye only
+  - [x] Both eyes
+  - [x] Left eye only
+  - [x] Right eye only
