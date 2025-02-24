@@ -6,7 +6,12 @@
   - Stain: some distinctive color pattern, usually black, often seen on back side teeth
   - Plaque: "thin, slightly fuzzy, colorless film that might not be readily visible to the naked eye, but you can often feel it with your tongue as a slightly rough texture on your teeth" though in some cases it can show a yellow discoloration
   - Gum recession: gumline is receded from where it should be; the place where it should be is the cemento-enamel junction (CEJ) and any gap between that and the gumline means the cementum is exposed; this gap area tends to look yellower than the white tooth
-- [ ] Using a floss pick, push moderately hard against each interdental gap and confirm that there is no sharp pain, and that the pain recedes quickly once the pressure is removed (the pain should be similar to poking healthy skin and not like poking injured skin)
+- Use pressure testing to confirm the health and strength of the teeth
+  - [ ] Using a floss pick, push moderately hard against each interdental gap and confirm that there is no sharp pain, and that the pain recedes quickly once the pressure is removed (the pain should be similar to poking healthy skin and not like poking injured skin)
+  - [ ] Push backward with a clean finger on the exposed part of each of the front teeth
+  - [ ] Push forward (outward) with a clean finger on the exposed part of each of the back teeth
+  - [ ] Push backward with a clean finger on the gumline part for each of the front teeth
+  - [ ] Push forward (outward) with a clean finger on the gumline part of each of the back teeth
 - [ ] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of 12 photos)
   - All back teeth before all front teeth
   - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
