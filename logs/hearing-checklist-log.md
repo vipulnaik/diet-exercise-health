@@ -1,5 +1,7 @@
 # Hearing checklist log
 
+This is the execution log for the [hearing checklist](../checklists/hearing-checklist.md).
+
 ## 2025-02-23
 
 - [x] Run through and record results for online hearing test at https://www.resound.com/en-us/online-hearing-test (using normal headphones for air conduction an bone conduction headphones for bone conduction) in SQL; compare with the previous results to see if there is any concerning loss of hearing, and if so, schedule a followup test for a week later

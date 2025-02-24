@@ -1,5 +1,7 @@
 # Vision checklist log
 
+This is the execution log for the [vision checklist](../checklists/vision-checklist.md).
+
 ## 2024-10-17
 
 - Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at 25% magnification and the usual eye-to-screen distance (20 to 40 inches)
