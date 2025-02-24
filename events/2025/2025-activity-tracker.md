@@ -71,3 +71,26 @@ Seventh Generation dish soap was in stock. It wasn't, so I went to
 Berkeley Bowl and purchased some food as well as Seventh Generation
 dish soap. The purchases are recorded
 [here](../../sql/food_purchases_2025.sql).
+
+## 2025-02-23
+
+On Sunday 2025-02-23, in the late afternoon / early evening, I made
+two trips to Sports Basement. In the first trip, I purchased a 20 lb
+dumb bell and a 12 lb kettle bell. 20 lb was the only dumb bell size
+above 10 lb, and I expect that it will be a good challenge weight for
+biceps curls (it is too heavy for the more intense exercises I do with
+weights up to 10 lb).
+
+The 12 lb kettle bell felt like the right level of heavy for kettle
+bell exercises (that I have not done previously). I also tried the 4
+lb (it was too light and also its hole was too small for my use) and
+30 lb and 35 lb (these were too heavy for the kinds of exercises I
+plan to do, at least with my current strength level).
+
+At time of checkout, I also purchased the lifetime membership for $25.
+
+After dropping both weights at home, I made a second trip to purchase
+a second 20 lb dumb bell.
+
+In total, I saved $11 in discounts thanks to the lifetime membership
+(this is before taxes, but so is the lifetime membership cost of $25).

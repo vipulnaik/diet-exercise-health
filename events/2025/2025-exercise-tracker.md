@@ -249,3 +249,14 @@ exercises. This was in order to make time for personal chores as well
 as shift to an earlier sleep cycle, in light of weather changes (it's
 getting warmer, making an earlier sleep cycle more feasible) as well
 as meetings earlier in the morning in the coming week.
+
+## 2025-02-23: skipping of strength exercises in anticipation of trips to purchase weights
+
+On Sunday 2025-02-23, I skipped strength exercises. The reason was
+two-fold: first, I wanted to make sure I don't delay my first meal too
+much, as part of my overall effort to adjust my sleep cycle to
+earlier. Second, I anticipated that, later in the day, I would be
+making trips to purchase weights, so I expected that carrying the
+weights back from organically take care of strength exercise for the
+day. I did end up making these trips, and they did indeed organically
+take care of strength exercises for the day.
