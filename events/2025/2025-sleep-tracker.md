@@ -354,3 +354,47 @@ assessment is as follows:
   AM or later is ideal. But I can manage 9:30 AM if needed for a
   meeting, as long as I don't have a sleep backlog and try to get at
   least 8 hours of sleep (ideally more).
+
+## Sleep cycle adjustment from 2025-02-22 onward in light of temperature changes
+
+Around Saturday 2025-02-22, I decided to adjust my sleep cycle to
+earlier, in light of temperature changes that make it easier for me to
+wake up earlier. The temperature changes themselves are relatively
+small, but significant as they are around the threshold. Specifically,
+the minimum indoor temperature achieved between 8 AM and 10 AM
+increased from around 57-59 degrees Fahrenheit to about 60-61 degrees
+Fahrenheit. At that latter temperature, my internal
+resistance/difficulty getting out of bed is significantly lower.
+
+On Saturday 2025-02-22, I skipped jogging and strength exercises
+specifically to shorten my day so that I could sleep a couple hours
+earlier than I normally would, while still doing approximately as much
+in terms of other stuff, and maintaining the usual gaps between meals
+and between meals and sleep. This worked; I ended up going to sleep at
+11:37 PM, two hours earlier than the previous day (1:53 AM).
+
+On Sunday 2025-02-23, I got up to urinate mid-sleep at 5:45 AM, then
+went back to bed, and then I woke up at 9:49 AM. This was about ten
+hours of sleep, helping me catch up on my sleep backlog while still
+waking up a little earlier than usual (though not as early as I'd like
+to).
+
+I then had a fairly normal day on Sunday. I ended up getting delayed
+at the end, and went to sleep at 12:39 AM.
+
+It was relatively warm/hot on the morning of Monday 2025-02-24, and after
+getting up to urinate at 5:24 AM, I didn't fully fall back to sleep. I
+ended up waking up at 7:29 AM. As I wasn't used to waking up this
+early, I didn't initially have enough bowel pressure. I went for bowel
+movement at 9:45 AM with very little pressure, but still had a normal
+bowel movement.
+
+On Monday night, I went to sleep at 12:06 AM, which was now a kind of
+new normal. I also made sure to urinate right before going to bed, to
+reduce the chances of needing mid-sleep urination. I set my alarms for
+8:15 AM and 8:30 AM for a meeting at 9 AM.
+
+On the morning of Tuesday 2025-02-25, I did not have mid-sleep
+urination. I woke up at 7:54 AM, and went for bowel movement at 8:28
+AM, which represents a typical gap between waking up and bowel
+movement.
