@@ -26,10 +26,10 @@ Rather, this document focuses on notable cases, particularly:
   target time by which I need to get into bed (though I may not always
   record such cases)
 
-I plan to start recording starting 2024-10-11. I might also write
-separate documents on more complex incidents, but for cases where it's
-just a matter of one of the above and does not spill over into other
-related issues, I will just note it here.
+* Optionally, cases where I made a multi-day effort to adjust my sleep
+  cycle towards sleeping earlier or towards sleeping later, usually in
+  response to weather changes, upcoming events that need me to get up
+  early or stay up late, or timezone adjustments
 
 ## 2025-01-22 to 2025-01-23: 2:30 AM to 8:41 AM
 
@@ -398,3 +398,14 @@ On the morning of Tuesday 2025-02-25, I did not have mid-sleep
 urination. I woke up at 7:54 AM, and went for bowel movement at 8:28
 AM, which represents a typical gap between waking up and bowel
 movement.
+
+On Tuesday night, I went to sleep at 11:51 PM.
+
+On the morning of Wednesday 2025-02-26, I did not have mid-sleep
+urination. I woke up around 7:13 AM, compared to alarm times of 7:30
+AM and 7:45 AM, in preparation for a morning meeting at 8:30 AM.
+
+I believe that this completes my adjustment to sleeping earlier and
+waking up earlier. I likely need to make further adjustments soon in
+light of the daylight saving switch, but for now, this seems good
+enough and aligned with current weather patterns.
