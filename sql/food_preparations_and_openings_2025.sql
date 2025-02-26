@@ -328,5 +328,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-02-25','Red bell pepper',2,1),
   ('2025-02-25','Beefsteak tomato',7,1),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-02-25','TJ Carb Savvy Tortillas',1,1);
+  ('2025-02-25','TJ Carb Savvy Tortillas',1,1),
+  /* 2025-02-26 rice prep (first meal) (added turmeric, cumin, and salt) -- smaller quantity than usual winter amount, but still more than summer amount; I just chose to finish the existing packet and not open a new one */
+  ('2025-02-26','Lundberg Sustainable California White Basmati Rice',0.83,1);
   /* Double-check the date before committing */
