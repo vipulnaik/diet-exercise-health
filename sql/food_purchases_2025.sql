@@ -158,7 +158,10 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-02-24','Red bell pepper',2),
   ('2025-02-24','TJ Miso Ginger Broth',1),
   ('2025-02-24','TJ English Shelled Peas',2),
-  ('2025-02-24','Green bell pepper',4);
+  ('2025-02-24','Green bell pepper',4),
+  /* 2025-02-26 (Wednesday) Whole Foods; total cost $34.34; checkout at 5:53 PM; paid by credit card; 6 items in transaction */
+  ('2025-02-26','Whole Foods Mexican Whole Wheat Tortillas',2),
+  ('2025-02-26','Whole Foods Walnuts',4);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
