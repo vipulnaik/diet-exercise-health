@@ -57,9 +57,9 @@ balance.
 I have two exercises, that I'll call exercise 1 and exercise 2 for
 now.
 
-I have pairs of weights of 2 lb each, 3 lb each, 5 lb each, and 8 lb
-each. I don't use the 2 lb pair any more for my regular exercise. Here
-is my sequence:
+I have pairs of weights of 2 lb each, 3 lb each, 5 lb each, 8 lb, 10
+lb, and 20 lb each. I don't use the 2 lb pair any more for my regular
+exercise. Here is my sequence:
 
 * 3 lb pair, exercise 1: about 15 repetitions
 
@@ -71,12 +71,13 @@ is my sequence:
 
 * 8 lb pair, exercise 1: about 15 repetitions
 
-* 8 lb pair, exercise 2: about 10 repetitions; this is the exercise
-  where I am currently reaching my peak number of repetitions before
-  getting fatigued
+* 8 lb pair, exercise 2: about 15 repetitions
 
-* 10 lb pair, exercise 1: about 10 to 15 repetitions; I tend to be
-  noticeably slower doing the exercise with 10 lb than with 8 lb.
+* 10 lb pair, exercise 1: about 15 repetitions
+
+* 10 lb pair, exercise 2: about 3 to 10 repetitions
+
+* 20 lb pair, biceps curls: about 3 to 5 repetitions
 
 The reason I always start with the 3 lb is for a mix of warmup and
 verification purposes. If, on a given day, I find that the 3 lb pair
@@ -195,10 +196,39 @@ upper right arm. After a little while, I transferred the lighter bag
 to my right hand but kept the strap off my right shoulder until I
 could get back home and take it all off.
 
-## 2024-11-25: weight-lifting weight increase (addition of 10 lb dumb bells)
+### 2024-11-25: weight-lifting weight increase (addition of 10 lb dumb bells)
 
 On 2024-11-25, I introduced exercise 1 for 10 lb dumb bells as a new
 step at the end of my weight-lifting sequence. I had been planning to
 introduce this for a while, and had been blocked on purchasing the 10
 lb dumb bells. I finally bought them on 2024-11-24 evening, allowing
 me to start using the 10 lb dumb bells.
+
+### 2025-02-19: starting of exercise 2 on 10 lb dumb bells, increase in expected number of repetitions for two other exericses
+
+On 2025-02-19, I finalized these changes:
+
+* I made it a standard for the 8 lb pair exercise 2 and 10 lb pair
+  exercise to be 15 repetitions (relative to a variable number of
+  repetitions). This followed me *de facto* hitting the 15 repetitions
+  every time starting around 2025-01-28.
+
+* I started doing exercise 2 on the 10 lb pair. I started at 3
+  repetitions, and increased to 5 the next time and 9 the time after
+  that. My goal for now is to do 3 to 10 repetitions.
+
+### 2025-02-24: starting of biceps curls on 20 lb dumb bells and initial experimentation with kettlebells
+
+On Monday 2025-02-24, the first day I did dumb bells after purchasing
+20 lb dumb bells on Sunday 2025-02-23, I started doing biceps curls
+with these dumb bells. I began with 5 repetitions. My goal is to do 3
+to 5 repetitions each time though the number might go up over
+time. The 20 lb dumb bells are too heavy for me to safely do either
+exercise 1 or exercise 2.
+
+On the same day, I also experimented with the 12 lb kettlebells I had
+purchased on Sunday 2025-02-23. I did the hold that is done at the
+start of a goblet squat, familiarizing myself with the weight and how
+it feels. I didn't actually do the goblet squat itself.
+
+TODO update once I start actually doing goblet squats.
