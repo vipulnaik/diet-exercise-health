@@ -94,3 +94,11 @@ a second 20 lb dumb bell.
 
 In total, I saved $11 in discounts thanks to the lifetime membership
 (this is before taxes, but so is the lifetime membership cost of $25).
+
+## 2025-02-26
+
+In the late afternoon / early evening, I made a trip to Walgreens to
+stock up on toiletries. After I got back home and stowed away the
+purchased stuff, I immediately headed out again for a trip to Whole
+Foods. The food purchases made at Whole Foods are recorded
+[here](../../sql/food_purchases_2025.sql).
