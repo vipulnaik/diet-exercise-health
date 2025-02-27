@@ -102,3 +102,17 @@ again in round 2 to get more data points and be able to identify
 concerning trends. My expectation is that if round 2 comes back normal
 as well, the frequency going forward will be 1 to 2 times a year
 instead of 2 to 4 times a year.
+
+## Things I might throw in (if not, move them back to 2025 blood test plans generic doc)
+
+Urine stuff, which may need to be split out into a urine tests doc:
+
+* [Organic acid analysis, urine](https://marekdiagnostics.com/products/organic-acid-analysis-urine)
+* [Urinalysis, routine](https://marekdiagnostics.com/products/urinalysis-routine)
+
+Other blood stuff:
+
+* [Erythrocyte sedimentation rate (ESR)](https://marekdiagnostics.com/products/erythrocyte-sedimentation-rate-esr-westergren)
+* [Ferritin](https://marekdiagnostics.com/products/ferritin)
+* [Glucose tolerance](https://marekdiagnostics.com/products/glucose-2spec-who-tolerance-s) (slightly different protocol than regular labwork)
+* [Serum creatine (only available on Request A Test)](https://requestatest.com/creatine-blood-test)
