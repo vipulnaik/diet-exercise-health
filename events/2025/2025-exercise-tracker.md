@@ -260,3 +260,10 @@ making trips to purchase weights, so I expected that carrying the
 weights back from organically take care of strength exercise for the
 day. I did end up making these trips, and they did indeed organically
 take care of strength exercises for the day.
+
+## 2025-02-27: abridged jogging due to time constraints
+
+On Thursday 2025-02-27, I took an abridged jogging route due to time
+constraints; jogging about 1.5 miles in total (no return walking)
+instead of the usual range of 1.75-2.0 miles jogging and the remainder
+of the 2 miles walking.
