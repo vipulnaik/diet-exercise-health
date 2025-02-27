@@ -1,6 +1,6 @@
 # Things to investigate
 
-List last updated: 2025-01-20
+List last updated: 2025-02-26
 
 Time on these things would be in a mix of personal chores and other
 activities buckets. The other activities bucket would be used for
@@ -23,9 +23,6 @@ investigate and consolidate knowledge before it becomes
 time-sensitive.
 
 ## Investigations into health conditions
-
-* Figure out next steps for [reduced hearing in left
-  ear](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md)
 
 * Investigate lipid-lowering strategies (focused on LDL and Apo
   B). Notes [here](lipid-lowering-strategies.md).
