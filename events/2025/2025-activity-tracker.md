@@ -102,3 +102,11 @@ stock up on toiletries. After I got back home and stowed away the
 purchased stuff, I immediately headed out again for a trip to Whole
 Foods. The food purchases made at Whole Foods are recorded
 [here](../../sql/food_purchases_2025.sql).
+
+## 2025-02-28
+
+I skipped jogging due to time constraints created by an impromptu work
+meeting (I didn't want to delay eating too much as that would throw
+off my schedule). I did do the other exercises (hand gripper, breath
+holds, standing-on-one-leg-with-eyes-closed, and
+standing-on-toes-with-eyes-closed).
