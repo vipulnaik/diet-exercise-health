@@ -116,3 +116,4 @@ Other blood stuff:
 * [Ferritin](https://marekdiagnostics.com/products/ferritin)
 * [Glucose tolerance](https://marekdiagnostics.com/products/glucose-2spec-who-tolerance-s) (slightly different protocol than regular labwork)
 * [Serum creatine (only available on Request A Test)](https://requestatest.com/creatine-blood-test)
+* [Serum vitamin A](https://marekdiagnostics.com/products/vitamin-a-serum) based on recent finding that my daily vitamin A consumption is over 3000 mcg (after fixing a multipler error for carrots)
