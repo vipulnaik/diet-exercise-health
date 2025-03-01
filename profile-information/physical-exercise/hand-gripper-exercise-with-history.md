@@ -26,10 +26,10 @@ in some cases.
 
 ### Maintain how long I can keep the 150 lb and 100 lb closed
 
-As of 2025-02-04, I can keep the 150 lb closed for about 15 to 25
-seconds in my right hand and about 10 to 20 seconds in my left hand. I
-can keep the 100 lb closed for about 20 to 35 seconds in my head and
-about 15 to 30 seconds in my left hand when done immediately after the
+As of 2025-02-28, I can keep the 150 lb closed for about 19 to 31
+seconds in my right hand and about 10 to 25 seconds in my left hand. I
+can keep the 100 lb closed for about 25 to 45 seconds in my head and
+about 20 to 35 seconds in my left hand when done immediately after the
 150 lb. I think this duration is good enough, and in practice, trying
 to crush for longer will just end up using more and more of my time
 without clear benefits. Although I do expect some organic improvement
@@ -50,14 +50,15 @@ has been helpful occasionally for carrying complex, unwieldy loads
 (where it's not just the weight of the load but the awkward way it
 hangs which means I need to use grip strength).
 
-## Current protocol and status as of 2025-02-04
+## Current protocol and status as of 2025-02-28
 
 ### First of alternating days (focus on maintaining)
 
 I do this sequence every alternating day in the morning, with the
 steps in quick succession:
 
-* Right hand on 150 lb: I close and keep closed for about 15 to 25
+* Right hand on 150 lb: I close and keep closed for about 19 to 31
+  seconds (as long as I can). I generally average about 22 to 28
   seconds.
 
   NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
@@ -68,7 +69,7 @@ steps in quick succession:
   the exercise with an almost-closed rather than fully-closed
   position.
 
-* Left hand on 150 lb: I close and keep closed for about 10 to 20
+* Left hand on 150 lb: I close and keep closed for about 10 to 25
   seconds.
 
   NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
@@ -79,13 +80,13 @@ steps in quick succession:
   the exercise with an almost-closed rather than fully-closed
   position.
 
-* Right hand on 100 lb: I close and keep closed for about 20 to 35
+* Right hand on 100 lb: I close and keep closed for about 25 to 45
   seconds; if I were to start with the 100 lb instead of doing the 150
   lb first, I would be able to do more, but then I would not be able
   to do the 150 lb immediately aferward. That's why I start with the
   150 lb.
 
-* Left hand on 100 lb: I close and keep closed for about 15 to 30
+* Left hand on 100 lb: I close and keep closed for about 20 to 35
   seconds; if I were to start with the 100 lb instead of doing the 150
   lb first, I would be able to do over 20 seconds, but then I would
   not be able to do the 150 lb immediately aferward. That's why I
@@ -99,7 +100,8 @@ multiple open/closes outside of my daily routine.
 
 ### Second of alternating days (focus on building)
 
-* Right hand on 150 lb: I close and keep closed for about 15 to 25
+* Right hand on 150 lb: I close and keep closed for about 19 to 31
+  seconds. I generally average about 22 to 28
   seconds.
 
   NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
@@ -110,7 +112,7 @@ multiple open/closes outside of my daily routine.
   the exercise with an almost-closed rather than fully-closed
   position.
 
-* Left hand on 150 lb: I close and keep closed for about 10 to 20
+* Left hand on 150 lb: I close and keep closed for about 10 to 25
   seconds.
 
   NOTE ADDED 2024-11-15: In cold weather, when my hands are cold
@@ -379,3 +381,9 @@ I made a few minor protocol tweaks:
   times, I have been able to close the hand gripper even in the
   morning (though it may have just been the case that my hands have
   not been as cold recently as they used to be).
+
+## Update on 2025-02-28
+
+I increased the range of durations that I am able to keep the hand
+gripper closed with each hand, based on a review of data over the
+past few weeks.
