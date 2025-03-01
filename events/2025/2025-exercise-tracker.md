@@ -267,3 +267,19 @@ On Thursday 2025-02-27, I took an abridged jogging route due to time
 constraints; jogging about 1.5 miles in total (no return walking)
 instead of the usual range of 1.75-2.0 miles jogging and the remainder
 of the 2 miles walking.
+
+## 2025-02-28: skipped jogging due to time constraints, but carried heavy load later so got a decent amount of exercise
+
+I skipped jogging due to time constraints created by an impromptu work
+meeting (I didn't want to delay eating too much as that would throw
+off my schedule). I did do the other exercises (hand gripper, breath
+holds, standing-on-one-leg-with-eyes-closed, and
+standing-on-toes-with-eyes-closed).
+
+Later in the day, I made a trip to the Amazon Hub Locker to pick up
+multiple packages. Overall, I carried a 4.2 kg suitcase one-way and a
+7.6 kg load (suitcase filled with stuff) the other way, and both ways
+were around 1.2-1.4 miles each. I was able to carry both ways without
+needing to put the suitcase down to rest (though I had a handful of
+instances where the suitcase hit the ground or my legs), so it was a
+decent amount of exercise and also confirmed my strength and stamina.

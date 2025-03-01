@@ -105,8 +105,5 @@ Foods. The food purchases made at Whole Foods are recorded
 
 ## 2025-02-28
 
-I skipped jogging due to time constraints created by an impromptu work
-meeting (I didn't want to delay eating too much as that would throw
-off my schedule). I did do the other exercises (hand gripper, breath
-holds, standing-on-one-leg-with-eyes-closed, and
-standing-on-toes-with-eyes-closed).
+In the evening, I made a trip to the Amazon Hub Locker at ASUC
+Berkeley for package pickup.
