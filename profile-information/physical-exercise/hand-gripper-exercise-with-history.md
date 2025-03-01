@@ -26,16 +26,22 @@ in some cases.
 
 ### Maintain how long I can keep the 150 lb and 100 lb closed
 
-As of 2024-09-22, I can keep the 150 lb closed for about 7-12 seconds,
-and the 100 lb closed for about 10-20 seconds when done immediately
-after the 150 lb. I think this duration is good enough, and in
-practice, trying to crush for longer will just end up using more and
-more of my time without clear benefits. Although I do expect some
-organic improvement in how long I can close, I am not focusing on
-building to longer durations.
+As of 2025-02-04, I can keep the 150 lb closed for about 15 to 25
+seconds in my right hand and about 10 to 20 seconds in my left hand. I
+can keep the 100 lb closed for about 20 to 35 seconds in my head and
+about 15 to 30 seconds in my left hand when done immediately after the
+150 lb. I think this duration is good enough, and in practice, trying
+to crush for longer will just end up using more and more of my time
+without clear benefits. Although I do expect some organic improvement
+in how long I can close, I am not focusing on building to longer
+durations.
+
+I can also close the 100 lb with specific fingers excluded for
+somewhat shorter periods of time; see the following section on
+protocol for more information.
 
 Functional relevance: 150 lb is more than my body weight, so being
-able to grip 150 lb with a single hand for 7-12 seconds should be
+able to grip 150 lb with a single hand for 15 to 25 seconds should be
 enough for most real-world situations, including opening lids, using
 handrails for support, and even rock climbing (?). Being able to do
 100 lb for longer durations makes it clear that grip strength is not
@@ -44,7 +50,7 @@ has been helpful occasionally for carrying complex, unwieldy loads
 (where it's not just the weight of the load but the awkward way it
 hangs which means I need to use grip strength).
 
-## Current protocol and status as of 2025-01-16
+## Current protocol and status as of 2025-02-04
 
 ### First of alternating days (focus on maintaining)
 
