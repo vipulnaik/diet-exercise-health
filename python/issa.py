@@ -22,7 +22,7 @@ def logging(*args):
         print(*args)
 
 def main() -> None:
-    amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2024, 8, 20), datetime.date(2024, 9, 12))
+    amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2024, 8, 20), datetime.date(2024, 9, 13))
     # amount_consumed = get_food_amount_for_range("Trader Giotto's Olive Oil", datetime.date(2024, 6, 18), datetime.date(2024, 6, 20))
     # amount_consumed = get_food_amount_for_range("Trader Giotto's Olive Oil", datetime.date(2023, 5, 6), datetime.date(2025, 5, 10))
     # start_date = datetime.date(2024, 2, 4)
@@ -107,87 +107,51 @@ def get_food_amount_for_range(food_type: str, start_date: datetime.date, end_dat
     with _connection.cursor() as cursor:
         cursor.execute(query, (food_type,))
         result = cursor.fetchall()
+        total = 0.0
         if len(result) == 0:
-            total = 0.0
             logging(f"total is {total}")
             return total
         elif len(result) == 1:
-            curr_date = result[0]["preparation_or_opening_date"]
-            guessed_next_date = curr_date + datetime.timedelta(days=DEFAULT_CONSUMPTION_LENGTH_IN_DAYS[food_type])
-            how_long_it_will_probably_take_to_fully_consume = (guessed_next_date - curr_date).days
-            assert how_long_it_will_probably_take_to_fully_consume == DEFAULT_CONSUMPTION_LENGTH_IN_DAYS[food_type]
-            portion_to_count = max(0, (min(guessed_next_date, end_date) - max(start_date, curr_date)).days)
-            fraction = portion_to_count / how_long_it_will_probably_take_to_fully_consume
-            quantity = float(result[0]["quantity"])
-            total = fraction * quantity
-            assert(how_long_it_will_probably_take_to_fully_consume > 0)
-            assert(portion_to_count >= 0)
-            logging(f"guessing period [{curr_date}--{guessed_next_date}): partially counting; +{fraction}*{quantity} ({portion_to_count}/{how_long_it_will_probably_take_to_fully_consume} days, {quantity} {food_type})")
-            logging(f"total is {total}")
-            return total
+            # We augment the result with a date that we guess based on
+            # DEFAULT_CONSUMPTION_LENGTH_IN_DAYS.
+            guessed_next_date = result[0]["preparation_or_opening_date"] + datetime.timedelta(days=DEFAULT_CONSUMPTION_LENGTH_IN_DAYS[food_type])
+            result.append({
+                'preparation_or_opening_date': guessed_next_date,
+                'food_type': food_type,
+                'quantity': 0.0,
+                'meal_index': None,
+            })
+        else:
+            # We augment the result by guessing that the currently-bought
+            # instance of the item will be consumed in the same length of time
+            # as however long it took for the item to be consumed the previous
+            # time.
+            ultimate_date = result[-1]["preparation_or_opening_date"]
+            penultimate_date = result[-2]["preparation_or_opening_date"]
+            span = (ultimate_date - penultimate_date).days
+            assert span > 0
+            extrapolated_next_date = ultimate_date + datetime.timedelta(days=span)
+            result.append({
+                'preparation_or_opening_date': extrapolated_next_date,
+                'food_type': food_type,
+                'quantity': 0.0,
+                'meal_index': None,
+            })
 
-        # assert start_date >= result[0]["preparation_or_opening_date"]
-        if start_date < result[0]["preparation_or_opening_date"]:
-            # The start_date we are given is too far back, before we even
-            # started logging this food_type, so just give up and set that
-            # start_date to where the logging began.
-            start_date = result[0]["preparation_or_opening_date"]
-        assert start_date <= end_date
-        # TODO: do similar check for end_date
-        total = 0.0
         for i in range(len(result) - 1):
             curr_date = result[i]["preparation_or_opening_date"]
             next_date = result[i+1]["preparation_or_opening_date"]
-            if start_date <= curr_date and next_date <= end_date:
-                quantity = float(result[i]["quantity"])
-                total += quantity
-                logging(f"period [{curr_date}--{next_date}): fully counting; +1.0*{quantity}")
-            elif (curr_date <= start_date < next_date) and (curr_date <= end_date < next_date):
-                how_long_it_took_to_fully_consume = (next_date - curr_date).days
-                portion_to_count = (end_date - start_date).days
-                fraction = portion_to_count / how_long_it_took_to_fully_consume
-                quantity = float(result[i]["quantity"])
-                total += fraction * quantity
-                assert(how_long_it_took_to_fully_consume > 0)
-                assert(portion_to_count >= 0)
-                logging(f"period [{curr_date}--{next_date}): partially counting; +{fraction}*{quantity} ({portion_to_count}/{how_long_it_took_to_fully_consume} days, {quantity} {food_type})")
-            elif curr_date <= start_date < next_date:
-                how_long_it_took_to_fully_consume = (next_date - curr_date).days
-                portion_to_count = (next_date - start_date).days
-                fraction = portion_to_count / how_long_it_took_to_fully_consume
-                quantity = float(result[i]["quantity"])
-                total += fraction * quantity
-                assert(how_long_it_took_to_fully_consume > 0)
-                assert(portion_to_count >= 0)
-                logging(f"period [{curr_date}--{next_date}): partially counting; +{fraction}*{quantity} ({portion_to_count}/{how_long_it_took_to_fully_consume} days, {quantity} {food_type})")
-            elif curr_date <= end_date < next_date:
-                how_long_it_took_to_fully_consume = (next_date - curr_date).days
-                portion_to_count = (end_date - curr_date).days
-                fraction = portion_to_count / how_long_it_took_to_fully_consume
-                quantity = float(result[i]["quantity"])
-                total += fraction * quantity
-                assert(how_long_it_took_to_fully_consume > 0)
-                assert(portion_to_count >= 0)
-                logging(f"period [{curr_date}--{next_date}): partially counting; +{fraction}*{quantity} ({portion_to_count}/{how_long_it_took_to_fully_consume} days, {quantity} {food_type})")
+            consumption_length = (next_date - curr_date).days
+            portion_to_count = max(0, (min(next_date, end_date) - max(start_date, curr_date)).days)
+            assert(consumption_length >= 0)
+            assert(portion_to_count >= 0)
+            if consumption_length == 0:
+                fraction = 1.0 if start_date == curr_date else 0.0
             else:
-                logging(f"period [{curr_date}--{next_date}): not counting at all; +0 ({food_type})")
-        if end_date > next_date:
-            extrapolated_next_date = next_date + datetime.timedelta(days=(next_date - curr_date).days)
-            if end_date > extrapolated_next_date:
-                # We don't know how to handle this case because it's too far in
-                # the future, so just give up and return the total we already
-                # have
-                logging(f"total is {total}")
-                return total
-            # assert end_date <= extrapolated_next_date
-            how_long_it_will_probably_take_to_fully_consume = (extrapolated_next_date - next_date).days
-            portion_to_count = (end_date - next_date).days
-            fraction = portion_to_count / how_long_it_will_probably_take_to_fully_consume
+                fraction = portion_to_count / consumption_length
             quantity = float(result[i]["quantity"])
             total += fraction * quantity
-            assert(how_long_it_will_probably_take_to_fully_consume > 0)
-            assert(portion_to_count >= 0)
-            logging(f"extrapolating period [{next_date}--{extrapolated_next_date}): partially counting; +{fraction}*{quantity} ({portion_to_count}/{how_long_it_will_probably_take_to_fully_consume} days, {quantity} {food_type})")
+            logging(f"period [{curr_date}--{next_date}): +{fraction}*{quantity} ({portion_to_count}/{consumption_length} days, {quantity} {food_type})")
         logging(f"total is {total}")
         return total
 
