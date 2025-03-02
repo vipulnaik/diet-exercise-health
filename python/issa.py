@@ -3,19 +3,33 @@
 import datetime
 import shared, connection
 
+DEFAULT_CONSUMPTION_LENGTH_IN_DAYS = {
+    "Dil Se Indian Cuisine half chana masala and half aloo gobi": 1,
+    "India House Oregon aloo sag": 1,
+    "Kitava Power Bowl": 1,
+    "Lemon": 7,
+    "Morton Iodized Salt": 30*8,
+    "Orange bell pepper": 4,
+    "TJ Almonds": 30*2,
+    "TJ Brazil Nuts": 30*2,
+    "TJ Organic Couscous": 14,
+    "Whole Foods Mexican Whole Wheat Tortillas": 14,
+}
+
 def logging(*args):
-    debug = False
+    debug = True
     if debug:
         print(*args)
 
 def main() -> None:
-    # amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2024, 8, 20), datetime.date(2024, 9, 12))
-    start_date = datetime.date(2024, 2, 4)
-    for w in range(56):
-        week_start = start_date + datetime.timedelta(weeks=w)
-        week_end = start_date + datetime.timedelta(weeks=w+1)
-        print(f"For week starting {week_start.strftime('%Y-%m-%d')}: ", end="")
-        get_nutrients_for_range(week_start, week_end)
+    # amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2024, 8, 20), datetime.date(2024, 9, 13))
+    amount_consumed = get_food_amount_for_range("Morton Iodized Salt", datetime.date(2025, 5, 6), datetime.date(2025, 5, 10))
+    # start_date = datetime.date(2024, 2, 4)
+    # for w in range(56):
+    #     week_start = start_date + datetime.timedelta(weeks=w)
+    #     week_end = start_date + datetime.timedelta(weeks=w+1)
+    #     print(f"For week starting {week_start.strftime('%Y-%m-%d')}: ", end="")
+    #     get_nutrients_for_range(week_start, week_end)
 
 def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
     _connection = connection.connect()
@@ -41,7 +55,7 @@ def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
                     num_days = (end_date - start_date).days
                     assert num_days > 0
                     val_str = f"{v} (daily avg: {v / num_days})"
-                print(f"{k}: {val_str}")
+                # print(f"{k}: {val_str}")
 
 def add_nutrient_dicts(d1, d2):
     result = {}
@@ -93,9 +107,23 @@ def get_food_amount_for_range(food_type: str, start_date: datetime.date, end_dat
         cursor.execute(query, (food_type,))
         result = cursor.fetchall()
         if len(result) == 0:
-            return 0.0
+            total = 0.0
+            logging(f"total is {total}")
+            return total
         elif len(result) == 1:
-            return float(result[0]["quantity"])
+            curr_date = result[0]["preparation_or_opening_date"]
+            guessed_next_date = curr_date + datetime.timedelta(days=DEFAULT_CONSUMPTION_LENGTH_IN_DAYS[food_type])
+            how_long_it_will_probably_take_to_fully_consume = (guessed_next_date - curr_date).days
+            assert how_long_it_will_probably_take_to_fully_consume == DEFAULT_CONSUMPTION_LENGTH_IN_DAYS[food_type]
+            portion_to_count = max(0, (min(guessed_next_date, end_date) - max(start_date, curr_date)).days)
+            fraction = portion_to_count / how_long_it_will_probably_take_to_fully_consume
+            quantity = float(result[0]["quantity"])
+            total = fraction * quantity
+            assert(how_long_it_will_probably_take_to_fully_consume > 0)
+            assert(portion_to_count >= 0)
+            logging(f"guessing period [{curr_date}--{guessed_next_date}): partially counting; +{fraction}*{quantity} ({portion_to_count}/{how_long_it_will_probably_take_to_fully_consume} days, {quantity} {food_type})")
+            logging(f"total is {total}")
+            return total
         # assert start_date >= result[0]["preparation_or_opening_date"]
         if start_date < result[0]["preparation_or_opening_date"]:
             # The start_date we are given is too far back, before we even
