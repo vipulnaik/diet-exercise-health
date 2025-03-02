@@ -311,29 +311,42 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-02-22','Kite Hill Greek Style Plant-Based Yogurt',1,1),
   ('2025-02-22','TJ Carb Savvy Tortillas',1,2),
   ('2025-02-22','Whole Foods Walnuts',1,2),
-  ('2025-02-23','TJ Miso Ginger Broth',1,1),
+  ('2025-02-23','TJ Miso Ginger Broth',1,1);
+
+insert into food_preparations_and_openings(preparation_or_opening_date, food_type, quantity, meal_index, completion_date, completion_meal_index) values
   /* 2025-02-24 potatoes prep (first meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt) */
-  ('2025-02-24','Gold potatoes 5 lb',0.5,1),
-  ('2025-02-24','TJ Kale',1,1),
-  ('2025-02-24','TJ English Shelled Peas',2,1),
-  ('2025-02-24','Beefsteak tomato',5,1),
+  ('2025-02-24','Gold potatoes 5 lb',0.5,1,'2025-03-01',1),
+  ('2025-02-24','TJ Kale',1,1,'2025-03-01',1),
+  ('2025-02-24','TJ English Shelled Peas',2,1,'2025-03-01',1),
+  ('2025-02-24','Beefsteak tomato',5,1,'2025-03-01',1),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-02-24','TJ Carb Savvy Tortillas',1,1),
-  ('2025-02-24','Kite Hill Greek Style Plant-Based Yogurt',1,2),
+  ('2025-02-24','TJ Carb Savvy Tortillas',1,1,'2025-02-25',1),
+  ('2025-02-24','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-02-26',2),
   /* 2025-02-25 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt) */
-  ('2025-02-25','Eggplant',1,1),
-  ('2025-02-25','TJ Kale',1,1),
-  ('2025-02-25','TJ Carrots',1,1),
-  ('2025-02-25','Green bell pepper',4,1),
-  ('2025-02-25','Red bell pepper',2,1),
-  ('2025-02-25','Beefsteak tomato',7,1),
+  ('2025-02-25','Eggplant',1,1,NULL,NULL),
+  ('2025-02-25','TJ Kale',1,1,NULL,NULL),
+  ('2025-02-25','TJ Carrots',1,1,NULL,NULL),
+  ('2025-02-25','Green bell pepper',4,1,NULL,NULL),
+  ('2025-02-25','Red bell pepper',2,1,NULL,NULL),
+  ('2025-02-25','Beefsteak tomato',7,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-02-25','TJ Carb Savvy Tortillas',1,1),
+  ('2025-02-25','TJ Carb Savvy Tortillas',1,1,'2025-02-25',2),
   /* 2025-02-26 rice prep (first meal) (added turmeric, cumin, and salt) -- smaller quantity than usual winter amount, but still more than summer amount; I just chose to finish the existing packet and not open a new one */
-  ('2025-02-26','Lundberg Sustainable California White Basmati Rice',0.83,1),
+  ('2025-02-26','Lundberg Sustainable California White Basmati Rice',0.83,1,'2025-03-01',1),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-02-26','TJ Carb Savvy Tortillas',1,1),
-  ('2025-02-26','Whole Foods Walnuts',1,1),
-  ('2025-02-27','Kite Hill Greek Style Plant-Based Yogurt',1,1),
-  ('2025-02-28','TJ Almond Milk',1,1);
+  ('2025-02-26','TJ Carb Savvy Tortillas',1,1,'2025-02-27',1),
+  ('2025-02-26','Whole Foods Walnuts',1,1,'2025-03-01',2),
+  ('2025-02-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-03-01',1),
+  ('2025-02-27','TJ Carb Savvy Tortillas',1,2,'2025-02-28',2), /* backfilled, may be inaccurate */
+  ('2025-02-28','TJ Almond Milk',1,1,NULL,NULL),
+  ('2025-03-01','TJ Carb Savvy Tortillas',1,1,'2025-03-01',2),
+  /* 2025-03-01 potatoes prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt) */
+  ('2025-03-01','Gold potatoes 5 lb',0.5,2,NULL,NULL),
+  ('2025-03-01','TJ Kale',1,2,NULL,NULL),
+  ('2025-03-01','TJ English Shelled Peas',2,2,NULL,NULL),
+  ('2025-03-01','Beefsteak tomato',5,2,NULL,NULL),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-03-01','Whole Foods Mexican Whole Wheat Tortillas',1,2,'2025-03-01',2),
+  ('2025-03-01','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  ('2025-03-01','Whole Foods Walnuts',1,2,NULL,NULL);
   /* Double-check the date before committing */
