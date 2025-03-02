@@ -23,14 +23,18 @@ def logging(*args):
 
 def main() -> None:
     # amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2024, 8, 20), datetime.date(2024, 9, 13))
-    # amount_consumed = get_food_amount_for_range("Trader Giotto's Olive Oil", datetime.date(2024, 6, 18), datetime.date(2024, 6, 20))
+    # amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2025, 2, 5), datetime.date(2025, 2, 6))
+    # amount_consumed = get_food_amount_for_range("Trader Giotto's Olive Oil", datetime.date(2024, 6, 20), datetime.date(2024, 8, 10))
     # amount_consumed = get_food_amount_for_range("Trader Giotto's Olive Oil", datetime.date(2023, 5, 6), datetime.date(2025, 5, 10))
-    start_date = datetime.date(2024, 5, 4)
-    for w in range(52):
-        week_start = start_date + datetime.timedelta(weeks=w)
-        week_end = start_date + datetime.timedelta(weeks=w+1)
-        print(f"For week starting {week_start.strftime('%Y-%m-%d')}: ", end="")
-        get_nutrients_for_range(week_start, week_end)
+    # start_date = datetime.date(2024, 5, 4)
+    # for w in range(1):
+    #     week_start = start_date + datetime.timedelta(weeks=w)
+    #     week_end = start_date + datetime.timedelta(weeks=w+1)
+    #     print(f"For week starting {week_start.strftime('%Y-%m-%d')}: ", end="\n")
+    #     get_nutrients_for_range(week_start, week_end)
+
+    start_date = datetime.date(2024, 8, 1)
+    get_nutrients_for_range(start_date, start_date + datetime.timedelta(days=180))
 
 def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
     _connection = connection.connect()
@@ -42,20 +46,29 @@ def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
         result = cursor.fetchall()
         food_types = [row["short_name"] for row in result]
         all_nutrients_consumed = {}
+        nutrient_of_interest = "vitamin_d_in_mcg"
+        avg_nutrient_for_foods = []
         for food_type in food_types:
             amount_consumed = get_food_amount_for_range(food_type, start_date, end_date)
             nutrients_unit = get_nutrient_for_food(food_type)
             nutrients_consumed = {k: (v*amount_consumed if v is not None else None)
                                   for k, v in nutrients_unit.items()}
+            if val := (nutrients_consumed.get(nutrient_of_interest) or 0):
+                num_days = (end_date - start_date).days
+                avg_nutrient_for_foods.append((food_type, val/num_days, amount_consumed/num_days))
             all_nutrients_consumed = add_nutrient_dicts(all_nutrients_consumed, nutrients_consumed)
+        print(f"Printing data for period [{start_date.strftime('%Y-%m-%d')}--{end_date.strftime('%Y-%m-%d')}):")
+        for food in sorted(avg_nutrient_for_foods, key=lambda t: t[1], reverse=True):
+            food_type, avg_val, avg_amt = food
+            print(f"{food_type: >55}: {avg_val: >6.2f} of nutrient, ate this much: {avg_amt:.2f}")
         for k, v in all_nutrients_consumed.items():
-            if k == "calories":
+            if k == nutrient_of_interest:
                 if v is None:
                     val_str = "unknown"
                 else:
                     num_days = (end_date - start_date).days
                     assert num_days > 0
-                    val_str = f"{v} (daily avg: {v / num_days})"
+                    val_str = f"{v} (total for whole period) (daily avg: {v / num_days})"
                 print(f"{k}: {val_str}")
 
 def add_nutrient_dicts(d1, d2):
@@ -142,6 +155,8 @@ def get_food_amount_for_range(food_type: str, start_date: datetime.date, end_dat
             curr_date = result[i]["preparation_or_opening_date"]
             next_date = result[i+1]["preparation_or_opening_date"]
             consumption_length = (next_date - curr_date).days
+            # This is basically calculating the length of the intersection of
+            # the intervals [start_date, end_date] and [curr_date, next_date].
             portion_to_count = max(0, (min(next_date, end_date) - max(start_date, curr_date)).days)
             assert(consumption_length >= 0)
             assert(portion_to_count >= 0)
