@@ -22,8 +22,9 @@ def logging(*args):
         print(*args)
 
 def main() -> None:
-    # amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2024, 8, 20), datetime.date(2024, 9, 13))
-    amount_consumed = get_food_amount_for_range("Morton Iodized Salt", datetime.date(2025, 5, 6), datetime.date(2025, 5, 10))
+    amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2024, 8, 20), datetime.date(2024, 9, 12))
+    # amount_consumed = get_food_amount_for_range("Trader Giotto's Olive Oil", datetime.date(2024, 6, 18), datetime.date(2024, 6, 20))
+    # amount_consumed = get_food_amount_for_range("Trader Giotto's Olive Oil", datetime.date(2023, 5, 6), datetime.date(2025, 5, 10))
     # start_date = datetime.date(2024, 2, 4)
     # for w in range(56):
     #     week_start = start_date + datetime.timedelta(weeks=w)
@@ -124,12 +125,14 @@ def get_food_amount_for_range(food_type: str, start_date: datetime.date, end_dat
             logging(f"guessing period [{curr_date}--{guessed_next_date}): partially counting; +{fraction}*{quantity} ({portion_to_count}/{how_long_it_will_probably_take_to_fully_consume} days, {quantity} {food_type})")
             logging(f"total is {total}")
             return total
+
         # assert start_date >= result[0]["preparation_or_opening_date"]
         if start_date < result[0]["preparation_or_opening_date"]:
             # The start_date we are given is too far back, before we even
             # started logging this food_type, so just give up and set that
             # start_date to where the logging began.
             start_date = result[0]["preparation_or_opening_date"]
+        assert start_date <= end_date
         # TODO: do similar check for end_date
         total = 0.0
         for i in range(len(result) - 1):
@@ -166,12 +169,15 @@ def get_food_amount_for_range(food_type: str, start_date: datetime.date, end_dat
                 assert(how_long_it_took_to_fully_consume > 0)
                 assert(portion_to_count >= 0)
                 logging(f"period [{curr_date}--{next_date}): partially counting; +{fraction}*{quantity} ({portion_to_count}/{how_long_it_took_to_fully_consume} days, {quantity} {food_type})")
+            else:
+                logging(f"period [{curr_date}--{next_date}): not counting at all; +0 ({food_type})")
         if end_date > next_date:
             extrapolated_next_date = next_date + datetime.timedelta(days=(next_date - curr_date).days)
             if end_date > extrapolated_next_date:
                 # We don't know how to handle this case because it's too far in
                 # the future, so just give up and return the total we already
                 # have
+                logging(f"total is {total}")
                 return total
             # assert end_date <= extrapolated_next_date
             how_long_it_will_probably_take_to_fully_consume = (extrapolated_next_date - next_date).days
