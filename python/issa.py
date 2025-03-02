@@ -94,9 +94,9 @@ def get_nutrient_for_food(food_type: str) -> dict[str, float | None]:
         return d
 
 def get_food_amount_for_range(food_type: str, start_date: datetime.date, end_date: datetime.date) -> float:
-    """Return how many instances of `food_type` were consumed between
-    start_date (inclusive) and end_date (exclusive). The number of instances is
-    prorated and can be fractional."""
+    """Return how much of `food_type` was consumed between start_date
+    (inclusive) and end_date (exclusive). The number of instances is prorated
+    and can be fractional."""
     _connection = connection.connect()
     query = """
         select * from food_preparations_and_openings where food_type = %s
