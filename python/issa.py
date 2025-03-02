@@ -17,20 +17,20 @@ DEFAULT_CONSUMPTION_LENGTH_IN_DAYS = {
 }
 
 def logging(*args):
-    debug = True
+    debug = False
     if debug:
         print(*args)
 
 def main() -> None:
-    amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2024, 8, 20), datetime.date(2024, 9, 13))
+    # amount_consumed = get_food_amount_for_range("Beefsteak tomato", datetime.date(2024, 8, 20), datetime.date(2024, 9, 13))
     # amount_consumed = get_food_amount_for_range("Trader Giotto's Olive Oil", datetime.date(2024, 6, 18), datetime.date(2024, 6, 20))
     # amount_consumed = get_food_amount_for_range("Trader Giotto's Olive Oil", datetime.date(2023, 5, 6), datetime.date(2025, 5, 10))
-    # start_date = datetime.date(2024, 2, 4)
-    # for w in range(56):
-    #     week_start = start_date + datetime.timedelta(weeks=w)
-    #     week_end = start_date + datetime.timedelta(weeks=w+1)
-    #     print(f"For week starting {week_start.strftime('%Y-%m-%d')}: ", end="")
-    #     get_nutrients_for_range(week_start, week_end)
+    start_date = datetime.date(2024, 5, 4)
+    for w in range(52):
+        week_start = start_date + datetime.timedelta(weeks=w)
+        week_end = start_date + datetime.timedelta(weeks=w+1)
+        print(f"For week starting {week_start.strftime('%Y-%m-%d')}: ", end="")
+        get_nutrients_for_range(week_start, week_end)
 
 def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
     _connection = connection.connect()
@@ -56,7 +56,7 @@ def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
                     num_days = (end_date - start_date).days
                     assert num_days > 0
                     val_str = f"{v} (daily avg: {v / num_days})"
-                # print(f"{k}: {val_str}")
+                print(f"{k}: {val_str}")
 
 def add_nutrient_dicts(d1, d2):
     result = {}
