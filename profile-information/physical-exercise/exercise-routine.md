@@ -158,10 +158,9 @@ details.
 Goal of exercise: build
 
 I have done weight-lifting exercises off and on, but mostly off, till
-about 2021. In November 2021, I started doing weight-lifting exercises
-regularly in November 2021 and have ramped them up slowly since
-then. See [here](weight-lifting-exercises-with-history.md) for
-details.
+about 2021. I started doing weight-lifting exercises regularly in
+November 2021 and have ramped them up slowly since then. See
+[here](weight-lifting-exercises-with-history.md) for details.
 
 ## Push-ups
 
