@@ -17,8 +17,10 @@ I can already do overhand for well over a minute, but the underhand
 that I do following it is less than a minute. So, I still have some
 ways to go to build.
 
-There is significant overlap in goals with [strength
-exercises](strength-exercises-with-history.md).
+There is significant overlap in goals with other strength exercises,
+such as [pull-ups](pull-ups-with-history.md),
+[push-ups](push-ups-with-history.md), and
+[weight-lifting](weight-lifting-exercises-with-history.md).
 
 ## Current practice
 
