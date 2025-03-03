@@ -384,7 +384,7 @@ I made a few minor protocol tweaks:
   morning (though it may have just been the case that my hands have
   not been as cold recently as they used to be).
 
-## Update on 2025-02-28
+### Update on 2025-02-28
 
 I increased the range of durations that I am able to keep the hand
 gripper closed with each hand, based on a review of data over the
