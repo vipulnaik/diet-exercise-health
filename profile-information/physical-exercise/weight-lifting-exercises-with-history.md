@@ -226,9 +226,13 @@ to 5 repetitions each time though the number might go up over
 time. The 20 lb dumb bells are too heavy for me to safely do either
 exercise 1 or exercise 2.
 
-On the same day, I also experimented with the 12 lb kettlebells I had
+On the same day, I also experimented with the 12 lb kettlebell I had
 purchased on Sunday 2025-02-23. I did the hold that is done at the
 start of a goblet squat, familiarizing myself with the weight and how
 it feels. I didn't actually do the goblet squat itself.
 
-TODO update once I start actually doing goblet squats.
+I did the first set of goblet squats (5 in total) with the 12 lb
+kettlebell on Sunday 2025-03-02. The weight didn't feel too heavy, so
+at this point it's more of a movement and posture training. My plan is
+to, in a few months, once I am more confident of the movement, upgrade
+to a heavier kettlebell.
