@@ -352,5 +352,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-03-02 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-03-02','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-02','Whole Foods Mexican Whole Wheat Tortillas',1,1,NULL,NULL);
+  ('2025-03-02','Whole Foods Mexican Whole Wheat Tortillas',1,1,NULL,NULL),
+  /* 2025-03-02 (second meal) Udupi Palace spinach masala dosa consumption -- I finished the dosa but had only part of the sambhar and white chutney, to be finished in the coming days */
+  ('2025-03-02','Udupi Palace spinach masala dosa',1,2,NULL,NULL);
   /* Double-check the date before committing */
