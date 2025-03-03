@@ -64,6 +64,15 @@ def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
                 avg_nutrient_for_foods.append((food_type, val/num_days, amount_consumed/num_days, weight_consumed, volume_consumed))
             all_nutrients_consumed = add_nutrient_dicts(all_nutrients_consumed, nutrients_consumed)
         print(f"Printing data for period [{start_date.strftime('%Y-%m-%d')}--{end_date.strftime('%Y-%m-%d')}):")
+        for k, v in all_nutrients_consumed.items():
+            if k == nutrient_of_interest:
+                if v is None:
+                    val_str = "unknown"
+                else:
+                    num_days = (end_date - start_date).days
+                    assert num_days > 0
+                    val_str = f"{v:.2f} (daily avg: {v / num_days:.2f})"
+                print(f"Total {k} consumed for the whole period: {val_str}; the breakdown of this by food is:")
         max_food_length = max([len(f[0]) for f in avg_nutrient_for_foods])
         for food in sorted(avg_nutrient_for_foods, key=lambda t: t[1], reverse=True):
             food_type, avg_val, avg_amt, weight_consumed, volume_consumed = food
@@ -73,16 +82,7 @@ def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
             volume_str = "unknown volume"
             if volume_consumed is not None:
                 volume_str = f"{volume_consumed: >5.2f}ml"
-            print(f"{food_type: >{max_food_length}}: {avg_val: >6.2f} of nutrient/day, ate this much/day: {weight_str} or {volume_str} ({avg_amt:.2f} of a Unit)")
-        for k, v in all_nutrients_consumed.items():
-            if k == nutrient_of_interest:
-                if v is None:
-                    val_str = "unknown"
-                else:
-                    num_days = (end_date - start_date).days
-                    assert num_days > 0
-                    val_str = f"(total for whole period: {v}) (daily avg: {v / num_days})"
-                print(f"{k}: {val_str}")
+            print(f"{food_type: >{max_food_length}}: {avg_val: >6.2f} {nutrient_of_interest} per day; ate this much of this food per day: {weight_str} or {volume_str} ({avg_amt:.2f} of a Unit)")
 
 def add_nutrient_dicts(d1, d2):
     result = {}
