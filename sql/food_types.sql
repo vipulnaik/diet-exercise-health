@@ -840,7 +840,8 @@ insert into food_types(short_name, long_name, url, notes) values
 
 insert into food_types(short_name, long_name, notes) values
   /* Udupi Palace */
-  ('Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa with sambhar, white chutney, and red chutney','I generally order takeout for this when going to Trader Joe''s for grocery shopping.'),
+  ('Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa with sambhar and white chutney (not including free red chutney)','I generally order takeout for this when going to Trader Joe''s for grocery shopping.'),
+  ('Udupi Palace spinach masala dosa free red chutney','Free red chutney that accompanies Udupi Palace spinach masala dosa','I am treating this as a separate item because I generally consume it separately after finishing the rest of the food'),
   ('Udupi Palace spring dosa','Udupi Palace spring dosa with sambhar, white chutney, and red chutney','I got this by mistake once when ordering the spinach masala dosa.'),
   ('Udupi Palace bisi bele bath','Udupi Palace bisi bele bath (dine-in) with papad, raita, and pickles','I generally have this dish when dining in at Udupi Palace.'),
   ('Udupi Palace sambhar','Udupi Palace sambhar','I sometimes order this as an extra dish when dining in at Udupi Palace.'),
