@@ -33,8 +33,8 @@ def main() -> None:
     #     print(f"For week starting {week_start.strftime('%Y-%m-%d')}: ", end="\n")
     #     get_nutrients_for_range(week_start, week_end)
 
-    start_date = datetime.date(2024, 8, 1)
-    get_nutrients_for_range(start_date, start_date + datetime.timedelta(days=180))
+    start_date = datetime.date(2025, 1, 1)
+    get_nutrients_for_range(start_date, start_date + datetime.timedelta(days=30))
 
 def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
     _connection = connection.connect()
@@ -46,7 +46,7 @@ def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
         result = cursor.fetchall()
         food_types = [row["short_name"] for row in result]
         all_nutrients_consumed = {}
-        nutrient_of_interest = "total_carb_in_grams"
+        nutrient_of_interest = "iron_in_mg"
         avg_nutrient_for_foods = []
         for food_type in food_types:
             amount_consumed = get_food_amount_for_range(food_type, start_date, end_date)
@@ -55,13 +55,25 @@ def get_nutrients_for_range(start_date: datetime.date, end_date: datetime.date):
                                   for k, v in nutrients_unit.items()}
             if val := (nutrients_consumed.get(nutrient_of_interest) or 0):
                 num_days = (end_date - start_date).days
-                avg_nutrient_for_foods.append((food_type, val/num_days, amount_consumed/num_days))
+                weight_consumed = nutrients_consumed.get("weight_in_grams")
+                if weight_consumed is not None:
+                    weight_consumed /= num_days
+                volume_consumed = nutrients_consumed.get("volume_in_ml")
+                if volume_consumed is not None:
+                    volume_consumed /= num_days
+                avg_nutrient_for_foods.append((food_type, val/num_days, amount_consumed/num_days, weight_consumed, volume_consumed))
             all_nutrients_consumed = add_nutrient_dicts(all_nutrients_consumed, nutrients_consumed)
         print(f"Printing data for period [{start_date.strftime('%Y-%m-%d')}--{end_date.strftime('%Y-%m-%d')}):")
         max_food_length = max([len(f[0]) for f in avg_nutrient_for_foods])
         for food in sorted(avg_nutrient_for_foods, key=lambda t: t[1], reverse=True):
-            food_type, avg_val, avg_amt = food
-            print(f"{food_type: >{max_food_length}}: {avg_val: >6.2f} of nutrient/day, ate this much/day: {avg_amt:.2f}")
+            food_type, avg_val, avg_amt, weight_consumed, volume_consumed = food
+            weight_str = "unknown weight"
+            if weight_consumed is not None:
+                weight_str = f"{weight_consumed: >6.2f}g"
+            volume_str = "unknown volume"
+            if volume_consumed is not None:
+                volume_str = f"{volume_consumed: >5.2f}ml"
+            print(f"{food_type: >{max_food_length}}: {avg_val: >6.2f} of nutrient/day, ate this much/day: {weight_str} or {volume_str} ({avg_amt:.2f} of a Unit)")
         for k, v in all_nutrients_consumed.items():
             if k == nutrient_of_interest:
                 if v is None:
@@ -99,7 +111,7 @@ def get_nutrient_for_food(food_type: str) -> dict[str, float | None]:
         assert len(result) == 1
         the_food = result[0]
         for key in the_food:
-            if key.endswith("_in_mg") or key.endswith("_in_mcg") or key.endswith("_in_grams") or key == "calories":
+            if key.endswith("_in_mg") or key.endswith("_in_mcg") or key.endswith("_in_grams") or key.endswith("_in_ml") or key == "calories":
                 val = the_food[key]
                 if val is None:
                     d[key] = None
