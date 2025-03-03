@@ -277,4 +277,9 @@ and gave it a try.
 
 On 2025-02-09, I updated the distance thresholds for jogging as well
 as the duration of home jogging based on recent changes, and also made
-a few edits to the document for clarity.
+a few edits to the document for clarity. The distance thresholds were
+increased from (1.6 miles, 1.5 miles, 1.4 miles) to (1.67 miles, 1.58
+miles, 1.5 miles). I did not change the expected jogging range of
+1.75-2.0 miles. The home jogging duration range was increased from (20
+to 25 minutes, with 20 minute as minimum) to (25 to 30 minutes, with
+25 minutes as minimum).
