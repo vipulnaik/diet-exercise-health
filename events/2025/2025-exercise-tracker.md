@@ -270,10 +270,11 @@ of the 2 miles walking.
 
 ## 2025-02-28: skipped jogging due to time constraints, but carried heavy load later so got a decent amount of exercise
 
-I skipped jogging due to time constraints created by an impromptu work
-meeting (I didn't want to delay eating too much as that would throw
-off my schedule). I did do the other exercises (hand gripper, breath
-holds, standing-on-one-leg-with-eyes-closed, and
+On Friday 2025-02-28, I skipped jogging due to time constraints
+created by an impromptu work meeting (I didn't want to delay eating
+too much as that would throw off my schedule). I did do the other
+exercises (hand gripper, breath holds,
+standing-on-one-leg-with-eyes-closed, and
 standing-on-toes-with-eyes-closed).
 
 Later in the day, I made a trip to the Amazon Hub Locker to pick up
@@ -283,3 +284,21 @@ were around 1.2-1.4 miles each. I was able to carry both ways without
 needing to put the suitcase down to rest (though I had a handful of
 instances where the suitcase hit the ground or my legs), so it was a
 decent amount of exercise and also confirmed my strength and stamina.
+
+## 2025-03-03: skipping jogging due to scheduling constraints
+
+On Monday 2025-03-03, I skipped jogging due to scheduling
+constraints. Specifically, I was in meetings from 11:30 AM to 1 PM and
+also doing time-sensitive stuff in the gaps within and between the
+meetings, so although I was able to finish hand gripper exercises,
+standing-on-one-leg exercises, and the
+humming-with-intermittent-pauses exercise, I did not get time for
+jogging. If I then went jogging at 1 PM, that would delay the start of
+my first meal to at least 2:30 PM, and probably even later, which
+would delay my second meal and also delay my sleep. I didn't want to
+do this, so I decided to skip jogging.
+
+The background factor here is that the weather has taken a turn for
+the cold, which is jeopardizing my recent switch to an earlier sleep
+schedule, but I need to maintain that switch otherwise things will get
+super-hard once the daylight savings switch happens.
