@@ -8,7 +8,7 @@ practice and some variants of it.
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 60 seconds (with adjustment for temperature)
+### Maintain standing-on-one-leg-with-eyes-closed for at least 66 seconds (with adjustment for temperature)
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -21,22 +21,21 @@ According to
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
 (average of 18.3 seconds. As somebody in my late 30s (as of 2024), my
-threshold is at least 60 seconds per leg with temperature adjustment,
-and in practice I do between 50 and 80 seconds on the first try most
-of the time (the values less than 60 seconds often still pass due to
-the temperature adjustment).
+threshold is at least 66 seconds per leg with temperature adjustment,
+and in practice I do between 60 and 100 seconds on the first try most
+of the time.
 
 At this point, it's not clear that increasing the duration has
 real-world effects either in practice or in theory, and time spent
 standing with eyes closed can't be multiplexed with other things, so
-my plan is to sustain the minimum of 60 seconds for
+my plan is to sustain the minimum of 66 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
 up. Time considerations make it dificult to push the threshold too far
-up, even if I am eventually able to do clearly over 60 seconds.
+up, even if I am eventually able to do clearly over 66 seconds.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 56 seconds over a
-period of about 1.25 years, I think just being able to maintain at 60
+that I've increased the threshold from 10 seconds to 66 seconds over a
+period of about 1.5 years, I think just being able to maintain at 66
 seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
@@ -65,7 +64,56 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 60 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 66 seconds with adjustments for colder temperatures)
+
+Starting 2025-03-03, the threshold duration is as follows:
+
+* Baseline of 66 seconds
+
+* If the temperature is 20 degrees Celsius or higher, no
+  adjustment. If the temperature is greater than 0 degrees Celsius and
+  less than 20 degrees Celsius, then 6 + three times the temperature
+  in degrees Celsius (in seconds). For instance, if the temperature is
+  10 degrees Celsius, the threshold is 36 seconds.
+
+### How the threshold duration is used
+
+If I don't clear the threshold duration on my first attempt, I
+continue to do attempts until I clear the threshold on any
+attempt. The maximum number of attempts is 5.
+
+NOTE: Prior to 2024-11-19, I was using the median across attempts
+rather than the maximum. With the significantly increased threshold,
+using the maximum makes sense and helps make sure I don't end up
+spending several minutes on this exercise. The median made sense in
+the past when the threshold was lower.
+
+### Full retry
+
+If I fail the full iteration, i.e., even after 5 attempts, I do not
+clear the threshold, this is likely due to temporary stability
+issues. The most common reason is sleepy or trembling legs; this could
+be due to ambient cold temperatures or having been seated too long.
+
+In such a case, I should stand *with my eyes open* for up to two
+minutes (i.e., either a full two minutes or however long I can stand)
+on the same leg where I've failed. After success with that, I should
+again retry the full iteration. (This retry might succeed at the first
+try if I exceed the threshold on the first try).
+
+### Overall exercise: both legs
+
+For the overall exercise, I do the above for one leg, then after
+completion I do it for the other leg.
+
+### Triggers for overall exercise
+
+I do the exercise about once every 3 days, on the day that I am not
+doing strength exercises.
+
+## History
+
+### History of threshold durations
 
 * Prior to 2023-10-28, the de facto threshold duration was 10 seconds
 
@@ -282,37 +330,18 @@ The standard version of the exercise is as follows:
     in degrees Celsius (in seconds). For instance, if the temperature
     is 10 degrees Celsius, the threshold is 30 seconds.
 
-### How the threshold duration is used
+* Starting 2025-03-03, I am increasing the baseline threshold to 66
+  seconds. The new logic is:
 
-If I don't clear the threshold duration on my first attempt, I
-continue to do attempts until I clear the threshold on any
-attempt. The maximum number of attempts is 5.
+  * Baseline of 66 seconds
 
-NOTE: Prior to 2024-11-19, I was using the median across attempts
-rather than the maximum. With the significantly increased threshold,
-using the maximum makes sense and helps make sure I don't end up
-spending several minutes on this exercise. The median made sense in
-the past when the threshold was lower.
+  * If the temperature is 20 degrees Celsius or higher, no
+    adjustment. If the temperature is greater than 0 degrees Celsius
+    and less than 20 degrees Celsius, then 6 + three times the temperature
+    in degrees Celsius (in seconds). For instance, if the temperature
+    is 10 degrees Celsius, the threshold is 36 seconds.
 
-### Full retry
-
-If I fail the full iteration, i.e., even after 5 attempts, I do not
-clear the threshold, this is likely due to temporary stability
-issues. The most common reason is sleepy or trembling legs; this could
-be due to ambient cold temperatures or having been seated too long.
-
-In such a case, I should stand *with my eyes open* for up to two
-minutes (i.e., either a full two minutes or however long I can stand)
-on the same leg where I've failed. After success with that, I should
-again retry the full iteration. (This retry might succeed at the first
-try if I exceed the threshold on the first try).
-
-### Overall exercise: both legs
-
-For the overall exercise, I do the above for one leg, then after
-completion I do it for the other leg.
-
-### Triggers for overall exercise
+### History of triggers for overall exercise
 
 #### Settings prior to 2024-11-30
 
