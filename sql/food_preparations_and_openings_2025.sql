@@ -311,7 +311,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-02-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL),
   ('2025-02-22','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
   ('2025-02-22','Whole Foods Walnuts',1,2,NULL,NULL),
-  ('2025-02-23','TJ Miso Ginger Broth',1,1,NULL,NULL),
+  ('2025-02-23','TJ Miso Ginger Broth',1,1,'2025-03-05',2),
   /* 2025-02-24 potatoes prep (first meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt) */
   ('2025-02-24','Gold potatoes 5 lb',0.5,1,'2025-03-01',1),
   ('2025-02-24','TJ Kale',1,1,'2025-03-01',1),
@@ -363,7 +363,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-03','Red bell pepper',2,2,NULL,NULL),
   ('2025-03-03','Beefsteak tomato',9,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-03','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  ('2025-03-03','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-03-05',2),
   ('2025-03-04','TJ Carb Savvy Tortillas',1,1,'2025-03-05',1),
   ('2025-03-04','TJ Roasted Seaweed',1,2,NULL,NULL),
   ('2025-03-05','Whole Foods Walnuts',1,1,NULL,NULL),
