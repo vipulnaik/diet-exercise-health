@@ -2,7 +2,7 @@
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-toes-with-eyes-closed duration at at least 30 seconds
+### Maintain standing-on-toes-with-eyes-closed duration at at least 35 seconds
 
 The ability to sustain weight on toes is important for balance, as we
 lift off from our toes, and when jogging, we are lifting off from the
@@ -12,10 +12,10 @@ raises the stakes so as to get more bang per second of exercise.
 When I started standing-on-toes-with-eyes-closed on 2024-09-09, I set
 a threshold of 15 seconds. Even this threshold, I was not able to
 consistently clear on the first try, leading to me doing 3 or 5 tries
-on many days. As of 2025-02-03 the threshold is 30 seconds.
+on many days. As of 2025-03-06 the threshold is 35 seconds.
 
 I don't have standard benchmarks for this, but I think a threshold of
-30 seconds is reasonable and I don't have plans to increase the
+35 seconds is reasonable and I don't have plans to increase the
 threshold, though if my performance continues to improve organically,
 I may increase the threshold further.
 
@@ -48,11 +48,7 @@ generally as a followup to [standing on one leg with eyes
 closed](standing-on-one-leg-with-eyes-closed-with-history.md). The
 stipulations regarding the conditions under which to do the
 standing-on-one-leg-with-eyes-closed exercise apply to this exercise
-as well. While some of the frequency considerations are different (I'm
-in maintain mode with standing-on-one-leg-with-eyes-closed but in
-build mode for standing-on-toes-with-eyes-closed) I think the
-frequency is still good enough to build the little bit more that I
-need to get to my target of 30 seconds.
+as well.
 
 ## History
 
@@ -67,3 +63,10 @@ On 2024-11-17, I increased the threshold to 24 seconds.
 On 2025-01-16, I increased the threshold to 27 seconds.
 
 On 2025-02-03, I increased the threshold to 30 seconds.
+
+On 2025-03-06, I increased the threshold to 35 seconds in light of
+recent good performance across several rounds of trying. I think in
+principle I could increase the threshold to 40 seconds but I want to
+be cautious and stay at under 20% for each incremental change so I
+have time to observe for a while if the new threshold works across
+days.
