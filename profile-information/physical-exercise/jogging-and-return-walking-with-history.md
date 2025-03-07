@@ -144,19 +144,15 @@ still jog one way and walk the other. Below are some typical reasons:
 
 ### Time of day for jogging
 
-Outside of the winter months, I generally jog in the morning. The
-exact time varies but it's usually between 8 AM and 11 AM. The total
-duration is about 35-40 minutes (see jogging/walking breakdown
+I generally jog in the morning. The exact time varies but it's usually
+between 8 AM and 2 PM, with the time being later in the day in the
+winter months and earlier in the day in the summer months. The total
+duration is about 20 to 30 minutes (see jogging/walking breakdown
 above). I generally jog after passing stool and doing a bit of work in
 the morning (whether day job or other things) but before eating
 anything. The reason for jogging in the morning is that it's generally
 cooler (so better temperature-wise) and it also works well to get that
 energy use done in the morning to feel better the whole day.
-
-During the winter months, the mornings can be too cold, so I try to
-jog in the afternoon, when it's warmest. This is generally sandwiched
-between my meals, so after my morning meal but before my
-afternoon/evening meal.
 
 ### Reasons for skipping
 
