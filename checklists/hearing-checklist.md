@@ -1,8 +1,19 @@
 # Hearing checklist
 
-- [ ] Run through and record results for online hearing test at https://www.resound.com/en-us/online-hearing-test (using normal headphones for air conduction an bone conduction headphones for bone conduction) in SQL; compare with the previous results to see if there is any concerning loss of hearing, and if so, schedule a followup test for a week later
+- Run through and record results for online hearing test at https://www.resound.com/en-us/online-hearing-test (using normal headphones for air conduction and bone conduction headphones for bone conduction) in SQL; compare with the previous results to see if there is any concerning loss of hearing, and if so, schedule a followup test for a week later
+  - [ ] Put on normal headphones
+  - [ ] Make sure that the volume of the computer is set to max
+  - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+  - [ ] Switch balance back to the middle
+  - [ ] Do the Resound online test and record results as you go along
+  - [ ] Put on bone conduction headphones
+  - [ ] Make sure that the volume of the computer is set to max
+  - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+  - [ ] Switch balance back to the middle
+  - [ ] Do the Resound online test and record results as you go along
 - Run through and record results for test where I try to play https://www.youtube.com/watch?v=eVVaqFDG6Fo (using normal headphones for air conduction an bone conduction headphones for bone conduction) all in one ear and find the lowest possible volume for each ear where I can make out the words -- if it's higher than 1/64, schedule followup test in about a week
-  - [ ] Left ear with normal headphones
+  - [ ] Make sure that within-YouTube volume is set to max
+  - [ ] Left ear with normal headphones (if the headphones are oriented wrong, re-wear the headphones)
   - [ ] Right ear with normal headphones
   - [ ] Left ear with bone conduction headphones
   - [ ] Right ear with bone conduction headphones
