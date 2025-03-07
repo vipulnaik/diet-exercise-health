@@ -158,13 +158,18 @@ energy use done in the morning to feel better the whole day.
 
 I have a few different reasons for skipping:
 
-* **Currently raining or highly likely to rain**: Particularly during
-  the winter months (around January and February, sometimes December
-  and March) it can be raining heavily, or be highly likely to rain,
-  throughout the day.
+* **Currently raining or highly likely to rain, or wet sidewalks from
+  recent rain**: Particularly during the winter months (around January
+  and February, sometimes December and March) it can be raining
+  heavily, or be highly likely to rain, throughout the day. NOTE:
+  Starting late 2024, I have implemented a home jogging alternative
+  that I generally use instead of skippng jogging under these
+  conditions.
 
 * **Other inclement weather conditions**: Examples include extreme
-  heat, extreme cold, and air quality issues.
+  heat, extreme cold, and air quality issues. NOTE: Starting late
+  2024, I have implemented a home jogging alternative that I generally
+  use instead of skippng jogging under these conditions.
 
 * **Time constraints during the parts of the day where I usually
   jog**: For instance, outside winter months, I might be unable to jog
@@ -198,7 +203,9 @@ I have a few different reasons for skipping:
 
 * **Knee rest day**: I generally try to take a day off from jogging at
   least once every 15 days. So, if there's no break happening for any
-  of the other reasons for 15 days, I will take a forced knee rest.
+  of the other reasons for 15 days, I will take a forced knee
+  rest. However, if my knees feel totally fine, I don't have to take a
+  knee rest day.
 
 ### Home jogging alternative
 
