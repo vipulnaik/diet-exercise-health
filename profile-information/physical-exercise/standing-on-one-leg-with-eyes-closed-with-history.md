@@ -400,7 +400,7 @@ so further reduction in the future may also happen).
 
 The other notes about the exercise remain unchanged.
 
-### Settings 2025-01-20 onward
+#### Settings 2025-01-20 onward
 
 In light of good and improving performance on the exercise, I am
 reducing the frequency to do it (before jogging) to the days that I am
