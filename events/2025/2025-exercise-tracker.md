@@ -302,3 +302,18 @@ The background factor here is that the weather has taken a turn for
 the cold, which is jeopardizing my recent switch to an earlier sleep
 schedule, but I need to maintain that switch otherwise things will get
 super-hard once the daylight savings switch happens.
+
+## 2025-03-11: skipping jogging (and therefore also strength exercises) to help with daylight saving adjustment
+
+On Tuesday 2025-03-11, I skipped jogging (and therefore also strength
+exercises) to help me adjust more quickly to the daylight saving time
+and its attendant obligations in terms of waking up earlier and
+sleeping earlier. By the time I was ready to go jogging, it was
+already around 1:25 PM, so going jogging would have delayed my meal
+start to around 3:10 PM whereas if I didn't, I could start my meal
+around 1:40 PM; this difference of 1.5 hours could be quite helpful
+with helping me switch to an earlier cycle of sleeping and waking up.
+
+I did do hand gripper exercises as usual and also took blood pressure
+readings (the act of taking blood pressure readings is part of what
+delayed me).
