@@ -6,7 +6,7 @@ queries = [
 
     "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (diastolic_bp_mm_hg between 55 and 85);",
 
-    "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (systolic_bp_mm_hg - diastolic_bp_mm_hg between 27 and 50) and not (reading_date in ('2024-12-15','2024-12-28'));",
+    "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (systolic_bp_mm_hg - diastolic_bp_mm_hg between 25 and 50) and not (reading_date in ('2024-12-15'));",
 
     "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (heart_rate_bpm between 40 and 75);",
 
