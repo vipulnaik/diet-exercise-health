@@ -317,3 +317,7 @@ with helping me switch to an earlier cycle of sleeping and waking up.
 I did do hand gripper exercises as usual and also took blood pressure
 readings (the act of taking blood pressure readings is part of what
 delayed me).
+
+## 2025-03-12: at-home jogging due to rain
+
+On Wednesday 2025-03-12, I did at-home jogging due to the rain.
