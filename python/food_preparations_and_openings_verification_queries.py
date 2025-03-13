@@ -30,6 +30,30 @@ queries = [
     # I should not have more than one of a given food type open at overlapping times, with the exception of kale and tomato that I use across two different kinds of meal preps
     "select * from food_preparations_and_openings_self_join where (preparation_or_opening_date_2, meal_index_2) < (completion_date_1, completion_meal_index_1) and not (food_type in ('TJ Kale','Beefsteak tomato'));",
 
+    # I generally have sauerkraut and kimchi only with the first meal, so both the meal index and the completion meal index should be 1
+    "select * from food_preparations_and_openings where food_type in ('TJ Sauerkraut','TJ Kimchi') and meal_index != 1;",
+
+    "select * from food_preparations_and_openings where food_type in ('TJ Sauerkraut','TJ Kimchi') and completion_meal_index != 1;",
+
+    # I generally have seaweed only with the second meal, so both the meal index and the completion meal index should be 2 -- the exceptions should be during periods of sauerkraut pause, or very early on before I developed the habit
+    """
+    with t1 as (
+      select preparation_or_opening_date from food_preparations_and_openings where food_type in ('TJ Roasted Seaweed') and meal_index != 2
+    ),
+    t2 as (
+      select preparation_or_opening_date, pause_date, resume_date from t1 left join food_pauses on t1.preparation_or_opening_date between food_pauses.pause_date and food_pauses.resume_date
+    )
+    select * from t2 where preparation_or_opening_date >= '2024-10-01' and pause_date is null;""",
+
+    """
+    with t1 as (
+      select completion_date from food_preparations_and_openings where food_type in ('TJ Roasted Seaweed') and meal_index != 2
+    ),
+    t2 as (
+      select completion_date, pause_date, resume_date from t1 left join food_pauses on t1.completion_date between food_pauses.pause_date and food_pauses.resume_date
+    )
+    select * from t2 where completion_date >= '2024-10-01' and pause_date is null;""",
+
     # If I completed something more than 1 day ago, there should be a new preparation or opening, except for foods that I consume one-off */
     "select * from food_preparations_and_openings_self_join where preparation_or_opening_date_2 is null and datediff(curdate(), completion_date_1) > 1 and not (food_type in ('Whole Foods Mexican Whole Wheat Tortillas','Udupi Palace spinach masala dosa'));",
 
