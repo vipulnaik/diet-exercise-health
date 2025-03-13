@@ -434,7 +434,27 @@ However, because of the low quality of the final portion of my sleep,
 and perhaps because of the significant adjustment in time from the
 previous day, I did not feel bowel movement pressure for a while. I
 finally went for bowel movement at 10:06 AM, despite not feeling much
-pressure, but I was still able to have a full normal bowel movement. I
-then had a fairly normal time till after my first meal, where I felt
-abdominal discomfort and some lethargy, which are likely effects of
-the sleep cycle change.
+pressure, but I was still able to have a full normal bowel movement.
+
+I had a normal morning on 2025-03-12 with a full load of exercise. I
+felt lethargic in the afternoon after my meal, likely as a result of
+poor sleep near the end. However, the lethargy was manageable and I
+was able to continue working at a slow pace. After my second meal, my
+energy level returned to normal for that time of day and continued
+working.  Over the day, the temperature dropped from 61 degrees
+Fahrenheit to 60 degrees Fahrenheit (where it stayed most of the day)
+and then to 59 degrees Fahrenheit in the evening. This was driven by
+it being overcast and rainy all day, with very little variation in
+outdoor temperature.
+
+I was getting into bed at 12:40 AM, but then got an alert
+that I spent some time on, which delayed me by about 15 minutes. I
+finally went to sleep at 1:17 AM.
+
+It was quite cold in the morning on 2025-03-13 (indoor temperature of
+around 57 degrees Fahrenheit) and I ended up delaying getting out of
+bed for my mid-sleep urination at 8:46 AM. Since I had a work meeting
+at 10:30 AM, I decided to just mark this as my time of waking up.
+
+Unfortunately, I didn't get enough bowel pressure and my attempted
+bowel movement on 2025-03-13 failed.
