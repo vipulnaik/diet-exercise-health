@@ -366,7 +366,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-03','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-03-05',2),
   ('2025-03-04','TJ Carb Savvy Tortillas',1,1,'2025-03-05',1),
-  ('2025-03-04','TJ Roasted Seaweed',1,2,NULL,NULL),
+  ('2025-03-04','TJ Roasted Seaweed',1,2,'2025-03-12',2),
   ('2025-03-05','Whole Foods Walnuts',1,1,'2025-03-09',2),
   ('2025-03-05','TJ Carb Savvy Tortillas',1,1,'2025-03-06',1),
   /* 2025-03-05 rice prep (second meal) (added turmeric, cumin, salt) */
@@ -402,7 +402,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-10','TJ Cumin',1,1,NULL,NULL), /* opened with eggplant meal prep and also finished the old one in the same meal prep */
   ('2025-03-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-03-11',2),
   ('2025-03-10','TJ Carb Savvy Tortillas',1,2,'2025-03-11',2),
-  ('2025-03-11','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
+  ('2025-03-11','TJ Carb Savvy Tortillas',1,2,'2025-03-12',2),
   /* 2025-03-12 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-03-12','Lundberg Sustainable California White Jasmine Rice',0.9,1,NULL,NULL),
   ('2025-03-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL);
