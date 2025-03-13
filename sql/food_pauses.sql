@@ -7,6 +7,8 @@ create table food_pauses(
   pause_type enum('proactive for upcoming event','proactive after event to prevent adverse health outcomes','proactive for upcoming event after after event to prevent adverse health outcomes','reactive to health issue','reasons unrelated to health'),
   best_practices_slug varchar(200),
   notes varchar(2000),
+  check(pause_date <= resume_date),
+  check((pause_date, pause_meal_index) < (resume_date, resume_meal_index)),
   constraint broad_food_type_exists_for_pause foreign key (broad_food_type) references broad_food_types (broad_food_type)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
