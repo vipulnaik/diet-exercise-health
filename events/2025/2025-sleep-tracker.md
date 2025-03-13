@@ -409,3 +409,32 @@ I believe that this completes my adjustment to sleeping earlier and
 waking up earlier. I likely need to make further adjustments soon in
 light of the daylight saving switch, but for now, this seems good
 enough and aligned with current weather patterns.
+
+## Sleep cycle adjustment effort 2025-03-11 onward in order to be more aligned with the daylight saving change
+
+On 2025-03-11, I decided to make a concerted effort to adjust my sleep
+cycle to earlier to be more aligned with the daylight saving change (I
+estimated my sleep cycle was okay for the situation before daylight
+saving, but not after).
+
+For this, I skipped jogging on 2025-03-11, a move that would help me
+move my first meal to 1.5 hours earlier than where it would otherwise
+be. The effect of this bubbled through to sleep time, which was 12:43
+AM, 1.5 hours earlier than my previous day's sleep time.
+
+I got up to urinate on 2205-03-12 at 6:58 AM. At this time, there was
+high humidity. Per normal, I closed my window and went back to bed,
+hoping to wake up in about 2 hours. However, due to the humidity, it
+was very stuffy with the window closed, so I opened the window at 7:21
+AM. I wasn't really able to fall back asleep due to the humidity and
+the not-too-hot-not-too-cold temperature, and I ultimately got up at
+8:06 AM.
+
+However, because of the low quality of the final portion of my sleep,
+and perhaps because of the significant adjustment in time from the
+previous day, I did not feel bowel movement pressure for a while. I
+finally went for bowel movement at 10:06 AM, despite not feeling much
+pressure, but I was still able to have a full normal bowel movement. I
+then had a fairly normal time till after my first meal, where I felt
+abdominal discomfort and some lethargy, which are likely effects of
+the sleep cycle change.
