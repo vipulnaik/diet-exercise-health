@@ -422,7 +422,7 @@ move my first meal to 1.5 hours earlier than where it would otherwise
 be. The effect of this bubbled through to sleep time, which was 12:43
 AM, 1.5 hours earlier than my previous day's sleep time.
 
-I got up to urinate on 2205-03-12 at 6:58 AM. At this time, there was
+I got up to urinate on 2025-03-12 at 6:58 AM. At this time, there was
 high humidity. Per normal, I closed my window and went back to bed,
 hoping to wake up in about 2 hours. However, due to the humidity, it
 was very stuffy with the window closed, so I opened the window at 7:21
