@@ -376,6 +376,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-06','TJ Miso Ginger Broth',1,1,NULL,NULL),
   ('2025-03-06','TJ Carb Savvy Tortillas',1,1,'2025-03-08',1),
   /* 2025-03-07 potatoes prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper (a bit more than usual), and salt) */
+  /* Regarding end date, technically I had a little bit that I mixed with the eggplant meal prep which I was still having as of 2025-03-13, but for the most part I'd say I was largely done by the second meal of 2025-03-12 so that's what I am entering */
   ('2025-03-07','Gold potatoes 5 lb',0.5,2,'2025-03-12',2),
   ('2025-03-07','TJ Kale',1,2,'2025-03-12',2),
   ('2025-03-07','TJ English Shelled Peas',2,2,'2025-03-12',2),
@@ -413,6 +414,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-13','Beefsteak tomato',6,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-13','Trader Giotto''s Olive Oil',1,1,NULL,NULL), /* opened with potatoes prep; I also used up and finished the previous olive oil bottle in the same prep */
-  ('2025-03-13','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
-  ('2025-03-13','Whole Foods Walnuts',1,1,NULL,NULL);
+  ('2025-03-13','TJ Carb Savvy Tortillas',1,1,'2025-03-13',2),
+  ('2025-03-13','Whole Foods Walnuts',1,1,NULL,NULL),
+  ('2025-03-13','TJ Roasted Seaweed',1,2,NULL,NULL),
+  ('2025-03-13','TJ Carb Savvy Tortillas',1,2,NULL,NULL);
   /* Double-check the date before committing */
