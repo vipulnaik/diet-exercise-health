@@ -3,6 +3,8 @@ import shared, connection
 queries = [
     "select * from food_preparations_and_openings where preparation_or_opening_date > curdate();",
 
+    "select * from food_preparations_and_openings where completion_date > curdate();",
+
     "select * from food_preparations_and_openings where preparation_or_opening_date < '2024-05-30';",
 
     """
