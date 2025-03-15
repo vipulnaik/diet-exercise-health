@@ -382,7 +382,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-07','TJ English Shelled Peas',2,2,'2025-03-12',2),
   ('2025-03-07','Beefsteak tomato',3,2,'2025-03-12',2),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-07','TJ Almond Milk',1,2,NULL,NULL),
+  ('2025-03-07','TJ Almond Milk',1,2,'2025-03-15',1),
   ('2025-03-08','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-03-09',2),
   ('2025-03-08','TJ Carb Savvy Tortillas',1,1,'2025-03-09',1),
   /* 2025-03-09 rice prep (first meal) (mix of basmati rice and jasmine rice) (added turmeric, cumin, salt) */
@@ -430,5 +430,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-14','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
   /* 2025-03-15 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-03-15','Lundberg Sustainable California White Jasmine Rice',0.35,1,NULL,NULL),
-  ('2025-03-15','Lundberg Sustainable California White Basmati Rice',0.55,1,NULL,NULL);
+  ('2025-03-15','Lundberg Sustainable California White Basmati Rice',0.55,1,NULL,NULL),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-03-15','TJ Almond Milk',1,1,NULL,NULL);
   /* Double-check the date before committing */
