@@ -373,7 +373,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-05','Lundberg Sustainable California White Basmati Rice',0.9,2,'2025-03-08',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-03-08',1),
-  ('2025-03-06','TJ Miso Ginger Broth',1,1,NULL,NULL),
+  ('2025-03-06','TJ Miso Ginger Broth',1,1,'2025-03-15',2),
   ('2025-03-06','TJ Carb Savvy Tortillas',1,1,'2025-03-08',1),
   /* 2025-03-07 potatoes prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper (a bit more than usual), and salt) */
   /* Regarding end date, technically I had a little bit that I mixed with the eggplant meal prep which I was still having as of 2025-03-13, but for the most part I'd say I was largely done by the second meal of 2025-03-12 so that's what I am entering */
@@ -418,7 +418,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-13','Whole Foods Walnuts',1,1,NULL,NULL),
   ('2025-03-13','TJ Roasted Seaweed',1,2,NULL,NULL),
   ('2025-03-13','TJ Carb Savvy Tortillas',1,2,'2025-03-14',2),
-  ('2025-03-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL),
+  ('2025-03-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-03-15',2),
   /* 2025-03-14 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt) */
   ('2025-03-14','Eggplant',1,2,NULL,NULL),
   ('2025-03-14','TJ Kale',1,2,NULL,NULL),
@@ -432,5 +432,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-15','Lundberg Sustainable California White Jasmine Rice',0.35,1,NULL,NULL),
   ('2025-03-15','Lundberg Sustainable California White Basmati Rice',0.55,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-15','TJ Almond Milk',1,1,NULL,NULL);
+  ('2025-03-15','TJ Almond Milk',1,1,NULL,NULL),
+  ('2025-03-15','TJ Miso Ginger Broth',1,2,NULL,NULL),
+  ('2025-03-15','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL);
   /* Double-check the date before committing */
