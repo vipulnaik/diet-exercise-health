@@ -318,6 +318,13 @@ I did do hand gripper exercises as usual and also took blood pressure
 readings (the act of taking blood pressure readings is part of what
 delayed me).
 
-## 2025-03-12: at-home jogging due to rain
+## 2025-03-12 to 2025-03-14 and 2025-03-17: at-home jogging due to rain
 
-On Wednesday 2025-03-12, I did at-home jogging due to the rain.
+From Wednesday 2025-03-12 to Friday 2025-03-14 and on Monday
+2025-03-17, I did at-home jogging due to the rain.
+
+## 2025-03-18: skipping jogging due to delays and in order to be able to sleep early
+
+On Tuesday 2025-03-18, I skipped jogging due to waking up late
+(understandably given the cold and sleeping a bit late). The goal was
+to be able to sleep early in light of a meeting at 10 AM tomorrow.
