@@ -408,10 +408,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-12','Lundberg Sustainable California White Jasmine Rice',0.85,1,'2025-03-14',2),
   ('2025-03-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-03-14',1),
   /* 2025-03-13 potatoes prep (first meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper (a bit more than usual), and salt) */
-  ('2025-03-13','Gold potatoes 5 lb',0.5,1,NULL,NULL),
-  ('2025-03-13','TJ Kale',1,1,NULL,NULL),
-  ('2025-03-13','TJ English Shelled Peas',2,1,NULL,NULL),
-  ('2025-03-13','Beefsteak tomato',6,1,NULL,NULL),
+  ('2025-03-13','Gold potatoes 5 lb',0.5,1,'2025-03-17',2),
+  ('2025-03-13','TJ Kale',1,1,'2025-03-17',2),
+  ('2025-03-13','TJ English Shelled Peas',2,1,'2025-03-17',2),
+  ('2025-03-13','Beefsteak tomato',6,1,'2025-03-17',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-13','Trader Giotto''s Olive Oil',1,1,NULL,NULL), /* opened with potatoes prep; I also used up and finished the previous olive oil bottle in the same prep */
   ('2025-03-13','TJ Carb Savvy Tortillas',1,1,'2025-03-13',2),
