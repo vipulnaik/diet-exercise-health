@@ -447,5 +447,5 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-18','TJ English Shelled Peas',2,2,NULL,NULL),
   ('2025-03-18','Beefsteak tomato',3,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-18','TJ Carb Savvy Tortillas',1,2,NULL,NULL);
+  ('2025-03-18','TJ Carb Savvy Tortillas',1,2,'2025-03-19',1);
   /* Double-check the date before committing */
