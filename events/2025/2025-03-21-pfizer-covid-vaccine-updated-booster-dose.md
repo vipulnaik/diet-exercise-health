@@ -65,3 +65,11 @@ After booking the vaccine, I filled the consent form. The questions were as foll
   or convalescent plasma) specifically for COVID-19?
 
   Answer: No
+
+## Preparation
+
+### Strength exercises and hand gripper exercise paused on 2025-03-19
+
+On Wednesday 2025-03-19, I paused strength exercises and hand gripper
+exercise. This was consistent with the calendar reminder I had put in
+place.

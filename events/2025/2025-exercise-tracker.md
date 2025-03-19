@@ -328,3 +328,10 @@ From Wednesday 2025-03-12 to Friday 2025-03-14 and on Monday
 On Tuesday 2025-03-18, I skipped jogging due to waking up late
 (understandably given the cold and sleeping a bit late). The goal was
 to be able to sleep early in light of a meeting at 10 AM tomorrow.
+
+## 2025-03-19: skipping of all exercise and beginning of pause of strength exercises and hand gripper exercise
+
+On Wednesday 2025-03-19, I skipped all exercise due to a meeting with
+work colleagues in the morning. I also began a longer pause of
+strength exercises and hand gripper exercise for a COVID-19 vaccine
+appointment scheduled for Friday 2025-03-21.
