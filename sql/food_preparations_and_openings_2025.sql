@@ -440,12 +440,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-03-17 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-03-17','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  ('2025-03-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-03-19',2),
   /* 2025-03-18 potatoes prep (second meal) (added olive oil, turmeric, cumin, and salt; skipped cayenne pepper out of risk aversion in light of potentially talking a lot tomorrow) */
   ('2025-03-18','Gold potatoes 5 lb',0.5,2,NULL,NULL),
   ('2025-03-18','TJ Kale',1,2,NULL,NULL),
   ('2025-03-18','TJ English Shelled Peas',2,2,NULL,NULL),
   ('2025-03-18','Beefsteak tomato',3,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-18','TJ Carb Savvy Tortillas',1,2,'2025-03-19',1);
+  ('2025-03-18','TJ Carb Savvy Tortillas',1,2,'2025-03-19',1),
+  ('2025-03-19','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
+  ('2025-03-19','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL);
   /* Double-check the date before committing */
