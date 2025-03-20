@@ -73,3 +73,10 @@ After booking the vaccine, I filled the consent form. The questions were as foll
 On Wednesday 2025-03-19, I paused strength exercises and hand gripper
 exercise. This was consistent with the calendar reminder I had put in
 place.
+
+### Weather check on the evening of 2025-03-19
+
+On the evening of Wednesday 2025-03-19, I checked the weather and
+confirmed that the time of the vaccine administration is forecast to
+not have rain and to be reasonably warm (temperature range of 61-62
+degrees Fahrenheit).
