@@ -420,17 +420,17 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-13','TJ Carb Savvy Tortillas',1,2,'2025-03-14',2),
   ('2025-03-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-03-15',2),
   /* 2025-03-14 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt) */
-  ('2025-03-14','Eggplant',1,2,NULL,NULL),
-  ('2025-03-14','TJ Kale',1,2,NULL,NULL),
-  ('2025-03-14','TJ Carrots',1,2,NULL,NULL),
-  ('2025-03-14','Green bell pepper',4,2,NULL,NULL),
-  ('2025-03-14','Red bell pepper',2,2,NULL,NULL),
-  ('2025-03-14','Beefsteak tomato',9,2,NULL,NULL),
+  ('2025-03-14','Eggplant',1,2,'2025-03-20',2),
+  ('2025-03-14','TJ Kale',1,2,'2025-03-20',2),
+  ('2025-03-14','TJ Carrots',1,2,'2025-03-20',2),
+  ('2025-03-14','Green bell pepper',4,2,'2025-03-20',2),
+  ('2025-03-14','Red bell pepper',2,2,'2025-03-20',2),
+  ('2025-03-14','Beefsteak tomato',9,2,'2025-03-20',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-14','TJ Carb Savvy Tortillas',1,2,'2025-03-16',1),
   /* 2025-03-15 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-03-15','Lundberg Sustainable California White Jasmine Rice',0.35,1,NULL,NULL),
-  ('2025-03-15','Lundberg Sustainable California White Basmati Rice',0.55,1,NULL,NULL),
+  ('2025-03-15','Lundberg Sustainable California White Jasmine Rice',0.35,1,'2025-03-17',2), /* backfilled, no exact record, but I think I finished this along with prep of the next rice meal as a little bit was left */
+  ('2025-03-15','Lundberg Sustainable California White Basmati Rice',0.55,1,'2025-03-17',2), /* backfilled, no exact record, but I think I finished this along with prep of the next rice meal as a little bit was left */
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-15','TJ Almond Milk',1,1,NULL,NULL),
   ('2025-03-15','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-03-17',2),
