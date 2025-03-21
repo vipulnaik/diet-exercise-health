@@ -342,7 +342,7 @@ relatively tight deadline to acquire the information in question.
 Risk is the most important dimension for timing cognitive
 tasks. Essentially, I want to stick to low-risk tasks toward the end
 of the day, starting 1 hour prior to my 1-hour-notice-to-sleep
-time. Separately, I should ake sure to stay at low risk when timelines
+time. Separately, I should make sure to stay at low risk when timelines
 are tight, so that I don't end up stressed about fixing a mistake.
 
 Regarding cognitive open-endedness and peak cognitive strength, it's
