@@ -126,7 +126,7 @@ back to me later.
 
 ### Screen coping: dark mode, adaptive brightness
 
-For screens, I use two tools:
+For screens, I use three tools:
 
 * Dark mode: Dark mode is helpful particularly in the context of low
   levels of ambient light, because with low ambient light, it's easier
