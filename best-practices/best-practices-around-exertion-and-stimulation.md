@@ -122,7 +122,7 @@ Based on this additional information, I have the following limits:
 
 * 10 MEWs for the whole day
 
-### Reworked example for a tyical day with the complex limits
+### Reworked example for a typical day with the complex limits
 
 Here's a bit of a reworked example for a typical day. Let's say that
 in a day, I have these activities:
