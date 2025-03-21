@@ -74,7 +74,7 @@ suggested limits.
 
 In some cases, I may do longer walking trips for work, bureaucracy, or
 pleasure. Either skipping jogging or jogging a shorter distance makes
-sense so that I can stay within 7-8 miles total MEWs.
+sense so that I can stay within 7-8 total MEWs.
 
 ### This rules out the possibility of jogging and then going for a 3-mile shopping trip before my first meal
 
