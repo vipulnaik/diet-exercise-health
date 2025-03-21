@@ -255,7 +255,7 @@ material I'm trying to retain from it is low.
     feel like I can handle more
 
 * POCS on speaker (where I am listening to it while away from
-  computer). Limits here are a little lower because listening to
+  computer without using Bluetooth headphones). Limits here are a little lower because listening to
   audio this way can be a bit strenuous and also cuts into my
   unwinding / processing / sorting time.
 
