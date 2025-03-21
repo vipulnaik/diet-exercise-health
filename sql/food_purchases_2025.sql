@@ -213,9 +213,20 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-03-15','Beefsteak tomato',9),
   ('2025-03-15','Gold potatoes 5 lb',1),
   ('2025-03-15','TJ English Shelled Peas',4),
-  /* 2025-03-19 (Wednesday) Berkeley Bowl; total cost $58.12; checkout at 5:09 PM; paid by credit card; 11 items in transaction  of which 3 were Seventh Generation dish soaps so only 8 food items */
+  /* 2025-03-19 (Wednesday) Berkeley Bowl; total cost $58.12; checkout at 5:09 PM; paid by credit card; 11 items in transaction of which 3 were Seventh Generation dish soaps so only 8 food items */
   ('2025-03-19','Lundberg Sustainable California White Basmati Rice',2),
-  ('2025-03-19','Kite Hill Greek Style Plant-Based Yogurt',6);
+  ('2025-03-19','Kite Hill Greek Style Plant-Based Yogurt',6),
+  /* 2025-03-20 (Thursday) Trader Joe's; cost $58.54; checkout at 5:56 PM; paid by credit card; 26 items in transaction */
+  ('2025-03-20','TJ Carb Savvy Tortillas',2),
+  ('2025-03-20','Beefsteak tomato',9),
+  ('2025-03-20','Green bell pepper',4),
+  ('2025-03-20','Red bell pepper',2),
+  ('2025-03-20','Trader Giotto''s Olive Oil',1),
+  ('2025-03-20','TJ Walnuts',2),
+  ('2025-03-20','TJ Carrots',1),
+  ('2025-03-20','TJ Roasted Seaweed',1),
+  ('2025-03-20','TJ Kale',2),
+  ('2025-03-20','Eggplant',2);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
