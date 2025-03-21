@@ -163,6 +163,15 @@ Set a weather check reminder for two days prior to the appointment.
   risk) Resume reminder for strength exercises: Nine days after the
   vaccine appointment
 
+* (recovery / documentation and processing) Reminder to check vaccine
+  records: Four days after the vaccine appointment; if the record is
+  not yet available, then remind again after three more days:
+
+  * Walgreens website for a digital record
+
+  * https://myvaccinerecord.cdph.ca.gov/ for an updated record of all
+    recent vaccines received in California
+
 ### Reminders to pause and resume jogging and breath holds
 
 * (preparation / general energy conservation) Pause reminder: morning
