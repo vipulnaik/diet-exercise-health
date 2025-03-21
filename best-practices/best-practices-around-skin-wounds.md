@@ -34,7 +34,7 @@ impacts while on the go.
 
 ## Handling
 
-### Things to avoid / reduce if possible
+### Things to avoid / reduce if possible in case of hand injury
 
 * Hand washing and sanitizer use: If possible, delay activities that
   require these, particularly in the first 1-2 hours after the injury,
@@ -47,7 +47,7 @@ impacts while on the go.
 * Strength exercises: Try not to do strength exercises with the
   injured hand.
 
-* Carrying heavy loads: Try to use the other hands.
+* Carrying heavy loads: Try to use the other hand.
 
 * Handling of sharp or rough objects: Some things in the realm of
   cleaning, packing, physical reorganization, may match this.
