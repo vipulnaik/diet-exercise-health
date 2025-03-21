@@ -80,3 +80,18 @@ On the evening of Wednesday 2025-03-19, I checked the weather and
 confirmed that the time of the vaccine administration is forecast to
 not have rain and to be reasonably warm (temperature range of 61-62
 degrees Fahrenheit).
+
+### Shopping and laundry done on 2025-03-19 and 2025-03-20
+
+I did shopping at Berkeley Bowl on 2025-03-19 and at Trader Joe's on
+2025-03-20. I did regular laundry on 2025-03-19 and heavy laundry on
+2025-03-20, so my shopping and laundry needs in the days right after
+the vaccine are minimal.
+
+### Packing / prep on the morning of 2025-03-21
+
+While packing / prep is ideally done the previous evening, the
+previous evening was hectic with laundry completion, so I deferred
+packing / prep to the morning. This included packing the COVID-19
+vaccine card as well as looking into my California digital vaccine
+record situation.
