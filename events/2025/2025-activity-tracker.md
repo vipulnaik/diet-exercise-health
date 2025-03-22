@@ -107,3 +107,11 @@ Foods. The food purchases made at Whole Foods are recorded
 
 In the evening, I made a trip to the Amazon Hub Locker at ASUC
 Berkeley for package pickup.
+
+## 2025-03-21
+
+In the afternoon, I made a trip to Walgreens for a COVID vaccine
+booster dose. See
+[here](2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md) for
+details. On the way back, I stopped at Berkeley Bowl for food
+purchases recorded [here](../../sql/food_purchases_2025.sql).
