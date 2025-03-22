@@ -9,7 +9,7 @@ create table accidents(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into accidents(date, date_precision, cause_of_accident, physical_injury_details, physical_injury_severity, other_damage_details, notes_doc) values
-  ('2014-12-15','day','Running fall','A significant scrape of the knee; this prompted me to get my Tdap vaccine the same day. For a few days, I needed to sit with my knees spread out.',5,NULL,NULL),
+  ('2014-12-14','day','Running fall','A significant scrape of the knee; this prompted me to get my Tdap vaccine the same day. For a few days, I needed to sit with my knees spread out.',5,NULL,NULL),
   ('2019-09-10','day','Traffic accident','I fell on my right side and my injuries were mainly to my right arm and a little below the waist. I also had stiffness in a few parts of my body.',4,NULL,'https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2019/2019-09-10-traffic-accident.md'),
   ('2020-07-01','quarter','Object drop',NULL,NULL,'I dropped one of my glass food storage containers. I had placed it near the edge of the countertop due to the lack of space on the countertop near the sink (with stuff from my housemates having used up all the space), and it fell after a slight perturbation.',NULL),
   ('2022-04-05','day','Running fall','This was a relatively milder fall than my previous running fall; I scraped the side of my right knee as well as my right shoulder, and also got bruises on my left and right palm.',2,'I also cracked my phone screen that I had been holding in my left hand.','https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2022/2022-04-05-fall-and-phone-screen-crack.md'),
