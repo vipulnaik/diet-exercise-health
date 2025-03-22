@@ -3,6 +3,9 @@
 Sections of this document:
 
 * [Appointment booking](#appointment-booking)
+* [Preparation](#preparation)
+* [Appointment](#appointment)
+* [Aftereffects](#aftereffects)
 
 ## Appointment booking
 
@@ -182,3 +185,98 @@ PM; for the last few minutes I caught up with messages on my phone. At
 
 I stopped at the Berkeley Bowl opposite the Walgreens to buy some
 stuff, finishing checkout there at 3:59 PM. I then headed back home.
+
+## Aftereffects
+
+### Soreness at injection site
+
+I first took note of the soreness at the vaccine injection site at
+7:07 PM on the day of the vaccine, noting "clear soreness on touch and
+slight soreness otherwise". As expected, the soreness was maximal over
+the bandage (so right around where the injection happened) but also it
+wasn't symmetrical around it -- it was more as I mved up my arm than
+as I moved down my arm. In fact, there was almost no soreness even on
+touch right below the bandage, but there was clearly some above the
+bandage.
+
+The soreness was not distracting, so unless I touched the area or
+directed my thoughts to it, it didn't get in my way.
+
+The soreness was also only a minor deterrent to sleeping on my right
+side that night. A little bit of care with posture to make sure that I
+was not putting too much weight on the bandaged area was enough to
+have a reasonably decent sleep even when on my right side.
+
+### Holistic fatigue
+
+I did observe a few interesting symptoms of holistic fatigue.
+
+Around 7:54 PM, after getting up briefly to check on the rice being
+cooked, I noticed that when I went back to sit, I fell rather rapidly
+on my chair, as if I was tired of standing (though I did not feel so
+tired that I couldn't stand up more, but it does seem like my body was
+erring on the side of trying to conserve energy). I also noted that I
+generally had more of a sitting affinity through the day, with a bit
+less of a desire to get up. However, by around 11:30 PM, the situation
+had improved, and I had no trouble finishing up post-meal cleanup and
+cleaning the rice container once I did get up.
+
+The next morning, when I woke up, I felt a bit tired at a level
+comparable to what one might feel after returning from exercise --
+except that I hadn't actually done any exercise. The qualia were a
+little different than those of exercise, but the level of fatigue was
+comparable.
+
+### Light sensitivity
+
+When I put the light on around 7:54 PM, I felt more light sensitivity
+than usual (I generally have light sensitivty issues, but in the past
+year they have generally been pretty mild, without any acute
+manifestations and generally only starting to cause slight fatigue
+after extended periods of time). I suspect this increased light
+sensitivity was related to the fatigue and neck tightness after the
+vaccine. Fortunately, the light sensitivity subsided quickly, and
+didn't handicap me later that evening and at night.
+
+### Tightness in the back of the neck
+
+At 7:07 PM the day of the vaccine, I noticed slight tightness in the
+back of the neck. It's not totally out of the ordinary to experience
+this briefly even without a vaccine, so the role of the vaccine isn't
+clear. The feeling subsided.
+
+### Thirst
+
+When I got back from the vaccine, I noticed I was way thirstier than
+would be expected based on the temperature and the rest of my
+exertion. I continued to be a little thirstier than usual through the
+rest of the day, but not very notably so.
+
+### Hunger
+
+I noticed more hunger than usual (relative to the level of physical
+activity and temperature) for my second meal on 2025-03-21 as well as
+my first meal on 2025-03-22). The hunger also felt psychologically
+different than usual; it wasn't the post-exertion hunger or the "Warm
+up my body against the cold" hunger but the "it's safer to stock up
+because I might need it for my fight" hunger.
+
+### Urination
+
+I did not notice any significant changes to urination on the day of
+the vaccine. However, I did have an extra round of urination the next
+morning, and it had the qualia of "there are toxins I need to dump
+quickly".
+
+### Temperature and thermal sensitivity
+
+My temperature measurements taken the night of the vaccine
+appointment, around 1:27 AM (10 hours after the vaccine) were normal,
+in fact a bit on the low side (about 97 degrees Fahrenheit). I had no
+subjective sensation of fever.
+
+Overall, I would say my thermal sensitivity was about 2-3 degrees
+Fahrenheit off from usual, i.e., I behaved as if it was about 2-3
+degrees Fahrenheit colder than it actually was. A larger gap could
+have led to chills, but this gap was small enough that at the ambient
+temperatures it caused no issues.

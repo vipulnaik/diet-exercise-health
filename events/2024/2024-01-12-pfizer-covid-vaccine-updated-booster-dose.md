@@ -140,7 +140,7 @@ in the next section). It's worth noting that on my return journey from
 Walgreens to my home (around 5 PM, a little over an hour after the
 vaccine), I carried a light load of toiletries in my right hand and an
 8 lb dumb bell (just purchased) in the other, and both worked fine for
-me with no carrying fatigue.In contrast, when I had purchased the
+me with no carrying fatigue. In contrast, when I had purchased the
 other 8 lb dumb bell a little over two months ago, I remember having
 felt tired enough to need to switch hands. So it seems that the
 strength improvements from weight practice over the past two months
