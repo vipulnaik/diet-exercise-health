@@ -29,5 +29,6 @@ insert into food_waste(waste_date, food_type, quantity, after_preparation_or_ope
   ('2024-10-30','Beefsteak tomato',0.25,true,'A few tomato pieces fell out from an overloaded pot at various points of time in the cooking process.'),
   ('2024-10-30','TJ Kale',0.05,true,'Some of the kale I poured into the pot fell out as part of the pouring process.'),
   ('2024-11-16','Gold potatoes 5 lb',0.97,false,'I had stored these in the freezer and then moved them to the fridge. The potatoes became mush and leaked into the vegetable tray I had to throw them out. One potato that I had used with the previous prep was excluded from this discard.'),
-  ('2025-01-01','TJ Kale',0.05,false,'A little bit of kale dropped when dumping it into the pot for preparation.');
+  ('2025-01-01','TJ Kale',0.05,false,'A little bit of kale dropped when dumping it into the pot for preparation.'),
+  ('2025-03-23','Beefsteak tomato',1,false,'The tomato had spoiled quite a bit so I threw it out rather than use it for potatoes prep.');
   /* Double-check the date before committing */
