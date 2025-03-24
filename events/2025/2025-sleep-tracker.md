@@ -458,3 +458,9 @@ at 10:30 AM, I decided to just mark this as my time of waking up.
 
 Unfortunately, I didn't get enough bowel pressure and my attempted
 bowel movement on 2025-03-13 failed.
+
+## Additional sleep needs after COVID-19 vaccine
+
+See [2025-03-21 Pfizer COVID vaccine updated booster dose section on
+sleep quality and
+quantity](2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md#sleep-quality-and-quantity).
