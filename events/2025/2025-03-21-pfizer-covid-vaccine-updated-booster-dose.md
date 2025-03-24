@@ -282,3 +282,39 @@ Fahrenheit off from usual, i.e., I behaved as if it was about 2-3
 degrees Fahrenheit colder than it actually was. A larger gap could
 have led to chills, but this gap was small enough that at the ambient
 temperatures it caused no issues.
+
+### Sleep quality and quantity
+
+My sleep duration seems to have gone up a little bit, particularly
+considering that the weather has become warmer, which in general
+should cause the sleep duration to reduce. This is likely explained
+partly by reduced sleep quality on the first night after the vaccine,
+as well as not sleeping extra on that night itself to compensate for
+the poor quality.
+
+Compared to an average duration of about 8 hours 10 minutes between
+time of going to sleep and time of waking up, my durations were as
+follows:
+
+* 2025-03-21 (Friday) to 2025-03-22 (Saturday): 8 hours 20 minutes
+  from 1:42 AM to 10:02 AM; this was the night of the vaccine and had
+  comparatively poor sleep quality, though still better than after
+  many vaccines and medical procedures.
+
+* 2025-03-22 (Saturday) to 2025-03-23 (Sunday): 9 hours 7 minutes from
+  1:08 AM to 10:15 AM.
+
+* 2025-03-23 (Sunday) to 2025-03-24 (Monday): 8 hours 50 minutes from
+  1:02 AM to 9:52 AM.
+
+The duration of time I wake up for mid-sleep urination is about 9 to
+12 minutes, and it stayed within that range for these three days as
+well.
+
+### Sore throat
+
+I have had off-and-on sore throat for the past two weeks, initially
+brought on by what I believe to be an excess of cayenne pepper, from
+which I recovered, but then had some further ups and downs. I did
+experience a slight resurgence in sore throat which might have been
+influenced by the vaccine, but it's not clear either way.
