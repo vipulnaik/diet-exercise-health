@@ -6,6 +6,7 @@ Sections of this document:
 * [Preparation](#preparation)
 * [Appointment](#appointment)
 * [Aftereffects](#aftereffects)
+* [Resumption of exercise](#resumption-of-exercise)
 
 ## Appointment booking
 
@@ -319,3 +320,18 @@ brought on by what I believe to be an excess of cayenne pepper, from
 which I recovered, but then had some further ups and downs. I did
 experience a slight resurgence in sore throat which might have been
 influenced by the vaccine, but it's not clear either way.
+
+## Resumption of exercise
+
+### 2025-03-24: resumption of jogging (at-home and shorter duration) and standing-with-eyes-closed exercises
+
+On Monday 2025-03-24, per the [best practices around vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.d),
+I resumed jogging. However, I stuck to jogging at home and jogged for
+a reduced duration of about 15 minutes. The choice of at-home jogging
+was due to a mix of time constraints and a desire to be more
+conservative as I was still not fully back to a normal level of
+energy. At-home jogging gives more flexibility to stop at any time.
+
+I also resumed standing-on-one-leg-with-eyes-closed and
+standing-on-toes-with-eyes-closed exercises.
