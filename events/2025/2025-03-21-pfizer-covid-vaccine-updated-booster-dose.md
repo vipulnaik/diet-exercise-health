@@ -207,7 +207,8 @@ side that night. A little bit of care with posture to make sure that I
 was not putting too much weight on the bandaged area was enough to
 have a reasonably decent sleep even when on my right side.
 
-I removed the bandage on 2025-03-23 around 11:34 PM. This was about 2 days and 8 hours after the vaccine administration.
+I removed the bandage on 2025-03-23 around 11:34 PM. This was about 2
+days and 8 hours after the vaccine administration.
 
 ### Holistic fatigue
 
