@@ -372,3 +372,16 @@ For the 100 lb hand gripper, I managed 20 seconds in my left hand,
 compared to my usual range of 20 to 35 seconds (but this usual range
 is after a much more exhausting close of the 150 lb hand gripper than
 I did today).
+
+## 2025-03-25: continued at-home jogging for shorter duration
+
+On Tuesday 2025-03-25, I continued to stick to at-home jogging (I had
+resumed at-home jogging the previous day, Monday 2025-03-24). I did
+not get back to the full duration for at-home jogging of about 30
+minutes, but I did go up to about 19 minutes compared to about 15
+minutes yesterday.
+
+My reasons for continuing with at-home jogging were to maintain the
+flexibility to stop at any time, as well as a desire to avoid the hot
+sun (uncharacteristically, the outdoor temperature was already higher
+than the indoor temperature *and* it was sunny).
