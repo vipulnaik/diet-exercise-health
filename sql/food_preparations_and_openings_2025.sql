@@ -454,7 +454,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-20','TJ Walnuts',1,2,NULL,NULL),
   ('2025-03-21','TJ Carb Savvy Tortillas',1,1,'2025-03-21',2),
   /* 2025-03-21 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-03-21','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL), /* I skipped having rice with the first meal due to time constraints */
+  ('2025-03-21','Lundberg Sustainable California White Basmati Rice',0.9,2,'2025-03-24',1), /* I skipped having rice with the first meal due to time constraints */
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-03-23',2),
   /* 2025-03-22 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, a very small bit of cayenne pepper, and salt) */
@@ -473,5 +473,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-23','TJ English Shelled Peas',2,2,NULL,NULL),
   ('2025-03-23','Beefsteak tomato',5,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL);
+  ('2025-03-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  /* 2025-03-24 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-03-24','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL);
   /* Double-check the date before committing */
