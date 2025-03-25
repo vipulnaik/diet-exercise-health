@@ -344,7 +344,8 @@ for the COVID-19 vaccine that I got on Friday 2025-03-21. See
 
 ## 2025-03-24: resumption of jogging (at-home and shorter duration) and standing-with-eyes-closed exercises
 
-On Monday 2025-03-24, per the [best practices around vaccine
+On Monday 2025-03-24, three days after the COVID-19 booster dose, per
+the [best practices around vaccine
 appointments](../../best-practices/best-practices-around-vaccine-appointments.d),
 I resumed jogging. However, I stuck to jogging at home and jogged for
 a reduced duration of about 15 minutes. The choice of at-home jogging
@@ -354,3 +355,20 @@ energy. At-home jogging gives more flexibility to stop at any time.
 
 I also resumed standing-on-one-leg-with-eyes-closed and
 standing-on-toes-with-eyes-closed exercises.
+
+## 2025-03-25: resumption of hand gripper exercises (left hand only); hold durations a little below the low end of typical
+
+On Tuesday 2025-03-25, four days after the COVID-19 booster dose, per
+the [best practices around vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.d),
+I resumed hand gripper exercises in my left hand (the non-vaccine
+arm).
+
+For the 150 lb hand gripper, I managed 8 seconds in my left hand in an
+almost-closed position, compared to my usual of being able to fully
+close for between 10 and 25 seconds.
+
+For the 100 lb hand gripper, I managed 20 seconds in my left hand,
+compared to my usual range of 20 to 35 seconds (but this usual range
+is after a much more exhausting close of the 150 lb hand gripper than
+I did today).
