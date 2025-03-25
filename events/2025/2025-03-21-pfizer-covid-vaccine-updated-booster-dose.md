@@ -215,15 +215,16 @@ days and 8 hours after the vaccine administration.
 
 I did observe a few interesting symptoms of holistic fatigue.
 
-Around 7:54 PM, after getting up briefly to check on the rice being
-cooked, I noticed that when I went back to sit, I fell rather rapidly
-on my chair, as if I was tired of standing (though I did not feel so
-tired that I couldn't stand up more, but it does seem like my body was
-erring on the side of trying to conserve energy). I also noted that I
-generally had more of a sitting affinity through the day, with a bit
-less of a desire to get up. However, by around 11:30 PM, the situation
-had improved, and I had no trouble finishing up post-meal cleanup and
-cleaning the rice container once I did get up.
+Around 7:54 PM on the day of the vaccine, after getting up briefly to
+check on the rice being cooked, I noticed that when I went back to
+sit, I fell rather rapidly on my chair, as if I was tired of standing
+(though I did not feel so tired that I couldn't stand up more, but it
+does seem like my body was erring on the side of trying to conserve
+energy). I also noted that I generally had more of a sitting affinity
+through the day, with a bit less of a desire to get up. However, by
+around 11:30 PM, the situation had improved, and I had no trouble
+finishing up post-meal cleanup and cleaning the rice container once I
+did get up.
 
 The next morning, when I woke up, I felt a bit tired at a level
 comparable to what one might feel after returning from exercise --
@@ -231,16 +232,31 @@ except that I hadn't actually done any exercise. The qualia were a
 little different than those of exercise, but the level of fatigue was
 comparable.
 
+Interestingly, the level of fatigue was relatively low on Sunday
+2025-03-23, two days after the vaccine, but rose a little bit again on
+Monday 2025-03-24, three days after the vaccine, which might be a
+result of a partial resumption of exercise as well as other weather
+factors (it was hotter on Monday, which can induce a sense of lethargy
+which can be confused with or appear to exacerbate fatigue). By the
+morning of Tuesday 2025-03-25 (before starting any exercise), I felt
+close to being back to normal.
+
 ### Light sensitivity
 
-When I put the light on around 7:54 PM, I felt more light sensitivity
-than usual (I generally have light sensitivty issues, but in the past
-year they have generally been pretty mild, without any acute
-manifestations and generally only starting to cause slight fatigue
-after extended periods of time). I suspect this increased light
-sensitivity was related to the fatigue and neck tightness after the
-vaccine. Fortunately, the light sensitivity subsided quickly, and
-didn't handicap me later that evening and at night.
+When I put the light on around 7:54 PM on the day of the vaccine, I
+felt more light sensitivity than usual (I generally have light
+sensitivty issues, but in the past year they have generally been
+pretty mild, without any acute manifestations and generally only
+starting to cause slight fatigue after extended periods of time). I
+suspect this increased light sensitivity was related to the fatigue
+and neck tightness after the vaccine. Fortunately, the light
+sensitivity subsided quickly, and didn't handicap me later that
+evening and at night.
+
+I noticed increased light sensitivity again on the evening of Monday
+2025-03-24, three days after the vaccine, which I believe to be
+related to the aftereffects of the vaccine (and in particular to the
+spike of holistic fatigue on Monday).
 
 ### Tightness in the back of the neck
 
@@ -248,6 +264,11 @@ At 7:07 PM the day of the vaccine, I noticed slight tightness in the
 back of the neck. It's not totally out of the ordinary to experience
 this briefly even without a vaccine, so the role of the vaccine isn't
 clear. The feeling subsided.
+
+I experienced a little bit of tightness as well as something of the
+nature of a tension headache in the evening on Monday 2025-03-24,
+three days after the vaccine. This likely correlates with the holistic
+fatigue and light sensitivity that also spiked again on Monday.
 
 ### Thirst
 
