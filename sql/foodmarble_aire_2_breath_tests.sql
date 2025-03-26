@@ -100,4 +100,6 @@ insert into foodmarble_aire_2_breath_tests(reading_date, index_within_reading_da
   /* 2025-02-27 */
   ('2025-02-27',1,180,2,1.8,0,'This reading, taken at 10:08 PM, was 3 hours after I finished my second meal at 7:08 PM, though I did have a few morsels as part of cleanup within about 20 minutes after finishing my meal. I took this reading to do a second check after a high preceding reading. This reading was back to normal and suggests that the preceding reading was an anomalous one.'),
   /* 2025-03-12 */
-  ('2025-03-12',1,172,1,0.4,0,'This reading, taken at 5:51 PM, was almost 3 hours after I finished my first meal at 2:59 PM, though I did have a very small amount of food in the interim (before 3:50 PM) as part of cleanup. This reading was low and not concerning.');
+  ('2025-03-12',1,172,1,0.4,0,'This reading, taken at 5:51 PM, was almost 3 hours after I finished my first meal at 2:59 PM, though I did have a very small amount of food in the interim (before 3:50 PM) as part of cleanup. This reading was low and not concerning.'),
+  /* 2025-03-25 */
+  ('2025-03-25',1,137,2,1.8,0,'This reading, taken at 8:15 PM, was about 2.25 hours after I finished my second meal at 5:58 PM. I had started the meal at 5:14 PM. The reading was normal and not concerning.');
