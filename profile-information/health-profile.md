@@ -124,7 +124,7 @@ incidents) in
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql). As
 of 2025-03-11, my latest morning heart rate readings from the BP
 machine (before exercise or eating) as measured as part of blood
-pressure measurement were on 2025-03-11 with readings of 53 bpm and 48
+pressure measurement were on 2025-03-26 with readings of 53 bpm and 53
 bpm respectively. The ambient temperature at the time I took the
 readings was 65 degrees Fahrenheit.
 
@@ -177,9 +177,11 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting morning blood pressure readings (taken
-2025-03-11) were 94/69 and 98/68. My most recent afternoon blood
+2025-03-26) were 98/67 and 96/64. My most recent afternoon blood
 pressure readings (taken 2024-12-14 about 2.5 hours after finishing a
-meal) were 102/62 and 93/60.
+meal) were 102/62 and 93/60. My most recent evening blood pressure
+readings (taken 2025-03-25 about 2.5 hours after finishing a meal)
+were 101/64 and 105/64.
 
 I've had home blood pressure readings with the systolic between 91 and
 115 and the diastolic between 55 and 75.
