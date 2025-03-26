@@ -385,3 +385,11 @@ My reasons for continuing with at-home jogging were to maintain the
 flexibility to stop at any time, as well as a desire to avoid the hot
 sun (uncharacteristically, the outdoor temperature was already higher
 than the indoor temperature *and* it was sunny).
+
+## 2025-03-26: resumption of breath holds and return to outside jogging reaching threshold distance
+
+On Wednesday 2025-03-26, I resumed breath holds, with my performance
+(in terms of duration of breath holds) within the normal range. I also
+went for outside jogging for the first time since the vaccine. The
+distance I jogged was just a little over the threshold of 1.67 miles
+(I generally record when I dip below the threshold).
