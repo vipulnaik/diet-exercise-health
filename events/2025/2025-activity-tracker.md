@@ -115,3 +115,10 @@ booster dose. See
 [here](2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md) for
 details. On the way back, I stopped at Berkeley Bowl for food
 purchases recorded [here](../../sql/food_purchases_2025.sql).
+
+## 2025-03-26
+
+In the evening, I made a trip to downtown Berkeley. My first stop was
+at Citibank to withdraw quarters for laundry.  I then went to Trader
+Joe's for food purchases recorded
+[here](../../sql/food_purchases_2025.sql).
