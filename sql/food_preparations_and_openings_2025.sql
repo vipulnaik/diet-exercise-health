@@ -458,12 +458,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-03-23',2),
   /* 2025-03-22 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, a very small bit of cayenne pepper, and salt) */
-  ('2025-03-22','Eggplant',1,1,NULL,NULL),
-  ('2025-03-22','TJ Kale',1,1,NULL,NULL),
-  ('2025-03-22','TJ Carrots',1,1,NULL,NULL),
-  ('2025-03-22','Green bell pepper',4,1,NULL,NULL),
-  ('2025-03-22','Red bell pepper',2,1,NULL,NULL),
-  ('2025-03-22','Beefsteak tomato',9,1,NULL,NULL),
+  ('2025-03-22','Eggplant',1,1,'2025-03-27',1),
+  ('2025-03-22','TJ Kale',1,1,'2025-03-27',1),
+  ('2025-03-22','TJ Carrots',1,1,'2025-03-27',1),
+  ('2025-03-22','Green bell pepper',4,1,'2025-03-27',1),
+  ('2025-03-22','Red bell pepper',2,1,'2025-03-27',1),
+  ('2025-03-22','Beefsteak tomato',9,1,'2025-03-27',1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-22','TJ Carb Savvy Tortillas',1,1,'2025-03-23',2),
   ('2025-03-22','TJ Miso Ginger Broth',1,1,NULL,NULL),
@@ -484,7 +484,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-03-25 lentils prep (overnight soaking to cook the next day; added turmeric, cumin, and salt the next day (2025-03-26) after draining soaking water and adding water for cooking) */
   ('2025-03-25','TJ Green Lentils',0.5,3,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-26','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
+  ('2025-03-26','TJ Carb Savvy Tortillas',1,2,'2025-03-27',1),
   /* 2025-03-27 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, a very small bit of cayenne pepper, and salt) */
   ('2025-03-27','Eggplant',1,1,NULL,NULL),
   ('2025-03-27','TJ Kale',1,1,NULL,NULL),
