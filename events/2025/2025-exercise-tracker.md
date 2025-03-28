@@ -393,3 +393,13 @@ On Wednesday 2025-03-26, I resumed breath holds, with my performance
 went for outside jogging for the first time since the vaccine. The
 distance I jogged was just a little over the threshold of 1.67 miles
 (I generally record when I dip below the threshold).
+
+## 2025-03-28: resumption of hand gripper exercises in right hand
+
+On Friday 2025-03-28, four days after the COVID-19 booster dose, per
+the [best practices around vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.d),
+I resumed hand gripper exercises in my right hand (the vaccine arm). I
+had already resumed the exercises in my left hand since Tuesday
+2025-03-25 (three days ago). I was able to resume the right hand at
+the usual level.
