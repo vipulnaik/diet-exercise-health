@@ -403,3 +403,9 @@ I resumed hand gripper exercises in my right hand (the vaccine arm). I
 had already resumed the exercises in my left hand since Tuesday
 2025-03-25 (three days ago). I was able to resume the right hand at
 the usual level.
+
+## 2025-03-28: at-home jogging due to wet sidewalks and recent rain
+
+On Friday 2025-03-28, I opted for at-home jogging instead of going out
+to jog. This was because of wet sidewalks from recent rain, even
+though it did appear to have stopped raining.
