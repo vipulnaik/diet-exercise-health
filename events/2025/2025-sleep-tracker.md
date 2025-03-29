@@ -464,3 +464,29 @@ bowel movement on 2025-03-13 failed.
 See [2025-03-21 Pfizer COVID vaccine updated booster dose section on
 sleep quality and
 quantity](2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md#sleep-quality-and-quantity).
+
+## 2025-03-26 to 2025-03-28: three consecutive days of shorter sleep than usual, not concerning for any one day but cumulatively leading to a slight sleep backlog
+
+* 2025-03-25 to 2025-03-26: went to sleep at 12:21 AM, woke up at 8 AM
+  (no mid-sleep urination)
+
+* 2025-03-26 to 2025-03-27: went to sleep at 12:16 AM, woke up at 7:33
+  AM (no mid-sleep urination)
+
+* 2025-03-27 to 2025-03-28: went to sleep at 12:45 AM, woke up at 7:42
+  AM (no mid-sleep urination)
+
+On the morning of 2025-03-28, I had no external need to be up early,
+and I was initially thinking of going back to bed for a little
+while. However, my bowel pressure was strong (likely related to recent
+lentils consumption, and perhaps reduced exercise as I am still
+ramping back up after the COVID vaccine). The sleep duration of just a
+tad under 7 hours was not too low in and of itself, but considering
+that in both of the past two days I had slept less than 8 hours, the
+cumulative effect was a bit of sleep pressure.
+
+I ended up feeling a bit lethargic late in the afternoon and early in
+the evening, a little before my second meal.
+
+Some existential / long-run stresses were likely also contributing to
+my mood, although there was no acute or short-run issue.
