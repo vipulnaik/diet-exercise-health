@@ -479,7 +479,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-24','TJ Roasted Seaweed',1,2,NULL,NULL),
   ('2025-03-25','TJ Almond Milk',1,1,NULL,NULL),
-  ('2025-03-25','TJ Walnuts',1,1,NULL,NULL),
+  ('2025-03-25','TJ Walnuts',1,1,'2025-03-29',2),
   ('2025-03-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-03-27',2),
   /* 2025-03-25 lentils prep (overnight soaking to cook the next day; added turmeric, cumin, and salt the next day (2025-03-26) after draining soaking water and adding water for cooking) */
   ('2025-03-25','TJ Green Lentils',0.5,3,'2025-03-28',2),
@@ -495,7 +495,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-27','TJ Sauerkraut',1,1,NULL,NULL),
   ('2025-03-27','TJ Carb Savvy Tortillas',1,2,'2025-03-28',2),
-  ('2025-03-27','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  ('2025-03-27','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-03-29',2),
   /* 2025-03-28 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-03-28','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
   /* 2025-03-29 potatoes prep (first meal) (added olive oil, turmeric, cumin, salt, and a litte bit of cayenne pepper) */
@@ -504,5 +504,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-29','TJ English Shelled Peas',2,1,NULL,NULL),
   ('2025-03-29','Beefsteak tomato',4,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-29','TJ Carb Savvy Tortillas',1,1,NULL,NULL);
+  ('2025-03-29','TJ Carb Savvy Tortillas',1,1,'2025-03-30',1),
+  ('2025-03-29','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  ('2025-03-30','TJ Walnuts',1,1,NULL,NULL);
   /* Double-check the date before committing */
