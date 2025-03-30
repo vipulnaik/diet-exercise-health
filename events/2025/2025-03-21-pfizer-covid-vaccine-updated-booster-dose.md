@@ -398,10 +398,21 @@ distance I jogged was just a little over the threshold of 1.67 miles
 
 ### 2025-03-28: resumption of hand gripper exercises in right hand
 
-On Friday 2025-03-28, four days after the COVID-19 booster dose, per
+On Friday 2025-03-28, seven days after the COVID-19 booster dose, per
 the [best practices around vaccine
 appointments](../../best-practices/best-practices-around-vaccine-appointments.d),
 I resumed hand gripper exercises in my right hand (the vaccine arm). I
 had already resumed the exercises in my left hand since Tuesday
 2025-03-25 (three days ago). I was able to resume the right hand at
 the usual level.
+
+### 2025-03-30: resumption of strength exercises
+
+On Sunday 2025-03-30, nine days after the COVID-19 booster dose, per
+the [best practices around vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.d),
+I resumed strength exercises (dumb bells, push-ups, and kettlebell
+squats). I was close enough to the level I had been at prior to the
+booster dose, though not quite fully at that level (my strength
+endurance seemed a little bit down, so I got fewer reps in for push-ups
+as I did them after the dumb bells).

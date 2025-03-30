@@ -396,7 +396,7 @@ distance I jogged was just a little over the threshold of 1.67 miles
 
 ## 2025-03-28: resumption of hand gripper exercises in right hand
 
-On Friday 2025-03-28, four days after the COVID-19 booster dose, per
+On Friday 2025-03-28, seven days after the COVID-19 booster dose, per
 the [best practices around vaccine
 appointments](../../best-practices/best-practices-around-vaccine-appointments.d),
 I resumed hand gripper exercises in my right hand (the vaccine arm). I
@@ -409,3 +409,22 @@ the usual level.
 On Friday 2025-03-28, I opted for at-home jogging instead of going out
 to jog. This was because of wet sidewalks from recent rain, even
 though it did appear to have stopped raining.
+
+## 2025-03-30: at-home jogging due to weather uncertainty and to get more time to multiplex with listening to videos
+
+On Sunday 2025-03-30, I decided to do at-home jogging due to weather
+uncertainty. It was windy and cloudy and the probability of rain was
+nontrivial (and varied across forecasting services). I also wanted to
+multiplex with listening to videos that might inform some decisions in
+the next couple of days.
+
+## 2025-03-30: resumption of strength exercises
+
+On Sunday 2025-03-30, nine days after the COVID-19 booster dose, per
+the [best practices around vaccine
+appointments](../../best-practices/best-practices-around-vaccine-appointments.d),
+I resumed strength exercises (dumb bells, push-ups, and kettlebell
+squats). I was close enough to the level I had been at prior to the
+booster dose, though not quite fully at that level (my strength
+endurance seemed a little bit down, so I got fewer reps in for push-ups
+as I did them after the dumb bells).
