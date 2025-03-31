@@ -18,3 +18,7 @@ Test details:
 I'd like to get a comprehensive metabolic panel, primarily for the
 glucose reading that I can then view in conjunction with HbA1c and
 insulin readings.
+
+### Glucose tolerance test
+
+* https://marekdiagnostics.com/products/glucose-2spec-who-tolerance-s) (slightly different protocol than regular labwork)
