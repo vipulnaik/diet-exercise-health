@@ -428,3 +428,8 @@ squats). I was close enough to the level I had been at prior to the
 booster dose, though not quite fully at that level (my strength
 endurance seemed a little bit down, so I got fewer reps in for push-ups
 as I did them after the dumb bells).
+
+## 2025-03-31: at-home jogging
+
+On Monday 2025-03-31, I decided to do at-home jogging due to a mix of
+a tight timeline, desire to multiplex, and windy outside weather.
