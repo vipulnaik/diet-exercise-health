@@ -15,4 +15,6 @@ from Amazon, but you can see the [Amazon
 page](https://www.amazon.com/Arm-Hammer-Advance-Toothpaste-Technology/dp/B09VK1RKM8/). My
 plan is to use this toothpaste about once a week to combat tooth
 staining, while still keeping the frequency low enough that it doesn't
-cause too much gum abrasion or worsen my recession.
+cause too much gum abrasion or worsen my recession. I am also
+considering applying it only to the back teeth where the staining is
+more common, but I am not sure how feasible that is to implement.
