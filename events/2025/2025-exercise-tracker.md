@@ -433,3 +433,9 @@ as I did them after the dumb bells).
 
 On Monday 2025-03-31, I decided to do at-home jogging due to a mix of
 a tight timeline, desire to multiplex, and windy outside weather.
+
+## 2025-04-01: skipping of exercise to help me adjust my sleep cycle
+
+On Tuesday 2025-04-01, I skipped all exercise to help adjust my sleep
+cycle to earlier in the day. This was anyway a break day from strength
+exercises.
