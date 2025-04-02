@@ -30,7 +30,7 @@ These are my current thoughts:
   all sides between the rectangular hull of my feet and other objects,
   and when at rest or moving very slowly, at least 1
   inch. The "rectangular hull" aspect is important and in particular
-  means that any immpact to my toes will be felt by my biggest and
+  means that any impact to my toes will be felt by my biggest and
   strongest toes first.
 
 * As an illustration of the above, let's say I want to stand in front

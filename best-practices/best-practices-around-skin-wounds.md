@@ -11,6 +11,84 @@ Injury happens generally on impact, so as long as I have a low speed
 when touching things, the injury will be that much smaller. So, it's
 important to move slowly.
 
+### Maintain margins to prevent accidental impact (most relevant for toes but to some extent also for fingers)
+
+Maintaining a decent margin of distance from things I might bump into
+is helpful for reducing the risk of accidental impact. Copy/pasting
+some notes I took in light of the [2025-01-18 right little toe
+stub](../events/202/2025-01-18-right-little-toe-stub.md):
+
+* When moving, I should aim to keep a margin of at least 2 inches on
+  all sides between the rectangular hull of my feet and other objects,
+  and when at rest or moving very slowly, at least 1
+  inch. The "rectangular hull" aspect is important and in particular
+  means that any impact to my toes will be felt by my biggest and
+  strongest toes first.
+
+* As an illustration of the above, let's say I want to stand in front
+  of a sink and want to be close to it. When walking over to the sink,
+  my feet should initially land to a point at least 2 inches in front
+  of the base of the sink. I can then inch forward to reduce the gap
+  to 1 inch, moving my feet slowly. The orientation should be
+  forward-facing so that the biggest toes hit the base first if I
+  miscalculate.
+
+* I should pay close attention when "starting" movement from a
+  1-inch-gap position, as may be the case when seated or when standing
+  in front of a sink. It's best to start movement in a direction away
+  from objects, and it may be wise to look toward the floor when
+  unsure.
+
+* I need to be particularly careful when:
+
+  * barefoot (not wearing socks) as is the case in the morning for
+    mid-sleep urination
+
+  * sleepy as is the case for mid-sleep urination as this both
+    increases the chances of jerky movements and means I am not that
+    aware of my environment
+
+  * cold because this both increases the chances of jerky movements
+    and increases the damage from injury
+
+### Care when opening packaging or tight lids where more force is needed than is normally safe
+
+I've had minor thumb injuries, generally at around the IP joint, from
+tight packaging where a lot of force is needed to open it, and when it
+does open, a mildly sharp edge hits the back of my thumb (left or
+right) at around the IP joint.
+
+Here are a few thoughts around this:
+
+* For packaging, remember that both the amount of force and the
+  sharpness of the edge are independent contributors to the magnitude
+  of impact. So, be more careful when the edges seem sharp (and also
+  for things that I don't open regularly, where it's safer to assume
+  the worst).
+
+* Generally, the right way is to start with a safe amount of force,
+  where the risk of impact is low. However, once I determine that the
+  safe amount of force isn't enough to open, then I need to get into a
+  higher-caution surround mode, where I surround the thing being
+  opened while also pulling it apart. For instance, when opening a
+  tight lid, rather than just opening with my fingers, I surround it
+  with my palm so that if there is a sudden response to the force, I
+  can contain it with my palm regardless of the direction of
+  rebound. When opening a tightly sealed package, keeping a wider
+  surface like my palm in a position surrounding it, so that if it
+  does open, I can contain it with the palm is better than having the
+  thumb IP joint being the front-line soldier.
+
+  If a palm isn't realistic, the desired configuration is multiple
+  fingers placed in a way that they can intercept the thing being
+  opened away from its edge, and ideally on the *front* side rather
+  than the back side (front is stronger).
+
+* Opening packaging gradually from the side, and from the gap between
+  (once I have a wedge into it) is safer than a more overarching
+  ripping motion. Holding down the larger surface being separated also
+  reduces the risk of the whole thing moving toward me.
+
 ### Moisturizing
 
 Moisturizing (with vaseline hydrating lotion) at a decent regularity
