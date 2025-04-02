@@ -486,12 +486,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-26','TJ Carb Savvy Tortillas',1,2,'2025-03-27',1),
   /* 2025-03-27 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, a very small bit of cayenne pepper, and salt) */
-  ('2025-03-27','Eggplant',1,1,NULL,NULL),
-  ('2025-03-27','TJ Kale',1,1,NULL,NULL),
-  ('2025-03-27','TJ Carrots',1,1,NULL,NULL),
-  ('2025-03-27','Green bell pepper',4,1,NULL,NULL),
-  ('2025-03-27','Red bell pepper',2,1,NULL,NULL),
-  ('2025-03-27','Beefsteak tomato',9,1,NULL,NULL),
+  ('2025-03-27','Eggplant',1,1,'2025-04-01',2),
+  ('2025-03-27','TJ Kale',1,1,'2025-04-01',2),
+  ('2025-03-27','TJ Carrots',1,1,'2025-04-01',2),
+  ('2025-03-27','Green bell pepper',4,1,'2025-04-01',2),
+  ('2025-03-27','Red bell pepper',2,1,'2025-04-01',2),
+  ('2025-03-27','Beefsteak tomato',9,1,'2025-04-01',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-27','TJ Sauerkraut',1,1,NULL,NULL),
   ('2025-03-27','TJ Carb Savvy Tortillas',1,2,'2025-03-28',2),
@@ -511,7 +511,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-03-31 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-03-31','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-31','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
+  ('2025-03-31','TJ Carb Savvy Tortillas',1,2,'2025-04-02',1),
   ('2025-03-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
   ('2025-04-01','TJ Roasted Seaweed',1,2,NULL,NULL);
   /* Double-check the date before committing */
