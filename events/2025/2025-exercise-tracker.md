@@ -439,3 +439,12 @@ a tight timeline, desire to multiplex, and windy outside weather.
 On Tuesday 2025-04-01, I skipped all exercise to help adjust my sleep
 cycle to earlier in the day. This was anyway a break day from strength
 exercises.
+
+## 2025-04-02: skipping of jogging and strength exercises to help me adjust my sleep cycle
+
+On Wednesday 2025-04-02, I skipped jogging and strength exercises to
+help me adjust my sleep cycle. However, I did do hand gripper
+exercises, humming with intermittent pauses, and
+standing-on-one-leg-with-eyes-closed and
+standing-on-toes-with-eyes-closed exercises as I was not vey squeezed
+for time.
