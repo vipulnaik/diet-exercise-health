@@ -124,4 +124,13 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, co
   ('2025-02-23',1,'bone','right',500,6,'very faint at 6, faint but clear at 7'),
   ('2025-02-23',1,'bone','right',1000,8,'faint but clear at 8, could not hear at all at 7'),
   ('2025-02-23',1,'bone','right',2000,7,'faint but clear at 7, very clear at 8; sort of heard at 6 but not consistently and not for the full duration'),
-  ('2025-02-23',1,'bone','right',4000,6,'faint but audible at 6, faint but clear at 7');
+  ('2025-02-23',1,'bone','right',4000,6,'faint but audible at 6, faint but clear at 7'),
+  /* 2025-04-02 3:39 PM test -- air only after switching to new headphones (same make as before, but brand-new headphones are roughly twice as loud) */
+  ('2025-04-02',1,'air','left',500,2,'faint and barely audible at 2, faint and clear at 3'),
+  ('2025-04-02',1,'air','left',1000,6,'faint and barely audible at 6, faint and clear at 7'),
+  ('2025-04-02',1,'air','left',2000,2,'faint and barely audible at 2, faint and clear at 3'),
+  ('2025-04-02',1,'air','left',4000,1,'faint and clear at 1'),
+  ('2025-04-02',1,'air','right',500,4,'faint and barely audible at 4, faint and clear at 5'),
+  ('2025-04-02',1,'air','right',1000,6,'faint and clear at 6'),
+  ('2025-04-02',1,'air','right',2000,3,'faint and audible at 3, I might have heard at 2 but not so sure as I could not reproducibly hear at 2'),
+  ('2025-04-02',1,'air','right',4000,1,'faint and clear at 1');

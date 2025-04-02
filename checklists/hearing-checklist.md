@@ -15,10 +15,16 @@
   - [ ] Make sure that within-YouTube volume is set to max
   - [ ] Left ear with normal headphones (if the headphones are oriented wrong, re-wear the headphones)
   - [ ] Right ear with normal headphones
+  - [ ] Reduce within-YouTube volume to 50%
+  - [ ] Left ear with normal headphones (if the headphones are oriented wrong, re-wear the headphones)
+  - [ ] Right ear with normal headphones
+  - [ ] Left ear with bone conduction headphones
+  - [ ] Right ear with bone conduction headphones
+  - [ ] Reduce within-YouTube volume to 50%
   - [ ] Left ear with bone conduction headphones
   - [ ] Right ear with bone conduction headphones
 - Check for balance when I play https://www.youtube.com/watch?v=eVVaqFDG6Fo
   - [ ] Normal headphones, when set to balanced, feel centered rather than skewed to one side
-  - [ ] Bone conduction headphones, when set to balanced, feel centered rather than skewed to one side
   - [ ] For normal headphones, switching back and forth between all left to all right does not change perceived loudness
+  - [ ] Bone conduction headphones, when set to balanced, feel centered rather than skewed to one side
   - [ ] For bone conduction headphones, switching back and forth between all left to all right does not change perceived loudness
