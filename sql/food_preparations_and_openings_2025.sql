@@ -526,5 +526,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-04-03 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-04-03','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-04-03','TJ Carb Savvy Tortillas',1,2,NULL,NULL);
+  ('2025-04-03','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
+  /* 2025-04-04 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, a very small bit of cayenne pepper, and salt) */
+  ('2025-04-04','Eggplant',1,1,NULL,NULL),
+  ('2025-04-04','TJ Kale',1,1,NULL,NULL),
+  ('2025-04-04','TJ Carrots',1,1,NULL,NULL),
+  ('2025-04-04','Green bell pepper',4,1,NULL,NULL),
+  ('2025-04-04','Red bell pepper',2,1,NULL,NULL),
+  ('2025-04-04','Beefsteak tomato',9,1,NULL,NULL);
   /* Double-check the date before committing */

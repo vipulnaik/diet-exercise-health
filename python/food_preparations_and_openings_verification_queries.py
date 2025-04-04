@@ -38,7 +38,7 @@ queries = [
     # I generally have sauerkraut and kimchi only with the first meal, so both the meal index and the completion meal index should be 1
     "select * from food_preparations_and_openings where food_type in ('TJ Sauerkraut','TJ Kimchi') and meal_index != 1;",
 
-    "select * from food_preparations_and_openings where food_type in ('TJ Sauerkraut','TJ Kimchi') and completion_meal_index != 1;",
+    "select * from food_preparations_and_openings where food_type in ('TJ Sauerkraut','TJ Kimchi') and completion_meal_index != 1 and not (preparation_or_opening_date = '2024-12-22');",
 
     # I generally have seaweed only with the second meal, so both the meal index and the completion meal index should be 2 -- the exceptions should be during periods of sauerkraut pause, or very early on before I developed the habit
     """
