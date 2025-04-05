@@ -448,3 +448,12 @@ exercises, humming with intermittent pauses, and
 standing-on-one-leg-with-eyes-closed and
 standing-on-toes-with-eyes-closed exercises as I was not vey squeezed
 for time.
+
+## 2025-04-05: skipping all exercise due to delays resulting from unexpected tax work
+
+On Saturday 2025-04-05, I decided to skip all exercise due to delays
+resulting from unexpected tax work as I realized a mistake, and
+decided to fix it as soon as possible while it was still fresh in my
+head. It was also quite hot by the time I was done, so in addition to
+the time delay there was also the potential issue of it not being
+ideal temperature-wise to exercise.
