@@ -4,7 +4,8 @@ create table supplements(
   `num_pieces` int(11),
   `start_date` date,
   `end_date` date,
-  `notes` varchar(2000)
+  `notes` varchar(2000),
+  check(start_date <= end_date)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into supplements(supplement_shorthand, supplement_url, num_pieces, start_date, end_date, notes) values
@@ -45,7 +46,7 @@ insert into supplements(supplement_shorthand, supplement_url, num_pieces, start_
   /* New bottle started 2024-11-19 */
   /* sapling */
   ('sapling Vegan Omega-3','https://www.amazon.com/dp/B09ZQ3FWBZ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2&th=1',180,'2024-10-10','2025-03-30','I started the sapling omega-3 to complement the Freshfield omega-3 by adding in a suppplement that has EPA (the Freshfield supplement is DHA + DPA). I consumed at a rate of about 1 softgel per day, though with some fluctuation. I also lost a few softgels due to a violent shaking to get them unstuck (they tend to stick with each other). Overall, I finished the 180 softgels over 172 days.'),
-  /* New bottle expected to be started 2025-04-01 */
+  /* New bottle started 2025-04-01 */
   /* Vitamin D3: Finest Nutrition 2000 IU Vitamin D3 */
   ('Finest Nutrition 2000 IU Vitamin D3','https://www.walgreens.com/store/c/finest-nutrition-d3-vitamin-2000-iu-dietary-supplement-softgels/ID=prod6112628-product',220,'2020-03-01','2020-05-31','This was not the first time for me taking this supplement; it''s just the first actively recorded start date. I don''t remember the exact start date, so the entered date of 2020-03-01 is an approximate estimate. I target taking 1 gel a day, but err on the side of taking more so I expect average consumption to be 7 to 10 per week. Looking at the total consumption (220 over 92 days) it looks like the mean consumption was way higher than my expected average consumption.'),
   ('Finest Nutrition 2000 IU Vitamin D3','https://www.walgreens.com/store/c/finest-nutrition-d3-vitamin-2000-iu-dietary-supplement-softgels/ID=prod6112628-product',220,'2020-06-01','2020-08-24','I target taking 1 gel a day, but err on the side of taking more so I expect average consumption to be 7 to 10 per week. Looking at the total consumption (220 over 85 days) it looks like the mean consumption was way higher than my expected average consumption.'),
@@ -78,9 +79,9 @@ insert into supplements(supplement_shorthand, supplement_url, num_pieces, start_
   ('Doctor''s Best Vegan D3 2500 IU','https://www.amazon.com/gp/product/B00E816ROU/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1',60,'2024-07-04','2024-08-26','I target taking 1 gel a day, but err on the side of taking more so I expect average consumption to be 7 to 10 per week. Looking at the total consumption (60 over 54 days) it looks like the mean consumption was within the expected range.'),
   ('Doctor''s Best Vegan D3 2500 IU','https://www.amazon.com/gp/product/B00E816ROU/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1',60,'2024-08-28','2024-10-25','I target taking 1 gel a day, but err on the side of taking more so I expect average consumption to be 7 to 10 per week. Looking at the mean consumption (60 over 59 days) it looks like the mean consumption was within the expected range. Intentional skipping of supplement doses ahead of my 2024-09-03 blood test is one reason for the deviation from exactly one dose per day.'),
   ('Doctor''s Best Vegan D3 2500 IU','https://www.amazon.com/gp/product/B00E816ROU/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1',60,'2024-10-27','2024-12-20','I target taking 1 gel a day, but err on the side of taking more so I expect average consumption to be 7 to 10 per week. Looking at the mean consumption (60 over 55 days) it looks like I stayed within my goals. This includes a period of two days that I skipped supplementation in preparation for https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-12-13-blood-tests.md (2024-12-13 blood tests).'),
-  /* Next bottle started 2024-12-22 in the evening */
   ('Doctor''s Best Vegan D3 2500 IU','https://www.amazon.com/gp/product/B00E816ROU/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1',60,'2024-12-22','2025-02-13','I target taking 1 gel a day, but err on the side of taking more so I expect average consumption to be 7 to 10 per week. Looking at the mean consumption (60 over 54 days) it looks like I stayed within my goals. This includes a period of two days that I skipped supplementation in preparation for https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-01-22-blood-tests.md (2025-01-22 blood tests).'),
-  /* Next bottle started 2025-02-15 after a gap of a day */
+  ('Doctor''s Best Vegan D3 2500 IU','https://www.amazon.com/gp/product/B00E816ROU/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1',60,'2025-02-15','2025-04-01','I target taking 1 gel a day, but err on the side of taking more so I expect average consumption to be 7 to 10 per week. Looking at the mean consumption (60 over 46 days) it looks like I had a bit more than my target; however, I might also have dropped a couple so overall it was close to target.'),
+  /* Next bottle started 2025-04-04 after a gap of two days */
   /* Vitamin B12 */
   ('Finest Nutrition 500 mcg Vitamin B12','https://www.walgreens.com/store/c/finest-nutrition-b-12-vitamin-500-mcg-dietary-supplement-tablets/ID=prod6109062-product',300,'2020-06-26','2021-08-14','This was not the first time for me taking this supplement; it''s just the first actively recorded start date.'),
   ('Finest Nutrition 500 mcg Vitamin B12','https://www.walgreens.com/store/c/finest-nutrition-b-12-vitamin-500-mcg-dietary-supplement-tablets/ID=prod6109062-product',300,'2021-08-16','2022-08-25','While I should be taking one per day, I was lazy about this one especially in the first nine months or so, before I switched to the practice of putting everything out on my plate prior to eating. I ended up averaging about 0.8 per day, which is probably still more than enough to keep my B12 levels high.'),
