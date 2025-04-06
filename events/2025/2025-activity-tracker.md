@@ -126,3 +126,9 @@ Joe's for food purchases recorded
 ## 2025-04-04
 
 In the evening, I made a trip to Walgreens for toiletries purchases.
+
+## 2025-04-06
+
+On Sunday 2025-04-06, in the afternoon, I made a trip for some
+administrative stuff including pickup of packages from Amazon Hub
+Locker.
