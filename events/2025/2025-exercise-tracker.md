@@ -457,3 +457,10 @@ decided to fix it as soon as possible while it was still fresh in my
 head. It was also quite hot by the time I was done, so in addition to
 the time delay there was also the potential issue of it not being
 ideal temperature-wise to exercise.
+
+## 2025-04-06: skipping all exercise due to tax work and planned trip in the afternoon
+
+On Sunday 2025-04-06, I decided to skip all exercise due to a mix of
+doing tax work in the morning and a planned trip in the afternoon for
+which timing considerations meant I didn't have a lot of time to
+exercise.
