@@ -515,16 +515,16 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-02',2),
   ('2025-04-01','TJ Roasted Seaweed',1,2,NULL,NULL),
   /* 2025-04-02 potatoes prep (second meal) (added olive oil, turmeric, cumin, salt, and a litte bit of cayenne pepper); I didn't include kale in the prep because I didn't have it in stock, as I didn't have a chance to do a groery store run before the prep */
-  ('2025-04-02','Gold potatoes 5 lb',0.5,2,NULL,NULL),
-  ('2025-04-02','TJ English Shelled Peas',2,2,NULL,NULL),
-  ('2025-04-02','Beefsteak tomato',4,2,NULL,NULL),
+  ('2025-04-02','Gold potatoes 5 lb',0.5,2,'2025-04-07',1),
+  ('2025-04-02','TJ English Shelled Peas',2,2,'2025-04-07',1),
+  ('2025-04-02','Beefsteak tomato',4,2,'2025-04-07',1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-02','TJ Miso Ginger Broth',1,2,NULL,NULL),
   ('2025-04-02','TJ Almond Milk',1,2,NULL,NULL),
-  ('2025-04-02','TJ Walnuts',1,2,NULL,NULL),
+  ('2025-04-02','TJ Walnuts',1,2,'2025-04-07',1),
   ('2025-04-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-04',2),
   /* 2025-04-03 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-04-03','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
+  ('2025-04-03','Lundberg Sustainable California White Basmati Rice',0.9,1,'2025-04-07',1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-03','TJ Carb Savvy Tortillas',1,2,'2025-04-04',2),
   /* 2025-04-04 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, a very small bit of cayenne pepper, and salt) */
@@ -537,5 +537,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-04','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-06',2),
   ('2025-04-04','TJ Carb Savvy Tortillas',1,2,'2025-04-05',2),
-  ('2025-04-06','TJ Carb Savvy Tortillas',1,1,NULL,NULL);
+  ('2025-04-06','TJ Carb Savvy Tortillas',1,1,'2025-04-07',1),
+  ('2025-04-07','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL),
+  ('2025-04-07','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
+  ('2025-04-07','TJ Walnuts',1,1,NULL,NULL);
   /* Double-check the date before committing */
