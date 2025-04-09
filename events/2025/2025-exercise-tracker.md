@@ -464,3 +464,13 @@ On Sunday 2025-04-06, I decided to skip all exercise due to a mix of
 doing tax work in the morning and a planned trip in the afternoon for
 which timing considerations meant I didn't have a lot of time to
 exercise.
+
+## 2025-04-09: skipping jogging due to heat and to avoid delaying my day too much
+
+On Wednesday 2025-04-09, as it was already quite warm, and it was
+already around 12:30 PM by the time I was ready to go jogging, I
+decided to skip jogging. However, I did finish all the other morning
+exercises (hand gripper, breath holds,
+standing-on-one-leg-with-eyes-closed, and
+standing-on-toes-with-eyes-closed). Strength exercises were anyway to
+be skipped on this day.
