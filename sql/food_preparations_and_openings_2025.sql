@@ -538,7 +538,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-04','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-06',2),
   ('2025-04-04','TJ Carb Savvy Tortillas',1,2,'2025-04-05',2),
   ('2025-04-06','TJ Carb Savvy Tortillas',1,1,'2025-04-07',1),
-  ('2025-04-07','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL),
+  ('2025-04-07','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-04-08',2),
   ('2025-04-07','TJ Carb Savvy Tortillas',1,1,'2025-04-07',2),
   ('2025-04-07','TJ Walnuts',1,1,NULL,NULL),
   /* 2025-04-07 potatoes prep (second meal) (added olive oil, turmeric, cumin, salt, I did *not* include cayenne pepper to reduce risk to mouth ahead of scheduled dental cleaning */
@@ -547,7 +547,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-07','TJ English Shelled Peas',2,2,NULL,NULL),
   ('2025-04-07','Beefsteak tomato',6,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-04-07','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
+  ('2025-04-07','TJ Carb Savvy Tortillas',1,2,'2025-04-08',2),
   /* 2025-04-08 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-04-08','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
