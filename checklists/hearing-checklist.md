@@ -30,8 +30,18 @@
   - [ ] For bone conduction headphones, switching back and forth between all left to all right does not change perceived loudness
 - Do a max frequency hearing test using https://www.youtube.com/watch?v=zUmbmssqHOY
   - [ ] Normal headphones, start the video, setting volume to half the max
-  - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar
-  - [ ] Increase volume as sound gets fainter, and hit space bar when sound gets inaudible even at max volume; note the frequency at which this happens (ideally it should be right at the end, namely 20kHz): ???
+  - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+  - [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+    - Pause video if it is still playing
+    - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+    - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+    - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+    - Final frequency estimate: ???
   - [ ] Bone conduction headphones, start the video, setting volume to half the max
-  - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar
-  - [ ] Increase volume as sound gets fainter, and hit space bar when sound gets inaudible even at max volume; note the frequency at which this happens (ideally it should be right at the end, namely 20kHz): ???
+  - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+  - [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+    - Pause video if it is still playing
+    - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+    - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+    - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+    - Final frequency estimate: ???
