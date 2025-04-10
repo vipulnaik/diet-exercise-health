@@ -11,7 +11,7 @@
   - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
   - [ ] Switch balance back to the middle
   - [ ] Do the Resound online test and record results as you go along
-- Run through and record results for test where I try to play https://www.youtube.com/watch?v=eVVaqFDG6Fo (using normal headphones for air conduction an bone conduction headphones for bone conduction) all in one ear and find the lowest possible volume for each ear where I can make out the words -- if it's higher than 1/64, schedule followup test in about a week
+- Run through and record results for test where I try to play https://www.youtube.com/watch?v=eVVaqFDG6Fo (using normal headphones for air conduction an bone conduction headphones for bone conduction) all in one ear and find the lowest possible volume for each ear where I can make out the words -- if it's higher than 1/64 for air conduction or 1/16 for Yomdud bone conduction (was 1/64 when using Gueynay bone conduction), schedule followup test in about a week
   - [ ] Make sure that within-YouTube volume is set to max
   - [ ] Left ear with normal headphones (if the headphones are oriented wrong, re-wear the headphones)
   - [ ] Right ear with normal headphones

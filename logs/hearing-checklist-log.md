@@ -24,9 +24,12 @@ This is the execution log for the [hearing checklist](../checklists/hearing-chec
   - [x] For normal headphones, switching back and forth between all left to all right does not change perceived loudness
   - [x] For bone conduction headphones, switching back and forth between all left to all right does not change perceived loudness
 
-## 2025-04-02 and later
+## 2025-04-02 and 2025-04-10
 
-The air conduction portions of the test were done on 2025-04-02 along with a switch to new headphones.
+The air conduction portions of the test (excluding max frequency
+hearing test) were done on 2025-04-02 along with a switch to new
+headphones. The bone conduction headphones portion and the entirety of
+the max frequency test were done on 2025-04-10.
 
 - Run through and record results for online hearing test at https://www.resound.com/en-us/online-hearing-test (using normal headphones for air conduction and bone conduction headphones for bone conduction) in SQL; compare with the previous results to see if there is any concerning loss of hearing, and if so, schedule a followup test for a week later
   - [x] Put on normal headphones
@@ -35,26 +38,45 @@ The air conduction portions of the test were done on 2025-04-02 along with a swi
   - [x] Switch balance back to the middle
   - [x] Do the Resound online test and record results as you go along
   - (The bone conduction headphones steps are deferred)
-  - [ ] Put on bone conduction headphones
-  - [ ] Make sure that the volume of the computer is set to max
-  - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
-  - [ ] Switch balance back to the middle
-  - [ ] Do the Resound online test and record results as you go along
-- Run through and record results for test where I try to play https://www.youtube.com/watch?v=eVVaqFDG6Fo (using normal headphones for air conduction an bone conduction headphones for bone conduction) all in one ear and find the lowest possible volume for each ear where I can make out the words -- if it's higher than 1/64, schedule followup test in about a week
+  - [x] Put on bone conduction headphones
+  - [x] Make sure that the volume of the computer is set to max
+  - [x] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+  - [x] Switch balance back to the middle
+  - [x] Do the Resound online test and record results as you go along
+- Run through and record results for test where I try to play https://www.youtube.com/watch?v=eVVaqFDG6Fo (using normal headphones for air conduction an bone conduction headphones for bone conduction) all in one ear and find the lowest possible volume for each ear where I can make out the words -- if it's higher than 1/64 for air conduction or 1/16 for Yomdud bone conduction (was 1/64 when using Gueynay bone conduction), schedule followup test in about a week
   - [x] Make sure that within-YouTube volume is set to max
   - [x] Left ear with normal headphones (if the headphones are oriented wrong, re-wear the headphones)
   - [x] Right ear with normal headphones
   - [x] Reduce within-YouTube volume to 50%
   - [x] Left ear with normal headphones (if the headphones are oriented wrong, re-wear the headphones)
   - [x] Right ear with normal headphones
-  - [ ] Set YouTube volume to max again
-  - [ ] Left ear with bone conduction headphones
-  - [ ] Right ear with bone conduction headphones
-  - [ ] Reduce within-YouTube volume to 50%
-  - [ ] Left ear with bone conduction headphones
-  - [ ] Right ear with bone conduction headphones
+  - [x] Set YouTube volume to max again
+  - [x] Left ear with bone conduction headphones
+  - [x] Right ear with bone conduction headphones
+  - [x] Reduce within-YouTube volume to 50%
+  - [x] Left ear with bone conduction headphones
+    - Words are cutting out a bit to me, but I can generally follow the gist of things
+  - [x] Right ear with bone conduction headphones
+    - Words are cutting out a bit to me, but I can generally follow the gist of things
 - Check for balance when I play https://www.youtube.com/watch?v=eVVaqFDG6Fo
   - [x] Normal headphones, when set to balanced, feel centered rather than skewed to one side
   - [x] For normal headphones, switching back and forth between all left to all right does not change perceived loudness
-  - [ ] Bone conduction headphones, when set to balanced, feel centered rather than skewed to one side
-  - [ ] For bone conduction headphones, switching back and forth between all left to all right does not change perceived loudness
+  - [x] Bone conduction headphones, when set to balanced, feel centered rather than skewed to one side
+  - [x] For bone conduction headphones, switching back and forth between all left to all right does not change perceived loudness
+- Do a max frequency hearing test using https://www.youtube.com/watch?v=zUmbmssqHOY
+  - [x] Normal headphones, start the video, setting volume to half the max
+  - [x] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+  - [x] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+    - Pause video if it is still playing
+    - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+    - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+    - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+    - Final frequency estimate: 20 kHz
+  - [x] Bone conduction headphones, start the video, setting volume to half the max
+  - [x] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+  - [x] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+    - Pause video if it is still playing
+    - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+    - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+    - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+    - Final frequency estimate: 15700 Hz (after a lot of back-and-forth; however, I am unsure if this is due to volume limitations or headphone frequency profile limitations)
