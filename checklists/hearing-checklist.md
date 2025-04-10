@@ -31,7 +31,7 @@
 - Do a max frequency hearing test using https://www.youtube.com/watch?v=zUmbmssqHOY
   - [ ] Normal headphones, start the video, setting volume to half the max
   - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar
-  - [ ] Increase volume as sound gets fainter, and hit space bar when sound gets inaudible even at max volume
+  - [ ] Increase volume as sound gets fainter, and hit space bar when sound gets inaudible even at max volume; note the frequency at which this happens (ideally it should be right at the end, namely 20kHz): ???
   - [ ] Bone conduction headphones, start the video, setting volume to half the max
   - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar
-  - [ ] Increase volume as sound gets fainter, and hit space bar when sound gets inaudible even at max volume
+  - [ ] Increase volume as sound gets fainter, and hit space bar when sound gets inaudible even at max volume; note the frequency at which this happens (ideally it should be right at the end, namely 20kHz): ???
