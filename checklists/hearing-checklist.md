@@ -28,3 +28,10 @@
   - [ ] For normal headphones, switching back and forth between all left to all right does not change perceived loudness
   - [ ] Bone conduction headphones, when set to balanced, feel centered rather than skewed to one side
   - [ ] For bone conduction headphones, switching back and forth between all left to all right does not change perceived loudness
+- Do a max frequency hearing test using https://www.youtube.com/watch?v=zUmbmssqHOY
+  - [ ] Normal headphones, start the video, setting volume to half the max
+  - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar
+  - [ ] Increase volume as sound gets fainter, and hit space bar when sound gets inaudible even at max volume
+  - [ ] Bone conduction headphones, start the video, setting volume to half the max
+  - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar
+  - [ ] Increase volume as sound gets fainter, and hit space bar when sound gets inaudible even at max volume
