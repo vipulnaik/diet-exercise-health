@@ -183,7 +183,7 @@ balance.
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
 
-As of March 2025, my aim is to be able to manage at least 66 seconds
+As of April 2025, my aim is to be able to manage at least 75 seconds
 on each leg, with adjustments for colder indoor temperatures. In
 practice, I generally do somewhere between 60 and 100 seconds on each
 leg.
@@ -213,7 +213,7 @@ once a month.
 
 Goal of exercise: maintain
 
-As of March 2025, my aim is to be able to manage at least 35 seconds
+As of April 2025, my aim is to be able to manage at least 50 seconds
 without having to lift and reposition either foot.
 
 See [here](standing-on-toes-with-eyes-closed-with-history.md) for more

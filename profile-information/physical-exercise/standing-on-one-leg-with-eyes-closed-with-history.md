@@ -8,7 +8,7 @@ practice and some variants of it.
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 66 seconds (with adjustment for temperature)
+### Maintain standing-on-one-leg-with-eyes-closed for at least 75 seconds (with adjustment for temperature)
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -21,21 +21,21 @@ According to
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
 (average of 18.3 seconds. As somebody in my late 30s (as of 2024), my
-threshold is at least 66 seconds per leg with temperature adjustment,
+threshold is at least 75 seconds per leg with temperature adjustment,
 and in practice I do between 60 and 100 seconds on the first try most
 of the time.
 
 At this point, it's not clear that increasing the duration has
 real-world effects either in practice or in theory, and time spent
 standing with eyes closed can't be multiplexed with other things, so
-my plan is to sustain the minimum of 66 seconds for
+my plan is to sustain the minimum of 75 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
 up. Time considerations make it dificult to push the threshold too far
-up, even if I am eventually able to do clearly over 66 seconds.
+up, even if I am eventually able to do clearly over 75 seconds.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 66 seconds over a
-period of about 1.5 years, I think just being able to maintain at 66
+that I've increased the threshold from 10 seconds to 75 seconds over a
+period of about 1.5 years, I think just being able to maintain at 75
 seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
@@ -64,17 +64,17 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 66 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 75 seconds with adjustments for colder temperatures)
 
 Starting 2025-03-03, the threshold duration is as follows:
 
-* Baseline of 66 seconds
+* Baseline of 75 seconds
 
 * If the temperature is 20 degrees Celsius or higher, no
   adjustment. If the temperature is greater than 0 degrees Celsius and
-  less than 20 degrees Celsius, then 6 + three times the temperature
+  less than 20 degrees Celsius, then 15 + three times the temperature
   in degrees Celsius (in seconds). For instance, if the temperature is
-  10 degrees Celsius, the threshold is 36 seconds.
+  10 degrees Celsius, the threshold is 45 seconds.
 
 ### How the threshold duration is used
 
@@ -340,6 +340,17 @@ doing strength exercises.
     and less than 20 degrees Celsius, then 6 + three times the temperature
     in degrees Celsius (in seconds). For instance, if the temperature
     is 10 degrees Celsius, the threshold is 36 seconds.
+
+* Starting 2025-04-12, I am increasing the baseline threshold to 75
+  seconds. The new logic is:
+
+  * Baseline of 75 seconds
+
+  * If the temperature is 20 degrees Celsius or higher, no
+    adjustment. If the temperature is greater than 0 degrees Celsius
+    and less than 20 degrees Celsius, then 15 + three times the temperature
+    in degrees Celsius (in seconds). For instance, if the temperature
+    is 10 degrees Celsius, the threshold is 45 seconds.
 
 ### History of triggers for overall exercise
 
