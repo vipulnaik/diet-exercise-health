@@ -474,3 +474,14 @@ exercises (hand gripper, breath holds,
 standing-on-one-leg-with-eyes-closed, and
 standing-on-toes-with-eyes-closed). Strength exercises were anyway to
 be skipped on this day.
+
+## 2025-04-10 and 2025-04-11: at-home jogging due to scheduling constraints and time constraints
+
+On Thursday 2025-04-10, I did at-home jogging to be able to multiplex
+it with a listen-only work meeting.
+
+On Friday 2025-04-11, I did at-home jogging so that I could start the
+heating portion of rice prep. It had already been about 40 minutes
+since I had finished the soaking, so it was time for the cooking
+portion. The delay was due to a few time-sensitive tasks on the day
+job that came up after I was done soaking but before I went jogging.
