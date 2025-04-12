@@ -549,7 +549,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-07','TJ Carb Savvy Tortillas',1,2,'2025-04-08',2),
   /* 2025-04-08 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-04-08','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
+  ('2025-04-08','Lundberg Sustainable California White Basmati Rice',0.9,1,'2025-04-11',1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-08','TJ Almond Milk',1,1,NULL,NULL),
   ('2025-04-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-04-10',2),
