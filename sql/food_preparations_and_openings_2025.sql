@@ -512,7 +512,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-31','Lundberg Sustainable California White Basmati Rice',0.9,1,'2025-04-03',1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-03-31','TJ Carb Savvy Tortillas',1,2,'2025-04-02',1),
-  ('2025-03-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-02',2),
+  ('2025-03-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-02',2), /* first vanilla-flavored one */
   ('2025-04-01','TJ Roasted Seaweed',1,2,'2025-04-09',2),
   /* 2025-04-02 potatoes prep (second meal) (added olive oil, turmeric, cumin, salt, and a litte bit of cayenne pepper); I didn't include kale in the prep because I didn't have it in stock, as I didn't have a chance to do a groery store run before the prep */
   ('2025-04-02','Gold potatoes 5 lb',0.5,2,'2025-04-07',1),
@@ -567,5 +567,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-04-11 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-04-11','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-04-12','TJ Carb Savvy Tortillas',1,1,NULL,NULL);
+  ('2025-04-12','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
+  /* 2025-04-12 potatoes prep (second meal) (added olive oil, turmeric, cumin, salt, I did *not* include cayenne pepper to reduce risk to mouth ahead of scheduled dental cleaning */
+  ('2025-04-12','Gold potatoes 5 lb',0.5,2,NULL,NULL),
+  ('2025-04-12','TJ Kale',1,2,NULL,NULL),
+  ('2025-04-12','TJ English Shelled Peas',2,2,NULL,NULL),
+  ('2025-04-12','Beefsteak tomato',5,2,NULL,NULL),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-04-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL); /* return to plain flavor after a brief detour to vanilla flavor */
   /* Double-check the date before committing */
