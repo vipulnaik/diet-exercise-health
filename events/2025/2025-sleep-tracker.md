@@ -490,3 +490,33 @@ the evening, a little before my second meal.
 
 Some existential / long-run stresses were likely also contributing to
 my mood, although there was no acute or short-run issue.
+
+## 2025-04-12 to 2025-04-14: pattern of waking up past the 9:45 AM alarm despite getting well over 8 hours of sleep
+
+Despite having had at least around 8 hours of sleep each day for the
+past few days, and ssleeping early enough to get well over 8 hours of
+sleep by 9:45 AM, I had a patterm of waking up only after the 9:45 AM
+alarm for three days, despite going to sleep progressively earlier
+each day:
+
+* 2025-04-11 to 2025-04-12: slept at 1:22 AM, woke up at 9:50 AM
+  (sleep duration of 8 hours 28 minutes minus 9 minutes in between for
+  mid-sleep urination)
+
+* 2025-04-12 to 2025-04-13: slept at 12:52 AM, woke up at 10:03 AM
+  (sleep duration of 9 hours 11 minutes minus 10 minutes in between
+  for mid-sleep urination)
+
+* 2025-04-13 to 2025-04-14: slept at 11:55 PM, woke up at 10:02 AM
+  (sleep duration of 10 hours 7 minutes minus 10 minutes in between
+  for mid-sleep urination)
+
+As far as I can make out, this is not due to having trouble falling
+asleep either at the beginning or after mid-sleep urination, with my
+pattern of falling asleep being quite similar to normal. Moreover, the
+temperature felt ideal -- not too warm and not too cold. So I don't
+think the increased sleep need is temperature-driven.
+
+It is not clear to me whether the increased sleep need reflects some
+health issue or internal healing that needs extra sleep, or whether
+there is some subtle sleep backlog.
