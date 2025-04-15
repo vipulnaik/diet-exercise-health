@@ -23,3 +23,7 @@ Sections of this document:
 * 2025-04-11 (Friday, 5 days before the appointment): I paused walnuts
   starting thie day (so my last walnuts consumption was with the
   second meal on Thursday 2025-04-10).
+
+### Dental self-exam
+
+On Monday 2025-04-14, I executed the dental self-exam checklist. Nothing was flagged as unusual.
