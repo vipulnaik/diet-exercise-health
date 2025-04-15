@@ -399,7 +399,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-10','Red bell pepper',2,1,'2025-03-14',1),
   ('2025-03-10','Beefsteak tomato',9,1,'2025-03-14',1),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-10','TJ Turmeric',1,1,NULL,NULL), /* opened with eggplant meal prep and also finished the old one in the same meal prep */
+  ('2025-03-10','TJ Turmeric',1,1,'2025-04-14',2), /* opened with eggplant meal prep and also finished the old one in the same meal prep */
   ('2025-03-10','TJ Cumin',1,1,NULL,NULL), /* opened with eggplant meal prep and also finished the old one in the same meal prep */
   ('2025-03-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-03-11',2),
   ('2025-03-10','TJ Carb Savvy Tortillas',1,2,'2025-03-11',2),
@@ -577,5 +577,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-14',1), /* return to plain flavor after a brief detour to vanilla flavor */
   ('2025-04-13','TJ Carb Savvy Tortillas',1,1,'2025-04-14',1),
   ('2025-04-14','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
-  ('2025-04-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL);
+  ('2025-04-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL),
+  /* 2025-04-14 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-04-14','Lundberg Sustainable California White Basmati Rice',0.7,2,NULL,NULL),
+  ('2025-04-14','Lundberg Sustainable California White Jasmine Rice',0.2,2,NULL,NULL),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-04-14','TJ Turmeric',1,2,NULL,NULL); /* opened with rice prep; used previous turmeric partially as well */
   /* Double-check the date before committing */
