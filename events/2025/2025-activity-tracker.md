@@ -132,3 +132,10 @@ In the evening, I made a trip to Walgreens for toiletries purchases.
 On Sunday 2025-04-06, in the afternoon, I made a trip for some
 administrative stuff including pickup of packages from Amazon Hub
 Locker.
+
+## 2025-04-15
+
+On Tuesday 2025-04-15, in the afternoon, I made a trip to downtown
+Berkeley. I first dropped off a couple of old suitcases at
+Goodwill. After that, I went to Trader Joe's for food purchases
+recorded [here](../../sql/food_purchases_2025.sql).
