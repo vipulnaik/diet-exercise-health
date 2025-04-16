@@ -413,7 +413,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-03-13','TJ English Shelled Peas',2,1,'2025-03-17',2),
   ('2025-03-13','Beefsteak tomato',6,1,'2025-03-17',2),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-03-13','Trader Giotto''s Olive Oil',1,1,NULL,NULL), /* opened with potatoes prep; I also used up and finished the previous olive oil bottle in the same prep */
+  ('2025-03-13','Trader Giotto''s Olive Oil',1,1,'2025-04-12',2), /* opened with potatoes prep; I also used up and finished the previous olive oil bottle in the same prep */
   ('2025-03-13','TJ Carb Savvy Tortillas',1,1,'2025-03-13',2),
   ('2025-03-13','Whole Foods Walnuts',1,1,'2025-03-20',2), /* slower consumption than usual due to multiple pauses in between + reduced consumption for some meals even when not paused */
   ('2025-03-13','TJ Roasted Seaweed',1,2,'2025-03-23',2),
@@ -574,6 +574,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-12','TJ English Shelled Peas',2,2,NULL,NULL),
   ('2025-04-12','Beefsteak tomato',5,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
+  ('2025-04-12','Trader Giotto''s Olive Oil',1,2,NULL,NULL), /* opened with potatoes prep; this is being filled retroactively so it might be off by one meal prep (if so, the right date would be 2025-04-10) */
   ('2025-04-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-14',1), /* return to plain flavor after a brief detour to vanilla flavor */
   ('2025-04-13','TJ Carb Savvy Tortillas',1,1,'2025-04-14',1),
   ('2025-04-14','TJ Carb Savvy Tortillas',1,1,'2025-04-15',1),
