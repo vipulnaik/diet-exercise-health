@@ -139,3 +139,11 @@ On Tuesday 2025-04-15, in the afternoon, I made a trip to downtown
 Berkeley. I first dropped off a couple of old suitcases at
 Goodwill. After that, I went to Trader Joe's for food purchases
 recorded [here](../../sql/food_purchases_2025.sql).
+
+## 2025-04-16
+
+On Wednesday 2025-04-16, I went to Total Health Dental Care for a
+regular dental cleaning. The visit is recorded
+here](2025-04-16-dental-cleaning.md). After that, I went to the Amazon
+Hub Locker at ASUC Berkeley for a package pickup and then stopped by
+at Walgreens to purchase a few items.
