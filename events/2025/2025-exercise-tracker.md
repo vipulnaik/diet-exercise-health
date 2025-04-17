@@ -485,3 +485,16 @@ heating portion of rice prep. It had already been about 40 minutes
 since I had finished the soaking, so it was time for the cooking
 portion. The delay was due to a few time-sensitive tasks on the day
 job that came up after I was done soaking but before I went jogging.
+
+## 2025-04-16: skipped all exercises for dental cleaning
+
+On Wednesday 2025-04-16, I skipped all exercises for my [dental
+cleaning appointment](2025-04-16-dental-cleaning.md).
+
+## 2025-04-17: skipped strength exercises due to slight fatigue and soreness after dental cleaning (and to save time)
+
+On Thursday 2025-04-17, I still had a bit of residual soreness after
+the dental cleaning yesterday (a bit of head/neck/shoulder soreness
+after dental cleaning is expected). It was a lot better than the
+previous day, but out of caution I decided to skip strength
+exercises. I still did the usual hand gripper exercises and jogging.

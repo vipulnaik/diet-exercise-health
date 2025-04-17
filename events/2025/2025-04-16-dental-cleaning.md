@@ -158,10 +158,16 @@ of head/neck/shoulder soreness than usual, and therefore also
 increased light sensitivity, which is an expected consequence of being
 in the posture for an extended period of time.
 
+I was still a little sore/tired the next morning, but much better than
+before. I did my usual hand gripper exercises and jogging, but I
+decided to skip other strength exercises for reasons of both time and
+energy levels.
+
 ### No effects on saliva and mouth dryness
 
-At least on the day itself, I did not experience any effects on saliva
-or mouth dryness.
+As of the next afternoon (2025-04-17 around 1:45 PM), about 24 hours
+after the appointment, I did not experience any effects on saliva or
+mouth dryness.
 
 ### Sore throat sensation (present from two days ago for unrelated reasons) continued to improve
 
