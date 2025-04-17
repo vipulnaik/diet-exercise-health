@@ -69,7 +69,7 @@ queries = [
     "select * from food_preparations_and_openings where food_type in ('Eggplant','TJ Kale','TJ Carrots','TJ Broccoli Florets 12 oz') and not (quantity between 0.85 and 1);",
 
     # I should generally do 2 at a time, though exceptions are possible
-    "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date in ('2024-09-08','2024-11-20','2025-01-01','2025-01-07','2025-04-10'));",
+    "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date in ('2024-09-08','2024-11-20','2025-01-01','2025-01-07','2025-04-10','2025-04-16'));",
 
     # I should generally do 2 or 3 at a time, though exceptions are possible
     "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and not (quantity in (2,3)) and not (preparation_or_opening_date in ('2024-09-07','2024-09-19','2024-09-30','2024-11-25'));",
