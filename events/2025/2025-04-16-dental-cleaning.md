@@ -201,3 +201,14 @@ cleaning.
 
 Around 2 PM on 2025-04-17, I created the calendar event and reminders
 for the next dental cleaning appointment.
+
+### Resumption of walnuts
+
+On Thursday 2025-04-17, a day after the dental cleaning, I resumed
+walnuts consumption with my first meal. On calendar, I have walnuts
+resumption set to two days after the dental cleaning, to give time to
+identify any sensitive areas that might have been hurt by the dental
+cleaning. However, I was pretty confident based on examination of my
+mouth, that I was free of any injuries from the dental cleaning, and
+did not have increased sensitivity, so I decided to resume a day
+early.
