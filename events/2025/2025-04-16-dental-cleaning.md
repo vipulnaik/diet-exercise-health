@@ -1,6 +1,6 @@
 # 2025-04-16: dental cleaning
 
-I have a dental cleaning appointment for Wednesday 2025-04-16 at Total
+I had a dental cleaning appointment on Wednesday 2025-04-16 at Total
 Health Dental Care at 3017 Telegraph Avenue for a regular dental
 cleaning at 1 PM. The previous dental cleaning had been on
 [2024-10-09](../2024/2024-10-09-dental-cleaning.md).
@@ -196,3 +196,8 @@ no obvious visible stains. The use of the intraoral mirror and
 intraoral camera may reveal smaller stains, but there's nothing that
 is macro-visible, unlike the situation right before the dental
 cleaning.
+
+### Calendar event and reminders created for the next dental cleaning appointment
+
+Around 2 PM on 2025-04-17, I created the calendar event and reminders
+for the next dental cleaning appointment.

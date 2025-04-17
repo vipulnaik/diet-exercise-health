@@ -170,17 +170,11 @@ shopped for ahead of the appointment if possible.
   of sauerkraut, with a note to delay if I'm experiencing drooling,
   mouth dryness, or excess salivation.
 
-### (preparation / direct) Reminder to examine teeth with the dental mirror and take photos with the intraoral camera two days ago
+### (preparation / direct) Reminder to execute the dental self-exam checklist two days prior to the appointment
 
-Set a reminder for two days prior to the dental cleaning for the following:
-
-First, spend some time reviewing all back teeth with the dental
-mirror.
-
-Use the intraoral camera to take photos of all parts of the
-teeth. Upload the photos to Google Drive and GitHub. Review them
-closely and update the notes associated with the dental cleaning
-appointment.
+The reminder is to execute the [dental self-exam
+checklist](../checklists/dental-self-exam-checklist.md) and log it as
+usual in the [logs](../logs/dental-self-exam-checklist-log.md).
 
 ### (preparation / direct) Reminder to do normal face shaving 1 or 2 days prior to appointment and discard razor used
 
@@ -213,13 +207,18 @@ handled the previous night, so that even if I'm in a rush I don't miss
 doing it. This includes any planning for additional things I hope to
 do in the trip after the appointment.
 
-### (recovery / documentation and processing) Reminder to take photos and examine with a dental mirror the evening of the appointment, then document the event
+### (recovery / documentation and processing) Reminder to execute the dental self-exam checklist and document the dental cleaning on the evening of the cleaning
 
-Make sure to examine my teeth with a dental mirror and also take
-photos before I go to sleep after the appointment. Exactly when I do
-it depends on what else I have going on in the day.
+The reminder is to execute the [dental self-exam
+checklist](../checklists/dental-self-exam-checklist.md) and log it as
+usual in the [logs](../logs/dental-self-exam-checklist-log.md), then
+also document the dental cleaning event itself.
 
-Then, make sure to document the dental cleaning event.
+If I am time-constrained, I should priorize documentation of the
+dental cleaning itself. If I don't even have time to fully document
+the dental cleaning, I should note key points to myself to be fleshed
+out later. The dental self-exam checklist execution can be deferred by
+up to one week.
 
 ### (recovery / local rest + reduced capacity + increased injury risk) Reminder to drink plenty of water and keep my talking load low for the two days after the appointment (to minimize and better address the risk of excess salivation)
 
