@@ -597,5 +597,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-16','Beefsteak tomato',5,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-16','TJ Carb Savvy Tortillas',1,2,'2025-04-17',1),
-  ('2025-04-16','TJ Roasted Seaweed',1,2,NULL,NULL);
+  ('2025-04-16','TJ Roasted Seaweed',1,2,NULL,NULL),
+  /* 2025-04-17 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-04-17','Lundberg Sustainable California White Jasmine Rice',0.9,2,NULL,NULL);
   /* Double-check the date before committing */
