@@ -569,10 +569,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-12','TJ Carb Savvy Tortillas',1,1,'2025-04-13',1),
   /* 2025-04-12 potatoes prep (second meal) (added olive oil, turmeric, cumin, salt, I did *not* include cayenne pepper to reduce risk to mouth ahead of scheduled dental cleaning */
-  ('2025-04-12','Gold potatoes 5 lb',0.5,2,NULL,NULL),
-  ('2025-04-12','TJ Kale',1,2,NULL,NULL),
-  ('2025-04-12','TJ English Shelled Peas',2,2,NULL,NULL),
-  ('2025-04-12','Beefsteak tomato',5,2,NULL,NULL),
+  ('2025-04-12','Gold potatoes 5 lb',0.5,2,'2025-04-18',2),
+  ('2025-04-12','TJ Kale',1,2,'2025-04-18',2),
+  ('2025-04-12','TJ English Shelled Peas',2,2,'2025-04-18',2),
+  ('2025-04-12','Beefsteak tomato',5,2,'2025-04-18',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-12','Trader Giotto''s Olive Oil',1,2,NULL,NULL), /* opened with potatoes prep; this is being filled retroactively so it might be off by one meal prep (if so, the right date would be 2025-04-10) */
   ('2025-04-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-14',1), /* return to plain flavor after a brief detour to vanilla flavor */
@@ -601,7 +601,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-04-17 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-04-17','Lundberg Sustainable California White Jasmine Rice',0.9,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-04-17','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
+  ('2025-04-17','TJ Carb Savvy Tortillas',1,2,'2025-04-18',2),
   ('2025-04-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
   ('2025-04-17','TJ Walnuts',1,2,NULL,NULL);
   /* Double-check the date before committing */
