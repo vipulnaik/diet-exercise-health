@@ -291,7 +291,17 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-04-15','Orange bell pepper',2),
   ('2025-04-15','Red bell pepper',4),
   ('2025-04-15','TJ Carrots',1),
-  ('2025-04-15','TJ Kale',1);
+  ('2025-04-15','TJ Kale',1),
+  /* 2025-04-18 (Friday) Trader Joe's; total cost $56.49; checkout at 6:15 PM; paid by debit card; 21 items in transaction */
+  ('2025-04-18','TJ Carb Savvy Tortillas',3),
+  ('2025-04-18','Beefsteak tomato',9),
+  ('2025-04-18','TJ Kale',1),
+  ('2025-04-18','TJ English Shelled Peas',2),
+  ('2025-04-18','TJ Roasted Seaweed',1),
+  ('2025-04-18','TJ Walnuts',2),
+  ('2025-04-18','TJ Miso Ginger Broth',1),
+  ('2025-04-18','TJ Turmeric',1),
+  ('2025-04-18','Gold potatoes 5 lb',1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness

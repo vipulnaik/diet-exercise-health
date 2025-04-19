@@ -147,3 +147,10 @@ regular dental cleaning. The visit is recorded
 here](2025-04-16-dental-cleaning.md). After that, I went to the Amazon
 Hub Locker at ASUC Berkeley for a package pickup and then stopped by
 at Walgreens to purchase a few items.
+
+## 2025-04-18
+
+On Friday 2025-04-18, I made a trip to downtown Berkeley for some
+administrative stuff. After being done with the administrative stuff,
+I went to Trader Joe's for food purchases recorded
+[here](../../sql/food_purchases_2025.sql).
