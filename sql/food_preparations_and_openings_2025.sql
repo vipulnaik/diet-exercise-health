@@ -602,6 +602,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-17','Lundberg Sustainable California White Jasmine Rice',0.9,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-17','TJ Carb Savvy Tortillas',1,2,'2025-04-18',2),
-  ('2025-04-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
-  ('2025-04-17','TJ Walnuts',1,2,NULL,NULL);
+  ('2025-04-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-19',1),
+  ('2025-04-17','TJ Walnuts',1,2,NULL,NULL),
+  ('2025-04-19','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
+  ('2025-04-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL);
   /* Double-check the date before committing */
