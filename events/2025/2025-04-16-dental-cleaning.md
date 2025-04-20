@@ -212,3 +212,13 @@ cleaning. However, I was pretty confident based on examination of my
 mouth, that I was free of any injuries from the dental cleaning, and
 did not have increased sensitivity, so I decided to resume a day
 early.
+
+### Resumption of sauerkraut
+
+On Saturday 2025-04-19, three days after the dental cleaning, I
+resumed consumption of sauerkraut with my first meal. On calendar, I
+have sauerkraut resumption set to four days after the dental cleaning,
+to give time to identify any sensitive areas that might have been hurt
+by the dental cleaning. However, I was pretty confident based on the
+lack of issues over the past three days that it is safe to resume, so
+I resumed a day ahead of schedule.
