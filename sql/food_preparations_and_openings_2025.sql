@@ -584,7 +584,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-14','Lundberg Sustainable California White Jasmine Rice',0.25,2,'2025-04-17',1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-14','TJ Turmeric',1,2,NULL,NULL), /* opened with rice prep; used previous turmeric partially as well */
-  ('2025-04-15','TJ Almond Milk',1,1,NULL,NULL),
+  ('2025-04-15','TJ Almond Milk',1,1,'2025-04-22',2),
   ('2025-04-15','TJ Carb Savvy Tortillas',1,2,'2025-04-16',1),
   ('2025-04-15','TJ Miso Ginger Broth',1,2,NULL,NULL),
   ('2025-04-15','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-17',1),
@@ -603,7 +603,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-17','TJ Carb Savvy Tortillas',1,2,'2025-04-18',2),
   ('2025-04-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-19',1),
-  ('2025-04-17','TJ Walnuts',1,2,NULL,NULL),
+  ('2025-04-17','TJ Walnuts',1,2,'2025-04-22',2),
   ('2025-04-19','TJ Carb Savvy Tortillas',1,1,'2025-04-20',1),
   ('2025-04-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-04-21',1),
   /* 2025-04-19 potatoes prep (second meal) (added olive oil, turmeric, cumin, a very small amount of cayenne pepper, and salt; this was my reintroduction of cayenne pepper after pausing it ahead of dental cleaning) */
@@ -619,5 +619,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-21','Lundberg Sustainable California White Basmatic Rice',0.15,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL),
-  ('2025-04-22','TJ Carb Savvy Tortillas',1,1,NULL,NULL);
+  ('2025-04-22','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
+  ('2025-04-22','TJ Walnuts',1,2,NULL,NULL),
+  ('2025-04-22','TJ Almond Milk',1,2,NULL,NULL);
   /* Double-check the date before committing */
