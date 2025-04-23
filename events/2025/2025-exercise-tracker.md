@@ -499,9 +499,12 @@ after dental cleaning is expected). It was a lot better than the
 previous day, but out of caution I decided to skip strength
 exercises. I still did the usual hand gripper exercises and jogging.
 
-## 2025-04-22: skipped strength exercises / deferred to tomorrow
+## 2025-04-22 and 2025-04-23: skipped strength exercises
 
 On Tuesday 2025-04-22, due to a house issue that both directly took
 some of my time and made it more challenging to efficiently multiplex
 strength exercises with listening to videos, I decided to skip
-strength exercises. The plan is to do them the net day instead.
+strength exercises. My plan was to do them the next day instead.
+
+On Wednesday 2025-04-23, due to delays and some stuff at work that I
+wanted to wrap up, I deferred strength exercises again.
