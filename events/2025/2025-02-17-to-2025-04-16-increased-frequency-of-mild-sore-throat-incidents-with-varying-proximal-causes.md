@@ -76,7 +76,7 @@ and proximal causes where identified:
   dental cleaning (on 2024-10-09) contributed to the ease of
   irritation, and the dental cleaning helped reset things.
 
-Overall, I consider many of the individual incidents to be valable
+Overall, I consider many of the individual incidents to be valuable
 learning experiences. For instance, learning that when I cook a
 smaller amount, but use the same amount of olive oil and cayenne
 pepper as for a larger prep, I can get the lower throat irritation
@@ -84,6 +84,10 @@ from olive oil, tells me that when I have less to cook, I should use
 less olive oil and cayenne pepper. While simple, this is a useful
 lesson (and one that I don't usually get to learn because I normally
 cook a full pot).
+
+Similarly, the experience of how cumin can have a clearing effect, and
+how adding a bit more cumin can be helpful, was valuable as it gives
+me an additional tool to deal with sore throats of some kinds.
 
 I will compare notes with the period starting about 4 months after
 this dental cleaning to see if the incidence goes up. This time, the
