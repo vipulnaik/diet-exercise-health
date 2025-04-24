@@ -508,3 +508,10 @@ strength exercises. My plan was to do them the next day instead.
 
 On Wednesday 2025-04-23, due to delays and some stuff at work that I
 wanted to wrap up, I deferred strength exercises again.
+
+## 2025-04-24: at-home jogging due to time considerations for sleep cycle adjustment
+
+On Thursday 2025-04-24, I did at-home jogging as I wanted to adjust my
+sleep cycle toward sleeping earlier and also wanted to cook food in
+the morning, so I wanted to jog earlier, but it was too cold to go
+out that early.
