@@ -56,7 +56,11 @@ when I have at least 10 minutes to spare.
   but my distribution is more at the high end of the range; I also got
   one score of 18.
 
-* 2025-02-18: 17.8 point moving average, placing me at the 99.18th
+* 2025-02-18: 17.8 points moving average, placing me at the 99.18th
   percentile. Of late, I've been able to consistently score at least
   16, with one score of 21 and one score of 19. However, I'm not able
   to consistently score *above* 16 yet.
+
+* 2025-04-23: 18.4 points moving average, placing me at the 99.37th
+  percentile. My four scores since 2025-02-18 have been 19, 19, 16,
+  and 19.

@@ -85,3 +85,9 @@ back up to the 250 to 300 ms range.
   several rounds of practice): 248 ms moving average, placing me at
   the 32.89th percentile. I think I'm getting the knack of this more
   and hope to improve a bit more with practice.
+
+* 2025-04-23: 238 ms moving average, placing me at the 32.89th
+  percentile. There is a lot of variation between plays, and in
+  general I'm a little faster in the morning than the evening, but I
+  do feel like I am experiencing a slight overall improvement at least
+  in the consistency with which I can get good latencies.

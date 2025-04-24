@@ -63,5 +63,11 @@ My goal is to play about 1-3 times a week.
   on 2024-11-20.
 
 * 2025-02-18: 100 wpm moving average, placing me at the 94.12th
-  percentile. NOt much has changed qualitatively since the last update
+  percentile. Not much has changed qualitatively since the last update
   on 2025-01-16.
+
+* 2025-04-23: 102 wpm moving average, placing me at the 97.15th
+  percentile. I feel like I'm getting a bit more of the hang of what
+  it takes to get a high score (110 or higher), and what sorts of
+  flustering cause me to get a score in the 90s, but I don't have a
+  consistent way of applying the insight to always get a high score.
