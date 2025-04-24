@@ -499,7 +499,7 @@ after dental cleaning is expected). It was a lot better than the
 previous day, but out of caution I decided to skip strength
 exercises. I still did the usual hand gripper exercises and jogging.
 
-## 2025-04-22 and 2025-04-23: skipped strength exercises
+## 2025-04-22, 2025-04-23, and 2025-04-24: skipped strength exercises
 
 On Tuesday 2025-04-22, due to a house issue that both directly took
 some of my time and made it more challenging to efficiently multiplex
@@ -508,6 +508,10 @@ strength exercises. My plan was to do them the next day instead.
 
 On Wednesday 2025-04-23, due to delays and some stuff at work that I
 wanted to wrap up, I deferred strength exercises again.
+
+On Thursday 2025-04-24, I ended up deferring strength exercises again,
+because a bunch of work meetings ended relatively late and I wanted to
+stick to the sleep cycle adjustment plan.
 
 ## 2025-04-24: at-home jogging due to time considerations for sleep cycle adjustment
 
