@@ -607,10 +607,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-19','TJ Carb Savvy Tortillas',1,1,'2025-04-20',1),
   ('2025-04-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-04-21',1),
   /* 2025-04-19 potatoes prep (second meal) (added olive oil, turmeric, cumin, a very small amount of cayenne pepper, and salt; this was my reintroduction of cayenne pepper after pausing it ahead of dental cleaning) */
-  ('2025-04-19','Gold potatoes 5 lb',0.5,2,NULL,NULL),
-  ('2025-04-19','TJ Kale',1,2,NULL,NULL),
-  ('2025-04-19','TJ English Shelled Peas',2,2,NULL,NULL),
-  ('2025-04-19','Beefsteak tomato',5,2,NULL,NULL),
+  ('2025-04-19','Gold potatoes 5 lb',0.5,2,'2025-04-24',2),
+  ('2025-04-19','TJ Kale',1,2,'2025-04-24',2),
+  ('2025-04-19','TJ English Shelled Peas',2,2,'2025-04-24',2),
+  ('2025-04-19','Beefsteak tomato',5,2,'2025-04-24',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-20','Udupi Palace spinach masala dosa free red chutney',1,1,'2025-04-22',1),
   ('2025-04-20','TJ Carb Savvy Tortillas',1,2,'2025-04-22',1),
@@ -623,5 +623,15 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-22','TJ Walnuts',1,2,NULL,NULL),
   ('2025-04-22','TJ Almond Milk',1,2,NULL,NULL),
   ('2025-04-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
-  ('2025-04-23','TJ Miso Ginger Broth',1,2,NULL,NULL);
+  ('2025-04-23','TJ Miso Ginger Broth',1,2,NULL,NULL),
+  ('2025-04-23','TJ Carb Savvy Tortillas',1,2,'2025-04-24',2),
+  /* 2025-04-24 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, salt, and a little bit of cayenne pepper) */
+  ('2025-04-24','Eggplant',1,2,NULL,NULL),
+  ('2025-04-24','TJ Kale',1,2,NULL,NULL),
+  ('2025-04-24','TJ Carrots',1,2,NULL,NULL),
+  ('2025-04-24','Red bell pepper',4,2,NULL,NULL),
+  ('2025-04-24','Orange bell pepper',2,2,NULL,NULL),
+  ('2025-04-24','Beefsteak tomato',7,2,NULL,NULL),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-04-24','TJ Carb Savvy Tortillas',1,2,NULL,NULL);
   /* Double-check the date before committing */

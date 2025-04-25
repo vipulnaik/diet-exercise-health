@@ -12,9 +12,9 @@ queries = [
 
     create temporary table food_preparations_and_openings_copy as select * from food_preparations_and_openings;
 
-    drop temporary table if exists food_preparations_and_openings_self_join;
+    drop table if exists food_preparations_and_openings_self_join;
 
-    create temporary table food_preparations_and_openings_self_join as
+    create table food_preparations_and_openings_self_join as
     select
     food_preparations_and_openings.food_type,
     food_preparations_and_openings.preparation_or_opening_date as preparation_or_opening_date_1,
@@ -60,7 +60,7 @@ queries = [
     select * from t2 where completion_date >= '2024-10-01' and pause_date is null;""",
 
     # If I completed something more than 1 day ago, there should be a new preparation or opening, except for foods that I consume one-off */
-    "select * from food_preparations_and_openings_self_join where preparation_or_opening_date_2 is null and datediff(curdate(), completion_date_1) > 1 and not (food_type in ('Whole Foods Mexican Whole Wheat Tortillas','Udupi Palace spinach masala dosa','Lundberg Sustainable California White Jasmine Rice','Whole Foods Walnuts','TJ Green Lentils','TJ Kimchi','TJ Carrots (Organic)','Orange bell pepper'));",
+    "select * from food_preparations_and_openings_self_join where preparation_or_opening_date_2 is null and datediff(curdate(), completion_date_1) > 1 and not (food_type in ('Whole Foods Mexican Whole Wheat Tortillas','Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa free red chutney','Lundberg Sustainable California White Jasmine Rice','Whole Foods Walnuts','TJ Green Lentils','TJ Kimchi','TJ Carrots (Organic)','Orange bell pepper')) and not (food_type = 'Green bell pepper' and preparation_or_opening_date_1 = '2025-04-04');",
 
     # I should always open 1 bottle at a time
     "select * from food_preparations_and_openings where food_type in ('TJ Almond Milk','TJ Sauerkraut','TJ Walnuts','TJ Miso Ginger Broth','Trader Giotto''s Olive Oil') and quantity != 1;",
@@ -69,7 +69,7 @@ queries = [
     "select * from food_preparations_and_openings where food_type in ('Eggplant','TJ Kale','TJ Carrots','TJ Broccoli Florets 12 oz') and not (quantity between 0.85 and 1);",
 
     # I should generally do 2 at a time, though exceptions are possible
-    "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date in ('2024-09-08','2024-11-20','2025-01-01','2025-01-07','2025-04-10','2025-04-16'));",
+    "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date in ('2024-09-08','2024-11-20','2025-01-01','2025-01-07') or preparation_or_opening_date between '2025-04-10' and '2025-05-02');",
 
     # I should generally do 2 or 3 at a time, though exceptions are possible
     "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and not (quantity in (2,3)) and not (preparation_or_opening_date in ('2024-09-07','2024-09-19','2024-09-30','2024-11-25'));",
