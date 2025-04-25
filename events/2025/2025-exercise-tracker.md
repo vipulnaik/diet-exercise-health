@@ -519,3 +519,13 @@ On Thursday 2025-04-24, I did at-home jogging as I wanted to adjust my
 sleep cycle toward sleeping earlier and also wanted to cook food in
 the morning, so I wanted to jog earlier, but it was too cold to go
 out that early.
+
+## 2025-04-25: skipped all exercises due to time considerations
+
+On Friday 2025-04-25, I skipped all exercises due to delays as a
+result of trying to get some day job work done (I'm trying to wrap up
+a bunch of small items at the day job, some of which I had not
+planned, ahead of reduced availability in the coming weeks). The
+reason was a combination of "it's getting late and I should eat soon
+if I want to get back to a good sleep cycle" as well as "I am squeezed
+for time in general and exercise is the thing that's easiest to cut."
