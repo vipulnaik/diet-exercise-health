@@ -622,7 +622,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-22','TJ Carb Savvy Tortillas',1,1,'2025-04-23',1),
   ('2025-04-22','TJ Walnuts',1,2,NULL,NULL),
   ('2025-04-22','TJ Almond Milk',1,2,NULL,NULL),
-  ('2025-04-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  ('2025-04-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-25',2),
   ('2025-04-23','TJ Miso Ginger Broth',1,2,NULL,NULL),
   ('2025-04-23','TJ Carb Savvy Tortillas',1,2,'2025-04-24',2),
   /* 2025-04-24 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, salt, and a little bit of cayenne pepper) */
@@ -635,5 +635,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-24','TJ Carb Savvy Tortillas',1,2,'2025-04-25',1), /* faster consumption rate than usual because I was out of rice */
   /* 2025-04-25 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-04-25','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL);
+  ('2025-04-25','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-04-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL);
   /* Double-check the date before committing */
