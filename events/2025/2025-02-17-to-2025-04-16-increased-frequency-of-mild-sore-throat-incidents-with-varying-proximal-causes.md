@@ -18,7 +18,7 @@ highlights from privately recorded incidents.
 In all cases, I experienced a sense of irritation in some area of the
 back of mouth (upper throat), lower throat (lower esophagus), or, more
 rarely, the ear/nose system (as if stuff had refluxed into my ear or
-nose.
+nose).
 
 In only some of the cases was there direct evidence of actual reflux,
 and the magnitude of such reflux was generally small.
