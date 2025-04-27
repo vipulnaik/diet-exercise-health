@@ -38,7 +38,7 @@ Details of the incidents are in private notes. Here, I list the dates
 and proximal causes where identified:
 
 * 2025-02-17: reflux and sneezing after second meal where I had a
-  multigrain sandwich bread that I don't usuall have.
+  multigrain sandwich bread that I don't usually have.
 
 * 2025-02-28: throat tension and burping after meal that lasted much
   longer than usual.
