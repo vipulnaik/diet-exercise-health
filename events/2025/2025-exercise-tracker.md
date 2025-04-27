@@ -538,3 +538,43 @@ task planning. Same as the previous day, the reason was a combination
 of "it's getting late and I should eat soon if I want to get back to a
 good sleep cycle" as well as "I am squeezed for time in general and
 exercise is the thing that's easiest to cut."
+
+## 2025-04-27: at-home jogging and slight reductions to various strength exercises due to left hand muscle pain
+
+On Sunday 2025-04-27, I did at-home jogging so that I could do jogging
+earlier than the ideal time temperature-wise to do jogging, as part of
+efforts to maintain an early sleep cycle.
+
+I also made a few deliberate reductions to strength exercises due to
+left hand muscle pain (that I currently believe to be nociplastic and
+not associated to tissue damage, but still aggravated by heavy strain
+that ramps up the sensitization to that hand)
+
+* For the 150 lbs hand gripper, I closed it in my left hand but did
+  not hold (so I kept it in closed position for about a second or
+  less). This was proactive (trying to avoi exacerbating pain later)
+  rather than due to me being unable to hold for longer.
+
+* For the 100 lbs hand gripper, I held closed in my left hand for
+  about 25 seconds and then deliberately let go, even though I could
+  likely have held for at least another 5 seconds. The decision to let
+  go early was driven by a desire to reduce pain later.
+
+* For the 20 lbs dumb bells, I held them in both hands, but did the
+  biceps curls only with my right hand (so I kept the weight down in
+  my left hand while doing the biceps curls). The 20 lbs dumb bells
+  are something I started recently, and based on timing, a likely
+  contributor to left hand muscle pain.
+
+* For the kettlebells, I did the normal squats but did not do a
+  single-hand hold of the kettlebell in my left hand after that; I
+  only did that with my right hand.
+
+* I skipped push-ups, given the strain of weight these place on the wrist.
+
+In addition to these deliberate choices, I also noticed slight
+reductions in my number of repetitions for the exercises where I do a
+variable number of repetitions based on fatigue. This suggests a bit
+more fatigue, or possibly a bit of deconditioning from not having done
+strength exercises for a while (skipping them on two days and then
+skipping all exercises on the next two days).
