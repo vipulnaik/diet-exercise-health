@@ -597,7 +597,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-16','Beefsteak tomato',4,2,'2025-04-21',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-16','TJ Carb Savvy Tortillas',1,2,'2025-04-17',1),
-  ('2025-04-16','TJ Roasted Seaweed',1,2,NULL,NULL),
+  ('2025-04-16','TJ Roasted Seaweed',1,2,'2025-04-26',2),
   /* 2025-04-17 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-04-17','Lundberg Sustainable California White Jasmine Rice',0.95,2,'2025-04-20',2),
   /* New bottle/packet openings as the old ones finished */
@@ -637,5 +637,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-04-25 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-04-25','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-04-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL);
+  ('2025-04-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  /* 2025-04-26 potatoes prep (second meal) (added olive oil, turmeric, cumin, a very small amount of cayenne pepper, and salt */
+  ('2025-04-26','Gold potatoes 5 lb',0.5,2,NULL,NULL),
+  ('2025-04-26','TJ Kale',1,2,NULL,NULL),
+  ('2025-04-26','TJ English Shelled Peas',2,2,NULL,NULL),
+  ('2025-04-26','Beefsteak tomato',6,2,NULL,NULL),
+  /* New bottle/packet openings as the old ones finished */
+  ('2025-04-26','TJ Roasted Seaweed',1,2,NULL,NULL);
   /* Double-check the date before committing */
