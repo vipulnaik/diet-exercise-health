@@ -529,3 +529,12 @@ planned, ahead of reduced availability in the coming weeks). The
 reason was a combination of "it's getting late and I should eat soon
 if I want to get back to a good sleep cycle" as well as "I am squeezed
 for time in general and exercise is the thing that's easiest to cut."
+
+## 2025-04-26: skipped all exercises due to time considerations
+
+On Saturday 2025-04-26, I skipped all exercises due to delays as a
+result of trying to wrap up some work stuff as well as some overall
+task planning. Same as the previous day, the reason was a combination
+of "it's getting late and I should eat soon if I want to get back to a
+good sleep cycle" as well as "I am squeezed for time in general and
+exercise is the thing that's easiest to cut."
