@@ -243,6 +243,9 @@ I made a brief trip to Berkeley Bowl and then returned at around 5:52
 PM and successfully collected my prescription. I had a copay of $1,
 which, with taxes, came to $1.17.
 
+UPDATE: I ended up never taking the PPI based on further research, and
+ultimately threw it out on 2025-04-29.
+
 ## Cost breakdown
 
 ### Visit plus urine test

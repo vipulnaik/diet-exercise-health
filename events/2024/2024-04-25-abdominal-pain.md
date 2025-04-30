@@ -841,3 +841,6 @@ may document my thinking in more detail in the future.
 On 2024-05-10, in light of my continued recovery, I decided to put my
 PPI in storage and added a calendar reminder to dispose of the PPI on
 its expiration date (one year after my pickup date of 2024-04-30).
+
+I ultimately threw the pantoprazole (Protonix) out of 2025-04-29, a
+day prior to the expiration date.
