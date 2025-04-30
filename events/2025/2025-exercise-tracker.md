@@ -578,3 +578,9 @@ variable number of repetitions based on fatigue. This suggests a bit
 more fatigue, or possibly a bit of deconditioning from not having done
 strength exercises for a while (skipping them on two days and then
 skipping all exercises on the next two days).
+
+## 2025-04-30: skipped hand gripper exercises and strength exercises
+
+On Wednesday 2025-04-30, I skipped hand gripper exercises and strength
+exercises to conserve both time and energy for stuff in the coming
+days.
