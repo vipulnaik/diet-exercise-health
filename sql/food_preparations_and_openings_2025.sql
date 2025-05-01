@@ -626,12 +626,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-23','TJ Miso Ginger Broth',1,2,NULL,NULL),
   ('2025-04-23','TJ Carb Savvy Tortillas',1,2,'2025-04-24',2),
   /* 2025-04-24 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, salt, and a little bit of cayenne pepper) */
-  ('2025-04-24','Eggplant',1,2,NULL,NULL),
-  ('2025-04-24','TJ Kale',1,2,NULL,NULL),
-  ('2025-04-24','TJ Carrots',1,2,NULL,NULL),
-  ('2025-04-24','Red bell pepper',4,2,NULL,NULL),
-  ('2025-04-24','Orange bell pepper',2,2,NULL,NULL),
-  ('2025-04-24','Beefsteak tomato',7,2,NULL,NULL),
+  ('2025-04-24','Eggplant',1,2,'2025-04-30',2),
+  ('2025-04-24','TJ Kale',1,2,'2025-04-30',2),
+  ('2025-04-24','TJ Carrots',1,2,'2025-04-30',2),
+  ('2025-04-24','Red bell pepper',4,2,'2025-04-30',2),
+  ('2025-04-24','Orange bell pepper',2,2,'2025-04-30',2),
+  ('2025-04-24','Beefsteak tomato',7,2,'2025-04-30',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-24','TJ Carb Savvy Tortillas',1,2,'2025-04-25',1), /* faster consumption rate than usual because I was out of rice */
   /* 2025-04-25 rice prep (second meal) (added turmeric, cumin, salt) */
