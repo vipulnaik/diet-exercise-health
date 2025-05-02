@@ -645,13 +645,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-26','TJ English Shelled Peas',2,2,NULL,NULL),
   ('2025-04-26','Beefsteak tomato',6,2,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-04-26','TJ Roasted Seaweed',1,2,NULL,NULL),
+  ('2025-04-26','TJ Roasted Seaweed',1,2,'2025-05-01',2),
   ('2025-04-27','TJ Carb Savvy Tortillas',1,1,'2025-04-29',1),
   ('2025-04-27','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-29',1),
   /* 2025-04-27 lentils prep (overnight soaking to cook the next day; added turmeric, cumin, and salt the next day (2025-04-28) after draining soaking water and adding water for cooking) */
   ('2025-04-27','TJ Green Lentils',0.5,3,'2025-04-30',2),
   /* 2025-04-28 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-04-28','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL),
+  ('2025-04-28','Lundberg Sustainable California White Basmati Rice',0.9,2,'2025-05-01',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-29','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-04-30',2),
   ('2025-04-30','TJ Walnuts',1,2,NULL,NULL),
