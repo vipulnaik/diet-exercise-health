@@ -621,9 +621,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-04-23',1),
   ('2025-04-22','TJ Carb Savvy Tortillas',1,1,'2025-04-23',1),
   ('2025-04-22','TJ Walnuts',1,2,'2025-04-30',2),
-  ('2025-04-22','TJ Almond Milk',1,2,NULL,NULL),
+  ('2025-04-22','TJ Almond Milk',1,2,'2025-05-02',1),
   ('2025-04-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-25',2),
-  ('2025-04-23','TJ Miso Ginger Broth',1,2,NULL,NULL),
+  ('2025-04-23','TJ Miso Ginger Broth',1,2,'2025-05-02',1),
   ('2025-04-23','TJ Carb Savvy Tortillas',1,2,'2025-04-24',2),
   /* 2025-04-24 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, salt, and a little bit of cayenne pepper) */
   ('2025-04-24','Eggplant',1,2,'2025-04-30',2),
@@ -640,10 +640,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-27',1),
   ('2025-04-26','TJ Carb Savvy Tortillas',1,1,'2025-04-27',1), /* backfilled start time and it's most likely correct, however it may in fact be ('2025-04-25',1) but it's definitely not ('2025-04-25',2) because I remember that in that meal I had only rice */
   /* 2025-04-26 potatoes prep (second meal) (added olive oil, turmeric, cumin, a very small amount of cayenne pepper, and salt */
-  ('2025-04-26','Gold potatoes 5 lb',0.5,2,NULL,NULL),
-  ('2025-04-26','TJ Kale',1,2,NULL,NULL),
-  ('2025-04-26','TJ English Shelled Peas',2,2,NULL,NULL),
-  ('2025-04-26','Beefsteak tomato',6,2,NULL,NULL),
+  ('2025-04-26','Gold potatoes 5 lb',0.5,2,'2025-05-02',1),
+  ('2025-04-26','TJ Kale',1,2,'2025-05-02',1),
+  ('2025-04-26','TJ English Shelled Peas',2,2,'2025-05-02',1),
+  ('2025-04-26','Beefsteak tomato',6,2,'2025-05-02',1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-26','TJ Roasted Seaweed',1,2,'2025-05-01',2),
   ('2025-04-27','TJ Carb Savvy Tortillas',1,1,'2025-04-29',1),
@@ -656,8 +656,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-29','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-04-30',2),
   ('2025-04-30','TJ Walnuts',1,2,NULL,NULL),
   /* 2025-05-01 tomatoes prep (first meal) (added olive oil, turmeric, cumin, salt) */
-  ('2025-05-01','Beefsteak tomato',3,1,NULL,NULL),
+  ('2025-05-01','Beefsteak tomato',3,1,'2025-05-02',1),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-05-01','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
-  ('2025-05-01','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL);
+  ('2025-05-01','TJ Carb Savvy Tortillas',1,1,'2025-05-02',1),
+  ('2025-05-01','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-05-02',1);
   /* Double-check the date before committing */
