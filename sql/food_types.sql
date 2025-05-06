@@ -642,8 +642,8 @@ insert into food_types(short_name, long_name, url,
   /* special oxalate column added in light of risk of kidney stones */ NULL,
   /* notes */ 'The serving size used is 100 grams, whereas the container size is 250 grams. All amounts were scaled by 2.5.'),
 
-  ('Urban Platter Sauerkraut','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage with Beetroot, 450g / 15.8oz [Raw, Organic & Powered by Bombucha]','https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NQB9KKL',
-  /* calories, weight, and volume */ 286.1, 710, NULL,
+  ('Urban Platter Sauerkraut with Beetroot','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage with Beetroot, 450g / 15.8oz [Raw, Organic & Powered by Bombucha]','https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NQB9KKL',
+  /* calories, weight, and volume */ 286.1, 450, NULL,
   /* broad food type */ 'Sauerkraut / Kimchi',
   /* fat-related columns */ 11.64,NULL,NULL,NULL,NULL,
   /* cholesterol */ NULL,
@@ -839,6 +839,9 @@ insert into food_types(short_name, long_name, url, notes) values
   ('TJ Cinnamon','Trader Joe''s Ground Cinnamon','https://www.amazon.com/Trader-Joes-Ground-Cinnamon-Pack/dp/B07TH176BQ','I put a small amount of this as seasoning. I started using this as there was some left over in my group house. I also accidentally bought another bottle on 2023-08-11, so I may continue using it for some time.');
 
 insert into food_types(short_name, long_name, notes) values
+  /* pending data entry */
+  ('Urban Platter Sauerkraut Raw','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage, 450g / 15.8oz [Raw, Artisanal, Plant-Based, Preservative Free]','Data at https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NC754H4/ but label is hard to read off fully; I should fill data in from the physical jar at some point. Just putting a dummy entry for now for validation.'),
+  ('Sofit Soya 180 ml','SOFIT Soya Drink Naturally Sugar Free Vegan Drink Enriched With Plant Protein,Dietary Fibers,Vitamins And Calcium Lactose Free Gluten Free Preservatives Free,180 Ml / 200 Ml','See https://www.amazon.in/Naturally-Enriched-protein-vitamins-Preservatives/dp/B00NTTCZUM/ for details'),
   /* Udupi Palace */
   ('Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa with sambhar and white chutney (not including free red chutney)','I generally order takeout for this when going to Trader Joe''s for grocery shopping.'),
   ('Udupi Palace spinach masala dosa free red chutney','Free red chutney that accompanies Udupi Palace spinach masala dosa','I am treating this as a separate item because I generally consume it separately after finishing the rest of the food'),

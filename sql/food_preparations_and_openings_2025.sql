@@ -659,5 +659,18 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-05-01','Beefsteak tomato',3,1,'2025-05-02',1),
   /* New bottle/packet openings as the old ones finished */
   ('2025-05-01','TJ Carb Savvy Tortillas',1,1,'2025-05-02',1),
-  ('2025-05-01','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-05-02',1);
+  ('2025-05-01','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-05-02',1),
+
+  /* Starting 2025-05-04 I was in Bengaluru; over this period, it is
+  difficult to track *all* my food consumption since a lot of it
+  involved eating left-overs from food my parents cooked, so how much
+  of the original raw materials was left is hard to
+  calculate. However, a few of the items are packaged items where I
+  consumed an entire package from start to finish, so I will at least
+  try to record those. */
+  ('2025-05-04','Urban Platter Sauerkraut',1,1,NULL,NULL),
+  ('2025-05-04','Sofit Soya 180 ml',1,1,'2025-05-05',1),
+  ('2025-05-05','Sofit Soya 180 ml',1,2,'2025-05-05',2),
+  ('2025-05-06','Sofit Soya 180 ml',1,1,'2025-05-06',1),
+  ('2025-05-06','Sofit Soya 180 ml',1,2,'2025-05-06',2);
   /* Double-check the date before committing */
