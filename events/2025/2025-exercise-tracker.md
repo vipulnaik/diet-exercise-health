@@ -583,4 +583,10 @@ skipping all exercises on the next two days).
 
 On Wednesday 2025-04-30, I skipped hand gripper exercises and strength
 exercises to conserve both time and energy for stuff in the coming
-days.
+days, specifically my travel to India.
+
+## 2025-05-01 to 2025-05-06: skipped all exercises
+
+When 2025-05-01 (in Pacific Time) to 2025-05-06 (in Indian Standard
+Time) I skipped all exercises, to conserve time and energy for my
+travel to India.
