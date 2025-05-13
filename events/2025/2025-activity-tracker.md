@@ -154,3 +154,11 @@ On Friday 2025-04-18, I made a trip to downtown Berkeley for some
 administrative stuff. After being done with the administrative stuff,
 I went to Trader Joe's for food purchases recorded
 [here](../../sql/food_purchases_2025.sql).
+
+## 2025-05-09
+
+I made outside trips in the morning and afternoon.
+
+## 2025-05-12
+
+I made an outside trip in the morning, returning shortly after noon.
