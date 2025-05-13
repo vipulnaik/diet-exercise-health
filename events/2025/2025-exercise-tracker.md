@@ -590,3 +590,27 @@ days, specifically my travel to India.
 When 2025-05-01 (in Pacific Time) to 2025-05-06 (in Indian Standard
 Time) I skipped all exercises, to conserve time and energy for my
 travel to India.
+
+## 2025-05-07 onward: resumed exercises except strength exercises
+
+Starting Wednesday 2025-05-07, I resumed jogging, hand gripper
+exercises, and (not every day) other exercises such as breath holds,
+humming with intermittent pauses,
+standing-on-one-leg-with-eyes-closed, and
+standing-on-toes-with-eyes-closed. I continued to skip strength
+exercises as my strength gradully returned post-travel.
+
+## 2025-05-09 and 2025-05-12: skipped all exercises to save time and energy for outside trips
+
+On Friday 2025-05-09 and Monday 2025-05-12, I skipped all exercises to
+save tim and energy for outside trips on the respective days.
+
+## 2025-05-13: resumed strength exercises
+
+On Tuesday 2025-05-13, in India, I resumed strength exercises
+including dumb bells, kettlebells, and push-ups. I did not do the very
+heavy dumb bell (9 kg / 20 lb) but did most of the rest as usual, with
+slight adaptations due to differences in the equipment available. The
+number of repetitions was a little lower than usual, reflecting that
+my return to strength was not complete after the travel and the break
+from strength exercises.
