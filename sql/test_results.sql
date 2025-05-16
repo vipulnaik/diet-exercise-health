@@ -360,6 +360,9 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('January 2025 LabCorp tests','Potassium','mmol/L',3.5,5.2,4.4,'Normal','This test was part of a comprehensive metabolic panel. All of sodium, potassium, and chloride were a little higher this time than last time, which might reflect a slight difference in my hydration state or may reflect weather differences.'),
   ('January 2025 LabCorp tests','Chloride','mmol/L',96,106,103,'Normal','This test was part of a comprehensive metabolic panel. All of sodium, potassium, and chloride were a little higher this time than last time, which might reflect a slight difference in my hydration state or may reflect weather differences.'),
   ('January 2025 LabCorp tests','Bicarbonate','mmol/L',20,29,27,'Normal','This test was part of a comprehensive metabolic panel. LabCorp reports this as "carbon dioxide, total" rather than bicarbonate.'),
+  ('January 2025 LabCorp tests','Total protein','g/dL',6.0,8.5,6.7,'Normal','This test was part of a comprehensive metabolic panel. For total protein, the result was the same as last time.'),
+  ('January 2025 LabCorp tests','Albumin','g/dL',4.1,5.1,4.7,'Normal','This test was part of a comprehensive metabolic panel. The result is very similar to last time.'),
+  ('January 2025 LabCorp tests','Globulin','g/dL',1.5,4.5,2.0,'Normal','This test was part of a comprehensive metabolic panel. The result is very similar to last time.'),
   /* There are a few more entries remaining for the CMP */
   /* January 2025 immunoglobulins */
   ('January 2025 LabCorp tests','Immunoglobulin G (quantitative serum)','mg/dL',603,1613,758,'Normal','This was part of an initial immunoglobulin panel to see if there were any obvious issues with my immune function (for instance, high IgE would indicate a propensity for allergies). This reading came in the normal range.'),
