@@ -176,7 +176,7 @@ availability of more parking space.
 
 While drawing blood, he asked me how I was feeling. I said it's not
 fun, but it's not too painful. Although I didn't say it, my impression
-is that the total amount of blood for this draw (about 10-12- mL) was
+is that the total amount of blood for this draw (about 10-12 mL) was
 a little less than for previous blood draws, likely because there was
 no additional complex test that needed to go to a different facility.
 

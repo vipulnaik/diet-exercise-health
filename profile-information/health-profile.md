@@ -353,10 +353,11 @@ which marks me as insulin-sensitive and not insulin-resistant** (in
 general, a range of 0.5 to 1.4 is considered insulin-sensitive, with
 scores of 1 or lower considered optimal).
 
-For ease of consumption, here are my three recent readings that contain either fasting glucose or fasting insulin or both.
+For ease of consumption, here are my four recent readings that contain either fasting glucose or fasting insulin or both.
 
 Reading date | Fasting glucose (mg/dL) | Fasting insulin (uIU/mL) | HOMA-IR (less than 1 is optimal, less than 1.4 is good, less than 2 is okay)
 -- | -- | -- | --
+2025-01-22 (January 2025) | 83 | N/A | can't calculate
 2024-12-13 (December 2024) | 85 | N/A | can't calculate
 2024-09-03 (September 2024) | 85 | 4.6 | 0.97
 2021-06-30 (June 2021) | N/A | 3.6 | can't calculate, but if glucose were <= 100 mg/dL (which I expect it would have been), I would be in the optimal range
@@ -412,7 +413,7 @@ measurement:
   at roughly yearly granularity.
 
 * LP-IR calculation: I plan to get a NMR lipoprofile (that includes
-  the LP-IR score) about once a year. This wiill give a time seies of
+  the LP-IR score) about once a year. This wiill give a time series of
   LP-IR at roughly yearly granularity.
 
 * TG/HDL-C ratio calculation: I plan to get a lipid panel (either a basic one or
@@ -446,6 +447,7 @@ measurement tool or a continuous glucose monitor yet.
 
 Reading date | Blood glucose (mg/dL) | Hours since last meal (12 or more is considered fasting)
 -- | -- | --
+2025-01-22 (January 2025) | 83 | 15.5
 2024-12-13 (December 2024) | 85 | 15
 2024-09-03 (September 2024) | 85 | 15
 2024-04-30 (April 2024) | 92 | 6.5
@@ -693,11 +695,25 @@ control](#insulin-sensitivity-and-glycemic-control), I don't have
 insulin resistance yet, and my glucose seems to be normal, so this is
 not adding to my atherosclerotic risk.
 
-#### Homocysteine: I haven't measured it yet
+#### Homocysteine aka homocystine
 
-Homocysteine can cause endothelial dysfunction. I haven't measured my
-homocysteine levels yet, so I don't have a clear picture of how I
-stack up on this measure.
+While the official reference interval for homocysteine is 0 to 14.5
+umol/L, the ideal range is around 6 to 8 umol/L, with some efforts to
+increae it starting when it consistently reads below 6, and efforts to
+decrease it starting when it consistently reads above 8.
+
+My readings so far suggest my homocysteine is mildly elevated relative
+to the ideal, but still within the reference interval. Since my B12
+reading is at the high end of normal, it doesn't seem that B12
+deficiency is responsible for homocysteine elevation.
+
+Reading date | Homocysteine (umol/L)
+-- | --
+2025-01-22 (January 2025) | 10.4
+
+Plan for followup measurement and actions: I want to get another
+homocysteine reading about a year after the first reading, then
+investigate further it if gets a lot higher than the current value.
 
 #### Uric acid: I haven't measured it yet
 
