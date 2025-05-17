@@ -55,6 +55,9 @@ Sections of this document:
   * Liver status (include ALT and AST measurements, MADLD chances, insulin sensitivity implications, info from DEXA scan if I get it)
   * [Kidney status](#kidney-status)
     * [GFR estimation](#gfr-estimation)
+    * [Urinalysis](#urinalysis)
+    * [Metabolic panel](#metabolic-panel)
+    * [Urine quantity and pattern](#urine-quantity-and-pattern)
   * Lung status (I haven't done any pulmonary function tests, so inferences will be indirect)
   * Heart status (I don't have much to go on except measurement of vitals and general lifestyle info)
 * Lifestyle factors
@@ -912,6 +915,104 @@ show a clear trend line.
 I plan to get a cystatin C measurement every 2 to 3 years to get a
 clear picture of the trend. I will also continue monitoring my
 metabolic panel for any other evidence of impaired kidney function.
+
+### Urinalysis
+
+I had a urinalysis done in June 2005 and then another done in April
+2024. The things tested were different the two times. In any case,
+neither urinalysis flagged any issues with the urine.
+
+### Metabolic panel
+
+I started getting a comprehensive metabolic panel as part of my blood
+tests in April 2024. Part of a comprehensive metabolic panel is the
+basic metabolic panel, that includes measurements of various key
+electrolytes including sodium, potassium, chloride, and bicarbonate.
+
+For all of these, I've always stayed within range. For sodium, all
+readings have been close to the middle of the range, which is as
+expected for a well-functioning system, since sodium concentration is
+the most tightly regulated. The range is about 134-144 mmol/L.
+
+Below are my four most recent sodium readings:
+
+Reading date | Sodium measurement (mmol/L)
+-- | --
+2025-01-22 (January 2025) | 141
+2024-12-13 (December 2024) | 139
+2024-09-03 (September 2024) | 139
+2024-04-30 (April 2024) (not fasting) | 140
+
+For chloride, I have stayed within the range of about 96 to 106 mmol/L
+and generally been in the upper half of the range, with decent
+fluctuation.
+
+Reading date | Chloride measurement (mmol/L)
+-- | --
+2025-01-22 (January 2025) | 103
+2024-12-13 (December 2024) | 101
+2024-09-03 (September 2024) | 103
+2024-04-30 (April 2024) (not fasting) | 105
+
+Potassium is a little less tightly controlled, with a range of 3.5 to
+5.2 mmol/L. I've generally stayed around the middle of this wide range.
+
+Reading date | Potassium measurement (mmol/L)
+-- | --
+2025-01-22 (January 2025) | 4.4
+2024-12-13 (December 2024) | 4.3
+2024-09-03 (September 2024) | 4.5
+2024-04-30 (April 2024) (not fasting) | 4.1
+
+Bicarbonate also has a wide range. Mine has generally been in the
+upper half of the range, which might be correlated to my efforts to
+maintain high CO2 tolerance through breath holds. However, the
+individual readings don't correlate very closely with my breath hold
+max-pause duration; specifically, my max-pause duration generally
+increased from April 2024 to January 2025, and yet the bicarbonate
+measurement appears to have dropped and then risen. So it's not a very
+precise and faithful correlate of breath hold max-pause duration.
+
+The range of acceptable bicarbonate is about 20 to 30 mmol/L.
+
+Reading date | Bicarbonate measurement (mmol/L)
+-- | --
+2025-01-22 (January 2025) | 27
+2024-12-13 (December 2024) | 25
+2024-09-03 (September 2024) | 29
+2024-04-30 (April 2024) (not fasting) | 30
+
+### Urine quantity and pattern
+
+My urine is generally yellow in color (as also confirmed in both the
+urinalyses that have been done). I've noticed a neon-green color as a
+result of taking a B complex supplement, for a few hours after taking
+the supplement. I don't take this supplement regularly.
+
+I generally urinate about 8 to 10 times a day.
+
+These are the 7 scheduled/trigger-based time points, where I'll
+generally go to urinate even if I don't feel a strong urge (although
+in warmer climates I may skip some of the pre-meal and post-meal ones):
+
+* Once after waking up (1 time total)
+
+* Once before eating for each meal (2 times total)
+
+* Once after eating and post-meal cleanup (2 times total)
+
+* Once before going jogging in the morning (1 time total)
+
+* Once as I wrap up to go to sleep (1 time total)
+
+Additional ones:
+
+* Once or twice at other times during the day, usually about 1.5 to 3
+  hours after the last scheduled time, or in some cases earlier if I
+  am preparing to go out.
+
+* One urination mid-sleep, generally in colder weather. The colder the
+  weather, the earlier in my sleep I'll do the mid-sleep urination.
 
 ## Lifestyle
 
