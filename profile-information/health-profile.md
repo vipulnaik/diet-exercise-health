@@ -45,7 +45,7 @@ Sections of this document:
   * [Insulin sensitivity and glycemic control](#insulin-sensitivity-and-glycemic-control) (these help determine the chances of getting to diabetes)
   * [Atherosclerotic risk](#atherosclerotic-risk)
   * [Metabolic syndrome evaluation](#metabolic-syndrome-evaluation)
-  * Markers of internal inflammation (section to be written; this has a lot of overlap with the atherosclerotic risk section insofar as many markers of internal inflammation are also contributors to atherosclerotic risk)
+  * [Markers of internal inflammation](#markers-of-internal-inflammation)
   * [Hormones](#hormones)
 * Upcoming sections to be written around internal organs, will cover
   what I can gather from measurements taken in my blood tests as well
@@ -697,6 +697,9 @@ not adding to my atherosclerotic risk.
 
 #### Homocysteine aka homocystine
 
+Elevated homocysteine levels are a potential causal factor for the
+sort of inflammation that could increase atherosclerotic risk.
+
 While the official reference interval for homocysteine is 0 to 14.5
 umol/L, the ideal range is around 6 to 8 umol/L, with some efforts to
 increae it starting when it consistently reads below 6, and efforts to
@@ -717,9 +720,21 @@ investigate further it if gets a lot higher than the current value.
 
 #### Uric acid: I haven't measured it yet
 
-Uric acid can cause endothelial dysfunction. I haven't measured my
-uric acid levels yet, so I don't have a clear picture of how I stack
-up on this measure.
+Elevated uric acid levels are a potential causal factor for
+inflammation that could increase atherosclerotic risk.
+
+The reference range is between 3.8 and 8.4 mg/dL.
+
+I've had one uric acid reading so far, and it has coem out normal.
+
+Reading date | Uric acid (mg/dL)
+-- | --
+2025-01-22 (January 2025) | 5.7
+
+### General inflammation
+
+See the later section [Markers of internal
+inflammation](#markers-of-internal-inflammation).
 
 ## Metabolic syndrome evaluation
 
@@ -743,6 +758,26 @@ the conditions for metabolic syndrome:
 
 * Waist size: At 28 inches, my waist size is well below the thresholf
   of 40 inches.
+
+## Markers of internal inflammation
+
+### C-reactive protein
+
+C-reactive protein (CRP) is an acute phase reactant that is considered
+a good marker of inflammation. Acutely high levels (generally, greater
+tha 3 mg/L, though often even more than 10 mg/L) are indicative of
+current or recent infection. Moderately high levels (greater than 1
+mg/L) outside of the context of infection are indicative of high
+levels of inflammation that predict increased atherosclerotic risk, as
+the inflammation eggs on the process of plaque formation.
+
+So far, I have one reading of CRP showing it to be fairly low, and
+therefore suggestive that inflammation is not contributing to
+atherosclerotic risk for me.
+
+Reading date | C-reactive protein (mg/L)
+-- | --
+2025-01-22 (January 2025) | 0.24
 
 ## Hormones
 
