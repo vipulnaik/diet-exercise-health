@@ -380,6 +380,12 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('January 2025 LabCorp tests','Prostate-specific Ag','ng/mL',0,4.0,0.2,'Normal','I measured prostate-specific Ag (PSA) to start a series of regular measurements that would be helpful in monitoring for prostate issues such as prostate cancer and BPH. The initial reading came out to a fairly low value suggesting that I am starting from a relatively clean slate.'),
   /* January 2025 cardiac c-reactive protein */
   ('January 2025 LabCorp tests','C-reactive protein','mg/L',0,3.0,0.24,'Normal','This was a first measurement of C-reactive protein (CRP). CRP is an acute phase reactant that does a decent job at measuring system-wide inflammation. It''s highly elevated in case of acute infections, but moderate elevations below the level seen in infections can signal cardiovascular risk. My CRP reading was on the low end of normal, indicating that I don''t have this particular contributing factor to cardiovascular risk.'),
+  /* January 2025 homocysteine */
+  ('January 2025 LabCorp tests','Homocysteine','umol/L',0,14.5,10.4,'Normal','This was a first measurement of homocysteine. Elevated homocysteine is a contributor to inflammation that can increase atherosclerotic risk. My homocysteine reading was within range, but a little higher than the optimal range of 6 to 8.'),
+  /* January 2025 uric acid */
+  ('January 2025 LabCorp tests','Uric acid','mg/dL',3.8,8.4,5.7,'Normal','This was a first measurement of uric acid. Elevated uric acid levels can cause various complications including gout and uric acid stones, as well as increase inflammation that can contribute to atherosclerotic risk. My uric acid reading came out normal.'),
+  /* January 2025 creatine kinase */
+  ('January 2025 LabCorp tests','Creatine kinase','U/L',49,439,186,'Normal','This was a first measurement of creatine kinase. Elevated creatine kinase levels can indicate issues of muscle breakdown, and happen in rhabdomyolysis. My CK levels were normal.'),
   /* April 2024 Sutter Health lipase (not fasting; 6.5 hours after meal) */
   ('April 2024 Sutter Health blood tests','Serum lipase','IU/L',13,77,30,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   /* April 2024 Sutter Health urine (not fasting; 6.5 hours after meal) */
