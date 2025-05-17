@@ -690,5 +690,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-05-14','Sofit Soya 180 ml',1,2,'2025-05-14',2),
   ('2025-05-15','Sofit Soya 180 ml',1,2,'2025-05-15',2), /* first meal was outside so no soya milk there */
   ('2025-05-16','Sofit Soya 180 ml',1,1,'2025-05-16',1),
-  ('2025-05-16','Sofit Soya 180 ml',1,2,'2025-05-16',2);
+  ('2025-05-16','Sofit Soya 180 ml',1,2,'2025-05-16',2),
+  ('2025-05-16','Urban Platter Sushi Nori Seaweed',1,2,NULL,NULL),
+  ('2025-05-17','Sofit Soya 180 ml',1,1,'2025-05-17',1);
   /* Double-check the date before committing */
