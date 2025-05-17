@@ -232,7 +232,7 @@ once it is done.
   current status of my dental health. Look in the folder
   `events/<year>` for files with the word `dental-cleaning` in them to
   locate the most recent appointment. As of the last edit of this
-  document, [this](../events/2024/2024-10-09-dental-cleaning.md) is my
+  document, [this](../events/2025/2025-04-16-dental-cleaning.md) is my
   most recent appointment.
 
 * All four of my wisdom teeth have been removed. The removal was done
