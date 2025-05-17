@@ -600,10 +600,11 @@ standing-on-one-leg-with-eyes-closed, and
 standing-on-toes-with-eyes-closed. I continued to skip strength
 exercises as my strength gradully returned post-travel.
 
-## 2025-05-09 and 2025-05-12: skipped all exercises to save time and energy for outside trips
+## 2025-05-09, 2025-05-12, and 2025-05-15: skipped all exercises to save time and energy for outside trips
 
-On Friday 2025-05-09 and Monday 2025-05-12, I skipped all exercises to
-save tim and energy for outside trips on the respective days.
+On Friday 2025-05-09, Monday 2025-05-12, and Thursday 2025-05-15, I
+skipped all exercises to save tim and energy for outside trips on the
+respective days.
 
 ## 2025-05-13: resumed strength exercises
 
