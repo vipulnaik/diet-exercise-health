@@ -53,7 +53,8 @@ Sections of this document:
   picture both of the current health and of the trajectory of my liver
   health.
   * Liver status (include ALT and AST measurements, MADLD chances, insulin sensitivity implications, info from DEXA scan if I get it)
-  * Kidney status (include GFR estimation, urine evaluation, inferences from CMP)
+  * [Kidney status](#kidney-status)
+    * [GFR estimation](#gfr-estimation)
   * Lung status (I haven't done any pulmonary function tests, so inferences will be indirect)
   * Heart status (I don't have much to go on except measurement of vitals and general lifestyle info)
 * Lifestyle factors
@@ -846,6 +847,71 @@ time I measured them. For T3 uptake, the one reading I have from
 December 2024 is just slightly below range, which could be due to low
 T3 or high TBG. I plan to add in TBG with my next thyroid panel so
 that I have more clarity on this aspect.
+
+## Kidney status
+
+### GFR estimation
+
+A key measurement associated with kidney function is the glomerular
+filtration rate (GFR) which is the rate at which blood is filtered
+into the kidneys. The GFR needs to be sufficiently high for the
+kidneys to perform their function of clearing out water and waste
+products from the bloodstream. GFR varies throughout the day, and
+direct measurement of it is pretty difficult, so in practice the way
+it's estimated is by using the level of biomarkers in the blood.
+
+Two biomarkers used to assess the average GFR are creatinine and
+cystatin C. In both cases, the lower the level of the biomarker, the
+higher the estimated GFR.
+
+Creatinine is the more traditional biomarker, and is included as part
+of the basic metabolic panel (BMP) as well as the comprehensive
+metabolic panel (CMP). The main issue with creatinine is that its
+level can vary across individuals and across time for a given
+individual for reasons unrelated to kidney function, that are not easy
+to capture in the formula. In particular, higher muscle mass tends to
+correlate with more creatinine, because creatinine is a waste product
+of creatine that is involved in muscles. Conversely, low muscle mass
+can correlate with low creatinine.
+
+Cystatin C is a better biomarker that doesn't vary much for reasons
+other than kidney function, so it's considered a better marker of
+kidney function in general. In cases where cystatin C and creatinine
+give very different estimates of GFR, the estimate from cystatin C is
+considered the more reliable one and the estimate from creatinine can
+essentialy be discarded.
+
+In my case, I have gotten a GFR estimate using cystatin C just once,
+whereas I've gotten several GFR estimates using creatinine. The GFR
+estimate using cystatin C is 88, whereas the ones using creatinine
+have been in excess of 110, due to lower-than-usual creatinine levels
+which might be related to low overall muscle mass.
+
+Below are my recent readings:
+
+Reading date | Type of measurement | eGFR (mL/min/1.73 m^2)
+-- | -- | --
+2025-01-22 (January 2025) | cystatin C | 88
+2025-01-22 (January 2025) | creatinine | 121
+2024-12-13 (December 2024) | creatinine | 119
+2024-09-03 (September 2024) | creatinine | 114
+2024-04-30 (April 2024) | creatinine | 113
+2016-12-12 (Decemeber 2016) | creatinine | 133
+
+Based on the general guidance, I am inclined to discard the
+creatinine-based estimates and focus on the cystatin C-based
+estimate. The estimate of 88, which still well above the stage where
+it suggests impaired kidney function, is still mildly concerning for
+my age, because it suggests that I don't have a lot of buffer room
+till I get to the concerning level of around 59. With that said, I
+currently have just one data point and it's definitely not enough to
+show a clear trend line.
+
+#### Plan for followup measurements and actions
+
+I plan to get a cystatin C measurement every 2 to 3 years to get a
+clear picture of the trend. I will also continue monitoring my
+metabolic panel for any other evidence of impaired kidney function.
 
 ## Lifestyle
 
