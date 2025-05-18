@@ -715,7 +715,7 @@ Plan for followup measurement and actions: I want to get another
 homocysteine reading about a year after the first reading, then
 investigate further it if gets a lot higher than the current value.
 
-#### Uric acid: I haven't measured it yet
+#### Uric acid
 
 Elevated uric acid levels are a potential causal factor for
 inflammation that could increase atherosclerotic risk.
