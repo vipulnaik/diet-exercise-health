@@ -1,5 +1,7 @@
 # Dental self-exam checklist
 
+Execution log is [here](../logs/dental-self-exam-checklist-log.md).
+
 - [ ] Examine teeth in mirror; look for things like stains, plaque, and recession
   - For front teeth, look in the normal mirror, using the hands to pull parts of the mouth to get a better view
   - For back teeth, open mouth wide; use the dental mirror particularly for the back middle teeth and to get an additional angle on the back side teeth (the back side teeth can be partly viewed directly in the mirror if the mouth is wide open)

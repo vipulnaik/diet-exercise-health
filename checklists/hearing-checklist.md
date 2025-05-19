@@ -1,5 +1,7 @@
 # Hearing checklist
 
+Execution log is [here](../logs/hearing-checklist-log.md).
+
 - Run through and record results for online hearing test at https://www.resound.com/en-us/online-hearing-test (using normal headphones for air conduction and bone conduction headphones for bone conduction) in SQL; compare with the previous results to see if there is any concerning loss of hearing, and if so, schedule a followup test for a week later
   - [ ] Put on normal headphones
   - [ ] Make sure that the volume of the computer is set to max

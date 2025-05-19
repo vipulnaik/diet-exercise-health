@@ -235,6 +235,40 @@ once it is done.
   document, [this](../events/2025/2025-04-16-dental-cleaning.md) is my
   most recent appointment.
 
+* My dental hygiene practices are as follows:
+
+  * I brush teeth once in the morning (before eating) and once about 2
+    to 4 hours after each meal (I have two meals, so that's 3 times a
+    day brushing in total).
+
+    I mostly use a stannous fluoride toothpaste (Colgate), though I
+    may on occasion use a sodium fluoride toothpaste when a stannous
+    fluoride toothpaste is unavailable.
+
+    About once every 2 to 5 days, I add a small amount of baking soda
+    toothpaste when brushing.
+
+    When brushing, I cover my front and back teeth with several
+    strokes, my tongue with a few strokes, and do a light run over my
+    gums and cheek.
+
+  * I floss and rinse (with saltwater) about 15 to 45 minutes after
+    the completion of each meal (generally, I do this after finishing
+    the rest of post-meal cleanup), so I floss twice a day and rinse
+    twice a day. I use an interdental brush for flossing for one meal
+    per day and a floss pick for flossing for the other meal. When
+    using the interdental brush, I floss before rinsing, whereas when
+    using the floss pick, I rinse before flossing. For rinsing, I use
+    saltwater; I don't use a mouthwash.
+
+* Additionally, I execute the [dental self-exam
+  checklist](../checklists/dental-self-exam-checklist.md) every 2 to 4
+  months and also try to execute it before and after each dental
+  cleaning, time permitting. The execution log is
+  [here](../logs/dental-self-exam-checklist-log.md).
+
+Some historical information:
+
 * All four of my wisdom teeth have been removed. The removal was done
   in 2023: [overall doc](../events/2023/2023-wisdom-tooth-removal.md), [left
   side](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md), and [right
@@ -262,6 +296,34 @@ once it is done.
   last major edit of this document,
   [this](../events/2023/2023-10-04-eye-exam.md) is my most recent eye
   exam.
+
+* I don't have a regular protocol for eye care the way I do for dental
+  care, but I do try to do a few things as part of my ongoing routine:
+
+  * UV exposure: I wear sunglasses when going for shopping in bright
+    sunlight, but not when I go jogging. So, I get about 15 to 25
+    minutes of sunlight exposure from jogging, which is a safe and
+    desirable level, but not a lot more even if I have longer shopping
+    trips.
+
+  * After concentrated sessions on the computer, I try to refocus my
+    gaze at a medium distance (about 5 feet or more) as well as long
+    distance (outdoors, looking somewhere between 0.1 miles and a
+    mile).
+
+  * When I go out, as part of regular traffic monitoring, I look at
+    the horizon of the road, which can vary from about 0.1 miles to
+    half a mile depending on location.
+
+  * I also exercise caution around my photosensitivity as discussed
+    below and in the [best practices around
+    light](../best-practices/best-practices-around-light.md).
+
+* I execute the [vision checklist](../checklists/vision-checklist.md)
+  every 2 to 4 months. The execution log is
+  [here](../logs/vision-checklist-log.md). I might also execute
+  portions of the vision checklist (such as trying to read license
+  plates) at random points in between.
 
 * I have some issues with distance vision, as evinced in the eye exam
   results. Since I don't drive, and the issues haven't gotten in my
@@ -294,14 +356,26 @@ once it is done.
 
 ## Ears and hearing status
 
-I experienced reduced hearing in my left ear starting
-2024-11-29. After a bunch of at-home testing, I booked an audiological
-evaluation appointment for 2025-01-15. At the appointment, we decided
-to just do earwax removal instead of a hearing test, with the plan
-being for me to do a followup at-home hearing test and book an
-appointment for a hearing test + further evaluation if I continued to
-have issues. The at-home testing I did after the appointment suggested
-that the reduced hearing in my left ear had been resolved.
+* I execute the [hearing
+  checklist](../checklists/hearing-checklist.md) every 2 to 4
+  months. The execution log is
+  [here](../logs/hearing-checklist-log.md). I also try to do quick
+  tests of parts of the hearing checklist more frequently, for
+  instance, testing for minimum audible volume while I am listening to
+  videos.
+
+* I exercise caution in terms of exposing myself to loud noises and to
+  extended periods of listening to stuff.
+
+Most recent specific incident: I experienced reduced hearing in my
+left ear starting 2024-11-29. After a bunch of at-home testing, I
+booked an audiological evaluation appointment for 2025-01-15. At the
+appointment, we decided to just do earwax removal instead of a hearing
+test, with the plan being for me to do a followup at-home hearing test
+and book an appointment for a hearing test + further evaluation if I
+continued to have issues. The at-home testing I did after the
+appointment suggested that the reduced hearing in my left ear had been
+resolved.
 
 Related documents:
 
