@@ -391,6 +391,10 @@ apply vaseline lotion to my legs daily and to my hands (just the
 hands, not the forearms) several times a day. With moderate care, I don't
 have any noticeable skin issues.
 
+For evaluation, I execute the [skin
+checklist](../checklists/skin-checklist.md) every 2 to 4 months. The
+execution log is [here](../logs/skin-checklist-log.md).
+
 ## Insulin sensitivity and glycemic control
 
 You can get full details
