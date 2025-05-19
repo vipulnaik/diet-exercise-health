@@ -220,6 +220,15 @@ the dental cleaning, I should note key points to myself to be fleshed
 out later. The dental self-exam checklist execution can be deferred by
 up to one week.
 
+For documentation, a few things to make sure to cover in addition to
+writing the document itself:
+
+* Include in the year's activity tracker and link from the activity
+  tracker to the doc
+* Add row to [doctor_visits.sql](../sql/doctor_visits.sql)
+* Update latest dental cleaning link in
+  [health-profile.md](../profile-information/health-profile.md)
+
 ### (recovery / local rest + reduced capacity + increased injury risk) Reminder to drink plenty of water and keep my talking load low for the two days after the appointment (to minimize and better address the risk of excess salivation)
 
 I should closely monitor my saliva levels for the two days after the

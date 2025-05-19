@@ -175,3 +175,12 @@ special considerations or thoughts beyond just the execution of the
 instructions in this best practices doc. This is the document that I
 will continue to update and expand upon over time, with the bulk of
 the expansion happening after the audiological evaluation appointment.
+
+For documentation, a few things to make sure to cover in addition to
+writing the document itself:
+
+* Include in the year's activity tracker and link from the activity
+  tracker to the doc
+* Add row to [doctor_visits.sql](../sql/doctor_visits.sql)
+* Update latest audiological evaluation link in
+  [health-profile.md](../profile-information/health-profile.md)
