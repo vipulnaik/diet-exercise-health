@@ -777,7 +777,7 @@ sort of inflammation that could increase atherosclerotic risk.
 
 While the official reference interval for homocysteine is 0 to 14.5
 umol/L, the ideal range is around 6 to 8 umol/L, with some efforts to
-increae it starting when it consistently reads below 6, and efforts to
+increase it starting when it consistently reads below 6, and efforts to
 decrease it starting when it consistently reads above 8.
 
 My readings so far suggest my homocysteine is mildly elevated relative
@@ -818,8 +818,8 @@ the conditions for metabolic syndrome:
 
 * Hypertension: My blood pressure is well below 120/80.
 
-* Hyperglycemia: My blood glucose was measured as normal in December
-  2024 and September 2024 (both fasting) and April 2024 (6.5 hours
+* Hyperglycemia: My blood glucose was measured as normal in January 2025, December
+  2024, and September 2024 (all fasting) and April 2024 (6.5 hours
   after meal), and proxy measures based on HbA1c also suggest that
   it's normal.
 
