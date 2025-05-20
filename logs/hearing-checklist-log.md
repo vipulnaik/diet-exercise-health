@@ -1,6 +1,7 @@
 # Hearing checklist log
 
-This is the execution log for the [hearing checklist](../checklists/hearing-checklist.md).
+This is the execution log for the [hearing
+checklist](../checklists/hearing-checklist.md).
 
 ## 2025-02-23
 

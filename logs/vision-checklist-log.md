@@ -1,6 +1,7 @@
 # Vision checklist log
 
-This is the execution log for the [vision checklist](../checklists/vision-checklist.md).
+This is the execution log for the [vision
+checklist](../checklists/vision-checklist.md).
 
 ## 2024-10-17
 
