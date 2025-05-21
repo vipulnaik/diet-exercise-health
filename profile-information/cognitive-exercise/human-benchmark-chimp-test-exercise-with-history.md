@@ -119,3 +119,5 @@ transform the stored sequence to account for the disappearances.
   percentile. Not much has changed qualitatively since the last update
   on 2025-01-16; I've just gotten a little bit better and shed the
   older, lower scores from the moving average.
+
+* 2025-05-21: I haven't played since 2025-02-18.

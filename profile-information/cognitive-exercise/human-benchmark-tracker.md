@@ -46,3 +46,13 @@ quite a bit:
 * Aim trainer: 705 ms moving average, placing me at the 4.34th
   percentile. Not much has changed qualitatively since the last update
   on 2024-10-15.
+
+## 2025-05-21
+
+* Visual memory: 11.0 points moving average, placing me at the 40.53th
+  percentile. Not much has changed qualitatively since the last update
+  on 2025-02-18.
+
+* Aim trainer: 713 ms moving average, placing me at the 4.34th
+  percentile. Not much has changed qualitatively since the last update
+  on 2025-02-18.

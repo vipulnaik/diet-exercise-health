@@ -71,3 +71,7 @@ My goal is to play about 1-3 times a week.
   it takes to get a high score (110 or higher), and what sorts of
   flustering cause me to get a score in the 90s, but I don't have a
   consistent way of applying the insight to always get a high score.
+
+* 2025-05-21: 104 wpm moving average, placing me at the 97.15th
+  percentile. Not much has changed since the last update on
+  2025-04-23.

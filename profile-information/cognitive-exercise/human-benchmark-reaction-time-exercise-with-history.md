@@ -91,3 +91,7 @@ back up to the 250 to 300 ms range.
   general I'm a little faster in the morning than the evening, but I
   do feel like I am experiencing a slight overall improvement at least
   in the consistency with which I can get good latencies.
+
+* 2025-05-21: 268 ms moving average, placing me at the 19.12th
+  percentile. A few plays when fatigued have brought the average down;
+  the overall skill level remains similar to before.

@@ -80,3 +80,11 @@ in the day, for instance, in the evening, after my
 * 2025-02-18: 137.2 points moving average, placing me at the 97.24th
   percentile. Not much has changed qualitatively since the last update
   on 2025-01-16.
+
+* 2025-05-21: 116.4 points moving average, placing me at the 95.05th
+  percentile. My scores here are highly variable, and hence so is the
+  moving average; overall I don't think there has been a skill
+  decline. I achieved several low scores during the timezone
+  adjustment phase (jetlag recovery) but have since returned to
+  normal. I also got my highest ever verbal memory score of 345 on
+  2025-05-19.

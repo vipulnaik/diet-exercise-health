@@ -64,3 +64,8 @@ when I have at least 10 minutes to spare.
 * 2025-04-23: 18.4 points moving average, placing me at the 99.37th
   percentile. My four scores since 2025-02-18 have been 19, 19, 16,
   and 19.
+
+* 2025-05-21: 16.2 points moving average, placing me at the 98.93th
+  percentile. The average is brought down partly by a couple of scores
+  (15 and 13) during the timezone adjustment phase after
+  travel. Overall, I think I am fairly steady in my performance here.

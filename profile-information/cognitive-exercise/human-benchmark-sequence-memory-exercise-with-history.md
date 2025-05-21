@@ -198,3 +198,8 @@ It's important to go slow when clicking. In particular:
   percentile. The trend remains similar to before, and I continue to
   in some cases deliberately fail games after getting a high enough
   score.
+
+* 2025-05-21: 37.4 points moving average, placing me at the 99.85th
+  percentile. I haven't played the game much, largely due to its
+  extensive time demands and because I've essentially cracked the code
+  for it. There are no qualitative changes since last time.
