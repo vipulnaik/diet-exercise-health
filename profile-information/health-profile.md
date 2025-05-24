@@ -4,7 +4,7 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
-Last substantive minor update: May 17, 2025
+Last substantive minor update: May 19, 2025
 
 This is the health profile for Vipul Naik, an adult male in his late
 30s (born 1986). It is updated periodically. It does not include
