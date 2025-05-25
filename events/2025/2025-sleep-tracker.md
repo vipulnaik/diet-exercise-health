@@ -520,3 +520,57 @@ think the increased sleep need is temperature-driven.
 It is not clear to me whether the increased sleep need reflects some
 health issue or internal healing that needs extra sleep, or whether
 there is some subtle sleep backlog.
+
+## 2025-04-19 to 2025-05-18: sleep cycle adjustment before and after travel to India
+
+From 2025-04-19 to 2025-05-02, I gradually shifted my sleep cycle so
+that my time of waking up in the morning was earlier, so as to give
+myself enough time to wrap things up in the morning before flying out
+to Bengaluru.
+
+From 2025-05-04 to 2025-05-18, I gradually adjusted my sleep cycle to
+match Indian Standard Time. While I was able to get my sleep cycle to
+a reasonable semblance of Indian Standard Time, I couldn't quite
+figure out a way to be able to stay up late (to coordinate with the
+morning time for work meetings in the US) while being attentive,
+without feeling sleepy the next day.
+
+More details of my sleep cycle adjustment process are in my travel records.
+
+A few general notes:
+
+* I experienced more hand/arm fatigue during the adjustment phases,
+  both before going to India and after arriving in India. I think this
+  was partly due to other factors, but the stress placed on my hands
+  and arms to keep me upright when my body wanted to go to sleep were
+  probably a contributing factor, particularly for the India portion
+  of it.
+
+* I experienced stronger bowel pressure upon waking up, both during
+  the adjustment phase in Berkeley and in India (both during and after
+  the adjustment phase). One quantification of this is that the time
+  from waking up to bowel movement reduced. It's unclear how much is
+  due to sleep cycle adjustment versus differences in the weather
+  pattern and in my diet.
+
+## 2025-05-22 night to 2025-05-25 morning
+
+On Thursday 2025-05-22 going past midnight into Friday 2025-05-23,
+despite feeling sleepy, I stayed up for a work meeting till around 1
+AM. I went to sleep at 1:21 AM. I woke up at 8:17 AM after a mid-sleep
+urination at 7:12 AM.
+
+The next few days, I felt a crash of sleepiness a little earlier than
+I had been feeling it. I had a case of flagging attention around 9:25
+PM on Friday 2025-05-23, and ultimately went to sleep at 10:20 PM. I
+woke up at 7:46 AM after mid-sleep urination at 3:54 AM.
+
+On Saturday 2025-05-24, I made a point of prepping to go to sleep
+before the crash started impacting my work. I ended up going to sleep
+at 9:57 PM. I woke up for mid-sleep urination at 3:50 AM and then woke
+up at 5:47 AM. I wasn't sure if I should properly wake up this time,
+but ultimately decided to. I had a bowel movement and then started
+work. But around 7:37 AM, after getting some stuff started that was
+running in the background, I decided to rest in bed for a little
+longer. So I rested in bed in a semi-sleepy state from 7:37 AM to 8:49
+AM.
