@@ -5,6 +5,13 @@ Last major update: September 23, 2023
 Last pass of full document review (with updates and corrections where
 needed): October 17, 2024
 
+NOTE ADDED 2025-05-26: I have been keeping the document up-to-date,
+making changes whenever I add aa new exercise to my regular routine,
+and updating any information included here when it changes for the
+linked exercise. So, even though the last pass of full document review
+may be far in the past, the document should be assumed to be close to
+up-to-date.
+
 This document describes my exercise routine. I intend to update it
 when there are changes to my ongoing routine. See also my yearly
 exercise tracker docs (such as
@@ -27,6 +34,7 @@ Sections of this document:
 * [Pull-ups](#pull-ups)
 * [Breath holds](#breath-holds)
 * [Humming with intermittent pauses](#humming-with-intermittent-pauses)
+* [Incentive spirometry](#incentive-spirometry)
 * [Deliberate falling practice](#deliberate-falling-practice)
 * [Neck strength exercises](#neck-strength-exercises)
 
@@ -282,6 +290,12 @@ Goal of exercise: build (I have a long way to go)
 See
 [here](humming-with-intermittent-pauses-with-history.md)
 for more background information.
+
+## Incentive spirometry
+
+I have not yet codified this into a regular exercise, but have started
+taking notes of occasional execution
+[here](incentive-spirometry-with-history.md).
 
 ## Deliberate falling practice
 
