@@ -974,7 +974,7 @@ Reading date | Type of measurement | eGFR (mL/min/1.73 m^2)
 
 Based on the general guidance, I am inclined to discard the
 creatinine-based estimates and focus on the cystatin C-based
-estimate. The estimate of 88, which still well above the stage where
+estimate. The estimate of 88, while well above the stage where
 it suggests impaired kidney function, is still mildly concerning for
 my age, because it suggests that I don't have a lot of buffer room
 till I get to the concerning level of around 59. With that said, I
