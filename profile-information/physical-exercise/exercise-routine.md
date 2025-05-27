@@ -6,7 +6,7 @@ Last pass of full document review (with updates and corrections where
 needed): October 17, 2024
 
 NOTE ADDED 2025-05-26: I have been keeping the document up-to-date,
-making changes whenever I add aa new exercise to my regular routine,
+making changes whenever I add a new exercise to my regular routine,
 and updating any information included here when it changes for the
 linked exercise. So, even though the last pass of full document review
 may be far in the past, the document should be assumed to be close to

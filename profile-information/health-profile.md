@@ -7,10 +7,10 @@ write)
 Last substantive minor update: May 19, 2025
 
 This is the health profile for Vipul Naik, an adult male in his late
-30s (born 1986). It is updated periodically. It does not include
-details of specific events/incidents; these are generally recorded in
-their own respective files. Links to the most recent and/or relevant
-incidents are included here.
+30s / early 40s (born 1986). It is updated periodically. It does not
+include details of specific events/incidents; these are generally
+recorded in their own respective files. Links to the most recent
+and/or relevant incidents are included here.
 
 When updating this document:
 
