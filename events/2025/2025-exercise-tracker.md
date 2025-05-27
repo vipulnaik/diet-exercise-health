@@ -600,11 +600,11 @@ standing-on-one-leg-with-eyes-closed, and
 standing-on-toes-with-eyes-closed. I continued to skip strength
 exercises as my strength gradully returned post-travel.
 
-## 2025-05-09, 2025-05-12, and 2025-05-15: skipped all exercises to save time and energy for outside trips
+## 2025-05-09, 2025-05-12, 2025-05-15, and 2025-05-23: skipped all exercises to save time and energy for outside trips
 
-On Friday 2025-05-09, Monday 2025-05-12, and Thursday 2025-05-15, I
-skipped all exercises to save tim and energy for outside trips on the
-respective days.
+On Friday 2025-05-09, Monday 2025-05-12, Thursday 2025-05-15, and
+Friday 2025-05-23, I skipped all exercises to save tim and energy for
+outside trips on the respective days.
 
 ## 2025-05-13: resumed strength exercises
 
@@ -615,3 +615,16 @@ slight adaptations due to differences in the equipment available. The
 number of repetitions was a little lower than usual, reflecting that
 my return to strength was not complete after the travel and the break
 from strength exercises.
+
+## 2025-05-20 and 2025-05-26: at-home jogging
+
+On Tuesday 2025-05-20 and Monday 2025-05-26, I did at-home jogging due
+to rain and/or wet ground from recent rain. On 2025-05-26, I also
+skipped the strength exercises that would normally have been due on
+that day.
+
+## 2025-05-27: skipped jogging and strength exercises
+
+On Tuesday 2025-05-27, in India, I skipped jogging and strength
+exercises as I had spent the morning doing tax work and it was getting
+late and I didn't want to delay my meal too much.
