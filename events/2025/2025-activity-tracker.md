@@ -167,3 +167,11 @@ I made an outside trip in the morning, returning shortly after noon.
 
 I made an outside trip in the morning with my parents. We stopped at a
 mall to eat on the way back, and got back home in the afternoon.
+
+## 2025-05-23
+
+I made an outside trip in the late morning / early afternoon.
+
+## 2025-05-24
+
+I made an outside trip with my parents in the afternoon.
