@@ -1,7 +1,7 @@
 create table food_preparations_and_openings_upper_bounds(
   `food_type` varchar(200),
   `num_days` integer,
-  `quantity_upper_bound` decimal(11,2),
+  `quantity_upper_bound` decimal(8,4),
   primary key (food_type, num_days),
   constraint food_type_exists_for_upper_bound foreign key (food_type) references food_types (short_name)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
