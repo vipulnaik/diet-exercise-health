@@ -668,7 +668,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   calculate. However, a few of the items are packaged items where I
   consumed an entire package from start to finish, so I will at least
   try to record those. */
-  ('2025-05-04','Urban Platter Sauerkraut',1,1,NULL,NULL),
+  ('2025-05-04','Urban Platter Sauerkraut',1,1,'2025-05-27',1),
   ('2025-05-04','Sofit Soya 180 ml',1,1,'2025-05-05',1),
   ('2025-05-05','Sofit Soya 180 ml',1,2,'2025-05-05',2),
   ('2025-05-06','Sofit Soya 180 ml',1,1,'2025-05-06',1),
@@ -709,5 +709,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-05-24','Sofit Soya 180 ml',1,1,'2025-05-24',1),
   ('2025-05-24','Sofit Soya 180 ml',1,2,'2025-05-24',2),
   ('2025-05-25','Sofit Soya 180 ml',1,1,'2025-05-25',1),
-  ('2025-05-25','Sofit Soya 180 ml',1,2,'2025-05-25',2);
+  ('2025-05-25','Sofit Soya 180 ml',1,2,'2025-05-25',2),
+  ('2025-05-26','Sofit Soya 180 ml',1,1,'2025-05-26',1),
+  ('2025-05-26','Sofit Soya 180 ml',1,2,'2025-05-26',2),
+  ('2025-05-27','Sofit Soya 180 ml',1,1,'2025-05-27',1);
   /* Double-check the date before committing */
