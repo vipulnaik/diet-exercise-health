@@ -2,7 +2,7 @@
 
 Document written: November 26, 2024
 
-Document last updated: November 26, 2024
+Document last updated: May 29, 2025
 
 This document provides the broad contours of the strategy I am using
 to learn about my health. The majority of this health learning is
@@ -97,7 +97,10 @@ My go-to source here is [Ninja
 Nerd](https://www.youtube.com/@NinjaNerdOfficial). In cases where
 Ninja Nerd does not (yet) cover content but I want to learn it soon, I
 use other sources such as [Dr. Matt and
-Dr. Mike](https://www.youtube.com/@DrMattDrMike).
+Dr. Mike](https://www.youtube.com/@DrMattDrMike), [Dr. Najeeb
+Lectures](https://www.youtube.com/channel/UCPHpx55tgrbm8FrYYCflAHw),
+and [Medicosis
+Perfectionalis](https://www.youtube.com/@MedicosisPerfectionalis)
 
 Within Ninja Nerd, I consume the content as playlists. At any given
 time, I might be going through 3 to 5 different playlists that I can
@@ -130,7 +133,40 @@ over time.
 
 At the current rate of watching, I expect that I will be done with one
 pass of watching the bulk of the relevant content by the end of
-2026. I expect that I will be done with about two passes of watching
+2026.
+
+I'm not yet decided on whether after this first pass I should rewatch
+the same Ninja Nerd videos, or try to consume the equivalent content
+from another educator. Some of the candidates I have for this other
+educator are:
+
+* [Dr. Matt and Dr. Mike](https://www.youtube.com/@DrMattDrMike):
+  These videos tend to be much shorter than Ninja Nerd (for the same
+  topic covered), and they do a reasonable job of hitting the key
+  points, but without going into too much detail. They could help as a
+  quick review.
+
+* [THE WHITE ARMY](https://www.youtube.com/@THEWHITEARMY): These are
+  much more medical student-targeted stuff, combining textbook
+  knowledge with real-world knowledge. I've watched a few of their
+  videos since then and might watch more once I finish the first pass
+  of Ninja Nerd.
+
+* [Dr. Najeeb
+  Lectures](https://www.youtube.com/channel/UCPHpx55tgrbm8FrYYCflAHw):
+  These videos are comparable in length to Ninja Nerd. They go a
+  little less into specific details and cover a bit more of the
+  medical intuitions.
+
+* [Medicosis
+  Perfectionalis](https://www.youtube.com/@MedicosisPerfectionalis):
+  The videos have an irreverent style and do a great job communicating
+  etymological nuance and medical intuition, but may be a bit harder
+  to follow than Ninja Nerd when it comes to a more classroom-style
+  understanding. They could be interesting as a complement/followup to
+  Ninja Nerd.
+
+I expect that I will be done with about two passes of watching
 plus review, and be fairly on top of the material by the end of 2029.
 
 If my rate of watching reduces somewhat, due to changed priorities,
