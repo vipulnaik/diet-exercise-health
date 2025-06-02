@@ -221,7 +221,7 @@ once a month.
 
 Goal of exercise: maintain
 
-As of April 2025, my aim is to be able to manage at least 50 seconds
+As of June 2025, my aim is to be able to manage at least 60 seconds
 without having to lift and reposition either foot.
 
 See [here](standing-on-toes-with-eyes-closed-with-history.md) for more
