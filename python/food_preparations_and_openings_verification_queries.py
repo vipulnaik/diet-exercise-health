@@ -156,9 +156,9 @@ queries = [
 
     create table recently_prepared_and_opened_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_preparations_and_openings where least(
+    from food_preparations_and_openings where not (preparation_or_opening_date between '2025-05-04' and '2025-06-06') and least(
       datediff(curdate(), preparation_or_opening_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', preparation_or_opening_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 */
+      datediff(curdate(), '2025-06-07') + greatest(0, datediff('2025-05-02', preparation_or_opening_date)) /* this case represents the gap in comprehensive recording of food preparations and openings during my India trip */
     ) <= 42
     group by food_type;
 
@@ -166,9 +166,10 @@ queries = [
 
     create table recently_post_opening_wasted_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_waste where least(
+    from food_waste where after_preparation_or_opening
+    and not (waste_date between '2025-05-04' and '2025-06-06') and least(
       datediff(curdate(), waste_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', waste_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 */
+      datediff(curdate(), '2025-06-07') + greatest(0, datediff('2025-05-02', waste_date)) /* this case represents the gap in comprehensive recording of food preparations and openings during my India trip */
     ) <= 42
     group by food_type;
 
@@ -193,9 +194,9 @@ queries = [
 
     create table previously_prepared_and_opened_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_preparations_and_openings where least(
+    from food_preparations_and_openings where not (preparation_or_opening_date between '2025-05-04' and '2025-06-06') and least(
       datediff(curdate(), preparation_or_opening_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', preparation_or_opening_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 (both ends inclusive) */
+      datediff(curdate(), '2025-06-07') + greatest(0, datediff('2025-05-02', preparation_or_opening_date)) /* this case represents the gap in comprehensive recording of food preprations and openings during my India trip */
     ) between 43 and 85
     group by food_type;
 
@@ -203,9 +204,10 @@ queries = [
 
     create table previously_post_opening_wasted_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_waste where least(
+    from food_waste where after_preparation_or_opening
+    and not (waste_date between '2025-05-04' and '2025-06-06') and least(
       datediff(curdate(), waste_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', waste_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 (both ends inclusive) */
+      datediff(curdate(), '2025-06-07') + greatest(0, datediff('2025-05-02', waste_date)) /* this case represents the gap in comprehensive recording of food preparations and openings during my India trip */
     ) between 43 and 85
     group by food_type;
 

@@ -39,9 +39,9 @@ queries = [
 
     create table recently_purchased_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_purchases where least(
+    from food_purchases where not (purchase_date between '2025-05-04' and '2025-06-06') and least(
       datediff(curdate(), purchase_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', purchase_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 */
+      datediff(curdate(), '2025-06-07') + greatest(0, datediff('2025-05-02', purchase_date)) /* this case represents the gap in comprehensive recording of food purchases during my India trip */
     ) <= 91
     group by food_type;
 
@@ -49,9 +49,9 @@ queries = [
 
     create table recently_wasted_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_waste where least(
+    from food_waste where not (waste_date between '2025-05-04' and '2025-06-06') and least(
       datediff(curdate(), waste_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', waste_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 */
+      datediff(curdate(), '2025-06-07') + greatest(0, datediff('2025-05-04', waste_date)) /* this case represents the gap in comprehensive recording of food purchases during my India trip */
     ) <= 91
     group by food_type;
 
@@ -76,9 +76,9 @@ queries = [
 
     create table previously_purchased_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_purchases where least(
+    from food_purchases where not (purchase_date between '2025-05-04' and '2025-06-06') and least(
       datediff(curdate(), purchase_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', purchase_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 (both ends inclusive) */
+      datediff(curdate(), '2025-06-07') + greatest(0, datediff('2025-05-02', purchase_date)) /* this case represents the gap in comprehensive recording of food purchases during my India trip */
     ) between 92 and 183
     group by food_type;
 
@@ -86,9 +86,9 @@ queries = [
 
     create table previously_wasted_items_with_frequencies as
     select food_type, sum(quantity) as total_quantity, count(1) as freq
-    from food_waste where least(
+    from food_waste where not (waste_date between '2025-05-04' and '2025-06-06') and least(
       datediff(curdate(), waste_date),
-      datediff(curdate(), '2024-03-15') + greatest(0, datediff('2024-02-16', waste_date)) /* this case represents the gap in recording of food purchases during my India trip 2024-02-17 to 2024-03-15 (both ends inclusive) */
+      datediff(curdate(), '2025-06-07') + greatest(0, datediff('2025-05-04', waste_date)) /* this case represents the gap in comprehensive recording of food purchases during my India trip */
     ) between 92 and 183
     group by food_type;
 
