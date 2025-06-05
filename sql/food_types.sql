@@ -842,6 +842,8 @@ insert into food_types(short_name, long_name, notes) values
   /* pending data entry */
   ('Urban Platter Sauerkraut Raw','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage, 450g / 15.8oz [Raw, Artisanal, Plant-Based, Preservative Free]','Data at https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NC754H4/ but label is hard to read off fully; I should fill data in from the physical jar at some point. Just putting a dummy entry for now for validation.'),
   ('Sofit Soya 180 ml','SOFIT Soya Drink Naturally Sugar Free Vegan Drink Enriched With Plant Protein,Dietary Fibers,Vitamins And Calcium Lactose Free Gluten Free Preservatives Free,180 Ml / 200 Ml','See https://www.amazon.in/Naturally-Enriched-protein-vitamins-Preservatives/dp/B00NTTCZUM/ for details'),
+  ('So Good Oat Milk 200 ml','So Good Oat Beverage Unsweetened 200ml','See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D5BL419H/ for details'),
+  ('So Good Soy Milk 200 ml','So Good Soy Beverage Unsweetened 200ml','See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D4ZFVYQ9/ for details'),
   /* Udupi Palace */
   ('Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa with sambhar and white chutney (not including free red chutney)','I generally order takeout for this when going to Trader Joe''s for grocery shopping.'),
   ('Udupi Palace spinach masala dosa free red chutney','Free red chutney that accompanies Udupi Palace spinach masala dosa','I am treating this as a separate item because I generally consume it separately after finishing the rest of the food'),

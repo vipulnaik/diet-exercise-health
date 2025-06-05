@@ -722,5 +722,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-05-30','Sofit Soya 180 ml',1,1,'2025-05-30',1),
   ('2025-05-30','Sofit Soya 180 ml',1,2,'2025-05-30',2),
   ('2025-05-31','Sofit Soya 180 ml',1,1,'2025-05-31',1),
-  ('2025-05-31','Sofit Soya 180 ml',1,2,'2025-05-31',2);
+  ('2025-05-31','Sofit Soya 180 ml',1,2,'2025-05-31',2),
+  ('2025-06-01','Sofit Soya 180 ml',1,1,'2025-06-01',1),
+  ('2025-06-01','Sofit Soya 180 ml',1,2,'2025-06-01',2),
+  ('2025-06-02','Sofit Soya 180 ml',1,1,'2025-06-02',1),
+  ('2025-06-02','Sofit Soya 180 ml',1,2,'2025-06-02',2),
+  ('2025-06-03','So Good Soy Milk 200 ml',1,1,'2025-06-03',1),
+  ('2025-06-03','So Good Soy Milk 200 ml',1,2,'2025-06-03',2),
+  ('2025-06-04','So Good Soy Milk 200 ml',1,1,'2025-06-04',1),
+  ('2025-06-04','So Good Soy Milk 200 ml',1,2,'2025-06-04',2),
+  ('2025-06-05','Sofit Soya 180 ml',1,1,'2025-06-05',1);
   /* Double-check the date before committing */
