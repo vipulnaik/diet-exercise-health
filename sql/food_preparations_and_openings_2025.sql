@@ -717,7 +717,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-05-28','Sofit Soya 180 ml',1,1,'2025-05-28',1),
   ('2025-05-28','Sofit Soya 180 ml',1,2,'2025-05-28',2),
   ('2025-05-29','Sofit Soya 180 ml',1,1,'2025-05-29',1),
-  ('2025-05-29','Urban Platter Sauerkraut',1,1,NULL,NULL),
+  ('2025-05-29','Urban Platter Sauerkraut',1,1,'2025-06-05',1), /* I did not fully finish it; I left the rest behind in India for others to consume; see food_waste.sql for details */
   ('2025-05-29','Sofit Soya 180 ml',1,2,'2025-05-29',2),
   ('2025-05-30','Sofit Soya 180 ml',1,1,'2025-05-30',1),
   ('2025-05-30','Sofit Soya 180 ml',1,2,'2025-05-30',2),
@@ -732,5 +732,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-04','So Good Soy Milk 200 ml',1,1,'2025-06-04',1),
   ('2025-06-04','So Good Soy Milk 200 ml',1,2,'2025-06-04',2),
   ('2025-06-05','Sofit Soya 180 ml',1,1,'2025-06-05',1),
-  ('2025-06-05','Sofit Soya 180 ml',1,2,'2025-06-05',2);
+  ('2025-06-05','Sofit Soya 180 ml',1,2,'2025-06-05',2),
+  ('2025-06-06','Sofit Soya 180 ml',1,1,'2025-06-06',1);
   /* Double-check the date before committing */
