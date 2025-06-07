@@ -733,5 +733,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-04','So Good Soy Milk 200 ml',1,2,'2025-06-04',2),
   ('2025-06-05','Sofit Soya 180 ml',1,1,'2025-06-05',1),
   ('2025-06-05','Sofit Soya 180 ml',1,2,'2025-06-05',2),
-  ('2025-06-06','Sofit Soya 180 ml',1,1,'2025-06-06',1);
+  ('2025-06-06','Sofit Soya 180 ml',1,1,'2025-06-06',1),
+  /* Starting this point, we return to Berkeley so food preparations and openings are in Berkeley, and are expected to be comprehensive */
+  /* 2025-06-07 rice prep (second meal) (added turmeric, cumin, salt) -- note that this was my first at-home meal, but still my second meal considering the first meal was on the plane */
+  ('2025-06-07','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL);
   /* Double-check the date before committing */
