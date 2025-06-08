@@ -736,5 +736,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-06','Sofit Soya 180 ml',1,1,'2025-06-06',1),
   /* Starting this point, we return to Berkeley so food preparations and openings are in Berkeley, and are expected to be comprehensive */
   /* 2025-06-07 rice prep (second meal) (added turmeric, cumin, salt) -- note that this was my first at-home meal, but still my second meal considering the first meal was on the plane */
-  ('2025-06-07','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL);
+  ('2025-06-07','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL),
+  /* These other items were opened in that same meal; I had no cooked food other than rice so I was relying on the unprepped food, TWAMSY, to guide me; of these, T and W didn't apply: tortillas I did not have in stock, and walnuts I continued an already-opened packet */
+  ('2025-06-07','TJ Almond Milk',1,2,NULL,NULL),
+  ('2025-06-07','TJ Miso Ginger Broth',1,2,NULL,NULL),
+  ('2025-06-07','TJ Roasted Seaweed',1,2,NULL,NULL),
+  ('2025-06-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL);
+  /* Data 2025-06-08 onward */
   /* Double-check the date before committing */
