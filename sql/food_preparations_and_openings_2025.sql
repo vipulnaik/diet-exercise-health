@@ -743,5 +743,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-07','TJ Roasted Seaweed',1,2,NULL,NULL),
   ('2025-06-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
   /* Data 2025-06-08 onward */
-  ('2025-06-08','TJ Sauerkraut',1,1,NULL,NULL);
+  ('2025-06-08','TJ Sauerkraut',1,1,NULL,NULL),
+  ('2025-06-08','TJ Carb Savvy Tortillas',1,2,NULL,NULL);
   /* Double-check the date before committing */
