@@ -654,7 +654,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-28','Lundberg Sustainable California White Basmati Rice',0.9,2,'2025-05-01',2),
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-29','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-04-30',2),
-  ('2025-04-30','TJ Walnuts',1,2,NULL,NULL),
+  ('2025-04-30','TJ Walnuts',1,2,'2025-06-09',1),
   /* 2025-05-01 tomatoes prep (first meal) (added olive oil, turmeric, cumin, salt) */
   ('2025-05-01','Beefsteak tomato',3,1,'2025-05-02',1),
   /* New bottle/packet openings as the old ones finished */
@@ -741,8 +741,17 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-07','TJ Almond Milk',1,2,NULL,NULL),
   ('2025-06-07','TJ Miso Ginger Broth',1,2,NULL,NULL),
   ('2025-06-07','TJ Roasted Seaweed',1,2,NULL,NULL),
-  ('2025-06-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  ('2025-06-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-06-09',1),
   /* Data 2025-06-08 onward */
   ('2025-06-08','TJ Sauerkraut',1,1,NULL,NULL),
-  ('2025-06-08','TJ Carb Savvy Tortillas',1,2,NULL,NULL);
+  ('2025-06-08','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
+  /* 2025-06-09 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, and salt) */
+  ('2025-06-09','Eggplant',1,1,NULL,NULL),
+  ('2025-06-09','TJ Kale',1,1,NULL,NULL),
+  ('2025-06-09','TJ Carrots',1,1,NULL,NULL),
+  ('2025-06-09','Green bell pepper',4,1,NULL,NULL),
+  ('2025-06-09','Orange bell pepper',2,1,NULL,NULL),
+  ('2025-06-09','Beefsteak tomato',5,1,NULL,NULL),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-06-09','TJ Walnuts',1,1,NULL,NULL);
   /* Double-check the date before committing */
