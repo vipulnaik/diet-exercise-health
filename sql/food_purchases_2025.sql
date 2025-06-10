@@ -331,7 +331,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-06-08','Orange bell pepper',2),
   /* 2025-06-09 (Monday) Berkeley Bowl; total cost $49.15; checkout at 6:50 PM; paid by debit card; 8 items in transaction of which 5 were food items (the other 3 were Seventh Generation dish soap) */
   ('2025-06-09','Lundberg Sustainable California White Basmati Rice',3),
-  ('2025-06-09','Kite Hill Greek Style Plant-Based Yogurt',2);
+  ('2025-06-09','Kite Hill Greek Style Plant-Based Yogurt',2); /* vanilla flavor */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
