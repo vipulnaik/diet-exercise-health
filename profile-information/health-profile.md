@@ -4,7 +4,7 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
-Last substantive minor update: May 19, 2025
+Last substantive minor update: June 10, 2025
 
 This is the health profile for Vipul Naik, an adult male in his late
 30s / early 40s (born 1986). It is updated periodically. It does not
@@ -72,14 +72,18 @@ Sections of this document:
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated January 15, 2025. I hope to update this section whenever
+last updated June 10, 2025. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
 significantly. I remove from here incidents that I consider closed; I
 may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affecting my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of January 15, 2025, I have no open incidents. You can see the list
+As of June 10, 2025, I have an open incident for a [potential
+infection](../events/2025/2025-06-potential-infection.md). I expect to
+expand on this with more private notes later.
+
+You can see the list
 of incidents for 2024 in the [events/2024 folder](../events/2024), and
 the (currently empty) list of incidents for 2025 in the [events/2025
 folder](../events/2025).
