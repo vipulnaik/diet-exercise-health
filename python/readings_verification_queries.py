@@ -19,9 +19,9 @@ queries = [
 
     "select * from pulse_oximeter_readings where (within_an_hour_after_exercise or within_two_hours_after_eating) and not (heart_rate_max_bpm between 55 and 105);",
 
-    "select * from pulse_oximeter_readings where not (spo2_min between 92 and 100) and not (reading_date in ('2025-06-10'));",
+    "select * from pulse_oximeter_readings where not (spo2_min between 92 and 100) and not ((reading_date, index_within_reading_date) in (('2025-06-10',1)));",
 
-    "select * from pulse_oximeter_readings where not (spo2_max between 96 and 100) and not (reading_date in ('2025-06-10'));",
+    "select * from pulse_oximeter_readings where not (spo2_max between 96 and 100) and not ((reading_date, index_within_reading_date) in (('2025-06-10',1)));",
 ]
 
 _connection = connection.connect()
