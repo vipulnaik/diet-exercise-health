@@ -755,5 +755,5 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-09','TJ Walnuts',1,1,NULL,NULL),
   ('2025-06-09','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
-  ('2025-06-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL);
+  ('2025-06-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL); /* vanilla  flavor */
   /* Double-check the date before committing */
