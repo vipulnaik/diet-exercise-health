@@ -79,9 +79,10 @@ may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affecting my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of June 10, 2025, I have an open incident for a [potential
-infection](../events/2025/2025-06-potential-infection.md). I expect to
-expand on this with more private notes later.
+As of June 11, 2025, I have an open incident for a [respiratory
+infection (likely common
+cold)](../events/2025/2025-06-respiratory-infection-likely-common-cold.md). I
+expect to expand on this with more private notes later.
 
 You can see the list
 of incidents for 2024 in the [events/2024 folder](../events/2024), and
