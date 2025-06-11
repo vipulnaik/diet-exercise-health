@@ -40,9 +40,9 @@ I suspect an infection that my body is fighting off from the air travel I did fr
     but may still have gotten a respiratory infection given the long
     duration, unmasking for meals, etc.
 
-    * COVID-19: Negative at-home test done 2025-06-10 (details to be
-      documented from private notes later) but may still have a small
-      viral load
+    * COVID-19: Negative at-home test done 2025-06-10
+      ([details](2025-06-10-walgreens-covid-test.md)) but may still
+      have a small viral load
 
     * Flu: Haven't done a test as I don't have one at home
 
