@@ -46,7 +46,7 @@ queries = [
       select preparation_or_opening_date from food_preparations_and_openings where food_type in ('TJ Roasted Seaweed') and meal_index != 2
     ),
     t2 as (
-      select preparation_or_opening_date, pause_date, resume_date from t1 left join food_pauses on t1.preparation_or_opening_date between food_pauses.pause_date and food_pauses.resume_date
+      select preparation_or_opening_date, pause_date, resume_date from t1 left join food_pauses on t1.preparation_or_opening_date between food_pauses.pause_date and food_pauses.resume_date and food_pauses.broad_food_type = 'Sauerkraut / Kimchi'
     )
     select * from t2 where preparation_or_opening_date >= '2024-10-01' and pause_date is null;""",
 
