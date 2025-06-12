@@ -736,11 +736,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-06','Sofit Soya 180 ml',1,1,'2025-06-06',1),
   /* Starting this point, we return to Berkeley so food preparations and openings are in Berkeley, and are expected to be comprehensive */
   /* 2025-06-07 rice prep (second meal) (added turmeric, cumin, salt) -- note that this was my first at-home meal, but still my second meal considering the first meal was on the plane */
-  ('2025-06-07','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL),
+  ('2025-06-07','Lundberg Sustainable California White Basmati Rice',0.9,2,'2025-06-11',2),
   /* These other items were opened in that same meal; I had no cooked food other than rice so I was relying on the unprepped food, TWAMSY, to guide me; of these, T and W didn't apply: tortillas I did not have in stock, and walnuts I continued an already-opened packet */
   ('2025-06-07','TJ Almond Milk',1,2,NULL,NULL),
   ('2025-06-07','TJ Miso Ginger Broth',1,2,NULL,NULL),
-  ('2025-06-07','TJ Roasted Seaweed',1,2,NULL,NULL),
+  ('2025-06-07','TJ Roasted Seaweed',1,2,'2025-06-11',2),
   ('2025-06-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-06-09',1),
   /* Data 2025-06-08 onward */
   ('2025-06-08','TJ Sauerkraut',1,1,NULL,NULL),
@@ -755,7 +755,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-09','TJ Walnuts',1,1,NULL,NULL),
   ('2025-06-09','TJ Carb Savvy Tortillas',1,2,'2025-06-11',1),
-  ('2025-06-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL), /* vanilla  flavor */
+  ('2025-06-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL), /* vanilla flavor */
   /* 2025-06-11 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-06-11','Lundberg Sustainable California White Jasmine Rice',0.9,2,NULL,NULL);
+  ('2025-06-11','Lundberg Sustainable California White Jasmine Rice',0.9,2,NULL,NULL),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-06-11','TJ Carb Savvy Tortillas',1,2,NULL,NULL);
   /* Double-check the date before committing */
