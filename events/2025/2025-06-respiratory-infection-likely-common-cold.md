@@ -216,6 +216,38 @@ started off at about once every 10 minutes early in the day and then
 slowed down to once every 15 to 20 minutes (the high initial frequency
 might be because of catch-up from the slowdown at night?).
 
+Shortly after a morning bath, I opened the window as I now felt warm
+enough. The window would stay open throughout the day and for part of
+the night (I would eventually close it at 3:17 AM the next day).
+
+There was a reduction in the frequency of blowing my nose for a few
+hours after the bath, which was particularly convenient as I had a few
+work meetings where I needed to talk for a length of time. The
+frequency went back to the previous norm of about once every 20
+minutes later in the afternoon. I was able to do a round of laundry,
+by taking care to clear my nose right before going down for laundry
+and then clearing my nose after returning from laundry.
+
+I went to sleep at 9:01 PM.
+
+### Friday 2025-06-13: slight reduction in frequency of nose-blowing
+
+On Friday 2025-06-13, I got up to urinate at 3:11 AM. Similar to the
+previous night, I didn't have any need to blow my nose during the
+period of sleep. However, after I got back in bed from this urination,
+and didn't fully fall asleep, I did feel mucus accumulating in my
+nose. I blew it once at 3:42 AM but the rate of accumulation was slow
+enough that I next needed to clear my nose only when I woke up
+officially which was around 5:07 AM.
+
+The frequency of nose-blowing in the early morning was relatively low
+compared to yesterday, with a gap of almost two hours between
+successive nose-blowing at 6:06 AM and 8:01 AM. The frequency picked
+up a bit after that, but was generally something in the range of 30 to
+90 minutes; however, I did generally start feeling the mucus
+accumulation around 10 to 15 minutes after the last clearing of the
+nose.
+
 ## Diagnosis: likely common cold
 
 The symptoms pretty clearly fit a respiratory infection, and the
