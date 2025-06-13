@@ -107,6 +107,20 @@ experiencing, but didn't pay attention to:
   causes of minor soreness (including a recent lengthy international
   trip plus timezone adjustment fatigue / jetlag).
 
+* I'm not sure if this started Monday or later on Tuesday, but I think
+  it was Monday: I felt that the food tasted and smelled a little
+  different; in particular, I was noticing some parts of the flavor of
+  the food to be more prominent than they would usually be. In
+  hindsight, I suspect that my nasal congestion was blocking some
+  aspects of my sense of smell and there was neurological compensation
+  that accentuated smells in response, so I was experiencing smells in
+  a bit of a lopsided fashion. At the time, though, I didn't have this
+  context, so I wondered/worried that maybe the food is spoiled. But
+  it didn't really make sense because I was experiencing this
+  sensation across disparate foods including stuff that I had
+  purchased recently and stuff that had been in the refrigerator for a
+  while.
+
 ### Tuesday 2025-06-10: I start suspecting and investigating an infection
 
 On the morning of Tuesday 2025-06-10, I woke up at 6:18 AM. As the
@@ -227,6 +241,21 @@ frequency went back to the previous norm of about once every 20
 minutes later in the afternoon. I was able to do a round of laundry,
 by taking care to clear my nose right before going down for laundry
 and then clearing my nose after returning from laundry.
+
+I noticed one interesting symptom during my second meal that might or
+might not be related to the infection. I felt transient pain in my
+gums when chewing and biting food, and this pain was experienced in
+all four corners of the mouth (top left, top right, bottom left,
+bottom right). The pain doesn't reflect any dental or gum issue -- I
+practice regular brushing and flossing hygiene and did not experience
+any pain or anything unusual during those, before and after this
+pain. Moreover, if there were a tooth or gum issue, it would tend to
+be localized to a specific region. My suspicion is that the congestion
+created by the infection had some effect on the way either the
+peripheral nerves were sending signals or the way my CNS was
+processing those signals. This symptom continued a little bit on
+Friday morning in an attenuated form, but had mostly disappeared by
+the end of Friday morning.
 
 I went to sleep at 9:01 PM.
 
