@@ -14,6 +14,7 @@ create temporary table interpolated_food_consumption_pre as
 select
 food_consumption_dates.consumption_date,
 food_preparations_and_openings.food_type,
+food_preparations_and_openings.preparation_or_opening_date,
 food_preparations_and_openings.quantity as quantity_across_days,
 -- numerator
 case when consumption_date = completion_date and consumption_date = preparation_or_opening_date then (completion_meal_index - meal_index + 1) / 2
@@ -24,8 +25,29 @@ case when consumption_date = completion_date and consumption_date = preparation_
 datediff(completion_date, preparation_or_opening_date) + (completion_meal_index - meal_index + 1) / 2 as num_days_for_consumption
 from food_consumption_dates inner join food_preparations_and_openings
 on food_consumption_dates.consumption_date >= food_preparations_and_openings.preparation_or_opening_date
-and food_consumption_dates.consumption_date <= food_preparations_and_openings.completion_date
+and (food_consumption_dates.consumption_date <= food_preparations_and_openings.completion_date or food_preparations_and_openings.completion_date is null)
 order by consumption_date;
+
+drop table if exists average_num_days_for_consumption_by_food_type;
+
+create table average_num_days_for_consumption_by_food_type as
+select food_type,
+avg(num_days_for_consumption / quantity_across_days) as average_num_days_for_consumption_per_unit_quantity
+from interpolated_food_consumption_pre
+group by food_type;
+
+drop temporary table if exists interpolated_food_consumption_pre_fallback_to_avg;
+
+create temporary table interpolated_food_consumption_pre_fallback_to_avg as
+select consumption_date, food_type, quantity_across_days, preparation_or_opening_date,
+interpolated_fraction_of_day_consumed,
+coalesce(
+  num_days_for_consumption,
+  least(3 * coalesce(average_num_days_for_consumption_per_unit_quantity * quantity_across_days, 21), greatest(datediff(curdate(), preparation_or_opening_date), coalesce(average_num_days_for_consumption_per_unit_quantity * quantity_across_days, 21))),
+  datediff(curdate(), preparation_or_opening_date)
+) as num_days_for_consumption_fallback_to_avg
+from interpolated_food_consumption_pre left join average_num_days_for_consumption_by_food_type
+using (food_type);
 
 drop table if exists interpolated_food_consumption;
 
@@ -38,7 +60,8 @@ create table interpolated_food_consumption(
 
 insert into interpolated_food_consumption
 select consumption_date, food_type,
-sum((quantity_across_days * interpolated_fraction_of_day_consumed) / num_days_for_consumption) as interpolated_quantity
-from interpolated_food_consumption_pre
+sum((quantity_across_days * interpolated_fraction_of_day_consumed) / num_days_for_consumption_fallback_to_avg) as interpolated_quantity
+from interpolated_food_consumption_pre_fallback_to_avg
 where interpolated_fraction_of_day_consumed > 0
+and datediff(consumption_date, preparation_or_opening_date) <= floor(num_days_for_consumption_fallback_to_avg)
 group by consumption_date, food_type;
