@@ -58,6 +58,7 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/supplements.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/vaccine_administrations.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/interpolated_food_consumption.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/interpolated_food_and_nutrient_consumption.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/interpolated_nutrient_consumption.sql
 	python3 python/food_types_verification_queries.py
 	python3 python/food_purchases_verification_queries.py
