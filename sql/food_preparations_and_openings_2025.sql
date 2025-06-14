@@ -305,12 +305,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-02-20','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
   /* 2025-02-21 rice prep (first meal) (added turmeric, cumin, and salt) */
-  ('2025-02-21','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
+  ('2025-02-21','Lundberg Sustainable California White Basmati Rice',0.9,1,'2025-02-25',2), /* completion date is backfilled / estimated */
   /* New bottle/packet openings as the old ones finished */
   ('2025-02-21','Whole Foods Mexican Whole Wheat Tortillas',1,2,NULL,NULL),
-  ('2025-02-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL),
-  ('2025-02-22','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
-  ('2025-02-22','Whole Foods Walnuts',1,2,NULL,NULL),
+  ('2025-02-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-02-24',1), /* completion date is backfilled / estimated */
+  ('2025-02-22','TJ Carb Savvy Tortillas',1,2,'2025-02-24',1), /*  completion date is backfilled / estimated */
+  ('2025-02-22','Whole Foods Walnuts',1,2,'2025-02-26',1), /* completion date is backfilled / estimated */
   ('2025-02-23','TJ Miso Ginger Broth',1,1,'2025-03-05',2),
   /* 2025-02-24 potatoes prep (first meal) (added olive oil, turmeric, cumin, a bit of cayenne pepper, and salt) */
   ('2025-02-24','Gold potatoes 5 lb',0.5,1,'2025-03-01',1),
