@@ -639,7 +639,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* New bottle/packet openings as the old ones finished */
   ('2025-04-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-27',1),
   ('2025-04-26','TJ Carb Savvy Tortillas',1,1,'2025-04-27',1), /* backfilled start time and it's most likely correct, however it may in fact be ('2025-04-25',1) but it's definitely not ('2025-04-25',2) because I remember that in that meal I had only rice */
-  /* 2025-04-26 potatoes prep (second meal) (added olive oil, turmeric, cumin, a very small amount of cayenne pepper, and salt */
+  /* 2025-04-26 potatoes prep (second meal) (added olive oil, turmeric, cumin, a very small amount of cayenne pepper, and salt) */
   ('2025-04-26','Gold potatoes 5 lb',0.5,2,'2025-05-02',1),
   ('2025-04-26','TJ Kale',1,2,'2025-05-02',1),
   ('2025-04-26','TJ English Shelled Peas',2,2,'2025-05-02',1),
@@ -738,7 +738,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-06-07 rice prep (second meal) (added turmeric, cumin, salt) -- note that this was my first at-home meal, but still my second meal considering the first meal was on the plane */
   ('2025-06-07','Lundberg Sustainable California White Basmati Rice',0.9,2,'2025-06-11',2),
   /* These other items were opened in that same meal; I had no cooked food other than rice so I was relying on the unprepped food, TWAMSY, to guide me; of these, T and W didn't apply: tortillas I did not have in stock, and walnuts I continued an already-opened packet */
-  ('2025-06-07','TJ Almond Milk',1,2,NULL,NULL),
+  ('2025-06-07','TJ Almond Milk',1,2,'2025-06-14',2),
   ('2025-06-07','TJ Miso Ginger Broth',1,2,NULL,NULL),
   ('2025-06-07','TJ Roasted Seaweed',1,2,'2025-06-11',2),
   ('2025-06-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-06-09',1),
@@ -746,12 +746,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-08','TJ Sauerkraut',1,1,NULL,NULL),
   ('2025-06-08','TJ Carb Savvy Tortillas',1,2,'2025-06-09',2),
   /* 2025-06-09 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, and salt) */
-  ('2025-06-09','Eggplant',1,1,NULL,NULL),
-  ('2025-06-09','TJ Kale',1,1,NULL,NULL),
-  ('2025-06-09','TJ Carrots',1,1,NULL,NULL),
-  ('2025-06-09','Green bell pepper',4,1,NULL,NULL),
-  ('2025-06-09','Orange bell pepper',2,1,NULL,NULL),
-  ('2025-06-09','Beefsteak tomato',5,1,NULL,NULL),
+  ('2025-06-09','Eggplant',1,1,'2025-06-14',2),
+  ('2025-06-09','TJ Kale',1,1,'2025-06-14',2),
+  ('2025-06-09','TJ Carrots',1,1,'2025-06-14',2),
+  ('2025-06-09','Green bell pepper',4,1,'2025-06-14',2),
+  ('2025-06-09','Orange bell pepper',2,1,'2025-06-14',2),
+  ('2025-06-09','Beefsteak tomato',5,1,'2025-06-14',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-09','TJ Walnuts',1,1,'2025-06-13',2),
   ('2025-06-09','TJ Carb Savvy Tortillas',1,2,'2025-06-11',1),
@@ -762,5 +762,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-11','TJ Carb Savvy Tortillas',1,2,'2025-06-13',2),
   ('2025-06-12','TJ Roasted Seaweed',1,1,NULL,NULL),
   ('2025-06-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
-  ('2025-06-13','TJ Walnuts',1,2,NULL,NULL);
+  ('2025-06-13','TJ Walnuts',1,2,NULL,NULL),
+  /* 2025-06-14 potatoes prep (second meal) (added olive oil, turmeric, cumin, and salt; no cayenne pepper) */
+  ('2025-06-14','Gold potatoes 5 lb',0.5,2,NULL,NULL),
+  ('2025-06-14','TJ Kale',1,2,NULL,NULL),
+  ('2025-06-14','TJ English Shelled Peas',2,2,NULL,NULL),
+  ('2025-06-14','Beefsteak tomato',4,2,NULL,NULL),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-06-14','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
+  ('2025-06-14','TJ Almond Milk',1,2,NULL,NULL);
   /* Double-check the date before committing */
