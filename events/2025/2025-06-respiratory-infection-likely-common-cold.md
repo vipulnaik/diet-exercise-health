@@ -314,6 +314,14 @@ gaps between 1 and 3 hours in general but shorter gaps when I was
 proactively clearing my nose, for instance prior to a meal or prior to
 going out.
 
+I also noticed that my time spent eating meals was much longer than
+usual (55 minutes and 65 minutes respectively) for both meals. I think
+this reflects an increase in meal quantity compared to the past few
+days, which might reflect me recharging a bit. With that said, the
+quantity of food consumed isn't as high as the duration of meals would
+normally suggest; I was also eating a little slower than I normally
+do.
+
 I went to sleep at 8:47 PM.
 
 ### Sunday 2025-06-15: first time since Wednesday that I was able to go back to sleep after mid-sleep urination
