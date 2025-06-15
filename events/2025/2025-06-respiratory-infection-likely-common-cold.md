@@ -277,6 +277,61 @@ up a bit after that, but was generally something in the range of 30 to
 accumulation around 10 to 15 minutes after the last clearing of the
 nose.
 
+I ended up having a relatively short day. I shaved and went for a bath
+in the afternoon, after an attempt to start laundry failed. I was
+thinking of doing laundry in the evening after my second meal. But I
+felt to sleepy after the second meal, so I ended up going to sleep
+relatively early at 7:43 PM. The nose-blowing frequency continued to
+remain low through the day.
+
+### Saturday 2025-06-14: first shopping trip since diagnosis of infection
+
+On Saturday 2025-06-14, I got up to urinate at 3:34 AM. I went back to
+sleep at 3:47 AM, but, as with the past few days, could not fully go
+back to sleep, likely due to the mucus production starting to ramp up
+(though it wasn't a high rate and I didn't need to blow my nose in
+between). I finally woke up at 5:11 AM.
+
+Based on the overall symptom progression, and a review of the
+[standard guidance from the
+CDC](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html),
+I determined that it was acceptable for me to make a Trader Joe's trip
+with precautions. The main additional precaution I took was to blow my
+nose about 10 minutes before entering the store (so en route) and
+sanitize my hands after blowing my nose, to reduce the risk of
+sneezing and reduce the viral load in my outbreath. Other than that, I
+continued to follow usual precautions including masking and use of
+hand sanitizer at entry and exit from store.
+
+This was a relatively longer day than the previous day, with the bulk
+of the time spent on personal chores, as I did both shopping and
+potatoes prep. I didn't get a lot of hands-on computer time, but I was
+able to productively multiplex with listening to various videos and
+audios, so at least I made progress on some of my learning goals.
+
+My nose-blowing was a little less frequent than the previous day, with
+gaps between 1 and 3 hours in general but shorter gaps when I was
+proactively clearing my nose, for instance prior to a meal or prior to
+going out.
+
+I went to sleep at 8:47 PM.
+
+### Sunday 2025-06-15: first time since Wednesday that I was able to go back to sleep after mid-sleep urination
+
+On the morning of Sunday 2025-06-15, I got up to urinate at 3:18 AM,
+then went back to sleep at 3:33 AM without even needing to blow my
+nose (there was a bit of mucus production, but not enough for the need
+to blow my nose). Unlike the past four days (Wednesday to Saturday) I
+was able to eventually fall back asleep, and I ultimately woke up for
+real at around 7:55 AM. This is a milestone because for the past few
+days, mucus production ramp-up after mid-sleep urination got in the
+way of my falling back asleep, which in turn had the effect of making
+my sleep cycle adjustment/realignment regress after being good for the
+first few days. The hope is that I can now return to a good sleep
+cycle with a longer gap from last meal to sleep.
+
+After properly waking up, I did blow my nose.
+
 ## Diagnosis: likely common cold
 
 The symptoms pretty clearly fit a respiratory infection, and the
