@@ -739,7 +739,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-07','Lundberg Sustainable California White Basmati Rice',0.9,2,'2025-06-11',2),
   /* These other items were opened in that same meal; I had no cooked food other than rice so I was relying on the unprepped food, TWAMSY, to guide me; of these, T and W didn't apply: tortillas I did not have in stock, and walnuts I continued an already-opened packet */
   ('2025-06-07','TJ Almond Milk',1,2,'2025-06-14',2),
-  ('2025-06-07','TJ Miso Ginger Broth',1,2,NULL,NULL),
+  ('2025-06-07','TJ Miso Ginger Broth',1,2,'2025-06-15',2),
   ('2025-06-07','TJ Roasted Seaweed',1,2,'2025-06-11',2),
   ('2025-06-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-06-09',1),
   /* Data 2025-06-08 onward */
@@ -761,7 +761,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-11','TJ Carb Savvy Tortillas',1,2,'2025-06-13',2),
   ('2025-06-12','TJ Roasted Seaweed',1,1,'2025-06-15',1),
-  ('2025-06-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  ('2025-06-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-06-15',2),
   ('2025-06-13','TJ Walnuts',1,2,NULL,NULL),
   /* 2025-06-14 potatoes prep (second meal) (added olive oil, turmeric, cumin, and salt; no cayenne pepper) */
   ('2025-06-14','Gold potatoes 5 lb',0.5,2,NULL,NULL),
@@ -773,5 +773,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-14','TJ Almond Milk',1,2,NULL,NULL),
   ('2025-06-15','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
   /* 2025-06-15 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-06-15','Lundberg Sustainable California White Jasmine Rice',0.9,2,NULL,NULL);
+  ('2025-06-15','Lundberg Sustainable California White Jasmine Rice',0.9,2,NULL,NULL),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-06-15','TJ Roasted Seaweed',1,2,NULL,NULL),
+  ('2025-06-15','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,NULL,NULL);
   /* Double-check the date before committing */
