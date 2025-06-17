@@ -340,6 +340,31 @@ cycle with a longer gap from last meal to sleep.
 
 After properly waking up, I did blow my nose.
 
+Due to waking up late, I ended up having a relatively short day. I had
+my first meal around 11 AM, then after post-meal cleanup I shaved and
+had a bath, then I made a quick trip to Berkeley Bowl and cooked
+rice. My evening meal was around 6:30 PM. By the time I finished
+post-meal cleanup, it was past 9 PM. I was sleepy by this time, and
+ended up going to sleep around 9:24 PM; I skipped the final brushing
+of my teeth.
+
+### Monday 2025-06-16: slight increase in nose-blowing frequency
+
+On the morning of Monday 2025-06-16, I got up to urinate mid-sleep at
+5:32 AM, then went back to sleep at 5:44 AM. Unlike Sunday, I didn't
+fall back asleep. I officially woke up at 6:34 AM.
+
+This was a long day as I had day job meetings and also went shopping
+to Trader Joe's and then cooked food after getting back. I finished
+post-meal cleanup at 8:22 PM. I was able to hold out a bit more, so I
+did finish brushing my teeth and my night-time scalp massage, but I
+wasn't able to have a bath. I ended up going to sleep at 9:06 PM.
+
+Overall, I noticed a slight increase in the frequency of nose-blowing
+compared to Sunday, though it was still less than the peak last
+Wednesday and Thursday, and I was able to manage the Trader Joe's
+trip.
+
 ## Diagnosis: likely common cold
 
 The symptoms pretty clearly fit a respiratory infection, and the
