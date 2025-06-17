@@ -762,7 +762,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-11','TJ Carb Savvy Tortillas',1,2,'2025-06-13',2),
   ('2025-06-12','TJ Roasted Seaweed',1,1,'2025-06-15',1),
   ('2025-06-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-06-15',2),
-  ('2025-06-13','TJ Walnuts',1,2,NULL,NULL),
+  ('2025-06-13','TJ Walnuts',1,2,'2025-06-16',2),
   /* 2025-06-14 potatoes prep (second meal) (added olive oil, turmeric, cumin, and salt; no cayenne pepper) */
   ('2025-06-14','Gold potatoes 5 lb',0.5,2,NULL,NULL),
   ('2025-06-14','TJ Kale',1,2,NULL,NULL),
@@ -771,11 +771,21 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-14','TJ Carb Savvy Tortillas',1,2,'2025-06-15',1),
   ('2025-06-14','TJ Almond Milk',1,2,NULL,NULL),
-  ('2025-06-15','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
+  ('2025-06-15','TJ Carb Savvy Tortillas',1,1,'2025-06-16',2),
   /* 2025-06-15 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-06-15','Lundberg Sustainable California White Jasmine Rice',0.9,2,NULL,NULL),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-15','TJ Roasted Seaweed',1,2,NULL,NULL),
   ('2025-06-15','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,NULL,NULL),
-  ('2025-06-16','TJ Miso Ginger Broth',1,1,NULL,NULL);
+  ('2025-06-16','TJ Miso Ginger Broth',1,1,NULL,NULL),
+  /* 2025-06-16 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, and salt) */
+  ('2025-06-16','Eggplant',1,2,NULL,NULL),
+  ('2025-06-16','TJ Kale',1,2,NULL,NULL),
+  ('2025-06-16','TJ Carrots',1,2,NULL,NULL),
+  ('2025-06-16','Green bell pepper',4,2,NULL,NULL),
+  ('2025-06-16','Red bell pepper',2,2,NULL,NULL),
+  ('2025-06-16','Beefsteak tomato',7,2,NULL,NULL),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-06-16','TJ Carb Savvy Tortillas',1,2,NULL,NULL);
+  /* walnuts finished ('2025-06-16',2) so likely starting ('2025-06-17',1) */
   /* Double-check the date before committing */
