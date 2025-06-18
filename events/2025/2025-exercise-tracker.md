@@ -628,3 +628,46 @@ that day.
 On Tuesday 2025-05-27, in India, I skipped jogging and strength
 exercises as I had spent the morning doing tax work and it was getting
 late and I didn't want to delay my meal too much.
+
+## 2025-06-05 to 2025-06-17: skipped all exercises
+
+From Thursday 2025-06-05 to Tuesday 2025-06-17, I skipped all exercises.
+
+The initial skipping was due to travel (Friday 2025-06-06 to Saturday
+2025-06-07). If that had been it, I would have started resuming
+exercise on Tuesday 2025-06-10. However, I continued skipping exercise
+due to a [respiratory infection (likely the common
+cold)](2025-06-respiratory-infection-likely-common-cold.md).
+
+## 2025-06-18: resumed some exercises
+On Wednesday 2025-06-18, I resumed hand gripper exercises, the
+standing-on-one-leg-with-eyes-closed exercise, and the
+standing-on-toes-with-eyes-closed exercise.
+
+### Standing exercises: normal performance
+
+For both the standing-on-one-leg-with-eyes-closed exercise, and the
+standing-on-toes-with-eyes-closed exercise, my performance was within
+normal range. For the former, I exceeded the minimum threshold on the
+first try for each leg. For the latter, I exceeded the minimum
+threshold on the second try. Needing a second try isn't super-rare
+evne under normal circumstance.
+
+### Hand gripper exercises: below-normal performance and comparable with the level about 10 months ago
+
+For the hand gripper exercise, I was able to close both the 150 lbs
+and 100 lbs hand grippers, but my hold durations were lower than they
+normally are, indicating some mix of deconditioning and continued
+lower energy due to recovery from the common cold.
+
+Specifically, these were my hold durations: 150 lbs: 12s in right
+hand, 3s in left hand; 100 lbs: 20s in right hand, 17s in left
+hand. These are less than the hold duration ranges specified in the
+[hand gripper exercise
+doc]((../../profile-information/physical-exercise/hand-gripper-exercise-with-history.md#first-of-alternating-days-focus-on-maintaining).
+
+Even so, it's comparable to the level I was at as recently as
+2024-08-02, judging from the [hand gripper exercise
+doc](../../profile-information/physical-exercise/hand-gripper-exercise-with-history.md#update-on-2024-08-02). This
+suggests that even with deconditioning or reduced energy, I am not
+back to square one.
