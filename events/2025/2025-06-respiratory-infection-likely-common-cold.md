@@ -1,5 +1,13 @@
 # 2025-06: respiratory infection (likely common cold)
 
+Sections of this document:
+
+* [Executive summary](#executive-summary)
+* [Progression by day](#progression-by-day)
+* [Diagnosis: likely common cold](#diagnosis-likely-common-cold)
+* [Reconditioning to normal life](#reconditioning-to-normal-life)
+* [Summary statistics of interest](#summary-statistics-of-interest)
+
 ## Executive summary
 
 I appear to have gotten a respiratory infection, likely the common
@@ -365,6 +373,12 @@ compared to Sunday, though it was still less than the peak last
 Wednesday and Thursday, and I was able to manage the Trader Joe's
 trip.
 
+Beyond this point I am stopping daily recording, because the remainder
+of the recovery process feels more like reconditioning to normal life
+(including post-travel sleep cycle adjustment that got thrown off by
+the cold, ramping up on exercise, etc.) than recovery. I expect to
+include consolidated notes at a later stage.
+
 ## Diagnosis: likely common cold
 
 The symptoms pretty clearly fit a respiratory infection, and the
@@ -395,3 +409,18 @@ reasons:
 
 * I also got a flu vaccine on 2024-10-25, about 7.5 months ago (see
   [here](../2024/2024-10-25-flu-shot.md)).
+
+## Reconditioning to normal life
+
+### Exercise
+
+See the [2025 exercise tracker](2025-exercise-tracker.md) for more details.
+
+## Summary statistics of interest
+
+### Nose-blowing and face tissue use
+
+I started recording nose-blowing frequency on Thursday 2025-06-12; the
+runny nose starting on Wednesday 2025-06-11.
+
+TODO fill in details.
