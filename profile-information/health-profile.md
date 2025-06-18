@@ -4,7 +4,7 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
-Last substantive minor update: June 10, 2025
+Last substantive minor update: June 18, 2025
 
 This is the health profile for Vipul Naik, an adult male in his late
 30s / early 40s (born 1986). It is updated periodically. It does not
@@ -72,17 +72,20 @@ Sections of this document:
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated June 10, 2025. I hope to update this section whenever
+last updated June 18, 2025. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
 significantly. I remove from here incidents that I consider closed; I
 may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affecting my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of June 11, 2025, I have an open incident for a [respiratory
-infection (likely common
+As of June 18, 2025, I have a mostly-resolved [respiratory infection
+(likely common
 cold)](../events/2025/2025-06-respiratory-infection-likely-common-cold.md). I
-expect to expand on this with more private notes later.
+still have a few residual symptoms (slightly more runny nose than
+usual) and am still in the process of reconditioning to normal life,
+so I expect to continue updating the document, but I don't consider it
+an open incident any more.
 
 You can see the list
 of incidents for 2024 in the [events/2024 folder](../events/2024), and
@@ -1747,19 +1750,26 @@ is linked from the notes column of the SQL.
 I have never been diagnosed with COVID-19, and am fairly confident
 that I have not been infected with COVID-19.
 
-I tested myself once (on 2022-04-06) for COVID-19 using at at-home
-test, when I was having a fever. I tested negative. The fever was
-likely an aftereffect of an injury. See
-[here](../events/2022/2022-04-05-fall-and-phone-screen-crack.md#covid-19-antigent-test)
-for details.
+I tested myself using at-home COVID-19 tests twice, getting negative
+results both times:
+
+* 2025-06-10 (see
+  [here](../events/2025/2025-06-10-walgreens-covid-test.md)) to
+  diagnose a respiratory infection that I later self-diagnosed as the
+  common cold.
+
+* 2022-04-06 when I was having a fever. I tested negative. The fever
+  was likely an aftereffect of an injury. See
+  [here](../events/2022/2022-04-05-fall-and-phone-screen-crack.md#covid-19-antigent-test)
+  for details.
 
 I got my primary COVID-19 vaccine series from Pfizer in 2021 (in May
 2021 and [June
 2021](../events/2021/2021-06-25-pfizer-covid-vaccine-dose-2.md)). Since then, I have
 been getting a booster every year, with the booster some time between
 November and January. As of the writing of this document, my most
-recent vaccine was on [January 12,
-2024](../events/2024/2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md).
+recent vaccine was on [March 21,
+2025](../events/2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md).
 
 Starting with my second COVID-19 dose and then for each booster dose
 (though much less pronounced for the January 2024 dose), I
@@ -1818,11 +1828,18 @@ series).
 
 ### Common cold and sore throat / running nose
 
-I have had occasional cases of sore throat / running nose, that I
-believe might be due to the common cold or other causes, such as
-dietary irritants. In all the cases, I suspect dietary irritants
-rather than respiratory cold viruses as the cause, but I might be
-wrong in some of the cases.
+In June 2025, I had an incident involving a sore throat and running
+nose that I believe to be due to the common cold. Details of the
+incident are
+[here](../events/2025/2025-06-respiratory-infection-likely-common-cold.md). I
+suspect I got this infection through recent international travel
+including a lengthy transcontinental flight.
+
+Prior to this, I have had occasional cases of sore throat / running
+nose, that I believe might be due to the common cold or other causes,
+such as dietary irritants. In all these prior cases, I suspect dietary
+irritants rather than respiratory cold viruses as the cause, but I
+might be wrong in some of the cases.
 
 * [2023-08-04 sore throat suspected to be due to sauerkraut and red
   chutney
