@@ -163,6 +163,20 @@ Set a weather check reminder for two days prior to the appointment.
   risk) Resume reminder for strength exercises: Nine days after the
   vaccine appointment
 
+* (recovery / documentation and processing) Reminder to update
+  internal records: One day after the vaccine appointment:
+
+  * Finish documentation in the file about the vaccination
+
+  * Include in the year's activity tracker and link from the activity
+    tracker to the doc
+
+  * Add to [vaccine_administrations.sql](../sql/vaccine_administrations.sql)
+
+  * Update most recent vaccine date for that condition in the
+    [infectious diseases and vaccines section of the health
+    profile](../profile-information/health-profile.md#infectious-diseases-and-vaccines)
+
 * (recovery / documentation and processing) Reminder to check vaccine
   records: Four days after the vaccine appointment; if the record is
   not yet available, then remind again after three more days:
