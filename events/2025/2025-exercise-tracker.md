@@ -640,6 +640,7 @@ due to a [respiratory infection (likely the common
 cold)](2025-06-respiratory-infection-likely-common-cold.md).
 
 ## 2025-06-18: resumed some exercises
+
 On Wednesday 2025-06-18, I resumed hand gripper exercises, the
 standing-on-one-leg-with-eyes-closed exercise, and the
 standing-on-toes-with-eyes-closed exercise.
@@ -671,3 +672,45 @@ Even so, it's comparable to the level I was at as recently as
 doc](../../profile-information/physical-exercise/hand-gripper-exercise-with-history.md#update-on-2024-08-02). This
 suggests that even with deconditioning or reduced energy, I am not
 back to square one.
+
+## 2025-06-19: resumed jogging and some strength exercises (dead hang and pull-ups)
+
+On Thursday 2025-06-19, I resumed jogging as well as some strength
+exercises, specifically dead hang and pull-ups.
+
+### Jogging
+
+For jogging, my jogging distance was way less than normal. It was
+about 1.25 miles, which used to be my lower threshold a little over a
+year ago (though I normally did at least 1.4 miles), and is lower than
+my current ideal conditions threshold of 1.67 milesq. The constraining
+factor that led me to stop was nasal congestion due to mucus
+buildup. I had cleared my nose a few minutes before going jogging, so
+the duration of jogging (about 15 minutes) should not have been enough
+to cause that much mucus buildup. It's likely that the greater
+respiratory exertion triggered by jogging triggered increased nasal
+congestion per unit time. This does suggest that the aftereffects of
+my common cold are not completely gone; they're not too visible for
+sedentary work but they become more obvious in the context of
+exertion.
+
+I was also generally feeling system-wide sluggishness as well as
+transient soreness in parts of my legs. I attribute these to some mix
+of the recovery process and being deconditioned. I expect that even if
+it hadn't been for the nasal congestion, I would still have jogged
+less than 1.67 miles, but more than the 1.25 miles. Probably I would
+have landed at around 1.5 miles, which is my significantly degraded
+conditions threshold.
+
+### Dead hang and pull-ups
+
+For dead hang, I did 25 oscillations over and 11 oscillations
+under. The number of over oscillations was at the low end of my range
+of 25 to 38; the number of under oscillations was aound the median
+value.
+
+For pull-ups, I did 3 over and 2 under, compared to my norm of 4 to 5
+over and 3 to 4 under.
+
+So for both, I was a little lower than or at the low end of my norm,
+which likely reflects a mix of ongoing recovery and deconditioning.

@@ -19,8 +19,8 @@ overhand doesn't matter. Within each, I should do the pull-ups in
 series (i.e., the count measures the number of pull-ups I do in
 succession while hanging).
 
-Currently, when it's done after the dead hang, I can do about 2-3
-underhand and 2-3 overhand.
+Currently, when it's done after the dead hang, I can do about 4 to 5
+overhand pull-ups and 3 to 4 underhand pull-ups.
 
 ## History
 
@@ -28,6 +28,9 @@ underhand and 2-3 overhand.
 
 I started doing pull-ups regularly (once evert 2-3 days, after dead
 hang) on 2024-11-14.
+
+As of this point, when done after the dead hang, I could do about 2-3
+underhand and 2-3 overhand.
 
 ### 2025-01-26 status update
 

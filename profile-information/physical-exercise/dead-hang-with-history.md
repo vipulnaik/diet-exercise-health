@@ -26,11 +26,13 @@ such as [pull-ups](pull-ups-with-history.md),
 
 Generally, I do this after returning from jogging.
 
-* Underhand dead hang (palms facing me) for as long as I can; as of
-  2024-10-04, this is appromximately 30-35 seconds.
-
 * Overhand dead hang (palms away from me) for as long as I can; as of
-  2024-10-06, this is about 45-50 seconds.
+  2025-01-26, this is 25 to 38 oscillations which is about 55 to 95
+  seconds.
+
+* Underhand dead hang (palms facing me) for as long as I can; as of
+  2025-01-26, this is 5 to 17 oscillations which is about 11 to 43
+  seconds.
 
 From 2024-12-06 onward, I aim to do this once every 3 days, and more
 specifically on the days after my strength exercise break and the day
