@@ -1765,10 +1765,13 @@ results both times:
 
 I got my primary COVID-19 vaccine series from Pfizer in 2021 (in May
 2021 and [June
-2021](../events/2021/2021-06-25-pfizer-covid-vaccine-dose-2.md)). Since then, I have
-been getting a booster every year, with the booster some time between
-November and January. As of the writing of this document, my most
-recent vaccine was on [March 21,
+2021](../events/2021/2021-06-25-pfizer-covid-vaccine-dose-2.md)). Since
+then, I have been getting a booster every year, with the booster some
+time between November and March. Vaccine administration dates are
+available in
+[vaccine_administrations.sql](../sql/vaccine_administrations.sql). As
+of the last edit to this document, my most recent vaccine was on [March
+21,
 2025](../events/2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md).
 
 Starting with my second COVID-19 dose and then for each booster dose
