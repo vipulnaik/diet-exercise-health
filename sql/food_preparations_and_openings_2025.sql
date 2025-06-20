@@ -788,8 +788,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-16','TJ Carb Savvy Tortillas',1,2,'2025-06-18',1),
   ('2025-06-17','TJ Walnuts',1,1,NULL,NULL),
-  ('2025-06-17','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,NULL,NULL),
-  ('2025-06-18','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
+  ('2025-06-17','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-06-19',2),
+  ('2025-06-18','TJ Carb Savvy Tortillas',1,1,'2025-06-19',2),
   /* 2025-06-18 potatoes prep (second meal) (added olive oil, turmeric, cumin, salt, and a little bit of cinnamon; no cayenne pepper) */
   ('2025-06-18','Gold potatoes 5 lb',0.5,2,NULL,NULL),
   ('2025-06-18','TJ Kale',1,2,NULL,NULL),
