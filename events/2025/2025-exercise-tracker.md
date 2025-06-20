@@ -681,18 +681,18 @@ exercises, specifically dead hang and pull-ups.
 ### Jogging
 
 For jogging, my jogging distance was way less than normal. It was
-about 1.25 miles, which used to be my lower threshold a little over a
-year ago (though I normally did at least 1.4 miles), and is lower than
-my current ideal conditions threshold of 1.67 milesq. The constraining
-factor that led me to stop was nasal congestion due to mucus
-buildup. I had cleared my nose a few minutes before going jogging, so
-the duration of jogging (about 15 minutes) should not have been enough
-to cause that much mucus buildup. It's likely that the greater
-respiratory exertion triggered by jogging triggered increased nasal
-congestion per unit time. This does suggest that the aftereffects of
-my common cold are not completely gone; they're not too visible for
-sedentary work but they become more obvious in the context of
-exertion.
+about 1.25 miles (walking back the remaining 0.75 miles), which used
+to be my lower threshold a little over a year ago (though I normally
+did at least 1.4 miles), and is lower than my current ideal conditions
+threshold of 1.67 milesq. The constraining factor that led me to stop
+was nasal congestion due to mucus buildup. I had cleared my nose a few
+minutes before going jogging, so the duration of jogging (about 15
+minutes) should not have been enough to cause that much mucus
+buildup. It's likely that the greater respiratory exertion triggered
+by jogging triggered increased nasal congestion per unit time. This
+does suggest that the aftereffects of my common cold are not
+completely gone; they're not too visible for sedentary work but they
+become more obvious in the context of exertion.
 
 I was also generally feeling system-wide sluggishness as well as
 transient soreness in parts of my legs. I attribute these to some mix
@@ -714,3 +714,12 @@ over and 3 to 4 under.
 
 So for both, I was a little lower than or at the low end of my norm,
 which likely reflects a mix of ongoing recovery and deconditioning.
+
+## 2025-06-20: continued ramp-up of jogging
+
+On Friday 2025-06-20, I went jogging again. I jogged a longer distance
+than the previous day, but still below my thresholds; my jogging
+distance was about 1.4 miles (walking back the remaining 0.6
+miles). The constraining factor was a mix of nasal congestion and
+systemwide fatigue, but the nasal congestion wasn't as bad as
+yesterday; I was able to hold till I got back home to blow my nose.
