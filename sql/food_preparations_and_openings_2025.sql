@@ -777,7 +777,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-15','TJ Roasted Seaweed',1,2,NULL,NULL),
   ('2025-06-15','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-06-17',2),
-  ('2025-06-16','TJ Miso Ginger Broth',1,1,NULL,NULL),
+  ('2025-06-16','TJ Miso Ginger Broth',1,1,'2025-06-21',1),
   /* 2025-06-16 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, and salt) */
   ('2025-06-16','Eggplant',1,2,NULL,NULL),
   ('2025-06-16','TJ Kale',1,2,NULL,NULL),
@@ -787,7 +787,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-16','Beefsteak tomato',7,2,NULL,NULL),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-16','TJ Carb Savvy Tortillas',1,2,'2025-06-18',1),
-  ('2025-06-17','TJ Walnuts',1,1,NULL,NULL),
+  ('2025-06-17','TJ Walnuts',1,1,'2025-06-21',1),
   ('2025-06-17','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-06-19',2),
   ('2025-06-18','TJ Carb Savvy Tortillas',1,1,'2025-06-19',2),
   /* 2025-06-18 potatoes prep (second meal) (added olive oil, turmeric, cumin, salt, and a little bit of cinnamon; no cayenne pepper) */
