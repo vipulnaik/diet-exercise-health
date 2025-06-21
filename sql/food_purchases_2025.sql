@@ -353,7 +353,16 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-06-16','Beefsteak tomato',3),
   ('2025-06-16','Red bell pepper',2), /* The receipt says yellow but it was red */
   ('2025-06-16','Green bell pepper',4),
-  ('2025-06-16','TJ Roasted Seaweed',1);
+  ('2025-06-16','TJ Roasted Seaweed',1),
+  /* 2025-06-20 (Friday) Trader Joe's; total cost $50.55; checkout at 5:25 PM; paid by debit card; 25 items in transaction */
+  ('2025-06-20','TJ Carb Savvy Tortillas',4),
+  ('2025-06-20','Green bell pepper',4),
+  ('2025-06-20','TJ Walnuts',2),
+  ('2025-06-20','TJ Carrots',1),
+  ('2025-06-20','Beefsteak tomato',9),
+  ('2025-06-20','Red bell pepper',2),
+  ('2025-06-20','Eggplant',2),
+  ('2025-06-20','TJ Kale',1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness

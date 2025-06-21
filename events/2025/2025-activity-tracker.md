@@ -155,6 +155,13 @@ administrative stuff. After being done with the administrative stuff,
 I went to Trader Joe's for food purchases recorded
 [here](../../sql/food_purchases_2025.sql).
 
+## 2025-05-02 to 2025-05-04
+
+From Friday 2025-05-02 to Sunday 2025-05-04, I traveled from my home
+base in Berkeley to my parents' home in Bengaluru; this included a
+flight from San Francisco International Airport (SFO) to Bengaluru
+International Airport (BLR).
+
 ## 2025-05-09
 
 I made outside trips in the morning and afternoon.
@@ -175,3 +182,24 @@ I made an outside trip in the late morning / early afternoon.
 ## 2025-05-24
 
 I made an outside trip with my parents in the afternoon.
+
+## 2025-06-06 to 2025-06-07
+
+From Friday 2025-06-06 to Saturday 2025-06-07, I traveled from my
+parents' home in Bengaluru to my home base in Berkeley; this included
+a two-leg flight, with the first leg from Bengaluru International
+Airport (BLR) to Delhi International Airport (DEL) and the second leg
+from DEL to San Francisco International Airport (SFO).
+
+## 2025-06-20
+
+On Friday 2025-06-20, in the late afternoon / early evening, I made a
+multi-stop trip in downtown Berkeley for various administrative
+tasks. Some of the stops were:
+
+* Citibank to get $40 worth of quarters
+
+* Target to get AAA batteries
+
+* Trader Joe's for my usual food purchases, recorded
+  [here](../../sql/food_purchases_2025.sql)
