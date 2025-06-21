@@ -723,3 +723,15 @@ distance was about 1.4 miles (walking back the remaining 0.6
 miles). The constraining factor was a mix of nasal congestion and
 systemwide fatigue, but the nasal congestion wasn't as bad as
 yesterday; I was able to hold till I got back home to blow my nose.
+
+## 2025-06-21: jogging at threshold distance and resumption of weight-lifting
+
+On Saturday 2025-06-21, I went jogging again. This time, my jogging
+distance returned to being just at the threshold of 1.67 miles. I did
+not experience nasal congestion though I still felt a little
+deconditioned relative to my norm.
+
+After getting home, I resumed weight-lifting. I did all the usual
+categories of weight-lifting, with almost the usual number of
+repetitions. The push-ups, that were at the end, suffered the most,
+and I ended up only doing 10 repetitions of those.
