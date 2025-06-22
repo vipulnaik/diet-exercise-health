@@ -779,12 +779,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-15','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-06-17',2),
   ('2025-06-16','TJ Miso Ginger Broth',1,1,'2025-06-21',1),
   /* 2025-06-16 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, and salt) */
-  ('2025-06-16','Eggplant',1,2,NULL,NULL),
-  ('2025-06-16','TJ Kale',1,2,NULL,NULL),
-  ('2025-06-16','TJ Carrots',1,2,NULL,NULL),
-  ('2025-06-16','Green bell pepper',4,2,NULL,NULL),
-  ('2025-06-16','Red bell pepper',2,2,NULL,NULL),
-  ('2025-06-16','Beefsteak tomato',7,2,NULL,NULL),
+  ('2025-06-16','Eggplant',1,2,'2025-06-22',1),
+  ('2025-06-16','TJ Kale',1,2,'2025-06-22',1),
+  ('2025-06-16','TJ Carrots',1,2,'2025-06-22',1),
+  ('2025-06-16','Green bell pepper',4,2,'2025-06-22',1),
+  ('2025-06-16','Red bell pepper',2,2,'2025-06-22',1),
+  ('2025-06-16','Beefsteak tomato',7,2,'2025-06-22',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-16','TJ Carb Savvy Tortillas',1,2,'2025-06-18',1),
   ('2025-06-17','TJ Walnuts',1,1,'2025-06-21',1),
@@ -799,8 +799,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-19','Lundberg Sustainable California White Jasmine Rice',0.9,1,NULL,NULL),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-20','TJ Carb Savvy Tortillas',1,1,'2025-06-20',2),
-  ('2025-06-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,NULL,NULL),
+  ('2025-06-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2025-06-22',1),
   ('2025-06-20','TJ Carb Savvy Tortillas',1,2,'2025-06-21',2),
   ('2025-06-21','TJ Miso Ginger Broth',1,2,NULL,NULL),
-  ('2025-06-21','TJ Walnuts',1,2,NULL,NULL);
+  ('2025-06-21','TJ Walnuts',1,2,NULL,NULL),
+  ('2025-06-22','TJ Carb Savvy Tortillas',1,1,NULL,NULL);
   /* Double-check the date before committing */
