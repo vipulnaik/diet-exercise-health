@@ -29,6 +29,7 @@ Sections of this document:
 * [Standing-on-one-leg-with-eyes-open exercise](#standing-on-one-leg-with-eyes-open-exercise)
 * [Standing-on-toes-with-eyes-closed exercise](#standing-on-toes-with-eyes-closed-exercise)
 * [Standing-on-toes-with-eyes-open exercise](#standing-on-toes-with-eyes-open-exercise)
+* [Standing-on-heels-with-eyes-open exercise](#standing-on-heels-with-eyes-open-exercise)
 * [Hand gripper exercise](#hand-gripper-exercise)
 * [Dead hang](#dead-hang)
 * [Pull-ups](#pull-ups)
@@ -236,6 +237,17 @@ As of February 2025, my aim is to build toward consistently doing at
 least 3 minutes without having to lift and reposition either foot.
 
 See [here](standing-on-toes-with-eyes-open-with-history.md) for more
+details.
+
+## Standing-on-heels-with-eyes-open exercise
+
+Goal of exercise: build
+
+I started this experimental exercise on June 2025 with the goal of
+increasing both the minimum and maximum duration and thereby improve
+my upper body balance and my ability to catch myself falling.
+
+See [here](standing-on-heels-with-eyes-open-with-history.md) for more
 details.
 
 ## Hopping
