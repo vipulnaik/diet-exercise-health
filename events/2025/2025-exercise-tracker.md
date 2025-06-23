@@ -735,3 +735,10 @@ After getting home, I resumed weight-lifting. I did all the usual
 categories of weight-lifting, with almost the usual number of
 repetitions. The push-ups, that were at the end, suffered the most,
 and I ended up only doing 10 repetitions of those.
+
+## 2025-06-23: skipped exercises due to a morning time squeeze
+
+On Monday 2025-06-23, I skipped exercises due to a time squeeze in the
+morning, including two shopping trips for stuff I wanted to buy before
+it got too warm and before my first meal, plus rice prep, plus work
+meetings and time-sensitive work tasks.
