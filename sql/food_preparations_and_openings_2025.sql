@@ -803,7 +803,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-20','TJ Carb Savvy Tortillas',1,2,'2025-06-21',2),
   ('2025-06-21','TJ Miso Ginger Broth',1,2,NULL,NULL),
   ('2025-06-21','TJ Walnuts',1,2,NULL,NULL),
-  ('2025-06-22','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
+  ('2025-06-22','TJ Carb Savvy Tortillas',1,1,'2025-06-23',1),
   /* 2025-06-22 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, salt, and a bit of cayenne pepper) */
   ('2025-06-22','Eggplant',1,2,NULL,NULL),
   ('2025-06-22','TJ Kale',1,2,NULL,NULL),
@@ -813,5 +813,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-22','Beefsteak tomato',8,2,NULL,NULL),
   /* 2025-06-23 rice prep (first meal) (added turmeric, cumin, salt) -- mix of jasmine rice and basmati rice */
   ('2025-06-23','Lundberg Sustainable California White Jasmine Rice',0.24,1,NULL,NULL),
-  ('2025-06-23','Lundberg Sustainable California White Basmati Rice',0.66,1,NULL,NULL);
+  ('2025-06-23','Lundberg Sustainable California White Basmati Rice',0.66,1,NULL,NULL),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-06-23','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
+  ('2025-06-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL); /* gap of 1 meal from previous completion as I depleted my stock and couldn't make the trip prior to the preceding meal */
   /* Double-check the date before committing */
