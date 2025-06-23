@@ -33,5 +33,6 @@ insert into food_waste(waste_date, food_type, quantity, after_preparation_or_ope
   ('2025-03-23','Beefsteak tomato',1,false,'The tomato had spoiled quite a bit so I threw it out rather than use it for potatoes prep.'),
   ('2025-04-02','Beefsteak tomato',1,false,'The tomato had spoiled quite a bit so I threw it out rather than use it for potatoes prep.'),
   ('2025-05-01','Beefsteak tomato',1,false,'The tomato had spoiled quite a bit so I threw it out rather than use it for my custom tomatoes prep.'),
-  ('2025-06-05','Urban Platter Sauerkraut',0.6,true,'About 60% of the sauerkraut bottle was still left when I had to stop consuming it as I left India. The contents are strictly not wasted as I expect it to get consumed by others, but in terms of my own food accounting I should consider this wasted.');
+  ('2025-06-05','Urban Platter Sauerkraut',0.6,true,'About 60% of the sauerkraut bottle was still left when I had to stop consuming it as I left India. The contents are strictly not wasted as I expect it to get consumed by others, but in terms of my own food accounting I should consider this wasted.'),
+  ('2025-06-22','Red bell pepper',0.25,false,'Some part of the red bell pepper purchased 2025-06-20 appeared to have blackened. I threw out that and some of the surrounding area.');
   /* Double-check the date before committing */
