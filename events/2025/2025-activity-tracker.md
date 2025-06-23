@@ -203,3 +203,9 @@ tasks. Some of the stops were:
 
 * Trader Joe's for my usual food purchases, recorded
   [here](../../sql/food_purchases_2025.sql)
+
+## 2025-06-23
+
+On Monday 2025-06-23, in the morning, I made a trip to Walgreens for
+toiletries shopping (specifically, to stock back up on face tissues
+after the depletion due to my recent respiratory infection).
