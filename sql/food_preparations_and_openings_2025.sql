@@ -816,5 +816,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-23','Lundberg Sustainable California White Basmati Rice',0.66,1,NULL,NULL),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-23','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
-  ('2025-06-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL); /* gap of 1 meal from previous completion as I depleted my stock and couldn't make the trip prior to the preceding meal */
+  ('2025-06-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL), /* gap of 1 meal from previous completion as I depleted my stock and couldn't make the trip prior to the preceding meal */
+  ('2025-06-23','TJ Roasted Seaweed',1,2,NULL,NULL);
   /* Double-check the date before committing */
