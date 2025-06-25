@@ -5,14 +5,14 @@ checklist](../checklists/vision-checklist.md).
 
 ## 2024-10-17
 
-- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at 25% magnification and the usual eye-to-screen distance (20 to 40 inches)
+- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at 25% magnification and the usual eye-to-screen distance (17 to 25 inches, usually 20 to 23 inches)
   - [x] Both eyes at 25% magnification (threshold of 70 wpm on at least one of three attempts)
     - First score of 53 wpm was on a very unfamiliar passage; next two scores of 80 wpm and 79 wpm were more consistent with expectations
   - [x] Left eye only (right eye closed) at 75% magnification (threshold of 80 wpm on at least one of three attempts)
     - I think I scored around 89 wpm
   - [x] Right eye only (left eye closed) at 75% magnification
     - I think I scored around 94 wpm
-- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (40 to 60 inches)
+- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (30 to 35 inches)
   - [x] Both eyes
     - I was able to read supplement facts at about 40-60 inches, and the supplement name at 60-80 incues
   - [x] Left eye only
@@ -47,14 +47,14 @@ trouble at 6 feet with my left eye only. I am planning to do further
 tests at around that distance to get a clearer sense for how well I
 can read at that distance.
 
-- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at the usual eye-to-screen distance (20 to 40 inches)
+- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at the usual eye-to-screen distance (17 to 25 inches, usually 20 to 23 inches)
   - [x] Both eyes at 25% magnification (threshold of 70 wpm on at least one of three attempts)
     - Scored 81 wpm
   - [x] Left eye only (right eye closed) at 75% magnification (threshold of 80 wpm on at least one of three attempts)
     - Scored 81 wpm
   - [x] Right eye only (left eye closed) at 75% magnification
     - Scored 90 wpm
-- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (40 to 60 inches)
+- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (30 to 35 inches)
   - [x] Both eyes
   - [x] Left eye only
   - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
@@ -86,14 +86,14 @@ reading things in the 6-to-10-foot range more.
 
 ## 2025-02-23
 
-- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at the usual eye-to-screen distance (20 to 40 inches)
+- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at the usual eye-to-screen distance (17 to 25 inches, usually 20 to 23 inches)
   - [x] Both eyes at 25% magnification (threshold of 70 wpm on at least one of three attempts)
     - Scores: 72 wpm, 70 wpm, 78 wpm
   - [x] Left eye only (right eye closed) at 75% magnification (threshold of 80 wpm on at least one of three attempts)
     - Scores: 85 wpm, 91 wpm, 79 wpm
   - [x] Right eye only (left eye closed) at 75% magnification (threshold of 80 wpm on at heast one of three attempts)
     - Scores: 88 wpm, 108 wpm, 88 wpm
-- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (40 to 60 inches)
+- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (30 to 35 inches)
   - [x] Both eyes
   - [x] Left eye only
   - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
@@ -121,7 +121,7 @@ their own light). I did see some improvement when I turned the light
 on for medium distance vision tests, but I feel it still fell short of
 previous tests.
 
-- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at the usual eye-to-screen distance (20 to 40 inches)
+- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at the usual eye-to-screen distance (17 to 25 inches, usually 20 to 23 inches)
   - [x] Both eyes at 25% magnification (threshold of 70 wpm on at least one of three attempts)
     - 65 wpm, 51 wpm, 78 wpm, 65 wpm, 79 wpm, 80 wm
     - For comparison, both eyes at 75% (my usual setting) gave scores of 90 wpm and 108 wpm
@@ -129,7 +129,7 @@ previous tests.
     - 86 wpm, 80 wpm, 82 wpm, 95 wpm, 90 wpm
   - [x] Right eye only (left eye closed) at 75% magnification (threshold of 80 wpm on at heast one of three attempts)
     - 93 wpm, 93 wpm, 98 wpm, 91 wpm, 97 wpm
-- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (40 to 60 inches)
+- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (30 to 35 inches)
   - [x] Both eyes
     - Able to read Ca/Mg/Zn comfortably, vaseline bottle very slowly
   - [x] Left eye only
