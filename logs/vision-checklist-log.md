@@ -109,3 +109,43 @@ reading things in the 6-to-10-foot range more.
   - [x] Both eyes
   - [x] Left eye only
   - [x] Right eye only
+
+## 2025-06-25
+
+My overall assessment is that the short distance vision remains
+intact, but increasing to medium distance, about 5 to 6 feet, my
+vision appears to have deteriorated compared to last time. But it may
+be that the light level was less during this test than the previous
+test (which is less of an issue for computer screens because they emit
+their own light). I did see some improvement when I turned the light
+on for medium distance vision tests, but I feel it still fell short of
+previous tests.
+
+- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at the usual eye-to-screen distance (20 to 40 inches)
+  - [x] Both eyes at 25% magnification (threshold of 70 wpm on at least one of three attempts)
+    - 65 wpm, 51 wpm, 78 wpm, 65 wpm, 79 wpm, 80 wm
+    - For comparison, both eyes at 75% (my usual setting) gave scores of 90 wpm and 108 wpm
+  - [x] Left eye only (right eye closed) at 75% magnification (threshold of 80 wpm on at least one of three attempts)
+    - 86 wpm, 80 wpm, 82 wpm, 95 wpm, 90 wpm
+  - [x] Right eye only (left eye closed) at 75% magnification (threshold of 80 wpm on at heast one of three attempts)
+    - 93 wpm, 93 wpm, 98 wpm, 91 wpm, 97 wpm
+- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (40 to 60 inches)
+  - [x] Both eyes
+    - Able to read Ca/Mg/Zn comfortably, vaseline bottle very slowly
+  - [x] Left eye only
+    - Slightly harder than both eyes but roughly able to read the same stuff
+  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
+  - [x] Right eye only
+    - Definitely harder than the left eye but I could just about do it
+- Functional medium distance vision test: Try to read the FineDine and Craftsman packages at a distance of about 6 feet (basically, read them seated); start at a slight angle and then work my way to straight reading
+  - [x] Both eyes
+    - It took me a while from a straight view, and putting the light on helped. I think this has deteriorated since last time.
+  - [x] Left eye only
+    - It took me a while from a straight view, and putting the light on helped. I think this has deteriorated since last time.
+  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
+  - [x] Right eye only
+    - This was similar to last time; I needed to get to about 4 to 5 feet to read
+- Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
+  - [ ] Both eyes
+  - [ ] Left eye only
+  - [ ] Right eye only
