@@ -817,5 +817,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-23','TJ Carb Savvy Tortillas',1,1,'2025-06-24',2),
   ('2025-06-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL), /* gap of 1 meal from previous completion as I depleted my stock and couldn't make the trip prior to the preceding meal */
-  ('2025-06-23','TJ Roasted Seaweed',1,2,NULL,NULL);
+  ('2025-06-23','TJ Roasted Seaweed',1,2,NULL,NULL),
+  /* 2025-06-24 lentils prep (overnight soaking to cook the next day) */
+  ('2025-06-24','TJ Green Lentils',0.5,3,NULL,NULL);
   /* Double-check the date before committing */
