@@ -4,7 +4,7 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
-Last substantive minor update: June 18, 2025
+Last substantive minor update: June 25, 2025
 
 This is the health profile for Vipul Naik, an adult male in his late
 30s / early 40s (born 1986). It is updated periodically. It does not
@@ -127,24 +127,29 @@ machine) as part of my monthly blood pressure readings (as well as
 other one-off readings in response to health events or other
 incidents) in
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql). As
-of 2025-05-02, my latest morning heart rate readings from the BP
+of 2025-06-25, my latest morning heart rate readings from the BP
 machine (before exercise or eating) as measured as part of blood
-pressure measurement were on 2025-05-02 with readings of 57 bpm and 61
+pressure measurement were on 2025-06-25 with readings of 54 bpm and 54
 bpm respectively. The ambient temperature at the time I took the
-readings was 63 degrees Fahrenheit.
+readings was 65 degrees Fahrenheit.
 
 I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
 health events or other incidents) in
 [pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql). As
-of 2025-05-02, my latest morning heart rate reading from the pulse
+of 2025-06-25, my latest morning heart rate reading from the pulse
 oximeter (before exercise or eating) as measured by the pulse oximeter
-was on 2024-10-13 with a range of 49-55 bpm. During winter months, the
-pulse oximeter tends to have trouble reading out in the morning,
-likely due to cold hands. My most recent afternoon heart rate reading
-measured by the pulse oximeter was on 2024-12-14 with a range of 60-71
-bpm; this reading was taken about 2.5 hours after finishing a meal and
-is typical of such readings.
+was on 2025-06-11 with a range of 52-57 bpm. However, at the time I
+had a [respiratory infection (likely the common
+cold)](../events/2025/2025-06-respiratory-infection-likely-common-cold.md)
+which could in principle distort the readings (although in this case I
+don't think the reading was distorted meaningfully). My previous
+morning reading was on 2024-10-13 with a range of 49-55 bpm. During
+winter months, the pulse oximeter tends to have trouble reading out in
+the morning, likely due to cold hands. My most recent afternoon heart
+rate reading measured by the pulse oximeter was on 2024-12-14 with a
+range of 60-71 bpm; this reading was taken about 2.5 hours after
+finishing a meal and is typical of such readings.
 
 For extensive older experiment results, see
 [2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
@@ -161,8 +166,14 @@ I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
 health events or other incidents) in
 [pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql). My
-most recent reading taken on 2024-10-13 was a range of 99% to 100%
-over a period of one minute.
+most recent reading taken on 2025-06-11 with a range of 94% to 96%
+over a period of one minute. However, at the time I had a [respiratory
+infection (likely the common
+cold)](../events/2025/2025-06-respiratory-infection-likely-common-cold.md)
+which could in principle distort the readings (and in this case I
+suspect it did lower the SpO2 compared to what it would otherwise have
+been). My previous successful morning reading was on 2024-10-13 was a
+range of 99% to 100% over a period of one minute.
 
 For recent pulse oximeter readings, see
 [pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql).
@@ -182,7 +193,7 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting morning blood pressure readings (taken
-2025-05-02) were 96/65 and 100/64. My most recent afternoon blood
+2025-06-25) were 97/68 and 95/65. My most recent afternoon blood
 pressure readings (taken 2024-12-14 about 2.5 hours after finishing a
 meal) were 102/62 and 93/60. My most recent evening blood pressure
 readings (taken 2025-03-25 about 2.5 hours after finishing a meal)
