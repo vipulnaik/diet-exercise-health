@@ -770,7 +770,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-14','Beefsteak tomato',4,2,'2025-06-18',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-14','TJ Carb Savvy Tortillas',1,2,'2025-06-15',1),
-  ('2025-06-14','TJ Almond Milk',1,2,NULL,NULL),
+  ('2025-06-14','TJ Almond Milk',1,2,'2025-06-25',1),
   ('2025-06-15','TJ Carb Savvy Tortillas',1,1,'2025-06-16',2),
   /* 2025-06-15 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-06-15','Lundberg Sustainable California White Jasmine Rice',0.92,2,'2025-06-19',1),
@@ -816,9 +816,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-23','Lundberg Sustainable California White Basmati Rice',0.66,1,NULL,NULL),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-23','TJ Carb Savvy Tortillas',1,1,'2025-06-24',2),
-  ('2025-06-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,NULL,NULL), /* gap of 1 meal from previous completion as I depleted my stock and couldn't make the trip prior to the preceding meal */
+  ('2025-06-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-06-25',1), /* gap of 1 meal from previous completion as I depleted my stock and couldn't make the trip prior to the preceding meal */
   ('2025-06-23','TJ Roasted Seaweed',1,2,NULL,NULL),
   /* 2025-06-24 lentils prep (overnight soaking to cook the next day; drained soaking water and added water and turmeric, cumin, and salt the next morning; opened new salt bottle in the process) */
   ('2025-06-24','TJ Green Lentils',0.5,3,NULL,NULL),
-  ('2025-06-25','Morton Iodized Sea Salt',1,1,NULL,NULL);
+  ('2025-06-25','Morton Iodized Sea Salt',1,1,NULL,NULL),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-06-25','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
+  ('2025-06-25','TJ Almond Milk',1,1,NULL,NULL);
   /* Double-check the date before committing */
