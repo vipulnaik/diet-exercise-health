@@ -112,7 +112,8 @@ For each of these, these are different kinds of exercises:
 
 * Do the isometric resistance exercises at the end of the day, before
   falling asleep, on alternate days. Do at least one repetition for a
-  few seconds of each of the directions.
+  few seconds of each of the directions. Record in the Slack self-chat
+  logs as `nsed`.
 
 * Do the neck flexor endurance test once every 2 weeks or so and
   record the hold duration.
@@ -133,10 +134,17 @@ I did the initial research on neck strength exercises, and started
 doing the exercises, on 2025-02-18. While these have been on my mind for a while, there were a couple of impetuses:
 
 * The discussion of a strong neck in [Joe Rogan's interview of Mark
-  Zuckerberg](https://www.youtube.com/watch?v=7k1ehaE0bdU) * Neck
-  strength coming up in the context of my research into whiplash on
-  2025-02-17 after seeing many plane accidents in the news (the
+  Zuckerberg](https://www.youtube.com/watch?v=7k1ehaE0bdU)
+
+* Neck strength coming up in the context of my research into whiplash
+  on 2025-02-17 after seeing many plane accidents in the news (the
   specific trigger was
   [this](https://en.wikipedia.org/wiki/Delta_Connection_Flight_4819)).
 
 I collated the research into a document on 2025-02-21.
+
+I did the first formal neck flexor endurance test on the night of
+2025-06-24 (this ended up being much later than I originally planned,
+as my hope had been to do this once every 2 weeks after starting the
+neck strength exercises). I got durations of 45 seconds and 50 seconds
+respectively.
