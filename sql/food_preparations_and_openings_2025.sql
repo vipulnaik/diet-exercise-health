@@ -229,7 +229,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-02-08','Lundberg Sustainable California White Basmati Rice',0.9,1,NULL,NULL),
   /* New bottle/packet openings as the old ones finished */
   ('2025-02-08','TJ Roasted Seaweed',1,2,NULL,NULL),
-  ('2025-02-08','Morton Iodized Sea Salt',1,2,NULL,NULL), /* opened when doing saltwater rinse after second meal */
+  ('2025-02-08','Morton Iodized Sea Salt',1,2,'2025-06-22',1), /* opened when doing saltwater rinse after second meal, discarded on 2025-06-24 but it finished a couple days prior; going forward I will use separate salt containers for food prep and saltwater rinse so I can estimate the use of salt in food better */
   ('2025-02-09','TJ Carb Savvy Tortillas',1,1,NULL,NULL),
   ('2025-02-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
   /* 2025-02-09 (actually past midnight into 2025-02-10) lentils prep; overnight soaking to cook the next day with turmeric, cumin, and salt */
