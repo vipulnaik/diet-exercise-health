@@ -146,6 +146,7 @@ previous tests.
   - [x] Right eye only
     - This was similar to last time; I needed to get to about 4 to 5 feet to read
 - Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
-  - [ ] Both eyes
-  - [ ] Left eye only
-  - [ ] Right eye only
+  - [x] Both eyes
+  - [x] Left eye only
+  - [x] Right eye only
+  - NOTE: I didn't use intersections but I did an equivalent distance and I also did the opposite side of the street.
