@@ -13,12 +13,12 @@ stuff with hands.
 ## 2025-06-24
 
 - Do the snap test for skin in various parts of the body: lift (mini-pinch) for about 5 seconds and then let go to see if it snaps back into place in less than a second
-  - [ ] Skin below the left eye (where one might get dark circles)
-  - [ ] Skin below the right eye (where one might get dark circles)
-  - [ ] Back of left hand (behind the palm)
-  - [ ] Back of right hand (behind the palm)
-  - [ ] Abdominal area
+  - [x] Skin below the left eye (where one might get dark circles)
+  - [x] Skin below the right eye (where one might get dark circles)
+  - [x] Back of left hand (behind the palm)
+  - [x] Back of right hand (behind the palm)
+  - [x] Abdominal area
 - Do the pinch test: pinch a large area of the cheek and confirm that it feels fleshy
-  - [ ] Left cheek
-  - [ ] Right cheek
-- [ ] Do the pout test: pout for 5 seconds then release and see if there are any lines
+  - [x] Left cheek
+  - [x] Right cheek
+- [x] Do the pout test: pout for 5 seconds then release and see if there are any lines
