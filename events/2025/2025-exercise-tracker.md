@@ -742,3 +742,11 @@ On Monday 2025-06-23, I skipped exercises due to a time squeeze in the
 morning, including two shopping trips for stuff I wanted to buy before
 it got too warm and before my first meal, plus rice prep, plus work
 meetings and time-sensitive work tasks.
+
+## 2025-06-26: skipped jogging due to a morning time squeeze
+
+On Thursday 2025-06-26, I finished my pre-jogging exercises (hand
+gripper, breath holds, and balance exercises) but then didn't have
+much time left before a bunch of work-related meetings. By the time
+the meetings ended, it was too late to go jogging, so I skipped
+jogging for the day.
