@@ -47,8 +47,9 @@ based on factors of luck including the starting configuration.
 ## Protocol
 
 The protocol is to try as many attempts to stand on heels with eyes
-open over a period of about two minutes, allowing for a gap / rest
-period between attempts of up to three seconds.
+open over a period of about two minutes, allowing for a gap / rest /
+readjustment period between attempts of up to five seconds. Aborted
+starts can be included in that period.
 
 I then record the minimum and maximum over all the attempts over the
 two-minute period. My goal is to try to get as high a minimum and as
