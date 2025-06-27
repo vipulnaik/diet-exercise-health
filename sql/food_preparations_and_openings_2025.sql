@@ -802,7 +802,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2025-06-22',1),
   ('2025-06-20','TJ Carb Savvy Tortillas',1,2,'2025-06-21',2),
   ('2025-06-21','TJ Miso Ginger Broth',1,2,NULL,NULL),
-  ('2025-06-21','TJ Walnuts',1,2,NULL,NULL),
+  ('2025-06-21','TJ Walnuts',1,2,'2025-06-26',2),
   ('2025-06-22','TJ Carb Savvy Tortillas',1,1,'2025-06-23',1),
   /* 2025-06-22 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, salt, and a bit of cayenne pepper) */
   ('2025-06-22','Eggplant',1,2,NULL,NULL),
