@@ -16,6 +16,11 @@ Execution log is [here](../logs/vision-checklist-log.md).
   - [ ] Left eye only
   - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
   - [ ] Right eye only
+- Peripheral vision check
+  - [ ] First, make sure the screen brightness and ambient lighting are such that I cannot detect the color change of the reaction time test when looking diametrically opposite the screen; this is to make sure I can only pass the reaction time test by detecting color changes on the screen
+    - In dark environments, I may need to put the light on, otherwise the color change on screen is visible through reflection of the light elsewhere even when I am not facing the screen
+  - [ ] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my left (so I would be using the left eye effectively)
+  - [ ] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my left (so I would be using the left eye effectively)
 - Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
   - [ ] Both eyes
   - [ ] Left eye only
