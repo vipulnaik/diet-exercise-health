@@ -837,5 +837,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-26','TJ Turmeric',1,2,NULL,NULL), /* opened with rice prep; used previous turmeric partially as well */
   ('2025-06-26','TJ Cumin',1,2,NULL,NULL), /* opened with rice prep; used previous cumin partially as well */
   /* new bottle/packet openings as the old ones finished */
-  ('2025-06-27','TJ Walnuts',1,1,NULL,NULL);
+  ('2025-06-27','TJ Walnuts',1,1,NULL,NULL),
+  ('2025-06-27','TJ Carb Savvy Tortillas',1,2,NULL,NULL);
   /* Double-check the date before committing */
