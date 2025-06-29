@@ -840,5 +840,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-27','TJ Walnuts',1,1,NULL,NULL),
   ('2025-06-27','TJ Carb Savvy Tortillas',1,2,'2025-06-28',2),
   ('2025-06-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
-  ('2025-06-28','TJ Miso Ginger Broth',1,2,NULL,NULL);
+  ('2025-06-28','TJ Miso Ginger Broth',1,2,NULL,NULL),
+  ('2025-06-29','TJ Carb Savvy Tortillas',1,1,NULL,NULL);
   /* Double-check the date before committing */
