@@ -2,6 +2,11 @@
 
 Execution log is [here](../logs/vision-checklist-log.md).
 
+- Extreme short distance vision test (this can catch issues of worsening short distance vision before it starts showing up in the functional short distance vision test)
+  - [ ] Moving eyes toward screen, measure the distance at which I start seeing the text become blurry (but it's still readable) (benchmark set on 2025-06-28 is 5.5 to 6.5 inches, with some variation based on ambient lighting and contrast in text)
+  - [ ] Continuing to move eyes toward screen, measure the distance at which the text becomes so blurry that it is difficult to directly read (benchmark set on 2025-06-28 is 4 to 4.5 inches, with some variation based on ambient lighting and contrast in text)
+  - [ ] Moving eyes toward printed text (for instance, a food purchase receipt), measure and record the distance at which I start seeing the text become blurry (but it's still readable) (benchmark set on 2025-06-28 is 5.5 to 6.5 inches, with some variation based on ambient lighting and contrast in text)
+  - [ ] Continuing to move eyes toward printed text, measure the distance at which the text becomes so blurry that it is difficult to directly read (benchmark set on 2025-06-28 is 4 to 4.5 inches, with some variation based on ambient lighting and contrast in text)
 - Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at the usual eye-to-screen distance (17 to 25 inches, usually 20 to 23 inches)
   - [ ] Both eyes at 25% magnification (threshold of 70 wpm on at least one of three attempts)
   - [ ] Left eye only (right eye closed) at 75% magnification (threshold of 80 wpm on at least one of three attempts)
