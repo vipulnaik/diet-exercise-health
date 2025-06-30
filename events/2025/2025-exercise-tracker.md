@@ -750,3 +750,12 @@ gripper, breath holds, and balance exercises) but then didn't have
 much time left before a bunch of work-related meetings. By the time
 the meetings ended, it was too late to go jogging, so I skipped
 jogging for the day.
+
+## 2025-06-30: short at-home jogging due to time constraints and scheduling issues
+
+On Monday 2025-06-30, I did at-home jogging due to time constraints
+and scheduling issues: I had a work meeting and other work-related
+items and other items in the morning, but I also wanted to do eggplant
+meal prep prior to my first meal. By jogging at home and doing a
+shorter duration, I was able to reduce my time spent jogging and start
+the eggplant meal prep sooner.
