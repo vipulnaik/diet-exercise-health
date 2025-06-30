@@ -805,12 +805,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-21','TJ Walnuts',1,2,'2025-06-26',2),
   ('2025-06-22','TJ Carb Savvy Tortillas',1,1,'2025-06-23',1),
   /* 2025-06-22 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, salt, and a bit of cayenne pepper) */
-  ('2025-06-22','Eggplant',1,2,NULL,NULL),
-  ('2025-06-22','TJ Kale',1,2,NULL,NULL),
-  ('2025-06-22','TJ Carrots',1,2,NULL,NULL),
-  ('2025-06-22','Green bell pepper',4,2,NULL,NULL),
-  ('2025-06-22','Red bell pepper',1.75,2,NULL,NULL), /* about a quarter of the bell pepper I discarded due to seeming spoilage */
-  ('2025-06-22','Beefsteak tomato',8,2,NULL,NULL),
+  ('2025-06-22','Eggplant',1,2,'2025-06-29',2),
+  ('2025-06-22','TJ Kale',1,2,'2025-06-29',2),
+  ('2025-06-22','TJ Carrots',1,2,'2025-06-29',2),
+  ('2025-06-22','Green bell pepper',4,2,'2025-06-29',2),
+  ('2025-06-22','Red bell pepper',1.75,2,'2025-06-29',2), /* about a quarter of the bell pepper I discarded due to seeming spoilage */
+  ('2025-06-22','Beefsteak tomato',8,2,'2025-06-29',2),
   /* 2025-06-23 rice prep (first meal) (added turmeric, cumin, salt) -- mix of jasmine rice and basmati rice */
   ('2025-06-23','Lundberg Sustainable California White Jasmine Rice',0.24,1,'2025-06-26',1),
   ('2025-06-23','Lundberg Sustainable California White Basmati Rice',0.66,1,'2025-06-26',1),
