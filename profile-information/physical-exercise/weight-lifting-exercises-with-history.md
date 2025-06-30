@@ -191,7 +191,7 @@ grocery bags in both hands, and also had a backpack on; the weight of
 the bag in my right hand had been a little higher than the weight of
 the bag in my left hand for most of the journey. To address this, I
 moved both bags to my left hand for a little while, and also moved the
-bagpack strap off my right shoulder so that it loosely rested on my
+backpack strap off my right shoulder so that it loosely rested on my
 upper right arm. After a little while, I transferred the lighter bag
 to my right hand but kept the strap off my right shoulder until I
 could get back home and take it all off.

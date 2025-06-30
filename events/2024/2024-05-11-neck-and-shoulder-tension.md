@@ -24,6 +24,6 @@ less than the previous day.
 In the afternoon, I went to pick up a package from the Amazon Hub
 locker. On the way, I bought some rice. Toward the end (last 5 minutes
 walking) of the trip, walking for about 1.5 hours, I felt a clear pain
-in my right shoulder. Taking the right side of the bagpack off my
+in my right shoulder. Taking the right side of the backpack off my
 shoulder onto my right arm helped. Once I got back and took the
-bagpack off, the pain subsided to its earlier level.
+backpack off, the pain subsided to its earlier level.

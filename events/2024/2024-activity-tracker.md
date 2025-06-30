@@ -130,7 +130,7 @@ significantly less in the future.
 
 Since there was a lot of stuff to pick up, I carried my suitcase
 along, and indeed I needed to pack it 50-75% full for the return
-journey, along with putting a few smaller items in my bagpack.
+journey, along with putting a few smaller items in my backpack.
 
 As I did not want to dirty the suitcase wheels on the uneven city
 sidewalks (I'm trying to restrict wheel use to smooth indoor surfaces
@@ -159,11 +159,11 @@ In the morning I made a bureaucratic trip. The trip involved walking
 about 45 minutes each way and about 15 minutes at the location.
 
 Around 10 minutes into the return trip, I experienced mild shoulder
-pain in my right shoulder. I was carrying my bagpack on my shoulders
+pain in my right shoulder. I was carrying my backpack on my shoulders
 but the load on it was minimal. The shoulder pain continued in mild
-form though it was alleviated by taking the bagpack partly off my
+form though it was alleviated by taking the backpack partly off my
 right shoulder. The pain largely subsided after I got home and removed
-my bagpack.
+my backpack.
 
 ## Wednesday March 27
 
@@ -177,7 +177,7 @@ vegan braised eggplant with tofu and mushroom.
 In the late afternoon / early evening, I went to the Amazon Hub Locker
 for package pickup. I took my suitcase along; even though the total
 amount of stuff wasn't a lot, there were a few larger items that would
-be easier to carry in the suitcase rather than in my bagpack or in
+be easier to carry in the suitcase rather than in my backpack or in
 grocery bags.
 
 Indeed, I filled the suitcase about 25-30%.
@@ -189,7 +189,7 @@ ways. This was not too difficult going to the place; it was a little
 harder during the return journey as the suitcase was heavier; however,
 it was nowhere near as hard as for my Monday March 18 trip.
 
-After I returned home, I immediately went out again with my bagpack to
+After I returned home, I immediately went out again with my backpack to
 shop at Walgreens (I left the suitcase at home).
 
 ## Monday April 1
