@@ -847,5 +847,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-30','TJ Kale',1,1,NULL,NULL),
   ('2025-06-30','TJ Carrots',1,1,NULL,NULL),
   ('2025-06-30','Green bell pepper',6,1,NULL,NULL), /* I accidentally bought 6 green bell peppers instead of 4 green + 2 red, so I cooked all 6 green */
-  ('2025-06-30','Beefsteak tomato',8,1,NULL,NULL);
+  ('2025-06-30','Beefsteak tomato',8,1,NULL,NULL),
+  /* 2025-06-30 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-06-30','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL);
   /* Double-check the date before committing */
