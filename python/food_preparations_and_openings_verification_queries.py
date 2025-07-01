@@ -75,7 +75,7 @@ queries = [
     "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and not (quantity in (2,3)) and not (preparation_or_opening_date in ('2024-09-07','2024-09-19','2024-09-30','2024-11-25'));",
 
     # I should generally do 4 at a time, though exceptions are possible
-    "select * from food_preparations_and_openings where food_type = 'Green bell pepper' and quantity != 4;",
+    "select * from food_preparations_and_openings where food_type = 'Green bell pepper' and quantity != 4 and not (preparation_or_opening_date = '2025-06-30' and meal_index = 1);",
 
     # I should do less than 1 at a time
     "select * from food_preparations_and_openings where food_type in ('Lundberg Sustainable California White Basmati Rice','Gold potatoes 3 lb','Gold potatoes 5 lb') and quantity >= 1;",
