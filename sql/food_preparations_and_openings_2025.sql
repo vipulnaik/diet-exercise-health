@@ -817,7 +817,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-23','TJ Carb Savvy Tortillas',1,1,'2025-06-24',2),
   ('2025-06-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-06-25',1), /* gap of 1 meal from previous completion as I depleted my stock and couldn't make the trip prior to the preceding meal */
-  ('2025-06-23','TJ Roasted Seaweed',1,2,NULL,NULL),
+  ('2025-06-23','TJ Roasted Seaweed',1,2,'2025-07-01',2),
   /* 2025-06-24 lentils prep (overnight soaking to cook the next day; drained soaking water and added water and turmeric, cumin, and salt the next morning; opened new salt bottle in the process) */
   ('2025-06-24','TJ Green Lentils',0.5,3,'2025-06-28',2),
   ('2025-06-25','Morton Iodized Sea Salt',1,1,NULL,NULL),
@@ -839,7 +839,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-27','TJ Walnuts',1,1,'2025-06-30',2),
   ('2025-06-27','TJ Carb Savvy Tortillas',1,2,'2025-06-28',2),
-  ('2025-06-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,NULL,NULL),
+  ('2025-06-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-07-01',2),
   ('2025-06-28','TJ Miso Ginger Broth',1,2,NULL,NULL),
   ('2025-06-29','TJ Carb Savvy Tortillas',1,1,'2025-06-30',2),
   /* 2025-06-30 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, salt, a bit of cinnamon, and a bit of cayenne pepper -- more than I've been adding the past few times) */
@@ -852,5 +852,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-30','Lundberg Sustainable California White Basmati Rice',0.9,2,NULL,NULL),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-30','TJ Carb Savvy Tortillas',1,2,NULL,NULL),
-  ('2025-07-01','TJ Walnuts',1,1,NULL,NULL);
+  ('2025-07-01','TJ Walnuts',1,1,NULL,NULL),
+  ('2025-07-01','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,NULL,NULL);
   /* Double-check the date before committing */
