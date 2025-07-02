@@ -170,7 +170,8 @@ Goal of exercise: build
 
 I have done weight-lifting exercises off and on, but mostly off, till
 about 2021. I started doing weight-lifting exercises regularly in
-November 2021 and have ramped them up slowly since then. See
+November 2021 and have ramped them up slowly since then. I started
+with dumb bells and in 2025 I expanded to kettlebells. See
 [here](weight-lifting-exercises-with-history.md) for details.
 
 ## Push-ups
@@ -179,7 +180,8 @@ Goal of exercise: build
 
 I have not done push-ups in any significant quantity prior to starting
 in November 2021 along with weight-lifting exercises. I have ramped up
-the number slowly. See [here](push-ups-with-history.md) for details.
+the number slowly, and also introduced slight variations to standard
+push-ups over time. See [here](push-ups-with-history.md) for details.
 
 ## Standing-on-one-leg-with-eyes-closed exercise
 

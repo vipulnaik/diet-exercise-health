@@ -24,7 +24,7 @@ once every 3 days.
 
 For my standard push-up, I follow this protocol:
 
-* Palm for upper support (as opposed to wrist, knucle, and fingers)
+* Palm for upper support (as opposed to wrist, fist, knuckle, and fingers)
 
 * Toes for lower support (as opposed to knees)
 
@@ -48,6 +48,20 @@ The number of push-ups I can manage can vary quite a bit. When I'm
 feeling low on energy, it's in the range of 10-15. When I am higher on
 energy, it's in the range of 17-22.
 
+### Fist push-ups
+
+Fist push-ups are similar to standard push-ups with just one change:
+for upper body support, instead of resting on my palm, I rest on my
+fist, specifically, the portion between the MCP and PIP joints.
+
+Starting 2025-06-25, I try to do a few fist push-ups. I might do them
+either before or after standard push-ups.
+
+The number of fist push-ups is in the range of 2 to 7. The number is
+at the high end of the range if I do fist push-ups before standard
+push-ups, and at the low end of the range if I do standard push-ups
+before fist push-ups.
+
 ## History
 
 ### 2021-11-02: start of push-ups
@@ -68,3 +82,17 @@ because I do push-ups after jogging and weight-lifting, so while on
 the one hand I am sufficiently warmed up, on the other hand I am also
 more fatigued. However, if I can increase my number of push-ups under
 these conditions to about 25, then I should be in good shape.
+
+### 2025-06-25: fist push-ups
+
+As a prelude to fist push-ups, on 2025-03-17, 2025-04-19, and
+2025-05-21, I stayed in the push-up flank position on my fists instead
+of my palm for a few seconds.
+
+Starting Wednesday 2025-06-25, I started doing a few fist push-ups.
+
+On 2025-06-25 and 2025-06-29, I did fist push-ups after regular
+push-ups and on both days I could do 2 fist push-ups.
+
+On 2025-07-02, I did fist push-ups before regular push-ups and I
+managed 5 fist push-ups followed by 13 regular push-ups.

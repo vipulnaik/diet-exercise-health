@@ -77,7 +77,13 @@ exercise. Here is my sequence:
 
 * 10 lb pair, exercise 2: about 3 to 10 repetitions
 
-* 20 lb pair, biceps curls: about 3 to 5 repetitions
+* 20 lb pair, exercise 1: about 2 to 5 repetitions
+
+* 20 lb pair, biceps curls: about 5 to 7 repetitions
+
+* 12 lb kettlebell, squats pointing inward: about 10 repetitions
+
+* 12 lb kettlebell, squats pointing outward: about 10 repetitions
 
 The reason I always start with the 3 lb is for a mix of warmup and
 verification purposes. If, on a given day, I find that the 3 lb pair
@@ -236,3 +242,20 @@ kettlebell on Sunday 2025-03-02. The weight didn't feel too heavy, so
 at this point it's more of a movement and posture training. My plan is
 to, in a few months, once I am more confident of the movement, upgrade
 to a heavier kettlebell.
+
+### 2025-06-29 and 2025-07-02: full reps for 10 lbs exercise 2, started doing exercise 1 for 20 lbs, upped squats with kettlebell
+
+I documented these updates to my exercise routine based on my
+performance on Sunday 2025-06-29 and Wednesday 2025-07-02:
+
+* As of 2025-07-02, I'm now doing the full 15 reps for 10 lbs exercise
+  2. Going forward, I don't plan to log the number of reps for 10 lbs
+  exercise 2 as long as it's at least 15.
+
+* Starting 2025-06-29, I am doing a few reps of exercise 1 for 20 lbs
+  (in addition to doing biceps curls). I did 2 reps on 2025-06-29 and
+  3 reps on 2025-07-02.
+
+* Over the past few month, I have squats increased the number of
+  squats with the 12 lb kettlebell from 5 inward, 5 outward to 10
+  inward, 10 outward.
