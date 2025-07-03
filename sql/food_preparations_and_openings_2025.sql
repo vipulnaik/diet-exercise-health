@@ -825,10 +825,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-25','TJ Carb Savvy Tortillas',1,1,'2025-06-26',1),
   ('2025-06-25','TJ Almond Milk',1,1,null,null),
   /* 2025-06-25 potatoes prep (second meal) (added olive oil, turmeric, cumin, salt, and a very small amount of cayenne pepper) */
-  ('2025-06-25','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2025-06-25','TJ Kale',1,2,null,null),
-  ('2025-06-25','TJ English Shelled Peas',2,2,null,null),
-  ('2025-06-25','Beefsteak tomato',5,2,null,null),
+  ('2025-06-25','Gold potatoes 5 lb',0.5,2,'2025-07-02',2),
+  ('2025-06-25','TJ Kale',1,2,'2025-07-02',2),
+  ('2025-06-25','TJ English Shelled Peas',2,2,'2025-07-02',2),
+  ('2025-06-25','Beefsteak tomato',5,2,'2025-07-02',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-06-28',1),
   ('2025-06-26','TJ Carb Savvy Tortillas',1,1,'2025-06-27',1),
@@ -854,5 +854,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-30','TJ Carb Savvy Tortillas',1,2,'2025-07-02',1),
   ('2025-07-01','TJ Walnuts',1,1,null,null),
   ('2025-07-01','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
-  ('2025-07-02','TJ Sauerkraut',1,1,null,null);
+  ('2025-07-02','TJ Sauerkraut',1,1,null,null),
+  /* 2025-07-02 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt -- I skipped cayenne pepper as I had added more than usua with the eggplant meal prep) */
+  ('2025-07-02','Gold potatoes 5 lb',0.5,2,null,null),
+  ('2025-07-02','TJ Kale',1,2,null,null),
+  ('2025-07-02','TJ English Shelled Peas',2,2,null,null),
+  ('2025-07-02','Beefsteak tomato',6,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-07-02','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-07-02','TJ Carb Savvy Tortillas',1,2,null,null);
   /* Double-check the date before committing */
