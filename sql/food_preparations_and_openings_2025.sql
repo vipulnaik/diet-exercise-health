@@ -823,7 +823,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-25','Morton Iodized Sea Salt',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-25','TJ Carb Savvy Tortillas',1,1,'2025-06-26',1),
-  ('2025-06-25','TJ Almond Milk',1,1,null,null),
+  ('2025-06-25','TJ Almond Milk',1,1,'2025-07-03',2),
   /* 2025-06-25 potatoes prep (second meal) (added olive oil, turmeric, cumin, salt, and a very small amount of cayenne pepper) */
   ('2025-06-25','Gold potatoes 5 lb',0.5,2,'2025-07-02',2),
   ('2025-06-25','TJ Kale',1,2,'2025-07-02',2),
@@ -862,5 +862,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-02','Beefsteak tomato',6,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-02','TJ Roasted Seaweed',1,2,null,null),
-  ('2025-07-02','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2025-07-02','TJ Carb Savvy Tortillas',1,2,'2025-07-03',2),
+  ('2025-07-03','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-07-03','TJ Almond Milk',1,2,null,null);
   /* Double-check the date before committing */
