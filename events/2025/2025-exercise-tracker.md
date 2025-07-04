@@ -759,3 +759,9 @@ items and other items in the morning, but I also wanted to do eggplant
 meal prep prior to my first meal. By jogging at home and doing a
 shorter duration, I was able to reduce my time spent jogging and start
 the eggplant meal prep sooner.
+
+## 2025-07-03: skipped all exercises due to a morning time squeeze
+
+On Thursday 2025-07-03, I skipped all exercises because a work meeting
+start 10:30 AM ended up going much longer, and I hadn't had time to
+get started on exercises prior to the meeting.
