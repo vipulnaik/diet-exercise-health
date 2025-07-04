@@ -209,3 +209,8 @@ tasks. Some of the stops were:
 On Monday 2025-06-23, in the morning, I made a trip to Walgreens for
 toiletries shopping (specifically, to stock back up on face tissues
 after the depletion due to my recent respiratory infection).
+
+## 2025-07-03
+
+On Thursday 2025-07-03, in the late afternoon / early evening, I made
+a trip to the UPS Store at 2342 Shattuck Ave to pick up a package.
