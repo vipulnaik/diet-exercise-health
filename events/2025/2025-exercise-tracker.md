@@ -765,3 +765,11 @@ the eggplant meal prep sooner.
 On Thursday 2025-07-03, I skipped all exercises because a work meeting
 start 10:30 AM ended up going much longer, and I hadn't had time to
 get started on exercises prior to the meeting.
+
+## 2025-07-05: at-home jogging to be able to start the heat for cooking sooner
+
+On Saturday 2025-07-05, I did at-home jogging instead of going out to
+jog so that I could start the heat for cooking rice sooner. If I'd
+gone out jogging, I would only be able to start the heat after getting
+back, whereas this way, I was able to start the heat a few minutes
+after starting jogging.
