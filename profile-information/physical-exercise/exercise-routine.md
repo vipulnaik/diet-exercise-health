@@ -236,8 +236,10 @@ details.
 
 Goal of exercise: build
 
-As of February 2025, my aim is to build toward consistently doing at
-least 3 minutes without having to lift and reposition either foot.
+When I started this exercise in February 2025, my aim was to build
+toward consistently doing at least 3 minutes without having to lift
+and reposition either foot. As of July 2025, I believe I have
+accomplished this goal.
 
 See [here](standing-on-toes-with-eyes-open-with-history.md) for more
 details.

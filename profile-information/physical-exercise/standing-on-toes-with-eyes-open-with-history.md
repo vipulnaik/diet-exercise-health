@@ -2,7 +2,7 @@
 
 ## Goal and functional relevance of exercise
 
-### Build to standing-on-toes-with-eyes-open duration at at least 3 minutes
+### Maintain standing-on-toes-with-eyes-open duration at at least 3 minutes
 
 The exercise of standing on toes with eyes open is complementary to
 the exercise of standing on toes with eyes closed. The main difference
@@ -12,7 +12,7 @@ cases), the eyes-open version is primarily constrained on the strength
 and stamina of the leg. With that said, there does seem to be a
 positive correlation between the two exercises.
 
-My goal is to build to a standing-on-toes-with-eyes-closed duration of
+My goal is to maintain a standing-on-toes-with-eyes-open duration of
 at least 3 minutes. I believe this is a reasonable amount of time,
 though I don't have very clear reasons for picking that particular
 duration.
@@ -51,9 +51,13 @@ cooking for water to fill or to soak.
 
 ## History
 
-My first recorded time doing this exercise was on 2025-02-18, where I
-got 104 seconds. I did it again on 2025-02-21, getting to 111 seconds
-this time.
+My attempts have been as follows:
 
-I plan to update here when I consistently cross 2 minutes and then
-again when I consistently cross 3 minutes.
+* 2025-02-18: 104 seconds
+* 2025-02-21: 111 seconds
+* 2025-03-09: 171 seconds
+* 2025-06-23: 205 seconds
+* 2025-07-05: 241 seconds
+
+As of 2025-07-05, it seems that I can now consistently manage over 3
+minutes, though more tries are needed to paint a clearer picture.
