@@ -110,8 +110,20 @@ completion I do it for the other leg.
 
 ### Triggers for overall exercise
 
-I do the exercise about once every 3 days, on the day that I am not
-doing strength exercises.
+I skip strength exercises about once every 3 days. Among days I skip
+strength exercises, I do the standing-on-one-leg-with-eyes-closed
+exercise on alternating days, so the overall frequency works out to
+once every 6 days. After completing this exercise, I do the
+[standing-on-toes-with-eyes-closed
+exercise](standing-on-toes-with-eyes-closed-with-history.md). On the
+other alternate day that I skip strength exercises, I do the more
+experimental eyes-open balance and flexibility exercises such as the
+[standing-on-heels-with-eyes-open
+exercise](standing-on-heels-with-eyes-open-with-history.md),
+[standing-on-one-leg-toes-with-eyes-open
+exercise](standing-on-one-leg-toes-with-eyes-open-with-history.md),
+and various other not-yet-documented exercises including dorsiflexion
+and plantar flexion exercises.
 
 ## History
 
@@ -424,14 +436,23 @@ so further reduction in the future may also happen).
 
 The other notes about the exercise remain unchanged.
 
-#### Settings 2025-01-20 onward
+#### Settings 2025-01-20 to 2025-07-04
 
-In light of good and improving performance on the exercise, I am
-reducing the frequency to do it (before jogging) to the days that I am
-not doing either of the strength exercise sets (i.e., either weight
+In light of good and improving performance on the exercise, I reduced
+the frequency to do it (before jogging) to the days that I am not
+doing either of the strength exercise sets (i.e., either weight
 lifting + push-ups or dead hang + pull-ups). This will make the
 frequency about one every three days. The goal of this change is to
 reduce my total exercise time, particularly on the days where it's
 longer, and as a side-effect also make it more equal across days. If I
 find deterioration from this reduced frequency, I might increase the
 frequency to two out of three days.
+
+#### Settings 2025-07-05 onward
+
+In light of continued maintenance and slight improvement of
+performance, as well as the introduction of several other balance
+exercises, I decided on 2025-07-05 to reduce the frequency to
+alternating days among days that I am not doing strength
+exercises. This means the effective frequency will be about once every
+6 days, down from once every 3 days.

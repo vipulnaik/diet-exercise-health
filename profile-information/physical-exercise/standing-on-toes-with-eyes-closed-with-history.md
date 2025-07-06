@@ -43,14 +43,24 @@ maximum makes more sense given the increased threshold.
 
 ## Triggers for overall exercise
 
-I've been doing this exercise daily starting Monday 2024-09-09,
-generally as a followup to [standing on one leg with eyes
-closed](standing-on-one-leg-with-eyes-closed-with-history.md). The
-stipulations regarding the conditions under which to do the
-standing-on-one-leg-with-eyes-closed exercise apply to this exercise
-as well.
+I skip strength exercises about once every 3 days. Among days I skip
+strength exercises, I do the standing-on-toes-with-eyes-closed
+exercise on alternating days, so the overall frequency works out to
+once every 6 days. I do this exercise right after doing the
+[standing-on-one-leg-with-eyes-closed
+exercise](standing-on-toes-with-eyes-closed-with-history.md). On the
+other alternate day that I skip strength exercises, I do the more
+experimental eyes-open balance and flexibility exercises such as the
+[standing-on-heels-with-eyes-open
+exercise](standing-on-heels-with-eyes-open-with-history.md),
+[standing-on-one-leg-toes-with-eyes-open
+exercise](standing-on-one-leg-toes-with-eyes-open-with-history.md),
+and various other not-yet-documented exercises including dorsiflexion
+and plantar flexion exercises.
 
 ## History
+
+### History of threshold durations
 
 When I started on 2024-09-09, I set a threshold of 15 seconds.
 
@@ -78,3 +88,26 @@ the durations I had achieved over the past month.
 
 On 2025-06-22, I increased the threshold to 65 seconds after reviewing
 the durations I had achieved over the past two months.
+
+### History of triggers for overall exercise
+
+Right from the start of this exercise on 2024-09-09, I set this
+exercise to be done ater the standing-on-one-leg-with-eyes-closed
+exercise that I had started a long time ago.
+
+#### Settings 2024-09-09 to 2025-01-19
+
+Over this period, I did the exercise (at least once) daily, following
+the standing-on-one-leg-with-eyes-closed exercise.
+
+#### Settings 2025-01-20 to 2025-07-04
+
+Over this period, I did the exercise once every 3 days, specifically
+the days I was skipping strength exercises, following the
+standing-on-one-leg-with-eyes-closed exercise.
+
+### Settings 2025-07-05 onward
+
+Starting 2025-07-05, I now do the exercise after
+standing-on-one-leg-with-eyes-closed exercise on alternating days that
+I skip strength exercises. The effective frequency is once every 6 days.

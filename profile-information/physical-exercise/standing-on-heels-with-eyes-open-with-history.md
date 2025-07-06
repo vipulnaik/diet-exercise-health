@@ -57,16 +57,20 @@ high a maximum as possible.
 
 ## Triggers for overall exercise
 
-I've been doing this exercise daily starting Friday 2025-06-20,
-generally as a followup to [standing on one leg with eyes
-closed](standing-on-one-leg-with-eyes-closed-with-history.md). The
-stipulations regarding the conditions under which to do the
-standing-on-one-leg-with-eyes-closed exercise apply to this exercise
-as well.
+I skip strength exercises about once every 3 days. On the alternating
+days among days that I skip strength exercise, I do this exercise
+along with other eyes-open balance and flexibility exercises. The
+effective frequency is therefore about once every 6 days.
+
+The other exercises I do along with this are
+[standing-on-one-leg-toes-with-eyes-open](standing-on-one-leg-toes-with-eyes-open-with-history.md)
+and not-yet-documented dorsiflexion and plantar flexion exercises.
 
 ## History
 
-### First attempt on Friday 2025-06-20 and followup plus formalization on Sunday 2025-06-22
+### History of threshold durations
+
+#### First attempt on Friday 2025-06-20 and followup plus formalization on Sunday 2025-06-22
 
 I made my first recorded attempt on Friday 2025-06-20. I was able to
 achieve a max of 8 to 9 seconds at least once with a bit of forward
@@ -78,3 +82,18 @@ seconds and a maximum of about 7 seconds. I also formalized the
 exercise structure on this day, including setting conventions on
 overall duration and recording of minimum and maximum.
 
+### History of triggers for overall exercise
+
+#### Settings 2025-06-20 to 2025-07-04
+
+I started doing this exercise on Friday 2025-06-20, generally as a
+followup to [standing on one leg with eyes
+closed](standing-on-one-leg-with-eyes-closed-with-history.md). The
+stipulations regarding the conditions under which to do the
+standing-on-one-leg-with-eyes-closed exercise apply to this exercise
+as well.
+
+#### Settings 2025-07-05 onward
+
+Starting 2025-07-05, I switched to doing this exercise on the
+alternating days among days I skip strength exercises.

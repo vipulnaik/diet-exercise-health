@@ -31,9 +31,38 @@ document this.
 I should do up to five tries on each leg. I can stop if I hit the
 threshold of 10 seconds on any try.
 
+## Triggers for overall exercise
+
+I skip strength exercises about once every 3 days. On the alternating
+days among days that I skip strength exercise, I do this exercise
+along with other eyes-open balance and flexibility exercises. The
+effective frequency is therefore about once every 6 days.
+
+The other exercises I do along with this are
+[standing-on-heels-with-eyes-open](standing-on-heels-with-eyes-open-with-history.md)
+and not-yet-documented dorsiflexion and plantar flexion exercises.
+
 ## History
+
+### History of threshold durations
 
 I started doing this exercise on Sunday 2025-06-22.
 
 On 2025-06-26, I documented the exercise and set the threshold as 10
 seconds.
+
+### History of triggers for overall exercise
+
+#### Settings 2025-06-22 to 2025-07-04
+
+I started doing this exercise on Friday 2025-06-20, generally as a
+followup to [standing on one leg with eyes
+closed](standing-on-one-leg-with-eyes-closed-with-history.md). The
+stipulations regarding the conditions under which to do the
+standing-on-one-leg-with-eyes-closed exercise apply to this exercise
+as well.
+
+#### Settings 2025-07-05 onward
+
+Starting 2025-07-05, I switched to doing this exercise on the
+alternating days among days I skip strength exercises.
