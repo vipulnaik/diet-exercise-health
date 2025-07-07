@@ -7,7 +7,7 @@
 * [How to Build a Strong Neck | Dr. Andrew Huberman | The Tim Ferriss Show
 ](https://www.youtube.com/watch?v=uI-D4JTcOr4)
 * [Neck Training Like Andrew Huberman (Results After 4 Weeks)](https://www.youtube.com/watch?v=1iM_JMW-up0) (this is a response of sorts after implementing the suggestions of the preceding video)
-* [Neck Strengthening Exercises (Easy to Hard) Good for Whiplash, Arthritis, etc.](https://www.youtube.com/watch?v=Jz-UKE6_GAI) (this starts off at a physicl therapy level but ratchets up to relatively hard exercises similar to the starting exercises discussed in the preceding videos)
+* [Neck Strengthening Exercises (Easy to Hard) Good for Whiplash, Arthritis, etc.](https://www.youtube.com/watch?v=Jz-UKE6_GAI) (this starts off at a physical therapy level but ratchets up to relatively hard exercises similar to the starting exercises discussed in the preceding videos)
 * [Neck Flexor Endurance Test | Deep Neck Flexors](https://www.youtube.com/watch?v=0JEWM_McBmM) seems like a good endurance test to benchmark neck strength (basically, measure the duration of being able to do this hold)
 
 ## Goal and functional relevance of exercise
