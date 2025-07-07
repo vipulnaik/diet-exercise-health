@@ -843,11 +843,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-28','TJ Miso Ginger Broth',1,2,'2025-07-04',1),
   ('2025-06-29','TJ Carb Savvy Tortillas',1,1,'2025-06-30',2),
   /* 2025-06-30 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, salt, a bit of cinnamon, and a bit of cayenne pepper -- more than I've been adding the past few times) */
-  ('2025-06-30','Eggplant',1,1,null,null),
-  ('2025-06-30','TJ Kale',1,1,null,null),
-  ('2025-06-30','TJ Carrots',1,1,null,null),
-  ('2025-06-30','Green bell pepper',6,1,null,null), /* I accidentally bought 6 green bell peppers instead of 4 green + 2 red, so I cooked all 6 green */
-  ('2025-06-30','Beefsteak tomato',8,1,null,null),
+  ('2025-06-30','Eggplant',1,1,'2025-07-07',1),
+  ('2025-06-30','TJ Kale',1,1,'2025-07-07',1),
+  ('2025-06-30','TJ Carrots',1,1,'2025-07-07',1),
+  ('2025-06-30','Green bell pepper',6,1,'2025-07-07',1), /* I accidentally bought 6 green bell peppers instead of 4 green + 2 red, so I cooked all 6 green */
+  ('2025-06-30','Beefsteak tomato',8,1,'2025-07-07',1),
   /* 2025-06-30 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-06-30','Lundberg Sustainable California White Basmati Rice',0.9,2,'2025-07-04',2),
   /* new bottle/packet openings as the old ones finished */
@@ -872,5 +872,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-05','TJ Walnuts',1,1,null,null),
   ('2025-07-05','TJ Carb Savvy Tortillas',1,2,null,null),
-  ('2025-07-06','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null);
+  ('2025-07-06','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
+  /* 2025-07-07 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, salt, and a bit of cayenne pepper -- back to a normal level after adding too much last time) */
+  ('2025-07-07','Eggplant',1,1,null,null),
+  ('2025-07-07','TJ Kale',1,1,null,null),
+  ('2025-07-07','TJ Carrots',1,1,null,null),
+  ('2025-07-07','Green bell pepper',4,1,null,null),
+  ('2025-07-07','Red bell pepper',2,1,null,null),
+  ('2025-07-07','Beefsteak tomato',9,1,null,null);
   /* Double-check the date before committing */
