@@ -773,3 +773,22 @@ jog so that I could start the heat for cooking rice sooner. If I'd
 gone out jogging, I would only be able to start the heat after getting
 back, whereas this way, I was able to start the heat a few minutes
 after starting jogging.
+
+## 2025-07-07: skipped all exercises due to scheduling and time availability constraints
+
+On Monday 2025-07-07, I skipped all exercises. This was due to a mix
+of scheduling and time availability constraints. There was a
+confluence of several factors:
+
+* I stayed up late the previous day, due to scheduling constraints and
+  a few time-sensitive matters. So I woke up late in the morning.
+
+* I had a bunch of work meetings in the morning and afternoon,
+  reducing my flexibility to step away from the computer.
+
+* I wanted to do eggplant meal prep in the morning prior to my first
+  meal (this also fit well in terms of multiplexing with a subset of
+  the meetings).
+
+Due to a combination of these factors, I decided it was best to skip
+all exercises.
