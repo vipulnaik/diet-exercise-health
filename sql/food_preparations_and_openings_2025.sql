@@ -842,12 +842,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-07-01',2),
   ('2025-06-28','TJ Miso Ginger Broth',1,2,'2025-07-04',1),
   ('2025-06-29','TJ Carb Savvy Tortillas',1,1,'2025-06-30',2),
-  /* 2025-06-30 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, salt, a bit of cinnamon, and a bit of cayenne pepper -- more than I've been adding the past few times) */
-  ('2025-06-30','Eggplant',1,1,'2025-07-07',1),
-  ('2025-06-30','TJ Kale',1,1,'2025-07-07',1),
-  ('2025-06-30','TJ Carrots',1,1,'2025-07-07',1),
-  ('2025-06-30','Green bell pepper',6,1,'2025-07-07',1), /* I accidentally bought 6 green bell peppers instead of 4 green + 2 red, so I cooked all 6 green */
-  ('2025-06-30','Beefsteak tomato',8,1,'2025-07-07',1),
+  /* 2025-06-30 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, salt, a bit of cinnamon, and a bit of cayenne pepper -- more than I've been adding the past few times); regarding completion, I intended to complete at ('2025-07-07',1) but I missed a bit that was mixed with potatoes prep that I finished in the next meal ('2025-07-07',2) */
+  ('2025-06-30','Eggplant',1,1,'2025-07-07',2),
+  ('2025-06-30','TJ Kale',1,1,'2025-07-07',2),
+  ('2025-06-30','TJ Carrots',1,1,'2025-07-07',2),
+  ('2025-06-30','Green bell pepper',6,1,'2025-07-07',2), /* I accidentally bought 6 green bell peppers instead of 4 green + 2 red, so I cooked all 6 green */
+  ('2025-06-30','Beefsteak tomato',8,1,'2025-07-07',2),
   /* 2025-06-30 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-06-30','Lundberg Sustainable California White Basmati Rice',0.9,2,'2025-07-04',2),
   /* new bottle/packet openings as the old ones finished */

@@ -30,7 +30,7 @@ queries = [
     and (food_preparations_and_openings.preparation_or_opening_date, food_preparations_and_openings.meal_index) < (food_preparations_and_openings_copy.preparation_or_opening_date, food_preparations_and_openings_copy.meal_index);""",
 
     # I should not have more than one of a given food type open at overlapping times, with the exception of kale and tomato that I use across two different kinds of meal preps
-    "select * from food_preparations_and_openings_self_join where (preparation_or_opening_date_2, meal_index_2) < (completion_date_1, completion_meal_index_1) and not (food_type in ('TJ Kale','Beefsteak tomato'));",
+    "select * from food_preparations_and_openings_self_join where (preparation_or_opening_date_2, meal_index_2) < (completion_date_1, completion_meal_index_1) and not (food_type in ('TJ Kale','Beefsteak tomato')) and not ((completion_date_1 , completion_meal_index_1) = ('2025-07-07',2) and (preparation_or_opening_date_2, meal_index_2) = ('2025-07-07',1));",
 
     # This variant needs a cutoff date of 2025-02-24 because I didn't record completion dates prior. Once I backfill estimated completion dates, the cutoff date can be adjusted or removed
     "select * from food_preparations_and_openings_self_join where completion_date_1 is null and datediff(curdate(), preparation_or_opening_date_2) >= 1 and preparation_or_opening_date_1 >= '2025-02-24' and not (food_type in ('TJ Kale','Beefsteak tomato'));",
