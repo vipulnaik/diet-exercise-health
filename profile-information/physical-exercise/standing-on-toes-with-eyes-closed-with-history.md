@@ -55,8 +55,8 @@ experimental eyes-open balance and flexibility exercises such as the
 exercise](standing-on-heels-with-eyes-open-with-history.md),
 [standing-on-one-leg-toes-with-eyes-open
 exercise](standing-on-one-leg-toes-with-eyes-open-with-history.md),
-and various other not-yet-documented exercises including dorsiflexion
-and plantar flexion exercises.
+and [dorsiflexion and plantar flexion
+exercises](dorsiflexion-and-plantar-flexion-exercises-with-history.md).
 
 ## History
 

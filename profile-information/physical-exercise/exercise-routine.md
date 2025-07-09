@@ -31,6 +31,8 @@ Sections of this document:
 * [Standing-on-toes-with-eyes-open exercise](#standing-on-toes-with-eyes-open-exercise)
 * [Standing-on-one-leg-toes-with-eyes-open exercise](#standing-on-one-leg-toes-with-eyes-open-exercise)
 * [Standing-on-heels-with-eyes-open exercise](#standing-on-heels-with-eyes-open-exercise)
+* [Dorsiflexion and plantar flexion exercises](#dorsiflexion-and-plantar-flexion-exercises)
+* [Hopping](#hopping)
 * [Hand gripper exercise](#hand-gripper-exercise)
 * [Dead hang](#dead-hang)
 * [Pull-ups](#pull-ups)
@@ -264,6 +266,17 @@ my upper body balance and my ability to catch myself falling.
 
 See [here](standing-on-heels-with-eyes-open-with-history.md) for more
 details.
+
+## Dorsiflexion and plantar flexion exercises
+
+Goal of exercises: verify and maintain
+
+I started these exercises (which are more measurements than exercises)
+in July 2025 with the goal of verifying and maintaining my angles of
+dorsiflexion and plantar flexion at at least 35 degrees each.
+
+See [here](dorsiflexion-and-plantar-flexion-exercises-with-history.md)
+for more information.
 
 ## Hopping
 

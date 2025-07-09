@@ -40,7 +40,8 @@ effective frequency is therefore about once every 6 days.
 
 The other exercises I do along with this are
 [standing-on-heels-with-eyes-open](standing-on-heels-with-eyes-open-with-history.md)
-and not-yet-documented dorsiflexion and plantar flexion exercises.
+and [dorsiflexion and plantar
+flexion](dorsiflexion-and-plantar-flexion-exercises-with-history.md).
 
 ## History
 
