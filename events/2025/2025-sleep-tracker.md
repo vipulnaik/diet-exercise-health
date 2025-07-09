@@ -574,3 +574,46 @@ work. But around 7:37 AM, after getting some stuff started that was
 running in the background, I decided to rest in bed for a little
 longer. So I rested in bed in a semi-sleepy state from 7:37 AM to 8:49
 AM.
+
+## 2025-07-06 to 2025-07-08: three consecutive days of sleeping late due to unforeseen factors
+
+From Sunday 2025-07-06 to Tuesday 2025-07-08, I unleashed a domino
+chain of events that led to me sleeping late (around 1 AM) on all days:
+
+* On Sunday 2025-07-06, I really wanted to start making progress on
+  some administrative reorganization work, so I decided to spend time
+  in the afternoon on it, which in turn delayed my evening Trader
+  Joe's run. I still came back around 6:54 PM, in time to eat and go
+  to sleep reasonably on time, but I happened to have a weekly chat
+  scheduled at 7:30 PM and I couldn't squeeze my meal in the small
+  amount of time in between. After all was said and done, I ended up
+  starting my second meal at 8:42 PM, and as a result I went to sleep
+  at 1:52 AM.
+
+* On Monday 2025-07-07, I was starting somewhat on the backfoot due to
+  sleeping late the previous night. Additionally, I had a bunch of
+  meetings and I had to cook food. Due to these factors I ended up
+  having my first meal a little late. Even so, I could have pulled
+  things in, but then the work task I picked after my first meal
+  turned out to require a longer chunk of work and by the time I
+  started my second meal it was 9:06 PM. However, I still made it a
+  point not to sleep too late, sacrificing meal-sleep gap a bit, and I
+  went to sleep at 12:55 AM.
+
+* On Tuesday 2025-07-08, I once again started a bit on the backfoot
+  due to sleeping late, and I also ended up having a bunch of work
+  items that ended up stretching out, so I was delayed starting my
+  first meal. I was still on track to have my second meal not *too*
+  late, but then my Trader Joe's trip was cut short by an [insect
+  bite](2025-07-08-insect-bite.md), and coming back from the insect
+  bite and then regrouping and going again led the whole process to be
+  delayed by an hour. I ended up starting my second meal at 9:01 PM. I
+  finally went to sleep at 1:20 AM.
+
+While going to sleep late didn't hurt my sleep quality much, it isn't
+ideal from the perspective of needing to make sure I can get up early
+for work meetings, as well as for other potential things. The coming
+days are more critical in this respect, so my plan is to impose
+stricter discipline. In particular, I want to try to get my first meal
+in early as well as delay or eschew work tasks that might end up
+requiring long time chunks.
