@@ -1,7 +1,7 @@
 create table accidents(
   date date,
   date_precision enum('day','month','quarter','year'),
-  cause_of_accident enum('Shaving cut','Walking fall','Running fall','Traffic accident','Object drop','Minor cut with delayed bleeding','Non-injury bleeding'),
+  cause_of_accident enum('Shaving cut','Walking fall','Running fall','Traffic accident','Object drop','Minor cut with delayed bleeding','Non-injury bleeding','Insect bite'),
   physical_injury_details varchar(2000),
   physical_injury_severity int(11),
   other_damage_details varchar(2000),
@@ -21,4 +21,5 @@ insert into accidents(date, date_precision, cause_of_accident, physical_injury_d
   ('2024-06-08','day','Minor cut with delayed bleeding','This was a case of a paper cut against the residue of a paper cover on a vegan probiotic yogurt bottle when rinsing it after use. Bleeding was brief but nontrivial; I had to use bandages a few times including one overnight.',1,null,'https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-06-08-paper-cut-from-yogurt-cover.md'),
   ('2024-07-21','day','Minor cut with delayed bleeding','The source of the cut is unclear. It cut the right middle finger around the PIP area back side. See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-07-21-finger-injuries.md for more information.',0,null,'https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-07-21-finger-injuries.md'),
   ('2024-07-21','day','Minor cut with delayed bleeding','I got this very slight cut on my thumb when opening a bandage pack trying to see if the bigger bandages might be suitable for the right middle finger cut. See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-07-21-finger-injuries.md for more information.',0,null,'https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-07-21-finger-injuries.md'),
-  ('2025-01-18','day','Minor cut with delayed bleeding','I stubbed my right little toe against the chair. See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-01-18-right-little-toe-stub.md for more information.',0,null,'https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-01-18-right-little-toe-stub.md');
+  ('2025-01-18','day','Minor cut with delayed bleeding','I stubbed my right little toe against the chair. See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-01-18-right-little-toe-stub.md for more information.',0,null,'https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-01-18-right-little-toe-stub.md'),
+  ('2025-07-08','day','Insect bite','When walking outdoors, I got stung by a bee-like insect (probably a wasp). https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-07-08-insect-bite.md for more information.',1,null,'https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-07-08-insect-bite.md');
