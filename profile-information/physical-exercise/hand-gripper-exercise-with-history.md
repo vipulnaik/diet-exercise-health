@@ -63,9 +63,9 @@ has been helpful occasionally for carrying complex, unwieldy loads
 (where it's not just the weight of the load but the awkward way it
 hangs which means I need to use grip strength).
 
-## Current protocol and status as of 2025-05-26
+## Current protocol and status as of 2025-07-09
 
-### First of alternating days (focus on maintaining)
+### First of three-day cycle: 150 lb and 100 lb close-and-hold with all fingers (focus on maintaining)
 
 I do this sequence every alternating day in the morning, with the
 steps in quick succession:
@@ -111,7 +111,7 @@ steps in quick succession:
   not be able to do the 150 lb immediately aferward. That's why I
   start with the 150 lb.
 
-  I used to consistently get aboe 20 seconds but of late (in May 2025
+  I used to consistently get above 20 seconds but of late (in May 2025
   in India after travel-related adjustment) have been going down to
   about 15 seconds, and occasionally dipping even below that.
 
@@ -121,7 +121,7 @@ and more representative of a real-world situation (e.g., gripping
 something that I can't afford to let go of). However, I might do
 multiple open/closes outside of my daily routine.
 
-### Second of alternating days (focus on building)
+### Second of 3-day cycle: 150 lbs and 100 lb close-and-hold excluding specific fingers (focus on building)
 
 * Right hand on 150 lb: I try to close and keep closed excluding my
   little finger and then separately excluding my index finger.
@@ -163,6 +163,22 @@ multiple open/closes outside of my daily routine.
     harder than using all fingers.
 
   * Excluding the index finger: I am not able to do this consistently.
+
+### Third of 3-day cycle: 200 lb close (focus on building -- very far from being able to do this)
+
+* Right hand on 200 lb: I try to close the 200 lb as far as
+  possible. I record how far I got in closing. As of 2025-07-09, I can
+  get to about parallel but not much beyond.
+
+* Left hand on 200 lb: I try to close the 200 lb as far as possible.
+  I record how far I got in closing. As of 2025-07-09, I can just
+  about get to about parallel.
+
+* Both hand together on 200 lb: I try to close the 200 lb with both
+  hands together, trying them on different sides as well as trying
+  then wrapped around together. I record how far I got in
+  closing. This is generally a little better than either hand
+  individually but not much.
 
 ### Post-exercise relaxation
 
@@ -410,3 +426,11 @@ travel-related adjustment and fatigue, I have reduced the lower end of
 the duration range in the protocol. I have also indicated that I now
 try the 150 lb with fingers excluded on alternate days (starting
 2025-05-21).
+
+### Update on 2025-07-09
+
+I reintroduced attempts to close 200 lb, and in the process switched
+from alternating between two protocols (close-and-hold with all
+fingers, close-and-hold with specific fingers excluded) across two
+days to alternating between three protocols (those two and attempt to
+close 200 lb) across three days.
