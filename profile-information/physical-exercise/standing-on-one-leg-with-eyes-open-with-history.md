@@ -6,7 +6,7 @@ do more rarely.
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-open for at least 4 minutes
+### Maintain standing-on-one-leg-with-eyes-open for at least 5 minutes
 
 The exercise of standing on one leg with eyes open is complementary to
 the exercise of standing on one leg with eyes closed. The main
@@ -17,7 +17,7 @@ on the strength and stamina of the leg. With that said, there does
 seem to be a positive correlation between the two exercises.
 
 My goal is to maintain my current ability to stand on one leg with
-eyes open for at least 4 minutes on each leg. Since this is with eyes
+eyes open for at least 5 minutes on each leg. Since this is with eyes
 open, I can multiplex this with watching a video as long as I don't
 need to interact with it by clicking on stuff.
 
@@ -43,7 +43,7 @@ The main benefits are as follows:
   version. Anecdotally, it feels like doing the eyes-open exercise
   does seem to result in improvements in the eyes-closed version.
 
-The threshold of 4 minutes is a bit arbitrary, and mainly stems from a
+The threshold of 5 minutes is a bit arbitrary, and mainly stems from a
 need to balance the time and energy expenditure against the value of
 the exercise. I can imagine raising the theshold a bit over time,
 though it's unlikely to go beyond 10 minutes.
@@ -58,7 +58,7 @@ right leg, then after being done with it, do it on the left leg.
 ## Frequency
 
 My aim is to do this exercise about once a month on each leg. If I am
-not able to clear the threshold of 4 minutes on either leg, I may
+not able to clear the threshold of 5 minutes on either leg, I may
 repeat that particular leg the next day.
 
 ## History
@@ -79,11 +79,19 @@ At this time, my goal was to manage at least 2 minutes on each leg.
 Starting 2024-11-30, I switched the exercise to monthly frequency,
 while maintaining the goal of a 2-minute frequency.
 
-### Separate exercise document and increaase in duration to 4 minutes on 2025-02-19
+### Separate exercise document and increase in duration threshold to 4 minutes on 2025-02-19
 
 On 2025-02-19, after successfully doing the exercise for over 4
-minutes on each leg, I increased the threshold to 4 minutes for each
-leg. I also decided to make a separate document for the eyes-open
-exercise (the one you are reading right now); previously, it had only
-been mentioned tangentially at the end of the eyes-closed exercise's
-document.
+minutes on each leg, I increased the duration threshold to 4 minutes
+for each leg. I also decided to make a separate document for the
+eyes-open exercise (the one you are reading right now); previously, it
+had only been mentioned tangentially at the end of the eyes-closed
+exercise's document.
+
+### Duration threshold increase to 5 minutes on 2025-07-09
+
+On Wednesday 2025-07-09, after successfully exceeding 5 minutes on
+both legs for the second time (the previous successful attempts over 5
+minutes had been in April 2025, and prior to that I had exceeded 5
+minutes on the right leg but not the left leg on 2025-03-28) I
+increased the duration threshold for both legs to 5 minutes.
