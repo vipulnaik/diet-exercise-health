@@ -835,7 +835,20 @@ insert into food_types(short_name, long_name, url,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,null,1664 /* using 16 times 8% of RDA 1300 mg for a 2000-calorie diet */,17.28 /* using 16 times 6% of RDA 18 mg for a 2000-calorie diet */,
   /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
   /* special oxalate column added in light of risk of kidney stones */ null,
-  /* notes */ 'I used the information for the back for one serving and multiplied by 16 as it said there are 16 servings per container.');
+  /* notes */ 'I used the information for the back for one serving and multiplied by 16 as it said there are 16 servings per container.'),
+
+  ('TJ Brazil Nuts','Trader Joe''s Brazil Nuts','https://www.amazon.com/Trader-Joes-Raw-Brazil-Nuts/dp/B00I0H7KFI',
+  /* calories, weight, and volume */ 2875 /* calories from fat: 2572 */,454,null,
+  /* broad food type */ 'Brazil nut',
+  /* fat-related columns */ 287.5,68.1,0,105.9,90.8,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,null,
+  /* carbohydrate-reated columns */ 60.5,30.2,15.1,
+  /* protein-related columns */ 60.5,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,null,786.9 /* using RDA 1300 mg and reported 4% RDA */,16.3 /* using RDA 18 mg and reported 6% RDA */,
+  /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes */ 'I used the information on the back for one serving (30 grams) and multiplied by 454 / 30 to get the total for a container.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right

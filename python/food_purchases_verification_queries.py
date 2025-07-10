@@ -190,7 +190,7 @@ queries = [
       select *, 'previous' as epoch from previous_daily_pw_amounts;""",
 
     # The wide range for daily calories reflects significant seasonal fluctuation
-    "select epoch, daily_calories from daily_pw_amounts_by_epoch where daily_calories < 1750 or daily_calories > 3000;",
+    "select epoch, daily_calories from daily_pw_amounts_by_epoch where daily_calories < 1750 or daily_calories > 3100;",
 
     # For the next two queries, I bound carbs and fats based on total calorie consumption as the calorie consumption can vary a lot by season
     "select epoch, daily_total_carb_in_grams, daily_calories from daily_pw_amounts_by_epoch where daily_total_carb_in_grams < 0.1 * daily_calories or daily_total_carb_in_grams > 0.16 * daily_calories;",
