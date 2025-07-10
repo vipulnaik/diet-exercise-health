@@ -228,7 +228,12 @@ queries = [
     from previously_powed_items_with_frequencies left join food_types
     on previously_powed_items_with_frequencies.food_type = food_types.short_name;""",
 
-    "select * from recently_powed_items_with_frequencies_and_nutrition where short_name is null;",
+    """
+    select * from recently_powed_items_with_frequencies_and_nutrition where short_name is null;
+  
+    -- :o :o :o
+
+    -- :o :o :o""",
 
     "select * from previously_powed_items_with_frequencies_and_nutrition where short_name is null;",
 
