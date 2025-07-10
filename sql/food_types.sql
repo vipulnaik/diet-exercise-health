@@ -512,6 +512,19 @@ insert into food_types(short_name, long_name, url,
   /* special oxalate column added in light of risk of kidney stones */ 1111, /* I used 49 mg per 100 grams (the highest of related estimates) per https://ohf.org/vegetables-oxalate/ */
   /* notes */ 'The linked page isn''t for the brand I buy, but I expect the nutritional content to be similar. It gives the data per potato (148 grams, or about 1/3 of a lb), and there are approximately 15 potatoes in 5 lb. So I multiplied their numbers by 15.'),
 
+  ('Russet potatoes 5 lb','Premium Idaho Potatoes 5 lb (~15 russet potatoes)',null /* I read information off the package label */,
+  /* calories, weight, and volume */ 1650,2267.96,null,
+  /* broad food type */ 'Potato',
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 0,9300,
+  /* carbohydrate-related columns */ 390,30,15,
+  /* protein-related columns */ 45,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,405,0,300,16.2,
+  /* columns for other less commonly reported vitamins and minerals */ 3.0,null,null,null,null,null,null,null,
+  /* special oxalate column added in light of risk of kidney stones */ 1043, /* I used 46 mg per 100 grams (the highest of related estimates) per https://ohf.org/vegetables-oxalate/ */
+  /* notes */ 'I used the amounts on the package label for Premium Idaho Potatoes 5 lb, which were specified for one potato weighing 5.3 oz (1/3 of a pound) so 1/15 of the total weight. I multiplied all the numbers by 15 to get the estimate for 5 lb. The data almost exactly matches the data for gold potatoes, with a small rounding-level discrepancy for Vitamin B6.'),
+
   ('TJ Indian Style Flatbread','Trader Joe''s Traditional Indian Style Flatbread','https://www.aldireviewer.com/trader-joes-traditional-indian-style-flatbread/',
   /* calories, weight, and volume */ 1400, 510, null,
   /* broad food type */ 'Non-whole wheat tortilla',
