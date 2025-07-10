@@ -116,7 +116,7 @@ queries = [
 
     -- :o :o :o""",
 
-    "select * from previously_pwed_items_with_frequencies_and_nutrition where short_name is null;"
+    "select * from previously_pwed_items_with_frequencies_and_nutrition where short_name is null;",
 
     """
     drop temporary table if exists recent_daily_pw_amounts;
