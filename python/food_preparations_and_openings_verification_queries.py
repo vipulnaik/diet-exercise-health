@@ -230,7 +230,19 @@ queries = [
 
     """
     select * from recently_powed_items_with_frequencies_and_nutrition where short_name is null;
-  
+
+    -- :o
+
+    -- :o :o
+
+    -- :o :o :o
+
+    -- :o :o :o :o
+
+    -- :o :o :o :o :o
+
+    -- :o
+
     -- :o :o
 
     -- :o :o :o
