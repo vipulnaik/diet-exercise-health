@@ -843,12 +843,25 @@ insert into food_types(short_name, long_name, url,
   /* fat-related columns */ 287.5,68.1,0,105.9,90.8,
   /* cholesterol */ 0,
   /* sodium and potassium (mostly from salts) */ 0,null,
-  /* carbohydrate-reated columns */ 60.5,30.2,15.1,
+  /* carbohydrate-related columns */ 60.5,30.2,15.1,
   /* protein-related columns */ 60.5,
-  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,null,786.9 /* using RDA 1300 mg and reported 4% RDA */,16.3 /* using RDA 18 mg and reported 6% RDA */,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,null,786.9 /* using RDA 1300 mg and reported 4% RDA per serving */,16.3 /* using RDA 18 mg and reported 6% RDA per serving */,
   /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
   /* special oxalate column added in light of risk of kidney stones */ null,
-  /* notes */ 'I used the information on the back for one serving (30 grams) and multiplied by 454 / 30 to get the total for a container.');
+  /* notes */ 'I used the information on the back for one serving (30 grams) and multiplied by 454 / 30 to get the total for a container.'),
+
+  ('Whole Foods Mexican Whole Wheat Tortillas','La Tortilla Factory Organic Whole Wheat Tortillas, 7.62 OZ','https://www.wholefoodsmarket.com/product/la-tortilla-factory-organic-whole-wheat-tortillas-762-oz-b01gkxm2f6',
+  /* calories, weight, and volume */ 600 /* calories from fat: 150 */,216,null,
+  /* broad food type */ 'Whole wheat tortilla',
+  /* fat-related columns */ 15,6,0,null,null,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 1260,null, /* potassium is probably in the ballpark of 150-400 but nothing seems to be present on the online nutrition label */
+  /* carbohydrate-related columns */ 102,12,6,
+  /* protein-related columns */ 18,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,null,156 /* using RDA 1300 mg and repoted 2% RDA per serving */,2.16 /* using RDA 18 mg and reported 2% RDA per serving */,
+  /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes */ 'I entered this data long after consuming the tortillas, so I am not sure this is the exact pack I purchased, but it looks similar enough and I didn''t find a better match. I used the information for one serving (one tortilla) and multiplied by 6 for the number of tortillas per packet.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
