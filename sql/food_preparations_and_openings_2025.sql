@@ -856,12 +856,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-01','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-07-04',1),
   ('2025-07-02','TJ Sauerkraut',1,1,null,null),
   /* 2025-07-02 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt -- I skipped cayenne pepper as I had added more than usua with the eggplant meal prep) */
-  ('2025-07-02','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2025-07-02','TJ Kale',1,2,null,null),
-  ('2025-07-02','TJ English Shelled Peas',2,2,null,null),
-  ('2025-07-02','Beefsteak tomato',6,2,null,null),
+  ('2025-07-02','Gold potatoes 5 lb',0.5,2,'2025-07-10',2),
+  ('2025-07-02','TJ Kale',1,2,'2025-07-10',2),
+  ('2025-07-02','TJ English Shelled Peas',2,2,'2025-07-10',2),
+  ('2025-07-02','Beefsteak tomato',6,2,'2025-07-10',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-07-02','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-07-02','TJ Roasted Seaweed',1,2,'2025-07-10',2),
   ('2025-07-02','TJ Carb Savvy Tortillas',1,2,'2025-07-03',2),
   ('2025-07-03','TJ Carb Savvy Tortillas',1,2,'2025-07-05',1),
   ('2025-07-03','TJ Almond Milk',1,2,null,null),
@@ -890,5 +890,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-09','TJ Carb Savvy Tortillas',1,2,null,null),
   ('2025-07-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
   ('2025-07-10','TJ Walnuts',1,1,null,null),
-  ('2025-07-10','TJ Miso Ginger Broth',1,1,null,null);
+  ('2025-07-10','TJ Miso Ginger Broth',1,1,null,null),
+  ('2025-07-10','TJ Roasted Seaweed',1,2,null,null);
   /* Double-check the date before committing */
