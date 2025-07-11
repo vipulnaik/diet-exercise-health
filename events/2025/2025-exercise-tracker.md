@@ -792,3 +792,11 @@ confluence of several factors:
 
 Due to a combination of these factors, I decided it was best to skip
 all exercises.
+
+## 2025-07-10: at-home jogging (shorter than usual) and skipping of strength exercises
+
+On Thursday 2025-07-10, I did at-home jogging for a shorter duration
+interval than usual due to scheduling issues / time constraints. I
+also skipped the once-every-three-days strength exercises that I would
+normally do after jogging on this day (the plan being to do them the
+next day instead).
