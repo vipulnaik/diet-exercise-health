@@ -800,3 +800,9 @@ interval than usual due to scheduling issues / time constraints. I
 also skipped the once-every-three-days strength exercises that I would
 normally do after jogging on this day (the plan being to do them the
 next day instead).
+
+## 2025-07-11: skipped all exercise
+
+On Friday 2025-07-11, I skipped all exercise due to a mix of time
+constraints and the need to conserve energy levels as I focused my
+attention on a time-sensitive investigation at work.
