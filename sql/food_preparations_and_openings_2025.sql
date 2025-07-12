@@ -574,7 +574,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-04-12','TJ English Shelled Peas',2,2,'2025-04-18',2),
   ('2025-04-12','Beefsteak tomato',5,2,'2025-04-18',2),
   /* New bottle/packet openings as the old ones finished */
-  ('2025-04-12','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep; this is being filled retroactively so it might be off by one meal prep (if so, the right date would be 2025-04-10) */
+  ('2025-04-12','Trader Giotto''s Olive Oil',1,2,'2025-07-11',2), /* opened with potatoes prep; this is being filled retroactively so it might be off by one meal prep (if so, the right date would be 2025-04-10) */
   ('2025-04-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-04-14',1), /* return to plain flavor after a brief detour to vanilla flavor */
   ('2025-04-13','TJ Carb Savvy Tortillas',1,1,'2025-04-14',1),
   ('2025-04-14','TJ Carb Savvy Tortillas',1,1,'2025-04-15',1),
@@ -887,9 +887,16 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-09','Lundberg Sustainable California White Jasmine Rice',0.4,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-09','TJ Kimchi',1,1,null,null),
-  ('2025-07-09','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-07-09','TJ Carb Savvy Tortillas',1,2,'2025-07-11',2),
   ('2025-07-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
   ('2025-07-10','TJ Walnuts',1,1,null,null),
   ('2025-07-10','TJ Miso Ginger Broth',1,1,null,null),
-  ('2025-07-10','TJ Roasted Seaweed',1,2,null,null);
+  ('2025-07-10','TJ Roasted Seaweed',1,2,null,null),
+  /* 2025-07-11 potatoes prep (second meal) (added olive oil, turmeric, cumin, cayenne pepper, and salt; unusual features: (a) no peas, so more tomatoes than usual, (b) russet potatoes instead of gold potatoes) */
+  ('2025-07-11','Russet potatoes 5 lb',0.5,2,null,null),
+  ('2025-07-11','TJ Kale',1,2,null,null),
+  ('2025-07-11','Beefsteak tomato',7,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-07-11','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep */
+  ('2025-07-11','TJ Carb Savvy Tortillas',1,2,null,null);
   /* Double-check the date before committing */
