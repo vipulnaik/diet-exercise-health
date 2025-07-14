@@ -806,3 +806,9 @@ next day instead).
 On Friday 2025-07-11, I skipped all exercise due to a mix of time
 constraints and the need to conserve energy levels as I focused my
 attention on a time-sensitive investigation at work.
+
+## 2025-07-13: at-home jogging
+
+On Sunday 2025-07-13, I did at-home jogging for scheduling reasons --
+it was already late and I wanted to effectively multiplex jogging with
+the cooking of rice, which I could only do by jogging at home.
