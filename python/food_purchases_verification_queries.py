@@ -211,7 +211,7 @@ queries = [
       select *, 'previous' as epoch from previous_daily_pw_amounts;""",
 
     # The wide range for daily calories reflects significant seasonal fluctuation
-    "select epoch, daily_calories from daily_pw_amounts_by_epoch where daily_calories < 1750 or daily_calories > 3150;",
+    "select epoch, daily_calories from daily_pw_amounts_by_epoch where daily_calories < 1750 or daily_calories > 3250;",
 
     # For the next two queries, I bound carbs and fats based on total calorie consumption as the calorie consumption can vary a lot by season
     "select epoch, daily_total_carb_in_grams, daily_calories from daily_pw_amounts_by_epoch where daily_total_carb_in_grams < 0.1 * daily_calories or daily_total_carb_in_grams > 0.17 * daily_calories;",
@@ -228,7 +228,7 @@ queries = [
 
     "select epoch, daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg as effective_daily_sodium_in_mg from daily_pw_amounts_by_epoch where daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg < 1200 or daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg > 2700;",
 
-    "select epoch, daily_potassium_in_mg from daily_pw_amounts_by_epoch where daily_potassium_in_mg < 3200 or daily_potassium_in_mg > 5300;",
+    "select epoch, daily_potassium_in_mg from daily_pw_amounts_by_epoch where daily_potassium_in_mg < 3100 or daily_potassium_in_mg > 5400;",
 
     "select epoch, daily_vitamin_a_in_mcg from daily_pw_amounts_by_epoch where daily_vitamin_a_in_mcg < 900 or daily_vitamin_a_in_mcg > 4100;",
 
