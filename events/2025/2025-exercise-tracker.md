@@ -819,3 +819,9 @@ On Monday 2025-07-14, I skipped all exercise. This was because I had
 an impromptu meeting with a work colleague just around the time I was
 planning to go for (delayed) exercise, right on the heels of another
 meeting that delayed my intended start time of exercise.
+
+## 2025-07-15: skipped all exercise
+
+On Tuesday 2025-07-15, I skipped all exercise. This was due to a bunch
+of time-sensitive stuff in the morning, as I am trying to wrap up
+several items.
