@@ -899,10 +899,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-11','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep */
   ('2025-07-11','TJ Carb Savvy Tortillas',1,2,'2025-07-13',1),
-  ('2025-07-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-07-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-14',2),
   ('2025-07-12','TJ Almond Milk',1,1,null,null),
   /* 2025-07-13 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-07-13','Lundberg Sustainable California White Jasmine Rice',0.9,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-07-13','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2025-07-13','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-07-14','TJ Walnuts',1,2,null,null);
   /* Double-check the date before committing */
