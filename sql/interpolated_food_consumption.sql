@@ -56,8 +56,6 @@ coalesce(
 from interpolated_food_consumption_pre left join average_num_days_for_consumption_by_food_type
 using (food_type);
 
-drop table if exists interpolated_food_consumption;
-
 create table interpolated_food_consumption(
   `consumption_date` date not null,
   `food_type` varchar(200),

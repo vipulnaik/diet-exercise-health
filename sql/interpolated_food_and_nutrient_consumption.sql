@@ -1,8 +1,7 @@
-drop table if exists interpolated_food_and_nutrient_consumption;
-
 create table interpolated_food_and_nutrient_consumption(
   `consumption_date` date,
   `food_type` varchar(200),
+  `broad_food_type` varchar(200),
   `interpolated_quantity` decimal(8,4),
   `calories` decimal(21,6),
   `weight_in_grams` decimal(21,6),
@@ -37,7 +36,7 @@ create table interpolated_food_and_nutrient_consumption(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into interpolated_food_and_nutrient_consumption
-select consumption_date, food_type,
+select consumption_date, food_type, broad_food_type,
 coalesce(sum(interpolated_quantity), 0),
 coalesce(sum(interpolated_quantity * calories), 0),
 coalesce(sum(interpolated_quantity * weight_in_grams), 0),

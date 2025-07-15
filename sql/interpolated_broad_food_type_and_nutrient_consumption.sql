@@ -1,5 +1,6 @@
-create table interpolated_nutrient_consumption(
-  `consumption_date` date primary key,
+create table interpolated_broad_food_type_and_nutrient_consumption(
+  `consumption_date` date,
+  `broad_food_type` varchar(200),
   `calories` decimal(21,6),
   `weight_in_grams` decimal(21,6),
   `volume_in_ml` decimal(21,6),
@@ -28,11 +29,14 @@ create table interpolated_nutrient_consumption(
   `phosphorus_in_mg` decimal(21,6),
   `zinc_in_mg` decimal(21,6),
   `copper_in_mg` decimal(21,6),
-  `oxalate_in_mg` decimal(21,6)
+  `oxalate_in_mg` decimal(21,6),
+  primary key (consumption_date, broad_food_type),
+  constraint broad_food_type_exists_for_interpolated_consumption foreign key (broad_food_type) references broad_food_types(broad_food_type)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-insert into interpolated_nutrient_consumption
+insert into interpolated_broad_food_type_and_nutrient_consumption
 select consumption_date,
+broad_food_type,
 coalesce(sum(calories), 0),
 coalesce(sum(weight_in_grams), 0),
 coalesce(sum(volume_in_ml), 0),
@@ -63,4 +67,5 @@ coalesce(sum(zinc_in_mg), 0),
 coalesce(sum(copper_in_mg), 0),
 coalesce(sum(oxalate_in_mg), 0)
 from interpolated_food_and_nutrient_consumption
-group by consumption_date;
+where broad_food_type is not null
+group by consumption_date, broad_food_type;
