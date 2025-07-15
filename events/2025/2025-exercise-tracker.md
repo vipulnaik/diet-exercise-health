@@ -812,3 +812,10 @@ attention on a time-sensitive investigation at work.
 On Sunday 2025-07-13, I did at-home jogging for scheduling reasons --
 it was already late and I wanted to effectively multiplex jogging with
 the cooking of rice, which I could only do by jogging at home.
+
+## 2025-07-14: skipped all exercise
+
+On Monday 2025-07-14, I skipped all exercise. This was because I had
+an impromptu meeting with a work colleague just around the time I was
+planning to go for (delayed) exercise, right on the heels of another
+meeting that delayed my intended start time of exercise.
