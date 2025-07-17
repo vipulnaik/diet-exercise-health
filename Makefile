@@ -115,6 +115,13 @@ interpolate_food_data:
 
 .PHONY: verify_food_data
 verify_food_data:
+	grep 20 sql/food_purchases_2021.sql | grep -v 2021; :
+	grep 20 sql/food_purchases_2022.sql | grep -v 2022; :
+	grep 20 sql/food_purchases_2023.sql | grep -v 2023; :
+	grep 20 sql/food_purchases_2024.sql | grep -v 2024; :
+	grep 20 sql/food_purchases_2025.sql | grep -v 2025; :
+	grep 20 sql/food_preparations_and_openings_2024.sql | grep -v 2024; :
+	grep 20 sql/food_preparations_and_openings_2025.sql | grep -v 2025; :
 	python3 python/food_types_verification_queries.py
 	python3 python/food_purchases_verification_queries.py
 	python3 python/food_preparations_and_openings_verification_queries.py

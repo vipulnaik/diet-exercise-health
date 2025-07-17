@@ -632,7 +632,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2021-12-03','Udupi Palace spinach masala dosa',1),
   /* 2021-12-07 Mehak Indian Cuisine order at 1:25 PM; pickup around 2:15 PM */
   ('2021-12-07','Mehak Indian Cuisine standard set',1),
-  /* 2012-12-09 Trader Joe's; checkout at 6:03 PM; total cost $48.52 (paid by card) */
+  /* 2021-12-09 Trader Joe's; checkout at 6:03 PM; total cost $48.52 (paid by card) */
   ('2021-12-09','TJ Almond Milk',1),
   ('2021-12-09','Trader Giotto''s Olive Oil',2),
   ('2021-12-09','Eggplant',2),
