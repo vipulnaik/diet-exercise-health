@@ -826,7 +826,13 @@ On Tuesday 2025-07-15, I skipped all exercise. This was due to a bunch
 of time-sensitive stuff in the morning, as I am trying to wrap up
 several items.
 
-## 2025-07-17: skipped all exercise
+## 2025-07-17: skipped all exercise to begin with, but did a few exercises later in the day
 
-On Thursday 2025-07-17, I skipped all exercise. This was due to a
-bunch of time-sensitive stuff in the morning and early afternoon.
+On Thursday 2025-07-17, I initially skipped all exercise. This was due
+to a bunch of time-sensitive stuff in the morning and early afternoon.
+
+However, later in the day, I did some exercises that don't involve a
+lot of energy and strength use: I did balance exercises, hand gripper
+exercises (hand gripper exercises use local strength but are not
+exhausting on the system as a whole), and humming with intermittent
+pauses.
