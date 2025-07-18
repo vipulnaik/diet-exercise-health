@@ -825,3 +825,8 @@ meeting that delayed my intended start time of exercise.
 On Tuesday 2025-07-15, I skipped all exercise. This was due to a bunch
 of time-sensitive stuff in the morning, as I am trying to wrap up
 several items.
+
+## 2025-07-17: skipped all exercise
+
+On Thursday 2025-07-17, I skipped all exercise. This was due to a
+bunch of time-sensitive stuff in the morning and early afternoon.
