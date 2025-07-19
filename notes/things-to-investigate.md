@@ -27,11 +27,6 @@ time-sensitive.
 * Investigate lipid-lowering strategies (focused on LDL and Apo
   B). Notes [here](lipid-lowering-strategies.md).
 
-## Supplements
-
-* Creatine supplement (deferred for now as I want to focus on the most
-  important amino acids first).
-
 ## Other treatments
 
 * Topical minoxidil for balding; both the how-to (for instance, the
