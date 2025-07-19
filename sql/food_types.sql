@@ -53,7 +53,7 @@ insert into food_types(short_name, long_name, url,
   /* carbohydrate-related columns */ total_carb_in_grams, fiber_in_grams, sugars_in_grams,
   /* protein-related columns */ protein_in_grams,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ vitamin_a_in_mcg, vitamin_c_in_mg, vitamin_d_in_mcg, calcium_in_mg, iron_in_mg,
-  /* columns for other less commonly reported vitamins and minerals */ vitamin_b6_in_mg, vitamin_b12_in_mcg, vitamin_e_in_mg, vitamin_k_in_mcg, magnesium_in_mg, zinc_in_mg, phosphorus_in_mg, copper_in_mg,
+  /* columns for other less commonly reported vitamins and minerals */ vitamin_b6_in_mg, vitamin_b12_in_mcg, vitamin_e_in_mg, vitamin_k_in_mcg, magnesium_in_mg, phosphorus_in_mg, zinc_in_mg, copper_in_mg,
   /* special oxalate column added in light of risk of kidney stones */ oxalate_in_mg,
   /* notes column */ notes) values
 
@@ -326,7 +326,7 @@ insert into food_types(short_name, long_name, url,
   /* carbohydrate-related columns */ 7.5,1.1,0,
   /* protein-related columns */ 1.2,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 18.6 /* from https://www.eatthismuch.com/food/nutrition/yellow-peppers,2560/ */,341.3 /* from https://www.eatthismuch.com/food/nutrition/yellow-peppers,2560/ */,0,20.5 /* from https://www.eatthismuch.com/food/nutrition/yellow-peppers,2560/ */,0.9 /* from https://www.eatthismuch.com/food/nutrition/yellow-peppers,2560/ */,
-  /* columns for other less commonly reported vitamins and minerals */ 0.3,0,null,null,22.3,0.3,44.6,0.2,
+  /* columns for other less commonly reported vitamins and minerals */ 0.3,0,null,null,22.3,44.6,0.3,0.2,
   /* special oxalate column added in light of risk of kidney stones */ null,
   /* notes */ 'I used https://www.nutritionix.com/i/usda/yellow-pepper-1-medium/5775254ba95125266c766bb3 for some of the data and https://www.eatthismuch.com/food/nutrition/yellow-peppers,2560/ for the rest. The results vary between medium and large pepper, so there is some discrepancy to be addressed.'),
 
@@ -861,7 +861,20 @@ insert into food_types(short_name, long_name, url,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 0,0,null,156 /* using RDA 1300 mg and repoted 2% RDA per serving */,2.16 /* using RDA 18 mg and reported 2% RDA per serving */,
   /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
   /* special oxalate column added in light of risk of kidney stones */ null,
-  /* notes */ 'I entered this data long after consuming the tortillas, so I am not sure this is the exact pack I purchased, but it looks similar enough and I didn''t find a better match. I used the information for one serving (one tortilla) and multiplied by 6 for the number of tortillas per packet.');
+  /* notes */ 'I entered this data long after consuming the tortillas, so I am not sure this is the exact pack I purchased, but it looks similar enough and I didn''t find a better match. I used the information for one serving (one tortilla) and multiplied by 6 for the number of tortillas per packet.'),
+
+  ('Sofit Soya 180 ml','SOFIT Soya Drink Naturally Sugar Free Vegan Drink Enriched With Plant Protein,Dietary Fibers,Vitamins And Calcium Lactose Free Gluten Free Preservatives Free,180 Ml / 200 Ml','https://www.amazon.in/Naturally-Enriched-protein-vitamins-Preservatives/dp/B00NTTCZUM/',
+  /* calories, weight, and volume */ 68.8,null,180,
+  /* broad food type */ 'Soy milk',
+  /* fat-related columns */ 3.2,0.4,0,0.7,1.8 /* 0.2 g omega-3 and 1.6 g omega-6 */,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 36.5,null,
+  /* carbohydrate-related columns */ 3.6,2,0,
+  /* protein-related columns */ 6.4,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,null,null,null /* soy should have a lot of calcium, but the label doesn't list the amount */,null,
+  /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,75.6,null,0.4,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes */ 'I read the information off the package label at the url (one of the images) rather than the physical package. The serving size is the full package, so no adjustment factor was needed. The label doesn''t include calcium, though I suspect there should be some given that soy is rich in calcium.');
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
@@ -880,7 +893,6 @@ insert into food_types(short_name, long_name, url, notes) values
 insert into food_types(short_name, long_name, notes) values
   /* pending data entry */
   ('Urban Platter Sauerkraut Raw','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage, 450g / 15.8oz [Raw, Artisanal, Plant-Based, Preservative Free]','Data at https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NC754H4/ but label is hard to read off fully; I should fill data in from the physical jar at some point. Just putting a dummy entry for now for validation.'),
-  ('Sofit Soya 180 ml','SOFIT Soya Drink Naturally Sugar Free Vegan Drink Enriched With Plant Protein,Dietary Fibers,Vitamins And Calcium Lactose Free Gluten Free Preservatives Free,180 Ml / 200 Ml','See https://www.amazon.in/Naturally-Enriched-protein-vitamins-Preservatives/dp/B00NTTCZUM/ for details'),
   ('So Good Oat Milk 200 ml','So Good Oat Beverage Unsweetened 200ml','See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D5BL419H/ for details'),
   ('So Good Soy Milk 200 ml','So Good Soy Beverage Unsweetened 200ml','See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D4ZFVYQ9/ for details'),
   /* Udupi Palace */

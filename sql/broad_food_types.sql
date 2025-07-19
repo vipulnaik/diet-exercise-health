@@ -21,6 +21,7 @@ insert into broad_food_types(broad_food_type, notes) values
   ('Bean','Substitute for pea'),
   ('Broccoli','Nutritious thing'),
   ('Almond milk','Rich in added calcium and vitamins A and D'),
+  ('Soy milk','Rich in added calcium and proteins'),
   ('Walnut','Rich in omega-3 and my main source of invisible fat'),
   ('Almond','An alternative nut to walnuts when I am not able to procure walnuts'),
   ('Brazil nut','A nut rich in selenium, meant to be consumed in small quantities (not more than one per day, ideally about one per week)'),
