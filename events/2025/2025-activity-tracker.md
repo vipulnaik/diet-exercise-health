@@ -214,3 +214,9 @@ after the depletion due to my recent respiratory infection).
 
 On Thursday 2025-07-03, in the late afternoon / early evening, I made
 a trip to the UPS Store at 2342 Shattuck Ave to pick up a package.
+
+## 2025-07-18
+
+On Friday 2025-07-18, in the late afternoon / early evening, I made a
+trip to the Amazon Hub Locker at ASUC Berkeley to pick up a few
+packages.
