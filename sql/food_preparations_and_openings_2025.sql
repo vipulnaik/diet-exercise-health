@@ -891,7 +891,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-07-12',1),
   ('2025-07-10','TJ Walnuts',1,1,'2025-07-14',1),
   ('2025-07-10','TJ Miso Ginger Broth',1,1,'2025-07-17',1),
-  ('2025-07-10','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-07-10','TJ Roasted Seaweed',1,2,'2025-07-18',2),
   /* 2025-07-11 potatoes prep (second meal) (added olive oil, turmeric, cumin, cayenne pepper, and salt; unusual features: (a) no peas, so more tomatoes than usual, (b) russet potatoes instead of gold potatoes) */
   ('2025-07-11','Russet potatoes 5 lb',0.5,2,null,null),
   ('2025-07-11','TJ Kale',1,2,null,null),
@@ -905,7 +905,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-13','Lundberg Sustainable California White Jasmine Rice',0.9,1,'2025-07-17',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-13','TJ Carb Savvy Tortillas',1,2,'2025-07-15',1),
-  ('2025-07-14','TJ Walnuts',1,2,null,null),
+  ('2025-07-14','TJ Walnuts',1,2,'2025-07-18',2),
   ('2025-07-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-17',1),
   ('2025-07-15','TJ Carb Savvy Tortillas',1,2,'2025-07-16',2),
   /* 2025-07-17 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, salt, and a bit of cayenne pepper) */
