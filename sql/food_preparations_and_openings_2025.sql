@@ -920,7 +920,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-17','TJ Miso Ginger Broth',1,1,null,null),
   ('2025-07-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-19',1),
   /* 2025-07-17 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-07-17','Lundberg Sustainable California White Jasmine Rice',0.9,2,null,null),
+  ('2025-07-17','Lundberg Sustainable California White Jasmine Rice',0.9,2,'2025-07-21',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-19','TJ Walnuts',1,1,null,null),
   /* 2025-07-19 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual features: (a) no peas, so more tomatoes than usual, (b) russet potatoes instead of gold potatoes) */
