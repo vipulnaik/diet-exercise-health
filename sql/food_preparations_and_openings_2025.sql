@@ -928,8 +928,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-19','TJ Kale',1,2,null,null),
   ('2025-07-19','Beefsteak tomato',7,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-07-19','TJ Carb Savvy Tortillas',1,2,null,null), /* delay in starting this because I ran out of stock until my Trader Joe's trip prior to this meal */
+  ('2025-07-19','TJ Carb Savvy Tortillas',1,2,'2025-07-20',2), /* delay in starting this because I ran out of stock until my Trader Joe's trip prior to this meal */
   ('2025-07-19','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
   ('2025-07-19','TJ Roasted Seaweed',1,2,null,null),
-  ('2025-07-19','TJ Almond Milk',1,2,null,null);
+  ('2025-07-19','TJ Almond Milk',1,2,null,null),
+  ('2025-07-20','TJ Carb Savvy Tortillas',1,2,null,null);
   /* Double-check the date before committing */
