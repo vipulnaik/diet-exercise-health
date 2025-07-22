@@ -1402,7 +1402,7 @@ regularly. Disruptions have been as follows:
   as a result of some combination of significant increase in food
   intake (with the temperature dropping) and anal swelling. I
   addressed this by reducing food intake, trying to make my place
-  warmer to reduce appetite, continuin to let my anal swelling heal,
+  warmer to reduce appetite, continuing to let my anal swelling heal,
   and switching to more fats and proteins relative to carbs and fiber
   (though in absolute terms, all of them still went up quite a bit) to
   reduce the amount of stool to pass.
