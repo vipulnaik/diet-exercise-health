@@ -4,7 +4,7 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
-Last substantive minor update: June 25, 2025
+Last substantive minor update: July 22, 2025
 
 This is the health profile for Vipul Naik, an adult male in his late
 30s / early 40s (born 1986). It is updated periodically. It does not
@@ -232,7 +232,7 @@ paunch.
 ### Pending DEXA scan
 
 I'm planning to get a DEXA scan done some time in the next few months
-(as of December 2024) to get a better picture of my body
+(as of July 2025) to get a better picture of my body
 composition. Key insights from the DEXA scan will be included here
 once it is done.
 
@@ -1540,16 +1540,21 @@ See
 [2024-10-02-atrantil-purchase.md](../events/2024/2024-10-02-atrantil-purchase.md)
 for more information.
 
-### October and November 2024: experimentation with lysine and n-acetylcysteine
+### October and November 2024: introduction of lysine and n-acetylcysteine
 
 See
 [2024-10-16-lysine-purchase.md](../events/2024/2024-10-16-lysine-purchase.md)
 and
 [2024-10-16-n-acetyl-cysteine-purchase.md](../events/2024/2024-10-16-n-acetyl-cysteine-purchase.md).
 
+### July 2025: introduction of creatine
+
+See
+[2025-07-06-creatine-purchase.md](../events/2025/2025-07-06-creatine-purchase.md).
+
 ### Current supplements
 
-My current supplement regime as of November 2024 is:
+My current supplement regime as of July 2025 is:
 
 * 1 daily 2500 IU vegan Vitamin D3 from Doctor's Best
   * My measured Vitamin D level is solidly in the normal range, but
@@ -1596,6 +1601,11 @@ My current supplement regime as of November 2024 is:
 * 1 daily vegan lysine (600 mg).
 
 * 1 daily vegan n-acetylcysteine with selenium (600 mg).
+
+* 1 to 3 daily creatine gummies (1 gram to 3 grams); as of July 22,
+  2025, I am ramping the dose up from 1 daily to 3 daily over a few
+  weeks. See [here](../events/2025/2025-07-06-creatine-purchase.md)
+  for details.
 
 * Occasional Atrantil consumption in case of significant abdominal discomfort
 
