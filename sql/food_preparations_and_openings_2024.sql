@@ -408,7 +408,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2024-09-08','Red bell pepper',3,2,null,null), /* 1 extra compared to usual in place of carrots that I didn't have */
   ('2024-09-08','Beefsteak tomato',6,2,null,null),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-09-08','Morton Iodized Salt',1,null,null,null), /* this might be off by a day (so actual value may be 2024-09-07) */
+  ('2024-09-08','Morton Iodized Salt',1,null,'2024-11-26',null), /* start date might be off by a day (so actual value may be 2024-09-07); end date is based on (approximate) start date of next bottle */
   /* Rice prep 2024-09-09 (second meal) */
   ('2024-09-09','Lundberg Sustainable California White Basmati Rice',0.8,2,null,null),
   /* Lentils prep 2024-09-10 (soaked first meal to cook and eat with second meal) */
@@ -800,7 +800,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* Lentils prep 2024-11-25 (overnight soaking to cook the next day) */
   ('2024-11-25','TJ Green Lentils',0.5,3,null,null),
   /* New bottle/packet openings as the old ones finished */
-  ('2024-11-26','Morton Iodized Sea Salt',1,null,null,null), /* date is approximate and has been backfilled */
+  ('2024-11-26','Morton Iodized Sea Salt',1,null,'2025-02-08',1), /* start date is approximate and has been backfilled; end date is based on start date of next bottle */
   ('2024-11-26','TJ Carb Savvy Tortillas',1,1,null,null),
   ('2024-11-26','California Walnuts',1,1,null,null),
   ('2024-11-26','TJ Almond Milk',1,1,null,null),
