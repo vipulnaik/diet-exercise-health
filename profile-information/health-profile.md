@@ -574,7 +574,7 @@ measurement:
   measurements. However, if I get a reading at or above 5.7%, I will
   do a followup measurement within 3 to 6 months of that measurement.
 
-I plan to put in more effort into investigating this if either if my
+I plan to put in more effort into investigating this if either my
 insulin sensitivity worsens or one of these happens; otherwise I am
 not planning to do further research or make lifestyle adjustments:
 
