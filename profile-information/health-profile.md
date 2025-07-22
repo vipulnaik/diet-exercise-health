@@ -79,13 +79,7 @@ may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affecting my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of June 18, 2025, I have a mostly-resolved [respiratory infection
-(likely common
-cold)](../events/2025/2025-06-respiratory-infection-likely-common-cold.md). I
-still have a few residual symptoms (slightly more runny nose than
-usual) and am still in the process of reconditioning to normal life,
-so I expect to continue updating the document, but I don't consider it
-an open incident any more.
+As of July 22, 2025, I have no open incidents.
 
 You can see the list
 of incidents for 2024 in the [events/2024 folder](../events/2024), and
