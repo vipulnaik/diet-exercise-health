@@ -853,7 +853,7 @@ the conditions for metabolic syndrome:
 
 C-reactive protein (CRP) is an acute phase reactant that is considered
 a good marker of inflammation. Acutely high levels (generally, greater
-tha 3 mg/L, though often even more than 10 mg/L) are indicative of
+than 3 mg/L, though often even more than 10 mg/L) are indicative of
 current or recent infection. Moderately high levels (greater than 1
 mg/L) outside of the context of infection are indicative of high
 levels of inflammation that predict increased atherosclerotic risk, as
