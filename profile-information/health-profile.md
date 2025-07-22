@@ -618,7 +618,7 @@ ultimately lead to atherosclerosis.
 
 All the atherogenic particles have an apolipoprotein on them called
 apolipoprotein B (Apo B, more specifically Apo B-100; by default here,
-"Apo B" is shorthand for "Apo B-100"). There are two feature of apo B
+"Apo B" is shorthand for "Apo B-100"). There are two feature of Apo B
 that make it a good way to gauge the concentration of atherogenic
 particles:
 
