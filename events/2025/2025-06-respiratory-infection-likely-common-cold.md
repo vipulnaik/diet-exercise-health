@@ -414,7 +414,30 @@ reasons:
 
 ### Exercise
 
-See the [2025 exercise tracker](2025-exercise-tracker.md) for more details.
+See the [2025 exercise tracker](2025-exercise-tracker.md) for more
+details for individual exercises.
+
+Here is the summary:
+
+* I skipped all exercises from the start date of symptoms (2025-06-09)
+  until 2025-06-17 (inclusive). I was already in a mode of skipping
+  exercise before symptoms started, due to the travel preceding the
+  symptoms, so on the whole I skipped all exercises from 2025-06-05 to
+  2025-06-17.
+
+* I resumed at-home exercises (standing / balance exercises and hand
+  gripper exercises) on Wednesday 2025-06-18. My performance on balance
+  exercises was normal; my performance on hand gripper exercises was
+  below normal but comparable to the level 10 months ago, so not bad
+  in absolute terms.
+
+* I resumed jogging on Thursday 2025-06-19 and it took me till
+  Saturday 2025-06-21 to ramp the level back to normal.
+
+* I resumed some strength exercises on Thursday 2025-06-19 (dead hang
+  and pull-ups) with performance at the low end of normal. I resumed
+  other strength exercises (weights and push-ups) on Saturday
+  2025-06-21 with performance slightly below my typical level.
 
 ## Summary statistics of interest
 
@@ -423,4 +446,133 @@ See the [2025 exercise tracker](2025-exercise-tracker.md) for more details.
 I started recording nose-blowing frequency on Thursday 2025-06-12; the
 runny nose starting on Wednesday 2025-06-11.
 
-TODO fill in details.
+#### Frequency of nose-blowing
+
+Command used (replace `<date>` by actual date in YYYY-MM-DD format) in
+my Slack self-chat logs folder:
+
+```
+grep -A 2 -B 2 "blew nose" parsed.json | grep event_datetime | grep <date> | wc
+```
+
+Below is the frequency of recorded nose-blowing by day. For reference,
+my usual frequency of recorded nose-blowing is somewhere between 0 and
+5 times per day. I may miss recording a few occurrences (both over
+this period and at other times) so the recorded frequency may
+underestimate the actual frequency.
+
+* 2025-06-12: 29
+
+* 2025-06-13: 11
+
+* 2025-06-14: 8
+
+* 2025-06-15: 9
+
+* 2025-06-16: 8
+
+* 2025-06-17: 0
+
+* 2025-06-18: 3
+
+* 2025-06-19: 7
+
+* 2025-06-20: 5
+
+* 2025-06-21: 4
+
+* 2025-06-22: 5
+
+* 2025-06-23: 3
+
+* 2025-06-24: 0
+
+Based on the data, we see that the nose was particularly runny on
+2025-06-12 (the first day of recording) and clearly more runny than
+normal on 2025-06-13 (the next day). For the next three days
+(2025-06-14 to 2025-06-16) the nose seems more runny than normal by a
+slight margin. After that, things are a bit more ambiguous. This is
+roughly consistent with my subjective impression.
+
+#### Frequency of sneezing
+
+Command used (replace `<date>` by actual date in YYYY-MM-DD format) in
+my Slack self-chat logs folder:
+
+```
+grep -A 2 -B 2 "sneezed" parsed.json | grep event_datetime | grep <date> | wc
+```
+
+My frequency of sneezing is generally between 0 and 3 times a day;
+generally, when I don't have an infection, sneezing is triggered by
+environmental irritants, though it can also be random.
+
+Here is the recorded frequency of sneezing starting 2025-06-12:
+
+* 2025-06-12: 4
+
+* 2025-06-13: 1
+
+* 2025-06-14: 0
+
+* 2025-06-15: 2
+
+* 2025-06-16: 1
+
+* 2025-06-17: 0
+
+* 2025-06-18: 0
+
+* 2025-06-19: 0
+
+* 2025-06-20: 1
+
+* 2025-06-21: 3
+
+* 2025-06-22: 1
+
+* 2025-06-23: 0
+
+* 2025-06-24: 0
+
+Overall, the frequency of sneezing is a little higher than usual but
+within the range of usual.
+
+#### Turnover of face tissues
+
+Command used in my Slack self-chat logs folder:
+
+```
+grep -E "^2025-|face tissues" 2025/2025-06-*.txt
+```
+
+I generally turn over a pack of face tissues (Puffs, usually with
+Vicks) once every 5 to 9 days. For comparison, I turned over packs of
+face tissues much more quickly over this period.
+
+This can be a better measure than nose-blowing frequency because it
+better accounts for the magnitude of congestion that I needed to
+remove, by weighting by the number of face tissues used.
+
+* 2025-06-11: Replaced face tissues pack once
+
+* 2025-06-12: Replaced face tissues pack twice
+
+* 2025-06-13: Replaced face tissues pack once
+
+* 2025-06-14: Replaced face tissues pack once
+
+* 2025-06-16: Replaced face tissues pack once
+
+* 2025-06-18: Replaced face tissues pack once
+
+* 2025-06-22: Replaced face tissues pack once
+
+* 2025-06-27: Replaced face tissues pack once
+
+* 2025-07-05: Replaced face tissues pack once
+
+This paints a picture of a somewhat more gradual recovery, with peak
+congestion around 2025-06-12 (multiple packs used per day), then a
+slight reduction to about one pack a day, then one every two days,
+then one every 4-5 days and then one every 8 days.
