@@ -1,4 +1,4 @@
-# 2025-07-22: right index finger bleed after repeated tweezer use
+# 2025-07-22: right index finger cut after repeated tweezer use
 
 ## Incident
 
