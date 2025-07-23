@@ -26,13 +26,13 @@ bandage that I tried.
 
 ## Best practices going forward
 
-### Precautions at each tweezer use
+### Precautions at each tweezers use
 
 I don't expect to need to use these tweezers often. Some of the
 alternatives I might try in the future are:
 
-* I can wear a glove on the hand using the tweezer. I don't know how
-  well the glove shields from the sharpness of the tweezer.
+* I can wear a glove on the hand using the tweezers. I don't know how
+  well the glove shields from the sharpness of the tweezers.
 
 * I can use a paper towel for intermediation, reducing the sharp
   pressure in a specific area.
@@ -60,7 +60,7 @@ before travel or right before an appointment.
 ### Vaseline application shortly prior
 
 I've generally been regular with vaseline application; however, I did
-not specifically apply vaseline in the run-up to the tweezer use, so
+not specifically apply vaseline in the run-up to the tweezers use, so
 the last application was a few hours prior. Since this cut appears to
 be purely a skin-level cut rather than something deeper, I suspect
 that recent vaseline application may have helped.
