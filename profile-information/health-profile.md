@@ -2017,7 +2017,7 @@ removal procedure in 2023, as well as periodontal therapy in 2021, I
 was administered local anesthetic. For the wisdom tooth removal, I was
 also administered laughing gas. Other than these two procedures, I
 have not received local anesthetic or laughing gas as an adult. I have
-not been any sedation as an adult.
+not been under sedation as an adult.
 
 ### Ear infection surgery as a child
 
