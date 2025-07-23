@@ -24,6 +24,10 @@ way that aligned with it, but ended up with the two ends not meeting,
 making the flex wrapping not work). I had more success with the second
 bandage that I tried.
 
+## Further updates
+
+Shortly before midnight on the day of the cut, so about 7 hours after the cut, the bandage came off during my bath. The area covered by it had macerated, and the cut didn't get aggravated despite water and soap being applied to it, so I decided not to put a new bandage on it before going to sleep.
+
 ## Best practices going forward
 
 ### Precautions at each tweezers use
