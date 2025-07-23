@@ -26,7 +26,16 @@ bandage that I tried.
 
 ## Further updates
 
-Shortly before midnight on the day of the cut, so about 7 hours after the cut, the bandage came off during my bath. The area covered by it had macerated, and the cut didn't get aggravated despite water and soap being applied to it, so I decided not to put a new bandage on it before going to sleep.
+Shortly before midnight on the day of the cut (2025-07-22), so about 7
+hours after the cut, the bandage came off during my bath. The area
+covered by it had macerated, and the cut didn't get aggravated despite
+water and soap being applied to it, so I decided not to put a new
+bandage on it before going to sleep.
+
+By the next morning (2025-07-23) when I woke up around 9 AM, the
+maceration had reversed. As the cut seemed to be stable under finger
+use and handwashing, I decided to not put on any bandage for the
+morning at least as long as I was at home.
 
 ## Best practices going forward
 
