@@ -836,3 +836,10 @@ lot of energy and strength use: I did balance exercises, hand gripper
 exercises (hand gripper exercises use local strength but are not
 exhausting on the system as a whole), and humming with intermittent
 pauses.
+
+## 2025-07-24: skipped all exercise
+
+On Thursday 2025-07-24, I skipped all exercise in the morning. This
+was because of scheduling constraints -- I had meetings in the morning
+and early afternoon, and I also wanted to do eggplant meal prep prior
+to my first meal.
