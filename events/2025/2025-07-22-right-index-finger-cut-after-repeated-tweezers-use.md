@@ -37,6 +37,19 @@ maceration had reversed. As the cut seemed to be stable under finger
 use and handwashing, I decided to not put on any bandage for the
 morning at least as long as I was at home.
 
+On 2025-07-23, I mostly proceeded as usual but did need to be a bit
+careful when washing hands or using my hands to grip stuff. I skipped
+the portions of hand gripper exercises that involved the use of the
+right index finger.
+
+By 2025-07-24, I was operating close to normally. I skipped all
+exercises for other reasons, so I didn't have to make a decision
+regarding hand gripper exercises.
+
+On 2025-07-25, I was operating totally normally. I also did the usual
+hand gripper exercises (including the right index finger) though I
+made sure not to touch the hand gripper with that part of the finger.
+
 ## Best practices going forward
 
 ### Precautions at each tweezers use
