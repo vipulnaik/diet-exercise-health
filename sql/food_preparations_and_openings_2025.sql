@@ -908,13 +908,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-14','TJ Walnuts',1,2,'2025-07-18',2),
   ('2025-07-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-17',1),
   ('2025-07-15','TJ Carb Savvy Tortillas',1,2,'2025-07-16',2),
-  /* 2025-07-17 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, salt, and a bit of cayenne pepper) */
-  ('2025-07-17','Eggplant',1,1,'2025-07-23',2),
-  ('2025-07-17','TJ Kale',1,1,'2025-07-23',2),
-  ('2025-07-17','TJ Carrots',1,1,'2025-07-23',2),
-  ('2025-07-17','Green bell pepper',4,1,'2025-07-23',2),
-  ('2025-07-17','Red bell pepper',2,1,'2025-07-23',2),
-  ('2025-07-17','Beefsteak tomato',8,1,'2025-07-23',2),
+  /* 2025-07-17 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, salt, and a bit of cayenne pepper); I thought I had finished this on 2025-07-23 with the second meal, but on 2025-07-24 I discovered one container that still had this */
+  ('2025-07-17','Eggplant',1,1,'2025-07-24',2),
+  ('2025-07-17','TJ Kale',1,1,'2025-07-24',2),
+  ('2025-07-17','TJ Carrots',1,1,'2025-07-24',2),
+  ('2025-07-17','Green bell pepper',4,1,'2025-07-24',2),
+  ('2025-07-17','Red bell pepper',2,1,'2025-07-24',2),
+  ('2025-07-17','Beefsteak tomato',8,1,'2025-07-24',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-17','TJ Carb Savvy Tortillas',1,1,'2025-07-18',1),
   ('2025-07-17','TJ Miso Ginger Broth',1,1,null,null),
@@ -922,7 +922,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-07-17 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-07-17','Lundberg Sustainable California White Jasmine Rice',0.9,2,'2025-07-21',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-07-19','TJ Walnuts',1,1,null,null),
+  ('2025-07-19','TJ Walnuts',1,1,'2025-07-24',2),
   /* 2025-07-19 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual features: (a) no peas, so more tomatoes than usual, (b) russet potatoes instead of gold potatoes) */
   ('2025-07-19','Russet potatoes 5 lb',0.5,2,null,null),
   ('2025-07-19','TJ Kale',1,2,null,null),
