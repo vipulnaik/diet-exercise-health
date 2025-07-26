@@ -917,7 +917,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-17','Beefsteak tomato',8,1,'2025-07-24',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-17','TJ Carb Savvy Tortillas',1,1,'2025-07-18',1),
-  ('2025-07-17','TJ Miso Ginger Broth',1,1,null,null),
+  ('2025-07-17','TJ Miso Ginger Broth',1,1,'2025-07-25',2),
   ('2025-07-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-19',1),
   /* 2025-07-17 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-07-17','Lundberg Sustainable California White Jasmine Rice',0.9,2,'2025-07-21',1),
@@ -930,7 +930,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-19','TJ Carb Savvy Tortillas',1,2,'2025-07-20',2), /* delay in starting this because I ran out of stock until my Trader Joe's trip prior to this meal */
   ('2025-07-19','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-07-22',1),
-  ('2025-07-19','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-07-19','TJ Roasted Seaweed',1,2,'2025-07-25',2),
   ('2025-07-19','TJ Almond Milk',1,2,null,null),
   ('2025-07-20','TJ Carb Savvy Tortillas',1,2,'2025-07-21',2),
   /* 2025-07-21 rice prep (second meal) (added turmeric, cumin, salt) */
@@ -951,5 +951,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-25','Lundberg Sustainable California White Jasmine Rice',0.9,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-25','TJ Walnuts',1,1,null,null),
-  ('2025-07-25','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2025-07-25','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-07-25','TJ Miso Ginger Broth',1,2,null,null),
+  ('2025-07-25','TJ Roasted Seaweed',1,2,null,null);
   /* Double-check the date and meal index before committing */
