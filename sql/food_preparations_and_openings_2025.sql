@@ -958,5 +958,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-07-26 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual feature: no peas, so more tomatoes than usual */
   ('2025-07-26','Gold potatoes 5 lb',0.5,2,null,null),
   ('2025-07-26','TJ Kale',1,2,null,null),
-  ('2025-07-26','Beefsteak tomato',7,2,null,null);
+  ('2025-07-26','Beefsteak tomato',7,2,null,null),
+  ('2025-07-27','TJ Sauerkraut',1,1,null,null); /* gap of one day from finishing of previous bottle because I had kimchi on the intervening day (2025-07-26) */
   /* Double-check the date and meal index before committing */
