@@ -951,10 +951,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-25','Lundberg Sustainable California White Jasmine Rice',0.9,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-25','TJ Walnuts',1,1,null,null),
-  ('2025-07-25','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-07-25','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-27',2),
   ('2025-07-25','TJ Miso Ginger Broth',1,2,null,null),
   ('2025-07-25','TJ Roasted Seaweed',1,2,null,null),
-  ('2025-07-26','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2025-07-26','TJ Carb Savvy Tortillas',1,1,'2025-07-27',2),
   /* 2025-07-26 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual feature: no peas, so more tomatoes than usual */
   ('2025-07-26','Gold potatoes 5 lb',0.5,2,null,null),
   ('2025-07-26','TJ Kale',1,2,null,null),
