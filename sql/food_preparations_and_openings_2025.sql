@@ -948,7 +948,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-24','TJ Carb Savvy Tortillas',1,1,'2025-07-26',1),
   /* 2025-07-25 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-07-25','Lundberg Sustainable California White Jasmine Rice',0.9,1,null,null),
+  ('2025-07-25','Lundberg Sustainable California White Jasmine Rice',0.9,1,'2025-07-28',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-25','TJ Walnuts',1,1,null,null),
   ('2025-07-25','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-27',2),
@@ -959,5 +959,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-26','Gold potatoes 5 lb',0.5,2,null,null),
   ('2025-07-26','TJ Kale',1,2,null,null),
   ('2025-07-26','Beefsteak tomato',7,2,null,null),
-  ('2025-07-27','TJ Sauerkraut',1,1,null,null); /* gap of one day from finishing of previous bottle because I had kimchi on the intervening day (2025-07-26) */
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-07-27','TJ Sauerkraut',1,1,null,null), /* gap of one day from finishing of previous bottle because I had kimchi on the intervening day (2025-07-26) */
+  ('2025-07-28','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2025-07-28','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
