@@ -617,3 +617,26 @@ days are more critical in this respect, so my plan is to impose
 stricter discipline. In particular, I want to try to get my first meal
 in early as well as delay or eschew work tasks that might end up
 requiring long time chunks.
+
+## 2025-07-27 overnight into 2025-07-28: late sleep and late waking up
+
+On Sunday 2025-07-27, I started getting ready to close for sleep at
+10:29 PM. The process from there to closing for sleep normally takes 5
+to 15 minutes depending on the number of loose threads to wrap
+up. But, as I started wrapping things up, I decided to also wrap up
+some TODO items for the day job for the coming week, so that I could
+start Monday fresh with a focus on other things. Unfortunately, one of
+the items ended up taking way more time than expected, and by the time
+I finally closed for sleep it was 12:05 AM. I went to sleep at 1:16
+AM, about 1 hour 15 minutes later than the counterfactual.
+
+Even with this later time of going to sleep, I expected to wake up
+around 9:15 AM. But the long day seems to have taken a toll and I
+ended up sleeping in until 10:27 AM (I did have an alarm earlier, and
+could have gotten up sooner if I needed to but I had no morning
+meetings or other obligations so I thought it's better to sleep in and
+be more refreshed when I wake up).
+
+While the decisions that led to me sleeping late and waking up
+late were based on a deliberate trade-off, I miscalculated some aspects
+of the trade-off, and I should keep this in mind in the future.
