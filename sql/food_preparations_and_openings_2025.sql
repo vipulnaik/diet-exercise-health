@@ -962,5 +962,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-27','TJ Sauerkraut',1,1,null,null), /* gap of one day from finishing of previous bottle because I had kimchi on the intervening day (2025-07-26) */
   ('2025-07-28','TJ Carb Savvy Tortillas',1,1,null,null),
-  ('2025-07-28','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2025-07-28','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  /* 2025-07-28 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-07-28','Lundberg Sustainable California White Jasmine Rice',0.9,2,null,null);
   /* Double-check the date and meal index before committing */
