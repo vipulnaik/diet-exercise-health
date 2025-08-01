@@ -850,3 +850,9 @@ On Thursday 2025-07-31, I skipped most exercises in the morning. The
 only exercises I did were the hand gripper exercises. The reason for
 skipping exercises was a morning meeting that ended up going longer
 than usual.
+
+## 2025-08-01: skipped all exercises
+
+On Friday 2025-08-01, I skipped all exercises. This was so that I
+could get started with meal prep in the morning and also multiplex it
+with a morning meeting.
