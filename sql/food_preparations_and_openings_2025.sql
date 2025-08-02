@@ -902,7 +902,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-14',2),
   ('2025-07-12','TJ Almond Milk',1,1,'2025-07-19',2),
   /* 2025-07-13 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-07-13','Lundberg Sustainable California White Jasmine Rice',0.9,1,'2025-07-17',1),
+  ('2025-07-13','Lundberg Sustainable California White Jasmine Rice',0.97,1,'2025-07-17',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-13','TJ Carb Savvy Tortillas',1,2,'2025-07-15',1),
   ('2025-07-14','TJ Walnuts',1,2,'2025-07-18',2),
@@ -920,7 +920,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-17','TJ Miso Ginger Broth',1,1,'2025-07-25',2),
   ('2025-07-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-19',1),
   /* 2025-07-17 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-07-17','Lundberg Sustainable California White Jasmine Rice',0.9,2,'2025-07-21',1),
+  ('2025-07-17','Lundberg Sustainable California White Jasmine Rice',0.97,2,'2025-07-21',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-19','TJ Walnuts',1,1,'2025-07-24',2),
   /* 2025-07-19 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual features: (a) no peas, so more tomatoes than usual, (b) russet potatoes instead of gold potatoes) */
@@ -934,7 +934,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-19','TJ Almond Milk',1,2,'2025-07-29',1),
   ('2025-07-20','TJ Carb Savvy Tortillas',1,2,'2025-07-21',2),
   /* 2025-07-21 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-07-21','Lundberg Sustainable California White Jasmine Rice',0.9,2,'2025-07-24',2),
+  ('2025-07-21','Lundberg Sustainable California White Jasmine Rice',0.97,2,'2025-07-24',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-22','TJ Carb Savvy Tortillas',1,1,'2025-07-23',2),
   ('2025-07-22','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-07-25',1),
@@ -948,12 +948,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-24','TJ Carb Savvy Tortillas',1,1,'2025-07-26',1),
   /* 2025-07-25 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-07-25','Lundberg Sustainable California White Jasmine Rice',0.9,1,'2025-07-28',1),
+  ('2025-07-25','Lundberg Sustainable California White Jasmine Rice',0.97,1,'2025-07-28',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-25','TJ Walnuts',1,1,'2025-07-30',1),
   ('2025-07-25','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-27',2),
   ('2025-07-25','TJ Miso Ginger Broth',1,2,'2025-08-01',1),
-  ('2025-07-25','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-07-25','TJ Roasted Seaweed',1,2,'2025-08-01',2),
   ('2025-07-26','TJ Carb Savvy Tortillas',1,1,'2025-07-27',2),
   /* 2025-07-26 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual feature: no peas, so more tomatoes than usual */
   ('2025-07-26','Gold potatoes 5 lb',0.5,2,'2025-08-01',1),
@@ -964,7 +964,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-28','TJ Carb Savvy Tortillas',1,1,'2025-07-29',1),
   ('2025-07-28','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-31',1),
   /* 2025-07-28 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-07-28','Lundberg Sustainable California White Jasmine Rice',0.9,2,'2025-08-01',1),
+  ('2025-07-28','Lundberg Sustainable California White Jasmine Rice',0.97,2,'2025-08-01',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-29','TJ Almond Milk',1,1,null,null),
   ('2025-07-29','TJ Carb Savvy Tortillas',1,2,'2025-07-30',1),
@@ -980,5 +980,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-01','Beefsteak tomato',4,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-08-01','TJ Carb Savvy Tortillas',1,1,null,null),
-  ('2025-08-01','TJ Miso Ginger Broth',1,1,null,null);
+  ('2025-08-01','TJ Miso Ginger Broth',1,1,null,null),
+  /* 2025-08-01 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-08-01','Lundberg Sustainable California White Jasmine Rice',0.75,2,null,null),
+  ('2025-08-01','Lundberg Sustainable California White Basmati Rice',0.2,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-08-01','TJ Roasted Seaweed',1,2,null,null);
   /* Double-check the date and meal index before committing */
