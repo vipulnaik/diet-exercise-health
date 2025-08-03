@@ -955,7 +955,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-25','TJ Miso Ginger Broth',1,2,'2025-08-01',1),
   ('2025-07-25','TJ Roasted Seaweed',1,2,'2025-08-01',2),
   ('2025-07-26','TJ Carb Savvy Tortillas',1,1,'2025-07-27',2),
-  /* 2025-07-26 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual feature: no peas, so more tomatoes than usual */
+  /* 2025-07-26 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual feature: no peas, so more tomatoes than usual) */
   ('2025-07-26','Gold potatoes 5 lb',0.5,2,'2025-08-01',1),
   ('2025-07-26','TJ Kale',1,2,'2025-08-01',1),
   ('2025-07-26','Beefsteak tomato',7,2,'2025-08-01',1),
@@ -979,11 +979,19 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-01','Red bell pepper',3,1,null,null),
   ('2025-08-01','Beefsteak tomato',4,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-01','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2025-08-01','TJ Carb Savvy Tortillas',1,1,'2025-08-03',1),
   ('2025-08-01','TJ Miso Ginger Broth',1,1,null,null),
   /* 2025-08-01 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-08-01','Lundberg Sustainable California White Jasmine Rice',0.75,2,null,null),
   ('2025-08-01','Lundberg Sustainable California White Basmati Rice',0.2,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-01','TJ Roasted Seaweed',1,2,null,null);
+  ('2025-08-01','TJ Roasted Seaweed',1,2,null,null),
+  /* 2025-08-03 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual features: no peas, two bell peppers (one green and one red), and more tomatoes than usual */
+  ('2025-08-03','Gold potatoes 5 lb',0.5,1,null,null),
+  ('2025-08-03','Green bell pepper',1,1,null,null),
+  ('2025-08-03','Red bell pepper',1,1,null,null),
+  ('2025-08-03','TJ Kale',1,1,null,null),
+  ('2025-08-03','Beefsteak tomato',6,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-08-03','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
