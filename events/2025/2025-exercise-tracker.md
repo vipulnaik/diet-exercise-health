@@ -862,3 +862,12 @@ with a morning meeting.
 On Sunday 2025-08-03, I skipped all exercises. This was so that I
 could do meal prep in the morning and spend the afternoon and evening
 making progress with my backlog of tasks.
+
+## 2025-08-04: at-home jogging and skipping of strength exercises
+
+On Monday 2025-08-04, I did at-home jogging and skipped strength
+exercises (I had dead hang and pull-ups due). The at-home jogging was
+due to a time crunch (several meetings in the day). The skipping of
+strength exercises was because something came up right after I
+finished at-home jogging and I missed my time window to do strength
+exercises.
