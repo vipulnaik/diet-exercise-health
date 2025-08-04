@@ -856,3 +856,9 @@ than usual.
 On Friday 2025-08-01, I skipped all exercises. This was so that I
 could get started with meal prep in the morning and also multiplex it
 with a morning meeting.
+
+## 2025-08-03: skipped all exercises
+
+On Sunday 2025-08-03, I skipped all exercises. This was so that I
+could do meal prep in the morning and spend the afternoon and evening
+making progress with my backlog of tasks.
