@@ -968,7 +968,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-07-29','TJ Almond Milk',1,1,null,null),
   ('2025-07-29','TJ Carb Savvy Tortillas',1,2,'2025-07-30',1),
-  ('2025-07-30','TJ Walnuts',1,1,null,null),
+  ('2025-07-30','TJ Walnuts',1,1,'2025-08-03',2),
   ('2025-07-30','TJ Carb Savvy Tortillas',1,2,'2025-08-01',1),
   ('2025-07-31','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-08-02',2),
   /* 2025-08-01 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, salt, and a bit of cayenne pepper) (slightly unusual quantities of food items below due to unusual amounts purchased when shopping yesterday) */
@@ -993,5 +993,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-03','TJ Kale',1,1,null,null),
   ('2025-08-03','Beefsteak tomato',6,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-03','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2025-08-03','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-08-03','TJ Carb Savvy Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
