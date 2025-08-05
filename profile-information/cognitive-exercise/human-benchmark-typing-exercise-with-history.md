@@ -75,3 +75,8 @@ My goal is to play about 1-3 times a week.
 * 2025-05-21: 104 wpm moving average, placing me at the 97.15th
   percentile. Not much has changed since the last update on
   2025-04-23.
+
+* 2025-08-05: 111 wpm moving average, placing me at the 98.73th
+  percentile. I think continued practice of typing is paying off
+  slowly and steadily; though there's a lot of fluctuation in my
+  scores, the overall distribution seems to be moving upward.

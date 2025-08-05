@@ -88,3 +88,9 @@ in the day, for instance, in the evening, after my
   adjustment phase (jetlag recovery) but have since returned to
   normal. I also got my highest ever verbal memory score of 345 on
   2025-05-19.
+
+* 2025-08-05: 148.4 points moving average, placing me at the 97.92th
+  percentile. My scores seem to have recovered from the dip seen in
+  the last recorded moving average (preceding bullet point) where they
+  had dipped during timezone adjustment in India. There's still a lot
+  of fluctuation in scores.
