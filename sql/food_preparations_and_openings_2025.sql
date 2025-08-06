@@ -993,7 +993,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-03','TJ Kale',1,1,null,null),
   ('2025-08-03','Beefsteak tomato',6,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-03','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-08-03','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-08-05',2),
   ('2025-08-03','TJ Carb Savvy Tortillas',1,2,'2025-08-05',1),
   ('2025-08-04','TJ Walnuts',1,1,null,null),
   ('2025-08-05','TJ Carb Savvy Tortillas',1,1,null,null),
