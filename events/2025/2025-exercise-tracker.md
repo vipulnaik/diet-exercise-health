@@ -871,3 +871,22 @@ due to a time crunch (several meetings in the day). The skipping of
 strength exercises was because something came up right after I
 finished at-home jogging and I missed my time window to do strength
 exercises.
+
+## 2025-08-06: shortened at-home jogging and reduced quantity of strength exercises
+
+On Wednesday 2025-08-06, due to a mix of general physical lethargy /
+fatigue and a desire to finish exercise sooner so as to move my sleep
+cycle back to normal, I deviated from my usual exercise routine in the
+following ways:
+
+* I did at-home jogging, and only jogged for 20 minutes instead of the
+  usual 30 minutes for at-home jogging.
+
+* For strength exercises, I stopped at 10 lbs exercise 1. I skipped 10
+  lbs exercise 2 and the exercises I do with 20 lbs.
+
+* For kettlebell squats, I only did 10 squats each pointing inward and
+  outward, compared to my usual of doing at least 25 total across
+  inward and outward.
+
+* I skipped all push-ups (both standard push-ups and fist push-ups).
