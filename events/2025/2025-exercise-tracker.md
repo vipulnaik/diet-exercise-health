@@ -890,3 +890,10 @@ following ways:
   inward and outward.
 
 * I skipped all push-ups (both standard push-ups and fist push-ups).
+
+## 2025-08-07: skipped all exercises
+
+On Thursday 2025-08-07, I skipped all exercises. This was due to a
+very busy morning and early afternoon, plus my desire to not delay my
+meal so that I could adjust to a slightly earlier time of sleep and
+waking up.
