@@ -104,7 +104,7 @@ Overall notes:
   largely correlates with stains.
 
 * (slightly different from last time (2025-02-23)) I experienced a
-  little bit of pain from a few seconds (somewhere between 2 and 5
+  little bit of pain for a few seconds (somewhere between 2 and 5
   seconds for each joint) from the use of the floss pick when pressed
   hard against the gums. The pushing actions did not cause pain.
 
