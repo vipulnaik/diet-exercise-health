@@ -897,3 +897,19 @@ On Thursday 2025-08-07, I skipped all exercises. This was due to a
 very busy morning and early afternoon, plus my desire to not delay my
 meal so that I could adjust to a slightly earlier time of sleep and
 waking up.
+
+## 2025-08-08: at-home jogging and execution of strength exercises rather than breath hold and balance exercises
+
+On Friday 2025-08-08, both because it had already gotten pretty hot
+outdoors and to save time and multiplex it more effectively, I did
+at-home jogging. I also did one of the strength exercise routines
+rather than the breath hold and balance exercises that I would have
+done based on displacement from skipping exercises the previous
+day. This was based on a judgment call that in light of being busy and
+skipping exercise, I wanted to prioritize strength exercises on the
+days I did do exercise, as strength is an area where I am still trying
+to grow, whereas the other areas I am at or close to a state of
+maintaining, so a bit of decline is acceptable. Strength is also an
+area where I am more likely to slip up in hot seasons due to reduced
+protein intake accompanying reduced calorie intake, so I want to
+prioritize maintaining the stimulus from the exercise side.
