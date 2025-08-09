@@ -1010,5 +1010,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-08-09 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; unusual features: no peas) */
   ('2025-08-09','Gold potatoes 5 lb',0.5,1,null,null),
   ('2025-08-09','TJ Kale',1,1,null,null),
-  ('2025-08-09','Beefsteak tomato',6,1,null,null);
+  ('2025-08-09','Beefsteak tomato',6,1,null,null),
+  /* 2025-08-09 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-08-09','Lundberg Sustainable California White Basmati Rice',0.95,2,null,null);
   /* Double-check the date and meal index before committing */
