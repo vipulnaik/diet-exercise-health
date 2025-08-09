@@ -109,5 +109,5 @@ Overall notes:
   hard against the gums. The pushing actions did not cause pain.
 
 * (very different from last time (2025-02-23)) Unlike last time, I did
-  not experience tongue interference or clouding due to qexcessive
+  not experience tongue interference or clouding due to excessive
   salivation when taking photos.
