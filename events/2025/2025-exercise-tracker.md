@@ -913,3 +913,13 @@ maintaining, so a bit of decline is acceptable. Strength is also an
 area where I am more likely to slip up in hot seasons due to reduced
 protein intake accompanying reduced calorie intake, so I want to
 prioritize maintaining the stimulus from the exercise side.
+
+## 2025-08-09: skipped jogging and breath holds
+
+On Saturday 2025-08-09, I skipped all exercises in the morning so that
+I could start meal prep in the morning before my first meal (I had run
+out of unprepped food). I also deferred all other exercise for the
+meal prep. However, later in the day, I did get a chance to do hand
+gripper exercises (while waiting on the potatoes prep to get ready)
+and a few balance exercises (while waiting for water to be filtered
+for rice prep), so in effect I only skipping jogging and breath holds.
