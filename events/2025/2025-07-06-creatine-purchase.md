@@ -53,3 +53,15 @@ Here is the if-all-goes-well schedule starting Saturday 2025-07-19:
 * Next 2 weeks: 2 gummies per day, with my morning meal
 
 * After that: 3 gummies per day, with my morning meal
+
+## Update 2025-08-09
+
+After some delay relative to the original plan, I have increased my
+consumption to 2 gummies per day. I am not sure if I will stay at 2 or
+go back down to 1 gummy per day. I'm thinking of having it be
+responsive to my overall dietary protein intake. During summer months,
+when my food consumption is a bit lower so my dietary protein also
+falls, I may do more gummies (2 or 3) whereas in the winter months
+when my dietary protein is high, I may do fewer gummies (1 or 2). I'm
+also experimenting with similar fluctuation in the quantity of lysine
+I consume based on season.
