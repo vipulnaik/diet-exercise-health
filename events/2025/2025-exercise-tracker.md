@@ -923,3 +923,8 @@ meal prep. However, later in the day, I did get a chance to do hand
 gripper exercises (while waiting on the potatoes prep to get ready)
 and a few balance exercises (while waiting for water to be filtered
 for rice prep), so in effect I only skipping jogging and breath holds.
+
+## 2025-08-10: skipped all exercises
+
+On Sunday 2025-08-10, I skipped all exercises due to a hectic schedule
+as well as some general fatigue.
