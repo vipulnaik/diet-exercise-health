@@ -15,9 +15,15 @@ up-to-date.
 This document describes my exercise routine. I intend to update it
 when there are changes to my ongoing routine. See also my yearly
 exercise tracker docs (such as
-[2023-exercise-tracker.md](2023-exercise-tracker.md) and
-[2024-exercise-tracker.md](2024-exercise-tracker.md)) where I record
-time periods where I deviated from the routine.
+[2024-exercise-tracker.md](../../events/2024/2024-exercise-tracker.md)
+and
+[2025-exercise-tracker.md](../../events/2025/2025-exercise-tracker.md))
+where I record time periods where I deviated from the routine.
+
+The document for [best practices around exercise adjustment during
+hectic
+times](../../best-practices/best-practices-around-exercise-adjustment-during-hectic-times.md)
+is also potentially relevant.
 
 Sections of this document:
 
