@@ -50,6 +50,11 @@ On 2025-07-25, I was operating totally normally. I also did the usual
 hand gripper exercises (including the right index finger) though I
 made sure not to touch the hand gripper with that part of the finger.
 
+On Monday 2025-08-11 (20 days after the cut), the cut had largely
+healed but the skin had not totally normalized, and I noticed a bit of
+increased sensation around the area, likely due to the new skin still
+being a bit raw.
+
 ## Best practices going forward
 
 ### Precautions at each tweezers use
