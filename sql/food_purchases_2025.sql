@@ -477,7 +477,10 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-08-10','TJ English Shelled Peas',2),
   ('2025-08-10','Beefsteak tomato',9),
   ('2025-08-10','Green bell pepper',4),
-  ('2025-08-10','Red bell pepper',2);
+  ('2025-08-10','Red bell pepper',2),
+  /* 2025-08-11 (Monday) Berkeley Bowl; total cost $76.70; checkout at 4:47 PM; paid by credit card; 12 items in transaction but 2 were Seventh Generation dish soap so 10 food items */
+  ('2025-08-11','Lundberg Sustainable California White Jasmine Rice',4),
+  ('2025-08-11','Kite Hill Greek Style Plant-Based Yogurt',6);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
