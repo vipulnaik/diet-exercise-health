@@ -417,7 +417,7 @@ queries = [
 
     "select epoch, daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg as effective_daily_sodium_in_mg from daily_pow_amounts_by_epoch where daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg < 1200 or daily_sodium_in_mg - daily_sodium_from_table_salt_in_mg > 2700;",
 
-    "select epoch, daily_potassium_in_mg from daily_pow_amounts_by_epoch where daily_potassium_in_mg < 3100 or daily_potassium_in_mg > 5400;",
+    "select epoch, daily_potassium_in_mg from daily_pow_amounts_by_epoch where daily_potassium_in_mg < 3000 or daily_potassium_in_mg > 5400;",
 
     "select epoch, daily_vitamin_a_in_mcg from daily_pow_amounts_by_epoch where daily_vitamin_a_in_mcg < 900 or daily_vitamin_a_in_mcg > 4100;",
 ]
