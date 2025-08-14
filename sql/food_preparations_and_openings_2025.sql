@@ -1003,7 +1003,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-08-08',2),
   ('2025-08-06','TJ Almond Milk',1,1,null,null),
   ('2025-08-07','TJ Carb Savvy Tortillas',1,2,'2025-08-10',1),
-  ('2025-08-08','TJ Miso Ginger Broth',1,1,null,null),
+  ('2025-08-08','TJ Miso Ginger Broth',1,1,'2025-08-14',1),
   ('2025-08-08','TJ Roasted Seaweed',1,2,null,null),
   ('2025-08-08','TJ Walnuts',1,2,'2025-08-13',2),
   ('2025-08-08','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-08-11',1),
@@ -1023,7 +1023,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-10','Red bell pepper',2,2,null,null),
   ('2025-08-10','Beefsteak tomato',8,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2025-08-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-08-14',1),
   ('2025-08-12','TJ Carb Savvy Tortillas',1,1,'2025-08-13',2),
   ('2025-08-13','TJ Walnuts',1,2,null,null),
   ('2025-08-13','TJ Carb Savvy Tortillas',1,2,null,null),
