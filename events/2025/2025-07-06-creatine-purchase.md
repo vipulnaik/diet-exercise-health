@@ -65,3 +65,13 @@ falls, I may do more gummies (2 or 3) whereas in the winter months
 when my dietary protein is high, I may do fewer gummies (1 or 2). I'm
 also experimenting with similar fluctuation in the quantity of lysine
 I consume based on season.
+
+## Update 2025-08-14
+
+As of around 2025-08-11 or 2025-08-12 I went back down to 1 gummy per
+day based on a suspicion that 2 gummies per day were not serving me
+well.
+
+On 2025-08-14 I skipped creatine entirely with the intention of
+returning to it after a bit of a reset from the increased consumption
+a few days ago.
