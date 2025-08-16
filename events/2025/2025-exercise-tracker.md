@@ -928,3 +928,12 @@ for rice prep), so in effect I only skipping jogging and breath holds.
 
 On Sunday 2025-08-10, I skipped all exercises due to a hectic schedule
 as well as some general fatigue.
+
+## 2025-08-13 to 2025-08-15: skipped all exercises (except hand gripper exercises that I did on two days)
+
+From Wednesday 2025-08-13 to Friday 2025-08-15, I skipped all
+exercises with the exception of hand gripper exercises, that I did on
+Wednesday and Friday (not Thursday). The reason was a bunch of
+time-sensitive stuff that I needed to complete over the period; doing
+exercises would have both taken time and disrupted the overall
+schedule for the day.
