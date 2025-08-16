@@ -1031,5 +1031,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-14','Lundberg Sustainable California White Basmati Rice',0.95,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-08-14','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2025-08-14','TJ Miso Ginger Broth',1,2,null,null);
+  ('2025-08-14','TJ Miso Ginger Broth',1,2,null,null),
+  /* 2025-08-15 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2025-08-15','Gold potatoes 5 lb',0.5,2,null,null),
+  ('2025-08-15','TJ Kale',1,2,null,null),
+  ('2025-08-15','TJ English Shelled Peas',2,2,null,null),
+  ('2025-08-15','Beefsteak tomato',4,2,null,null);
   /* Double-check the date and meal index before committing */
