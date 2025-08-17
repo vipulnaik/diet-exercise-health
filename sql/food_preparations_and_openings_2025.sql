@@ -960,7 +960,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-26','TJ Kale',1,2,'2025-08-01',1),
   ('2025-07-26','Beefsteak tomato',7,2,'2025-08-01',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-07-27','TJ Sauerkraut',1,1,null,null), /* gap of one day from finishing of previous bottle because I had kimchi on the intervening day (2025-07-26) */
+  ('2025-07-27','TJ Sauerkraut',1,1,'2025-08-17',1), /* gap of one day from finishing of previous bottle because I had kimchi on the intervening day (2025-07-26) */
   ('2025-07-28','TJ Carb Savvy Tortillas',1,1,'2025-07-29',1),
   ('2025-07-28','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-07-31',1),
   /* 2025-07-28 rice prep (second meal) (added turmeric, cumin, salt) */
@@ -1030,7 +1030,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-08-14 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-08-14','Lundberg Sustainable California White Basmati Rice',0.95,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-14','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2025-08-14','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-08-17',1),
   ('2025-08-14','TJ Miso Ginger Broth',1,2,null,null),
   /* 2025-08-15 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2025-08-15','Gold potatoes 5 lb',0.5,2,null,null),
@@ -1039,5 +1039,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-15','Beefsteak tomato',4,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-08-16','TJ Almond Milk',1,1,null,null),
-  ('2025-08-16','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2025-08-16','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2025-08-17','TJ Sauerkraut',1,1,null,null),
+  ('2025-08-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
