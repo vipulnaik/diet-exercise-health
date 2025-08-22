@@ -937,3 +937,22 @@ Wednesday and Friday (not Thursday). The reason was a bunch of
 time-sensitive stuff that I needed to complete over the period; doing
 exercises would have both taken time and disrupted the overall
 schedule for the day.
+
+## 2025-08-18 to 2025-08-20: skipped all exercises
+
+From Monday 2025-08-18 to Wednesday 2025-08-20, I skipped all
+exercises, to focus on a bunch of time-sensitive administrative stuff.
+
+## 2025-08-21: reduced at-home jogging plus continued skipping of strength exercises
+
+On Thursday 2025-08-21, partly due to time constraints and partly to
+allow myself to recondition back to normal after three days of not
+exercising, I only did hand gripper exercises and at-home jogging,
+with the latter being for a shorter duration than usual. I skipped
+strength exercises.
+
+The reason for jogging at home was a mix of time constraints and it
+being very hot and sunny outside (the indoor temperature was also high
+but not as high as the outdoor temperature which rose pretty sharply
+in the morning, plus it was also sunny outside so subjectively hotter
+after controlling for temperature).
