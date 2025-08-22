@@ -886,7 +886,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-07-09','Lundberg Sustainable California White Basmati Rice',0.52,1,'2025-07-12',2),
   ('2025-07-09','Lundberg Sustainable California White Jasmine Rice',0.4,1,'2025-07-12',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-07-09','TJ Kimchi',1,1,null,null),
+  ('2025-07-09','TJ Kimchi',1,1,'2025-08-22',1), /* see food_waste.sql for notes on the discard */
   ('2025-07-09','TJ Carb Savvy Tortillas',1,2,'2025-07-11',2),
   ('2025-07-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-07-12',1),
   ('2025-07-10','TJ Walnuts',1,1,'2025-07-14',1),
