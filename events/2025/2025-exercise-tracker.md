@@ -956,3 +956,11 @@ being very hot and sunny outside (the indoor temperature was also high
 but not as high as the outdoor temperature which rose pretty sharply
 in the morning, plus it was also sunny outside so subjectively hotter
 after controlling for temperature).
+
+## 2025-08-23: at-home jogging
+
+On Saturday 2025-08-23, I did at-home jogging. That's because I got
+delayed starting my jog because I decided to finish a few other tasks
+first, and by the time I finally was ready to go jogging, it was hot
+outdoors. I did the full at-home jogging duration and did other
+exercises as usual.
