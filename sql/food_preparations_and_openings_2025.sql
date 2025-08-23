@@ -1033,10 +1033,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-14','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-08-17',1),
   ('2025-08-14','TJ Miso Ginger Broth',1,2,'2025-08-21',2),
   /* 2025-08-15 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2025-08-15','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2025-08-15','TJ Kale',1,2,null,null),
-  ('2025-08-15','TJ English Shelled Peas',2,2,null,null),
-  ('2025-08-15','Beefsteak tomato',4,2,null,null),
+  ('2025-08-15','Gold potatoes 5 lb',0.5,2,'2025-08-23',1),
+  ('2025-08-15','TJ Kale',1,2,'2025-08-23',1),
+  ('2025-08-15','TJ English Shelled Peas',2,2,'2025-08-23',1),
+  ('2025-08-15','Beefsteak tomato',4,2,'2025-08-23',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-08-15','TJ Roasted Seaweed',1,2,'2025-08-22',2),
   ('2025-08-16','TJ Almond Milk',1,1,null,null),
@@ -1045,7 +1045,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-08-19',2),
   ('2025-08-17','TJ Carb Savvy Tortillas',1,2,'2025-08-20',1),
   /* 2025-08-18 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-08-18','Lundberg Sustainable California White Basmati Rice',0.95,2,null,null),
+  ('2025-08-18','Lundberg Sustainable California White Basmati Rice',0.95,2,'2025-08-23',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-08-19','TJ Walnuts',1,1,null,null),
   ('2025-08-19','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-08-22',1),
@@ -1058,8 +1058,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-20','Beefsteak tomato',7,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-08-20','TJ Carb Savvy Tortillas',1,2,'2025-08-21',2),
-  ('2025-08-21','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-08-21','TJ Carb Savvy Tortillas',1,2,'2025-08-23',1),
   ('2025-08-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   ('2025-08-22','TJ Miso Ginger Broth',1,1,null,null),
-  ('2025-08-22','TJ Roasted Seaweed',1,2,null,null);
+  ('2025-08-22','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-08-23','TJ Carb Savvy Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
