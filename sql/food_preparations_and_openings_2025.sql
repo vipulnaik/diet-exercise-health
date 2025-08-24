@@ -834,7 +834,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-26','TJ Carb Savvy Tortillas',1,1,'2025-06-27',1),
   /* 2025-06-26 rice prep (second meal) (added turmeric, cumin, salt) -- switched both turmeric and cumin bottles as part of this prep as they got over */
   ('2025-06-26','Lundberg Sustainable California White Basmati Rice',0.94,2,'2025-06-30',1),
-  ('2025-06-26','TJ Turmeric',1,2,null,null), /* opened with rice prep; used previous turmeric partially as well */
+  ('2025-06-26','TJ Turmeric',1,2,'2025-08-23',2), /* opened with rice prep; used previous turmeric partially as well */
   ('2025-06-26','TJ Cumin',1,2,null,null), /* opened with rice prep; used previous cumin partially as well */
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-27','TJ Walnuts',1,1,'2025-06-30',2),
@@ -1069,5 +1069,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-23','TJ English Shelled Peas',2,2,null,null),
   ('2025-08-23','Beefsteak tomato',5,2,null,null),
   /* new bottle/packet openings as the old ones finished */
+  ('2025-08-23','TJ Turmeric',1,2,null,null), /* opened with potatoes prep; used previous turmeric partially as well */
   ('2025-08-23','TJ Walnuts',1,2,null,null);
   /* Double-check the date and meal index before committing */
