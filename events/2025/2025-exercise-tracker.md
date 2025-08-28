@@ -981,3 +981,9 @@ due on that day.
 
 On Wednesday 2025-08-27, I did at-home jogging because it had gotten
 late and it was hot outdoors.
+
+## 2025-08-28: at-home jogging and skipping of strength exercises
+
+On Thursday 2025-08-28, I did at-home jogging and skipped strength
+exercises due to a scheduling issue / time crunch imposed by a work
+meeting.
