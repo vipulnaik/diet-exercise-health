@@ -964,3 +964,20 @@ delayed starting my jog because I decided to finish a few other tasks
 first, and by the time I finally was ready to go jogging, it was hot
 outdoors. I did the full at-home jogging duration and did other
 exercises as usual.
+
+## 2025-08-25: at-home jogging and skipping of strength exercises
+
+On Monday 2025-08-25, I did at-home jogging due to a mix of it being
+hot and things being busy with work meetings. I also skipped strength
+exercises that would normally be due on the day.
+
+## 2025-08-26: skipping of strength exercises
+
+On Tuesday 2025-08-26, when I returned from jogging, I had to attend
+to a few tasks, so I ended up skipping strength exercises that I had
+due on that day.
+
+## 2025-08-27: at-home jogging
+
+On Wednesday 2025-08-27, I did at-home jogging because it had gotten
+late and it was hot outdoors.
