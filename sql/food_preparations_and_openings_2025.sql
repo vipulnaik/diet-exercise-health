@@ -1061,7 +1061,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-21','TJ Carb Savvy Tortillas',1,2,'2025-08-23',1),
   ('2025-08-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-08-24',2),
   ('2025-08-22','TJ Miso Ginger Broth',1,1,'2025-08-27',2),
-  ('2025-08-22','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-08-22','TJ Roasted Seaweed',1,2,'2025-08-28',2),
   ('2025-08-23','TJ Carb Savvy Tortillas',1,1,'2025-08-24',1),
   /* 2025-08-23 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2025-08-23','Gold potatoes 5 lb',0.5,2,null,null),
@@ -1080,5 +1080,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-26','TJ Carb Savvy Tortillas',1,2,null,null),
   ('2025-08-27','TJ Miso Ginger Broth',1,2,null,null),
   /* 2025-08-28 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-08-28','Lundberg Sustainable California White Jasmine Rice',0.96,1,null,null);
+  ('2025-08-28','Lundberg Sustainable California White Jasmine Rice',0.96,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-08-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null); /* one meal in between where I didn't have the yogurt due to not having it in stock */
   /* Double-check the date and meal index before committing */
