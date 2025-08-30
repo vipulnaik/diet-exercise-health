@@ -18,18 +18,32 @@ desired lab location and used the 3100 San Pablo Ave one.
 
 I placed both orders on Sunday 2025-03-30 around 11 PM.
 
-### Appointment / blood draw date (undecided)
+### Appointment / blood draw date
 
-As of Sunday 2025-03-30, I am as yet undecided regarding whether to do
-a walk-in in early April, book an appointment for around mid-April, or
+As of Sunday 2025-03-30, I was undecided regarding whether to do a
+walk-in in early April, book an appointment for around mid-April, or
 delay the testing to late June or July (late April to mid-June are
-infeasible for various reasons). I need to review my overall workload
-and various pros and cons. The reason I placed the order despite this
-uncertainty was two-fold: to benefit from the 15% discount that was
-available till 2025-03-31, and to place the order and have the
+infeasible for various reasons). The reason I placed the order despite
+this uncertainty was two-fold: to benefit from the 15% discount that
+was available till 2025-03-31, and to place the order and have the
 requisition form(s) printed and ready to go to give myself maximum
 flexibility to get the tests at the most convenient time without much
 lag.
+
+On Saturday 2025-08-30, I proceeded to make an appointment for
+Wednesday 2025-09-10 10:45 AM at the 3000 Colby St location. While I
+am uncertain if this is the ideal time (it might be too late) it is my
+general impression that if I get to the location early I can generally
+process as a walk-in. Conversely, if I get to the location a little
+late, I can also likely process as a walk-in if it isn't too
+crowded. I followed the [best practices around blood
+tests](../../best-practices/best-practices-around-blood-tests.md) for
+the booking process.
+
+Following the best practices, I marked the appointment on calendar and
+worked on all the ASAP steps and calendar reminders. This included a
+total of 11 calendar reminders in addition to the blocking of the time
+around the blood draw on my calendar.
 
 ## Tests around lipids, insulin resistance, and diabetic tendencies
 
