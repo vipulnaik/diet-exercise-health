@@ -987,3 +987,9 @@ late and it was hot outdoors.
 On Thursday 2025-08-28, I did at-home jogging and skipped strength
 exercises due to a scheduling issue / time crunch imposed by a work
 meeting.
+
+## 2025-08-29: at-home jogging
+
+On Friday 2025-08-29, I did at-home jogging because it got pretty late
+by the time I was ready to go jogging, and it was fairly hot outside
+by this time.
