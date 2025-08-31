@@ -1041,7 +1041,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-15','TJ Roasted Seaweed',1,2,'2025-08-22',2),
   ('2025-08-16','TJ Almond Milk',1,1,'2025-08-24',1),
   ('2025-08-16','TJ Carb Savvy Tortillas',1,1,'2025-08-17',2),
-  ('2025-08-17','TJ Sauerkraut',1,1,null,null),
+  ('2025-08-17','TJ Sauerkraut',1,1,'2025-08-31',1),
   ('2025-08-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-08-19',2),
   ('2025-08-17','TJ Carb Savvy Tortillas',1,2,'2025-08-20',1),
   /* 2025-08-18 rice prep (second meal) (added turmeric, cumin, salt) */
@@ -1092,7 +1092,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-29','Red bell pepper',2,2,null,null),
   ('2025-08-29','Beefsteak tomato',8,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-29','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-08-29','TJ Carb Savvy Tortillas',1,2,'2025-08-31',1),
   ('2025-08-29','TJ Roasted Seaweed',1,2,null,null),
   /* 2025-08-30 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2025-08-30','Gold potatoes 5 lb',0.5,2,null,null),
