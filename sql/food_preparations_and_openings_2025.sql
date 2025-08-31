@@ -1082,7 +1082,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-08-28 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-08-28','Lundberg Sustainable California White Jasmine Rice',0.96,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null), /* one meal in between where I didn't have the yogurt due to not having it in stock */
+  ('2025-08-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-08-30',2), /* one meal in between where I didn't have the yogurt due to not having it in stock */
   ('2025-08-29','TJ Walnuts',1,1,null,null),
   /* 2025-08-29 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, salt, and a bit of cayenne pepper; finished olive oil bottle with this prep and did not open a new one) */
   ('2025-08-29','Eggplant',1,2,null,null),
@@ -1093,5 +1093,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-29','Beefsteak tomato',8,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-08-29','TJ Carb Savvy Tortillas',1,2,null,null),
-  ('2025-08-29','TJ Roasted Seaweed',1,2,null,null);
+  ('2025-08-29','TJ Roasted Seaweed',1,2,null,null),
+  /* 2025-08-30 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2025-08-30','Gold potatoes 5 lb',0.5,2,null,null),
+  ('2025-08-30','TJ Kale',1,2,null,null),
+  ('2025-08-30','TJ English Shelled Peas',2,2,null,null),
+  ('2025-08-30','Beefsteak tomato',7,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-08-30','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep */
+  ('2025-08-30','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
