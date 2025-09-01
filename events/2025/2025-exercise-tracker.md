@@ -994,8 +994,9 @@ On Friday 2025-08-29, I did at-home jogging because it got pretty late
 by the time I was ready to go jogging, and it was fairly hot outside
 by this time.
 
-## 2025-08-30 and 2025-08-31: at-home jogging
+## 2025-08-30 to 2025-09-01: at-home jogging
 
-On Saturday 2025-08-30 and Sunday 2025-08-31, I did at-home jogging
-because it was fairly hot in the morning (and in fact hotter outdoors
-than indoors, in addition to being sunny outdoors).
+On Saturday 2025-08-30, Sunday 2025-08-31, and Monday 2025-09-01, I
+did at-home jogging because it was fairly hot in the morning (and in
+fact hotter outdoors than indoors, in addition to being sunny
+outdoors).
