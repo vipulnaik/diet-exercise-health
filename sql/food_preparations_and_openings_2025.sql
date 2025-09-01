@@ -1080,7 +1080,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-26','TJ Carb Savvy Tortillas',1,2,'2025-08-29',2),
   ('2025-08-27','TJ Miso Ginger Broth',1,2,null,null),
   /* 2025-08-28 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-08-28','Lundberg Sustainable California White Jasmine Rice',0.96,1,null,null),
+  ('2025-08-28','Lundberg Sustainable California White Jasmine Rice',0.96,1,'2025-09-01',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-08-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-08-30',2), /* one meal in between where I didn't have the yogurt due to not having it in stock */
   ('2025-08-29','TJ Walnuts',1,1,null,null),
@@ -1102,5 +1102,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-08-30','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep */
   ('2025-08-30','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2025-08-31','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2025-08-31','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-09-01','TJ Sauerkraut',1,1,null,null);
   /* Double-check the date and meal index before committing */
