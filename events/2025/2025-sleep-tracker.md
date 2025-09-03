@@ -640,3 +640,13 @@ be more refreshed when I wake up).
 While the decisions that led to me sleeping late and waking up
 late were based on a deliberate trade-off, I miscalculated some aspects
 of the trade-off, and I should keep this in mind in the future.
+
+## 2025-09-02 overnight into 2025-09-03
+
+I went to sleep rather late, at about 2:27 AM, due to staying up late
+to finish a few tasks (some planned, some unplanned). I woke up at
+9:25 AM. After waking up I felt both physically and cognitively a
+little fatigued. I noticed that my typing speed and accuracy were a
+little lower than usual, and my willpower was also on the low end. I
+ended up spending a lot of time doing typing practice, more than I
+should have, and it felt addictive like a game.

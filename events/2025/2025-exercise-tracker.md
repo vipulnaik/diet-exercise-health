@@ -1000,3 +1000,9 @@ On Saturday 2025-08-30, Sunday 2025-08-31, and Monday 2025-09-01, I
 did at-home jogging because it was fairly hot in the morning (and in
 fact hotter outdoors than indoors, in addition to being sunny
 outdoors).
+
+## 2025-09-03
+
+On Wednesday 2025-09-03, I skipped all exercise due to physical and
+cognitive fatigue as well as having spent a lot of time doing typing
+practice that used up the time I would normally spend exercising.
