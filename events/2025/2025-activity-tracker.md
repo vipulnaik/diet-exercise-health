@@ -220,3 +220,13 @@ a trip to the UPS Store at 2342 Shattuck Ave to pick up a package.
 On Friday 2025-07-18, in the late afternoon / early evening, I made a
 trip to the Amazon Hub Locker at ASUC Berkeley to pick up a few
 packages.
+
+## Various trips in 2025-08 (details pending)
+
+I made a few administrative trips in 2025-08. Details of the trips are
+pending.
+
+## 2025-09-03
+
+In the late afternoon, I made a trip to Walgreens to purchase
+toiletries.
