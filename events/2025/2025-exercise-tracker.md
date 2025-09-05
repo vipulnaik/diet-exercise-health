@@ -1001,8 +1001,19 @@ did at-home jogging because it was fairly hot in the morning (and in
 fact hotter outdoors than indoors, in addition to being sunny
 outdoors).
 
-## 2025-09-03
+## 2025-09-03: skipping of all exercises
 
 On Wednesday 2025-09-03, I skipped all exercise due to physical and
 cognitive fatigue as well as having spent a lot of time doing typing
 practice that used up the time I would normally spend exercising.
+
+## 2025-09-04: skipping of most exercises
+
+On Thursday 2025-09-04, I skipped most exercises due to a bunch of day
+job work in the morning. I did, however, do hand gripper exercises.
+
+## 2025-09-05: at-home jogging
+
+On Friday 2025-09-05, I did at-home jogging for a mix of scheduling
+reasons and the temperature increasing outdoors by the time I was
+ready to go jogging.
