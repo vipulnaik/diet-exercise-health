@@ -1110,7 +1110,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-02','TJ Miso Ginger Broth',1,1,null,null),
   ('2025-09-02','TJ Carb Savvy Tortillas',1,1,'2025-09-03',2),
   ('2025-09-02','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-09-04',1),
-  ('2025-09-02','TJ Walnuts',1,2,null,null),
+  ('2025-09-02','TJ Walnuts',1,2,'2025-09-07',1),
   ('2025-09-04','TJ Almond Milk',1,1,null,null),
   ('2025-09-04','TJ Carb Savvy Tortillas',1,1,'2025-09-06',1),
   ('2025-09-04','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-09-06',2),
@@ -1118,7 +1118,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-09-05 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-09-05','Lundberg Sustainable California White Jasmine Rice',0.96,2,null,null),
   /* 2025-09-06 Udupi Palace takeout consumption (second meal) */
-  ('2025-09-06','Udupi Palace spinach masala dosa',1,2,null,null),
+  ('2025-09-06','Udupi Palace spinach masala dosa',1,2,'2025-09-07',1), /* The dosa itself I finished in the meal that I opened it; but a little bit of sambhar and chutney were left-over and I finished them in the next meal */
   /* new bottle/packet openings as the old ones finished */
-  ('2025-09-06','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
+  ('2025-09-06','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  /* 2025-09-07 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2025-09-07','Gold potatoes 5 lb',0.5,1,null,null),
+  ('2025-09-07','TJ Kale',1,1,null,null),
+  ('2025-09-07','TJ English Shelled Peas',2,1,null,null),
+  ('2025-09-07','Beefsteak tomato',4,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-09-07','TJ Carb Savvy Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
