@@ -1017,3 +1017,10 @@ job work in the morning. I did, however, do hand gripper exercises.
 On Friday 2025-09-05, I did at-home jogging for a mix of scheduling
 reasons and the temperature increasing outdoors by the time I was
 ready to go jogging.
+
+## 2025-09-07 and 2025-09-08: at-home jogging
+
+On Sunday 2025-09-07 and Monday 2025-09-08, I did at-home jogging. On
+Sunday, the reason was that it had already gotten hot by the time I
+was ready to go jogging. On Monday, the reason was that I was
+multiplexing with meetings and other work obligations.
