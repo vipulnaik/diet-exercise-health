@@ -7,7 +7,7 @@ create table food_preparations_and_openings_lower_bounds(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into food_preparations_and_openings_lower_bounds(food_type, num_days, quantity_lower_bound) values
-  ('Lundberg Sustainable California White Jasmine Rice',12,1.95),
+  ('Lundberg Sustainable California White Jasmine Rice',12,1.85),
   ('TJ Kale',10,2),
   ('TJ English Shelled Peas',14,3),
   ('Beefsteak tomato',14,8),
