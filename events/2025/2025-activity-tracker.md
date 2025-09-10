@@ -239,3 +239,9 @@ toiletries.
 ## 2025-09-09
 
 In the early evening, I made a brief administrative trip.
+
+## 2025-09-10
+
+In the morning, I made a trip to the LabCorp location at 3000 Colby St
+Suite 100 for a blood draw. See [here](2025-09-10-blood-tests.md) for
+more details.
