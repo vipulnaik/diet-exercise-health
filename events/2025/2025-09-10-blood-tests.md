@@ -27,3 +27,14 @@ blood draw the next day.
 
 On the evening of Tuesday 2025-09-09, the evening prior to the blood
 draw, I ended my dinner at 7:46 PM.
+
+I had small amounts of residual food a little later: a little bit of
+liquid mix (about half a teaspoon) at 9:05 PM and a single-digit
+number of rice grains at around 9:15 PM.
+
+### 2025-09-09 night: packing / prep
+
+I did packing / prep at around 10:30 PM. This included packing the
+requisition form (one signed copy and two unsigned copies) as well as
+a black pen. I also streamlined some other elements so as to be able
+to leave more quickly the next morning for the blood tests.
