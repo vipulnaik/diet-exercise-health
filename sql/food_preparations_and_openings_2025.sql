@@ -1116,7 +1116,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-04','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-09-06',2),
   ('2025-09-04','TJ Roasted Seaweed',1,2,null,null),
   /* 2025-09-05 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-09-05','Lundberg Sustainable California White Jasmine Rice',0.96,2,null,null),
+  ('2025-09-05','Lundberg Sustainable California White Jasmine Rice',0.96,2,'2025-09-09',2),
   /* 2025-09-06 Udupi Palace takeout consumption (second meal) */
   ('2025-09-06','Udupi Palace spinach masala dosa',1,2,'2025-09-07',1), /* The dosa itself I finished in the meal that I opened it; but a little bit of sambhar and chutney were left-over and I finished them in the next meal */
   /* new bottle/packet openings as the old ones finished */
