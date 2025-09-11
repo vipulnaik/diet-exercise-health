@@ -2,6 +2,114 @@
 
 This document outlines my best practices around sleep.
 
+The document was revised in September 2025 to incorporate changes to
+my routine and more data-driven timing insights that I lacked when I
+originally fleshed out the document in October 2024.
+
+## Important time points
+
+This is a new section added in September 2025, based on improved
+logging I have been doing regarding sleep, that was partly inspired by
+the original version of the document. I've been adding this logging
+gradually.
+
+### Sequence of events for going to sleep
+
+The sequence of events related to sleep and waking up is as follows:
+
+* `grtcfs` = getting ready to close for sleep. This is the time when,
+  generally while working on my laptop, I decide to start executing my
+  night checklist with the intention of closing my laptop after that.
+
+* `cfs` = closing for sleep. This is after I have completed my night
+  checklist and right before I close my laptop. A final night
+  urination shortly after closing for sleep is expected and is not
+  recorded.
+
+* Activities that often, but not always, occur in between:
+
+  * `bfbt` = back from brushing teeth. This is after I finish the
+    final brushing of my teeth for the night. In some cases, I may
+    brush my teeth before `grtcfs`.
+
+  * `fs` = finished shaving. On some nights, I shave after brushing my
+    teeth. Other days, I might skip shaving (I generally shave on
+    alternating days except during times when I have a lot of social
+    interactions, at which times I shave daily). In some cases, I
+    shave during the day time.
+
+  * `wfb` = went for bath. On most days, I have a bath at night.
+
+  * `bfb` = back from bath
+
+* `gib` = got into bed. This is when I get into bed with the intent of
+  not getting out of bed. I spend a few minutes on my phone.
+
+* Activities that often, but not always, occur in between:
+
+  * `smd` = scalp massage done. After getting into bed, I generally do
+    scalp massage with one hand while usin my phone in the other. This
+    may last anywhere from 5 minutes to 30 minutes.
+
+  * `mmd` = masseter massage done. The masseter massage is brief,
+    about 1 to 2 minutes.
+
+  * `nsed` = neck strength exercises done (only on some days).
+
+* `wts` = went to sleep. This is the final thing I log before closing
+  my eyes and lying down to sleep.
+
+The gaps are generally in the ranges described below:
+
+* [grtcfs, cfs] can vary between 4 minutes and 20 minutes, depending
+  on how much new stuff comes up in the night checklist. Generally, if
+  it is longer than 20 minutes, I consider it a cancellation of my
+  original intent to get ready to close for sleep. In cases where I am
+  determined to sleep early, I can generally keep it to 8 minutes or
+  less.
+
+* [cfs, bfbt] is generally somewhere between 8 minutes and 15
+  minutes. That's because it includes additional unlogged steps
+  including vaseline application and final urination.
+
+* [bfbt, fs] is about 12 to 20 minutes on days that it happens.
+
+* [fs, wfb] is about 1 to 6 minutes; when there is no `fs`, then
+  `[bfbt, wfb] is about 1 to 6 minutes. The intervening time might be
+  used to catch up on phone messages and notifications.
+
+* [wfb, bfb] can vary between 17 and 30 minutes.
+
+* [bfb, gib] is about 2 to 5 minutes; this includes a few final checks.
+
+* [gib, wts] can be anywhere between 5 and 30 minutes, depending on
+  how sleepy I am, whether I need to go to sleep soon, and whether
+  there are loose ends I want to wrap up for mental closure (that can
+  be done in bed on the phone).
+
+### Sequence of events for mid-sleep urination
+
+For mid-sleep urination, I generally have:
+
+* `wtu` = went to urinate. This is the time I got out of bed to
+  urinate.
+
+* In some cases, where I think I might need to go back to sleep and
+  may wake up rather late, I might have these two:
+
+  * `smcp` = started morning checklist (phone). This means checking
+    email and messages on my phone.
+
+  * `fmcp` = finished morning checklist (phone).
+
+* `wbts` = went back to sleep. This is right before I close my eyes
+  and lay down.
+
+### Waking up
+
+Waking up is recorded as `wu`. A urination right after waking up is
+expected and is not recorded separately.
+
 ## Background on my sleep and waking-up pattern
 
 ### My default pattern
@@ -169,7 +277,7 @@ As far as reducing unplanned late sleep goes, there are two related
 goals:
 
 * Sleep by the latest time described in [When to get into
-  bed](#when-to-get-into-bed).
+  bed](#when-to-go-to-sleep).
 
 * Have the flexibility to sleep earlier if I feel sleepy or if other
   new information comes up; as much as possible I should not feel
@@ -177,95 +285,36 @@ goals:
   feel cognitively or physically too fatigued to be awake or do useful
   things while awake.
 
-#### Have clarity every day as to the latest-in-bed time
+#### Have clarity every day as to the latest time I can go to sleep (`wts` time)
 
 Right when I wake up in the morning, I should have clarity on the
-latest time I can get into bed. This should be at the back of my mind
-and can influence my decisions throughout the day. In some cases, new
-information such as weather details, planned house maintenance, or
-developments in terms of meetings can change the time a little bit.
+latest time I can go to sleep (what I log as the `wts` time). This
+should be at the back of my mind and can influence my decisions
+throughout the day. In some cases, new information such as weather
+details, planned house maintenance, or developments in terms of
+meetings can change the time a little bit.
 
-For instance, in the worked example in [When to get into
-bed](#when-to-get-into-bed), I worked out that I need to get into bed
+For instance, in the worked example in [When to go to
+sleep](#when-to-go-to-sleep), I worked out that I need to go to sleep
 by 12:45 AM. I should have awareness of that piece of
 information. Also, I should adjust it based on any sleep backlog or
 need for additional seep.
 
-#### Set a 1-hour-notice-to-sleep time
+#### Aim for a `grtcfs` time of 1 hour 10 minutes prior to the target `wts` time, adding 15 minutes if I plan to shave after that
 
-My 1-hour-notice-to-sleep time should be set to at least 1 hour prior
-to the latest time I need to get into bed. However, it should
-generally be set to earlier, to account for the possibility of feeling
-sleepy earlier. As a general rule of thumb, if I don't have a sleep
-backlog, making sure that it's at least 8 hours 45 minutes prior to my
-natural waking-up time is wise. However, if I have a sleep backlog, I
-should add in approximately the number of hours of sleep backlog I
-estimate, with relevant adjustments.
+Empirically, the gap from `cfs` to `wts` is about 1 hour if not
+shaving in that time, and the gap from `grtcfs` to `cfs` is about 4 to
+20 minutes and I can generally keep it under 10 minutes if I want. If
+I also shave in the time, I need to add 15 minutes.
 
-For instance, in the worked example in [When to get into
-bed](#when-to-get-into-bed), I said that my natural waking-up time
-these days is 8 AM. Based on this, my 1-hour-notice-to-sleep time
-should be set at 11:15 PM.
-
-#### What I should have completed by the 1-hour-notice-to-sleep time
-
-My target should be to finish all activities of these kinds by the 1-hour-notice-to-sleep time:
-
-* Laundry, including sorting of the dried laundry
-
-* Cooking and cleaning dishes post-cooking (I sometimes defer cleaning
-  dishes to a little later even after being done cooking)
-
-* Any cognitive work on the computer that I need to get done during
-  the day, or that I can't leave in the middle easily
-
-* All end-of-day dental care including final rinsing, flossing, and
-  brushing teeth
-
-* At least one iteration of my night checklist, including checking
-  email, messages, text messages, calendar events, etc.
-
-* I should have elapsed at least 2 hours since finishing of my last
-  meal (so that with an extra 1 hour, I would hit 3 hours).
-
-The only activities I need to do that I may not have done in the
-1-hour-notice-to-sleep time are semi-optional end-of-day grooming
-activities including shower/bath and shaving. I say semi-optional
-because if I get a sudden wave of drowsiness, I could in principle go
-to sleep without doing them, and wake up the next day and catch up on
-them.
-
-#### What I can do after the 1-hour-notice-to-sleep time
-
-There are two approaches I can use:
-
-* Do shower/bath and shaving (if pending) first, so that I am fully
-  ready to sleep. If I then feel energetic and want to do more, do
-  more. If I feel semi-energetic, do it in bed from my phone.
-
-* Continue working on the computer, but making sure to pick tasks that
-  I can interrupt any time, with no commitment. In particular, this
-  means no actions affecting code or configuration changes to
-  production sites (whether personal or day job). The kinds of things
-  that fit here include things like documentation, writing prose,
-  etc. where it's okay to leave it half-way and okay to make
-  mistakes. I should also maintain a strong preference for things that
-  can be done on dark mode screens (so not visiting websites with a
-  white background too much).
-
-I think which of these approaches I use depends on my level of fatigue
-and expectation that I might suddenly feel drowsy. If I anticipate
-suddenly feeling drowsy, it's better to take the former
-approach. However, the latter approach is better otherwise since it
-means I have a forced break between screen time and going to bed (the
-shower/bath time).
-
-Either way, I need to make sure to still hit my latest-in-bed time.
+Aiming for a grtcfs time of about 1 hour 10 minutes if not shaving,
+and 1 hour 25 minutes if shaving, allows me to go to sleep at the
+target `wts` time without rushing through any steps.
 
 #### Calculating backwards to determine the feasibility and latest start time for activities within the day
 
-Based on my 1-hour-notice-to-sleep time, I can calculate backwards to
-figure out the latest start time for various activities, such as
+Based on my target `grtcfs` and `wts` times, I can calculate backwards
+to figure out the latest start time for various activities, such as
 meals, and also figure out if starting an activity would be feasible
 on the given day.
 
@@ -283,13 +332,13 @@ As an illustrative example, use the following:
 * 1 hour duration for morning exercise
 
 Based on these, I would need to start my morning exercise at least 12
-hours before going to sleep. With a 1-hour-notice-to-sleep time of
-10:30 PM (effectively being able to sleep by 11:30 PM), that means I
-need to start my morning exercise by 11:30 AM, just using the minimum
-gaps. (Now, likely, the time budget for meal consumption can be shrunk
-and time gap between meals can be reduced to 3 hours, exercise can be
-shortened etc. when on a time crunch, but this is illustrative of the
-calculation using reasonably relaxed and safe numbers).
+hours before going to sleep. With a goal of being able to sleep by
+11:30 PM), that means I need to start my morning exercise by 11:30 AM,
+just using the minimum gaps. (Now, likely, the time budget for meal
+consumption can be shrunk and time gap between meals can be reduced to
+3 hours, exercise can be shortened etc. when on a time crunch, but
+this is illustrative of the calculation using reasonably relaxed and
+safe numbers).
 
 I include more detailed calculations in this spirit in a private
 repository for my own reference.
@@ -352,11 +401,11 @@ a nontrivial amount (more than 15 minutes per day).
 
 ## Best practices to follow during health issues
 
-### When to get into bed
+### When to go to sleep
 
 When I'm experiencing health issues where I have reason to believe
 that additional sleep might be helpful, I should adjust the guidance
-regarding the latest time I should be in bed as follows:
+regarding the latest time I should go to sleep as follows:
 
 * At least 8.5 hours before the beginning of the range of time at
   which I naturally wake up; for instance, if I naturally wake up
@@ -367,7 +416,7 @@ regarding the latest time I should be in bed as follows:
 
 * At least 10 hours before I absolutely need to wake up
 
-The earliest time by which I should be in bed is 2 hours earlier than
+The earliest time by which I should got to sleep is 2 hours earlier than
 the latest time, unless I am feeling fatigue that makes me want to go
 to bed earlier than that.
 
@@ -383,9 +432,9 @@ judgment call what to prioritize, and it generally depends on whether
 my issue is more one of digestion or one of fatigue or
 infection-fighting.
 
-### Urinate right before going to bed
+### Urinate right before the `gib` step
 
-As with nomal times, it is important to urinate right before going to
+As with normal times, it is important to urinate right before going to
 bed. In fact, it becomes more important to do so, as getting the full
 amount of sleep becomes more important when I have health issues.
 
@@ -398,11 +447,11 @@ but now using 8.5 hours rather than 7 hours as the threshold.
 
 For a sleep cycle adjustment phase, I should aim to adjust at a speed
 of about 15 minutes per day if feasible, with occasional relaxation to
-confirm that Ihave fully adjusted.
+confirm that I have fully adjusted.
 
 During these times, I should follow this guidance:
 
-* Aim to get in bed about 8 hours before the intended waking-up time
+* Aim to go to sleep about 8 hours before the intended waking-up time
   (in case I also happen to have health issues during this time that
   necessitate extra sleep, make this 9.5 hours)
 
