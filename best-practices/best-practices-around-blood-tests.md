@@ -155,10 +155,57 @@ around if things happen at work.
   that be particularly careful in the 2-3 days leading up to the
   appointment to keep that day clear.
 
-### (preparation / general energy conservation; preparation / direct) Reminders to sleep early starting two days before the test date
+### (preparation / general energy conservation; preparation / direct) Reminders to set alarms and sleep early starting three days before the test date
 
-I don't need to sleep super-early, but it's good to not stay up too
-late. Set calendar reminders for these.
+There should be three reminders to set alarm and sleep early, for each
+of the three nights prior to the blood draw.
+
+I should have accounted for my sleep cycle at the time of appointment
+booking, but there may have been late nights in the interim period
+which might have disrupted my sleep cycle.
+
+So, I should start monitoring and adjusting my sleep cycle starting
+three days before the test date.
+
+* For the day of the blood tests, my alarms should be set to 2 hours
+  and 1 hour 45 minute prior to my *departure time*, which translates
+  to 2 hours 30 minutes and 2 hours 15 minutes prior to my appointment
+  time assuming the Colby St location, and to 2 hours 45 minutes and 2
+  hours 30 minutes prior to my appointment time assuming the San Pablo
+  Ave location.
+
+* If these times are later than my usual alarm times, I can stick to
+  my usual alarm times throughout.
+
+* If they are earlier than my usual alarm times, they should generally
+  not be more than 45 minutes earlier. I should adjust the alarm time
+  in increments of 15 minutes starting the night of three days before.
+
+* Three nights and two nights prior, my time of going to sleep should
+  be max(8 hours, usual sleep duration) + 15 minutes prior to the
+  first alarm time. The night prior, I should use max(8 hours, usual
+  sleep duration) + 30 minutes.
+
+* The closing-for-sleep time should be 1 hour prior to the target time
+  for going to sleep.
+
+Worked example:
+
+* Let's say my appointment is at 10:45 AM at Colby St, and my usual
+  alarm times are 8:45 AM and 9 AM, and my average sleep duration is 8
+  hours.
+
+* I need to move the alarm times to 8:15 AM and 8:30 AM
+  respectively. I should start this three nights earlier, moving them
+  to 8:30 AM and 8:45 AM, and then two nights earlier, move them to
+  8:15 AM and 8:30 AM. No adjustments are needed the night prior.
+
+* For sleep times, I need to go to sleep by 12:15 AM three nights
+  prior, by 12 AM two nights prior, and by 11:45 PM the night prior.
+
+* This in turn means that my closing-for-sleep time needs to be 11:15
+  PM three nights prior, 11 PM two nights prior, and 10:45 PM the
+  night prior.
 
 ### (preparation / accuracy of testing) Reminder to eat so that I finish about 14 hours prior to my expected blood draw time
 
