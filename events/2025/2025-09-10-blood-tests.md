@@ -144,3 +144,11 @@ I got back home around 11:31 AM. While I had been thinking of going to
 Berkeley Bowl on the way back, the cautionary note about heavy weights
 as well as the dew/rain that happened briefly while I was en route
 made me change my mind.
+
+## Later events
+
+### Removal of bandage
+
+I removed the cotton and tie at around 8:28 PM, which was about 9
+hours 20 minutes after the blood draw. After examining the wound, I
+decided that there was no need for a replacement bandage.
