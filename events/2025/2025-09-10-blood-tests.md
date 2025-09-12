@@ -147,8 +147,15 @@ made me change my mind.
 
 ## Later events
 
-### Removal of bandage
+### Removal of bandage later in the day
 
 I removed the cotton and tie at around 8:28 PM, which was about 9
 hours 20 minutes after the blood draw. After examining the wound, I
 decided that there was no need for a replacement bandage.
+
+### Resumption of hand gripper exercises two days later (2025-09-12)
+
+Two days later, on Friday 2025-09-12, I resumed hand gripper exercises
+in both hands. The calendar reminder only had resumption in one hand,
+but I didn't pay attention to it and overall I felt recovered in both
+hands, so I just did both hands.

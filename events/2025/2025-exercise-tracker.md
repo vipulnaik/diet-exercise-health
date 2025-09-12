@@ -1024,3 +1024,13 @@ On Sunday 2025-09-07 and Monday 2025-09-08, I did at-home jogging. On
 Sunday, the reason was that it had already gotten hot by the time I
 was ready to go jogging. On Monday, the reason was that I was
 multiplexing with meetings and other work obligations.
+
+## 2025-09-09 onward: skipping of various exercises in light of blood tests
+
+On Tuesday 2025-09-09, I skipped all exercises in preparation for
+blood tests the next day. I continued skipping exercises the next day
+(Wednesday 2025-09-10).
+
+On Thursday 2025-09-11, I resumed jogging.
+
+On Friday 2025-09-12, I resumed hand gripper exercises in both hands.
