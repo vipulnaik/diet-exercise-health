@@ -544,7 +544,7 @@ Reading date | Blood glucose (mg/dL) | Hours since last meal (12 or more is cons
 
 HbA1c measures the percentage of hemoglobin that is glycated. It
 reflects a weighted average of the frequency and extent of elevated
-blood glucose levels over the past 3 to 4 months (determed by the
+blood glucose levels over the past 3 to 4 months (determined by the
 lifetime of the red blood cell). HbA1c levels of 6.5% and higher are
 considered indicative of diabetes. Levels of 5.7% to 6.4% are
 considered indicative of prediabetes, and levels of 5.6% are below are
@@ -587,6 +587,8 @@ not planning to do further research or make lifestyle adjustments:
 * Two consecutive HbA1c readings at or above 5.7%
 
 Further investigative efforts may look as follows:
+
+* Oral glucose tolerance test (OGTT)
 
 * At-home glucose meter so that I can measure my blood glucose at
   multiple times in the day periodically
