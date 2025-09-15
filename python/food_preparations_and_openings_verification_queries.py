@@ -101,7 +101,7 @@ queries = [
     );""",
 
     # This variant needs a cutoff date of 2025-02-24 because I didn't record completion dates prior. Once I backfill estimated completion dates, the cutoff date can be adjusted or removed
-    "select * from food_preparations_and_openings_self_join where completion_date_1 is null and datediff(curdate(), preparation_or_opening_date_2) >= 1 and preparation_or_opening_date_1 >= '2025-02-24' and not (food_type in ('TJ Kale','Beefsteak tomato'));",
+    "select * from food_preparations_and_openings_self_join where completion_date_1 is null and datediff(curdate(), preparation_or_opening_date_2) >= 1 and preparation_or_opening_date_1 >= '2025-02-24' and not (food_type in ('TJ Kale','Beefsteak tomato')) and not (food_type = 'TJ Carrots' and preparation_or_opening_date_2 = '2025-09-14');",
 
     # I generally have sauerkraut and kimchi only with the first meal, so both the meal index and the completion meal index should be 1
     "select * from food_preparations_and_openings where food_type in ('TJ Sauerkraut','TJ Kimchi') and meal_index != 1;",
