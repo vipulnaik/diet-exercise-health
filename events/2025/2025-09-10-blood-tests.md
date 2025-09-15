@@ -159,3 +159,10 @@ Two days later, on Friday 2025-09-12, I resumed hand gripper exercises
 in both hands. The calendar reminder only had resumption in one hand,
 but I didn't pay attention to it and overall I felt recovered in both
 hands, so I just did both hands.
+
+### Resumption of strength exercises five days later (2025-09-15)
+
+Five days later, on Monday 2025-09-15, I resumed strength
+exercises. My original intent had been to resume strength exercises on
+Sunday 2025-09-14, but I skipped all exercises on that day for other
+reasons.

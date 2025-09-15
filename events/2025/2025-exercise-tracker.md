@@ -1025,7 +1025,7 @@ Sunday, the reason was that it had already gotten hot by the time I
 was ready to go jogging. On Monday, the reason was that I was
 multiplexing with meetings and other work obligations.
 
-## 2025-09-09 onward: skipping of various exercises in light of blood tests
+## 2025-09-09 to 2025-09-15: skipping and subsequent resumption of various exercises in light of blood tests
 
 On Tuesday 2025-09-09, I skipped all exercises in preparation for
 blood tests the next day. I continued skipping exercises the next day
@@ -1034,6 +1034,10 @@ blood tests the next day. I continued skipping exercises the next day
 On Thursday 2025-09-11, I resumed jogging.
 
 On Friday 2025-09-12, I resumed hand gripper exercises in both hands.
+
+On Monday 2025-09-15, I resumed strength exercises. My original intent
+had been to resume strength exercises on Sunday 2025-09-14, but I
+skipped all exercises on that day for other reasons.
 
 ## 2025-09-14: skipping of all exercises due to scheduling issues and time availability
 
