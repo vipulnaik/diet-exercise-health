@@ -6,10 +6,8 @@ See [best practices around medical
 appointments](best-practices-around-medical-appointments.md) for
 general principles informing these best practices.
 
-The main things specific to blood tests are the desire for accuracy of
-testing, whose prerequisites depend on the specific tests being
-ordered, and the weakness that might entail from the removal of blood
-from my arm.
+The main things specific to DEXA scans are the desire for accuracy of
+testing.
 
 Of the principles listed in the document, the following are
 inapplicable and hence omitted:
@@ -130,10 +128,37 @@ location, and return about 1 to 1.5 hours after leaving.
   covering at least two hours prior to the start and four hours after
   the end of the appointment.
 
-### (preparation / direct) Reminders to sleep early starting two days before the test date
+### (preparation / direct) Reminders to set alarms and sleep early starting three days before the test date
 
-I don't need to sleep super-early, but it's good to not stay up too
-late. Set calendar reminders for these.
+There should be three reminders to set alarm and sleep early, for each
+of the three nights prior to the DEXA scan.
+
+I should have accounted for my sleep cycle at the time of appointment
+booking, but there may have been late nights in the interim period
+which might have disrupted my sleep cycle.
+
+So, I should start monitoring and adjusting my sleep cycle starting
+three days before the test date.
+
+* For the day of the DEXA scan, my alarms should be set to 2 hours 15
+  minutes and 2 hours prior to my *departure time*, which translates
+  to 3 hours 45 minutes and 3 hours 30 minutes prior to my appointment
+  time.
+
+* If these times are later than my usual alarm times, I can stick to
+  my usual alarm times throughout.
+
+* If they are earlier than my usual alarm times, they should generally
+  not be more than 45 minutes earlier. I should adjust the alarm time
+  in increments of 15 minutes starting the night of three days before.
+
+* Three nights and two nights prior, my time of going to sleep should
+  be max(8 hours, usual sleep duration) + 15 minutes prior to the
+  first alarm time. The night prior, I should use max(8 hours, usual
+  sleep duration) + 30 minutes.
+
+* The closing-for-sleep time should be 1 hour prior to the target time
+  for going to sleep.
 
 ### (preparation / accuracy of testing) Reminder to eat so that I finish about 13 to 16 hours prior to my expected scan time
 
@@ -146,8 +171,10 @@ day of, so that I have relatively clean insides.
 ### (local IM post / cyclic personal chores) Shopping reminder for two days prior to the appointment
 
 It'll be good to get grocery shopping done so that I don't have to
-scramble on or after the day of the appointment. Carrying heavy
-grocery bags can be a challenge after having blood draw in an arm.
+scramble on or after the day of the appointment, particularly
+considering that it's a bigger amount of travel to a more far-off
+location, so it uses up more time and leaves less time for other
+things.
 
 ### (local IM post / weather check) Weather check reminder for two days prior to the appointment
 
@@ -167,7 +194,7 @@ multivitamins, and various GI medicines (which I don't take) the day
 prior to the DEXA scan. Skipping all supplements for two days seems
 like a safe practice.
 
-### (preparation / direct) Packing / prep reminder for the night before the blood test
+### (preparation / direct) Packing / prep reminder for the night before the DEXA scan
 
 What printed or phone documents do I need to carry?
 
