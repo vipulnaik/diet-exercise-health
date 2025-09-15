@@ -131,9 +131,16 @@ Set a calendar reminder from 7 AM to at least two hours after the test
 time on the test date. Invite my work email address as well so that
 the time is blocked on my work calendar.
 
-I should budget to leave about 2 hours after waking up, arrive 30
-minutes after leaving, and spend about an hour at the test location,
-then 30 minutes back.
+I should budget to leave about 2 hours after waking up, which can be
+cut down to 1 hour 45 minutes if reasonably careful.
+
+I should aim to arrive 15 to 30 minutes after leaving (15 to 20
+minutes for the Colby St / Regent St locations for LabCorp and Quest
+Diagnostics respectively, 25 to 30 minutes for the San Pablo Ave
+location).
+
+More details are in a later section that spells out the reminders I
+should set for myself regarding sleep times and alarm settings.
 
 Since there's no fixed date, just an intended date, I can move this
 around if things happen at work.
