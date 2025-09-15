@@ -1034,3 +1034,12 @@ blood tests the next day. I continued skipping exercises the next day
 On Thursday 2025-09-11, I resumed jogging.
 
 On Friday 2025-09-12, I resumed hand gripper exercises in both hands.
+
+## 2025-09-14: skipping of all exercises due to scheduling issues and time availability
+
+On Sunday 2025-09-14, I skipped all exercises due to a mix of
+scheduling issues and general time availability. I had a meeting in
+the morning, and to achieve efficient time use, I decided to multiplex
+it with the potatoes prep that was due, which in turn meant that I
+needed to skip morning exercise as I didn't hve time for morning
+exercise prior to the meeting.
