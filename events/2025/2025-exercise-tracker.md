@@ -1047,3 +1047,13 @@ the morning, and to achieve efficient time use, I decided to multiplex
 it with the potatoes prep that was due, which in turn meant that I
 needed to skip morning exercise as I didn't hve time for morning
 exercise prior to the meeting.
+
+## 2025-09-16: skipping of all exercises due to scheduling issues and time availability
+
+On Tuesday 2025-09-16, I skipped all exercises due to a mix of
+scheduling issues and general time availability. First, I got up a
+little late because I had stayed up a little late the previous
+night. Second, I had a number of small work-related items to catch up
+on. By the time I was done with them, I realized that if I did
+exercise, it would delay my meal a lot and get in the way of returning
+to my normal sleep / waking up routine.
