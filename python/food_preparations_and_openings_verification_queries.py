@@ -97,11 +97,12 @@ queries = [
     select * from food_preparations_and_openings_self_join where (preparation_or_opening_date_2, meal_index_2) < (completion_date_1, completion_meal_index_1) and not (food_type in ('TJ Kale','Beefsteak tomato')) and not (
       ((completion_date_1 , completion_meal_index_1) = ('2025-07-07',2) and (preparation_or_opening_date_2, meal_index_2) = ('2025-07-07',1)) or
       ((completion_date_1 , completion_meal_index_1) = ('2025-07-24',2) and (preparation_or_opening_date_2, meal_index_2) = ('2025-07-24',1)) or
-      (food_type in ('Red bell pepper','Green bell pepper') and preparation_or_opening_date_2 = '2025-08-03')
+      (food_type in ('Red bell pepper','Green bell pepper') and preparation_or_opening_date_2 = '2025-08-03') or
+      (food_type = 'TJ Carrots' and preparation_or_opening_date_2 = '2025-09-14')
     );""",
 
     # This variant needs a cutoff date of 2025-02-24 because I didn't record completion dates prior. Once I backfill estimated completion dates, the cutoff date can be adjusted or removed
-    "select * from food_preparations_and_openings_self_join where completion_date_1 is null and datediff(curdate(), preparation_or_opening_date_2) >= 1 and preparation_or_opening_date_1 >= '2025-02-24' and not (food_type in ('TJ Kale','Beefsteak tomato')) and not (food_type = 'TJ Carrots' and preparation_or_opening_date_2 = '2025-09-14');",
+    "select * from food_preparations_and_openings_self_join where completion_date_1 is null and datediff(curdate(), preparation_or_opening_date_2) >= 1 and preparation_or_opening_date_1 >= '2025-02-24' and not (food_type in ('TJ Kale','Beefsteak tomato'));",
 
     # I generally have sauerkraut and kimchi only with the first meal, so both the meal index and the completion meal index should be 1
     "select * from food_preparations_and_openings where food_type in ('TJ Sauerkraut','TJ Kimchi') and meal_index != 1;",
@@ -128,7 +129,7 @@ queries = [
     select * from t2 where completion_date >= '2024-10-01' and pause_date is null;""",
 
     # If I completed something more than 1 day ago, there should be a new preparation or opening, except for foods that I consume one-off */
-    "select * from food_preparations_and_openings_self_join where preparation_or_opening_date_2 is null and not (completion_date_1 between '2025-05-03' and '2025-06-06') and datediff(curdate(), completion_date_1) > 1 and not (food_type in ('Whole Foods Mexican Whole Wheat Tortillas','Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa free red chutney','Lundberg Sustainable California White Basmati Rice','Whole Foods Walnuts','TJ Green Lentils','TJ Kimchi','TJ Carrots (Organic)','Orange bell pepper','Kite Hill Unsweetened Plain Almond Milk Yogurt','Gold potatoes 3 lb','Russet potatoes 3 lb','Russet potatoes 5 lb','Morton Iodized Salt' /* I plan to use sea salt for cooking and eating going forward */));",
+    "select * from food_preparations_and_openings_self_join where preparation_or_opening_date_2 is null and not (completion_date_1 between '2025-05-03' and '2025-06-06') and datediff(curdate(), completion_date_1) > 1 and not (food_type in ('Whole Foods Mexican Whole Wheat Tortillas','Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa free red chutney','Lundberg Sustainable California White Jasmine Rice','Whole Foods Walnuts','TJ Green Lentils','TJ Kimchi','TJ Carrots (Organic)','Orange bell pepper','Kite Hill Unsweetened Plain Almond Milk Yogurt','Gold potatoes 3 lb','Russet potatoes 3 lb','Russet potatoes 5 lb','Morton Iodized Salt' /* I plan to use sea salt for cooking and eating going forward */));",
 
     # I should always open 1 bottle at a time
     "select * from food_preparations_and_openings where food_type in ('TJ Almond Milk','TJ Sauerkraut','TJ Walnuts','TJ Miso Ginger Broth','Trader Giotto''s Olive Oil') and quantity != 1;",
