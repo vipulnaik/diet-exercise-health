@@ -1057,3 +1057,17 @@ night. Second, I had a number of small work-related items to catch up
 on. By the time I was done with them, I realized that if I did
 exercise, it would delay my meal a lot and get in the way of returning
 to my normal sleep / waking up routine.
+
+## 2025-09-17: skipping of all exercises to get groceries
+
+On Wednesday 2025-09-17, I skipped all exercises so I could make a
+trip in the morning to get groceries from Trader Joe's. My intent had
+been to cook in the afternoon, though I ended up not doings o.
+
+## 2025-09-18: skipping of all exercises due to scheduling issues and time availability
+
+On Thursday 2025-09-18, I skipped all exercises due to a mix of
+scheduling issues and time availability. I had a meeting in the
+morning, and just about enough time before that to do rice prep, which
+I needed to get started on in order to be able to do both rice prep
+and eggplant meal prep within the same day.
