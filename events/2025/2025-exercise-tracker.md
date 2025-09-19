@@ -1071,3 +1071,8 @@ scheduling issues and time availability. I had a meeting in the
 morning, and just about enough time before that to do rice prep, which
 I needed to get started on in order to be able to do both rice prep
 and eggplant meal prep within the same day.
+
+## 2025-09-19: at-home jogging
+
+On Friday 2025-09-19, I did at-home jogging since it was hot outside,
+and also to save time as I was already somewhat delayed.
