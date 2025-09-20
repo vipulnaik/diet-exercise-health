@@ -1177,5 +1177,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-18','Red bell pepper',2,2,null,null),
   ('2025-09-18','Beefsteak tomato',7,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-09-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2025-09-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-09-19','TJ Carb Savvy Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
