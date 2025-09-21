@@ -1146,9 +1146,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-10','TJ Miso Ginger Broth',1,2,'2025-09-16',2),
   ('2025-09-11','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-09-13',2),
   ('2025-09-12','TJ Walnuts',1,1,'2025-09-16',1),
-  ('2025-09-12','TJ Almond Milk',1,1,null,null),
+  ('2025-09-12','TJ Almond Milk',1,1,'2025-09-20',2),
   ('2025-09-13','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-09-15',1),
-  ('2025-09-13','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-09-13','TJ Roasted Seaweed',1,2,'2025-09-20',2),
   /* 2025-09-14 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2025-09-14','Gold potatoes 5 lb',0.5,1,'2025-09-18',1),
   ('2025-09-14','TJ Kale',1,1,'2025-09-18',1),
@@ -1178,5 +1178,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-18','Beefsteak tomato',7,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-09-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2025-09-19','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2025-09-19','TJ Carb Savvy Tortillas',1,2,null,null),
+  /* 2025-09-20 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2025-09-20','Gold potatoes 5 lb',0.5,2,null,null),
+  ('2025-09-20','TJ Kale',1,2,null,null),
+  ('2025-09-20','TJ English Shelled Peas',2,2,null,null),
+  ('2025-09-20','Beefsteak tomato',6,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-09-20','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-09-20','TJ Almond Milk',1,2,null,null);
   /* Double-check the date and meal index before committing */
