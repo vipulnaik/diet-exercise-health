@@ -1163,7 +1163,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-15','TJ Carb Savvy Tortillas',1,1,'2025-09-16',1),
   ('2025-09-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-09-17',1),
   ('2025-09-16','TJ Carb Savvy Tortillas',1,2,'2025-09-18',2),
-  ('2025-09-16','TJ Walnuts',1,2,null,null),
+  ('2025-09-16','TJ Walnuts',1,2,'2025-09-21',1),
   ('2025-09-16','TJ Miso Ginger Broth',1,2,null,null),
   ('2025-09-17','TJ Sauerkraut',1,1,null,null),
   ('2025-09-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-09-19',1),
@@ -1178,7 +1178,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-18','Beefsteak tomato',7,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-09-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2025-09-19','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-09-19','TJ Carb Savvy Tortillas',1,2,'2025-09-21',1),
   /* 2025-09-20 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2025-09-20','Gold potatoes 5 lb',0.5,2,null,null),
   ('2025-09-20','TJ Kale',1,2,null,null),
