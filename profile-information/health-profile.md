@@ -4,7 +4,17 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
-Last substantive minor update: July 22, 2025
+Last substantive minor update: September 22, 2025
+
+NOTE (2025-09-22): I got [blood tests done on September 10,
+2025](../events/2025/2025-09-10-blood-tests.md). I got all the results
+back by September 21, but have not had time to enter the results in
+the SQL file and incorporate them into the health profile. I plan to
+do this updating over the next few weeks, and will remove this note
+once the update is complete. A quick examination of the results
+suggests that they are either within normal range or outside normal
+range in ways that are already known, so there is no immediate
+tactical change needed based on the results.
 
 This is the health profile for Vipul Naik, an adult male in his late
 30s / early 40s (born 1986). It is updated periodically. It does not

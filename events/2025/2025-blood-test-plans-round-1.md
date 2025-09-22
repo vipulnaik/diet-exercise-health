@@ -34,14 +34,30 @@ to refer to whether the blood sample has been submitted.
 ### Appointment for blood draw
 
 Earlier in the day on 2024-12-30, I had booked a blood draw
-appointment with LabCorp for Wednesday 2025-01-22 11 AM. I plan to use
-that appointment to get the blood draw for these blood tests.
+appointment with LabCorp for Wednesday 2025-01-22 11 AM. I planned to
+use that appointment to get the blood draw for these blood tests.
 
 ### Setup of calendar reminders
 
 On the evening/night of 2024-12-30, I set up various calendar
 reminders following the [best practices around blood
 tests](https://github.com/vipulnaik/diet-exercise-health/blob/master/best-practices/best-practices-around-blood-tests.md).
+
+## Blood draw
+
+Unfortunately, the location where I had my appointment ended up
+temporarily closing, and I had to do a walk-in at a different
+location. See [here](2025-01-22-blood-tests.md) for more information.
+
+## Results
+
+I got the results on Saturday 2025-01-25, three days after the blood
+draw. I downloaded and saved the PDF of the results.
+
+I finished entering the results in the [SQL
+file](../../sql/test_results.sql) and incorporating them into the
+[health profile](../../profile-information/health-profile.md) on
+Saturday 2025-05-17.
 
 ## General thinking behind tests to include
 

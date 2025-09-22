@@ -45,6 +45,35 @@ worked on all the ASAP steps and calendar reminders. This included a
 total of 11 calendar reminders in addition to the blocking of the time
 around the blood draw on my calendar.
 
+## Blood draw
+
+I got the blood draw done as scheduled on Wednesday 2025-09-10.
+
+For the blood draw experience and the associated preparation and
+recovery, see [here](2025-09-10-blood-tests.md).
+
+## Results
+
+I got the results from Request A Test on Tuesday 2025-09-16, 6 days
+after the blood draw. The Request A Test results were only available
+on the Request A Test site.
+
+I got the results from Marek Diagnostics on Sunday 2025-09-21, 11 days
+after the blood draw. The Marek Diagnostics results were available on
+both the LabCorp and Marek Diagnostics websites. It's likely that the
+delay with the Marek Diagnostics results was due to some of the tests
+being more niche ones that took more time to do.
+
+I downloaded and saved PDFs of both sets of results.
+
+As of Monday 2025-09-22, I plan to enter the results in the [SQL
+file](../../sql/test_results.sql) and incorporate them into the
+[health profile](../../profile-information/health-profile.md) over the
+next few weeks. A quick examination of the results suggests that they
+are either within normal range or outside normal range in ways that
+are already known, so there is no immediate tactical change needed
+based on the results.
+
 ## Tests around lipids, insulin resistance, and diabetic tendencies
 
 ### Enhanced lipid panel
