@@ -1072,7 +1072,23 @@ morning, and just about enough time before that to do rice prep, which
 I needed to get started on in order to be able to do both rice prep
 and eggplant meal prep within the same day.
 
-## 2025-09-19: at-home jogging
+## 2025-09-19 and 2025-09-20: at-home jogging
 
-On Friday 2025-09-19, I did at-home jogging since it was hot outside,
-and also to save time as I was already somewhat delayed.
+On Friday 2025-09-19 and Saturday 2025-09-20, I did at-home jogging
+since it was hot outside, and also to save time as I was already
+somewhat delayed.
+
+## 2025-09-22: at-home jogging
+
+On Monday 2025-09-22, I did at-home jogging since it was hot outside,
+and also for scheduling reasons as I wanted to have enough of a time
+buffer before an upcoming meeting.
+
+NOTE: Going forward (after 2025-09-22), since at-home jogging is
+fairly common nowadays, I will skip recording cases of at-home jogging
+as long as the amount of jogging is consistent with my typical at-home
+jogging amount (about 30 minutes). I'll continue to record cases of
+abridged at-home jogging.
+
+The information on whether I did at-home jogging will continue to be
+available in my Slack self-chat logs.
