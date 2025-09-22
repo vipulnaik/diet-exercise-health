@@ -1177,7 +1177,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-18','Red bell pepper',2,2,null,null),
   ('2025-09-18','Beefsteak tomato',7,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-09-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-09-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-09-21',2),
   ('2025-09-19','TJ Carb Savvy Tortillas',1,2,'2025-09-21',1),
   /* 2025-09-20 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2025-09-20','Gold potatoes 5 lb',0.5,2,null,null),
@@ -1188,5 +1188,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-20','TJ Roasted Seaweed',1,2,null,null),
   ('2025-09-20','TJ Almond Milk',1,2,null,null),
   /* 2025-09-21 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-09-21','Lundberg Sustainable California White Basmati Rice',0.95,2,null,null);
+  ('2025-09-21','Lundberg Sustainable California White Basmati Rice',0.95,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-09-21','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-09-21','TJ Walnuts',1,2,null,null),
+  ('2025-09-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
