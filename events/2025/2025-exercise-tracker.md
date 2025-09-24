@@ -1092,3 +1092,9 @@ abridged at-home jogging.
 
 The information on whether I did at-home jogging will continue to be
 available in my Slack self-chat logs.
+
+## 2025-09-24: skipped all exercises
+
+On Wednesday 2025-09-24, I skipped all exercise, so that I could make
+time in the morning for a Berkeley Bowl trip. I anticipated being busy
+in the afternoon/evening with other stuff.
