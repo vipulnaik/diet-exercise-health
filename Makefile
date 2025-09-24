@@ -11,6 +11,9 @@ reset: reset_medical reset_food
 .PHONY: read
 read: read_medical read_food
 
+.PHONY: verify
+verify: verify_medical_data verify_food_data
+
 .PHONY: reset_medical
 reset_medical: reset_medical_data reset_medical_metadata
 
