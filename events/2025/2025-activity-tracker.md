@@ -245,3 +245,10 @@ In the early evening, I made a brief administrative trip.
 In the morning, I made a trip to the LabCorp location at 3000 Colby St
 Suite 100 for a blood draw. See [here](2025-09-10-blood-tests.md) for
 more details.
+
+## 2025-09-24
+
+In the late morning / around noon, I made a brief trip that involved a
+stop at the Ashby BART for a Clipper top-up, another brief
+administrative stop, and food purchases from Berkeley Bowl. The food
+purchases are recorded [here](../../sql/food_purchases_2025.sql).
