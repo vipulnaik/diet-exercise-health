@@ -252,3 +252,9 @@ In the late morning / around noon, I made a brief trip that involved a
 stop at the Ashby BART for a Clipper top-up, another brief
 administrative stop, and food purchases from Berkeley Bowl. The food
 purchases are recorded [here](../../sql/food_purchases_2025.sql).
+
+## 2025-09-25
+
+In the late afternoon, I made a trip for an administrative task. On
+the way back, I stopped at Walgreens to buy COVID and Flu A+B tests
+since my existing COVID tests had expired.
