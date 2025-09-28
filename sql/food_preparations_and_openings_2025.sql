@@ -1199,7 +1199,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-09-25 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-09-25','Lundberg Sustainable California White Basmati Rice',0.95,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-09-26','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2025-09-26','TJ Carb Savvy Tortillas',1,1,'2025-09-27',2),
   ('2025-09-26','TJ Walnuts',1,1,null,null),
   ('2025-09-26','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   /* 2025-09-26 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, salt, and a bit of cayenne pepper) */
@@ -1208,5 +1208,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-26','TJ Carrots',1,2,null,null),
   ('2025-09-26','Green bell pepper',4,2,null,null),
   ('2025-09-26','Red bell pepper',2,2,null,null),
-  ('2025-09-26','Beefsteak tomato',7.5,2,null,null);
+  ('2025-09-26','Beefsteak tomato',7.5,2,null,null),
+  /* 2025-09-27 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2025-09-27','Gold potatoes 5 lb',0.5,2,null,null),
+  ('2025-09-27','TJ Kale',1,2,null,null),
+  ('2025-09-27','TJ English Shelled Peas',2,2,null,null),
+  ('2025-09-27','Beefsteak tomato',6,2,null,null);
   /* Double-check the date and meal index before committing */
