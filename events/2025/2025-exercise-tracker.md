@@ -1098,3 +1098,26 @@ available in my Slack self-chat logs.
 On Wednesday 2025-09-24, I skipped all exercise, so that I could make
 time in the morning for a Berkeley Bowl trip. I anticipated being busy
 in the afternoon/evening with other stuff.
+
+## 2025-09-25: skipped jogging and strength exercises
+
+On Thursday 2025-09-25, I skipped jogging and strength
+exercises. However, I did do hand gripper exercises and also did
+balance exercises and breath holds that I have not been doing
+regularly.
+
+The skipping was due to a time squeeze as I had meetings in the
+morning and needed to make an administrative trip in the afternoon.
+
+## 2025-09-26: skipped jogging and strength exercises
+
+On Friday 2025-09-26, I skipped jogging and strength exercises, but
+did hand gripper exercises. The skipping was because I needed to make
+a food purchase trip and also cook food, leaving very little time to
+fit exercise in.
+
+## 2025-09-27: skipped all exercises
+
+On Saturday 2025-09-27, I skipped all exercises. The skipping was
+because I needed to make a food purchase trip and also cook food,
+leaving very little time to fit exercise in.
