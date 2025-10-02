@@ -261,7 +261,13 @@ since my existing COVID tests had expired.
 
 ## 2025-09-27
 
-On Saturday 2025-09-27, In the late morning, I made a trip to downtown
+On Saturday 2025-09-27, in the late morning, I made a trip to downtown
 Berkeley. I first stopped at Citibank to get $50 worth of quarters. I
 then went to Trader Joe's for my usual food purchases, recorded
 [here](../../sql/food_purchases_2025.sql).
+
+## 2025-10-01
+
+On Wednesday 2025-10-01, in the evening, I made an administrative
+trip. After the trip, I stopped by at Walgreens to purchase
+acetaminophen (my existing stock was expiring) and paper towels.
