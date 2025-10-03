@@ -1121,3 +1121,17 @@ fit exercise in.
 On Saturday 2025-09-27, I skipped all exercises. The skipping was
 because I needed to make a food purchase trip and also cook food,
 leaving very little time to fit exercise in.
+
+## 2025-10-02: shorter at-home jogging and skipped planned strength exercises
+
+On Thursday 2025-10-02, I did shorter at-home jogging than usual, due
+to not having a lot of time before a work meeting. I was also
+therefore unable to take time for strength exercises. I also skipped
+hand gripper exercises because I wanted to make sure to get some
+jogging in and thought that the hand gripper exercises can be done
+later.
+
+However, a little later in the day, when I had the opportunity of
+catching up with the hand gripper exercises, I felt a sudden onset of
+chills and malaise. Although I got back to a level close enough to
+normal, skipping further exercise felt prudent.
