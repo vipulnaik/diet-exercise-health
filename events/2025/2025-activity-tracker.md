@@ -271,3 +271,10 @@ then went to Trader Joe's for my usual food purchases, recorded
 On Wednesday 2025-10-01, in the evening, I made an administrative
 trip. After the trip, I stopped by at Walgreens to purchase
 acetaminophen (my existing stock was expiring) and paper towels.
+
+## 2025-10-02
+
+On Thursday 2025-10-02, in the later afternoon / early evening, I made
+an administrative trip. After the trip, I stopped by at Trader Joe's
+for my usual food purchases, recorded
+[here](../../sql/food_purchases_2025.sql).
