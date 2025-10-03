@@ -48,8 +48,8 @@ The sequence of events related to sleep and waking up is as follows:
 * Activities that often, but not always, occur in between:
 
   * `smd` = scalp massage done. After getting into bed, I generally do
-    scalp massage with one hand while usin my phone in the other. This
-    may last anywhere from 5 minutes to 30 minutes.
+    scalp massage with one hand while using my phone in the
+    other. This may last anywhere from 5 minutes to 30 minutes.
 
   * `mmd` = masseter massage done. The masseter massage is brief,
     about 1 to 2 minutes.
