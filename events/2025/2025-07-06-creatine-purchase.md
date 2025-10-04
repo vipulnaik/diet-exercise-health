@@ -75,3 +75,10 @@ well.
 On 2025-08-14 I skipped creatine entirely with the intention of
 returning to it after a bit of a reset from the increased consumption
 a few days ago.
+
+## Update 2025-10-04
+
+Overall, I have been averaging about 1 gummy every 2 or 3 days, in
+order to keep GI impact limited. I also found that this particular
+brand is out of stock, so when my stock ends I'll need to look into
+another brand if it continues to be out of stock.
