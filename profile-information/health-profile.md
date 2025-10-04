@@ -82,15 +82,14 @@ Sections of this document:
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated June 18, 2025. I hope to update this section whenever
+last updated October 4, 2025. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
 significantly. I remove from here incidents that I consider closed; I
 may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affecting my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of October 3, 2025, I have one ongoing incident: [2025-10-02:
-health issues](../events/2025/2025-10-02-health-issues.md).
+As of October 4, 2025, I have no ongoing incidents.
 
 You can see the list
 of incidents for 2024 in the [events/2024 folder](../events/2024), and

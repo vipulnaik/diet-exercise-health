@@ -94,6 +94,14 @@ package pick-up from the Amazon Hub Locker, and the journey back was a
 fair amount of exercise, so I got my exercise and also confirmed that
 my health was okay.
 
+I went to sleep at 12:32 AM.
+
+## Two days later (2025-10-04)
+
+I woke up at 8:34 AM, getting a normal 8 hours of sleep at a
+reasonably good quality. I also did my usual exercise in the
+morning. Overall, as of this time I consider myself back to normal.
+
 ## Potential causal stories
 
 There was no major smoking gun in the days leading up to
