@@ -89,7 +89,8 @@ may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affecting my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of July 22, 2025, I have no open incidents.
+As of October 3, 2025, I have one ongoing incident: [2025-10-02:
+health issues](../events/2025/2025-10-02-health-issues.md).
 
 You can see the list
 of incidents for 2024 in the [events/2024 folder](../events/2024), and
@@ -130,12 +131,20 @@ I record my heart rate (measured using the Omron blood pressure
 machine) as part of my monthly blood pressure readings (as well as
 other one-off readings in response to health events or other
 incidents) in
-[blood_pressure_readings.sql](../sql/blood_pressure_readings.sql). As
-of 2025-06-25, my latest morning heart rate readings from the BP
-machine (before exercise or eating) as measured as part of blood
-pressure measurement were on 2025-06-25 with readings of 54 bpm and 54
-bpm respectively. The ambient temperature at the time I took the
-readings was 65 degrees Fahrenheit.
+[blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
+
+As of 2025-10-03, the most recent morning heart rate readings from the
+BP machine (before exercise or eating) were on 2025-10-03 with
+readings of 60 bpm and 61 bpm respectively. However, I had [health
+issues](../events/2025/2025-10-02-health-issues.md) at the time, which
+likely contributed to the heart rate being a little higher than it
+would otherwise be.
+
+The previous morning heart rate readings from the BP machine (before
+exercise or eating) as measured as part of blood pressure measurement
+were on 2025-06-25 with readings of 54 bpm and 54 bpm
+respectively. The ambient temperature at the time I took the readings
+was 65 degrees Fahrenheit.
 
 I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
@@ -197,7 +206,16 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting morning blood pressure readings (taken
-2025-06-25) were 97/68 and 95/65. My most recent afternoon blood
+2025-10-03) were 109/64 and 107/64 respectively. However, these
+readings were taken in the context of [health
+issues](../events/2025/2025-10-02-health-issues.md) including a
+tension headache, and I suspect that these readings drove up the
+systolic blood pressure compared to my uual.
+
+My previous at-home resting morning blood pressure readings (taken
+2025-06-25) were 97/68 and 95/65. These are more typical readings.
+
+My most recent afternoon blood
 pressure readings (taken 2024-12-14 about 2.5 hours after finishing a
 meal) were 102/62 and 93/60. My most recent evening blood pressure
 readings (taken 2025-03-25 about 2.5 hours after finishing a meal)
