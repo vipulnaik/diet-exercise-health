@@ -274,7 +274,19 @@ acetaminophen (my existing stock was expiring) and paper towels.
 
 ## 2025-10-02
 
-On Thursday 2025-10-02, in the later afternoon / early evening, I made
+On Thursday 2025-10-02, in the late afternoon / early evening, I made
 an administrative trip. After the trip, I stopped by at Trader Joe's
 for my usual food purchases, recorded
 [here](../../sql/food_purchases_2025.sql).
+
+## 2025-10-03
+
+On Friday 2025-10-03, in the early evening, I made a trip to the
+Amazon Hub Locker at ASUC Berkeley to pick up various packages. There
+were a lot of packages, so I carried my suitcase to make it easier to
+carry the packages back home. I put some of the packages in my
+backpack and the rest in my suitcase. The suitcase and backpack
+weights, as measured by my luggage weighing machine after my return,
+were 10.5 kg and 3.9 kg respectively. I carried the suitcase back
+rather than wheeling it, but I did have to stop to put the suitcase
+down several times on the way home.

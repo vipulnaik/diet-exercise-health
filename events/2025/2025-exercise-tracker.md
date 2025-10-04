@@ -1135,3 +1135,17 @@ However, a little later in the day, when I had the opportunity of
 catching up with the hand gripper exercises, I felt a sudden onset of
 chills and malaise. Although I got back to a level close enough to
 normal, skipping further exercise felt prudent.
+
+## 2025-10-03: skipping of all exercises, but natural exercise carrying stuff from Amazon Hub Locker
+
+On Friday 2025-10-03, I skipped all exercises, partly due to health
+issues, partly due to time-sensitive stuff in the morning, and partly
+to save time and energy for an Amazon Hub Locker trip later in the
+day.
+
+Walking back from the Amazon Hub Locker at ASUC Berkeley, I carried in
+my hand a suitcase weighing about 10.5 kg and carrying on my sholders
+a backpack weighing about 3.9 kg; both of them had some of the items
+from the Amazon Hub Locker pickup. I carried the suitcase back rather
+than wheeling it, but I did have to stop to put the suitcase down
+several times on the way home.
