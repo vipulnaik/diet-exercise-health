@@ -452,26 +452,21 @@ resistance, and I plan to continue monitoring for this.
 
 #### Insulin resistance calculated using fasting insulin (HOMA-IR method)
 
-I have measured fasting insulin twice, once in June 2021, where I got
-a reading of 3.6 uIU/mL, and once in September 2024, where I got a
-reading of 4.6 uIU/mL. Both readings are in the normal range. The
-thresholds for insulin itself were set at 19.6 and 18.4 in these two
-tests, so I am well within the thresholds.
+In cases where I got glucose and insulin readings in the same blood
+test, I can do a calculation of homeostatic model assessment insulin
+resistance (HOMA-IR), which is obtained by multiplying the fasting
+insulin and fasting blood glucose measured simultaneously (in units
+uIU/mL and mg/dL) and dividing by 405. So far, I have two blood tests
+where I have both glucose and insulin readings, and the HOMA-IR
+calculated from both of them is less than 1, which is the optimal
+range.
 
-The second reading (from September 2024) was obtained alongside a
-blood glucose reading, which was 85 mg/dL. This allows for the
-calculation of homeostatic model assessment insulin resistance
-(HOMA-IR), which is obtained by multiplying the fasting insulin and
-fasting blood glucose measured simultaneously (in units uIU/mL and
-mg/dL) and dividing by 405. **My HOMA-IR score of 0.97 is less than 1,
-which marks me as insulin-sensitive and not insulin-resistant** (in
-general, a range of 0.5 to 1.4 is considered insulin-sensitive, with
-scores of 1 or lower considered optimal).
-
-For ease of consumption, here are my four recent readings that contain either fasting glucose or fasting insulin or both.
+For ease of consumption, here are my five recent readings that contain
+either fasting glucose or fasting insulin or both.
 
 Reading date | Fasting glucose (mg/dL) | Fasting insulin (uIU/mL) | HOMA-IR (less than 1 is optimal, less than 1.4 is good, less than 2 is okay)
 -- | -- | -- | --
+2025-09-10 (September 2025) | 86 | 3.7 | 0.79
 2025-01-22 (January 2025) | 83 | N/A | can't calculate
 2024-12-13 (December 2024) | 85 | N/A | can't calculate
 2024-09-03 (September 2024) | 85 | 4.6 | 0.97
@@ -562,6 +557,7 @@ measurement tool or a continuous glucose monitor yet.
 
 Reading date | Blood glucose (mg/dL) | Hours since last meal (12 or more is considered fasting)
 -- | -- | --
+2025-09-10 (September 2025) | 86 | 15.25
 2025-01-22 (January 2025) | 83 | 15.5
 2024-12-13 (December 2024) | 85 | 15
 2024-09-03 (September 2024) | 85 | 15
@@ -577,15 +573,22 @@ considered indicative of diabetes. Levels of 5.7% to 6.4% are
 considered indicative of prediabetes, and levels of 5.6% are below are
 considered normal.
 
-Reading date | HbA1c (%) | Fasting blood glucose (mg/dL) in the same blood draw (if present)
--- | -- | --
-2024-09-03 (September 2024) | 5.5 | 85
-2021-06-30 (June 2021) | 5.0 | N/A
-2016-12-12 (December 2016) | 5.5 | N/A
+The eAG column is the estimated average glucose from the HbA1c
+reading. The relationship is `28.7 X A1C – 46.7 = eAG`; see
+https://professional.diabetes.org/glucose_calc for an example
+calculator.
 
-For comparing the June 2021 and September 2024 readings, a note on the
-Quest Diagnostics website suggested changes to the measurement method
-that may increase measured HbA1c by up to 0.3 percentage points.
+Reading date | HbA1c (%) | eAG (mg/dL) | Fasting blood glucose (mg/dL) in the same blood draw (if present)
+-- | -- | -- | --
+2025-09-10 (September 2025) | 5.4 | 108 | 86
+2024-09-03 (September 2024) | 5.5 | 111 | 85
+2021-06-30 (June 2021)      | 5.0 |  97 | N/A
+2016-12-12 (December 2016)  | 5.5 | 111 | N/A
+
+For comparing the June 2021 and September 2024 readings (both from
+Quest Diagnostics), a note on the Quest Diagnostics website suggested
+changes to the measurement method that may increase measured HbA1c by
+up to 0.3 percentage points. The other readings are from LabCorp.
 
 #### Plan for followup measurements and actions
 
