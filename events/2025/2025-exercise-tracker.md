@@ -1149,3 +1149,12 @@ a backpack weighing about 3.9 kg; both of them had some of the items
 from the Amazon Hub Locker pickup. I carried the suitcase back rather
 than wheeling it, but I did have to stop to put the suitcase down
 several times on the way home.
+
+## 2025-10-05: interrupted at-home jogging for typing practice
+
+On Sunday 2025-10-05, I did at-home jogging due to heat. However,
+rather than jog continuously for 30 minutes, I interrupted jogging
+several times for typing practice, so I effectively jogged about 15 of
+the 30 minutes. I did things this way partly to cap my total time on
+exercise-like stuff, though I ended up doing more typing practice
+before and after jogging as well.
