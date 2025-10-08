@@ -1158,3 +1158,10 @@ several times for typing practice, so I effectively jogged about 15 of
 the 30 minutes. I did things this way partly to cap my total time on
 exercise-like stuff, though I ended up doing more typing practice
 before and after jogging as well.
+
+## 2025-10-08: skipped all exercises due to scheduling challenges
+
+On Wednesday 2025-10-08, I had a once-every-few-months lengthy
+catch-up meeting with work colleagues in the morning. This created
+scheduling challenges for exercise, so I decided to skip all
+exercises.
