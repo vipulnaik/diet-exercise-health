@@ -820,7 +820,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-06-23','TJ Roasted Seaweed',1,2,'2025-07-01',2),
   /* 2025-06-24 lentils prep (overnight soaking to cook the next day; drained soaking water and added water and turmeric, cumin, and salt the next morning; opened new salt bottle in the process) */
   ('2025-06-24','TJ Green Lentils',0.5,3,'2025-06-28',2),
-  ('2025-06-25','Morton Iodized Sea Salt',1,1,null,null),
+  ('2025-06-25','Morton Iodized Sea Salt',1,1,'2025-10-08',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-06-25','TJ Carb Savvy Tortillas',1,1,'2025-06-26',1),
   ('2025-06-25','TJ Almond Milk',1,1,'2025-07-03',2),
@@ -1069,7 +1069,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-23','TJ English Shelled Peas',2,2,'2025-08-29',1),
   ('2025-08-23','Beefsteak tomato',5,2,'2025-08-29',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-23','TJ Turmeric',1,2,null,null), /* opened with potatoes prep; used previous turmeric partially as well */
+  ('2025-08-23','TJ Turmeric',1,2,'2025-10-08',2), /* opened with potatoes prep; used previous turmeric partially as well */
   ('2025-08-23','TJ Walnuts',1,2,'2025-08-29',1),
   /* 2025-08-24 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-08-24','Lundberg Sustainable California White Basmati Rice',0.96,1,'2025-08-27',2),
@@ -1251,5 +1251,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-07','TJ English Shelled Peas',2,2,null,null),
   ('2025-10-07','Beefsteak tomato',6,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-10-07','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2025-10-07','TJ Carb Savvy Tortillas',1,2,null,null),
+  /* 2025-10-08 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-10-08','Lundberg Sustainable California White Jasmine Rice',0.95,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-10-08','Morton Iodized Sea Salt',1,2,null,null), /* opened with rice prep */
+  ('2025-10-08','TJ Turmeric',1,2,null,null); /* opened with rice prep */
   /* Double-check the date and meal index before committing */
