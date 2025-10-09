@@ -1,5 +1,7 @@
 # 2025-09-29: amla purchase
 
+## Start
+
 On Monday 2025-09-29, I placed an order for amla, specifically
 [Nutricost
 Amla](https://www.amazon.com/dp/B08GQ9Z728?ref=ppx_yo2ov_dt_b_fed_asin_title). This
@@ -15,3 +17,17 @@ Friday 2025-10-03.
 
 My initial rollout plan is to start at 1 capsule a day (500 mg) for at
 least 1 week and then decide whether to go up to 2 capsules a day.
+
+## Pause on 2025-10-09
+
+On Thursday 2025-10-09, I decided to pause the amla consumption.
+
+The main reason for pause was general soreness in the abdominal area
+and other symptoms. Some of these might be connected to the
+[2025-10-02 health issues](2025-10-02-health-issues.md) that happened
+before I started amla. However, there are some indications that the
+amla consumption is related -- I get more amla burps and a general
+feeling of rejection of the amla capsules.
+
+I'll consider resuming in about two weeks, after the completion of the
+dental cleaning on 2025-10-22.
