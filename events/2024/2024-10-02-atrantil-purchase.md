@@ -70,3 +70,11 @@ of the digestive system (both in general and mine in particular), but
 for now I am considering the case closed for Atrantil. This will allow
 me to experiment with other dietary and supplement changes and get
 cleaner data on those.
+
+## Stopping of periodic consumption by around the end of 2024
+
+By around the end of 2024, I had stopped all periodic consumption of
+atrantil. Since the end of 2024, I did not have the same kind of
+abdominal discomfort issues that I had previously decided would
+trigger the consumption of atrantil, so I ended up not taking any
+atrantil starting at the end of 2024.
