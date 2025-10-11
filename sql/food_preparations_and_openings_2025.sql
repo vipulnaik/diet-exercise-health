@@ -1222,7 +1222,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-09-29','Lundberg Sustainable California White Basmati Rice',0.36,2,'2025-10-03',2),
   ('2025-09-29','Lundberg Sustainable California White Jasmine Rice',0.59,2,'2025-10-03',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-09-29','TJ Almond Milk',1,2,null,null),
+  ('2025-09-29','TJ Almond Milk',1,2,'2025-10-11',1),
   ('2025-09-30','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-02',2),
   ('2025-10-01','TJ Walnuts',1,1,'2025-10-07',1),
   ('2025-10-01','TJ Roasted Seaweed',1,2,'2025-10-08',2),
@@ -1258,7 +1258,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-08','Morton Iodized Sea Salt',1,2,null,null), /* opened with rice prep */
   ('2025-10-08','TJ Turmeric',1,2,null,null), /* opened with rice prep */
   ('2025-10-08','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-10',1),
-  ('2025-10-09','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-10-09','TJ Carb Savvy Tortillas',1,2,'2025-10-11',1),
   ('2025-10-09','TJ Roasted Seaweed',1,2,null,null),
-  ('2025-10-10','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
+  ('2025-10-10','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2025-10-11','TJ Almond Milk',1,1,null,null);
   /* Double-check the date and meal index before committing */
