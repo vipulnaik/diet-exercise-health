@@ -1259,5 +1259,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-08','TJ Turmeric',1,2,null,null), /* opened with rice prep */
   ('2025-10-08','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-10',1),
   ('2025-10-09','TJ Carb Savvy Tortillas',1,2,null,null),
-  ('2025-10-09','TJ Roasted Seaweed',1,2,null,null);
+  ('2025-10-09','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-10-10','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
