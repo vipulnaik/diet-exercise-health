@@ -1260,9 +1260,19 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-08','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-10',1),
   ('2025-10-09','TJ Carb Savvy Tortillas',1,2,'2025-10-11',1),
   ('2025-10-09','TJ Roasted Seaweed',1,2,null,null),
-  ('2025-10-10','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2025-10-10','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-13',1),
   ('2025-10-11','TJ Almond Milk',1,1,null,null),
   ('2025-10-11','TJ Carb Savvy Tortillas',1,2,'2025-10-12',2),
   ('2025-10-12','TJ Miso Ginger Broth',1,1,null,null),
-  ('2025-10-12','TJ Walnuts',1,1,null,null);
+  ('2025-10-12','TJ Walnuts',1,1,null,null),
+  /* 2025-10-13 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, salt, and a bit of cayenne pepper) */
+  ('2025-10-13','Eggplant',1,1,null,null),
+  ('2025-10-13','TJ Kale',1,1,null,null),
+  ('2025-10-13','TJ Carrots',1,1,null,null),
+  ('2025-10-13','Green bell pepper',4,1,null,null),
+  ('2025-10-13','Red bell pepper',2,1,null,null),
+  ('2025-10-13','Beefsteak tomato',6,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-10-13','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2025-10-13','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
