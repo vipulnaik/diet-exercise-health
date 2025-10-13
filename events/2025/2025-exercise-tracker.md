@@ -1165,3 +1165,9 @@ On Wednesday 2025-10-08, I had a once-every-few-months lengthy
 catch-up meeting with work colleagues in the morning. This created
 scheduling challenges for exercise, so I decided to skip all
 exercises.
+
+## 2025-10-13: skipped all exercises due to scheduling challenges
+
+On Monday 2025-10-13, I skipped all exercises so I could do eggplant
+meal prep in the morning and efficiently multiplex the preparation and
+meal consumption with several work meetings.
