@@ -98,27 +98,44 @@ for a week later.
 
 Do a max frequency hearing test using https://www.youtube.com/watch?v=zUmbmssqHOY
 
+This is a fuller version of the quick max frequency hearing test. It differs from the quick version in the following respects:
+
+* We start from the beginning frequencies so we get a clearer picture
+  of how the minimum audible volume changes with frequency.
+
+* We also record the point at which musical tonality is lost, which
+  tends to be way below the point at which the sound becomes inaudible
+  (current estimate of loss of musical tonality is about 13500 Hz at
+  max volume, whereas the sound stays audible to me right till the
+  end).
+
 Normal headphones, left ear only:
 
 - [ ] Normal headphones, start the video, setting volume to half the max and balance to all on left ear
-- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
-- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
+- [ ] Estimate the point at which I lose all sense of musical tone
+  - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
+  - Pause the video if it is still playing
+  - Frequency estimate: ??
+- [ ] Reposition fingers, resume play, and close eyes, to now estimate the point at which I cannot hear anything at all
   - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
   - Pause video if it is still playing (only *after* opening eyes)
   - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
   - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
   - Final frequency estimate: ???
 
 Normal headphones, right ear only:
 
 - [ ] Normal headphones, start the video, setting volume to half the max and balance to all on right ear
-- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
-- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
+- [ ] Estimate the point at which I lose all sense of musical tone
+  - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
+  - Pause the video if it is still playing
+  - Frequency estimate: ??
+- [ ] Reposition fingers, resume play, and close eyes, to now estimate the point at which I cannot hear anything at all
   - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
   - Pause video if it is still playing (only *after* opening eyes)
   - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
   - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
   - Final frequency estimate: ???
 
@@ -129,24 +146,30 @@ Wrap up normal headphones:
 Bone conduction headphones, left ear:
 
 - [ ] Bone conduction headphones, start the video, setting volume to half the max and balance to all on left ear
-- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
-- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
+- [ ] Estimate the point at which I lose all sense of musical tone
+  - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
+  - Pause the video if it is still playing
+  - Frequency estimate: ??
+- [ ] Reposition fingers, resume play, and close eyes, to now estimate the point at which I cannot hear anything at all
   - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
   - Pause video if it is still playing (only *after* opening eyes)
   - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
   - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
   - Final frequency estimate: ???
 
 Bone conduction headphones, right ear:
 
 - [ ] Bone conduction headphones, start the video, setting volume to half the max and balance to all on left ear
-- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
-- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
+- [ ] Estimate the point at which I lose all sense of musical tone
+  - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
+  - Pause the video if it is still playing
+  - Frequency estimate: ??
+- [ ] Reposition fingers, resume play, and close eyes, to now estimate the point at which I cannot hear anything at all
   - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
   - Pause video if it is still playing (only *after* opening eyes)
   - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
   - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
   - Final frequency estimate: ???
 
