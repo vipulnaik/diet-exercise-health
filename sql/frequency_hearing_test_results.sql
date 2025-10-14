@@ -142,4 +142,22 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, co
   ('2025-04-10',1,'bone','right',500,6,'faint and clear at 6; interestingly I could sometimes hear at 5 when stepping down from 6 but never when stepping up from 4'),
   ('2025-04-10',1,'bone','right',1000,8,'faint and clear at 8; I couldn''t hear at 7'),
   ('2025-04-10',1,'bone','right',2000,7,'faint and audible at 7; most of the times I couldn''t hear at 6'),
-  ('2025-04-10',1,'bone','right',4000,6,'faint and audible at 6; clea at 7');
+  ('2025-04-10',1,'bone','right',4000,6,'faint and audible at 6; clea at 7'),
+  /* 2025-10-13 7:29 PM test -- air */
+  ('2025-10-13',1,'air','left',500,2,'faint and barely audible at 2, faint and clear at 3'),
+  ('2025-10-13',1,'air','left',1000,4,'faint and barely audible at 4, faint and clear at 5'),
+  ('2025-10-13',1,'air','left',2000,2,'faint and barely audible at 2 (and not audible in the presence of loud outdoor noises), faint and clear at 3'),
+  ('2025-10-13',1,'air','left',4000,1,'faint and clear at 1'),
+  ('2025-10-13',1,'air','right',500,3,'faint and clear at 3'),
+  ('2025-10-13',1,'air','right',1000,4,'faint and barely audible at 4, faint and clear at 5'),
+  ('2025-10-13',1,'air','right',2000,2,'faint and barely audible at 2, faint and clear at 3'),
+  ('2025-10-13',1,'air','right',4000,1,'faint and clear at 1'),
+  /* 2025-10-13 7:40 PM test -- bone */
+  ('2025-10-13',1,'bone','left',500,8,'faint and clear at 8; when I pressed the headphone to my skin I could hear as far down as 6'),
+  ('2025-10-13',1,'bone','left',1000,7,'faint and barely audible at 7; faint and clear at 8'),
+  ('2025-10-13',1,'bone','left',2000,10,'faint and barely audible at 10; faint and clear at 11; when I pressed the headphone to my skin I could hear as far down as 8'),
+  ('2025-10-13',1,'bone','left',4000,8,'faint and barely audible at 8; faint and clear at 9; when I pressed the headphone to my skin I could hear as far down as 6'),
+  ('2025-10-13',1,'bone','right',500,8,'faint and barely audible at 8; faint and clear at 9'),
+  ('2025-10-13',1,'bone','right',1000,9,'faint and clear at 9; when I pressed the headphone to my skin I could hear at 8'),
+  ('2025-10-13',1,'bone','right',2000,9,'faint and clear at 9; when I pressed the headphone to my skin I could hear at 8'),
+  ('2025-10-13',1,'bone','right',4000,8,'faint and barely audible at 8, faint and clear at 9; when I pressed the headphone to my skin I could hear at 7');
