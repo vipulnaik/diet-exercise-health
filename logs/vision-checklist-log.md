@@ -150,3 +150,46 @@ previous tests.
   - [x] Left eye only
   - [x] Right eye only
   - NOTE: I didn't use intersections but I did an equivalent distance and I also did the opposite side of the street.
+
+## 2025-10-13 onward
+
+I am skipping test set (3) (peripheral vision) and will do that in the December round.
+
+### Outdoor vision test (to be done at every execution)
+
+- Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
+  - [ ] Both eyes
+  - [ ] Left eye only
+  - [ ] Right eye only
+
+### (1) Short distance vision (executed 2025-10-13)
+
+- Extreme short distance vision test (this can catch issues of worsening short distance vision before it starts showing up in the functional short distance vision test)
+  - [x] Moving eyes toward screen, measure the distance at which I start seeing the text become blurry (but it's still readable) (benchmark set on 2025-06-28 is 5.5 to 6.5 inches, with some variation based on ambient lighting and contrast in text)
+    - About 6 inches as expected
+  - [x] Continuing to move eyes toward screen, measure the distance at which the text becomes so blurry that it is difficult to directly read (benchmark set on 2025-06-28 is 4 to 4.5 inches, with some variation based on ambient lighting and contrast in text)
+    - About 4 to 4.5 inches as expected
+  - [x] Moving eyes toward printed text (for instance, a food purchase receipt), measure and record the distance at which I start seeing the text become blurry (but it's still readable) (benchmark set on 2025-06-28 is 5.5 to 6.5 inches, with some variation based on ambient lighting and contrast in text)
+    - About 6 inches as expected
+  - [x] Continuing to move eyes toward printed text, measure the distance at which the text becomes so blurry that it is difficult to directly read (benchmark set on 2025-06-28 is 4 to 4.5 inches, with some variation based on ambient lighting and contrast in text)
+    - About 4 inches as expected
+- Functional short distance vision test (computer reading): Try the exercise in https://humanbenchmark.com/tests/typing at the usual eye-to-screen distance (17 to 25 inches, usually 20 to 23 inches)
+  - [x] Both eyes at 25% magnification (threshold of 70 wpm on at least one of three attempts)
+    - Scores: 77 wpm, 78 wpm, 83 wpm
+  - [x] Left eye only (right eye closed) at 75% magnification (threshold of 80 wpm on at least one of three attempts)
+    - Scores: 101 wpm, 106 wpm, 101 wpm
+  - [x] Right eye only (left eye closed) at 75% magnification (threshold of 80 wpm on at heast one of three attempts)
+    - Scores: 103 wpm, 95 wpm, 109 wpm
+
+### (2) Medium distance vision
+
+- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (30 to 35 inches)
+  - [ ] Both eyes
+  - [ ] Left eye only
+  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
+  - [ ] Right eye only
+- Functional medium distance vision test: Try to read the FineDine and Craftsman packages at a distance of about 6 feet (basically, read them seated); start at a slight angle and then work my way to straight reading
+  - [ ] Both eyes
+  - [ ] Left eye only
+  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
+  - [ ] Right eye only
