@@ -45,35 +45,132 @@ documentation steps, so I should do these only as part of the periodic
 execution (about once every two months) or if diagnosing a specific
 issue or suspected issue.
 
-- Run through and record results for online hearing test at https://www.resound.com/en-us/online-hearing-test (using normal headphones for air conduction and bone conduction headphones for bone conduction) in SQL; compare with the previous results to see if there is any concerning loss of hearing, and if so, schedule a followup test for a week later
-  - [ ] Put on normal headphones
-  - [ ] Make sure that the volume of the computer is set to max
-  - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
-  - [ ] Switch balance back to the middle
-  - [ ] Do the Resound online test and record results as you go along
-  - [ ] Put on bone conduction headphones
-  - [ ] Make sure that the volume of the computer is set to max
-  - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
-  - [ ] Switch balance back to the middle
-  - [ ] Do the Resound online test and record results as you go along
-- Do a max frequency hearing test using https://www.youtube.com/watch?v=zUmbmssqHOY
-  - [ ] Normal headphones, start the video, setting volume to half the max
-  - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
-  - [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
-    - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
-    - Pause video if it is still playing (only *after* opening eyes)
-    - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-    - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
-    - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
-    - Final frequency estimate: ???
-  - [ ] Remember to set volume back to low so that I don't get a blast in my ears the next time I play using the headphones
-  - [ ] Bone conduction headphones, start the video, setting volume to half the max
-  - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
-  - [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
-    - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
-    - Pause video if it is still playing (only *after* opening eyes)
-    - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-    - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
-    - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
-    - Final frequency estimate: ???
-  - [ ] Remember to set volume back to low so that I don't get a blast in my ears the next time I play using the headphones
+By default, I should cycle between these test sets at every periodic
+checklist execution. Each test set is expected to take 15 to 30
+minutes. For instance, if I do the checklist every 2 months, and there
+are 3 test sets to cycle between, then I'll effectively do each test
+every 6 months. If I skip a 2-month execution, then at the next
+execution I should cover two test sets to make up. If I skip two or
+more consecutive 2-month executions, I should do all test sets at the
+next execution.
+
+Remember after each test set to return the volume and balance to
+normal. This is important to avoid getting a "blast" of noise when I
+next use the headphones.
+
+### (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
+
+Run through and record results for online hearing test at
+https://www.resound.com/en-us/online-hearing-test (using normal
+headphones for air conduction and bone conduction headphones for bone
+conduction) in SQL; compare with the previous results to see if there
+is any concerning loss of hearing, and if so, schedule a followup test
+for a week later.
+
+- [ ] Put on normal headphones
+- [ ] Make sure that the volume of the computer is set to max
+- [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+- [ ] Switch balance back to the middle
+- [ ] Do the Resound online test and record results as you go along
+- [ ] Put on bone conduction headphones
+- [ ] Make sure that the volume of the computer is set to max
+- [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+- [ ] Switch balance back to the middle
+- [ ] Do the Resound online test and record results as you go along
+
+### (2) Max frequency hearing test
+
+Do a max frequency hearing test using https://www.youtube.com/watch?v=zUmbmssqHOY
+
+Normal headphones, both ears:
+
+- [ ] Normal headphones, start the video, setting volume to half the max and balance to neutral
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
+  - Pause video if it is still playing (only *after* opening eyes)
+  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+  - Final frequency estimate: ???
+
+Normal headphones, left ear only:
+
+- [ ] Normal headphones, start the video, setting volume to half the max and balance to all on left ear
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
+  - Pause video if it is still playing (only *after* opening eyes)
+  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+  - Final frequency estimate: ???
+
+Normal headphones, right ear only:
+
+- [ ] Normal headphones, start the video, setting volume to half the max and balance to all on right ear
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
+  - Pause video if it is still playing (only *after* opening eyes)
+  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+  - Final frequency estimate: ???
+
+Wrap up normal headphones:
+
+- [ ] Remember to set volume back to low and balance to neutral
+
+Bone conduction headphones, both ears:
+
+- [ ] Bone conduction headphones, start the video, setting volume to half the max and balance to neutral
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
+  - Pause video if it is still playing (only *after* opening eyes)
+  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+  - Final frequency estimate: ???
+
+Bone conduction headphones, left ear:
+
+- [ ] Bone conduction headphones, start the video, setting volume to half the max and balance to all on left ear
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
+  - Pause video if it is still playing (only *after* opening eyes)
+  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+  - Final frequency estimate: ???
+
+Bone conduction headphones, right ear:
+
+- [ ] Bone conduction headphones, start the video, setting volume to half the max and balance to all on left ear
+- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, note current time, and hit space bar
+- [ ] Increase volume as sound gets fainter, and open eyes when sound gets inaudible even at max volume
+  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
+  - Pause video if it is still playing (only *after* opening eyes)
+  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
+  - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
+  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
+  - Final frequency estimate: ???
+
+Wrap up bone conduction headphones:
+
+- [ ] Remember to set volume back to low so that I don't get a blast in my ears the next time I play using the headphones
+
+### (3) Speech in noise test
+
+Run through and report results of https://www.medel.com/en-us/about-hearing/hearing-test/speech-in-noise
+
+Adjust volume through the test for what lets me hear best.
+
+- [ ] Normal headphones, balance to neutral
+- [ ] Normal headphones, left ear
+- [ ] Normal headphones, right ear
+- [ ] Bone conduction headphones, balance to neutral
+- [ ] Bone conduction headphones, left ear
+- [ ] Bone conduction headphones, right ear
