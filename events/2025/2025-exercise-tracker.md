@@ -1171,3 +1171,10 @@ exercises.
 On Monday 2025-10-13, I skipped all exercises so I could do eggplant
 meal prep in the morning and efficiently multiplex the preparation and
 meal consumption with several work meetings.
+
+## 2025-10-16: skipped all exercises due to a busy morning and early afternoon
+
+On Thursday 2025-10-16, I had a busy morning, including about an hour
+of meetings and a lot more time dealing with a bunch of incoming and
+pending tasks. As a result, I didn't get time to do exercises. In
+fact, I only got a breather to break to eat at around 2:15 PM.
