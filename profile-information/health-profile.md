@@ -285,12 +285,11 @@ once it is done.
     may on occasion use a sodium fluoride toothpaste when a stannous
     fluoride toothpaste is unavailable.
 
-    About once every 2 to 5 days, I add a small amount of baking soda
-    toothpaste when brushing.
-
     When brushing, I cover my front and back teeth with several
     strokes, my tongue with a few strokes, and do a light run over my
     gums and cheek.
+
+    About once every 2 to 5 days, after regular brushing,I lightly brush my back teeth with a small amount of baking soda toothpaste, to reduce staining of the back teeth.
 
   * I floss and rinse (with saltwater) about 15 to 45 minutes after
     the completion of each meal (generally, I do this after finishing
