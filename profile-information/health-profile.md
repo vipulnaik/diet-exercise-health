@@ -291,9 +291,9 @@ once it is done.
 
     About once every 2 to 5 days, after regular brushing,I lightly brush my back teeth with a small amount of baking soda toothpaste, to reduce staining of the back teeth.
 
-  * I floss and rinse (with saltwater) about 15 to 45 minutes after
+  * I floss and rinse (with saltwater) about 15 to 75 minutes after
     the completion of each meal (generally, I do this after finishing
-    the rest of post-meal cleanup), so I floss twice a day and rinse
+    the rest of post-meal cleanup, so how long after the meal it happens depends on how long the cleanup takes), so I floss twice a day and rinse
     twice a day. I use an interdental brush for flossing for one meal
     per day and a floss pick for flossing for the other meal. When
     using the interdental brush, I floss before rinsing, whereas when
