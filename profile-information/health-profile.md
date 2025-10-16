@@ -569,7 +569,7 @@ reflects a weighted average of the frequency and extent of elevated
 blood glucose levels over the past 3 to 4 months (determined by the
 lifetime of the red blood cell). HbA1c levels of 6.5% and higher are
 considered indicative of diabetes. Levels of 5.7% to 6.4% are
-considered indicative of prediabetes, and levels of 5.6% are below are
+considered indicative of prediabetes, and levels of 5.6% and below are
 considered normal.
 
 The eAG column is the estimated average glucose from the HbA1c
