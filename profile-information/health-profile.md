@@ -293,12 +293,13 @@ once it is done.
 
   * I floss and rinse (with saltwater) about 15 to 75 minutes after
     the completion of each meal (generally, I do this after finishing
-    the rest of post-meal cleanup, so how long after the meal it happens depends on how long the cleanup takes), so I floss twice a day and rinse
-    twice a day. I use an interdental brush for flossing for one meal
-    per day and a floss pick for flossing for the other meal. When
-    using the interdental brush, I floss before rinsing, whereas when
-    using the floss pick, I rinse before flossing. For rinsing, I use
-    saltwater; I don't use a mouthwash.
+    the rest of post-meal cleanup, so how long after the meal it
+    happens depends on how long the cleanup takes), so I floss twice a
+    day and rinse twice a day. I use an interdental brush for flossing
+    for one meal per day and a floss pick for flossing for the other
+    meal. When using the interdental brush, I floss before rinsing,
+    whereas when using the floss pick, I rinse before flossing. For
+    rinsing, I use saltwater; I don't use a mouthwash.
 
 * Additionally, I execute the [dental self-exam
   checklist](../checklists/dental-self-exam-checklist.md) every 2 to 4
@@ -359,10 +360,11 @@ Some historical information:
     light](../best-practices/best-practices-around-light.md).
 
 * I execute the [vision checklist](../checklists/vision-checklist.md)
-  every 2 to 4 months. The execution log is
-  [here](../logs/vision-checklist-log.md). I might also execute
-  portions of the vision checklist (such as trying to read license
-  plates) at random points in between.
+  aspirationally every 2 months, with different parts that I cycle
+  between, so each part gets done at least once every 6 months. The
+  execution log is [here](../logs/vision-checklist-log.md). I might
+  also execute portions of the vision checklist (such as trying to
+  read license plates) at random points in between.
 
 * I have some issues with distance vision, as evinced in the eye exam
   results. Since I don't drive, and the issues haven't gotten in my
@@ -396,8 +398,9 @@ Some historical information:
 ## Ears and hearing status
 
 * I execute the [hearing
-  checklist](../checklists/hearing-checklist.md) every 2 to 4
-  months. The execution log is
+  checklist](../checklists/hearing-checklist.md) aspirationally every
+  2 months, with different parts that I cycle between, so each part
+  gets done at least once every 6 months. The execution log is
   [here](../logs/hearing-checklist-log.md). I also try to do quick
   tests of parts of the hearing checklist more frequently, for
   instance, testing for minimum audible volume while I am listening to
@@ -405,6 +408,11 @@ Some historical information:
 
 * I exercise caution in terms of exposing myself to loud noises and to
   extended periods of listening to stuff.
+
+* As of 2025, my hearing seems fine judged by minimum audible volume
+  and maximum frequency I can hear. My speech-in-noise hearing
+  abilities may be a little worse than ideal, though I need to collect
+  more benchmark data for it.
 
 Most recent specific incident: I experienced reduced hearing in my
 left ear starting 2024-11-29. After a bunch of at-home testing, I
