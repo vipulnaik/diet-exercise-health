@@ -844,7 +844,7 @@ inflammation that could increase atherosclerotic risk.
 
 The reference range is between 3.8 and 8.4 mg/dL.
 
-I've had one uric acid reading so far, and it has coem out normal.
+I've had one uric acid reading so far, and it has come out normal.
 
 Reading date | Uric acid (mg/dL)
 -- | --
