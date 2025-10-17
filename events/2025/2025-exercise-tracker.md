@@ -1178,3 +1178,12 @@ On Thursday 2025-10-16, I had a busy morning, including about an hour
 of meetings and a lot more time dealing with a bunch of incoming and
 pending tasks. As a result, I didn't get time to do exercises. In
 fact, I only got a breather to break to eat at around 2:15 PM.
+
+## 2025-10-17: reduced at-home jogging due to time constraints
+
+On Friday 2025-10-17, I did at-home jogging for a reduced duration
+(about 18 minutes instead of the full 30 minutes) so that I could
+finish exercise sooner, and therefore eat sooner. I was already
+delayed for the day, and wanted to increase the chances that I get
+enough time to do my planned tasks for the day, some of which were
+contingent on finishing my first meal.
