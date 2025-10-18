@@ -166,19 +166,43 @@ multiple open/closes outside of my daily routine.
 
 ### Third of 3-day cycle: 200 lb close (focus on building -- very far from being able to do this)
 
-* Right hand on 200 lb: I try to close the 200 lb as far as
-  possible. I record how far I got in closing. As of 2025-07-09, I can
-  get to about parallel but not much beyond.
+* Right hand on 200 lb: I try to close the 200 lb as far as possible
+  and hold it at the maximum I was able to get it to for as long as
+  possible. I record both how far I got in closing (as a fraction of
+  the way from parallel to fully closed) and how long I was able to
+  hold in that position.
 
-* Left hand on 200 lb: I try to close the 200 lb as far as possible.
-  I record how far I got in closing. As of 2025-07-09, I can just
-  about get to about parallel.
+  As of 2025-10-18, I have been able to get between 2/3 and 4/5 of the
+  way and hold for anywhere from 2 to 12 seconds, generally getting to
+  about 5 to 8 seconds.
 
-* Both hand together on 200 lb: I try to close the 200 lb with both
-  hands together, trying them on different sides as well as trying
-  then wrapped around together. I record how far I got in
-  closing. This is generally a little better than either hand
-  individually but not much.
+* Left hand on 200 lb: I try to close the 200 lb as far as possible
+  and hold it at the maximum I was able to get it to for as long as
+  possible. I record both how far I got in closing (as a fraction of
+  the way from parallel to fully closed) and how long I was able to
+  hold in that position.
+
+  As of 2025-10-18, I can go slightly beyond parallel and hold for
+  about 5 to 9 seconds.
+
+* Both hands together on 200 lb with right hand on the inside: I try to
+  close the 200 lb with both hands together, with the right hand on
+  the inside, and hold closed for as long as possible. If I am able to
+  close successfully, I do a second attempt (after attempting the next
+  bullet point) and hold closed again for as long as possible.
+
+  As of 2025-10-18, I am usually able to close at least once, and
+  sometimes twice. The first hold time is somewhere between 1 second
+  and 10 seconds, usually 2 to 4 seconds. The second hold time, if I
+  succeed, is generally somewhere between 0 seconds and 3 seconds.
+
+* Both hands together on 200 lb with left hand on the inside: I try to
+  close the 200 lb as far as possible with both hands, with the left
+  hand on the inside, and hold it at the maximum I was able to get it
+  to for as long as possible.
+
+  As of 2025-10-18, I am generally able to close about 3/4 of the way
+  (sometimes going further) and hold for about 1 to 3 seconds.
 
 ### Post-exercise relaxation
 
@@ -434,3 +458,15 @@ from alternating between two protocols (close-and-hold with all
 fingers, close-and-hold with specific fingers excluded) across two
 days to alternating between three protocols (those two and attempt to
 close 200 lb) across three days.
+
+### Update on 2025-08-13 (written retroactively on 2025-10-18)
+
+I updated the 200 lb protocol to not just closing as much as possible
+but also trying to hold at the maximum for as long as possible, and
+started recording how long I had been able to hold.
+
+### Update on 2025-10-18
+
+I documented the updated current state of things for the 200 lb
+protocol (there are no meaningful changes to my performance for the
+other protocols).
