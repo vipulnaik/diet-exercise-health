@@ -459,11 +459,14 @@ fingers, close-and-hold with specific fingers excluded) across two
 days to alternating between three protocols (those two and attempt to
 close 200 lb) across three days.
 
-### Update on 2025-08-13 (written retroactively on 2025-10-18)
+### Update over the month of 2025-08 (written retroactively on 2025-10-18)
 
 I updated the 200 lb protocol to not just closing as much as possible
 but also trying to hold at the maximum for as long as possible, and
-started recording how long I had been able to hold.
+started recording how long I had been able to hold. This update didn't
+happen on a single day for all parts of the protocol, but rather
+happened gradually through the month as I transitioned parts one by
+one.
 
 ### Update on 2025-10-18
 
