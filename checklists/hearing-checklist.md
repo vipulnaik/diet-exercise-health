@@ -4,6 +4,8 @@ Execution log is [here](../logs/hearing-checklist-log.md).
 
 ## Quick things I should do in pieces every so often (ideally at least once every 10 days)
 
+### Quick minimum audible volume and balance tests
+
 For these pieces, I log in my Slack self-chat logs when I execute. I
 don't formally follow the checklist; I just do them whenever I happen
 to already be listening to the song in question and have a minute to
@@ -38,6 +40,8 @@ formal execution I find that I haven't done them at all for at least
     - [ ] Bone conduction headphones, when set to balanced, feel centered rather than skewed to one side
     - [ ] For bone conduction headphones, switching back and forth between all left to all right does not change perceived loudness
 
+END OF SECTION: Quick minimum audible volume and balance tests
+
 ### Quick max frequency hearing test
 
 This is a quick version of the max frequency hearing test described in
@@ -53,6 +57,8 @@ I should log this to Slack as `quick max frequency hearing test passed
 test passed (both ears) with bone conduction headphones`.
 
 Remember to return to normal volume and set balance back to neutral.
+
+END OF SECTION: Quick max frequency hearing test
 
 ## More advanced portion of test with formal recording, that I should do formally at the periodic interval
 
@@ -93,6 +99,8 @@ for a week later.
 - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
 - [ ] Switch balance back to the middle
 - [ ] Do the Resound online test and record results as you go along
+
+END OF SECTION: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
 
 ### (2) Max frequency hearing test
 
@@ -177,6 +185,8 @@ Wrap up bone conduction headphones:
 
 - [ ] Remember to set volume back to low so that I don't get a blast in my ears the next time I play using the headphones
 
+END OF SECTION: (2) Max frequency hearing test
+
 ### (3) Speech in noise test
 
 Run through and report results of https://www.medel.com/en-us/about-hearing/hearing-test/speech-in-noise
@@ -187,3 +197,5 @@ Adjust volume through the test for what lets me hear best.
 - [ ] Normal headphones, right ear
 - [ ] Bone conduction headphones, left ear
 - [ ] Bone conduction headphones, right ear
+
+END OF SECTION: (3) Speech in noise test

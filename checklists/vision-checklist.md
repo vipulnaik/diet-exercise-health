@@ -9,6 +9,8 @@ Execution log is [here](../logs/vision-checklist-log.md).
   - [ ] Left eye only
   - [ ] Right eye only
 
+END OF SECTION: Outdoor vision test (to be done at every execution)
+
 ## More involved indoor vision tests
 
 By default, I should cycle between these test sets at every periodic
@@ -32,6 +34,8 @@ next execution.
   - [ ] Left eye only (right eye closed) at 75% magnification (threshold of 80 wpm on at least one of three attempts)
   - [ ] Right eye only (left eye closed) at 75% magnification (threshold of 80 wpm on at heast one of three attempts)
 
+END OF SECTION: (1) Short distance vision
+
 ### (2) Medium distance vision
 
 - Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (30 to 35 inches)
@@ -45,6 +49,8 @@ next execution.
   - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
   - [ ] Right eye only
 
+END OF SECTION: (2) Medium distance vision
+
 ### (3) Peripheral vision
 
 - Peripheral vision check
@@ -52,3 +58,5 @@ next execution.
     - In dark environments, I may need to put the light on, otherwise the color change on screen is visible through reflection of the light elsewhere even when I am not facing the screen
   - [ ] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my left (so I would be using the left eye effectively)
   - [ ] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my left (so I would be using the left eye effectively)
+
+END OF SECTION: (3) Peripheral vision

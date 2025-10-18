@@ -21,3 +21,5 @@ Execution log is [here](../logs/dental-self-exam-checklist-log.md).
   - The location to save in GitHub should be in the `diet-exercise-health-private` repo in `self-photos/dental/<YYYY-MM-DD>`
   - Also save in my Google Drive in `self-photos/dental/<YYYY-MM-DD>`
 - [ ] Compare these photos with the previous photos
+
+END OF CHECKLIST
