@@ -1263,15 +1263,15 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-10','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-13',1),
   ('2025-10-11','TJ Almond Milk',1,1,null,null),
   ('2025-10-11','TJ Carb Savvy Tortillas',1,2,'2025-10-12',2),
-  ('2025-10-12','TJ Miso Ginger Broth',1,1,null,null),
+  ('2025-10-12','TJ Miso Ginger Broth',1,1,'2025-10-18',1),
   ('2025-10-12','TJ Walnuts',1,1,'2025-10-16',1),
   /* 2025-10-13 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, salt, and a bit of cayenne pepper) */
-  ('2025-10-13','Eggplant',1,1,null,null),
-  ('2025-10-13','TJ Kale',1,1,null,null),
-  ('2025-10-13','TJ Carrots',1,1,null,null),
-  ('2025-10-13','Green bell pepper',4,1,null,null),
-  ('2025-10-13','Red bell pepper',2,1,null,null),
-  ('2025-10-13','Beefsteak tomato',6,1,null,null),
+  ('2025-10-13','Eggplant',1,1,'2025-10-18',1),
+  ('2025-10-13','TJ Kale',1,1,'2025-10-18',1),
+  ('2025-10-13','TJ Carrots',1,1,'2025-10-18',1),
+  ('2025-10-13','Green bell pepper',4,1,'2025-10-18',1),
+  ('2025-10-13','Red bell pepper',2,1,'2025-10-18',1),
+  ('2025-10-13','Beefsteak tomato',6,1,'2025-10-18',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-13','TJ Carb Savvy Tortillas',1,1,'2025-10-14',1),
   ('2025-10-13','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-10-14',2),
@@ -1289,7 +1289,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-15','TJ Cumin',1,2,null,null), /* opened with potatoes prep; used previous bottle as well */
   ('2025-10-15','TJ Carb Savvy Tortillas',1,2,'2025-10-16',2),
   ('2025-10-16','TJ Roasted Seaweed',1,2,null,null),
-  ('2025-10-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2025-10-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-18',1),
   ('2025-10-16','TJ Carb Savvy Tortillas',1,2,null,null),
   /* 2025-10-17 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-10-17','Lundberg Sustainable California White Basmati Rice',0.95,1,null,null);
