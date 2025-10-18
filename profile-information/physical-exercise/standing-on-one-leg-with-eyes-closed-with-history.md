@@ -110,14 +110,15 @@ completion I do it for the other leg.
 
 ### Triggers for overall exercise
 
-I skip strength exercises about once every 3 days. Among days I skip
-strength exercises, I do the standing-on-one-leg-with-eyes-closed
-exercise on alternating days, so the overall frequency works out to
-once every 6 days. After completing this exercise, I do the
+The practice 2025-10-13 onward is to do this exercise roughly every
+alternating rice prep, so about once every 7 to 9 days. With that
+said, some rice preps I might use for more niche occasional exercises,
+which might displace a few slots, so effectively this might be a
+little less frequent. After completing this exercise, I do the
 [standing-on-toes-with-eyes-closed
 exercise](standing-on-toes-with-eyes-closed-with-history.md). On the
-other alternate day that I skip strength exercises, I do the more
-experimental eyes-open balance and flexibility exercises such as the
+other alternating rice prep, I do the more experimental eyes-open
+balance and flexibility exercises such as the
 [standing-on-heels-with-eyes-open
 exercise](standing-on-heels-with-eyes-open-with-history.md),
 [standing-on-one-leg-toes-with-eyes-open
@@ -448,7 +449,7 @@ longer, and as a side-effect also make it more equal across days. If I
 find deterioration from this reduced frequency, I might increase the
 frequency to two out of three days.
 
-#### Settings 2025-07-05 onward
+#### Settings 2025-07-05 to end of July 2025
 
 In light of continued maintenance and slight improvement of
 performance, as well as the introduction of several other balance
@@ -456,3 +457,27 @@ exercises, I decided on 2025-07-05 to reduce the frequency to
 alternating days among days that I am not doing strength
 exercises. This means the effective frequency will be about once every
 6 days, down from once every 3 days.
+
+#### Settings 2025-10-13 onward
+
+In August and September 2025, I was very erratic with doing this
+exercise, partly as a result of a general squeeze on exercise time due
+to things being busy. Specifically, in light of the [best practices
+around exercise adjustment during hectic
+times](../../best-practices/best-practices-around-exercise-adjustment-during-hectic-times.md#balance-exercises-and-other-niche-exercises),
+I deprioritized this exercise during the hectic t imes.
+
+The few times I was able to do the exercise were mostly during rice
+prep, while waiting for water to be filtered by the water filter
+before putting it on the rice. This eventually led me to decide to
+just do this exercise during that time in general. The previous
+exercise frequency was once every alternating period of 3 days (so
+effectively once every 6 days). If I switched over to doing this
+exercise at every alternating rice prep, that would roughly be once
+every 7 to 9 days, which is a little less frequent, but probably fine.
+
+So the practice 2025-10-13 onward is to do this exercise roughly every
+alternating rice prep, so about once every 7 to 9 days. With that
+said, some rice preps I might use for more niche occasional exercises,
+which might displace a few slots, so effectively this might be a
+little less frequent.
