@@ -26,7 +26,7 @@ queries = [
     # The only food (among foods I consume) that has fat but no carbs is olive oil
     "select * from food_types where total_carb_in_grams = 0 and total_fat_in_grams > 0 and not (short_name regexp 'Olive Oil');",
 
-    # The only foods (among foods I consume) that has fat but no proteins is olive oil
+    # The only food (among foods I consume) that has fat but no proteins is olive oil
     """
     select * from food_types where protein_in_grams = 0 and total_fat_in_grams > 0 and not (
       short_name regexp 'Olive oil'
