@@ -13,9 +13,9 @@ queries = [
 
     "select * from food_types where trans_fat_in_grams > 0;",
 
-    # """
-    # select * from food_types where
-    # total_carb_in_grams < coalesce(fiber_in_grams, 0) + coalesce(sugars_in_grams, 0);""",
+    """
+    select * from food_types where
+    total_carb_in_grams < 0.9 * (coalesce(fiber_in_grams, 0) + coalesce(sugars_in_grams, 0));""",
 
     """
     select * from food_types where
@@ -26,10 +26,10 @@ queries = [
     # The only food (among foods I consume) that has fat but no carbs is olive oil
     "select * from food_types where total_carb_in_grams = 0 and total_fat_in_grams > 0 and not (short_name regexp 'Olive Oil');",
 
-    # The only foods (among foods I consume) that have fat but no proteins are walnuts and olive oil
+    # The only foods (among foods I consume) that has fat but no proteins is olive oil
     """
     select * from food_types where protein_in_grams = 0 and total_fat_in_grams > 0 and not (
-      short_name regexp 'Walnuts' or short_name regexp 'Olive oil'
+      short_name regexp 'Olive oil'
     );""",
 
     # The amount of zinc should be small
