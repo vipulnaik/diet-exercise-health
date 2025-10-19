@@ -63,6 +63,15 @@ queries = [
     group by broad_food_type
     having fat_calorie_ratio_max > 2 * fat_calorie_ratio_min + 0.01
     and not (broad_food_type in ('Sauerkraut / Kimchi','Whole wheat tortilla'));""",
+
+    """
+    select broad_food_type,
+    coalesce(min(protein_in_grams / calories), 0) as protein_calorie_ratio_min,
+    coalesce(max(protein_in_grams / calories), 0) as protein_calorie_ratio_max from food_types
+    where broad_food_type is not null
+    group by broad_food_type
+    having protein_calorie_ratio_max > 2 * protein_calorie_ratio_min + 0.005
+    and not (broad_food_type in ('Sauerkraut / Kimchi','Whole wheat tortilla','Vegan probiotic yogurt'));""",
 ]
 
 _connection = connection.connect()
