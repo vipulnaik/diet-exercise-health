@@ -27,10 +27,7 @@ queries = [
     "select * from food_types where total_carb_in_grams = 0 and total_fat_in_grams > 0 and not (short_name regexp 'Olive Oil');",
 
     # The only food (among foods I consume) that has fat but no proteins is olive oil
-    """
-    select * from food_types where protein_in_grams = 0 and total_fat_in_grams > 0 and not (
-      short_name regexp 'Olive oil'
-    );""",
+    "select * from food_types where protein_in_grams = 0 and total_fat_in_grams > 0 and not (short_name regexp 'Olive oil');",
 
     # The amount of zinc should be small
     "select short_name, calories, zinc_in_mg, zinc_in_mg / calories from food_types where zinc_in_mg / calories > 0.02;",
