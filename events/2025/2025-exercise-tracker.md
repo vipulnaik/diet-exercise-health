@@ -1187,3 +1187,9 @@ finish exercise sooner, and therefore eat sooner. I was already
 delayed for the day, and wanted to increase the chances that I get
 enough time to do my planned tasks for the day, some of which were
 contingent on finishing my first meal.
+
+## 2025-10-19: skipped all exercises to fit in a Trader Joe's trip in the morning
+
+On Sunday 2025-10-19, I skipped all exercises so that I could fit in a
+Trader Joe's trip in the morning, and then have time to do the
+associated meal prep in the afternoon.
