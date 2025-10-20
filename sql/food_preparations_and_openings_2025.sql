@@ -1100,7 +1100,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-08-30','TJ English Shelled Peas',2,2,'2025-09-05',2),
   ('2025-08-30','Beefsteak tomato',7,2,'2025-09-05',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-08-30','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep */
+  ('2025-08-30','Trader Giotto''s Olive Oil',1,2,'2025-10-19',2), /* opened with potatoes prep */
   ('2025-08-30','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-09-02',1),
   ('2025-08-31','TJ Carb Savvy Tortillas',1,2,'2025-09-02',1),
   ('2025-09-01','TJ Sauerkraut',1,1,'2025-09-16',1),
@@ -1304,5 +1304,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-19','TJ Carrots',1,2,null,null),
   ('2025-10-19','Green bell pepper',4,2,null,null),
   ('2025-10-19','Red bell pepper',2,2,null,null),
-  ('2025-10-19','Beefsteak tomato',7,2,null,null);
+  ('2025-10-19','Beefsteak tomato',7,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-10-19','Trader Giotto''s Olive Oil',1,2,null,null); /* opened with eggplant meal prep */
   /* Double-check the date and meal index before committing */
