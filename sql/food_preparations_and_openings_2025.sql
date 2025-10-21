@@ -1281,10 +1281,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-10-16',2),
   /* 2025-10-15 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt; skipped cayenne pepper) */
-  ('2025-10-15','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2025-10-15','TJ Kale',1,2,null,null),
-  ('2025-10-15','TJ English Shelled Peas',2,2,null,null),
-  ('2025-10-15','Beefsteak tomato',6,2,null,null),
+  ('2025-10-15','Gold potatoes 5 lb',0.5,2,'2025-10-20',2),
+  ('2025-10-15','TJ Kale',1,2,'2025-10-20',2),
+  ('2025-10-15','TJ English Shelled Peas',2,2,'2025-10-20',2),
+  ('2025-10-15','Beefsteak tomato',6,2,'2025-10-20',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-15','TJ Cumin',1,2,null,null), /* opened with potatoes prep; used previous bottle as well */
   ('2025-10-15','TJ Carb Savvy Tortillas',1,2,'2025-10-16',2),
@@ -1307,5 +1307,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-19','Beefsteak tomato',7,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-19','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with eggplant meal prep */
-  ('2025-10-20','TJ Almond Milk',1,1,null,null);
+  ('2025-10-20','TJ Almond Milk',1,1,null,null),
+  ('2025-10-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
