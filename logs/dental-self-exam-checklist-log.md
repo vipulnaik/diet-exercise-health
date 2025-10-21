@@ -111,3 +111,70 @@ Overall notes:
 * (very different from last time (2025-02-23)) Unlike last time, I did
   not experience tongue interference or clouding due to excessive
   salivation when taking photos.
+
+## 2025-10-21
+
+This was done the day before my scheduled dental cleaning. Due to
+things being busy, I had not had time to do the dental self-exam
+checklist right after the previous dental cleaning, or at the 2-month
+or 4-month marks after it, so I cannot clearly track progression over
+time since the [last dental cleaning on
+2025-04-16](../events/2025/2025-04-16-dental-cleaning.md).
+
+- [x] Examine teeth in mirror; look for things like stains, plaque, and recession
+  - For front teeth, look in the normal mirror, using the hands to pull parts of the mouth to get a better view
+  - For back teeth, open mouth wide; use the dental mirror particularly for the back middle teeth and to get an additional angle on the back side teeth (the back side teeth can be partly viewed directly in the mirror if the mouth is wide open)
+  - Stain: some distinctive color pattern, usually black, often seen on back side teeth
+  - Plaque: "thin, slightly fuzzy, colorless film that might not be readily visible to the naked eye, but you can often feel it with your tongue as a slightly rough texture on your teeth" though in some cases it can show a yellow discoloration
+  - Gum recession: gumline is receded from where it should be; the place where it should be is the cemento-enamel junction (CEJ) and any gap between that and the gumline means the cementum is exposed; this gap area tends to look yellower than the white tooth
+- Use pressure testing to confirm the health and strength of the teeth; there should be no sharp pain beyond the sensation of pressure and maybe in some cases a stretch or massage feel, and it should go away within a few seconds of the pressure being removed
+  - [x] Using a floss pick, push moderately hard against each interdental gap
+  - [x] Push backward with a clean finger on the exposed part of each of the front teeth
+  - [x] Push forward (outward) with a clean finger on the exposed part of each of the back teeth
+  - [x] Push backward with a clean finger on the gumline part for each of the front teeth
+  - [x] Push forward (outward) with a clean finger on the gumline part of each of the back teeth
+- [ ] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of 12 photos)
+  - All back teeth before all front teeth
+  - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
+  - Within each, left, then middle, then right
+  - The location to save in GitHub should be in the `diet-exercise-health-private` repo in `self-photos/dental/<YYYY-MM-DD>`
+  - Also save in my Google Drive in `self-photos/dental/<YYYY-MM-DD>`
+- [ ] Compare these photos with the previous photos
+
+END OF CHECKLIST
+
+Overall notes:
+
+* The upper front teeth appear more white than the lower front teeth,
+  which might reflect more enamel erosion and more plaque accumultion
+  on the lower teeth; thiis is typical.
+
+* Plaque: I did not visually see or feel (with my finger) much plaque
+  on the teeth.
+
+* Staining: There was no staining on the front teeth. The back teeth
+  had some staining, with most of the staining being on the upper left
+  back teeth. Some of this staining was visible with a wide open
+  mouth, and some of the staining needed me to use the dental mirror.
+
+  The upper left back teeth stains are something that I had documented
+  starting to notice in my Slack self-chat logs on 2025-06-19, about 2
+  months after my last dental cleaning. This is the note I had put in
+  my Slack self-chat logs:
+
+  > after using regular toothpaste for a full round of brushing, using
+  > baking soda toothpaste to brush back teeth only; I’m starting to
+  > see black stains emerge so I may do more frequent back teeth
+  > brushing with baking soda. This also suggests that the kale is a
+  > direct contributor, since that’s one ingredient I had a lot less
+  > of in India, and the staining rate was lower back then
+
+* Gum recession: I didn't see much change in the recession pattern;
+  the canines seem to be the ones with the clearest recession.
+
+* Pressure testing: I experienced a little bit of pain for a few
+  seconds from the use of the floss pick when pressed hard against the
+  gums. The pain was more in some areas than others -- the upper right
+  and upper middle had somewhat sharper pain. Overall, the pain
+  subsided within a few seconds. The pushing actions did not cause
+  pain
