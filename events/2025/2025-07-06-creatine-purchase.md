@@ -31,7 +31,7 @@ I ended up delaying my pickup of the order, partly because I placed an
 additional order a week later and decided to wait for both to be
 ready. I finally picked up both orders on Friday 2025-07-18.
 
-## Consumption plan
+## Initial consumption plan
 
 The recommended daily dose is 3 gummies. Each gummy is 1 gram, so
 that's a total of 3 grams, compared to a general safe maintenance dose
@@ -82,3 +82,40 @@ Overall, I have been averaging about 1 gummy every 2 or 3 days, in
 order to keep GI impact limited. I also found that this particular
 brand is out of stock, so when my stock ends I'll need to look into
 another brand if it continues to be out of stock.
+
+## Re-evaluation on 2025-10-21 leading to a switch to creatine powder
+
+On Tuesday 2025-10-21, based on the video discussion between Peter Attia and
+Rhonda Patrick starting
+[here](https://www.youtube.com/watch?v=VhbpSc6pKRQ&t=5803s), I updated
+my thinking as follows:
+
+* I became more skeptical of whether I had been getting any meaningful
+  creatine from the supplementation, given what was discussed about
+  gummies often failing to have any active creatine.
+
+* I determined that the GI discomfort that I had been experiencing was
+  likely not directly due to the creatine but rather due to the gummy
+  itself, with the sugars and flavors in it.
+
+Based on these updates, I placed an order for [NAKED Pure Creatine
+Monohydrate powder](https://www.amazon.com/dp/B00ULZF5HC) (vegan and
+NSF-cerified) on Tuesday 2025-10-21. I picked up the order on
+Wednesday 2025-10-22 and plan to start consuming it the next day
+(Thursday 2025-10-23) onward.
+
+Since this is a powder, there is no natural consumption unit as there
+is with capsules, and it's also harder to titrate precisely. My plan
+is to initially start with about 1/5 of a teaspoon, which should be
+about 1 to 1.5 grams. My plan is to use my clean eating spoon, before
+serving myself food, and put the creatine in my cup, in which I will
+later pour food, so it will mix with the food and get ingested
+naturally.
+
+If I don't see any clear GI side-effects, I plan to gradually increase
+the level up to about 1 teaspoon (about 5 to 7 grams).
+
+While I won't have exact day-by-day precision in dosage, I expect that
+I will be able to confirm that my titration is approximately accurate
+based on the amount of powder left in the bottle, and get a full
+confirmation once the bottle finishes.
