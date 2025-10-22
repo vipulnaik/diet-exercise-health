@@ -136,39 +136,50 @@ shopped for ahead of the appointment if possible.
 
 ### (preparation / risk reduction) Reminder to pause consumption of sauerkraut, walnuts, lemons, and spicy foods
 
-* Reminder for two weeks prior to the appointment to stop using
-  cayenne pepper in food preparation beyond this point, and pause
-  consumption of any very intense / spicy foods that I don't usually
-  consume every week.
+* Reminder for two weeks prior to the appointment:
 
-* Reminder for eight days prior to the appointment to pause
-  consumption of sauerkraut, kimchi, spicy foods, and lemons
-  (basically all intense foods).
+  * Phase out cayenne pepper in prepared food: It should be half of
+    usual quantity for preparations between two weeks and one week
+    before the appointment, and zero for preparations within one ween
+    before the appointment.
 
-* Reminder for six days prior to the appointment to pause consumption
-  of walnuts. This reduces the risk of injury in the cheek and
-  gum area that might cause more pain during the dental cleaning
-  process.
+  * Stop having kimchi if I have an open bottle; don't open a new
+    bottle: I should pause kimchi consumption starting two weeks prior
+    to the appointment.
 
-  Also, when consuming recently prepared hot food, I should make sure
-  to mix it with cooler liquid foods so that the hottest temperature
-  in my mouth isn't too high (this is a good practice in general but I
-  should be particularly careful in the run-up to a dental cleaning
-  appointment.
+  * Don't have hot food in isolation: When consuming recently prepared
+    hot food, I should make sure to mix it with cooler liquid foods so
+    that the hottest temperature in my mouth isn't too high (this is a
+    good practice in general but I should be particularly careful in
+    the run-up to a dental cleaning appointment).
 
-  Consume a vegan probiotic yogurt instead of sauerkraut over that
-  time period.
+  * Decide (and set a reminder if the decision is positive) whether to
+    pausing sauerkraut about a week prior to the appointment in case
+    of existing or recent mouth ulcers: If I currently have mouth
+    ulcers, or have had them recently, consider pausing sauerkraut
+    about a week prior to the dental cleaning.
 
-* Reminder for two days after the appointment to resume consumption of
-  walnuts and relax the strictures regarding hot food. The reason for
-  the day of waiting is to make sure there are no mouth injuries
-  created or exacerbated by the cleaning process or by some of the
-  induced factors from it (such as increased sensitivity or dry
-  mouth).
+  * Decide (and set a reminder if the decision is positive) whether to
+    pause walnuts about 5-6 days prior to the appointmentif I have had
+    mouth ulcers or recent mouth bites: appointment. However, when
+    pausing walnuts, I should review my calorie, fiber,
+    polyunsaturated fat, and protein intakes to make sure that
+    stopping these will not result in a significant drop.
 
-* Reminder for four days after the appointment to resume consumption
-  of sauerkraut, with a note to delay if I'm experiencing drooling,
-  mouth dryness, or excess salivation.
+* Reminder for the morning of the appointment: Skip sauerkraut and
+  walnuts, to reduce the risk of mouth bites or irritation right
+  before the appointment.
+
+* Reminder after the appointment to decide regarding resuming foods:
+
+  * If I notice any injuries in the mouth, or I have had recent mouth
+    ulcers or mouth bites, I should keep the pauses on for a few days
+    (resume in order of walnuts, then sauerkraut, then cayenne
+    peepper, kimchi, etc.).
+
+  * If none of the above conditions apply, I can resume immediately
+    (walnuts on the evening of, sauerkraut the next morning, and
+    cayenne pepper with any meal prep at least two days out).
 
 ### (preparation / direct) Reminder to execute the dental self-exam checklist two days prior to the appointment
 
@@ -193,8 +204,10 @@ This is to conserve time and energy for the appointment.
 
 ### (preparation / risk reduction) Reminder to keep fermentable food consumption to a minimum starting 24 hours prior to the appointment
 
-In particular, this includes peas and lentils. Sauerkraut and kimchi I
-have already stopped by this point. The goal is to reduce the risk of
+In particular, this includes peas and lentils. I might have a bit of
+sauerkraut with the first meal the day prior to the appointment (which
+would fall just about 24 hours before the appointment) but shouldn't
+go overboard on the sauerkraut. The goal is to reduce the risk of
 flatulence and abdominal discomfort during the dental cleaning
 process. My target threshold is more strict (I want to avoid abdominal
 discomfort more completely) given the nature of the process and the
