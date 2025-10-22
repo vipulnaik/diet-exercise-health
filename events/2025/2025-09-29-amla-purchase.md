@@ -29,5 +29,14 @@ before I started amla. However, there are some indications that the
 amla consumption is related -- I get more amla burps and a general
 feeling of rejection of the amla capsules.
 
-I'll consider resuming in about two weeks, after the completion of the
-dental cleaning on 2025-10-22.
+## Resumption on 2025-10-23 with a different protocol
+
+I'm resuming amla on Thursday 2025-10-23 with a somewhat different
+protocol.
+
+Instead of having amla with the meal, my plan is to have amla right
+after I finish exercise, which should generally be about 60 to 90
+minutes before I start my meal. I also plan to make a point of
+drinking a lot of water along with the amla capsule, so as to
+encourage it to get absorbed quickly and not linger in the GI tract,
+thereby reducing the potential GI side-effects.
