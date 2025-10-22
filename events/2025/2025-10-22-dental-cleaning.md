@@ -134,6 +134,14 @@ the dental cleaning appointment on Wednesday 2025-10-22. This was
 based on past experience where going out shopping after the
 appointment and then cooking after that turned into a very long day.
 
+### Dental self-exam checklist execution on 2025-10-21
+
+I executed the dental self-exam checklist. I did most of the checklist
+around noon, but took the photos at around 10:30 PM. This provides a
+before for the before/after of the dental cleaning, and helps me
+understand the state of my teeth going into the dental cleaning
+appointment.
+
 ### Packing / prep on 2025-10-21 night
 
 I confirmed that I did not need to do any special preparation for the

@@ -79,7 +79,7 @@ Overall notes:
   - [x] Push forward (outward) with a clean finger on the exposed part of each of the back teeth
   - [x] Push backward with a clean finger on the gumline part for each of the front teeth
   - [x] Push forward (outward) with a clean finger on the gumline part of each of the back teeth
-- [ ] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of 12 photos)
+- [x] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of 12 photos)
   - All back teeth before all front teeth
   - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
   - Within each, left, then middle, then right
@@ -133,13 +133,13 @@ time since the [last dental cleaning on
   - [x] Push forward (outward) with a clean finger on the exposed part of each of the back teeth
   - [x] Push backward with a clean finger on the gumline part for each of the front teeth
   - [x] Push forward (outward) with a clean finger on the gumline part of each of the back teeth
-- [ ] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of 12 photos)
+- [x] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of 12 photos)
   - All back teeth before all front teeth
   - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
   - Within each, left, then middle, then right
   - The location to save in GitHub should be in the `diet-exercise-health-private` repo in `self-photos/dental/<YYYY-MM-DD>`
   - Also save in my Google Drive in `self-photos/dental/<YYYY-MM-DD>`
-- [ ] Compare these photos with the previous photos
+- [x] Compare these photos with the previous photos
 
 END OF CHECKLIST
 
@@ -150,12 +150,17 @@ Overall notes:
   on the lower teeth; thiis is typical.
 
 * Plaque: I did not visually see or feel (with my finger) much plaque
-  on the teeth.
+  on the teeth. With the intraoral camera, I saw some stuff that might
+  be plaque on the back teeth but it was hard to distinguish from
+  stains.
 
 * Staining: There was no staining on the front teeth. The back teeth
-  had some staining, with most of the staining being on the upper left
-  back teeth. Some of this staining was visible with a wide open
-  mouth, and some of the staining needed me to use the dental mirror.
+  had some staining, with the only staining that was visible to me
+  directly in a normal mirror being on the upper back left
+  teeth. However, with the intraoral mirror, I could see stains at
+  more places, and with the intraoral camera, I was able to see
+  staining across my back teeth. The staining was more significant on
+  the upper back teeth than the lower back teeth.
 
   The upper left back teeth stains are something that I had documented
   starting to notice in my Slack self-chat logs on 2025-06-19, about 2
@@ -168,6 +173,16 @@ Overall notes:
   > brushing with baking soda. This also suggests that the kale is a
   > direct contributor, since that’s one ingredient I had a lot less
   > of in India, and the staining rate was lower back then
+
+  The overall state of staining at the 6-month mark seems pretty
+  similar to the state of staining as of 2025-04-14, shortly prior to
+  the 2025-04-16 dental cleaning. The photos don't have sufficient
+  resolution or consistency for me to make a refined comparison, and
+  therefore there is some uncertainty as to how well the baking soda
+  toothpaste is working and whether it is worth continuing. For the
+  time being, my plan is to continue with the baking soda toothpaste
+  and be more regular with the dental self-exam checklist so that I
+  have checkpoints at the 2-month and 4-month mark.
 
 * Gum recession: I didn't see much change in the recession pattern;
   the canines seem to be the ones with the clearest recession.
