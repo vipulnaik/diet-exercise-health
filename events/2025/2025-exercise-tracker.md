@@ -1193,3 +1193,9 @@ contingent on finishing my first meal.
 On Sunday 2025-10-19, I skipped all exercises so that I could fit in a
 Trader Joe's trip in the morning, and then have time to do the
 associated meal prep in the afternoon.
+
+## 2025-10-22: skipped all exercises for dental cleaning trip
+
+On Wednesday 2025-10-22, I skipped all exercises to make time for my
+dental cleaning trip; see [here](2025-10-22-dental-cleaning.md) for
+the trip details.

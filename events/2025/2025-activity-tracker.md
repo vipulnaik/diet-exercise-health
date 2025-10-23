@@ -290,3 +290,11 @@ weights, as measured by my luggage weighing machine after my return,
 were 10.5 kg and 3.9 kg respectively. I carried the suitcase back
 rather than wheeling it, but I did have to stop to put the suitcase
 down several times on the way home.
+
+## 2025-10-22
+
+On Wednesday 2025-10-22, in the afternoon, I went to Total Health
+Dental Care for a dental cleaning. The appointment details are
+[here](2025-10-22-dental-cleaning.md). After the appointment, I went
+to the Amazon Hub Locker at ASUC Berkeley to pick up a package. On the
+way back, I stopped at Walgreens for toiletries purchases.
