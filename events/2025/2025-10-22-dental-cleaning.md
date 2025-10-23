@@ -1,9 +1,17 @@
 # 2025-10-22: dental cleaning
 
-I have a dental cleaning appointment on Wednesday 2025-10-22 at Total
+I had a dental cleaning appointment on Wednesday 2025-10-22 at Total
 Health Dental Care at 3017 Telegraph Avenue for a regular dental
 cleaning at 1 PM. The previous dental cleaning had been on
 [2025-04-16](2025-04-16-dental-cleaning.md).
+
+NOTE: The dental cleaning appointment is over and the main thing
+flagged is that I have a bit more gum inflammation than usual. I need
+to document details of the cleaning itself and of my further thinking
+around the potential causes for this flagging and the changes that I
+will or won't make in response. However, the process of writing these
+notes may take some time. As of now, I have private notes that I hope
+to flesh out later.
 
 Sections of this document:
 
