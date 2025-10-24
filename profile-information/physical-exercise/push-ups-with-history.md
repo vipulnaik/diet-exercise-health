@@ -96,3 +96,11 @@ push-ups and on both days I could do 2 fist push-ups.
 
 On 2025-07-02, I did fist push-ups before regular push-ups and I
 managed 5 fist push-ups followed by 13 regular push-ups.
+
+As of 2025-10-24, I am generally able to do somewhere between 6 and 9
+fist push-ups. The total number of fist push-ups and standard push-ups
+is 13 or more, but can vary quite a bit. I expect that this number is
+lower than it would be if I did push-ups before strength exercises,
+and the continued increase in number of repetitions for strength
+exercises has been creating more of a squeeze on the number of
+push-ups.

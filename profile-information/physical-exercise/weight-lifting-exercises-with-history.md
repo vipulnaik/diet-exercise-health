@@ -256,6 +256,27 @@ performance on Sunday 2025-06-29 and Wednesday 2025-07-02:
   (in addition to doing biceps curls). I did 2 reps on 2025-06-29 and
   3 reps on 2025-07-02.
 
-* Over the past few month, I have squats increased the number of
-  squats with the 12 lb kettlebell from 5 inward, 5 outward to 10
-  inward, 10 outward.
+* Over the past few months, I have increased the number of squats with
+  the 12 lb kettlebell from 5 inward, 5 outward to 10 inward, 10
+  outward.
+
+### 2025-10-24: phasing out of 3 lbs exercises from regular routine; updates regarding reps for 20 lbs and squats with kettlebell
+
+Starting Friday 2025-10-24, I am removing from my regular routine the
+starter exercises with 3 lbs. This means that I start every day with 5
+lbs. I may use the 3 lbs as warmup or verification when resuming
+weight-lifting after a period of deconditioning of over a week, or if
+feeling unwell or low in energy. The reason for phasing out the 3 lbs
+is to conserve time and energy for the more demanding exercises,
+allowing more reps of these exercises and hopefully leading to more
+strength benefits.
+
+Also, some updates regarding the number of reps for 20 lbs:
+
+* I am now able to do at least 5 reps of exercise 1 (the range is 5 to
+  9) and about 5 reps of bicep curls after maxing out on the number of
+  reps of exercise 1 I can do comfortably.
+
+* Over the past few months, I have increased the number of squats with
+  the 12 lb kettlebell from 10 inward, 10 outward to 20 inward, 15
+  outward.
