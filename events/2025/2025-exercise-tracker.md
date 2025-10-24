@@ -1199,3 +1199,9 @@ associated meal prep in the afternoon.
 On Wednesday 2025-10-22, I skipped all exercises to make time for my
 dental cleaning trip; see [here](2025-10-22-dental-cleaning.md) for
 the trip details.
+
+## 2025-10-23: skipped strength exercises
+
+On Thursday 2025-10-23, I skipped strength exercises. I had to deal
+with a number of time-sensitive items after returning from jogging,
+and I ended up missing the time window for strength exercises.

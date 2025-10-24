@@ -29,10 +29,11 @@ before I started amla. However, there are some indications that the
 amla consumption is related -- I get more amla burps and a general
 feeling of rejection of the amla capsules.
 
-## Resumption on 2025-10-23 with a different protocol
+## Resumption on 2025-10-24 with a different protocol
 
-I'm resuming amla on Thursday 2025-10-23 with a somewhat different
-protocol.
+I'm resuming amla on Friday 2025-10-24 with a somewhat different
+protocol (I had initially planned to resume on Thursday 2025-10-23,
+but I skipped strength exercises and therefore missed the cue).
 
 Instead of having amla with the meal, my plan is to have amla right
 after I finish exercise, which should generally be about 60 to 90
