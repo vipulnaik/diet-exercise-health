@@ -1,6 +1,6 @@
 # Lipid-lowering strategies
 
-Last substantive update: 2024-12-20
+Last substantive update: 2025-10-24
 
 I expect to flesh these out more in the future; as of now, this is a
 dumping ground of thoughts.
