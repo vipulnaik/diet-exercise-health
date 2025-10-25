@@ -35,9 +35,22 @@ I'm resuming amla on Friday 2025-10-24 with a somewhat different
 protocol (I had initially planned to resume on Thursday 2025-10-23,
 but I skipped strength exercises and therefore missed the cue).
 
-Instead of having amla with the meal, my plan is to have amla right
-after I finish exercise, which should generally be about 60 to 90
-minutes before I start my meal. I also plan to make a point of
-drinking a lot of water along with the amla capsule, so as to
-encourage it to get absorbed quickly and not linger in the GI tract,
-thereby reducing the potential GI side-effects.
+Instead of having a single capsule of amla with the first meal, my
+plan is to have two capsules of amla as follows:
+
+* 1 capsule of amla right after I finish exercise, which should
+  generally be about 60 to 90 minutes before I start my meal. I also
+  plan to make a point of drinking a lot of water along with the amla
+  capsule, so as to encourage it to get absorbed quickly and not
+  linger in the GI tract, thereby reducing the potential GI
+  side-effects.
+
+* Another capsule of amla right after brushing teeth between my two
+  meals, again with a large amount of water, that also serves as my
+  pre-meal water. This brushing generally happens within about an hour
+  prior to my second meal, and it's often about 10 minutes before the
+  meal.
+
+If I find that two capsules of amla produce too much by way of GI
+discomfort, I will maintain the morning dose but stop the evening
+dose.
