@@ -1299,12 +1299,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-19','TJ Carb Savvy Tortillas',1,1,'2025-10-21',1),
   ('2025-10-19','TJ Walnuts',1,1,'2025-10-23',2),
   /* 2025-10-19 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, salt; skipped cayenne pepper) */
-  ('2025-10-19','Eggplant',1,2,null,null),
-  ('2025-10-19','TJ Kale',1,2,null,null),
-  ('2025-10-19','TJ Carrots',1,2,null,null),
-  ('2025-10-19','Green bell pepper',4,2,null,null),
-  ('2025-10-19','Red bell pepper',2,2,null,null),
-  ('2025-10-19','Beefsteak tomato',7,2,null,null),
+  ('2025-10-19','Eggplant',1,2,'2025-10-25',1),
+  ('2025-10-19','TJ Kale',1,2,'2025-10-25',1),
+  ('2025-10-19','TJ Carrots',1,2,'2025-10-25',1),
+  ('2025-10-19','Green bell pepper',4,2,'2025-10-25',1),
+  ('2025-10-19','Red bell pepper',2,2,'2025-10-25',1),
+  ('2025-10-19','Beefsteak tomato',7,2,'2025-10-25',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-19','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with eggplant meal prep */
   ('2025-10-20','TJ Almond Milk',1,1,null,null),
@@ -1328,5 +1328,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-10-24 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-10-24','Lundberg Sustainable California White Basmati Rice',0.95,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-10-24','TJ Miso Ginger Broth',1,2,null,null);
+  ('2025-10-24','TJ Miso Ginger Broth',1,2,null,null),
+  ('2025-10-25','TJ Carb Savvy Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
