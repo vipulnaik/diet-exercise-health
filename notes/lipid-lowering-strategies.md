@@ -12,13 +12,22 @@ dumping ground of thoughts.
 My goal is to continue to maintain and improve my lifestyle. I don't
 have very concrete improvements in mind.
 
+### Supplements or special foods
+
+These are foods that are alleged to have effects of lowering LDL cholesterol and Apo B.
+
+* Amla; see [here](../events/2025/2025-09-29-amla-purchase.md)
+
+* Berberine, a natural PCSK9 inhibitor, currently rejected due to its
+  other metformin-like effects that can be very strong.
+
 ### Measurements
 
 * Regular benchmarking: Take regular measurements of Apo B + basic
-  lipid panel about once a quarter, and NMR lipoprofile (instead of
-  basic lipid panel) once every 9 months. This will also help capture
-  seasonal changes (as my food intake and energy cycle differ quite a
-  bit based on temperature).
+  lipid panel about once every 6 months, and NMR lipoprofile (instead
+  of basic lipid panel, still include the additional Apo B) once every
+  2 years. This will also help capture seasonal changes (as my food
+  intake and energy cycle differ quite a bit based on temperature).
 
 * More one-off blood tests: Add in other related things to measure,
   cycling between them so that by the end of 2025 I have at least one
@@ -30,15 +39,21 @@ have very concrete improvements in mind.
   to lifestyle and supplements.
 
 * One-time benchmarking of current state of things that the lipids are
-  affecting: coronary artery calcium (CAC) comes to mind right
-  now. Maybe also get an echo and cardiac MRI to gauge risk of aortic
-  valve stenosis, which my Lp(a) places me at risk for.
+  affecting: the Lifeline Screening package (includes carotid artery
+  scan, PAD arterial disease test, abdominal aortic aneurysm test, and
+  atrial fibrillation test), coronary artery calcium (CAC). Maybe also
+  get an echo and cardiac MRI to gauge risk of aortic valve stenosis,
+  which my Lp(a) places me at risk for.
 
 ### Pharma investigations
 
 * Statins: Cost, side-effects, specific risk factors for me, likely
   trajectory of these costs, estimate of how much they'll help at
   various doses.
+
+* Ezetimibe
+
+* Bempedoic acid
 
 * PCSK9 inhibitors (injections): Cost, process of doing the injection,
   pros and cons, likely trajectory of these costs, estimate of how
