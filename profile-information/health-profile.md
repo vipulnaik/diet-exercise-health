@@ -4,7 +4,7 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
-Last substantive minor update: September 22, 2025
+Last substantive minor update: October 26, 2025
 
 NOTE (2025-09-22): I got [blood tests done on September 10,
 2025](../events/2025/2025-09-10-blood-tests.md). I got all the results
@@ -1073,7 +1073,7 @@ For all of these, I've always stayed within range.
 For sodium, all readings have been close to the middle of the range,
 which is as expected for a well-functioning system, since sodium
 concentration is the most tightly regulated. The range is variously
-reported as 134-144 mmol/L and 135-146 mmol/L.
+reported as 134-144 mmol/L, 135-146 mmol/L, and 136-145 mmol/L.
 
 Below are my four most recent sodium readings:
 
@@ -1119,6 +1119,10 @@ Reading date | Potassium measurement (mmol/L) | Average daily potassium consumpt
 2024-12-13 (December 2024)  | 4.3 | 5044 | Food preparations and openings (no completion data)
 2024-09-03 (September 2024) | 4.5 | 3456 | Food preparations and openings (no completion data)
 2024-04-30 (April 2024) (not fasting) | 4.1 | N/A | Food purchases (but I haven't constructed the query yet)
+
+When preparations and openings data is available, I use the following
+command to get average potassium consumption in the *week* prior to the
+test:
 
 ```sql
 select avg(potassium_in_mg) from interpolated_nutrient_consumption where datediff(<test date>,consumption_date) between 1 and 7;
