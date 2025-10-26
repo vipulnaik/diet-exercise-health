@@ -386,7 +386,7 @@ Some historical information:
   follow (or try to follow), see [best practices around
   light](../best-practices/best-practices-around-light.md).
 
-  The photosensitivity started along with my [Decemer 2018
+  The photosensitivity started along with my [December 2018
   head/neck/jaw/tooth
   pain](../events/2018/2018-12-head-neck-jaw-tooth-pain.md).
 
@@ -1036,7 +1036,7 @@ Reading date | Type of measurement | Measurement (mg/dL) | eGFR (mL/min/1.73 m^2
 2024-12-13 (December 2024) | creatinine | 0.74 | 119
 2024-09-03 (September 2024) | creatinine | 0.84 | 114
 2024-04-30 (April 2024) | creatinine | 0.87 | 113
-2016-12-12 (Decemeber 2016) | creatinine | 0.62 | 133
+2016-12-12 (December 2016) | creatinine | 0.62 | 133
 
 Based on the general guidance, I am inclined to discard the
 creatinine-based estimates and focus on the cystatin C-based
