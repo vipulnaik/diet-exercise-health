@@ -1013,16 +1013,30 @@ estimate using cystatin C is 88, whereas the ones using creatinine
 have been in excess of 110, due to lower-than-usual creatinine levels
 which might be related to low overall muscle mass.
 
+I started creatine supplementation in 2025, initially in the form of
+gummies; later I switched to powder. See
+[here](../events/2025/2025-07-06-creatine-purchase.md) for
+details. The September 2025 test is after I started the gummies. As
+creatinine is one of the breakdown products of creatine, it is
+possible that the slightly higher reading in September 2025 reflects
+the increased creatine consumption. However, gummies are in general
+not that effective and my dose was low, so it will be interesting to
+see how the creatinine level evolves after the switch to powder. I did
+also test a serum *creatine* level in September 2025, which was at 0.1
+mg/dL (on the low end) but there isn't a lot of study yet of how to
+interpret serum creatine.
+
 Below are my recent readings:
 
-Reading date | Type of measurement | eGFR (mL/min/1.73 m^2)
--- | -- | --
-2025-01-22 (January 2025) | cystatin C | 88
-2025-01-22 (January 2025) | creatinine | 121
-2024-12-13 (December 2024) | creatinine | 119
-2024-09-03 (September 2024) | creatinine | 114
-2024-04-30 (April 2024) | creatinine | 113
-2016-12-12 (Decemeber 2016) | creatinine | 133
+Reading date | Type of measurement | Measurement (mg/dL) | eGFR (mL/min/1.73 m^2)
+-- | -- | -- | --
+2025-09-10 (September 2025) | creatinine | 0.82 | 115
+2025-01-22 (January 2025) | cystatin C | 0.97 | 88
+2025-01-22 (January 2025) | creatinine | 0.69 | 121
+2024-12-13 (December 2024) | creatinine | 0.74 | 119
+2024-09-03 (September 2024) | creatinine | 0.84 | 114
+2024-04-30 (April 2024) | creatinine | 0.87 | 113
+2016-12-12 (Decemeber 2016) | creatinine | 0.62 | 133
 
 Based on the general guidance, I am inclined to discard the
 creatinine-based estimates and focus on the cystatin C-based
@@ -1052,19 +1066,26 @@ tests in April 2024. Part of a comprehensive metabolic panel is the
 basic metabolic panel, that includes measurements of various key
 electrolytes including sodium, potassium, chloride, and bicarbonate.
 
-For all of these, I've always stayed within range. For sodium, all
-readings have been close to the middle of the range, which is as
-expected for a well-functioning system, since sodium concentration is
-the most tightly regulated. The range is about 134-144 mmol/L.
+For all of these, I've always stayed within range.
+
+#### Sodium
+
+For sodium, all readings have been close to the middle of the range,
+which is as expected for a well-functioning system, since sodium
+concentration is the most tightly regulated. The range is variously
+reported as 134-144 mmol/L and 135-146 mmol/L.
 
 Below are my four most recent sodium readings:
 
 Reading date | Sodium measurement (mmol/L)
 -- | --
+2025-09-10 (September 2025) | 141
 2025-01-22 (January 2025) | 141
 2024-12-13 (December 2024) | 139
 2024-09-03 (September 2024) | 139
 2024-04-30 (April 2024) (not fasting) | 140
+
+#### Chloride
 
 For chloride, I have stayed within the range of about 96 to 106 mmol/L
 and generally been in the upper half of the range, with decent
@@ -1072,20 +1093,105 @@ fluctuation.
 
 Reading date | Chloride measurement (mmol/L)
 -- | --
+2025-09-10 (September 2025) | 103
 2025-01-22 (January 2025) | 103
 2024-12-13 (December 2024) | 101
 2024-09-03 (September 2024) | 103
 2024-04-30 (April 2024) (not fasting) | 105
 
-Potassium is a little less tightly controlled, with a range of 3.5 to
-5.2 mmol/L. I've generally stayed around the middle of this wide range.
+#### Potassium
 
-Reading date | Potassium measurement (mmol/L)
--- | --
-2025-01-22 (January 2025) | 4.4
-2024-12-13 (December 2024) | 4.3
-2024-09-03 (September 2024) | 4.5
-2024-04-30 (April 2024) (not fasting) | 4.1
+Potassium is in general a little less tightly controlled, with a range
+of 3.5 to 5.2 mmol/L.
+
+I've generally stayed around the middle of this wide range. The
+fluctuations within this range are some mix of noise (potassium
+collection is influenced by the exact way the sample is managed and
+fist-clenching details) but, with the notable exception of September
+2024, the data tentatively suggests that my potassium levels are a
+little higher (by about 0.2-0.3 mmol/L) when my dietary potassium
+consumption is a lot higher in the winter months.
+
+Reading date | Potassium measurement (mmol/L) | Average daily potassium consumption in mg | Estimation method
+-- | -- | -- | --
+2025-09-10 (September 2025) | 4.1 | 3120 | Food preparations and openings (with completion data)
+2025-01-22 (January 2025)   | 4.4 | 4935 | Food preparations and openings (no completion data)
+2024-12-13 (December 2024)  | 4.3 | 5044 | Food preparations and openings (no completion data)
+2024-09-03 (September 2024) | 4.5 | 3456 | Food preparations and openings (no completion data)
+2024-04-30 (April 2024) (not fasting) | 4.1 | N/A | Food purchases (but I haven't constructed the query yet)
+
+```sql
+select avg(potassium_in_mg) from interpolated_nutrient_consumption where datediff(<test date>,consumption_date) between 1 and 7;
+```
+
+Note that this interpolates data for openings that happened more than
+a week ago; consumption is assumed to be evenly spread between opening
+and completion, so a potassium-containing food opened 10 days before
+the blood test and completed 5 days before the blood test will
+contribute to potassium consumption for the overlap with the past week
+(7, 6, and 5 days ago).
+
+I started recording completions on 2025-03-01 (March 2025), so
+interpolated consumption estimation is more reliable after that. For
+the period prior to that, I estimate completion based on my general
+pattern of how long I normally take to complete items, but it doesn't
+account for how long I actually took. In addition, the estimates can
+fluctuate depending on when I run the query, as "how long I normally
+take to complete" the specific item can change over time, affecting
+the estimate.
+
+I started recording food preparations
+and openings on 2024-05-30 (May 2024) so I can only use it for blood
+tests from that point onward.
+
+#### BUN
+
+My blood urea nitrogen (BUN) levels have tended to fluctuate in the
+range of 13 to 17 based on my protein intake, being on the higher end
+in winter months when my overall food consumption increases (due to
+greater energy needs for thermal regulation) and my protein
+consumption increases alongside. My one fairly low BUN reading of 6 in
+September 2024 was during a period where my protein consumption
+dropped significantly due to FODMAP restriction.
+
+Reading date | BUN (mg/dL) | Average daily protein consumption in grams | Estimation method
+-- | -- | -- | --
+2025-09-10 (September 2025) | 13 |  76.3 | Food preparations and openings (with completion data)
+2025-01-22 (January 2025)   | 15 | 106.5 | Food preparations and openings (no completion data)
+2024-12-13 (December 2024)  | 17 | 108.5 | Food preparations and openings (no completion data)
+2024-09-03 (September 2024) |  6 |  49.7 | Food preparations and openings (no completion data)
+2024-04-30 (April 2024) (not fasting) | 14 | N/A | Food purchases (but I haven't constructed the query yet)
+2016-12-12 (December 2016)  | 13 | N/A | I don't have any available data
+
+When preparations and openings data is available, I use the following
+command to get average protein consumption in the *week* prior to the
+test:
+
+```sql
+select avg(protein_in_grams) from interpolated_nutrient_consumption where datediff(<test date>,consumption_date) between 1 and 7;
+```
+
+Note that this interpolates data for openings that happened more than
+a week ago; consumption is assumed to be evenly spread between opening
+and completion, so a protein-containing food opened 10 days before the
+blood test and completed 5 days before the blood test will contribute
+to protein consumption for the overlap with the past week (7, 6, and 5
+days ago).
+
+I started recording completions on 2025-03-01 (March 2025), so
+interpolated consumption estimation is more reliable after that. For
+the period prior to that, I estimate completion based on my general
+pattern of how long I normally take to complete items, but it doesn't
+account for how long I actually took. In addition, the estimates can
+fluctuate depending on when I run the query, as "how long I normally
+take to complete" the specific item can change over time, affecting
+the estimate.
+
+I started recording food preparations
+and openings on 2024-05-30 (May 2024) so I can only use it for blood
+tests from that point onward.
+
+#### Bicarbonate / carbon dioxide
 
 Bicarbonate also has a wide range. Mine has generally been in the
 upper half of the range, which might be correlated to my efforts to
@@ -1641,18 +1747,26 @@ My current supplement regime as of July 2025 is:
 
 * 1 daily vegan n-acetylcysteine with selenium (600 mg).
 
-* 1 to 3 daily creatine gummies (1 gram to 3 grams); as of July 22,
-  2025, I am ramping the dose up from 1 daily to 3 daily over a few
-  weeks. See [here](../events/2025/2025-07-06-creatine-purchase.md)
-  for details.
+* 1 to 5 grams of creatine powder; as of October 2025, I am ramping
+  the dose up from 1 gram to 5 grams. I previously tried creatine
+  gummies but didn't like them and encountered information that they
+  are likely less effective. See
+  [here](../events/2025/2025-07-06-creatine-purchase.md) for details.
 
-* Occasional Atrantil consumption in case of significant abdominal discomfort
+* 1 gram per day (two 500 mg capsules) of amla. See
+  [here](../events/2025/2025-09-29-amla-purchase.md) for details.
 
 * Occasional Vitamin C supplement
   * I generally take this before or after events where I expect to be
     more exposed to infection; I don't think I am deficient in Vitamin
     C at all, but since it's water-soluble, excess can easily flow
     out.
+
+As of October 2025, I plan to not replenish stocks for these once the
+existing stocks expire:
+
+* Occasional Atrantil consumption in case of significant abdominal
+  discomfort
 
 * Occasional Vitamin B Complex supplement I may take this occasionally
   (I stopped taking this after suspecting that it was contributing to
