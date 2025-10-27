@@ -1205,3 +1205,12 @@ the trip details.
 On Thursday 2025-10-23, I skipped strength exercises. I had to deal
 with a number of time-sensitive items after returning from jogging,
 and I ended up missing the time window for strength exercises.
+
+## 2025-10-27: reduced at-home jogging and skipped strength exercises
+
+On Monday 2025-10-27, I did reduced at-home jogging (20 minutes minus
+interruptions, so effectively about 15 minutes, instead of the usual
+full at-home jogging duration of 30 minutes) and skipped strength
+exercises. This was mostly due to a mix of scheduling considerations
+and things just getting very late (I did not want to delay my meal
+time too much).
