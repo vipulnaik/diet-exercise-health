@@ -1330,7 +1330,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-24','TJ Miso Ginger Broth',1,2,null,null),
   ('2025-10-25','TJ Carb Savvy Tortillas',1,1,'2025-10-26',2),
-  ('2025-10-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
+  ('2025-10-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-10-27',1),
   /* 2025-10-26 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, salt; skipped cayenne pepper) */
   ('2025-10-26','Eggplant',1,2,null,null),
   ('2025-10-26','TJ Kale',1,2,null,null),
