@@ -37,7 +37,33 @@ Here's what happened:
   was able to make out the words with my left ear at slightly lower
   volume.
 
-Based on this, these are the characteristics of my hearing loss:
+* Based on these, on 2024-12-23 I
+  [booked](2024-12-23-berkeley-hearing-center-call.md). an
+  audiological evaluation appointment for 2025-01-15.
+
+* On 2024-12-24 overnight into 2024-12-25, I attempted at-home wax
+  removal, but this did not succeed in or make any clear difference to
+  my hearing situation.
+
+* On 2025-01-02, I did my first round of testing with bone conduction
+  headphones purchased from Amazon. The differences between the ears
+  were much less with bone conduction headphones compared to normal
+  headphones, suggesting that the reduced hearing in left ear was
+  conductive hearing loss (involving the outer or middle ear) rather
+  than sensorineural hearing loss (involving the inner ear).
+
+* At the [appointment](../2025/2025-01-15-audiological-evaluation.md),
+  the audiologist determined that I have a lot of earwax in both ears,
+  so we decided he'll just remove the earwax from my ears and I can go
+  home and see if my hearing issues are resolved; if not, we'll do a
+  followup audiological evaluation in the office.
+
+* After the earwax removal, I subjectively experienced improvements to
+  hearing in my left ear, and when I redid the tests at home I
+  confirmed that my hearing was approximately similar between both
+  ears.
+
+These were the characteristics of my hearing loss:
 
 * Seemingly sudden, though I do not have similar data prior to
   2024-11-29. However, I do know that prior to 2024-11-29, when I used
@@ -49,6 +75,12 @@ Based on this, these are the characteristics of my hearing loss:
 
 * Overall magnitude of difference between the ears (for a blended
   track) seems to be somewhere between 10 dB and 20 dB.
+
+* Conductive rather than sensorineural, as determined by the ultimate
+  diagnosis (wax buildup, and fixed by earwax removal) and also as
+  suggested by the fact that the difference was greater for normal
+  headphones (using air conduction) compared to bone conduction
+  headphones.
 
 ## Onset on 2024-11-29 and initial notes until 2024-12-17
 
