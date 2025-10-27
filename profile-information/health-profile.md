@@ -1156,7 +1156,11 @@ in winter months when my overall food consumption increases (due to
 greater energy needs for thermal regulation) and my protein
 consumption increases alongside. My one fairly low BUN reading of 6 in
 September 2024 was during a period where my protein consumption
-dropped significantly due to FODMAP restriction.
+dropped significantly due to temporary FODMAP restriction, on top of
+overall protein consumption being low due to overall food consumption
+being low as a result of it being a warmer period; see
+[here](../events/2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md)
+for the context of the temporary dietary changes.
 
 Reading date | BUN (mg/dL) | Average daily protein consumption in grams | Estimation method
 -- | -- | -- | --
