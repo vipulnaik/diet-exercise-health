@@ -1341,7 +1341,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-26','TJ Carb Savvy Tortillas',1,2,'2025-10-27',2),
   ('2025-10-27','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
-  ('2025-10-28','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2025-10-28','TJ Carb Savvy Tortillas',1,1,'2025-10-28',2),
   ('2025-10-28','TJ Walnuts',1,1,null,null),
   ('2025-10-28','TJ Almond Milk',1,1,null,null),
   /* 2025-10-28 rice prep (second meal) (added turmeric, cumin, salt) */
