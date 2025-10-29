@@ -1214,3 +1214,14 @@ full at-home jogging duration of 30 minutes) and skipped strength
 exercises. This was mostly due to a mix of scheduling considerations
 and things just getting very late (I did not want to delay my meal
 time too much).
+
+## 2025-10-28: skipped jogging and strength exercises
+
+On Tuesday 2025-10-28, I skipped jogging and strength exercises. The
+reason is mostly running out of time; I started the day late to begin
+with, had a few work-related things to wrap up in the morning, and
+then after my hand gripper exercises I decided to get started on a few
+software updates that could proceed while I did at-home jogging. But
+there were various additional hands-on item to address along with the
+software updates and by the time I was done with those, scheduling
+considerations meant I didn't have time for exercise.
