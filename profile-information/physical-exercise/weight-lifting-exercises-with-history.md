@@ -58,10 +58,8 @@ I have two exercises, that I'll call exercise 1 and exercise 2 for
 now.
 
 I have pairs of weights of 2 lb each, 3 lb each, 5 lb each, 8 lb, 10
-lb, and 20 lb each. I don't use the 2 lb pair any more for my regular
-exercise. Here is my sequence:
-
-* 3 lb pair, exercise 1: about 15 repetitions
+lb, and 20 lb each. I don't use the 2 lb pair or 3 lb pair any more
+for my regular exercise. Here is my sequence:
 
 * 3 lb pair, exercise 2: about 15 repetitions
 
@@ -77,13 +75,14 @@ exercise. Here is my sequence:
 
 * 10 lb pair, exercise 2: about 3 to 10 repetitions
 
-* 20 lb pair, exercise 1: about 2 to 5 repetitions
+* 20 lb pair, exercise 1: about 5 to 10 repetitions
 
-* 20 lb pair, biceps curls: about 5 to 7 repetitions
+* 20 lb pair, biceps curls: about 5 to 10 repetitions
 
-* 12 lb kettlebell, squats pointing inward: about 10 repetitions
+* 12 lb kettlebell, squats pointing inward: about 20 repetitions
 
-* 12 lb kettlebell, squats pointing outward: about 10 repetitions
+* 12 lb kettlebell, squats pointing outward: about 15 to 20
+  repetitions
 
 The reason I always start with the 3 lb is for a mix of warmup and
 verification purposes. If, on a given day, I find that the 3 lb pair

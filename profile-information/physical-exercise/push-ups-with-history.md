@@ -57,7 +57,7 @@ fist, specifically, the portion between the MCP and PIP joints.
 Starting 2025-06-25, I try to do a few fist push-ups. I might do them
 either before or after standard push-ups.
 
-The number of fist push-ups is in the range of 2 to 7. The number is
+The number of fist push-ups is in the range of 5 to 10. The number is
 at the high end of the range if I do fist push-ups before standard
 push-ups, and at the low end of the range if I do standard push-ups
 before fist push-ups.
@@ -96,6 +96,8 @@ push-ups and on both days I could do 2 fist push-ups.
 
 On 2025-07-02, I did fist push-ups before regular push-ups and I
 managed 5 fist push-ups followed by 13 regular push-ups.
+
+### 2025-10-24: fist push-ups update
 
 As of 2025-10-24, I am generally able to do somewhere between 6 and 9
 fist push-ups. The total number of fist push-ups and standard push-ups
