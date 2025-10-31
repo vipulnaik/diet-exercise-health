@@ -1225,3 +1225,12 @@ software updates that could proceed while I did at-home jogging. But
 there were various additional hands-on item to address along with the
 software updates and by the time I was done with those, scheduling
 considerations meant I didn't have time for exercise.
+
+## 2025-10-30: skipped all exercises
+
+On Thursday 2025-10-30, I skipped all exercises. The reason is that I
+wanted to start potatoes prep early in the morning in order to benefit
+from it for my first meal and also do laundry later in the
+afternoon. I had a couple of meetings in the morning and early
+afternoon, so I didn't have the flexibility to squeeze in exercise if
+I wanted to be on the computer and active for my meetings.
