@@ -1660,54 +1660,9 @@ For blood test results that include results for the quantity of the
 materials supplemented, see
 [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql).
 
-### November 2017: start of supplementation with Vitamin D, Vitamin B12, and calcium/magnesium/zinc
-
-I started this supplementation after my November 2017 India visit
-where I learned more about my family health history and got my vitamin
-levels tested to identify my deficiency. I subsequently switched to
-brands that were locally available.
-
-### December 2019: start of omega-3 supplementation
-
-See [here](../events/2019/2019-12-30-decision-to-start-taking-omega-3-supplements.md)
-for details of my decision process.
-
-### July 2021: switch to Doctor's Best for Vitamin D supplementation
-
-In July 2021, shortly after my [2021 blood test that confirmed my
-continued good Vitamin D levels](../events/2021/2021-blood-test-plans.md), I switched
-to a vegan 2500 IU Vitamin D3 supplement from Doctor's Best. I had
-previously used the 2000 IU supplement from Finest Nutrition.
-
-### September 2024: increase to dose and diversity of omega-3 supplements
-
-* [2024-09-25: decision to increase omega-3 supplement daily dose](../events/2024/2024-09-25-decision-to-increase-omega-3-supplement-daily-dose.md)
-* [2024-09-28: decision to experimentally add another omega-3 supplement](../events/2024/2024-09-28-decision-to-experimentally-add-another-omega-3-supplement.md)
-
-The net of these two decisions is that I now have one dose of
-Freshfield and one dose of sapling, both vegan omega-3 supplements.
-
-### October 2024: experimentation with Atrantil
-
-See
-[2024-10-02-atrantil-purchase.md](../events/2024/2024-10-02-atrantil-purchase.md)
-for more information.
-
-### October and November 2024: introduction of lysine and n-acetylcysteine
-
-See
-[2024-10-16-lysine-purchase.md](../events/2024/2024-10-16-lysine-purchase.md)
-and
-[2024-10-16-n-acetyl-cysteine-purchase.md](../events/2024/2024-10-16-n-acetyl-cysteine-purchase.md).
-
-### July 2025: introduction of creatine
-
-See
-[2025-07-06-creatine-purchase.md](../events/2025/2025-07-06-creatine-purchase.md).
-
 ### Current supplements
 
-My current supplement regime as of July 2025 is:
+My current supplement regime as of October 2025 is:
 
 * 1 daily 2500 IU vegan Vitamin D3 from Doctor's Best
   * My measured Vitamin D level is solidly in the normal range, but
@@ -1783,6 +1738,51 @@ existing stocks expire:
 With the exception of the occasional Vitamin C supplement and
 occasional Vitamin B Complex supplement, I have all of these with my
 first meal of the day.
+
+### November 2017: start of supplementation with Vitamin D, Vitamin B12, and calcium/magnesium/zinc
+
+I started this supplementation after my November 2017 India visit
+where I learned more about my family health history and got my vitamin
+levels tested to identify my deficiency. I subsequently switched to
+brands that were locally available.
+
+### December 2019: start of omega-3 supplementation
+
+See [here](../events/2019/2019-12-30-decision-to-start-taking-omega-3-supplements.md)
+for details of my decision process.
+
+### July 2021: switch to Doctor's Best for Vitamin D supplementation
+
+In July 2021, shortly after my [2021 blood test that confirmed my
+continued good Vitamin D levels](../events/2021/2021-blood-test-plans.md), I switched
+to a vegan 2500 IU Vitamin D3 supplement from Doctor's Best. I had
+previously used the 2000 IU supplement from Finest Nutrition.
+
+### September 2024: increase to dose and diversity of omega-3 supplements
+
+* [2024-09-25: decision to increase omega-3 supplement daily dose](../events/2024/2024-09-25-decision-to-increase-omega-3-supplement-daily-dose.md)
+* [2024-09-28: decision to experimentally add another omega-3 supplement](../events/2024/2024-09-28-decision-to-experimentally-add-another-omega-3-supplement.md)
+
+The net of these two decisions is that I now have one dose of
+Freshfield and one dose of sapling, both vegan omega-3 supplements.
+
+### October 2024: experimentation with Atrantil
+
+See
+[2024-10-02-atrantil-purchase.md](../events/2024/2024-10-02-atrantil-purchase.md)
+for more information.
+
+### October and November 2024: introduction of lysine and n-acetylcysteine
+
+See
+[2024-10-16-lysine-purchase.md](../events/2024/2024-10-16-lysine-purchase.md)
+and
+[2024-10-16-n-acetyl-cysteine-purchase.md](../events/2024/2024-10-16-n-acetyl-cysteine-purchase.md).
+
+### July 2025: introduction of creatine
+
+See
+[2025-07-06-creatine-purchase.md](../events/2025/2025-07-06-creatine-purchase.md).
 
 ### Other one-off supplement consumption
 
