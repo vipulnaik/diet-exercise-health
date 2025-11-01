@@ -46,13 +46,14 @@ adjusted based on factors such as the following:
   and it may only be possible to book 3+ weeks in advance.
 
 * (local IM pre / good time of day and day of week; recovery / general
-  energy conservation): Preferable date / time: Friday 3 PM (but
-  confirm free on both personal and work calendar); this minimizes
-  interference with my day job and the time is usually free. Another
-  reason to do Friday rather than Wednesday is that vaccines impose
-  greater recovery costs than many other medical procedures, so having
-  a vaccine on a Friday allows for less interference with day job
-  during the recovery process.
+  energy conservation): Preferable date / time: Friday or Saturday 3
+  PM (but confirm free on both personal and work calendar); this
+  minimizes interference with my day job and the time is usually
+  free. Another reason to do Friday or Saturday rather than Wednesday
+  is that vaccines impose greater recovery costs than many other
+  medical procedures, so having a vaccine on a Friday or Saturday
+  allows for less interference with day job during the recovery
+  process (as the next day is off work).
 
 * (local IM pre / free time; regional IM pre / busyness) Check for
   appointments and other commitments on the day of booking or the two
