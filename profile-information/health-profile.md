@@ -1735,9 +1735,9 @@ existing stocks expire:
   (I stopped taking this after suspecting that it was contributing to
   my abdominal discomfort).
 
-With the exception of the occasional Vitamin C supplement and
-occasional Vitamin B Complex supplement, I have all of these with my
-first meal of the day.
+I generally have supplements with the first meal of the day. For some,
+such as creatine and amla, I split consumption across two times in the
+day.
 
 ### November 2017: start of supplementation with Vitamin D, Vitamin B12, and calcium/magnesium/zinc
 
