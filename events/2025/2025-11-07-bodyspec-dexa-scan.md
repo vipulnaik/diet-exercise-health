@@ -4,7 +4,7 @@ Sections of this document:
 
 * [General background](#general-background)
 * [Appointment booking](#appointment-booking)
-* [Preparation](#preparation)
+* [Prior preparation](#prior-preparation)
 
 ## General background
 
@@ -93,7 +93,7 @@ appointment duration as added to calendar was 12:15 PM to 12:27 PM,
 same as for the now-cancelled appointment. Later, I removed the
 similarly added event for the original appointment time.
 
-## Preparation
+## Prior preparation
 
 I took the following preparatory steps:
 
