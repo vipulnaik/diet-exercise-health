@@ -1,6 +1,6 @@
 # Things to investigate
 
-List last updated: 2025-02-26
+List last updated: 2025-11-01
 
 Time on these things would be in a mix of personal chores and other
 activities buckets. The other activities bucket would be used for
@@ -37,41 +37,10 @@ time-sensitive.
 
 ## Tests
 
-* Execute on [2025 blood test plans: round
-  2](../events/2025/2025-blood-test-plans-round-2.md).
+* Finish data entry for blood tests done 2025-09-10.
 
-* Finish data entry for blood tests done 2025-01-22.
-
-  * Look into 23andMe MTHFR stuff and methylated B vitamin
-    investigation in connection with homocysteine analysis.
-
-* Look into DEXA scans to be done in 2025. For instance, whole-body
-  scans by BodySpec (see
-  [here](https://www.bodyspec.com/blog/post/dexa_faq)) or do I want a
-  more specialized one? I likely only need one every 5 years or so if
-  it comes out okay.
-
-  Likely action: May/June 2025; continued research and work on myself
-  until then
-
-  Progress so far:
-
-  * I wrote [best practices around DEXA
-    scans](../best-practices/best-practices-around-dexa-scans.md).
-
-  * I've watched a few videos and have some further material to watch.
-
-  * I plan to get the DEXA around May/June 2025 (as I want to focus my
-    energy on other things right now). I also plan to continue
-    focusing on exercises and other practices that are expected to
-    improve the underlying data for the time being. The reason for not
-    getting the DEXA sooner is that I don't expect the DEXA to be
-    decision-relevant for the near term -- for a wide range of
-    plausible outcomes, I expect the same action items in the near
-    term. The DEXA is more useful as a long-term benchmark, and it
-    would be more interesting to get this benchmark after more time
-    following the kind of exercise regimen that I think is both
-    desirable and sustainable.
+* Look into 23andMe MTHFR stuff and methylated B vitamin
+  investigation in connection with homocysteine analysis.
 
 * Get a heart echocardiogram, ECG. etc. For instance,
   https://www.lifelinescreening.com/lp/vascular-screening-nurse offers

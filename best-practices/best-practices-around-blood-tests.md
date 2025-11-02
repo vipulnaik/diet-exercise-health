@@ -149,8 +149,10 @@ around if things happen at work.
 
 * (local IM post / on-call) Maintenance windows for work alerts where
   I'm primary: I can set these up when the appointment time is
-  confirmed. Generally, set the maintenance window to start two hours
-  prior to the start and end five hours after the end.
+  confirmed. Generally, set the maintenance window to start at 9 PM
+  the previous night and end five hours after the end. Also include in
+  the maintenance window any services with 24 X 7 notification, with
+  the exception of services that I have good reason to exclude.
 
 * (local IM post / on-call) Overrides for me for services where I
   rotate with others: Try for the override to be a full-day override

@@ -12,8 +12,10 @@ testing.
 Of the principles listed in the document, the following are
 inapplicable and hence omitted:
 
-* (local IM post / calendar) The scan will be on a weekend so work
-  calendar stuff doesn't apply.
+* (local IM post / calendar) The scan will usually be on a weekend so
+  work calendar stuff doesn't apply. However, if for logistical
+  reasons I need to book on a weekday, I should follow those
+  additional steps from my medical appointments best practices.
 
 * (preparation / general energy conservation)
   (preparation / local rest)
@@ -33,7 +35,6 @@ inapplicable and hence omitted:
   non-obvious ways. Of course, if I do feel fatigued by the whole
   trip, I can skip exercise the next day but this will be a
   case-by-case determination rather than a general principle.
-  
 
 ## (local IM pre / book in advance) Book the appointment
 
@@ -120,8 +121,11 @@ location, and return about 1 to 1.5 hours after leaving.
 
 * (local IM post / on-call) Maintenance windows for work alerts where
   I'm primary: I can set these up when the appointment time is
-  confirmed. Generally, set the maintenance window to start two hours
-  prior to the start and end five hours after the end.
+  confirmed. Generally, set the maintenance window to start at 9 PM
+  the previous night and end five hours after the end of the
+  appointment. Also include in the maintenance window any services
+  with 24 X 7 notification, with the exception of services that I have
+  good reason to exclude.
 
 * (local IM post / on-call) Overrides for me for services where I
   rotate with others: Try for the override to be a full-day override
@@ -176,9 +180,12 @@ considering that it's a bigger amount of travel to a more far-off
 location, so it uses up more time and leaves less time for other
 things.
 
-### (local IM post / weather check) Weather check reminder for two days prior to the appointment
+### (local IM post / weather check) Weather and BART check reminder for two days prior to the appointment
 
-Set a weather check reminder for two days prior to the appointment.
+Set a weather check reminder for two days prior to the
+appointment. Also check the situation with BART, so that if there is a
+relevant BART advisory, I can plan accordingly (either take an earlier
+BART train or take AC Transit line F instead).
 
 ### (preparation / accuracy of testing) Reminder to skip exercise starting the day prior to the DEXA scan
 
@@ -204,7 +211,7 @@ Make sure I have the right stuff to empty my pockets into my backpack
 (keys, wallet, etc. would need to be removed from my pockets during
 the scan).
 
-### (preparation / direct; recovery / documentation and processing) Make a document in `events/<year>` titled `<YYYY-MM-DD>-dexa-scan.md`
+### (preparation / direct; recovery / documentation and processing) Make a document in `events/<year>` titled `<YYYY-MM-DD>-<provider slug (such as bodyspec)>-dexa-scan.md`
 
 Follow the structure of previous documents of this sort. This is the
 document that I will continue to update and expand upon over time,
