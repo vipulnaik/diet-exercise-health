@@ -3,7 +3,7 @@
 Sections of this document:
 
 * [General background](#general-background)
-* [Booking process](#booking-process)
+* [Appointment booking](#appointment-booking)
 * [Preparation](#preparation)
 
 ## General background
@@ -32,7 +32,7 @@ get too deep into winter. Winter is less pleasant both due to rain
 load of cyclic personal chores due to greater appetite. Therefore, I
 started the process of booking my appointment.
 
-## Booking process
+## Appointment booking
 
 ### Initial appointment booking on Thursday 2025-10-30 for Sunday 2025-11-09
 
