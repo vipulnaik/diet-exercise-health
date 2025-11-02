@@ -95,6 +95,8 @@ similarly added event for the original appointment time.
 
 ## Prior preparation
 
+### Calendar reminders and other steps on 2025-11-01
+
 I took the following preparatory steps:
 
 * I created a calendar reminder from 7 AM to 4 PM for the day of the
