@@ -171,6 +171,13 @@ more water to address it.
 
 ### Greater saliva production
 
+NOTE: See the later [Internet research](#internet-research) section
+and the [associated section from the next dental
+cleaning](2024-10-09-dental-cleaning.md#discussion-of-excess-saliva-production)
+for more on the mechanism causing the excess salivation. The TL;DR is
+that this is likely due to keeping my mouth open too wide for too long
+without breaks.
+
 The night of the cleaning (2024-04-03), I had some drool, which I
 don't usually have. The next day (2024-04-04), around 2 PM (shortly
 after having a long 2-hour meeting where I talked for a large
