@@ -90,20 +90,19 @@ adjusted based on factors such as the following:
 * Review the email received for details such as what to carry, when to
   arrive.
 
-* (local IM post / mark-on-calendar) Add the vaccine appointment to
-  the calendar, with the calendar event starting 2.5 hours prior to
-  the appointment time and ending 2.5 hours after the appointment
-  time. Invite my work email address as well so that the time range
-  shows as blocked on the work calendar as well.
-
-  The actual appointment time should be noted in the calendar event. I
-  should aim to arrive at the location about 10 minutes prior to the
-  reporting time (which is generally 15 minutes prior to the
-  appointment, so in total it's 25 minutes prior to the appointment).
-
 ## Calendar reminders and other preparation
 
-Add the following calendar reminders.
+### (local IM post / mark-on-calendar) Add the vaccine appointment to the calendar
+
+The calendar event should start 2.5 hours prior to the appointment
+time and end 2.5 hours after the appointment time. Invite my work
+email address as well so that the time range shows as blocked on the
+work calendar as well.
+
+The actual appointment time should be noted in the calendar event. I
+should aim to arrive at the location about 10 minutes prior to the
+reporting time (which is generally 15 minutes prior to the
+appointment, so in total it's 25 minutes prior to the appointment).
 
 ### ASAP after the appointment date and time are confirmed
 
@@ -168,6 +167,8 @@ Set a weather check reminder for two days prior to the appointment.
 * (recovery / local rest + reduced capacity + increased injury
   risk) Resume reminder for strength exercises: Nine days after the
   vaccine appointment
+
+### Reminders to check and update records
 
 * (recovery / documentation and processing) Reminder to update
   internal records: One day after the vaccine appointment:
