@@ -159,14 +159,20 @@ shopped for ahead of the appointment if possible.
     pausing sauerkraut about a week prior to the appointment in case
     of existing or recent mouth ulcers: If I currently have mouth
     ulcers, or have had them recently, consider pausing sauerkraut
-    about a week prior to the dental cleaning.
+    about a week prior to the dental cleaning. NOTE: Further
+    information gleaned through the execution of the dental self-exam
+    checklist one week before the dental cleaning may lead me to
+    modify the decision.
 
   * Decide (and set a reminder if the decision is positive) whether to
     pause walnuts about 5-6 days prior to the appointmentif I have had
     mouth ulcers or recent mouth bites: appointment. However, when
     pausing walnuts, I should review my calorie, fiber,
     polyunsaturated fat, and protein intakes to make sure that
-    stopping these will not result in a significant drop.
+    stopping these will not result in a significant drop. NOTE: Further
+    information gleaned through the execution of the dental self-exam
+    checklist one week before the dental cleaning may lead me to
+    modify the decision.
 
 * Reminder for the morning of the appointment: Skip sauerkraut and
   walnuts, to reduce the risk of mouth bites or irritation right
@@ -183,11 +189,21 @@ shopped for ahead of the appointment if possible.
     (walnuts on the evening of, sauerkraut the next morning, and
     cayenne pepper with any meal prep at least two days out).
 
-### (preparation / direct) Reminder to execute the dental self-exam checklist two days prior to the appointment
+### (preparation / direct) Reminder to execute the dental self-exam checklist one week prior to the appointment
 
 The reminder is to execute the [dental self-exam
 checklist](../checklists/dental-self-exam-checklist.md) and log it as
 usual in the [logs](../logs/dental-self-exam-checklist-log.md).
+
+I should do this about one week prior to the dental cleaning. The
+reason to do it sufficiently in advance is two-fold:
+
+* If there is new information I learn, I can do further research on
+  it, and take additional precautions, before the dental cleaning.
+
+* If the pressure testing reveals and exacerbates pain and
+  inflammation that I didn't know about, I have enough time for
+  recovery before the dental cleaning.
 
 ### (preparation / direct) Reminder to do normal face shaving 1 or 2 days prior to appointment and discard razor used
 
@@ -222,18 +238,12 @@ handled the previous night, so that even if I'm in a rush I don't miss
 doing it. This includes any planning for additional things I hope to
 do in the trip after the appointment.
 
-### (recovery / documentation and processing) Reminder to execute the dental self-exam checklist and document the dental cleaning on the evening of the cleaning
+### (recovery / documentation and processing) Reminder to document the dental cleaning on the evening of the cleaning
 
-The reminder is to execute the [dental self-exam
-checklist](../checklists/dental-self-exam-checklist.md) and log it as
-usual in the [logs](../logs/dental-self-exam-checklist-log.md), then
-also document the dental cleaning event itself.
+I should document the dental cleaning as soon as I can.
 
-If I am time-constrained, I should priorize documentation of the
-dental cleaning itself. If I don't even have time to fully document
-the dental cleaning, I should note key points to myself to be fleshed
-out later. The dental self-exam checklist execution can be deferred by
-up to one week.
+If I don't even have time to fully document the dental cleaning, I
+should note key points to myself to be fleshed out later.
 
 For documentation, a few things to make sure to cover in addition to
 writing the document itself:
@@ -243,6 +253,24 @@ writing the document itself:
 * Add row to [doctor_visits.sql](../sql/doctor_visits.sql)
 * Update latest dental cleaning link in
   [health-profile.md](../profile-information/health-profile.md)
+
+### (recovery / documentation and processing) Reminder to execute dental self-exam checklist one week after the cleaning
+
+The reminder is to execute the [dental self-exam
+checklist](../checklists/dental-self-exam-checklist.md) and log it as
+usual in the [logs](../logs/dental-self-exam-checklist-log.md), then
+also document the dental cleaning event itself.
+A time of 1 week is to give the teeth and gums time to recover from
+any trauma, inflammation, or excess salivary response they experienced
+as a result of the cleaning, and also to spread out the time effort
+because things are likely anyway hectic after the dental cleaning.
+
+It's okay to delay the dental self-exam checklist by up to 1 more week
+after the 1 week (total of 2 weeks). 2 weeks is about the timeframe
+within which I don't expect significant changes, so that it should
+still be a reasonable approximation to the starting state of my teeth
+after the cleaning. Delaying further runs the risk of picking up
+plaque accumulation and staining after the cleaning.
 
 ### (recovery / local rest + reduced capacity + increased injury risk) Reminder to drink plenty of water and keep my talking load low for the two days after the appointment (to minimize and better address the risk of excess salivation)
 

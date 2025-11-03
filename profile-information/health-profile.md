@@ -285,21 +285,26 @@ once it is done.
     may on occasion use a sodium fluoride toothpaste when a stannous
     fluoride toothpaste is unavailable.
 
-    When brushing, I cover my front and back teeth with several
-    strokes, my tongue with a few strokes, and do a light run over my
-    gums and cheek.
+    When brushing, I cover my front and back teeth (up to and going
+    slightly beyond the tooth-gum interface) with several strokes. I
+    do the back teeth first, then front teeth, then back teeth again,
+    in light of greater plaque and staining potential for back
+    teeth. I also cover my tongue and cheek, and do a final round
+    focused on the gums.
 
-    About once every 2 to 5 days, after regular brushing,I lightly brush my back teeth with a small amount of baking soda toothpaste, to reduce staining of the back teeth.
+    About once every 2 to 5 days (aspirationally every 3 to 4 days),
+    after regular brushing, I lightly brush my back teeth with a small
+    amount of baking soda toothpaste, to reduce staining of the back
+    teeth.
 
-  * I floss and rinse (with saltwater) about 15 to 75 minutes after
-    the completion of each meal (generally, I do this after finishing
-    the rest of post-meal cleanup, so how long after the meal it
-    happens depends on how long the cleanup takes), so I floss twice a
-    day and rinse twice a day. I use an interdental brush for flossing
-    for one meal per day and a floss pick for flossing for the other
-    meal. When using the interdental brush, I floss before rinsing,
-    whereas when using the floss pick, I rinse before flossing. For
-    rinsing, I use saltwater; I don't use a mouthwash.
+  * I floss and rinse (with saltwater) about 15 to 75 minutes
+    (aspirationally about 30 to 45 minutes) after the completion of
+    each meal, so I floss twice a day and rinse twice a day. I use an
+    interdental brush for flossing for one meal per day and a floss
+    pick for flossing for the other meal. When using the interdental
+    brush, I floss before rinsing, whereas when using the floss pick,
+    I rinse before flossing. For rinsing, I use saltwater; I don't use
+    a mouthwash.
 
 * Additionally, I execute the [dental self-exam
   checklist](../checklists/dental-self-exam-checklist.md) every 2 to 4

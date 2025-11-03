@@ -5,13 +5,11 @@ Health Dental Care at 3017 Telegraph Avenue for a regular dental
 cleaning at 1 PM. The previous dental cleaning had been on
 [2025-04-16](2025-04-16-dental-cleaning.md).
 
-NOTE: The dental cleaning appointment is over and the main thing
-flagged is that I have a bit more gum inflammation than usual. I need
-to document details of the cleaning itself and of my further thinking
-around the potential causes for this flagging and the changes that I
-will or won't make in response. However, the process of writing these
-notes may take some time. As of now, I have private notes that I hope
-to flesh out later.
+TODO: As of Sunday 2025-11-02, two things are pending, both of which I
+have calendar reminders for:
+
+* Dental self-exam checklist execution for after the dental cleaning
+* Scheduling of calendar reminders associated with the next dental cleaning
 
 Sections of this document:
 
@@ -190,6 +188,12 @@ the morning of the dental cleaning:
 * 12:39 PM: I finished check-in with the remote receptionist and sat
   down to wait for the appointment.
 
+### Next appointment
+
+My next appointment was automatically scheduled for Wednesday
+2026-04-29 at 1 PM even while I was waiting for the appointment to
+start. I got the email message about it at 12:52 PM.
+
 ### Getting set in the dental chair
 
 Around 1 PM (I didn't note the exact time) I was called in by the
@@ -350,6 +354,10 @@ which point I was reasonably confident that my mouth had fully healed.
 
 ## Further reflection and practice updates
 
+NOTE: This section was written on Sunday 2025-11-02, 11 days after the
+dental cleaning, but based on bullet points written immediately after
+the dental cleaning, further refined over the next few days.
+
 The unexpectedly negative results of the dental cleaning left me
 pondering what had changed, and what I should do differently going
 forward. Some of the improvements going forward may not specifically
@@ -490,6 +498,22 @@ between cleanings:
 
 * No tooth pain and gum bleeding (outside of during dental self-exam),
   normally I might have 1 or 2 minor incidents of gum bleeding
+
+#### Confounding factor of hygienist technique
+
+I had a new hygienist this time, whose technique was likely somewhat
+different (for instance, no mouthwash rinse, prophy cup at end) and
+who also likely less familiar with some aspects of my mouth type. The
+hygienist also decided to be extra thorough which added to the extent
+of exposure to the dental instruments, potentially exacerbating
+bleeding.
+
+The dentist only saw my gums after the hygienist had already worked on
+them for a little bit.
+
+Overall, I don't think this was a major factor driving a difference in
+my experience, but it is a confounding consideration when interpreting
+the details.
 
 #### Overall synthesis of the data
 
@@ -648,5 +672,165 @@ Two things come to mind:
 
 ### Changes to best practices going forward
 
-TODO fill this in and also make sure I got down here all the points
-from the private notes I took after my dental cleaning.
+On the day of the dental cleaning, I noted down a bunch of ways I plan
+to improve my practices going forward, and started implementing
+them. Over the next few days, I refined this guidance further.
+
+#### Improvements to practice of getting stuck food out of the mouth immediately after meals
+
+If I notice or feel large food particles stuck in my mouth, I try to
+get them out during or after the meal.
+
+My goal is to improve my ability to sense stuck food particles and get
+them out during or immediately after the meal, including through
+tongue probing, swishing water, etc. The goal is that by the time I do
+the formal round of rinsing and flossing, there are no large particles
+that come out. This means that if a visible food particle does come
+out during the formal round of rinsing and flossing, I should consider
+it a failure of the earlier stages.
+
+Comments as of 2025-11-02: I think I'm getting a bit better at this,
+but food particles don't get stuck at every meal, so it's hard to
+gauge progress. I have, however, not been thinking about this
+consciously, and I should make sure to make the post-meal tongue probe
+more deliberate.
+
+#### Changes to timing of flossing and rinsing
+
+To combat the issue of potentially large gaps between finishing the
+meal and flossing/rinsing, I am changing my post-meal cleanup protocol
+as follows: I should target doing the flossing/rinsing at about this
+amount of time after meal, in descending order:
+
+* 30 to 45 minutes
+* 45 to 60 minutes
+* 15 to 30 minutes
+* 60 to 75 minutes
+* 0 to 15 minutes
+* 75 minutes and higher
+
+For most meals, 30 to 45 minutes is relatively easy to do if I put my
+mind to it: I simply reorder various pieces of post-meal cleanup so
+that the flossing/rinsing naturally falls within the desired
+timeframe. If my timing is a bit off, I might leak to 45 to 60
+minutes.
+
+In cases where I have a meeting shortly after the meal, that would
+mean I miss the window of up to 60 minutes, I should try for 15 to 30
+minutes or 0 to 15 minutes. This may mean doing flossing/rinsing right
+after putting food in the fridge, without the benefit of multiplexing
+with listening to stuff, and that's okay. In most cases, these are
+pre-identified circumstances.
+
+If something time-sensitive comes up in the inter-meal interlude after
+the first part of post-meal cleanup (putting food in fridge) and I
+don't want to do the entirety of the second round of post-meal cleanup
+until that is addressed, I should still consider breaking up the
+remainder of post-meal cleanup into two parts, with one part focused
+on flossing/rinsing and the second part for the more optional elements
+of cleanup. If I have time to squeeze in the flossing/rinsing part, I
+should do so.
+
+Comments as of 2025-11-02: Overall, I think I've been able to adhere
+to this timing practice pretty well, hitting 30 to 45 minutes almost
+always when there's nothing time-sensitive after the meal, with
+occasional delays to 45 to 60 minutes. I have done the 0 to 15 minutes
+and 15 to 30 minutes a few times when there was a meeting or scheduled
+event after the meal, and it's been great because in some cases that
+meeting or scheduled event lasted over an hour.
+
+#### Changes within protocol of floss pick and interdental brush use
+
+I am making two protocol changes:
+
+* (expected to add less than 5 seconds on average) Counting
+  interdental gaps: I have 14 remaining upper and 14 remaining lower
+  teeth, so that's a total of 14 - 1 = 13 gaps. I should make sure to
+  count the number of gaps I floss and rinse (separately for upper and
+  lower) and make sure I hit that number 13.
+
+  If I get to the end and don't hit the number 13, I should do another
+  round more carefully.
+
+* (expected to add about 30 seconds -- about 1 second per interdental
+  gap) Jiggling a little bit: This is based on the hygienist
+  recommendation. Rather than just going in and out, I should jiggle a
+  little bit, particlarly for the teeth on the side where it's hard to
+  get the floss pick out, because these are also the ones where food
+  can be stuck without going out. Remember to jiggle slowly and gently
+  -- the point isn't speed or force, but just multiple passes.
+
+Comments as of 2025-11-02: I have been following the improved protocl
+fairly consistently. Based on my experience, the leftmost, rightmost,
+and middle interdental gap are the ones most at risk of being missed.
+
+#### Changes within protocol of brushing teeth
+
+I am making several minor protocol changes:
+
+* (expected to add 30 to 60 seconds) Rather than start with the front
+  teeth, I plan to start with the back teeth, and alternatingly start
+  with the upper and lower back teeth (expected to add 30 to 60
+  seconds): The teeth one starts with get the most toothpaste and also
+  the best effort, and my back teeth are the ones that have been
+  lagging in general. Moreover, I still plan to come back to the back
+  teeth after the front teeth, so this effectively means I get about
+  twice the number of rounds on the back teeth as the front
+  teeth. This proportion seems better suited to the relative rates of
+  plaque accumulation and staining. This also has the advantage that
+  the front teeth are easier to see, so giving more attention to the
+  back teeth helps offset the advantage the front teeth have.
+
+* (expected to add 30 seconds) At the end, after brushing my tongue
+  and doing a light run over my cheeks, I plan to do an additional
+  round focused only on the gums (back and front) focusing on the
+  gum-tooth interface and on the gums beyond the teeth (the earlier
+  rounds also cover the gums, but only in passing from the
+  teeth). This cleans the gums and also keeps me better informed of
+  issues with the gums.
+
+#### Changes to baking soda toothpaste protocol
+
+I am not planning to make any changes to the baking soda toothpaste
+protocol, other than probably a slight increase in frequency. I'm
+aiming for something like once every 3 to 4 days on average, which
+should translate to about 45 to 60 rounds (over a period of a bit over
+180 days) as opposed to the 30 I did this time. With that said, I
+don't expect the baking soda toothpaste to be a major driver of
+greater tooth cleanliness, and should not expect it to bail me out.
+
+#### Changes to periodic checks
+
+* I plan to check the state of my back teeth regularly (just using a
+  normal mirror with the mouth wide open), perhaps not every time I
+  brush, but once every 1 to 2 days at least.
+
+* I'm planning to do the intra-oral mirror check about once a week and
+  document having done it in my Slack self-chat logs. The intra-oral
+  mirror check is fairly quick compared to the full dental self-exam,
+  and it should be enough to provide initial warning signs of plaque
+  and staining. It also means that if for some reason I don't get time
+  to do the full dental self-exam checklist, I am still moderately
+  aware of the situation with my back teeth.
+
+* I plan to stick to the intended 2-month frequency for the dental
+  self-exam checklist. If it's daunting to do it all at once, I should
+  do it in separate pieces (pressure testing and photos can be done
+  separately).
+
+* Interdental gap pressure testing is diagnostically helpful but can
+  also exacerbate issues, so I should do it carefully and not too
+  frequently. About once a month, particularly in the first few months
+  after a dental cleaning, can help me get a sense of the worsening
+  early on, allowing me to adjust practices. Since it's already in the
+  2-month dental self-exam checklist, an additional off-cycle round
+  can help provide that additional coverage.
+
+#### Changes to checks before and after the dental cleaning
+
+* I'm moving the dental self-exam checklists before and after the
+  cleaning to, respectively, one week before and one week after the
+  cleaning. This gives time to process any information gleaned, and
+  also time to recover from any temporary exacerbation of
+  inflammation. I'm reflecting these updates in the [best practices
+  doc](../../best-practices/best-practices-around-dental-cleaning-appointments.md).
