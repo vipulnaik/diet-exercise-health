@@ -1324,7 +1324,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-23','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-10-25',2),
   ('2025-10-23','TJ Roasted Seaweed',1,2,'2025-11-01',2),
   ('2025-10-24','TJ Walnuts',1,1,'2025-10-27',2),
-  ('2025-10-24','TJ Sauerkraut',1,1,null,null),
+  ('2025-10-24','TJ Sauerkraut',1,1,'2025-11-04',1),
   /* 2025-10-24 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-10-24','Lundberg Sustainable California White Basmati Rice',0.95,2,'2025-10-28',1),
   /* new bottle/packet openings as the old ones finished */
@@ -1355,7 +1355,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-30','TJ English Shelled Peas',2,1,null,null),
   ('2025-10-30','Beefsteak tomato',6,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-10-30','TJ Miso Ginger Broth',1,1,null,null),
+  ('2025-10-30','TJ Miso Ginger Broth',1,1,'2025-11-04',1),
   ('2025-10-30','TJ Carb Savvy Tortillas',1,2,'2025-11-01',1),
   ('2025-10-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-02',1),
   /* 2025-11-01 rice prep (first meal) (added turmeric, cumin, salt) */
@@ -1363,8 +1363,18 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-01','TJ Carb Savvy Tortillas',1,1,'2025-11-02',2),
   ('2025-11-01','TJ Walnuts',1,2,null,null),
-  ('2025-11-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2025-11-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-04',1),
   ('2025-11-02','TJ Roasted Seaweed',1,2,null,null),
   ('2025-11-03','TJ Carb Savvy Tortillas',1,2,null,null),
-  ('2025-11-03','TJ Almond Milk',1,2,null,null);
+  ('2025-11-03','TJ Almond Milk',1,2,null,null),
+  /* 2025-11-04 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2025-11-04','Eggplant',1,1,null,null),
+  ('2025-11-04','TJ Kale',1,1,null,null),
+  ('2025-11-04','TJ Carrots',1,1,null,null),
+  ('2025-11-04','Green bell pepper',4,1,null,null),
+  ('2025-11-04','Red bell pepper',2,1,null,null),
+  ('2025-11-04','Beefsteak tomato',9,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-11-04','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-11-04','TJ Miso Ginger Broth',1,1,null,null);
   /* Double-check the date and meal index before committing */
