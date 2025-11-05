@@ -1350,22 +1350,22 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-29','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-10-31',1),
   ('2025-10-29','TJ Carb Savvy Tortillas',1,2,'2025-10-30',2),
   /* 2025-10-30 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt -- cayenne pepper resumed after more than a week past dental cleaning) */
-  ('2025-10-30','Gold potatoes 5 lb',0.5,1,null,null),
-  ('2025-10-30','TJ Kale',1,1,null,null),
-  ('2025-10-30','TJ English Shelled Peas',2,1,null,null),
-  ('2025-10-30','Beefsteak tomato',6,1,null,null),
+  ('2025-10-30','Gold potatoes 5 lb',0.5,1,'2025-11-04',2),
+  ('2025-10-30','TJ Kale',1,1,'2025-11-04',2),
+  ('2025-10-30','TJ English Shelled Peas',2,1,'2025-11-04',2),
+  ('2025-10-30','Beefsteak tomato',6,1,'2025-11-04',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-30','TJ Miso Ginger Broth',1,1,'2025-11-04',1),
   ('2025-10-30','TJ Carb Savvy Tortillas',1,2,'2025-11-01',1),
   ('2025-10-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-02',1),
   /* 2025-11-01 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-11-01','Lundberg Sustainable California White Basmati Rice',0.95,1,null,null),
+  ('2025-11-01','Lundberg Sustainable California White Basmati Rice',0.95,1,'2025-11-04',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-01','TJ Carb Savvy Tortillas',1,1,'2025-11-02',2),
   ('2025-11-01','TJ Walnuts',1,2,null,null),
   ('2025-11-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-04',1),
   ('2025-11-02','TJ Roasted Seaweed',1,2,null,null),
-  ('2025-11-03','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-11-03','TJ Carb Savvy Tortillas',1,2,'2025-11-04',2),
   ('2025-11-03','TJ Almond Milk',1,2,null,null),
   /* 2025-11-04 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2025-11-04','Eggplant',1,1,null,null),
