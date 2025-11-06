@@ -135,3 +135,31 @@ I took the following preparatory steps:
 
 * I set a packing / prep calendar reminder for the evening prior to
   the appointment (2025-11-06).
+
+### Alarm-setting for the three days prior
+
+I set alarms for 8:30 AM and 8:45 AM for the mornings of Wednesday
+2025-11-05 and Thursday 2025-11-06. These were already my default
+alarm times, so no adjustment was needed.
+
+On Wednesday 2025-11-05, I woke up at 8:36 AM, choosing to stay in bed
+a little past the alarm time of 8:30 AM (by which time I was already
+semi-awake).
+
+### Supplement pause starting 2025-11-05
+
+On the evening of Tuesday 2025-11-04, after finishing my second meal,
+I put an upside-down plastic bag over the supplements on my table, to
+provide a visual cue reminder of my intended pause of supplements
+starting Wednesday 2025-11-05.
+
+Starting Wednesday 2025-11-05, I paused all supplements.
+
+### Weather check and BART check on the evening of 2025-11-05
+
+On the evening of Wednesday 2025-11-05, I checked the weather in both
+Berkeley and San Francisco for Friday 2025-11-07. It looked fine;
+typical moderate weather with low probability of rain in both cities.
+
+I also verified that as of now there were no BART service advisories
+for Friday 2025-11-07.
