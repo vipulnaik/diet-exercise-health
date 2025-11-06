@@ -17,6 +17,7 @@ Sections of this document:
 * [Appointment](#appointment)
 * [Immediate aftermath](#immediate-aftermath)
 * [Further reflection and practice updates](#further-reflection-and-practice-updates)
+* [Later actions](#later-actions)
 
 ## Prior preparation
 
@@ -834,3 +835,15 @@ greater tooth cleanliness, and should not expect it to bail me out.
   also time to recover from any temporary exacerbation of
   inflammation. I'm reflecting these updates in the [best practices
   doc](../../best-practices/best-practices-around-dental-cleaning-appointments.md).
+
+## Later actions
+
+### Dental self-exam checklist execution on 2025-11-05
+
+On Wednesday 2025-11-05, two weeks after the dental cleaning, I
+executed the dental self-exam checklist and logged the execution
+[here](../../logs/dental-self-exam-checklist-log.md#2025-11-05). Things
+were mostly normal; in particular, the pressure testing results were
+better. However, I am concerned about there still being plaque on the
+back top right teeth, so that's an area I plan to pay more attention
+to when brushing.
