@@ -18,6 +18,10 @@ These are foods that are alleged to have effects of lowering LDL cholesterol and
 
 * Amla; see [here](../events/2025/2025-09-29-amla-purchase.md)
 
+* Red yeast rice, a natural statin, currently deferred until I can get
+  at least one set of lipid readings after a few weeks of regular amla
+  use.
+
 * Berberine, a natural PCSK9 inhibitor, currently rejected due to its
   other metformin-like effects that can be very strong.
 
