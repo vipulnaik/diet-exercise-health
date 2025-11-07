@@ -153,9 +153,12 @@ I put an upside-down plastic bag over the supplements on my table, to
 provide a visual cue reminder of my intended pause of supplements
 starting Wednesday 2025-11-05.
 
-Starting Wednesday 2025-11-05, I paused all supplements.
+Starting Wednesday 2025-11-05, I paused all supplements. I continued
+the pause on Thursday 2025-11-06. Friday I don't need to do anything
+special as I am anyway not eating or exercising before the scan so
+there's no natural point for me to have supplements.
 
-### Weather check and BART check on the evening of 2025-11-05
+### Weather check and BART check in the evening on 2025-11-05 (two days before the scan)
 
 On the evening of Wednesday 2025-11-05, I checked the weather in both
 Berkeley and San Francisco for Friday 2025-11-07. It looked fine;
@@ -163,3 +166,25 @@ typical moderate weather with low probability of rain in both cities.
 
 I also verified that as of now there were no BART service advisories
 for Friday 2025-11-07.
+
+### Skipping of all exercises on 2025-11-06 (one day before the scan)
+
+I skipped all exercises on 2025-11-06, one day before the scan. I'm
+also skipping exercises the day of the scan.
+
+### Shopping trip in the late afternoon / early evening on 2025-11-06 (one day before the scan)
+
+I completed my Trader Joe's shopping trip in the late afternoon /
+early evening of 2025-11-06, so that I didn't have to do shopping
+after returning from the BodySpec DEXA scan.
+
+### Evening meal completion on time on 2025-11-06
+
+I completed my evening meal (last meal of the day) at 7:48 PM,
+compared to a target time of 8:15 PM. This means I have 16 hours
+between the meal and the DEXA scan.
+
+### Packing / prep in the evening on 2025-11-06
+
+I completed packing / prep ahead of the DEXA scan. This was with the
+goal of minimizing scrambling on the morning of the scan.

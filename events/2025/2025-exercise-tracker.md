@@ -1234,3 +1234,10 @@ from it for my first meal and also do laundry later in the
 afternoon. I had a couple of meetings in the morning and early
 afternoon, so I didn't have the flexibility to squeeze in exercise if
 I wanted to be on the computer and active for my meetings.
+
+## 2025-11-06: skipped all exercises
+
+On Thursday 2025-11-06, I skipped all exercises, dually serving the
+[DEXA scan the next day
+(2025-11-07)](2025-11-07-bodyspec-dexa-scan.md) and the [flu shot two
+days later](2025-11-08-flu-shot.md).
