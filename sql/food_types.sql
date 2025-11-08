@@ -931,4 +931,6 @@ insert into food_types(short_name, long_name, notes) values
   ('India House Oregon aloo sag','India House Oregon aloo sag','I had this for takeout on 2024-06-03 in Portland.'),
   ('Dil Se Indian Cuisine half chana masala and half aloo gobi','Dil Se Indian Cuisine half chana masala and half aloo gobi','I had this for takeout on 2024-06-04 in Portland.'),
   /* Asha Tea House */
-  ('Asha Tea House ginger honey tea','Asha Tea House ginger honey tea','I have this on the occasional visit to Asha Tea House, usually whne meeting up with other people.');
+  ('Asha Tea House ginger honey tea','Asha Tea House ginger honey tea','I have this on the occasional visit to Asha Tea House, usually whne meeting up with other people.'),
+  /* We Be Sushi */
+  ('We Be Sushi Vegetable Tempura','We Be Sushi Vegetable Tempura','I had this once for a meal with work colleagues on Friday 2025-11-07.');

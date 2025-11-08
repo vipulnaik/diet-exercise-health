@@ -686,7 +686,9 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-11-06','TJ Sauerkraut',1),
   ('2025-11-06','TJ English Shelled Peas',2),
   ('2025-11-06','TJ Roasted Seaweed',1),
-  ('2025-11-06','Beefsteak tomato',6);
+  ('2025-11-06','Beefsteak tomato',6),
+  /* 2025-11-07 (Friday) outside meal with work colleagues */
+  ('2025-11-07','We Be Sushi Vegetable Tempura',1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness

@@ -298,3 +298,12 @@ Dental Care for a dental cleaning. The appointment details are
 [here](2025-10-22-dental-cleaning.md). After the appointment, I went
 to the Amazon Hub Locker at ASUC Berkeley to pick up a package. On the
 way back, I stopped at Walgreens for toiletries purchases.
+
+## 2025-11-07
+
+On Friday 2025-11-07, from the late morning to the late afternoon, I
+was in San Francisco. I first went for my [BodySpec DEXA
+scan](2025-11-07-bodyspec-dexa-scan.md). After that, I did some
+walking around the Embarcadero region. Then, I met up with work
+colleagues at We Be Sushi in the Mission for lunch, where I had a
+vegetable tempura.
