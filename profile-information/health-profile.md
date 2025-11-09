@@ -695,7 +695,7 @@ of all test results for me so far of tests discussed in this section.
 
 ### Concentration of atherogenic particles in the blood
 
-#### Apolipoprotein B (Apo B): 89 mg/dL (upper end of desirable)
+#### Apolipoprotein B (Apo B)
 
 The atherogenic particles are the particles that have the potential to
 contribute to atherosclerosis. This includes LDL (low density
