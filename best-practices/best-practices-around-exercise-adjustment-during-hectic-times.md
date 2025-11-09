@@ -112,10 +112,11 @@ time, and because (with the exception of breath holds) they are
 relatively easy to do and not too tiring, I can fit them as long as I
 have literal time.
 
-Overall, when times are hectic and I am not able to do them in the
-morning, I should just do them at natural times but without worrying
-too much about it. For instance, sometimes I am waiting for filtered
-water to be ready during rice prep. I can do balance exercises in that
-time. Unlike strength exercises, many of the balance exercises also
-don't involve touching things, so I can easily do them in between
-cooking without having to wash my hands before or after.
+In September/October 2025, I transitioned balance exercise from
+morning exercises to things I did during rice prep while waiting for
+the water to filter. This means that as long as I am doing rice prep
+the usual way, I will get the time to do balance exercises. If for
+whatever reason, I don't even have time for rice prep, or I need to
+multiplex the gaps within rice prep with other tasks, then I may end
+up not doing balance exercises as often, and that's okay with me given
+the relatively long deconditioning time.
