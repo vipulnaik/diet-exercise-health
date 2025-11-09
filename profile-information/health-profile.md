@@ -63,7 +63,7 @@ Sections of this document:
   health.
   * [Liver status](#liver-status)
     * [Hepatocellular injury markers: AST (SGOT) and ALT (SGPT) in the blood](#hepatocellular-injury-markers-ast-sgot-and-alt-sgpt-in-the-blood)
-    * [Hepatobiliary injury markers: alkaline phosphatase (ALP) in the blood](#hepatobiliary-injury-markers-alkaline-phosphatase-alp-in-the-blood)
+    * [Hepatobiliary injury marker: alkaline phosphatase (ALP) in the blood](#hepatobiliary-injury-marker-alkaline-phosphatase-alp-in-the-blood)
     * [Total bilirubin in the blood](#total-bilirubin-in-the-blood)
     * [Liver fat (steatosis)](#liver-fat-steatosis)
   * [Kidney status](#kidney-status)
