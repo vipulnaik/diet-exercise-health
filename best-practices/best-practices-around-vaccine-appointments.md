@@ -184,6 +184,9 @@ Set a weather check reminder for two days prior to the appointment.
     [infectious diseases and vaccines section of the health
     profile](../profile-information/health-profile.md#infectious-diseases-and-vaccines)
 
+  * File the information leaflet in my health records and update the
+    digital file I have for the document list
+
 * (recovery / documentation and processing) Reminder to check vaccine
   records: Four days after the vaccine appointment; if the record is
   not yet available, then remind again after three more days:

@@ -1978,8 +1978,8 @@ some time between September and December each year.
 I have records of the date of vaccination starting 2015; this
 information is available in
 [vaccine_administrations.sql](../sql/vaccine_administrations.sql). My
-most recent administration was in [October
-2024](../events/2024/2024-10-25-flu-shot.md).
+most recent administration was in [November
+2025](../events/2025/2025-11-08-flu-shot.md).
 
 In general, I have not had significant reactions to the flu shot. The
 main symptom has been slight soreness in the area of administration

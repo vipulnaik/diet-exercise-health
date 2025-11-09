@@ -307,3 +307,10 @@ scan](2025-11-07-bodyspec-dexa-scan.md). After that, I did some
 walking around the Embarcadero region. Then, I met up with work
 colleagues at We Be Sushi in the Mission for lunch, where I had a
 vegetable tempura.
+
+## 2025-11-08
+
+On Saturday 2025-11-08, I went to Walgreens to get a flu shot; the
+appointment was for 3 PM. After getting the flu shot, I did some
+shopping at Walgreens and then headed back home. See
+[here](2025-11-08-flu-shot.md) for details.
