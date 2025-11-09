@@ -31,7 +31,7 @@ On the positive side:
   deconditioned -- even after not jogging for two weeks as a result of
   travel and a common cold after that, I got back to normal volume in
   about three days (see notes 2025-06-19 to 2025-06-21 in the [2025
-  exercise tracker](../events/2025/2025-exercise-tracker.md).
+  exercise tracker](../events/2025/2025-exercise-tracker.md)).
 
 * Outdoor jogging is helpful for outdoor exposure, which can be good
   for my mood. Outside of shopping trips, this is my main outdoor
