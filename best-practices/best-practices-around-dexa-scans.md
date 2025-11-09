@@ -223,7 +223,37 @@ with the bulk of the expansion happening after the DEXA scan.
 
 Clothes with metal can interfere with the integrity of DEXA scans.
 
+Sweatpants and a normal breast pocket T-shirt are a good combination.
+
 ### (preparation / direct) Make sure to drink enough water (if testing allows)
 
 I may be out and about in the sun for a while, and then wait for a
 while, so drink enough water before leaving.
+
+### (preparation / direct) Put relevant stuff in backpack
+
+Hair brush is the main thing. It's helpful if I expect to remove and
+wear my sweatshirt, a process that might mess up my hair.
+
+### (preparation / direct) Upon arrival at the location, move stuff out of pockets and remove sweatshirt
+
+See my private checklist for the detailed steps here.
+
+### (preparation / direct) Positioning guidance
+
+* Make sure to go low before sliding under the scanner so that my head
+  does not bump against the scanner.
+
+* Align my spine and legs carefully. Try to avoid any lean and ask the
+  radiographer for feedback.
+
+* Put hands in karate chop position facing hips.
+
+### (preparation / direct) Movement guidance
+
+* Keep an eye on where the scanner is and make sure that the area
+  being scanned right now is completely still. Also pay attention to
+  the feedback provided by the radiographer.
+
+* If I do move, make it small movements that don't affect my
+  structural core outline.

@@ -5,6 +5,8 @@ Sections of this document:
 * [General background](#general-background)
 * [Appointment booking](#appointment-booking)
 * [Prior preparation](#prior-preparation)
+* [Appointment](#appointment)
+* [Report review](#report-review)
 
 ## General background
 
@@ -188,3 +190,171 @@ between the meal and the DEXA scan.
 
 I completed packing / prep ahead of the DEXA scan. This was with the
 goal of minimizing scrambling on the morning of the scan.
+
+## Appointment
+
+### Arrival
+
+I arrived at the BodySpec location at 295 Broadway at 11:38 AM, with
+37 minutes to spare for my appointment. This early arrival was because
+I built in buffers for delays at various points, and the journey
+turned out to be smooth without any of the delays.
+
+### Preparation while waiting
+
+At the time of my arrival, there was nobody at the front desk. Both
+the radiographers were busy scanning people. So I just sat down and
+moved my stuff from my pockets into my backpack as planned. I
+completed this process from 11:42 AM to 11:48 AM, then continued to
+wait.
+
+One of the radiographers came out and asked for my last name, looked
+up my appointment time, and confirmed that everything was good for my
+appointment. There were still other people with earlier appointments,
+so I continued to wait.
+
+### Scanning
+
+#### Before lying down
+
+Around noon, I was called inside by one of the radiographers.
+
+I was asked to provide my date of birth to confirm my identity. I
+think around this time the radiographer also confirmed that this was
+my first time with BodySpec.
+
+I deposited my sweatshirt on the tray; everything else I had already
+put in the backpack.
+
+I then took off my shoes and sanitized my hands. The radiographer
+confirmed that I did not need to take off my socks or scrunchy.
+
+#### Positioning
+
+I was asked to lie down on the DEXA table. These were the
+instructions:
+
+* Lie on my back
+
+* Put head under where the scanner is right now
+
+* Align my spine to the white line in the middle
+
+* Keep my hands to my sides in a karate chop position (facing my hips)
+
+* Eyes can be open or closed
+
+While getting into position, my head touched the scanner, but it was a
+low-speed impact so it didn't hurt me. Nonetheness, in the future I
+should make sure to go lower and crawl in.
+
+It took me a few seconds more than ideal to get into the position, as
+I did not fully internalize all aspects completely. The radiographer
+confirmed that my position looked good.
+
+#### The actual scanning part of scanning
+
+The scanning occurred one segment at a time, with the machine
+proceeding from above my left to above my right. The radiographer kept
+informing me of how things were going, with information such as that a
+certain area had been completed, or that it was coming up.
+
+At some point before the scanner got to the hand region I fidgeted
+with the fingers of my right hand, but without any major arm movement,
+and the radiographer did not mention any disruption to the scanning
+process. The radiographer did warn me as we got close to the hand,
+presumably since this is a regio to be careful with, and I made sure
+to stop moving the hand.
+
+Once the hands and trunk area were completed, the radiographer told me
+so, with the implication that I can relax those areas, though I
+continued to try to stay still.
+
+#### Other conversation during scanning
+
+The radiographer also asked me questions about where I had heard of
+BodySpec. I had already answered this question at some point in the
+appointment bookng process, but I answered it again here. I *think*
+she asked me these questions only after the scanner had completed the
+head region, so that my talking wouldn't disrupt the scanning process.
+
+The radiographer also asked me what I was particularly interested
+in. I mentioned visceral fat as one area of interest to me.
+
+#### Wrapping up in the DEXA room
+
+The radiographer told me that my scan proceeded smoothly and I should
+expect a report from BodySpec in about 10 minutes.
+
+After scanning, I wore my shoes and sanitized my hands. While doing
+so, I discussed the frequency of future scanning with the
+radiographer. She said quarterly was generally good enough, though she
+herself did monthly.
+
+I then took the sweatshirt and backpack and exited the room. The
+radiographer also exited with me. I got confirmation that I could hang
+out in the waiting area to put stuff back in my pockets.
+
+### Further steps in the waiting area
+
+I put stuff back in my pocket and also updated various checklists
+based on my experience today. I then checked my email and saw that the
+report had come through. I looked at the report briefly on the
+BodySpec site, but wasn't able to peruse it in depth on my phone (and
+also, I didn't locate the PDF reports section on the phone, though I
+suspected such a section existed).
+
+At 12:26 PM, I left the BodySpec location.
+
+## Report review
+
+### Review immediately after return home on 2025-11-07
+
+After the DEXA scan, I met up for lunch with work colleagues. I got
+back home later in the evening. Once back home, I checked the report
+more completely and downloaded the PDF version.
+
+I downloaded the PDF report and went through it. There were some
+things a little inconsistent between the PDF report and the online
+summary. I'm using the PDF report as the more canonical reference.
+
+A fuller review of the data is deferred to later. Here are some of the
+main points I noticed, that I expect to reference when doing the
+fuller review:
+
+* Not directly about the DEXA results, but more about the image: I
+  noticed that my image was leaning slightly to (my) right (so to the
+  left in the image). I suspect this was a slight positioning error on
+  my part, and it might reflect my general posture having a slight
+  lean. I should be more thoughtful about my posture in general and
+  also specifically when on the DEXA table. The radiographer probably
+  noticed but didn't think it was enough of an issue to affect the
+  scan results.
+
+* My visceral fat at 0.15 lbs (0.068 kg, or 68 grams) is pretty low,
+  which is good. This resolved concerns I had about visceral fat
+  accumulation, which may not be visible but could have adverse health
+  impacts.
+
+* My subcutaneous fat is also low; my overall body fat percentage is
+  16.3% which is respectable. My A/G ratio is less than 1, which is
+  good.
+
+* My muscle and bone mineral density are both low, neither of which is
+  good. I feel like in general I am already doing the things that I
+  want to do to improve these, including diet, exercise, and
+  supplements. Unfortunately, at this point I have only one data
+  point, rather than a time series, so I can't figure out the effect
+  my diet, exercise, and supplement choices are having over
+  time. Hopefully, with additional data points, I'll have a clearer
+  picture.
+
+* My right arm has more lean muscle mass than my left arm, but it's
+  the other way around for the legs. The arm differences match the
+  strength differences between the arms.
+
+### Chatting with their AI the next day (2025-11-08)
+
+I chatted briefly with the AI the next day. It seemed pretty capable
+at conversation and at going over my results and coming up with
+suggestions, but I did not try it extensively.

@@ -1,6 +1,6 @@
 create table tests(
   `test_slug` varchar(255) primary key not null,
-  `sample_type` enum('Blood','Stool','Urine','Breath'),
+  `sample_type` enum('Blood','Stool','Urine','Breath','Saliva','DEXA'),
   `fasting_required` boolean,
   `recommended_for_acute_issues` boolean,
   `labcorp_url` varchar(255),

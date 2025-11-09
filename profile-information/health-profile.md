@@ -16,6 +16,12 @@ suggests that they are either within normal range or outside normal
 range in ways that are already known, so there is no immediate
 tactical change needed based on the results.
 
+NOTE 2 (2025-11-08): I got a [BodySpec DEXA scan done on November 7,
+2025](../events/2025/2025-11-07-bodyspec-dexa-scan.md). I got the
+results immediately, but have not yet fully processed them and have
+not yet figured out the format in which to share them publicly. I
+expect to make progress on these fronts over the next few weeks.
+
 This is the health profile for Vipul Naik, an adult male in his late
 30s / early 40s (born 1986). It is updated periodically. It does not
 include details of specific events/incidents; these are generally
@@ -55,7 +61,7 @@ Sections of this document:
   as other biomarkers covered in the preceding section to paint a
   picture both of the current health and of the trajectory of my liver
   health.
-  * Liver status (include ALT and AST measurements, MADLD chances, insulin sensitivity implications, info from DEXA scan if I get it)
+  * Liver status (include ALT and AST measurements, MADLD chances, insulin sensitivity implications, info from DEXA scan)
   * [Kidney status](#kidney-status)
     * [GFR estimation](#gfr-estimation)
     * [Urinalysis](#urinalysis)
@@ -248,20 +254,35 @@ My weight used to be about 120 lb or 54 kg around 2017, and appears to
 have gradually increased over the years, likely partly related to an
 increase in muscle mass.
 
+My most recent weight measurement was as part of the [2025-11-07
+BodySpec DEXA
+scan](../events/2025/2025-11-07-bodyspec-dexa-scan.md). The estimate
+was 124.4 lb; this translates to 56.4 kg.
+
 ### Waist size
 
 I have a lean, athletic appearance. My waist size is at the "small"
 end, with shorts/trousers sizes of 28 and 30 generally working for me,
 with 28 being the most preferred (no belt needed), 30 needing a loose
-belt, and 32 being manageable with a tight belt. I do not have a
-paunch.
+belt, and 32 being manageable with a tight belt.
 
-### Pending DEXA scan
+### More insights from DEXA scan
 
-I'm planning to get a DEXA scan done some time in the next few months
-(as of July 2025) to get a better picture of my body
-composition. Key insights from the DEXA scan will be included here
-once it is done.
+My [2025-11-07 BodySpec DEXA
+scan](../events/2025/2025-11-07-bodyspec-dexa-scan.md) gives more
+insight into my body composition. I have not fully reviewed the data
+and have not entered it publicly, but initial insights are available
+in the [report review
+section](../events/2025/2025-11-07-bodyspec-dexa-scan.md#report-review). Some
+highlights:
+
+* Visceral fat of 0.15 lbs (0.068 kg, or 68 grams) is pretty low,
+  which is good.
+
+* Body fat percentage at 16.3% is decent.
+
+* Bone mineral density and muscle mass are low, and are both areas
+  where I should improve or at any rate try not to get worse.
 
 ## Dental status
 
