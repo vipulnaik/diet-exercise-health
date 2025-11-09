@@ -532,22 +532,26 @@ or higher are considered high-risk.
 However, people with higher standards have advocated targeting a
 TG/HDL-C ratio of 1 or less.
 
-Here are my four most recent readings and the calculated TG/HDL-C
+Here are my five most recent readings and the calculated TG/HDL-C
 ratios:
 
 Reading date | Triglycerides (mg/dL) | HDL-C (mg/dL) | Ratio (less than 1 is optimal, less than 2 is decent, less than 2.6 is okay for males)
 -- | -- | -- | --
+2025-09-10 (September 2025) | 57 | 55 | 1.04
 2024-12-13 (December 2024) | 56 | 66 | 0.85
 2024-09-03 (September 2024) | 89 | 46 | 1.93
 2021-06-30 (June 2021) | 124 | 46 | 2.70
 2017-11-12 (November 2017) | 79 | 51 | 1.55
 
-While the most recent reading paints an "optimal" picture, the other
-readings paint a picture ranging from decent to slightly
-worrisome. Overall, it's clear that I do not have significant insulin
-resistance at this stage, but the picture is not quite as optimal as
-the HOMA-IR calculation suggests. Continued monitoring will help paint
-a clearer picture.
+While the two most recent readings paint an "optimal" picture, the
+other readings paint a picture ranging from decent to slightly
+worrisome. It may be that the increase in omega-3 supplementation
+played a significant role in improving the TG/HDL-C ratio.
+
+Overall, it's clear that I do not have significant insulin resistance
+at this stage, but the picture is not quite as optimal as the HOMA-IR
+calculation suggests. Continued monitoring will help paint a clearer
+picture.
 
 #### Plan for followup measurements and actions
 
@@ -626,6 +630,23 @@ For comparing the June 2021 and September 2024 readings (both from
 Quest Diagnostics), a note on the Quest Diagnostics website suggested
 changes to the measurement method that may increase measured HbA1c by
 up to 0.3 percentage points. The other readings are from LabCorp.
+
+#### Diabetes Risk Index (DRI)
+
+The Diabetes Risk Index (DRI) is a special measure provided by LabCorp
+that combines the LP-IR score (measured using NMR) with the level of
+branched-chain amino acids to determine the risk of diabetes. The
+individual components of the score are not disclosed, so I don't have
+a LP-IR score to compare against the LP-IR score from the NMR
+lipoprofile I got in other tests.
+
+For males, a DRI of less than 50 is considered low risk.
+
+So far, I have one DRI reading at 22, so it is normal (low risk).
+
+Reading date | DRI
+-- | --
+2025-09-10 (September 2025) | 22
 
 #### Plan for followup measurements and actions
 
@@ -707,20 +728,23 @@ in these particles, such as LDL cholesterol; although usually highly
 concordant in most cases, this is a less predictive measure than the
 particle concentration when they do differ).
 
-As of December 2024, I have only one data point directly measuring Apo
-B, namely the reading from the blood test done on December 13. The
-reading of 89 mg/dL is at the upper edge of acceptable, and I should
-ideally have a much lower Apo B. My inferred atherogenic particle
-concentration of 1618 nmol/L uses 550,000 as the molecular mass of Apo
-B. In this round of blood tests, I also got a NMR lipoprofile, that
-includes a direct measure of LDL particle concentration (LDL-P) of
-1313 nmol/L, and very little VLDL, so the atherogenic particle
-concentration inferred that way would be close to 1313 nmol/L, which
-is lower. But this much discrepancy (around 20-25%) seems typical.
+As of September 2025, I have two readings directly measuring Apo B,
+namely the readings from 2024-12-13 (done along with a NMR
+lipoprofile) and 2025-09-10 (done without a full NMR lipoprofile).
 
-Reading date | Apo B (mg/dL) | Inferred atherogenic particle concentration (self-calculated) (nmol/L)
--- | -- | --
-2024-12-13 (December 2024) | 89 | 1618
+In the December 2024 round of blood tests, I also got a NMR
+lipoprofile, that includes a direct measure of LDL particle
+concentration (LDL-P) of 1313 nmol/L, and very little VLDL, so the
+atherogenic particle concentration inferred that way would be close to
+1313 nmol/L, which is lower than the 1618 nmol/L I get directly from
+the Apo B (using molecular mass of 550,000, so effectively, after unit
+conversions, it works out to dividing by 0.055). But this much
+discrepancy (around 20-25%) seems typical.
+
+Reading date | Apo B (mg/dL) | Inferred atherogenic particle concentration (self-calculated: divide by 0.055) (nmol/L) | Related measures
+-- | -- | -- | --
+2025-09-10 (September 2025) | 91 | 1655 | LDL-C: 108 mg/dL
+2024-12-13 (December 2024) | 89 | 1618 | LDL-P: 1313 nmol/L, LDL-C: 122 mg/dL
 
 #### Lipoprotein (a) (Lp(a)): 103.6 nmol/L (high)
 
@@ -786,7 +810,7 @@ Reading date | Lp(a) (nmol/L)
 -- | --
 2024-12-13 (December 2024) | 103.6
 
-#### LDL cholesterol (LDL-C): 109 to 122 mg/dL (high)
+#### LDL cholesterol (LDL-C): 108 to 122 mg/dL (high)
 
 Although not as good a measure as Apo B, LDL-C has the advantage that
 I have more data points for it. Here are my most recent readings of
@@ -794,6 +818,7 @@ LDL-C:
 
 Reading date | LDL-C (mg/dL) | Method | Other related measures
 -- | -- | -- | --
+2025-09-10 (September 2025) | 108 | NIH equation 2 | Apo B: 91 mg/dL
 2024-12-13 (December 2024) | 122 | NIH equation 2 | LDL-P: 1313 nmol/L, Apo B: 89 mg/dL
 2024-09-03 (September 2024) | 112 | Martin-Hopkins | N/A
 2021-06-30 (June 2021) | 122 | Martin-Hopkins | N/A
@@ -935,6 +960,18 @@ atherosclerotic risk for me.
 Reading date | C-reactive protein (mg/L)
 -- | --
 2025-01-22 (January 2025) | 0.24
+
+### GlycA
+
+GlycA levels are a marker of systemic inflammation relevant to the
+development of both cardiovascular disease and type 2 diabetes.
+
+So far, my reading for GlycA has come in the normal range. Levels
+below 400 umol/L are considered normal (low risk).
+
+Reading date | GlycA (umol/L)
+-- | --
+2025-09-10 (September 2025) | 294
 
 ## Hormones
 
