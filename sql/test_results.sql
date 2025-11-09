@@ -402,7 +402,15 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('September 2025 LabCorp tests','Sodium','mmol/L',134,144,141,'Normal','This test was part of a comprehensive metabolic panel.'),
   ('September 2025 LabCorp tests','Potassium','mmol/L',3.5,5.2,4.1,'Normal','This test was part of a comprehensive metabolic panel.'),
   ('September 2025 LabCorp tests','Chloride','mmol/L',96,106,103,'Normal','This test was part of a comprehensive metabolic panel.'),
-  -- more CMP results to be added
+  ('September 2025 LabCorp tests','Bicarbonate','mmol/L',20,29,24,'Normal','This test was part of a comprehensive metabolic panel. LabCorp reports this as "carbon dioxide, total" rather than bicarbonate.'),
+  ('September 2025 LabCorp tests','Calcium','mg/dL',8.7,10.2,9.7,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2025 LabCorp tests','Total protein','g/dL',6.0,8.5,6.5,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2025 LabCorp tests','Albumin','g/dL',4.1,5.1,4.8,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2025 LabCorp tests','Globulin','g/dL',1.5,4.5,1.7,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2025 LabCorp tests','Total bilirubin','mg/dL',0,1.2,0.5,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2025 LabCorp tests','Alkaline phosphatase','IU/L',44,121,78,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2025 LabCorp tests','AST (SGOT)','IU/L',0,40,26,'Normal','This test was part of a comprehensive metabolic panel.'),
+  ('September 2025 LabCorp tests','ALT (SGPT)','IU/L',0,44,16,'Normal','This test was part of a comprehensive metabolic panel.'),
   /* January 2025 immunoglobulins */
   ('January 2025 LabCorp tests','Immunoglobulin G (quantitative serum)','mg/dL',603,1613,758,'Normal','This was part of an initial immunoglobulin panel to see if there were any obvious issues with my immune function (for instance, high IgE would indicate a propensity for allergies). This reading came in the normal range.'),
   ('January 2025 LabCorp tests','Immunoglobulin A (quantitative serum)','mg/dL',90,386,143,'Normal','This was part of an initial immunoglobulin panel to see if there were any obvious issues with my immune function (for instance, high IgE would indicate a propensity for allergies). This reading came in the normal range.'),

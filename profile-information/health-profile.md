@@ -4,7 +4,7 @@ Last major update: December 18, 2024 (this mostly entailed a
 reordering of sections and addition of notes on future sections to
 write)
 
-Last substantive minor update: October 26, 2025
+Last substantive minor update: November 8, 2025 (2025-11-08)
 
 NOTE (2025-09-22): I got [blood tests done on September 10,
 2025](../events/2025/2025-09-10-blood-tests.md). I got all the results
@@ -61,7 +61,11 @@ Sections of this document:
   as other biomarkers covered in the preceding section to paint a
   picture both of the current health and of the trajectory of my liver
   health.
-  * Liver status (include ALT and AST measurements, MADLD chances, insulin sensitivity implications, info from DEXA scan)
+  * [Liver status](#liver-status)
+    * [Hepatocellular injury markers: AST (SGOT) and ALT (SGPT) in the blood](#hepatocellular-injury-markers-ast-sgot-and-alt-sgpt-in-the-blood)
+    * [Hepatobiliary injury markers: alkaline phosphatase (ALP) in the blood](#hepatobiliary-injury-markers-alkaline-phosphatase-in-the-blood)
+    * [Total bilirubin in the blood](#total-bilirubin-in-the-blood)
+    * [Liver fat (steatosis)](#liver-fat-steatosis)
   * [Kidney status](#kidney-status)
     * [GFR estimation](#gfr-estimation)
     * [Urinalysis](#urinalysis)
@@ -1000,6 +1004,138 @@ December 2024 is just slightly below range, which could be due to low
 T3 or high TBG. I plan to add in TBG with my next thyroid panel so
 that I have more clarity on this aspect.
 
+## Liver status
+
+### Hepatocellular injury markers: AST (SGOT) and ALT (SGPT) in the blood
+
+The liver houses two important aminotransferase enzymes; these enzymes
+transfer an amine group out from a specific amino acid and leading to
+the creation of another.
+
+* Aspartate transaminase (AST), also known as serum glutamic
+  oxaloacetic transferase (SGOT) is an enzyme that facilitates the
+  reversible reaction:
+
+  aspartate + alpha-ketoglutarate <-> oxaloacetate + glutamate
+
+* Alanine aminotransferase (ALT), also known as serum glutamic pyruvic
+  transaminase (SGPT) is an enzyme that facilitates the reversible
+  reaction:
+
+  alanine + alpha-ketoglutarate <-> pyruvate + glutamate
+
+  Here, alanine and glutamate are the two amino acids, pyruvate is the
+  deaminated version of alanine, and alpha-ketoglutarate is the
+  deaminated version of glutamate.
+
+The key thing that's relevant for our purposes is that these enzymes
+are intended to be present in the liver, but they aren't useful in the
+blood, and are not intended to be put out in the circulation. They do
+leak out into the blood to some extent. However, when their levels in
+the blood are elevated, that is suggestive of hepatocellular injury --
+injury to the hepatocytes (liver cells) that is causing the enzymes to
+leak.
+
+When at least one of AST and ALT is significantly elevated, the
+AST/ALT ratio helps point to potential causes of elevation.
+
+The reference ranges for both AST and ALT have an upper end around 40
+IU/L. There's no clear downside to low values (as long as the actual
+amount of these *in the liver* is fine), though some labs report lower
+end of normal range at around 10 IU/L.
+
+One confounding factor for interpreting the data is that AST and ALT
+are also present in muscle, and therefore can also leak from
+muscle. In particular, recent heavy exercise can elevate both
+levels. This is further corroborated by the fact that for the majority
+of my readings, my AST is greater than ALT, a pattern that generally
+suggests muscle involvement. For all tests starting September 2024, I
+paused all exercises for at least one day prior to the blood test, and
+for April 2024 (not fasting) I happened to have paused exercises for
+the past few days for health reasons. This should reduce the effect of
+muscle injury on the readings, but does not completely eliminate it. I
+don't have good records of my exercise pause situation for the tests
+in 2005 and 2016.
+
+Reading date | AST (IU/L) | ALT (IU/L) | AST/ALT ratio
+-- | -- | -- | --
+2025-09-10 (September 2025) | 26 | 16 | 1.63
+2025-01-22 (January 2025)   | 38 | 31 | 1.23
+2024-12-13 (December 2024)  | 39 | 35 | 1.11
+2024-09-03 (September 2024) | 21 | 12 | 1.75
+2024-04-30 (April 2024) (not fasting) | 28 | 35 | 0.80
+2016-12-12 (December 2016)  | 18 | 11 | 1.64
+2005-06-15 (June 2005)      | 20 | 28 | 0.71
+
+### Hepatobiliary injury marker: alkaline phosphatase (ALP) in the blood
+
+Unlike AST and ALT that are found primarily in the liver, alkaline
+phosphatase (ALP) is found in the liver and bile duct (the duct
+connecting the liver to the pancreas from where stuff then goes into
+the duodenum). Elevated levels of ALP in the blood are indicative of
+hepatobiliary injury causing ALP to leak into the blood; this may, for
+instance, be due to a bile duct obstruction.
+
+The range of normal ALP values varies by lab and also varies by age
+range; reference ranges also get updated often. My values have
+generally been around 60-90, which is safely within all the reference
+ranges.
+
+Reading date | ALP (IU/L)
+-- | --
+2025-09-10 (September 2025) | 78
+2025-01-22 (January 2025) | 86
+2024-12-13 (December 2024) | 81
+2024-09-03 (September 2024) | 65
+2024-04-30 (April 2024) (not fasting) | 72
+
+### Total bilirubin in the blood
+
+Hyperbilirubinemia (elevated total bilirubin in the blood) can occur
+for a variety of reasons, one of which is hepatobiliary injury (that
+could in turn be due to a bile duct obstruction). It could also be due
+to hemolysis (excessive breakdown of heme).
+
+My total bilirubin has been normal in all tests starting 2024. An
+initial test in June 2005 reported an elevated total bilirubin.
+
+Reading date | Total bilirubin (mg/dL)
+-- | --
+2025-09-10 (September 2025) | 0.5
+2025-01-22 (January 2025) | 0.5
+2024-12-13 (December 2024) | 0.5
+2024-09-03 (September 2024) | 0.6
+2024-04-30 (April 2024) (not fasting) | 0.6
+2005-06-15 (June 2005) | 1.4
+
+### Liver fat (steatosis)
+
+A good estimate of liver fat requires imaging of the liver (using MRI,
+CT, or ultrasound). High liver fat accumulation (steatosis) can lead
+to metabolic dysfunction–associated steatotic liver disease (MASLD),
+the new name for non-alcoholic fatty liver disease (NAFLD).
+
+I haven't gotten such detailed imaging done, due to the various
+liver-related blood markers being fine.
+
+A crude proxy for liver fat is the total visceral fat estimated in
+DEXA. This "visceral fat" is a crude estimate and should also include
+ectopic fat in the abdominal organs such as the liver and apancreas.
+
+My DEXA scan on 2025-11-07 gave an estimate of 0.15 lbs of visceral
+fat, which is about 68 grams. This is at around the 5th percentile
+(lower is better, so it's the best 5%) for my approximate age
+range. Based on this, I don't expect to have a lot of liver fat and
+therefore I think I am pretty far from MASLD.
+
+The low level of liver fat accumulation is consistent with my current
+general sense that I have good insulin sensitivity, as discussed in
+the [insulin sensitivity and glycemic
+control](#insulin-sensitivity-and-glycemic-control) section. Insulin
+resistance (the loss of insulin sensitivity) and liver fat
+accumulation can reinforce each other, so it's good that as of now, I
+am good on both fronts.
+
 ## Kidney status
 
 ### GFR estimation
@@ -1232,18 +1368,39 @@ upper half of the range, which might be correlated to my efforts to
 maintain high CO2 tolerance through breath holds. However, the
 individual readings don't correlate very closely with my breath hold
 max-pause duration; specifically, my max-pause duration generally
-increased from April 2024 to January 2025, and yet the bicarbonate
-measurement appears to have dropped and then risen. So it's not a very
+increased (or at least not decreased) over the time period, and yet
+the bicarbonate reading has fluctuated quite a bit. So it's not a very
 precise and faithful correlate of breath hold max-pause duration.
 
 The range of acceptable bicarbonate is about 20 to 30 mmol/L.
 
 Reading date | Bicarbonate measurement (mmol/L)
 -- | --
+2025-09-10 (September 2025) | 24
 2025-01-22 (January 2025) | 27
 2024-12-13 (December 2024) | 25
 2024-09-03 (September 2024) | 29
 2024-04-30 (April 2024) (not fasting) | 30
+
+#### Calcium
+
+My blood calcium level has always been at about 9.4-9.8 mg/dL,
+compared to reference ranges that are variously reported as 8.7-10.2
+mg/dL, 8.6-10.3 mg/dL, and 8.2-10.2 mg/dL.
+
+Calcium level in the blood tends to be within range for a wide range
+of levels of calcium in the diet. The thing that is more heavily
+affected by calcium in the diet (and by vitamin D that helps absorb
+the calcium) is the bones.
+
+Reading date | Calcium measurement (mg/dL)
+-- | --
+2025-09-10 (September 2025) | 9.7
+2025-01-22 (January 2025) | 9.8
+2024-12-13 (December 2024) | 9.7
+2024-09-03 (September 2024) | 9.8
+2024-04-30 (April 2024) (not fasting) | 9.4
+2021-06-30 (not part of a CMP) | 9.6
 
 ### Urine quantity and pattern
 
