@@ -55,7 +55,7 @@ Sections of this document:
   * [Hormones](#hormones) (doesn't cover insulin which is covered in the insulin sensitivity and glycemic control section)
     * [Thyroid (T3, T4, TSH)](#thyroid-t3-t4-tsh)
     * [Testosterone](#testosterone)
-* Upcoming sections to be written around internal organs, will cover
+* Sections (some written, some pending) covering internal organs, will cover
   what I can gather from measurements taken in my blood tests as well
   as other biomarkers covered in the preceding section to paint a
   picture both of the current health and of the trajectory of my liver
