@@ -953,13 +953,18 @@ mg/L) outside of the context of infection are indicative of high
 levels of inflammation that predict increased atherosclerotic risk, as
 the inflammation eggs on the process of plaque formation.
 
-So far, I have one reading of CRP showing it to be fairly low, and
-therefore suggestive that inflammation is not contributing to
-atherosclerotic risk for me.
+Note that some labs report CRP in mg/dL. Any value reported in mg/dL
+needs to be mutiplied by 10 to get the corresponding value in mg/dL.
+
+So far, all my CRP readings show it to be fairly low, and therefore
+suggestive that inflammation is not contributing to atherosclerotic
+risk for me.
 
 Reading date | C-reactive protein (mg/L)
 -- | --
-2025-01-22 (January 2025) | 0.24
+2025-09-10 (September 2025) | < 0.15
+2025-01-22 (January 2025)   | 0.24
+2016-12-12 (December 2016)  | 0.21
 
 ### GlycA
 
@@ -972,6 +977,37 @@ below 400 umol/L are considered normal (low risk).
 Reading date | GlycA (umol/L)
 -- | --
 2025-09-10 (September 2025) | 294
+
+### Erythrocyte sedimentation rate (ESR)
+
+Erythrocyte sedimentation rate (ESR), also known as Westergren
+sedimentation rate as the method to calculate it is called the
+Westergren method, is a marker of inflammation. It is elevated by high
+levels of a few specific acute phase reactants, primarily fibrinogen.
+
+The reference range for ESR is 0-15 mm/hr; the lower, the better.
+
+So far, I have one ESR reading, and it's at the low end of normal, so
+this is not a cause for concern.
+
+Reading date | ESR (mm/hr)
+-- | --
+2025-09-10 (September 2025) | 2
+
+### Ferritin
+
+Ferritin is an acute phase reactant; in the presence of system-wide
+inflammation, ferritin levels can be elevated in order to sequester
+blood and protect it froom bacteria.
+
+The reference range for ferritin is 30-400 ng/mL.
+
+So far, I have one ferritin reading, and it's at the low end of normal, so
+this is not a cause for concern.
+
+Reading date | Ferritin (ng/mL)
+-- | --
+2025-09-10 (September 2025) | 36
 
 ## Hormones
 
