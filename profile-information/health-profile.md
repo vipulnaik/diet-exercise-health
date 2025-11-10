@@ -953,7 +953,7 @@ levels of inflammation that predict increased atherosclerotic risk, as
 the inflammation eggs on the process of plaque formation.
 
 Note that some labs report CRP in mg/dL. Any value reported in mg/dL
-needs to be mutiplied by 10 to get the corresponding value in mg/dL.
+needs to be mutiplied by 10 to get the corresponding value in mg/L.
 
 So far, all my CRP readings show it to be fairly low, and therefore
 suggestive that inflammation is not contributing to atherosclerotic
