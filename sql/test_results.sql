@@ -12,20 +12,25 @@ create table test_results(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into test_results(collection, test, units, reference_interval_low_end, reference_interval_high_end, measured_value, diagnosis, notes) values
-  /* Vitamin D3 tests */
+  /* Vitamin D3 */
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Vitamin D3','nmol/L',75,250,12.2,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','Vitamin D3','ng/mL',30,100,3,'Deficient','This test was taken before starting any regular Vitamin D3 supplementation'),
   ('September 2018 LabCorp vitamin tests','Vitamin D3','ng/mL',30,100,35.8,'Sufficient','This test was taken after about 10 months of regular Vitamin D3 supplementation, with the supplement amount mostly 1000 IUs but occasionally going to 2000 IUs'),
   ('June 2021 Quest Diagnostics tests','Vitamin D3','ng/mL',30,100,62,'Sufficient','This test was taken almost three years after the previous test (reading of 35.8) after supplementation witht 1000 IU and later 2000 IU capsules , and an average of 2+ capsules per day.'),
   ('September 2024 Quest Diagnostics tests','Vitamin D3','ng/mL',30,100,52,'Sufficient','This test was taken a little over three years after the previous test. Shortly after the previous test, I had switched my supplement from Finest Nutrition (2000 IU) to Doctor''s Best (2500 IU) and also switched to sticking more closely to one a day (previously I was averaging over 2 a day). Also, unlike the previous time, this time I skipped taking the supplement the day prior to the test, so that the measured value reflected the level stably in my bloodstream without recent boosting. These changes may explain why the reading was lower than last time; however, it is still satisfactory; it''s not just above the 30 that is the threshold for sufficiency, but also above the 50 that is considered a more conservative threshold for optimal health.'),
-  /* Vitamin B12 tests */
+  /* Vitamin B12 */
   ('November 2017 Columbia Asia vitamin and lipid profile tests','Vitamin B12','pg/mL',180,914,167,'Intermediate','This test was taken before starting any regular Vitamin B12 supplementation. Guidance says: < 145 pg/mL is deficient, 145-180 is intermediate, and 180-914 is normal'),
   ('November 2017 Metropolis Healthcare vitamin and TSH tests','Vitamin B12','pg/mL',187,883,173.6,'Deficient','This test was taken before starting any regular Vitamin B12 supplementation'),
   ('September 2018 LabCorp vitamin tests','Vitamin B12','pg/mL',232,1245,1050,'Sufficient','This test was taken after about 10 months of regular Vitamin B12 supplementation, at 1000 mcg per tablet and a little over 1 tablet per day on average'),
   ('September 2024 Quest Diagnostics tests','Vitamin B12','pg/mL',200,1100,1034,'Sufficient','This test was done almost 6 years after my previous test for Vitamin B12. Already in the previous test, I was at the high end of the range. I''ve continued to supplement Vitamin B12 regularly and have stayed at the high end of the range.'),
+  /* Vitamin A */
+  ('September 2025 LabCorp tests','Vitamin A','ug/dL',18.9,57.3,28.6,'Normal','This was my first time testing my Vitamin A level. My main reason for testing this was curiosity, since my dietary consumption of vitamin A is a bit on the high end due to regular consumption of carrots and bell peppers. The reading came on the lower side within the normal range, so no action is needed.'),
+  /* Magnesium */
+  ('September 2025 LabCorp tests','Magnesium','mg/dL',1.6,2.3,2.0,'Normal','This was my first time getting my magnesium checked. I got both serum magnesium (this one) and RBC magnesium, with the latter a somewhat better indicator of magnesium uptake in cells, which matters more than its level in the blood. Both were around the middle of their respective ranges, suggesting no particular cause for concern, although slightly increasing RBC magnesium may be more optimal.'),
+  ('September 2025 LabCorp tests','Magnesium (RBC)','mg/dL',3.7,7.0,5.1,'Normal','This was my first time getting my magnesium checked. I got both serum magnesium and RBC magnesium, with the latter a somewhat better indicator of magnesium uptake in cells, which matters more than its level in the blood. Both were around the middle of their respective ranges, suggesting no particular cause for concern, although slightly increasing RBC magnesium may be more optimal.'),
   /* Serum folate */
   ('September 2024 Quest Diagnostics tests','Serum folate','ng/mL',3.4,null,11.1,'Normal','The recommended range for serum folate is 5.4 or higher; 3.4-5.4 is considered borderline. At 11.1, I am safely within the normal range. I don''t have any past data to compare with.'),
-  /* HbA1c tests (there is also an earlier test that was part of a gastro panel) */
+  /* HbA1c (there is also an earlier test that was part of a gastro panel) */
   ('June 2021 Quest Diagnostics tests','HbA1c','%',0,5.7,5.0,'Normal','This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
   ('June 2021 Quest Diagnostics tests','HbA1c eAG','mg/dL',null,null,97,null,'This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
   ('June 2021 Quest Diagnostics tests','HbA1c eAG (mmol/L)','mmol/L',null,null,5.4,null,'This test was taken to provide a baseline HbA1c measurement. I had previously gotten a HbA1c only once, as part of a bunch of gastro blood tests in December 2016.'),
@@ -35,11 +40,11 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('September 2025 LabCorp tests','HbA1c','%',4.8,5.6,5.4,'Normal','This test was taken to provide a periodic HbA1c measurement. The result was within expectations.'),
   /* Calcium tests (there's another later test that was part of a comprehensive metabolic panel) */
   ('June 2021 Quest Diagnostics tests','Calcium','mg/dL',8.6,10.3,9.6,'Normal','This test was taken to provide a baseline caclium measurement, after 3.5 years of Vitamin D supplementation and about 2 years of calcium supplementation.'),
-  /* Insulin tests */
+  /* Insulin */
   ('June 2021 Quest Diagnostics tests','Insulin','uIU/mL',0,19.6,3.6,'Normal','This test was taken to provide a baseline insulin measurement in light of diabetic tendencies.'),
   ('September 2024 Quest Diagnostics tests','Insulin','uIU/mL',0,18.4,4.6,'Normal','This test was for a followup insulin measurement in light of diabetic tendencies. The measured value continues to be low, suggesting that I am not developing insulin resistance, which is a common correlate of type 2 diabetes (and could in principle develop before or without diabetes).'),
   ('September 2025 LabCorp tests','Insulin','uIU/mL',2.6,24.9,3.7,'Normal','This test was part of a regular insulin measurement to help gauge my insulin sensitivity. The measured value continues to be low, both as a direct fasting insulin value and when combined with the fasting glucose in the HOMA-IR measurement.'),
-  /* Omega-3 tests */
+  /* Omega-3 */
   /* June 2021 Quest Diagnostics omega-3 test */
   ('June 2021 Quest Diagnostics tests','Omega-3 total','%',5.5,null,4.6,'Moderate','The measurement is of the percentage by weight of omega-3 fatty acids. This test was taken to provide a first baseline measurement after almost 1.5 years of supplementation. The provided reference interval for this metric is >= 5.5 for optimal, 3.8-5.4 for moderate and <= 3.7 for low. I fell in the middle of the moderate range. The measurement sums up the values for eicosapentaenoic acid (EPA), docosapentaenoic acid (DPA), and docosahexonic acid (DHA).'),
   ('June 2021 Quest Diagnostics tests','Arachidonic acid/EPA ratio','unitless',3.7,40.7,19.6,'Normal','This was part of a set of omega-3 tests taken to provide a first baseline measurement after almost 1.5 years of supplementation.'),
@@ -72,7 +77,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('December 2024 LabCorp tests','Linoleic acid','%',18.6,29.5,35.2,'High','This test was a followup to the September 2024 omega-3 test, intended to gauge the impact of recent changes. The level of linoleic acid (35.2) was a lot higher than the preceding value of 29.9, which was itself a little above the recommended range. The reason might be an overall increase in fat intake, in the form of walnuts, which includes a decent amount of linoleic acid.'),
   /* July 2004 blood group test */
   ('July 2004 Eskay Lab blood group test','Blood group',null,null,null,null,null,'Blood group was measured as O-positive.'),
-  /* June 2005 Iravatham Chennai blood profile tests */
+  /* June 2005 Iravatham Chennai blood profile */
   ('June 2005 Iravatham Chennai blood profile tests','Platelets','1000/uL',150,379,172,'Normal','This test was taken to provide an initial hematology baseline measurement.'),
   ('June 2005 Iravatham Chennai blood profile tests','Hemoglobin','g/dL',12.6,17.7,13.5,'Normal','This test was taken to provide an initial hematology baseline measurement.'),
   ('June 2005 Iravatham Chennai blood profile tests','WBC','1000/uL',3.4,10.8,10.4,'Normal','This test was taken to provide an initial hematology baseline measurement.'),
@@ -84,7 +89,7 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('June 2005 Iravatham Chennai blood profile tests','Total bilirubin','mg/dL',0.1,1.2,1.4,'Above normal','This test was taken to provide an initial blood biochemistry baseline measurement.'),
   ('June 2005 Iravatham Chennai blood profile tests','AST (SGOT)','IU/L',0,40,20,'Normal','This test was taken to provide an initial blood biochemistry baseline measurement.'),
   ('June 2005 Iravatham Chennai blood profile tests','ALT (SGPT)','IU/L',0,44,28,'Normal','This test was taken to provide an initial blood biochemistry baseline measurement.'),
-  /* June 2005 Iravatham Chennai urine profile tests */
+  /* June 2005 Iravatham Chennai urine profile */
   ('June 2005 Iravatham Chennai urine profile tests','Urine clinical pathology','unitless',null,null,null,null,'Pale yellow with clear appearance. This test was done to provide an initial urine baseline measurement.'),
   ('June 2005 Iravatham Chennai urine profile tests','Sugar in urine','unitless',0,0,0,'Normal','Having sugar in urine is considered bad (it''s a sign of diabetes). So the absence of sugar was as expected and hoped. This test was done to provide an initial urine baseline measurement.'),
   ('June 2005 Iravatham Chennai urine profile tests','RBC/HPF','unitless',0,3,1.5,'Normal','Reported range was 1 to 2 RBC / HPF. This test was done to provide an initial urine baseline measurement.'),
