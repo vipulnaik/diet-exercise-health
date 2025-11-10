@@ -98,45 +98,7 @@ other medical appointments, vaccines, or blood tests.
   and then after that be particularly careful in the 2-3 days leading
   up to the appointment to keep that day clear.
 
-### (preparation / risk reduction) Reminder to probe and be more careful around food consumption starting nine days before the appointment
-
-While the full stoppage should only happen six days before the
-appointment (see later) it's important to raise my level of caution
-starting around nine days before the appointment. This elevated
-caution means paying particular attention to the consumption of hot,
-spicy, and acidic foods, and probing around to find any sensitive
-areas in my mouth.
-
-### (preparation / direct) Cancellation consideration for three business days before the appointment
-
-There is a $50 charge for cancelling less than three business days
-prior to the appointment, so I should set a calendar reminder to
-consider whether to cancel or reschedule while I can still do so for
-free. In particular, other related stuff such as vaccines, blood
-tests, or travel plans may come up.
-
-Some of the things to consider:
-
-* Do I have any kind of injuries in my mouth that I expect to not
-  represent chronic problems but rather temporary injuries?
-  Rescheduling to a week later makes sense in such cases.
-
-* Am I feeling unwell, for instance, digestive issues, minor cold,
-  sniffling, etc.? In such cases, if there is an expected trajectory
-  of getting better, delaying by 1-2 weeks, based on the expected
-  trajectory, would be desirable.
-
-* Look carefully in my calendar for the next few weeks and make sure
-  there's nothing of concern in the two weeks ahead of the dental
-  cleaning appointment.
-
-### (local IM post / cyclic personal chores) Shopping reminder for two days prior to the appointment
-
-Set up a reminder for a grocery shopping trip for the evening two days
-before the dental cleaning appointment. It's good to have groceries
-shopped for ahead of the appointment if possible.
-
-### (preparation / risk reduction) Reminder to pause consumption of sauerkraut, walnuts, lemons, and spicy foods
+### (preparation / risk reduction) Total three calendar events with reminders to pause and resume consumption of sauerkraut, walnuts, lemons, and spicy foods
 
 * Reminder for two weeks prior to the appointment:
 
@@ -205,20 +167,34 @@ reason to do it sufficiently in advance is two-fold:
   inflammation that I didn't know about, I have enough time for
   recovery before the dental cleaning.
 
-### (preparation / direct) Reminder to do normal face shaving 1 or 2 days prior to appointment and discard razor used
+### (preparation / direct) Cancellation consideration for three business days before the appointment
 
-I don't want to be in a situation where I have a lot of face shaving
-to do the morning of the appointment, so I should make sure not to
-skip normal face shaving 1 or 2 days prior. Also, discard the razor when done so that I have a fresh razor for the shaving the morning of the appointment.
+There is a $50 charge for cancelling less than three business days
+prior to the appointment, so I should set a calendar reminder to
+consider whether to cancel or reschedule while I can still do so for
+free. In particular, other related stuff such as vaccines, blood
+tests, or travel plans may come up.
 
-### (preparation / direct) Reminder to do thorough face shaving between 3 and 6 hours prior to the appointment (using a new razor)
+Some of the things to consider:
 
-Shave slowly and thoroughly. Be particularly thorough and careful in
-the area above and below the lips.
+* Do I have any kind of injuries in my mouth that I expect to not
+  represent chronic problems but rather temporary injuries?
+  Rescheduling to a week later makes sense in such cases.
 
-### (preparation / general energy conservation) Reminder to skip exercise on the day of the appointment
+* Am I feeling unwell, for instance, digestive issues, minor cold,
+  sniffling, etc.? In such cases, if there is an expected trajectory
+  of getting better, delaying by 1-2 weeks, based on the expected
+  trajectory, would be desirable.
 
-This is to conserve time and energy for the appointment.
+* Look carefully in my calendar for the next few weeks and make sure
+  there's nothing of concern in the two weeks ahead of the dental
+  cleaning appointment.
+
+### (local IM post / cyclic personal chores) Shopping reminder for two days prior to the appointment
+
+Set up a reminder for a grocery shopping trip for the evening two days
+before the dental cleaning appointment. It's good to have groceries
+shopped for ahead of the appointment if possible.
 
 ### (preparation / risk reduction) Reminder to keep fermentable food consumption to a minimum starting 24 hours prior to the appointment
 
@@ -231,12 +207,27 @@ process. My target threshold is more strict (I want to avoid abdominal
 discomfort more completely) given the nature of the process and the
 extended confinement.
 
+### (preparation / direct) Reminder to do normal face shaving 1 or 2 days prior to appointment and discard razor used
+
+I don't want to be in a situation where I have a lot of face shaving
+to do the morning of the appointment, so I should make sure not to
+skip normal face shaving 1 or 2 days prior. Also, discard the razor when done so that I have a fresh razor for the shaving the morning of the appointment.
+
 ### (preparation / direct) Packing / prep reminder for the night before the appointment
 
 Anything I need to get ready for the dental cleaning should ideally be
 handled the previous night, so that even if I'm in a rush I don't miss
 doing it. This includes any planning for additional things I hope to
 do in the trip after the appointment.
+
+### (preparation / direct) Reminder to do thorough face shaving between 3 and 6 hours prior to the appointment (using a new razor)
+
+Shave slowly and thoroughly. Be particularly thorough and careful in
+the area above and below the lips.
+
+### (preparation / general energy conservation) Reminder to skip exercise on the day of the appointment
+
+This is to conserve time and energy for the appointment.
 
 ### (recovery / documentation and processing) Reminder to document the dental cleaning on the evening of the cleaning
 
@@ -253,6 +244,30 @@ writing the document itself:
 * Add row to [doctor_visits.sql](../sql/doctor_visits.sql)
 * Update latest dental cleaning link in
   [health-profile.md](../profile-information/health-profile.md)
+
+### Reminder to set reminders for the next dental cleaning appointment
+
+Set a reminder for the evening of the dental cleaning appointment to
+set calendar reminders for the next dental cleaning appointment
+following this doc.
+
+### (recovery / local rest + reduced capacity + increased injury risk) Reminder to check for head and neck soreness the day after the appointment and skip strength exercises / hand gripper exercises if there is soreness
+
+Sometimes, the ergonomics of the dental cleaning appointment may cause
+or exacerbate head and neck soreness. Although mild, this can be
+exacerbated by strength exercises and hand gripper exercises. Check
+the day after the appointment and consider skipping these exercises in
+case of observed soreness.
+
+### (recovery / local rest + reduced capacity + increased injury risk) Reminder to drink plenty of water and keep my talking load low for the two days after the appointment (to minimize and better address the risk of excess salivation)
+
+I should closely monitor my saliva levels for the two days after the
+appointment.
+
+Drinking plenty of water helps address the risk of dry mouth.
+
+Keeping my talking load low may help reduce excess salivation and also
+reduce the inconvenience imposed by excess salivation.
 
 ### (recovery / documentation and processing) Reminder to execute dental self-exam checklist one week after the cleaning
 
@@ -272,29 +287,6 @@ still be a reasonable approximation to the starting state of my teeth
 after the cleaning. Delaying further runs the risk of picking up
 plaque accumulation and staining after the cleaning.
 
-### (recovery / local rest + reduced capacity + increased injury risk) Reminder to drink plenty of water and keep my talking load low for the two days after the appointment (to minimize and better address the risk of excess salivation)
-
-I should closely monitor my saliva levels for the two days after the
-appointment.
-
-Drinking plenty of water helps address the risk of dry mouth.
-
-Keeping my talking load low may help reduce excess salivation and also
-reduce the inconvenience imposed by excess salivation.
-
-### Reminder to set reminders for the next dental cleaning appointment
-
-Set a reminder for the evening of the dental cleaning appointment to
-set calendar reminders for the next dental cleaning appointment
-following this doc.
-
-### (recovery / local rest + reduced capacity + increased injury risk) Reminder to check for head and neck soreness the day after the appointment and skip strength exercises / hand gripper exercises if there is soreness
-
-Sometimes, the ergonomics of the dental cleaning appointment may cause
-or exacerbate head and neck soreness. Although mild, this can be
-exacerbated by strength exercises and hand gripper exercises. Check
-the day after the appointment and consider skipping these exercises in
-case of observed soreness.
 
 ## Things to keep in mind during the appointment
 

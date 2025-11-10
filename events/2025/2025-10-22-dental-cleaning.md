@@ -1,15 +1,8 @@
 # 2025-10-22: dental cleaning
 
-I had a dental cleaning appointment on Wednesday 2025-10-22 at Total
-Health Dental Care at 3017 Telegraph Avenue for a regular dental
-cleaning at 1 PM. The previous dental cleaning had been on
-[2025-04-16](2025-04-16-dental-cleaning.md).
-
-TODO: As of Sunday 2025-11-02, two things are pending, both of which I
-have calendar reminders for:
-
-* Dental self-exam checklist execution for after the dental cleaning
-* Scheduling of calendar reminders associated with the next dental cleaning
+I had a dental cleaning appointment on Wednesday 2025-10-22 at 1 PM at
+Total Health Dental Care at 3017 Telegraph Avenue. The previous dental
+cleaning had been on [2025-04-16](2025-04-16-dental-cleaning.md).
 
 Sections of this document:
 
@@ -23,7 +16,7 @@ Sections of this document:
 
 ### Appointment set on 2025-04-16 at end of previous dental cleaning
 
-My appointment was set onf Wednesday 2025-04-16 at the end of the
+My appointment was set on Wednesday 2025-04-16 at the end of the
 [previous dental cleaning](2025-04-16-dental-cleaning.md).
 
 ### Creation of calendar event, reminders etc. on 2025-04-17
@@ -847,3 +840,8 @@ were mostly normal; in particular, the pressure testing results were
 better. However, I am concerned about there still being plaque on the
 back top right teeth, so that's an area I plan to pay more attention
 to when brushing.
+
+### Execution on 2025-11-09 of preparatory steps for next dental cleaning scheduled for 2026-04-29
+
+On Sunday 2025-11-09, I executed the preparatory steps for the next
+dental cleaning scheduled for 2026-04-29.
