@@ -22,7 +22,7 @@ queries = [
     from test_results
     group by test
     having num_distinct_units > 1
-    and not (test = 'D3' and num_distinct_units = 2);""",
+    and not (test = 'Vitamin D3' and num_distinct_units = 2);""",
 
     # The serum creatinine exception is a case where one of the reference ranges was male-specific and the other combined both males and females
     """
