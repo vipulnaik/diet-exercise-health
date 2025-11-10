@@ -4,11 +4,10 @@ Last major update: October/November 2025 (significant expansion and
 addition of new sections and subsections while adding recent test
 results)
 
-NOTE (2025-09-22): I got [blood tests done on September 10,
+NOTE (2025-09-22, updated 2025-11-09): I got [blood tests done on September 10,
 2025](../events/2025/2025-09-10-blood-tests.md). I got all the results
-back by September 21, but have not had time to enter the results in
-the SQL file and incorporate them into the health profile. I plan to
-do this updating over the next few weeks, and will remove this note
+back by September 21. I am part of the way through to entering results in
+the SQL file and incorporate them into the health profile. I plan to finish updating over the next few weeks, and will remove this note
 once the update is complete. A quick examination of the results
 suggests that they are either within normal range or outside normal
 range in ways that are already known, so there is no immediate
