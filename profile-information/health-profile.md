@@ -1,10 +1,8 @@
 # Health profile
 
-Last major update: December 18, 2024 (this mostly entailed a
-reordering of sections and addition of notes on future sections to
-write)
-
-Last substantive minor update: November 8, 2025 (2025-11-08)
+Last major update: October/November 2025 (significant expansion and
+addition of new sections and subsections while adding recent test
+results)
 
 NOTE (2025-09-22): I got [blood tests done on September 10,
 2025](../events/2025/2025-09-10-blood-tests.md). I got all the results
@@ -55,7 +53,9 @@ Sections of this document:
   * [Atherosclerotic risk](#atherosclerotic-risk)
   * [Metabolic syndrome evaluation](#metabolic-syndrome-evaluation)
   * [Markers of internal inflammation](#markers-of-internal-inflammation)
-  * [Hormones](#hormones)
+  * [Hormones](#hormones) (doesn't cover insulin which is covered in the insulin sensitivity and glycemic control section)
+    * [Thyroid (T3, T4, TSH)](#thyroid-t3-t4-tsh)
+    * [Testosterone](#testosterone)
 * Upcoming sections to be written around internal organs, will cover
   what I can gather from measurements taken in my blood tests as well
   as other biomarkers covered in the preceding section to paint a
@@ -1040,6 +1040,42 @@ time I measured them. For T3 uptake, the one reading I have from
 December 2024 is just slightly below range, which could be due to low
 T3 or high TBG. I plan to add in TBG with my next thyroid panel so
 that I have more clarity on this aspect.
+
+### Testosterone
+
+The total testosterone at a given time has one of three fates:
+
+* It can be free, i.e., not bound to anything.
+
+* It can be bound to albumin, whereby it is bioavailable but not
+  free. The total of free and albumin-bound testosterone is the
+  bioavailable testosterone.
+
+* It can be bound to SHBG, whereby it is not bioavailable.
+
+The Vermeulen equation can be used to estimate how much of total
+testosterone has each of these fates, based on the levels of total
+testosterone, SHBG, and albumin. Essentially, this involves using the
+kinetics to formulate a quadratic equation and then solve it. There
+are several online calculators, such as
+[this](https://www.mdapp.co/free-and-bioavailable-testosterone-calculator-544/)
+and [this](https://www.issam.ch/freetesto.htm).
+
+In light of this, when measuring testosterone, I make sure my blood
+test includes total testosterone (measured with LC/MS), sex hormone
+binding globulin (SHBG), and albumin (this last one is included in the
+comprehensive metabolic panel), and I then calculate free testosterone
+and bioavailable testosterone based on those.
+
+Here is the table of values so far; I use T for testosterone to keep
+the columns thin. For the computed values, I used [this
+link](https://www.issam.ch/freetesto.htm), but cross-checked it
+against another link. The calculated values differed by about 1%
+between the two links, reflecting slight rounding differences.
+
+Reading date | Total T (ng/dL) | SHBG (nmol/L) | Albumin (g/dL) | Free T (ng/dL) | Bioavailable T (ng/dL)
+-- | -- | -- | -- | -- | --
+2025-09-10 (September 2025) | 603 | 42.5 | 4.8 | 10.6 | 276
 
 ## Liver status
 
