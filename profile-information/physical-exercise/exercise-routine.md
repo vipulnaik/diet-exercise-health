@@ -193,6 +193,8 @@ push-ups over time. See [here](push-ups-with-history.md) for details.
 
 ## Standing-on-one-leg-with-eyes-closed exercise
 
+### At home, without shoes
+
 Goal of exercise: maintain (not trying to build though I do expect
 some improvement over time)
 
@@ -212,6 +214,16 @@ correspondingly lower.
 
 See [here](standing-on-one-leg-with-eyes-closed-with-history.md) for
 more details.
+
+### Outdoors, with shoes
+
+Goal of exercise: build to consistently being able to do this on
+either leg for about 30 seconds, while waiting for the walk sign at a
+traffic light.
+
+See
+[here](standing-on-one-leg-with-eyes-closed-with-shoes-with-history.md)
+for more details.
 
 ## Standing-on-one-leg-with-eyes-open exercise
 

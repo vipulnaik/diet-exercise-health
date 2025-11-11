@@ -6,6 +6,9 @@ weights), but on 2023-10-29 (and starting with information/practices
 that I started collecting 2023-10-28) I've decided to flesh out the
 practice and some variants of it.
 
+For the with-shoes variant of this exercise, see
+[here](standing-on-one-leg-with-eyes-closed-with-shoes-with-history.md).
+
 ## Goal and functional relevance of exercise
 
 ### Maintain standing-on-one-leg-with-eyes-closed for at least 90 seconds (with adjustment for temperature)
