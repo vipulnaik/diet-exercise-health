@@ -29,7 +29,7 @@ skipped, but if I abort more than three tries successively I should
 document this.
 
 I should do up to five tries on each leg. I can stop if I hit the
-threshold of 10 seconds on any try.
+threshold of 20 seconds on any try.
 
 ## Triggers for overall exercise
 
@@ -51,6 +51,10 @@ flexion](dorsiflexion-and-plantar-flexion-exercises-with-history.md).
 I started doing this exercise on Sunday 2025-06-22.
 
 On 2025-06-26, I documented the exercise and set the threshold as 10
+seconds.
+
+On 2025-11-11, I increased the threshold to 20 seconds. As of this
+time, my maximum on each leg is somewhere betwen 12 seconds and 17
 seconds.
 
 ### History of triggers for overall exercise

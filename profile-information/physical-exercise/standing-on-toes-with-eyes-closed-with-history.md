@@ -2,7 +2,7 @@
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-toes-with-eyes-closed duration at at least 65 seconds
+### Maintain standing-on-toes-with-eyes-closed duration at at least 80 seconds
 
 The ability to sustain weight on toes is important for balance, as we
 lift off from our toes, and when jogging, we are lifting off from the
@@ -12,10 +12,10 @@ raises the stakes so as to get more bang per second of exercise.
 When I started standing-on-toes-with-eyes-closed on 2024-09-09, I set
 a threshold of 15 seconds. Even this threshold, I was not able to
 consistently clear on the first try, leading to me doing 3 or 5 tries
-on many days. As of 2025-06-22 the threshold is 65 seconds.
+on many days. As of 2025-11-11 the threshold is 80 seconds.
 
 I don't have standard benchmarks for this, but I think a threshold of
-65 seconds is reasonable and I don't have plans to increase the
+80 seconds is reasonable and I don't have plans to increase the
 threshold, though if my performance continues to improve organically,
 I may increase the threshold further.
 
@@ -90,6 +90,9 @@ the durations I had achieved over the past month.
 On 2025-06-22, I increased the threshold to 65 seconds after reviewing
 the durations I had achieved over the past two months.
 
+On 2025-11-11, I increased the threshold to 80 seconds after reviewing
+the durations I had achieved since the beginning of June 2025.
+
 ### History of triggers for overall exercise
 
 Right from the start of this exercise on 2024-09-09, I set this
@@ -135,4 +138,9 @@ So the practice 2025-10-13 onward is to do this exercise roughly every
 alternating rice prep, so about once every 7 to 9 days. With that
 said, some rice preps I might use for more niche occasional exercises,
 which might displace a few slots, so effectively this might be a
-little less frequent.
+little less frequent. Also, if the
+standing-on-one-leg-with-eyes-closed exercise ends up taking more
+time, I might displace the standing-on-toes-with-eyes-closed to the
+next rice prep along with the other set of exercises, so the execution
+pattern can be somewhat erratic.
+

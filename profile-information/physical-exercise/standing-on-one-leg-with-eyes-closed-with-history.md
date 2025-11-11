@@ -8,7 +8,7 @@ practice and some variants of it.
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 80 seconds (with adjustment for temperature)
+### Maintain standing-on-one-leg-with-eyes-closed for at least 90 seconds (with adjustment for temperature)
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -21,24 +21,29 @@ According to
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
 (average of 18.3 seconds. As somebody in my late 30s / early 40s (as
-of 2025), my threshold is at least 80 seconds per leg with temperature
-adjustment, and in practice I do between 60 and 120 seconds on the
-first try most of the time; the portion of the range below 80 would
+of 2025), my threshold is at least 90 seconds per leg with temperature
+adjustment, and in practice I do between 60 and 140 seconds on the
+first try most of the time; the portion of the range below 90 would
 generally be during colder temperatures where the threshold is also
 correspondingly lower.
 
 At this point, it's not clear that increasing the duration has
-real-world effects either in practice or in theory, and time spent
-standing with eyes closed can't be multiplexed with other things, so
-my plan is to sustain the minimum of 80 seconds for
+real-world effects either in practice or in theory,so my plan is to
+sustain the minimum of 90 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
 up. Time considerations make it dificult to push the threshold too far
-up, even if I am eventually able to do clearly over 80 seconds.
+up, even if I am eventually able to do clearly over 90 seconds.
+
+In late 2025, I switched to doing these exercises along with rice
+prep, and multiplexed with listening to stuff, so the time is
+efficiently multiplexed and does not use up valuable time. With that
+said, the multiplexing is efficient only if I don't spend a *lot* of
+time standing on one leg and I don't have to do multiple repeat tries.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 80 seconds over a
-period of under 2 years, I think just being able to maintain at 80
-seconds should be good enough.
+that I've increased the threshold from 10 seconds to 90 seconds over a
+period of a little over 2 years, I think just being able to maintain
+at 90 seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
 exercises, such as
@@ -66,17 +71,17 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 80 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 90 seconds with adjustments for colder temperatures)
 
-Starting 2025-06-22, the threshold duration is as follows:
+Starting 2025-11-11, the threshold duration is as follows:
 
-* Baseline of 80 seconds
+* Baseline of 90 seconds
 
 * If the temperature is 20 degrees Celsius or higher, no
   adjustment. If the temperature is greater than 0 degrees Celsius and
-  less than 20 degrees Celsius, then 20 + three times the temperature
+  less than 20 degrees Celsius, then 30 + three times the temperature
   in degrees Celsius (in seconds). For instance, if the temperature is
-  10 degrees Celsius, the threshold is 50 seconds.
+  10 degrees Celsius, the threshold is 60 seconds.
 
 ### How the threshold duration is used
 
@@ -377,6 +382,25 @@ exercises](dorsiflexion-and-plantar-flexion-exercises-with-history.md).
     and less than 20 degrees Celsius, then 20 + three times the temperature
     in degrees Celsius (in seconds). For instance, if the temperature
     is 10 degrees Celsius, the threshold is 50 seconds.
+
+* Starting 2025-11-11, I am increasing the baseline threshold to 90
+  seconds. The new logic is:
+
+  * Baseline of 90 seconds
+
+  * If the temperature is 20 degrees Celsius or higher, no
+    adjustment. If the temperature is greater than 0 degrees Celsius
+    and less than 20 degrees Celsius, then 30 + three times the
+    temperature in degrees Celsius (in seconds). For instance, if the
+    temperature is 10 degrees Celsius, the threshold is 60 seconds.
+
+  This increase is based on a review of data since the beginning of
+  June. Over this period, I have gone below 90 seconds on my right leg
+  just once (86 seconds). At that time, my foot and socks were wet,
+  and the second try worked. I have gone below 90 seconds on my left
+  leg twice (once along with the right leg, and one other time where I
+  got to 88 seconds). Most of the time, I get above 100 seconds on
+  both legs.
 
 ### History of triggers for overall exercise
 

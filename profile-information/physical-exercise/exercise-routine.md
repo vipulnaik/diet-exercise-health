@@ -203,11 +203,12 @@ balance.
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
 
-As of June 2025, my aim is to be able to manage at least 80 seconds on
-each leg, with adjustments for colder indoor temperatures. In
-practice, I generally do somewhere between 60 and 120 seconds on each
-leg; the portion of the range below 80 would generally be during
-colder temperatures where the threshold is also correspondingly lower.
+As of November 2025, my aim is to be able to manage at least 90
+seconds on each leg, with adjustments for colder indoor
+temperatures. In practice, I generally do somewhere between 60 and 120
+seconds on each leg; the portion of the range below 80 would generally
+be during colder temperatures where the threshold is also
+correspondingly lower.
 
 See [here](standing-on-one-leg-with-eyes-closed-with-history.md) for
 more details.
@@ -234,8 +235,8 @@ once a month.
 
 Goal of exercise: maintain
 
-As of June 2025, my aim is to be able to manage at least 65 seconds
-without having to lift and reposition either foot.
+As of November 2025, my aim is to be able to manage at least 80
+seconds without having to lift and reposition either foot.
 
 See [here](standing-on-toes-with-eyes-closed-with-history.md) for more
 details.
@@ -246,8 +247,8 @@ Goal of exercise: build
 
 When I started this exercise in February 2025, my aim was to build
 toward consistently doing at least 3 minutes without having to lift
-and reposition either foot. As of July 2025, I believe I have
-accomplished this goal.
+and reposition either foot. As of November 2025, I have increased the
+goal to 4 minutes.
 
 See [here](standing-on-toes-with-eyes-open-with-history.md) for more
 details.
