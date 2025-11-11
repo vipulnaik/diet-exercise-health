@@ -50,6 +50,15 @@ Things I already try to do, that I slipped up on:
 * Margins: I want to aim to have good margins so that even if I
   miscalculate, I am still unlikely to actually hit anything.
 
+* More thinking about unexpected impacts: I already record unexpected
+  impacts, where some part of my body unexpectedly hits an object,
+  even if it doesn't cause me any pain or injury, using `ui:` prefix
+  in Slack self-chat logs. Reviewing these, I do see that impacts of
+  the kind that happened today do occur 1 to 2 times a month, but
+  usually with much lower speed and without hitting a rough edge, so
+  they don't cause any pain or injury. Monitoring and trying to reduce
+  the frequency of these over time should be an ongoing goal.
+
 A few things I had not explicitly thought about, that are highlighted
 by this incident:
 
@@ -70,4 +79,4 @@ by this incident:
   rough edge may lead to bleeding. As much as possible I should
   proactively identify rough edges and take actions such as applying
   tape or other protective stuff so that even if I hit the area, the
-  damage is less.
+  damage is comparable to the damage of hitting a smooth surface.
