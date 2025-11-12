@@ -2,6 +2,8 @@
 
 ## Incident
 
+The incident occurred around 11:15 AM in the morning.
+
 This was a very unusual and unexpected injury. I had placed a roll of
 paper towels upright on a countertop on the kitchen. There were
 shelves starting a few feet above the countertop. The paper towel was
@@ -30,6 +32,28 @@ could think. After a minute or two, there was bleeding from the
 area. The bleeding wasn't stopping on its own quickly, so I applied a
 water block tough strips bandage (rather than water block flex, in
 light of this finger area having a larger circumference.
+
+## Followup actions
+
+I followed the [best
+practices](../../best-practices/best-practices-around-skin-wounds.md),
+trying to minimize activities that could irritate the hands, opting
+instead to do more stuff on the computer (fortunately the injury was
+not in a part of the hand that interfered with typing).
+
+Around 1:02 PM, after a few tasks that weakened the bandage, including
+applying vaseline, washing hands, and brushing teeth, I changed the
+bandage. The new bandage I chose was also a water block tough strips
+bandage.
+
+I then avoided further washing of my hands or use of anything
+involving water or vaseline on my hands until around 4:10 PM. When I
+washed my hands this time, the bandage weakened enough that I decided
+to remove it. By this time, the clotting was complete enough that I
+decided it's more convenient to leave the wound open, so I left the
+wound open for a while. I did various activities (eating, washing
+hands, washing dishes) after that. While the wound did get somewhat
+irritated, it did not reopen.
 
 ## Learnings
 
