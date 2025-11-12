@@ -1235,9 +1235,30 @@ afternoon. I had a couple of meetings in the morning and early
 afternoon, so I didn't have the flexibility to squeeze in exercise if
 I wanted to be on the computer and active for my meetings.
 
-## 2025-11-06: skipped all exercises
+## 2025-11-06 to 2025-11-10: skipped all exercises (with the exception of balance exercises)
 
 On Thursday 2025-11-06, I skipped all exercises, dually serving the
 [DEXA scan the next day
 (2025-11-07)](2025-11-07-bodyspec-dexa-scan.md) and the [flu shot two
 days later](2025-11-08-flu-shot.md).
+
+I continued skipping all exercises on 2025-11-07 for the DEXA scan,
+and on 2025-11-08 for the flu shot.
+
+I continued skipping all exercises on 2025-11-09 and 2025-11-10, with
+the exception of balance exercises that I do along with rice prep,
+that I happened to do on 2025-11-09.
+
+## 2025-11-11: resumption of jogging
+
+I resumed jogging on Tuesday 2025-11-11, three days after the flu
+shot, as per the plan. For reasons unrelated to the flu shot (namely
+scheduling issues driven partly by the [finger injury in the
+morning](2025-11-11-right-index-finger-impact-against-bottom-of-kitchen-shelves.md)),
+I did at-home jogging instead of going out to jog.
+
+## 2025-11-12: resumption of breath holds and hand gripper exercises with the left hand
+
+On Wednesday 2025-11-12, I resumed breath holds and hand gripper
+exercises with the left hand. For both, I was able to perform at or
+above my usual standard.
