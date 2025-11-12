@@ -210,7 +210,7 @@ However, in cases involving the hands or face, follow this guideline:
   wash, remove the bandage first, do the activity, dry the hands, and
   then apply the bandage again. In cases where there is no shortage of
   bandages, apply a new bandage each time, However, in case of
-  shortage of bandages (for instnace, when outdoors with a relatively
+  shortage of bandages (for instance, when outdoors with a relatively
   limited supply of bandages), it's okay to reapply the bandage if it
   doesn't have a lot of visible blood on it.
 
