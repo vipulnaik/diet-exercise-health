@@ -35,6 +35,8 @@ light of this finger area having a larger circumference.
 
 ## Followup actions
 
+### Bandage period of about five hours (11:15 AM to 4:15 PM)
+
 I followed the [best
 practices](../../best-practices/best-practices-around-skin-wounds.md),
 trying to minimize activities that could irritate the hands, opting
@@ -51,9 +53,25 @@ involving water or vaseline on my hands until around 4:10 PM. When I
 washed my hands this time, the bandage weakened enough that I decided
 to remove it. By this time, the clotting was complete enough that I
 decided it's more convenient to leave the wound open, so I left the
-wound open for a while. I did various activities (eating, washing
-hands, washing dishes) after that. While the wound did get somewhat
-irritated, it did not reopen.
+wound open for a while.
+
+### Later in the day
+
+I proceeded to eat my meal. At around 5:30 PM, after I had finished
+eating, there was a small amount of further bleeding in the area, but
+I wiped it off and there was no continued bleeding, so I decided not
+to put on a bandage. There was still a bit of smarting as I washed
+stuff around 6 PM to 7 PM.
+
+By the time of my next round of washing dishes around 10:30 PM, the
+smarting had largely stopped and the washing process was smooth.
+
+### Next day (2025-11-12)
+
+By the morning of the next day (2025-11-12), I was comfortably able to
+engage in activities without the wound getting in the way, though I
+continued to be careful not to apply a lot of soap, hand sanitizer, or
+dish soap directly on the area.
 
 ## Learnings
 
