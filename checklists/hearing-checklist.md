@@ -17,7 +17,7 @@ So I can skip these during the formal execution. However, if during
 formal execution I find that I haven't done them at all for at least
 21 days, I should do them along with the formal execution.
 
-- Play https://www.youtube.com/watch?v=eVVaqFDG6Fo and determine minimum audible volume with normal headphones (expected to be 1/64 system volume at <= 50% YouTube volume) and with bone conduction headphones (expected to be 1/16 system volume at <= 50% for Yomdud)
+- Play https://www.youtube.com/watch?v=eVVaqFDG6Fo and determine minimum audible volume with normal headphones (expected to be 1/64 system volume at about 25% YouTube volume) and with bone conduction headphones (expected to be 1/16 system volume at <= 50% for Yomdud)
   - normal headphones: log message (if passed) `lmlyd minimum audible volume test passed (both ears) with normal headphones`, otherwise document in more detail and determine followup actions
     - [ ] Make sure that within-YouTube volume is set to max
     - [ ] Left ear with normal headphones (if the headphones are oriented wrong, re-wear the headphones)
