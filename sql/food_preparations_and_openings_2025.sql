@@ -1409,5 +1409,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-11-13 Udupi Palace takeout consumption (second meal) */
   ('2025-11-13','Udupi Palace spinach masala dosa',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-11-13','TJ Roasted Seaweed',1,2,null,null);
+  ('2025-11-13','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-11-13','TJ Walnuts',1,2,null,null);
   /* Double-check the date and meal index before committing */
