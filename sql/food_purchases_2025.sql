@@ -689,8 +689,21 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-11-06','Beefsteak tomato',6),
   /* 2025-11-07 (Friday) outside meal with work colleagues */
   ('2025-11-07','We Be Sushi Vegetable Tempura',1),
-  /* 2025-11-12 (Wednesday) Berkeley Bowl; total cost $62.33; paid by credit card; 12 items in transaction of which 6 were Seventh Generation dish soap bottles, so 6 food items */
-  ('2025-11-12','Kite Hill Greek Style Plant-Based Yogurt',6);
+  /* 2025-11-12 (Wednesday) Berkeley Bowl; total cost $62.33; checkout at 6:12 PM; paid by credit card; 12 items in transaction of which 6 were Seventh Generation dish soap bottles, so 6 food items */
+  ('2025-11-12','Kite Hill Greek Style Plant-Based Yogurt',6),
+  /* 2025-11-13 (Thursday) Trader Joe's; total cost $41.57; checkout at 6:12 PM; paid by credit card; 23 items in transaction */
+  ('2025-11-13','TJ Almond Milk',1),
+  ('2025-11-13','TJ Miso Ginger Broth',1),
+  ('2025-11-13','TJ Carb Savvy Tortillas',3),
+  ('2025-11-13','Eggplant',1),
+  ('2025-11-13','Green bell pepper',4), /* incorrectly billed as onion sweet jumbo */
+  ('2025-11-13','Red bell pepper',2),
+  ('2025-11-13','Beefsteak tomato',9),
+  ('2025-11-13','TJ Kale',1),
+  ('2025-11-13','TJ Carrots',1),
+  /* 2025-11-13 (Thursday) Udupi Palace; total cost $14.28; paid by cash */
+  ('2025-11-13','Udupi Palace spinach masala dosa',1),
+  ('2025-11-13','Udupi Palace spinach masala dosa free red chutney',1); /* recording as a separate item as I start the consumption of this later */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
