@@ -187,9 +187,10 @@ Set a weather check reminder for two days prior to the appointment.
   * File the information leaflet in my health records and update the
     digital file I have for the document list
 
-* (recovery / documentation and processing) Reminder to check vaccine
-  records: Four days after the vaccine appointment; if the record is
-  not yet available, then remind again after three more days:
+* (recovery / documentation and processing) Reminder to check and
+  update my copies of vaccine records: Four days after the vaccine
+  appointment; if the record is not yet available, then remind again
+  after three more days:
 
   * Walgreens website for a digital record
 
