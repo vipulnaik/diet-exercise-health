@@ -1262,3 +1262,12 @@ I did at-home jogging instead of going out to jog.
 On Wednesday 2025-11-12, I resumed breath holds and hand gripper
 exercises with the left hand. For both, I was able to perform at or
 above my usual standard.
+
+## 2025-11-14: skipped most exercises due to time constraints
+
+On Friday 2025-11-14, I had to deal with time-sensitive tasks at work
+in the morning, and also needed to cook food after that. This didn't
+leave enough time in between for exercise. I did do the
+humming-with-intermittent-pauses exercise since I did have some time
+available, and I wanted to use this time to do an exercise that I have
+not been doing as regularly as I want to.
