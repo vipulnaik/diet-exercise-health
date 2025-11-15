@@ -1249,7 +1249,7 @@ I continued skipping all exercises on 2025-11-09 and 2025-11-10, with
 the exception of balance exercises that I do along with rice prep,
 that I happened to do on 2025-11-09.
 
-## 2025-11-11: resumption of jogging
+## 2025-11-11: resumption of jogging (after pause due to DEXA scan and then flu shot)
 
 I resumed jogging on Tuesday 2025-11-11, three days after the flu
 shot, as per the plan. For reasons unrelated to the flu shot (namely
@@ -1257,11 +1257,13 @@ scheduling issues driven partly by the [finger injury in the
 morning](2025-11-11-right-index-finger-impact-against-bottom-of-kitchen-shelves.md)),
 I did at-home jogging instead of going out to jog.
 
-## 2025-11-12: resumption of breath holds and hand gripper exercises with the left hand
+## 2025-11-12: resumption of breath holds and hand gripper exercises with the left hand (after pause due to DEXA scan and then flu shot)
 
 On Wednesday 2025-11-12, I resumed breath holds and hand gripper
-exercises with the left hand. For both, I was able to perform at or
-above my usual standard.
+exercises with the left hand. The former was a day late (because I
+missed doing breath holds the previous day, not a deliberate strategic
+choice) while the latter was as scheduled. For both, I was able to
+perform at or above my usual standard.
 
 ## 2025-11-14: skipped most exercises due to time constraints
 
@@ -1271,3 +1273,10 @@ leave enough time in between for exercise. I did do the
 humming-with-intermittent-pauses exercise since I did have some time
 available, and I wanted to use this time to do an exercise that I have
 not been doing as regularly as I want to.
+
+## 2025-11-15: resumption of hand gripper exercises with the right hand (after pause due to DEXA scan and then flu shot)
+
+On Saturday 2025-11-15, I resumed hand gripper exercises with the
+right hand, as scheduled. I performed above my usual standard,
+suggesting that I had given a long enough gap after the flu shot to
+fully recover the aspects of strength necessary for these exercises.
