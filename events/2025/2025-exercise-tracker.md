@@ -1280,3 +1280,10 @@ On Saturday 2025-11-15, I resumed hand gripper exercises with the
 right hand, as scheduled. I performed above my usual standard,
 suggesting that I had given a long enough gap after the flu shot to
 fully recover the aspects of strength necessary for these exercises.
+
+## 2025-11-16: skipped jogging for scheduling reasons
+
+On Sunday 2025-11-16, I skipped jogging so that I could make a trip to
+Trader Joe's in the morning. This was so that I could fit in meal prep
+in the afternoon, and also because the probability of rain was higher
+in the afternoon, so I wanted to finish the trip in the morning.
