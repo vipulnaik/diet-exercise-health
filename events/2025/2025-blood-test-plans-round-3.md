@@ -68,3 +68,21 @@ I need to consider whether this might or might not be useful.
 ### ADMA/SDMA
 
 I need to consider whether this might or might not be useful.
+
+### Apo A1
+
+I've ignored this so far as it doesn't seem relevant to cardiovascular
+health, but there's recent evidence suggesting it is relevant to
+neurodegenerative disease (Apo A1 apoprotein -- not lipoprotein -- is
+small enough to cross the blood brain barrier and may be
+neuroprotective).
+
+### Omega-3 index
+
+This time, I should follow the protocol of not pausing omega-3
+supplementation (what about other supplementation? Depends on what
+other tests I am doing).
+
+### B12, MMA, and homocysteine
+
+To be fleshed out later.
