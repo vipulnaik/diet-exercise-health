@@ -1287,3 +1287,9 @@ On Sunday 2025-11-16, I skipped jogging so that I could make a trip to
 Trader Joe's in the morning. This was so that I could fit in meal prep
 in the afternoon, and also because the probability of rain was higher
 in the afternoon, so I wanted to finish the trip in the morning.
+
+## 2025-11-17: skipped all exercises due to time constraints
+
+On Monday 2025-11-17, I had to tackle several items in the morning and
+early afternoon, and I got pretty delayed as a result, so I skipped
+all exercises.
