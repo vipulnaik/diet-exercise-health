@@ -1293,3 +1293,14 @@ in the afternoon, so I wanted to finish the trip in the morning.
 On Monday 2025-11-17, I had to tackle several items in the morning and
 early afternoon, and I got pretty delayed as a result, so I skipped
 all exercises.
+
+## 2025-11-18: resumption of strength exercises (after pause due to DEXA scan and then flu shot)
+
+On Tuesday 2025-11-18, I resumed strength exercises. This was one day
+behind schedule; the delay was because I skipped all exercises on
+Monday 2025-11-17 for unrelated reasons. I performed a little below my
+usual standard (though still within range), and felt a little more
+sore doing the exercises. This is likely because of deconditioning as
+a result of not doing strength exercises for a while (the last time
+was 2025-11-05) though there may be a contribution from the recent
+temperature drop that my body had not fully adjusted to.
