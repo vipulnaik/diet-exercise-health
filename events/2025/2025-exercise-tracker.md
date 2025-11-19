@@ -1304,3 +1304,9 @@ sore doing the exercises. This is likely because of deconditioning as
 a result of not doing strength exercises for a while (the last time
 was 2025-11-05) though there may be a contribution from the recent
 temperature drop that my body had not fully adjusted to.
+
+## 2025-11-19: skipped hand gripper exercises to do handwriting practice
+
+On Wednesday 2025-11-19, I skipped hand gripper exercises, using the
+time (and some of the same muscles) for periodic handwriting
+practice instead.
