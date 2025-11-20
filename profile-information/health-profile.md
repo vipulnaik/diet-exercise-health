@@ -1961,15 +1961,18 @@ My current supplement regime as of October 2025 is:
     fortification in my almond milk), continuing with the
     supplementation is the safe choice for now.
 
-* 2 daily vegan omega-3, with one from Freshfield and one from sapling
+* 3 daily vegan omega-3, with 1.5 from Freshfield and 1.5 from sapling
+  (one of each with first meal and one across both with second meal,
+  alternating between them by day)
 
   * Based on non-ideal omega-3 test results in both June 2021 and
     September 2024, I increased my supplement daily dose from 1
-    softgel to 2 softgels. The blood test results, particularly for
-    DHA, actually were worse in the test done in December 2024 after
-    the dose increase. However, I think that the plasma test has some
-    issues, particularly since I stop supplementation for two days
-    prior to the test. A red blood cell test (such as
+    softgel to 2 softgels; in November 2025, I increased further to 3
+    softgels. The blood test results, particularly for DHA, actually
+    were worse in the test done in December 2024 after the dose
+    increase. However, I think that the plasma test has some issues,
+    particularly since I stop supplementation for two days prior to
+    the test. A red blood cell test (such as
     [this](https://omegaquant.com/3-reasons-to-measure-omega-3-levels-in-red-blood-cells/))
     would be ideal, but it requires a self-draw and is more of a
     hassle. If doing plasma testing in the future, I plan to not pause
