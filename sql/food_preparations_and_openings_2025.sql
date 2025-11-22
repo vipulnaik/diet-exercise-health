@@ -1401,7 +1401,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-09','TJ Walnuts',1,2,'2025-11-13',1),
   ('2025-11-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-11-12',2),
   ('2025-11-11','TJ Carb Savvy Tortillas',1,1,'2025-11-13',1),
-  ('2025-11-12','TJ Almond Milk',1,1,null,null),
+  ('2025-11-12','TJ Almond Milk',1,1,'2025-11-21',2),
   ('2025-11-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-14',1),
   ('2025-11-12','TJ Miso Ginger Broth',1,2,'2025-11-19',2),
   /* 2025-11-13 rice prep (first meal) (added turmeric, cumin, salt) */
@@ -1409,7 +1409,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-11-13 Udupi Palace takeout consumption (second meal) */
   ('2025-11-13','Udupi Palace spinach masala dosa',1,2,'2025-11-14',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-11-13','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-11-13','TJ Roasted Seaweed',1,2,'2025-11-21',2),
   ('2025-11-13','TJ Walnuts',1,2,'2025-11-17',2),
   /* 2025-11-14 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, and salt; skipped cayenne pepper in light of recent Udupi Palace spinach masala dosa consumption) */
   ('2025-11-14','Eggplant',1,1,'2025-11-21',1),
@@ -1423,10 +1423,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-14','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-16',1),
   ('2025-11-16','TJ Carb Savvy Tortillas',1,1,'2025-11-17',1),
   /* 2025-11-16 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt; skipped cayenne pepper in light of recent Udupi Palace spinach masala dosa consumption) */
-  ('2025-11-16','Gold potatoes 5 lb',0.45,2,null,null),
-  ('2025-11-16','TJ Kale',1,2,null,null),
-  ('2025-11-16','TJ English Shelled Peas',2,2,null,null),
-  ('2025-11-16','Beefsteak tomato',6,2,null,null),
+  ('2025-11-16','Gold potatoes 5 lb',0.45,2,'2025-11-21',2),
+  ('2025-11-16','TJ Kale',1,2,'2025-11-21',2),
+  ('2025-11-16','TJ English Shelled Peas',2,2,'2025-11-21',2),
+  ('2025-11-16','Beefsteak tomato',6,2,'2025-11-21',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-18',2),
   ('2025-11-17','TJ Carb Savvy Tortillas',1,1,'2025-11-18',1),
@@ -1434,11 +1434,23 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-17','Lundberg Sustainable California White Basmati Rice',0.95,2,'2025-11-21',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-18','TJ Carb Savvy Tortillas',1,1,'2025-11-19',1),
-  ('2025-11-18','TJ Walnuts',1,1,null,null),
+  ('2025-11-18','TJ Walnuts',1,1,'2025-11-21',2),
   ('2025-11-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-20',1),
   ('2025-11-19','TJ Carb Savvy Tortillas',1,1,'2025-11-20',1),
   ('2025-11-20','TJ Miso Ginger Broth',1,1,null,null),
   ('2025-11-20','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
   ('2025-11-20','TJ Carb Savvy Tortillas',1,2,'2025-11-21',1),
-  ('2025-11-21','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2025-11-21','TJ Carb Savvy Tortillas',1,1,'2025-11-21',2),
+  /* 2025-11-21 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2025-11-21','Eggplant',1,2,null,null),
+  ('2025-11-21','TJ Kale',1,2,null,null),
+  ('2025-11-21','TJ Carrots',1,2,null,null),
+  ('2025-11-21','Green bell pepper',4,2,null,null),
+  ('2025-11-21','Red bell pepper',2,2,null,null),
+  ('2025-11-21','Beefsteak tomato',9,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-11-21','TJ Almond Milk',1,2,null,null),
+  ('2025-11-21','TJ Walnuts',1,2,null,null),
+  ('2025-11-21','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-11-21','TJ Carb Savvy Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
