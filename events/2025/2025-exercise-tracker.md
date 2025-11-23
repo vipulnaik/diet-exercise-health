@@ -1313,12 +1313,25 @@ practice instead.
 
 ## 2025-11-20: skipped jogging
 
-On Thursday 2025-11-20, I skipped jogging because I had to address time-sensitive stuff at work in the morning and early afternoon, and it was pretty late by the time I was ready to go jogging. Strength exercises were not due that day, so I didn't have to skip them.
+On Thursday 2025-11-20, I skipped jogging because I had to address
+time-sensitive stuff at work in the morning and early afternoon, and
+it was pretty late by the time I was ready to go jogging. Strength
+exercises were not due that day, so I didn't have to skip them.
 
 I did hand gripper exercises and breath holds as usual.
 
 ## 2025-11-21: skipped jogging and strength exercises
 
-On Friday 2025-11-21, I skipped jogging and strength exercises because I had to address time-sensitive stuff at work in the morning and early afternoon, and it was pretty late by the time I was ready to go jogging.
+On Friday 2025-11-21, I skipped jogging and strength exercises because
+I had to address time-sensitive stuff at work in the morning and early
+afternoon, and it was pretty late by the time I was ready to go
+jogging.
 
-I did hand gripper exercises and humming with intermittent pauses; the latter wasn't due but I decided to make use of the time freed up by not doing. jogging and strength exercises.
+I did hand gripper exercises and humming with intermittent pauses; the
+latter wasn't due but I decided to make use of the time freed up by
+not doing. jogging and strength exercises.
+
+## 2025-11-23: skipped all exercises
+
+On Sunday 2025-11-23, I skipped all exercises in order to focus in the
+morning on catching up on a bunch of work stuff that had piled up.
