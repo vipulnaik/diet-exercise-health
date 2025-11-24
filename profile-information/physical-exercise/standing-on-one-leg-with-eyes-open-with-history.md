@@ -55,11 +55,12 @@ that position with my eyes open for as long as I can sustain,
 maintaining my strength and balance. I do this first standing on the
 right leg, then after being done with it, do it on the left leg.
 
-## Frequency
+## Triggers for overall exercise
 
-My aim is to do this exercise about once a month on each leg. If I am
-not able to clear the threshold of 5 minutes on either leg, I may
-repeat that particular leg the next day.
+This is an occasional exercise in the [balance exercise
+cycle](balance-exercise-cycle-with-history.md) that I execute during
+rice preps. I target a frequency of about once a month for this
+exercise.
 
 ## History
 

@@ -33,16 +33,11 @@ threshold of 20 seconds on any try.
 
 ## Triggers for overall exercise
 
-The practice 2025-10-13 onward is to do this exercise roughly every
-alternating rice prep, so about once every 7 to 9 days. With that
-said, some rice preps I might use for more niche occasional exercises,
-which might displace a few slots, so effectively this might be a
-little less frequent.
-
-The other exercises I do along with this are
-[standing-on-heels-with-eyes-open](standing-on-heels-with-eyes-open-with-history.md)
-and [dorsiflexion and plantar
-flexion](dorsiflexion-and-plantar-flexion-exercises-with-history.md).
+The practice 2025-11-24 onward is to do this exercise during rice
+preps as part of the [balance exercise
+cycle](balance-exercise-cycle-with-history.md). I expect to get
+through the cycle every 2 to 3 rice preps, so the approximate
+frequency is once every 9 to 15 days.
 
 ## History
 
@@ -96,3 +91,12 @@ alternating rice prep, so about once every 7 to 9 days. With that
 said, some rice preps I might use for more niche occasional exercises,
 which might displace a few slots, so effectively this might be a
 little less frequent.
+
+### Slight tweak to settings documented 2025-11-24
+
+Rather than have specific exercise bundles to do in alternating rice
+preps, I've decided to just cycle through a list of exercises over
+rice preps, which might mean doing a variable number in a given rice
+prep, and occasionally throw in more niche exercises. See [balance
+exercise cycle (with history)](balance-exercise-cycle-with-history.md)
+for the list.

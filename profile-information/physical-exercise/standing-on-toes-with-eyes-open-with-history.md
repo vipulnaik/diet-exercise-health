@@ -43,11 +43,10 @@ The process is as follows:
 
 ## Triggers for overall exercise
 
-I generally do this exercise at least once a month as a followup to
-[standing on one leg with eyes
-open](standing-on-one-leg-with-eyes-open-with-history.md). I may also
-do this exercise separately, for instance, while waiting in between
-cooking for water to fill or to soak.
+This is an occasional exercise in the [balance exercise
+cycle](balance-exercise-cycle-with-history.md) that I execute during
+rice preps. I target a frequency of about once a month for this
+exercise.
 
 ## History
 
