@@ -70,19 +70,19 @@ takes me about 12-15 minutes.
 ### Thresholds
 
 My threshold for the minimum distance jogged, as updated on
-2025-02-09, are as follows:
+2025-11-24, are as follows:
 
-* Ideal conditions threshold: 1.67 miles
+* Ideal conditions threshold: 1.75 miles
 
-* Slightly degraded conditions threshold: 1.58 miles
+* Slightly degraded conditions threshold: 1.67 miles
 
-* Significantly degraded conditions threshold: 1.5 miles
+* Significantly degraded conditions threshold: 1.58 miles
 
 The ideal conditions threshold applies when I am system-wise healthy
 (though I might have local issues) and don't have overexertion
 fatigue, have been jogging regularly, and the temperature is in the
 range of 13 to 20 degrees Celsius (55 to 68 degrees Fahrenheit). Note
-that this threshold is still comfortably under the 1.75-2.0 miles that
+that this threshold is still comfortably under the 1.8-2.0 miles that
 I usually jog, so there's a decent amount of buffer, reducing the
 pressure for me to feel the need to jog just to meet the threshold.
 
@@ -209,12 +209,13 @@ I have a few different reasons for skipping:
 
 ### Home jogging alternative
 
-With home jogging, I jog in a small loop repeatedly for about 25 to 30
+With home jogging, I jog in a small loop repeatedly for about 30 to 35
 minutes at home, while in my socks (no shoes). More specifically, I
-try to do at least 25 minutes (pushing myself to continue if I feel
-like giving up before then) and go on to at most 30 minutes based on
-my mood and time availability. However, in cases of time constraints,
-I may shorten the duration based on the time constraints.
+try to do at least 30 minutes (pushing myself to continue if I feel
+like giving up before then) and go on to at most 35 minutes based on
+my mood and time availability. I generally do something around 31 to
+33 minutes. However, in cases of time constraints, I may shorten the
+duration based on the time constraints.
 
 While not quite as diverse as outside jogging, it is good enough to
 warm me up for strength exercises. It has the following advantages:
@@ -284,5 +285,14 @@ a few edits to the document for clarity. The distance thresholds were
 increased from (1.6 miles, 1.5 miles, 1.4 miles) to (1.67 miles, 1.58
 miles, 1.5 miles). I did not change the expected jogging range of
 1.75-2.0 miles. The home jogging duration range was increased from (20
-to 25 minutes, with 20 minute as minimum) to (25 to 30 minutes, with
+to 25 minutes, with 20 minutes as minimum) to (25 to 30 minutes, with
 25 minutes as minimum).
+
+On 2025-11-24, I updated the distance thresholds for jogging as well
+as the duration of home jogging based on recent changes. The distance
+thresholds were increased from (1.67 miles, 1.58 miles, 1.5 miles) to
+(1.75 miles, 1.67 miles, 1.58 miles) and the expected jogging range
+was adjusted slightly from (1.75 to 2.0 miles) to (1.8 to 2.0 miles),
+reflecting a slight increase in my typical jogging range. The home
+jogging duration range was increased from (25 to 30 minutes, with 25
+minutes as minimum) to (30 to 35 minutes, with 30 minutes as minimum).
