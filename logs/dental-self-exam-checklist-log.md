@@ -284,3 +284,12 @@ dental hygiene practices, other than maybe a little more focus on the
 back top right. However, I plan to mull over the information and may
 review the photos again over the next few days to see if I change my
 mind.
+
+## 2025-11-25 (off-cycle floss pick pressure testing)
+
+On Tuesday 2025-11-25, I did off-cycle floss pick pressure testing. I
+pressed the floss pick reasonably strongly against all interdental
+gaps, covering most interdental gaps at least twice and some even 3
+times. Overall, the pain lasted only a few seconds in each interdental
+gap, but it was a little bit more than I would ideally like, so
+I should continue to follow good  dental care practices.
