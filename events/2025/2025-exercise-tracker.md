@@ -1335,3 +1335,9 @@ not doing. jogging and strength exercises.
 
 On Sunday 2025-11-23, I skipped all exercises in order to focus in the
 morning on catching up on a bunch of work stuff that had piled up.
+
+## 2025-11-26: skipped jogging
+
+On Wednesday 2025-11-26, I skipped jogging due to delays created by
+time-sensitive stuff at work. I did hand gripper exercises and breath
+holds as usual. Strength exercises were not scheduled for the day.
