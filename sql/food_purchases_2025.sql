@@ -730,7 +730,12 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-11-23','Beefsteak tomato',6),
   /* 2025-11-23 (Sunday) Udupi Palace; total cost $14.28; order placed at 5:30 PM; paid by cash */
   ('2025-11-23','Udupi Palace spinach masala dosa',1),
-  ('2025-11-23','Udupi Palace spinach masala dosa free red chutney',1); /* recording as a separate item as I start the consumption of this later */
+  ('2025-11-23','Udupi Palace spinach masala dosa free red chutney',1), /* recording as a separate item as I start the consumption of this later */
+  /* 2025-11-25 (Tuesday) Berkeley Bowl; total cost $65.52; checkout at 7:14 PM; 12 items in transaction but 4 were Seventh Generation dish soap so only 8 food items */
+  ('2025-11-25','Lundberg Sustainable California White Jasmine Rice',1),
+  ('2025-11-25','Lundberg Sustainable California White Basmati Rice',1),
+  ('2025-11-25','Kite Hill Greek Style Plant-Based Yogurt',2),
+  ('2025-11-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',4);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
