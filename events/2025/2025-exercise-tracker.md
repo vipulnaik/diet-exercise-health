@@ -1339,8 +1339,10 @@ morning on catching up on a bunch of work stuff that had piled up.
 ## 2025-11-26: skipped jogging
 
 On Wednesday 2025-11-26, I skipped jogging due to delays created by
-time-sensitive stuff at work. I did hand gripper exercises and breath
-holds as usual. Strength exercises were not scheduled for the day.
+time-sensitive stuff at work (the context is described more
+[here](2025-11-27-health-issues.md#Background)). I did hand gripper
+exercises and breath holds as usual. Strength exercises were not
+scheduled for the day.
 
 ## 2025-11-28: abridged at-home jogging and skipped strength exercises
 
@@ -1348,4 +1350,5 @@ On Friday 2025-11-28, I did abridged at-home jogging, going for only
 about 25 minutes compared to my usual target range of 30 to 35
 minutes. I also skipped strength exercises. This was due to feeling a
 bit cold and also fatigued, having experienced chills yesterday and
-yesterday night.
+yesterday night (see [here](2025-11-27-health-issues.md) for more
+background).
