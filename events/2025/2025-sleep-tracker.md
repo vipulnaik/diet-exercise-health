@@ -650,3 +650,13 @@ little fatigued. I noticed that my typing speed and accuracy were a
 little lower than usual, and my willpower was also on the low end. I
 ended up spending a lot of time doing typing practice, more than I
 should have, and it felt addictive like a game.
+
+## 2025-10-02 health issues with slight sleep inadequacy as a potential cause
+
+See [2025-10-02: health issues](2025-10-02-health-issues.md) for more
+information.
+
+## 2025-11-25/2025-11-26 staying up late, and 2025-11-27 health issues potentially caused by it
+
+See [2025-11-27: health issues](2025-11-27-health-issues.md) for more
+information.
