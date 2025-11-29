@@ -4,6 +4,9 @@ This is a complementary exercise to [standing on one leg with eyes
 closed](standing-on-one-leg-with-eyes-closed-with-history.md) that I
 do more rarely.
 
+For the with-shoes variant of this exercise, see
+[here](standing-on-one-leg-with-eyes-open-with-shoes-with-history.md).
+
 ## Goal and functional relevance of exercise
 
 ### Maintain standing-on-one-leg-with-eyes-open for at least 5 minutes
