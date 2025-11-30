@@ -141,18 +141,10 @@ other one-off readings in response to health events or other
 incidents) in
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
 
-As of 2025-10-03, the most recent morning heart rate readings from the
-BP machine (before exercise or eating) were on 2025-10-03 with
-readings of 60 bpm and 61 bpm respectively. However, I had [health
-issues](../events/2025/2025-10-02-health-issues.md) at the time, which
-likely contributed to the heart rate being a little higher than it
-would otherwise be.
-
-The previous morning heart rate readings from the BP machine (before
-exercise or eating) as measured as part of blood pressure measurement
-were on 2025-06-25 with readings of 54 bpm and 54 bpm
-respectively. The ambient temperature at the time I took the readings
-was 65 degrees Fahrenheit.
+As of 2025-11-30, the most recent morning heart rate readings from the
+BP machine (before exercise or eating) were on 2025-11-30 with
+readings of 56 bpm and 57 bpm respectively. The ambient temperature at
+the time I took the readings was 60 degrees Fahrenheit.
 
 I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
@@ -214,14 +206,7 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting morning blood pressure readings (taken
-2025-10-03) were 109/64 and 107/64 respectively. However, these
-readings were taken in the context of [health
-issues](../events/2025/2025-10-02-health-issues.md) including a
-tension headache, and I suspect that these readings drove up the
-systolic blood pressure compared to my uual.
-
-My previous at-home resting morning blood pressure readings (taken
-2025-06-25) were 97/68 and 95/65. These are more typical readings.
+2025-11-30) were 105/70 and 97/62 respectively.
 
 My most recent afternoon blood
 pressure readings (taken 2024-12-14 about 2.5 hours after finishing a
