@@ -1352,3 +1352,9 @@ minutes. I also skipped strength exercises. This was due to feeling a
 bit cold and also fatigued, having experienced chills yesterday and
 yesterday night (see [here](2025-11-27-health-issues.md) for more
 background).
+
+## 2025-12-01: skipped all exercises
+
+On Monday 2025-12-01, I skipped all exercises in order to wrap up a
+few time-sensitive tasks at work that were somewhat complex and needed
+a continuous stretch of time in the morning and early afternoon.
