@@ -1358,3 +1358,14 @@ background).
 On Monday 2025-12-01, I skipped all exercises in order to wrap up a
 few time-sensitive tasks at work that were somewhat complex and needed
 a continuous stretch of time in the morning and early afternoon.
+
+## 2025-12-02: skipped strength exercises
+
+On Tuesday 2025-12-02, I skipped strength exercises. I had planned to
+do dead hang and pull-ups after returning from jogging, but I got busy
+with a task right after returning and missed my time window.
+
+## 2025-12-03: skipped all exercises
+
+On Wednesday 2025-12-03, I skipped all exercises so that I could do
+potatoes prep for my first meal.
