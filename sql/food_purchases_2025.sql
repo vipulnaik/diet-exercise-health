@@ -731,12 +731,12 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2025-11-23 (Sunday) Udupi Palace; total cost $14.28; order placed at 5:30 PM; paid by cash */
   ('2025-11-23','Udupi Palace spinach masala dosa',1),
   ('2025-11-23','Udupi Palace spinach masala dosa free red chutney',1), /* recording as a separate item as I start the consumption of this later */
-  /* 2025-11-25 (Tuesday) Berkeley Bowl; total cost $65.52; checkout at 7:14 PM; 12 items in transaction but 4 were Seventh Generation dish soap so only 8 food items */
+  /* 2025-11-25 (Tuesday) Berkeley Bowl; total cost $65.52; checkout at 7:14 PM; paid by credit card; 12 items in transaction but 4 were Seventh Generation dish soap so only 8 food items */
   ('2025-11-25','Lundberg Sustainable California White Jasmine Rice',1),
   ('2025-11-25','Lundberg Sustainable California White Basmati Rice',1),
   ('2025-11-25','Kite Hill Greek Style Plant-Based Yogurt',2),
   ('2025-11-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',4),
-  /* 2025-11-28 (Friday) Trader Joe's; total cost $48.23; checkout at 5:24 PM; 25 items in transaction (incorrectly billed as 27) */
+  /* 2025-11-28 (Friday) Trader Joe's; total cost $48.23; checkout at 5:24 PM; paid by credit card; 25 items in transaction (incorrectly billed as 27) */
   ('2025-11-28','TJ Carb Savvy Tortillas',4),
   ('2025-11-28','TJ Almond Milk',1),
   ('2025-11-28','Green bell pepper',4),
@@ -747,14 +747,27 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-11-28','Red bell pepper',2), /* I was incorrectly billed for 4 */
   ('2025-11-28','Beefsteak tomato',9),
   ('2025-11-28','Eggplant',1),
-  /* 2025-12-02 (Tuesday) Trader Joe's; total cost $45.80; checkout at 7:33 PM; 20 items in transaction */
+  /* 2025-12-02 (Tuesday) Trader Joe's; total cost $45.80; checkout at 7:33 PM; paid by credit card; 20 items in transaction */
   ('2025-12-02','TJ English Shelled Peas',2),
   ('2025-12-02','TJ Almond Milk',1),
   ('2025-12-02','TJ Miso Ginger Broth',1),
   ('2025-12-02','TJ Walnuts',4),
   ('2025-12-02','Roma tomato',10),
   ('2025-12-02','TJ Kale',1),
-  ('2025-12-02','Beefsteak tomato',1);
+  ('2025-12-02','Beefsteak tomato',1),
+  /* 2025-12-05 (Friday) Berkeley Bowl; total cost $53.54; checkout at 4:21 PM; paid by credit card; 10 items in transaction but 4 were Seventh Generation dish soap so only 6 food items */
+  ('2025-12-05','Kite Hill Greek Style Plant-Based Yogurt',6),
+  /* 2025-12-05 (Friday) Trader Joe's; total cost $50.24; checkout at 5:50 PM; paid by credit card; 26 items in transaction */
+  ('2025-12-05','Green bell pepper',4),
+  ('2025-12-05','TJ Kale',1),
+  ('2025-12-05','TJ Sauerkraut',1),
+  ('2025-12-05','TJ Miso Ginger Broth',1),
+  ('2025-12-05','Eggplant',1),
+  ('2025-12-05','Red bell pepper',2),
+  ('2025-12-05','Beefsteak tomato',9),
+  ('2025-12-05','TJ Carrots',1),
+  ('2025-12-05','TJ Roasted Seaweed',1),
+  ('2025-12-05','TJ Carb Savvy Tortillas',5);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
