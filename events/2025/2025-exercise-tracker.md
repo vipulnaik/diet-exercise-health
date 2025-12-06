@@ -1372,5 +1372,12 @@ potatoes prep for my first meal.
 
 ## 2025-12-05: skipped jogging and strength exercises
 
-On Friday 2025-12-05, I skippedjogging and strength exercises so that I could eat a
-little earlier and fit more activities into the afternoon. I did do hand gripper exercises.
+On Friday 2025-12-05, I skipped jogging and strength exercises so that
+I could eat a little earlier and fit more activities into the
+afternoon. I did do hand gripper exercises.
+
+## 2025-12-06: skipped all exercises
+
+On Saturday 2025-12-06, I skipped all exercises so as to be able to do
+eggplant meal prep for my first meal while still having time to do
+additional cyclic personal chores later in the day.
