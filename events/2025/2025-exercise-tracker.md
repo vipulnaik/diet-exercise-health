@@ -1370,7 +1370,7 @@ with a task right after returning and missed my time window.
 On Wednesday 2025-12-03, I skipped all exercises so that I could do
 potatoes prep for my first meal.
 
-## 2025-12-05: skipped all exercises
+## 2025-12-05: skipped jogging and strength exercises
 
-On Friday 2025-12-05, I skipped all exercises so that I could eat a
-little earlier and fit more activities into the afternoon.
+On Friday 2025-12-05, I skippedjogging and strength exercises so that I could eat a
+little earlier and fit more activities into the afternoon. I did do hand gripper exercises.
