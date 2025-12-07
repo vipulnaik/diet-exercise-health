@@ -1292,7 +1292,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-18',1),
   ('2025-10-16','TJ Carb Savvy Tortillas',1,2,'2025-10-18',2),
   /* 2025-10-17 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-10-17','Lundberg Sustainable California White Basmati Rice',0.95,1,'2025-10-21',1),
+  ('2025-10-17','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-10-21',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-18','TJ Miso Ginger Broth',1,2,'2025-10-24',2),
   ('2025-10-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-20',1),
@@ -1310,7 +1310,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-20','TJ Almond Milk',1,1,'2025-10-28',1),
   ('2025-10-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-10-22',1),
   /* 2025-10-21 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-10-21','Lundberg Sustainable California White Basmati Rice',0.95,1,'2025-10-24',1),
+  ('2025-10-21','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-10-24',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-21','TJ Carb Savvy Tortillas',1,2,'2025-10-23',1),
   ('2025-10-22','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2025-10-23',2),
@@ -1326,7 +1326,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-24','TJ Walnuts',1,1,'2025-10-27',2),
   ('2025-10-24','TJ Sauerkraut',1,1,'2025-11-04',1),
   /* 2025-10-24 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-10-24','Lundberg Sustainable California White Basmati Rice',0.95,2,'2025-10-28',1),
+  ('2025-10-24','Lundberg Sustainable California White Basmati Rice',0.97,2,'2025-10-28',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-24','TJ Miso Ginger Broth',1,2,'2025-10-30',1),
   ('2025-10-25','TJ Carb Savvy Tortillas',1,1,'2025-10-26',2),
@@ -1345,7 +1345,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-28','TJ Walnuts',1,1,'2025-11-01',1),
   ('2025-10-28','TJ Almond Milk',1,1,'2025-11-03',2),
   /* 2025-10-28 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-10-28','Lundberg Sustainable California White Basmati Rice',0.95,2,'2025-10-31',2),
+  ('2025-10-28','Lundberg Sustainable California White Basmati Rice',0.97,2,'2025-10-31',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-10-29','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-10-31',1),
   ('2025-10-29','TJ Carb Savvy Tortillas',1,2,'2025-10-30',2),
@@ -1359,7 +1359,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-30','TJ Carb Savvy Tortillas',1,2,'2025-11-01',1),
   ('2025-10-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-02',1),
   /* 2025-11-01 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-11-01','Lundberg Sustainable California White Basmati Rice',0.95,1,'2025-11-04',2),
+  ('2025-11-01','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-11-04',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-01','TJ Carb Savvy Tortillas',1,1,'2025-11-02',2),
   ('2025-11-01','TJ Walnuts',1,2,'2025-11-05',1),
@@ -1378,7 +1378,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-04','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-11-05',2),
   ('2025-11-04','TJ Miso Ginger Broth',1,1,'2025-11-12',1),
   /* 2025-11-05 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-11-05','Lundberg Sustainable California White Basmati Rice',0.95,1,'2025-11-09',1),
+  ('2025-11-05','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-11-09',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-05','TJ Sauerkraut',1,1,'2025-11-21',1),
   ('2025-11-05','TJ Carb Savvy Tortillas',1,1,'2025-11-06',2),
@@ -1396,7 +1396,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-08','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-11-10',1),
   ('2025-11-09','TJ Carb Savvy Tortillas',1,1,'2025-11-10',2),
   /* 2025-11-09 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-11-09','Lundberg Sustainable California White Basmati Rice',0.95,2,'2025-11-12',2),
+  ('2025-11-09','Lundberg Sustainable California White Basmati Rice',0.97,2,'2025-11-12',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-09','TJ Walnuts',1,2,'2025-11-13',1),
   ('2025-11-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-11-12',2),
@@ -1405,7 +1405,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-14',1),
   ('2025-11-12','TJ Miso Ginger Broth',1,2,'2025-11-19',2),
   /* 2025-11-13 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-11-13','Lundberg Sustainable California White Basmati Rice',0.95,1,'2025-11-17',1),
+  ('2025-11-13','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-11-17',1),
   /* 2025-11-13 Udupi Palace takeout consumption (second meal) */
   ('2025-11-13','Udupi Palace spinach masala dosa',1,2,'2025-11-14',1),
   /* new bottle/packet openings as the old ones finished */
@@ -1431,7 +1431,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-18',2),
   ('2025-11-17','TJ Carb Savvy Tortillas',1,1,'2025-11-18',1),
   /* 2025-11-17 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-11-17','Lundberg Sustainable California White Basmati Rice',0.95,2,'2025-11-21',1),
+  ('2025-11-17','Lundberg Sustainable California White Basmati Rice',0.97,2,'2025-11-21',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-18','TJ Carb Savvy Tortillas',1,1,'2025-11-19',1),
   ('2025-11-18','TJ Walnuts',1,1,'2025-11-21',2),
@@ -1454,7 +1454,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-21','TJ Roasted Seaweed',1,2,'2025-11-29',2),
   ('2025-11-21','TJ Carb Savvy Tortillas',1,2,'2025-11-23',1),
   /* 2025-11-22 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-11-22','Lundberg Sustainable California White Basmati Rice',0.95,1,'2025-11-25',1),
+  ('2025-11-22','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-11-25',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-22','TJ Turmeric',1,1,null,null), /* opened with rice prep */
   ('2025-11-22','TJ Sauerkraut',1,1,'2025-12-05',1),
@@ -1472,7 +1472,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-24','TJ Carb Savvy Tortillas',1,2,'2025-11-25',2),
   ('2025-11-25','TJ Walnuts',1,1,'2025-11-29',2),
   /* 2025-11-25 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-11-25','Lundberg Sustainable California White Basmati Rice',0.95,2,'2025-11-29',2),
+  ('2025-11-25','Lundberg Sustainable California White Basmati Rice',0.97,2,'2025-11-29',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-11-27',1),
   ('2025-11-25','TJ Carb Savvy Tortillas',1,2,'2025-11-27',1),
@@ -1491,7 +1491,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-29','TJ Carb Savvy Tortillas',1,2,'2025-11-30',1),
   ('2025-11-29','TJ Walnuts',1,2,'2025-12-03',1),
   /* 2025-11-30 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-11-30','Lundberg Sustainable California White Basmati Rice',0.95,1,'2025-12-03',1),
+  ('2025-11-30','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-12-03',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-30','TJ Carb Savvy Tortillas',1,2,'2025-12-01',2),
   ('2025-11-30','TJ Roasted Seaweed',1,2,null,null),
@@ -1508,7 +1508,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-03','TJ Carb Savvy Tortillas',1,1,'2025-12-03',1),
   /* 2025-12-03 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-12-03','Lundberg Sustainable California White Basmati Rice',0.95,2,'2025-12-06',1),
+  ('2025-12-03','Lundberg Sustainable California White Basmati Rice',0.97,2,'2025-12-06',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-03','TJ Walnuts',1,2,null,null),
   ('2025-12-04','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2025-12-05',1),
@@ -1526,5 +1526,5 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-06','TJ Sauerkraut',1,1,null,null),
   ('2025-12-06','TJ Carb Savvy Tortillas',1,2,'2025-12-06',2),
   /* 2025-12-07 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-12-07','Lundberg Sustainable California White Basmati Rice',0.95,1,null,null);
+  ('2025-12-07','Lundberg Sustainable California White Basmati Rice',0.97,1,null,null);
   /* Double-check the date and meal index before committing */
