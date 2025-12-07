@@ -1499,12 +1499,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-01','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-02',1),
   ('2025-12-01','TJ Carb Savvy Tortillas',1,2,'2025-12-02',2),
   ('2025-12-02','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-12-04',1),
-  /* 2025-12-03 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2025-12-03','Gold potatoes 5 lb',0.5,1,null,null),
-  ('2025-12-03','TJ Kale',1,1,null,null),
-  ('2025-12-03','TJ English Shelled Peas',2,1,null,null),
-  ('2025-12-03','Beefsteak tomato',1,1,null,null),
-  ('2025-12-03','Roma tomato',10,1,null,null),
+  /* 2025-12-03 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt); note that a little bit was left as of the completion date, but I mixed it with the next vegetables prep so it's hard to measure the completion date of that remainder */
+  ('2025-12-03','Gold potatoes 5 lb',0.5,1,'2025-12-06',2),
+  ('2025-12-03','TJ Kale',1,1,'2025-12-06',2),
+  ('2025-12-03','TJ English Shelled Peas',2,1,'2025-12-06',2),
+  ('2025-12-03','Beefsteak tomato',1,1,'2025-12-06',2),
+  ('2025-12-03','Roma tomato',10,1,'2025-12-06',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-03','TJ Carb Savvy Tortillas',1,1,'2025-12-03',1),
   /* 2025-12-03 rice prep (second meal) (added turmeric, cumin, salt) */
