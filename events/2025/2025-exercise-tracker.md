@@ -1381,3 +1381,11 @@ afternoon. I did do hand gripper exercises.
 On Saturday 2025-12-06, I skipped all exercises so as to be able to do
 eggplant meal prep for my first meal while still having time to do
 additional cyclic personal chores later in the day.
+
+## 2025-12-08: skipped all exercises
+
+On Monday 2025-12-08, I skipped all exercises in order to be able to
+complete potatoes prep in the morning. This is part of an overall
+crunch in cyclic personal chores due to increased appetite in the cold
+weather as well as spending a lot of time on the day job recently that
+caused chores to pile up.
