@@ -1389,3 +1389,10 @@ complete potatoes prep in the morning. This is part of an overall
 crunch in cyclic personal chores due to increased appetite in the cold
 weather as well as spending a lot of time on the day job recently that
 caused chores to pile up.
+
+## 2025-12-09: skipped all exercises
+
+On Tuesday 2025-12-09, I skipped all exercises. This was due to a
+combination of a long catch-up meeting with a friend in the morning,
+plus my desire to not delay my first meal too much, so that I could go
+out in the afternoon for chores.
