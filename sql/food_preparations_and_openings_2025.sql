@@ -1494,7 +1494,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-11-30','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-12-03',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-30','TJ Carb Savvy Tortillas',1,2,'2025-12-01',2),
-  ('2025-11-30','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-11-30','TJ Roasted Seaweed',1,2,'2025-12-08',2),
   ('2025-12-01','TJ Almond Milk',1,1,null,null),
   ('2025-12-01','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-02',1),
   ('2025-12-01','TJ Carb Savvy Tortillas',1,2,'2025-12-02',2),
@@ -1537,5 +1537,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-08','TJ English Shelled Peas',2,1,null,null),
   ('2025-12-08','Beefsteak tomato',6,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-12-08','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2025-12-08','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2025-12-08','TJ Roasted Seaweed',1,2,null,null);
   /* Double-check the date and meal index before committing */
