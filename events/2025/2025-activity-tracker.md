@@ -314,3 +314,10 @@ On Saturday 2025-11-08, I went to Walgreens to get a flu shot; the
 appointment was for 3 PM. After getting the flu shot, I did some
 shopping at Walgreens and then headed back home. See
 [here](2025-11-08-flu-shot.md) for details.
+
+## 2025-12-09
+
+On Tuesday 2025-12-09, I made a three-stop trip. The first stop was at
+Citibank to get quarters. The second stop was for an administrative
+task. The third stop was at the Amazon Hub Locker at ASUC Berkeley for
+a package pickup.
