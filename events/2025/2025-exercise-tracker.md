@@ -1396,3 +1396,11 @@ On Tuesday 2025-12-09, I skipped all exercises. This was due to a
 combination of a long catch-up meeting with a friend in the morning,
 plus my desire to not delay my first meal too much, so that I could go
 out in the afternoon for chores.
+
+## 2025-12-10: skipped all exercises
+
+On Wednesday 2025-12-10, I skipped all exercises. This was because my
+morning and early afternoon were spent on some financial and
+contingency planning work. I had originally not planned for the work
+to take this long, but once I got in the flow I decided to get it to a
+logical point.
