@@ -1998,6 +1998,10 @@ My current supplement regime as of October 2025 is:
 * 1 gram per day (two 500 mg capsules) of amla. See
   [here](../events/2025/2025-09-29-amla-purchase.md) for details.
 
+* 1 capsule a day of turmeric (separate from dietary turmeric). See
+  [here](../events/2025/2025-11-26-turmeric-supplement-purchase.md)
+  for details.
+
 * Occasional Vitamin C supplement
   * I generally take this before or after events where I expect to be
     more exposed to infection; I don't think I am deficient in Vitamin
@@ -2058,7 +2062,7 @@ See
 and
 [2024-10-16-n-acetyl-cysteine-purchase.md](../events/2024/2024-10-16-n-acetyl-cysteine-purchase.md).
 
-### July 2025: introduction of creatine
+### July 2025: introduction of creatine (switch in October to powder)
 
 See
 [2025-07-06-creatine-purchase.md](../events/2025/2025-07-06-creatine-purchase.md).
