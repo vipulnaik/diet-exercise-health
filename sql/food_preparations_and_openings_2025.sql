@@ -1306,7 +1306,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-19','Red bell pepper',2,2,'2025-10-25',1),
   ('2025-10-19','Beefsteak tomato',7,2,'2025-10-25',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-10-19','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with eggplant meal prep */
+  ('2025-10-19','Trader Giotto''s Olive Oil',1,2,'2025-12-08',1), /* opened with eggplant meal prep */
   ('2025-10-20','TJ Almond Milk',1,1,'2025-10-28',1),
   ('2025-10-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-10-22',1),
   /* 2025-10-21 rice prep (first meal) (added turmeric, cumin, salt) */
@@ -1495,7 +1495,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-11-30','TJ Carb Savvy Tortillas',1,2,'2025-12-01',2),
   ('2025-11-30','TJ Roasted Seaweed',1,2,'2025-12-08',2),
-  ('2025-12-01','TJ Almond Milk',1,1,null,null),
+  ('2025-12-01','TJ Almond Milk',1,1,'2025-12-10',1),
   ('2025-12-01','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-02',1),
   ('2025-12-01','TJ Carb Savvy Tortillas',1,2,'2025-12-02',2),
   ('2025-12-02','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2025-12-04',1),
@@ -1526,7 +1526,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-06','TJ Sauerkraut',1,1,null,null),
   ('2025-12-06','TJ Carb Savvy Tortillas',1,2,'2025-12-06',2),
   /* 2025-12-07 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-12-07','Lundberg Sustainable California White Basmati Rice',0.97,1,null,null),
+  ('2025-12-07','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-12-10',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-07','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-09',1),
   ('2025-12-07','TJ Walnuts',1,1,null,null),
@@ -1537,8 +1537,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-08','TJ English Shelled Peas',2,1,null,null),
   ('2025-12-08','Beefsteak tomato',6,1,null,null),
   /* new bottle/packet openings as the old ones finished */
+  ('2025-12-08','Trader Giotto''s Olive Oil',1,1,null,null), /* opened with potatoes prep */
   ('2025-12-08','TJ Carb Savvy Tortillas',1,1,'2025-12-09',1),
   ('2025-12-08','TJ Roasted Seaweed',1,2,null,null),
   ('2025-12-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2025-12-09','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2025-12-09','TJ Carb Savvy Tortillas',1,1,'2025-12-10',1),
+  ('2025-12-10','TJ Almond Milk',1,1,null,null),
+  ('2025-12-10','TJ Carb Savvy Tortillas',1,1,null,null),
+  /* 2025-12-10 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-12-10','Lundberg Sustainable California White Basmati Rice',0.89,2,null,null);
   /* Double-check the date and meal index before committing */
