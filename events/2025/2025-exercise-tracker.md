@@ -1404,3 +1404,11 @@ morning and early afternoon were spent on some financial and
 contingency planning work. I had originally not planned for the work
 to take this long, but once I got in the flow I decided to get it to a
 logical point.
+
+## 2025-12-12: skipped jogging and strength exercises
+
+On Friday 2025-12-12, I skipped jogging and strength exercises. I did
+do hand gripper exercises and breath holds. The reason for skipping
+jogging and strength exercises is that a work-related task ended up
+taking longer than expected and I didn't want to delay my meal too
+much.
