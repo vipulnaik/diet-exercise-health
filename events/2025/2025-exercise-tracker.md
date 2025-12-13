@@ -1412,3 +1412,9 @@ do hand gripper exercises and breath holds. The reason for skipping
 jogging and strength exercises is that a work-related task ended up
 taking longer than expected and I didn't want to delay my meal too
 much.
+
+## 2025-12-13: skipped jogging and strength exercises
+
+On Saturday 2025-12-13, I skipped jogging and strength exercises. This
+was because I spent the morning and early afternoon wrapping up a
+somewhat complex task. I did do hand gripper exercises.
