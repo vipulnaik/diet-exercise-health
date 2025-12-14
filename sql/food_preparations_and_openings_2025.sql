@@ -1553,5 +1553,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-11','TJ Carb Savvy Tortillas',1,2,'2025-12-12',1),
   ('2025-12-11','TJ Walnuts',1,2,null,null),
   ('2025-12-12','TJ Carb Savvy Tortillas',1,2,'2025-12-13',1),
-  ('2025-12-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
+  ('2025-12-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  /* 2025-12-13 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2025-12-13','Lundberg Sustainable California White Jasmine Rice',1,2,null,null);
   /* Double-check the date and meal index before committing */

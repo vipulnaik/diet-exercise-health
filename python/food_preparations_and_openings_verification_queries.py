@@ -147,7 +147,10 @@ queries = [
     "select * from food_preparations_and_openings where food_type = 'Green bell pepper' and quantity != 4 and not (preparation_or_opening_date in ('2025-06-30','2025-08-01','2025-08-03'));",
 
     # I should do less than 1 at a time
-    "select * from food_preparations_and_openings where food_type in ('Lundberg Sustainable California White Basmati Rice','Lundberg Sustainable California White Jasmine Rice','Gold potatoes 3 lb','Gold potatoes 5 lb') and quantity >= 1;",
+    "select * from food_preparations_and_openings where food_type in ('Gold potatoes 3 lb','Gold potatoes 5 lb') and quantity >= 1;",
+
+    # I should do at most 1 at a time
+    "select * from food_preparations_and_openings where food_type in ('Lundberg Sustainable California White Basmati Rice','Lundberg Sustainable California White Jasmine Rice') and quantity > 1;",
 
     """
     drop temporary table if exists food_preparations_and_openings_lower_bounds_eval_pre;
