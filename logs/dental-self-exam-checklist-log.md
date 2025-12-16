@@ -292,4 +292,16 @@ pressed the floss pick reasonably strongly against all interdental
 gaps, covering most interdental gaps at least twice and some even 3
 times. Overall, the pain lasted only a few seconds in each interdental
 gap, but it was a little bit more than I would ideally like, so
-I should continue to follow good  dental care practices.
+I should continue to follow good dental care practices.
+
+## 2025-12-16 (off-cycle floss pick pressure testing)
+
+On Tuesday 2025-12-16, I did off-cycle floss pick pressure testing
+(the full dental self-exam checklist is officially due, but I'll
+probably push it to early January to make it two months since the last
+check was on 2025-11-05). I pressed the floss pick reasonably strongly
+against all interdental gaps, covering most interdental gaps at least
+twice and some even 3 times. Overall, the pain lasted only a few
+seconds in each interdental gap, but it did linger on as discomfort
+for the interdental gaps around the upper middle teeth, so that's an
+area I may want to pay closer attention to.
