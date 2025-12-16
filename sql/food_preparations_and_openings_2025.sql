@@ -1561,12 +1561,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-12-14 Udupi Palace takeout consumption (second meal) */
   ('2025-12-14','Udupi Palace spinach masala dosa',1,2,'2025-12-15',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-12-14','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2025-12-14','TJ Carb Savvy Tortillas',1,2,'2025-12-15',2),
+  ('2025-12-14','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-12-15',2),
   /* 2025-12-15 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, and salt; skipped cayenne pepper in light of recent Udupi Palace spinach masala dosa consumption) */
   ('2025-12-15','Gold potatoes 5 lb',0.5,1,null,null),
   ('2025-12-15','TJ Kale',1,1,null,null),
   ('2025-12-15','TJ English Shelled Peas',2,1,null,null),
   ('2025-12-15','Beefsteak tomato',4,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-12-15','TJ Walnuts',1,1,null,null);
+  ('2025-12-15','TJ Walnuts',1,1,null,null),
+  ('2025-12-15','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
