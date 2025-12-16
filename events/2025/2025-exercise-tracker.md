@@ -1418,3 +1418,9 @@ much.
 On Saturday 2025-12-13, I skipped jogging and strength exercises. This
 was because I spent the morning and early afternoon wrapping up a
 somewhat complex task. I did do hand gripper exercises.
+
+## 2025-12-15: skipped all exercises
+
+On Monday 2025-12-15, I skipped all exercises to be able to fit in
+some work in the morning and then do potatoes prep (that I needed to
+do because I was out of cooked food).
