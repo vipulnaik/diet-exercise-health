@@ -14,7 +14,7 @@ holds, the goal isn't to have a long note with no pause, but to be
 able to cycle between vocal cord use and breathing in in a sustainable
 fashion over a period of minutes.
 
-## Current protocol as of 2024-12-06
+## Current protocol
 
 The protocol is that I hum a tune continuously except specific beats
 (e.g., 1 in every 8 beats) and I use that specific beat to pause my
