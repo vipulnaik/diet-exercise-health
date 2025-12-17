@@ -786,7 +786,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-12-14','TJ English Shelled Peas',2),
   ('2025-12-14','TJ Roasted Seaweed',1),
   ('2025-12-14','TJ Kale',1),
-  /* 2025-12-14 (Sunday) Udupi Palace; total cost $14.28; order placed at 6:36 PM; paid by cash */
+  /* 2025-12-14 (Sunday) Udupi Palace; total cost $15.38; order placed at 6:36 PM; paid by cash */
   ('2025-12-14','Udupi Palace spinach masala dosa',1),
   ('2025-12-14','Udupi Palace spinach masala dosa free red chutney',1); /* recording as a separate item as I start the consumption of this later */
   /* after entering a batch of data for a purchase:
