@@ -179,3 +179,30 @@ for each test set.
     - Scores: 101 wpm, 106 wpm, 101 wpm
   - [x] Right eye only (left eye closed) at 75% magnification (threshold of 80 wpm on at heast one of three attempts)
     - Scores: 103 wpm, 95 wpm, 109 wpm
+
+## 2025-12-19 onward
+
+### Outdoor vision test (to be done at every execution)
+
+- Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
+  - [ ] Both eyes
+  - [ ] Left eye only
+  - [ ] Right eye only
+
+END OF SECTION: Outdoor vision test (to be done at every execution)
+
+## (2) Medium distance vision (done 2025-12-19)
+
+- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (30 to 35 inches)
+  - [x] Both eyes
+  - [x] Left eye only
+  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
+  - [x] Right eye only
+- Functional medium distance vision test: Try to read the FineDine and Craftsman packages at a distance of about 6 feet (basically, read them seated); start at a slight angle and then work my way to straight reading
+  - [x] Both eyes
+  - [x] Left eye only
+  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
+  - [x] Right eye only
+    - Similar to last time, was not able to read the finest lines for a while and needed to get to about 4-5 feet to be able to read them relatively clearly
+
+END OF SECTION: (2) Medium distance vision
