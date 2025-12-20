@@ -1539,7 +1539,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-08','Trader Giotto''s Olive Oil',1,1,null,null), /* opened with potatoes prep */
   ('2025-12-08','TJ Carb Savvy Tortillas',1,1,'2025-12-09',1),
-  ('2025-12-08','TJ Roasted Seaweed',1,2,null,null),
+  ('2025-12-08','TJ Roasted Seaweed',1,2,'2025-12-19',2),
   ('2025-12-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-10',2),
   ('2025-12-09','TJ Carb Savvy Tortillas',1,1,'2025-12-10',1),
   ('2025-12-10','TJ Almond Milk',1,1,'2025-12-17',1),
