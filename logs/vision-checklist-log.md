@@ -151,16 +151,15 @@ previous tests.
   - [x] Right eye only
   - NOTE: I didn't use intersections but I did an equivalent distance and I also did the opposite side of the street.
 
-## 2025-10-13 onward
+## 2025-10-13
 
-I am skipping test set (3) (peripheral vision) and will do that in the December round.
-
-### Outdoor vision test (to be done at every execution)
-
-- Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
-  - [ ] Both eyes
-  - [ ] Left eye only
-  - [ ] Right eye only
+I ended up doing only test set (1). I didn't do the outdoor vision
+test (that I should have done). I was also thinking of doing test set
+(2) (medium distance vision) but didn't get around to it, so the
+effective plan is to do test set (2) and the outdoor vision test in
+December, then test set (3) (peripheral vision) and the outdoor vision
+test in February 2026, after which I can settle into a 6-month cadence
+for each test set.
 
 ### (1) Short distance vision (executed 2025-10-13)
 
@@ -180,16 +179,3 @@ I am skipping test set (3) (peripheral vision) and will do that in the December 
     - Scores: 101 wpm, 106 wpm, 101 wpm
   - [x] Right eye only (left eye closed) at 75% magnification (threshold of 80 wpm on at heast one of three attempts)
     - Scores: 103 wpm, 95 wpm, 109 wpm
-
-### (2) Medium distance vision
-
-- Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (30 to 35 inches)
-  - [ ] Both eyes
-  - [ ] Left eye only
-  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
-  - [ ] Right eye only
-- Functional medium distance vision test: Try to read the FineDine and Craftsman packages at a distance of about 6 feet (basically, read them seated); start at a slight angle and then work my way to straight reading
-  - [ ] Both eyes
-  - [ ] Left eye only
-  - NOTE: Keep both eyes open for about a minute before proceeding to the right eye; this helps with refocusing
-  - [ ] Right eye only
