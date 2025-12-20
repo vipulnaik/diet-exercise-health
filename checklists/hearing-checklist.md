@@ -60,6 +60,21 @@ Remember to return to normal volume and set balance back to neutral.
 
 END OF SECTION: Quick max frequency hearing test
 
+### Quick auditory reaction time test
+
+Test to play: https://playback.fm/audio-reaction-time
+
+This test should be done with normal headphones, since bone conduction
+headphones have a latency of a few hundred milliseconds.
+
+Play this once with the left ear and once with the right ear, and
+record in Slack self-chat logs with message of the format: `auditory
+reaction time: <number> ms with left ear, `<number>` ms with right
+ear`
+
+The values should be around 300 ms or lower; values above 350 ms are
+concerning and might call for a replay.
+
 ## More advanced portion of test with formal recording, that I should do formally at the periodic interval
 
 These pieces require more active concentration as well as
@@ -195,7 +210,9 @@ Adjust volume through the test for what lets me hear best.
 
 - [ ] Normal headphones, left ear
 - [ ] Normal headphones, right ear
-- [ ] Bone conduction headphones, left ear
-- [ ] Bone conduction headphones, right ear
+- [ ] Normal headphones, balanced
+- [ ] Bone conduction headphones, left ear (okay to press against skin)
+- [ ] Bone conduction headphones, right ear (okay to press against skin)
+- [ ] Bone conduction headphones, balanced (okay to press against skin)
 
 END OF SECTION: (3) Speech in noise test

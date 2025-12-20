@@ -125,3 +125,60 @@ I've been doing the quick things often enough.
     - In the case that the recommendations were already populated, look at the time; if it is between 81 and 84 seconds after I closed my eyes, I am fine and I got to 20 kHz; otherwise, redo the test
     - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
     - Final frequency estimate: around 15000-16000 Hz
+
+## 2025-12-19
+
+### Quick minimum audible volume and balance tests
+
+I verified that I've been doing the minimum audible volume and balance
+tests regularly since the last hearing checklist execution on
+2025-10-13.
+
+* Air conduction (normal headphones) minimum audible volume and
+  balance tests: 2025-10-19, 2025-10-22, 2025-11-12, 2025-11-18,
+  2025-11-20, 2025-11-28, 2025-12-10, and 2025-12-18.
+
+* Bone conduction minimum audible volume and balance tests:
+  2025-10-16, 2025-11-01, 2025-11-12, 2025-11-24, and 2025-12-14.
+
+I passed all the tests, but with a small note for the last air
+conduction test done 2025-12-18, where the balance was slightly toward
+the right ear which I suspect is due to left ear compression when
+sleeping.
+
+### Quick max frequency hearing test
+
+I did and passed the quick max frequency hearing test three times
+since the last hearing checklist execution on 2025-10-13. The dates
+were 2025-10-14, 2025-10-26, and 2025-12-17 / 2025-12-18 (done right
+around midnight).
+
+### Advanced portion: (3) Speech in noise test
+
+I am only doing (3) this time as I did (1) and (2) last time (I didn't
+have the full subdivision into (1), (2), and (3) at the time of last
+execution; I did the subdivision right after the execution. But the
+pieces I did execute are equivalent to what are now marked as (1) and
+(2).
+
+Run through and report results of https://www.medel.com/en-us/about-hearing/hearing-test/speech-in-noise
+
+Adjust volume through the test for what lets me hear best.
+
+- [x] Normal headphones, left ear
+  - Result: Below average
+- [x] Normal headphones, right ear
+  - Result: May be below average
+- [x] Normal headphones, balanced
+  - Result: Normal hearing
+- [x] Bone conduction headphones, left ear
+  - Result: Below average
+  - Pressed against skin for about half; could hear more clearly when pressed against skin
+- [x] Bone conduction headphones, right ear
+  - Result: May be below average
+  - Pressed against skin for most; could hear more clearly when pressed against skin
+- [x] Bone conduction headphones, balanced
+  - Result: Normal hearing
+  - Pressed against skin for most; could hear more clearly when pressed against skin
+
+END OF SECTION: (3) Speech in noise test
