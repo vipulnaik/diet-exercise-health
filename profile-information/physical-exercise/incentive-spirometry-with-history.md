@@ -20,3 +20,23 @@ well by the vacuum. Even after discovering this, I was not able to
 raise the 1200 cc consistently, and it was hard to do this on multiple
 consecutive inbreaths.
 
+## 2025-12-20: opening, washing, and first use of incentive spirometer in Berkeley
+
+I had purchased on 2025-07-06 the [Willnice training
+device](https://www.amazon.com/dp/B0BWJL4ZQ9) after returning to
+Berkeley but had not had time to open and set it up immediately after
+purchase. On 2025-12-20, I finally got around to opening and washing
+the device. After it had dried, I tried using it.
+
+I made sure to only breathe in and not breathe out into the device.
+
+I was able to get the 1200 cc / second ball up consistently (so all
+three balls went up) but was not able to hold them in the up position
+for longer than 1 second. This contrasts with the 5-6 seconds I had
+been able to manage in India. I don't know how much of this difference
+stems from the device being different (visually it looks the same)
+versus my practice time being shortly after my meal, versus maybe the
+device still being somewhat moist from the washing.
+
+I'll be recording further practice rounds in my Slack self-chat logs,
+so I should be able to assess the situation better over time.

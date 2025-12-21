@@ -364,9 +364,11 @@ for more background information.
 
 ## Incentive spirometry
 
-I have not yet codified this into a regular exercise, but have started
-taking notes of occasional execution
-[here](incentive-spirometry-with-history.md).
+See [here](incentive-spirometry-with-history.md) for my initial
+experience. I don't have a regular cadence for this exercise, but I
+plan to do it at least a few times every month and record my
+performance in Slack self-chat logs. I might eventually codify a
+protocol for it.
 
 ## Deliberate falling practice
 
