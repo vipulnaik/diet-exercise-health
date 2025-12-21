@@ -498,8 +498,8 @@ day.
 
 Later in the day, I tried out the 200 lb hand gripper for the first
 time, up from the 150 lb that I was now consistently closing with my
-right hand (see [2023-07-29 hand gripper
-exercise](2023-07-29-hand-gripper-exercise.md) for background). I had
+right hand (see [hand gripper
+exercises](../../profile-information/physical-exercise/hand-gripper-exercises-with-history.md) for background). I had
 been feeling pretty fit and fully recovered in the minutes leading up
 to that decision. However, the effort involved in trying to close the
 200 lb seems to have caused some abdominal tension.

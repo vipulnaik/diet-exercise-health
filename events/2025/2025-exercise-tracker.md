@@ -665,11 +665,11 @@ Specifically, these were my hold durations: 150 lbs: 12s in right
 hand, 3s in left hand; 100 lbs: 20s in right hand, 17s in left
 hand. These are less than the hold duration ranges specified in the
 [hand gripper exercise
-doc]((../../profile-information/physical-exercise/hand-gripper-exercise-with-history.md#first-of-alternating-days-focus-on-maintaining).
+doc]((../../profile-information/physical-exercise/hand-gripper-exercises-with-history.md).
 
 Even so, it's comparable to the level I was at as recently as
 2024-08-02, judging from the [hand gripper exercise
-doc](../../profile-information/physical-exercise/hand-gripper-exercise-with-history.md#update-on-2024-08-02). This
+doc](../../profile-information/physical-exercise/hand-gripper-exercises-with-history.md#update-on-2024-08-02). This
 suggests that even with deconditioning or reduced energy, I am not
 back to square one.
 

@@ -2121,7 +2121,7 @@ initial progession. This was also around the time that I introduced
 pushups; I had introduced some balance exercises a little earlier.
 
 I started hand gripper exercises in July 2023; see
-[here](physical-exercise/hand-gripper-exercise-with-history.md) for
+[here](physical-exercise/hand-gripper-exercises-with-history.md) for
 the progression.
 
 See

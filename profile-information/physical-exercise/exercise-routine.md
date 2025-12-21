@@ -39,7 +39,7 @@ Sections of this document:
 * [Standing-on-heels-with-eyes-open exercise](#standing-on-heels-with-eyes-open-exercise)
 * [Dorsiflexion and plantar flexion exercises](#dorsiflexion-and-plantar-flexion-exercises)
 * [Hopping](#hopping)
-* [Hand gripper exercise](#hand-gripper-exercise)
+* [Hand gripper exercises](#hand-gripper-exercises)
 * [Dead hang](#dead-hang)
 * [Pull-ups](#pull-ups)
 * [Breath holds](#breath-holds)
@@ -319,7 +319,7 @@ maintain. I may also change my goals as I learn more.
 
 See [here](hopping-with-history.md) for more details.
 
-## Hand gripper exercise
+## Hand gripper exercises
 
 Goal of exercise: build, though the current level is a respectable one
 to maintain
@@ -327,8 +327,14 @@ to maintain
 I started doing hand gripper exercise in July 2023 and have been
 ramping up slowly in terms of both the strength of the gripper and the
 duration of closing. I use 100 lb, 150 lb, and 200 lb metal hand
-grippers. See [here](hand-gripper-exercise-with-history.md) for more
+grippers. See [here](hand-gripper-exercises-with-history.md) for more
 details, including reasons for skipping.
+
+Starting December 2025, I also occasionally swap in [dynamometer grip
+strength](dynamometer-grip-strength-with-history.md) instead of hand
+gripper exercise. This is more for benchmarking than
+strength-building, so I am not making a separate section on it in this
+document.
 
 ## Dead hang
 
