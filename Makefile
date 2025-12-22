@@ -22,10 +22,12 @@ read_medical: read_medical_metadata read_medical_data verify_medical_data
 
 .PHONY: reset_medical_metadata
 reset_medical_metadata:
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists length_measurement_types;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists tests;"
 
 .PHONY: read_medical_metadata
 read_medical_metadata:
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/length_measurement_types.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/tests.sql
 
 .PHONY: reset_medical_data
@@ -36,6 +38,7 @@ reset_medical_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists foodmarble_aire_2_breath_tests;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists frequency_hearing_test_results;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists heinrich_incidents;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists length_measurements;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists pulse_oximeter_readings;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists test_results;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists test_sample_collections;"
@@ -50,6 +53,7 @@ read_medical_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/foodmarble_aire_2_breath_tests.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/frequency_hearing_test_results.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/heinrich_incidents.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/length_measurements.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/pulse_oximeter_readings.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/test_sample_collections.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/test_results.sql
