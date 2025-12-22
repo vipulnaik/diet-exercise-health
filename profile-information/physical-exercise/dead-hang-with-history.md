@@ -24,14 +24,19 @@ such as [pull-ups](pull-ups-with-history.md),
 
 ## Current practice
 
+Each oscillation is about 2.2 to 2.5 seconds (based on both
+measurement I did and estimation based on the 2pi sqrt{L/g} using an
+estimate of L as the height from the fist I am hanging off of to my
+center of mass).
+
 Generally, I do this after returning from jogging.
 
 * Overhand dead hang (palms away from me) for as long as I can; as of
-  2025-01-26, this is 25 to 38 oscillations which is about 55 to 95
+  2025-12-22, this is 30 to 42 oscillations which is about 66 to 105
   seconds.
 
 * Underhand dead hang (palms facing me) for as long as I can; as of
-  2025-01-26, this is 5 to 17 oscillations which is about 11 to 43
+  2025-01-26, this is 10 to 20 oscillations which is about 22 to 50
   seconds.
 
 From 2024-12-06 onward, I aim to do this once every 3 days, and more
@@ -69,3 +74,13 @@ other words, the sessions where I have more oscillations for the
 overhand dead hang tend to also have more oscillations for the
 underhand dead hang. The gap between the two numbers on a given day is
 usually around 20.
+
+## 2025-12-22 status update
+
+On 2025-12-22, based on a review of recent data, I increased the
+ranges (in terms of number of oscillations) for both overhand and
+underhand dead hang.
+
+* Overhand: (25 to 38) to (30 to 42)
+
+* Underhand: (5 to 17) to (10 to 20)
