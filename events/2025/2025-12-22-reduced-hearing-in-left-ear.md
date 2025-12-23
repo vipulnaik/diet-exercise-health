@@ -160,3 +160,12 @@ risk for recurrence, so I plan to continue investigation, including
 using the otoscope to gauge the extent of earwax and then potentially
 trying out ear drops or scheduling an appointment with the audiologist
 for earwax removal.
+
+## Recurrence of reduced hearing in left ear on 2025-12-23 in the morning
+
+I redid the minimum audible volume and balance tests with normal
+headphones in the morning on Tuesday 2025-12-23. I reproduced similar
+results as seen on 2025-12-22 in the morning. The only difference was
+that I estimated the balance gap as 4/64 instead of 3/64, but this is
+mostly a judgment call and may not reflect a difference in the real
+balance gap.
