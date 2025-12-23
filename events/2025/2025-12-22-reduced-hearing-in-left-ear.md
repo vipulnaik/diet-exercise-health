@@ -1,5 +1,10 @@
 # 2025-12-22: reduced hearing in left ear
 
+I had reduced hearing in my left ear in the morning and early
+afternoon on 2025-12-22, but it resolved by around 8:10 PM (as judged
+subjectively by headphone balance), and I verified the resolution
+using minimum audible volume and balance tests at around 11:40 PM.
+
 See also: [2024-11-29: reduced hearing in left
 ear](../2024/2024-11-29-reduced-hearing-in-left-ear.md).
 
@@ -116,11 +121,42 @@ audiologist like I had done last time.
   (recommended video on the above video, that was relevant to me as I
   had been looking at otoscopes)
 
-As of the afternoon on 2025-12-22, here is where I currently stand:
+* [Earwax MD Review | Best Earwax/Cerumen Removal Drops? | Earwax
+  Extraction | Ear
+  Problems](https://www.youtube.com/watch?v=jMjsGGBIb3g)
 
-* I am uncertain about whether to try earwax removal. I'm still pondering it.
+* [BEST Way to Find Out if You Have Earwax? | Ear View MD Video Camera
+  Otoscope Review](https://www.youtube.com/watch?v=eEKZEEn_CtU)
 
-* I am pretty sure I do not want to use the earwax removal tools with
-  the otoscope, but I am undecided on whether it's worth trying the
-  otoscope for the camera feature to get more insight into what's
-  happening with earwax.
+* [BEST Way to Remove Earwax from Home](https://www.youtube.com/watch?v=Un3tRujFBjA)
+
+* [The BEST Way to Professionally Remove Earwax | Earigator Cerumen Irrigation](https://www.youtube.com/watch?v=lx-CYoI4vTM)
+
+After watching the videos and thinking through the contents, I made
+the following decisions:
+
+* I decided to purchase the digital otoscope anyway, but only for use
+  as a camera and not for earwax removal.
+
+* I will review the results of the otoscope and use that to inform my
+  strategy on at-home earwax removal using ear drops.
+
+## Resolution of issues on 2025-12-22 (same day as beginning of issues)
+
+At 8:10 PM, I put headphones on to listen to stuff during meal
+prep. The headphones felt balanced. I didn't do a minimum audible
+volume test at this time because I wanted to focus on meal prep
+first. I wasn't sure whether the balance is because hearing is
+restored in my left ear or due to neurological compensation.
+
+At 11:40 PM, after completing meal prep, eating, and putting food in
+the fridge, I redid my standard tests using normal headphones: the
+minimum audible volume and balance tests. The minimum audible volume
+test passed in both ears and the balance test also passed. This
+confirms resolution of the issue.
+
+However, I suspect that there's enough earwax buildup that I am at
+risk for recurrence, so I plan to continue investigation, including
+using the otoscope to gauge the extent of earwax and then potentially
+trying out ear drops or scheduling an appointment with the audiologist
+for earwax removal.
