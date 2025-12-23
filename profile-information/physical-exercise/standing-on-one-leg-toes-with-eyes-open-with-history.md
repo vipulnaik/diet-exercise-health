@@ -75,7 +75,7 @@ exercise, partly as a result of a general squeeze on exercise time due
 to things being busy. Specifically, in light of the [best practices
 around exercise adjustment during hectic
 times](../../best-practices/best-practices-around-exercise-adjustment-during-hectic-times.md#balance-exercises-and-other-niche-exercises),
-I deprioritized this exercise during the hectic t imes.
+I deprioritized this exercise during the hectic times.
 
 The few times I was able to do the exercise were mostly during rice
 prep, while waiting for water to be filtered by the water filter
