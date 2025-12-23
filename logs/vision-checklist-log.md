@@ -180,7 +180,7 @@ for each test set.
   - [x] Right eye only (left eye closed) at 75% magnification (threshold of 80 wpm on at heast one of three attempts)
     - Scores: 103 wpm, 95 wpm, 109 wpm
 
-## 2025-12-19 onward
+## 2025-12-19 and 2025-12-23
 
 ### Outdoor vision test (to be done at every execution) (done 2025-12-23)
 
