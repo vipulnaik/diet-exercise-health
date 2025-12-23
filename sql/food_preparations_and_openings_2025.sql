@@ -1572,7 +1572,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-15','TJ Walnuts',1,1,'2025-12-18',2),
   ('2025-12-15','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-12-17',1),
   ('2025-12-16','TJ Carb Savvy Tortillas',1,1,'2025-12-16',2),
-  ('2025-12-16','TJ Miso Ginger Broth',1,1,null,null),
+  ('2025-12-16','TJ Miso Ginger Broth',1,1,'2025-12-22',1),
   /* 2025-12-17 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2025-12-17','Eggplant',1,1,null,null),
   ('2025-12-17','TJ Kale',1,1,null,null),
@@ -1588,16 +1588,20 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-17','TJ Carb Savvy Tortillas',1,2,'2025-12-18',2),
   ('2025-12-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-12-19',1),
-  ('2025-12-18','TJ Walnuts',1,2,null,null),
+  ('2025-12-18','TJ Walnuts',1,2,'2025-12-22',1),
   ('2025-12-18','TJ Carb Savvy Tortillas',1,2,'2025-12-19',1),
   ('2025-12-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-20',2),
   ('2025-12-19','TJ Carb Savvy Tortillas',1,1,'2025-12-20',2),
   ('2025-12-19','Udupi Palace spinach masala dosa free red chutney',1,1,null,null),
   ('2025-12-20','TJ Roasted Seaweed',1,2,null,null),
   ('2025-12-20','TJ Carb Savvy Tortillas',1,2,'2025-12-21',1),
-  ('2025-12-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-12-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-22',1),
   ('2025-12-21','TJ Sauerkraut',1,1,null,null),
   ('2025-12-21','TJ Carb Savvy Tortillas',1,1,null,null),
   /* 2025-12-21 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-12-21','Lundberg Sustainable California White Jasmine Rice',1,2,null,null);
+  ('2025-12-21','Lundberg Sustainable California White Jasmine Rice',1,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2025-12-22','TJ Miso Ginger Broth',1,1,null,null),
+  ('2025-12-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2025-12-22','TJ Walnuts',1,1,null,null);
   /* Double-check the date and meal index before committing */
