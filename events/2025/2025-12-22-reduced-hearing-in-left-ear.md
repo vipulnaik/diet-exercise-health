@@ -169,3 +169,9 @@ results as seen on 2025-12-22 in the morning. The only difference was
 that I estimated the balance gap as 4/64 instead of 3/64, but this is
 mostly a judgment call and may not reflect a difference in the real
 balance gap.
+
+When I tested again at 4:30 PM, hearing in the left ear had improved
+somewhat but the gap had not completely disappeared. I was now able to
+hear words clearly at 1/64 at 100% YouTube volume but not at 50%
+YouTube volume. I estimated a net gap between the ears of about 2/64
+(1/64 for the right ear roughly matched 3/64 for the left ear).
