@@ -175,3 +175,9 @@ somewhat but the gap had not completely disappeared. I was now able to
 hear words clearly at 1/64 at 100% YouTube volume but not at 50%
 YouTube volume. I estimated a net gap between the ears of about 2/64
 (1/64 for the right ear roughly matched 3/64 for the left ear).
+
+When I tested again at around 6:45 PM, hearing in the left ear was
+back to normal. I passed both the minimum audible volume and balance
+tests with normal headphones, though maybe there was still a slight
+difference between the ears on the order of 1/64 (within my margin of
+error).
