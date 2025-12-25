@@ -321,3 +321,15 @@ On Tuesday 2025-12-09, I made a three-stop trip. The first stop was at
 Citibank to get quarters. The second stop was for an administrative
 task. The third stop was at the Amazon Hub Locker at ASUC Berkeley for
 a package pickup.
+
+## 2025-12-24
+
+On Wednesday 2025-12-24, in the afternoon, I made a two-stop trip. The
+first stop was at the Amazon Hub Locker at ASUC Berkeley to pick up my
+digital otoscope order. My second stop was at Trader Joe's for my
+usual food purchases, recorded
+[here](../../sql/food_purchases_2025.sql).
+
+On the way from ASUC Berkeley to Trader Joe's, I walked through part
+of the UC Berkeley campus, an area that I have not walked through for
+a long time.
