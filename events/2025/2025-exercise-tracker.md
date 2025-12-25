@@ -1424,3 +1424,23 @@ somewhat complex task. I did do hand gripper exercises.
 On Monday 2025-12-15, I skipped all exercises to be able to fit in
 some work in the morning and then do potatoes prep (that I needed to
 do because I was out of cooked food).
+
+## 2025-12-17: skipped all exercises
+
+On Wednesday 2025-12-17, I skipped all exercises so that I could do
+eggplant meal prep in the morning, while also addressing a few small
+time-sensitive work-related matters in the morning.
+
+## 2025-12-18: skipped all exercises
+
+On Thursday 2025-12-18, I skipped all exercises because time-sensitive
+stuff at work took up my time in the morning and early afternoon and I
+missed the time window for exercise.
+
+## 2025-12-24: skipped all exercises
+
+On Wednesday 2025-12-24, I skipped all exercises so as to be able to
+conserve time and energy for a two-stop trip in the early afternoon. I
+wanted to get the trip done in the early afternoon in light of Trader
+Joe's closing early for Christmas Eve, as well as the possibility of
+rain later in the afternoon.
