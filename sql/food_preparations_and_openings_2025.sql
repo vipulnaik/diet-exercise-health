@@ -1599,7 +1599,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-21','TJ Sauerkraut',1,1,null,null),
   ('2025-12-21','TJ Carb Savvy Tortillas',1,1,'2025-12-22',2),
   /* 2025-12-21 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2025-12-21','Lundberg Sustainable California White Jasmine Rice',1,2,null,null),
+  ('2025-12-21','Lundberg Sustainable California White Jasmine Rice',1,2,'2025-12-24',2),
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-22','TJ Miso Ginger Broth',1,1,null,null),
   ('2025-12-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-23',2),
@@ -1613,5 +1613,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-22','TJ Carb Savvy Tortillas',1,2,'2025-12-23',2),
   ('2025-12-23','TJ Carb Savvy Tortillas',1,2,null,null),
   ('2025-12-24','TJ Almond Milk',1,1,null,null),
-  ('2025-12-24','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2025-12-24','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  /* 2025-12-24 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt, finishing the cinnamon bottle) */
+  ('2025-12-24','Eggplant',1,2,null,null),
+  ('2025-12-24','TJ Kale',1,2,null,null),
+  ('2025-12-24','TJ Carrots',1,2,null,null),
+  ('2025-12-24','Green bell pepper',4,2,null,null),
+  ('2025-12-24','Red bell pepper',2,2,null,null),
+  ('2025-12-24','Beefsteak tomato',8,2,null,null);
   /* Double-check the date and meal index before committing */
