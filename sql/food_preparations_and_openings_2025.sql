@@ -1620,5 +1620,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-24','TJ Carrots',1,2,null,null),
   ('2025-12-24','Green bell pepper',4,2,null,null),
   ('2025-12-24','Red bell pepper',2,2,null,null),
-  ('2025-12-24','Beefsteak tomato',8,2,null,null);
+  ('2025-12-24','Beefsteak tomato',8,2,null,null),
+  /* 2025-12-25 rice prep (first meal) (added turmeric, cumin, salt) */
+  ('2025-12-25','Lundberg Sustainable California White Jasmine Rice',1,1,null,null);
   /* Double-check the date and meal index before committing */
