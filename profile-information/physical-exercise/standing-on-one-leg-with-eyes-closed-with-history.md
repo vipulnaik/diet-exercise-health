@@ -11,7 +11,7 @@ For the with-shoes variant of this exercise, see
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 90 seconds (with adjustment for temperature)
+### Maintain standing-on-one-leg-with-eyes-closed for at least 100 seconds (with adjustment for temperature)
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -24,18 +24,18 @@ According to
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
 (average of 18.3 seconds. As somebody in my late 30s / early 40s (as
-of 2025), my threshold is at least 90 seconds per leg with temperature
-adjustment, and in practice I do between 60 and 140 seconds on the
-first try most of the time; the portion of the range below 90 would
+of 2025), my threshold is at least 100 seconds per leg with temperature
+adjustment, and in practice I do between 90 and 150 seconds on the
+first try most of the time; the portion of the range below 100 would
 generally be during colder temperatures where the threshold is also
 correspondingly lower.
 
 At this point, it's not clear that increasing the duration has
 real-world effects either in practice or in theory,so my plan is to
-sustain the minimum of 90 seconds for
+sustain the minimum of 100 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
 up. Time considerations make it dificult to push the threshold too far
-up, even if I am eventually able to do clearly over 90 seconds.
+up, even if I am eventually able to do clearly over 100 seconds.
 
 In late 2025, I switched to doing these exercises along with rice
 prep, and multiplexed with listening to stuff, so the time is
@@ -44,9 +44,9 @@ said, the multiplexing is efficient only if I don't spend a *lot* of
 time standing on one leg and I don't have to do multiple repeat tries.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 90 seconds over a
+that I've increased the threshold from 10 seconds to 100 seconds over a
 period of a little over 2 years, I think just being able to maintain
-at 90 seconds should be good enough.
+at 100 seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
 exercises, such as
@@ -74,17 +74,25 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 90 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 100 seconds with adjustments for colder temperatures)
 
-Starting 2025-11-11, the threshold duration is as follows:
+Starting 2025-12-25, the threshold duration is as follows:
 
-* Baseline of 90 seconds
+* Baseline of 100 seconds
 
-* If the temperature is 20 degrees Celsius or higher, no
-  adjustment. If the temperature is greater than 0 degrees Celsius and
-  less than 20 degrees Celsius, then 30 + three times the temperature
-  in degrees Celsius (in seconds). For instance, if the temperature is
-  10 degrees Celsius, the threshold is 60 seconds.
+* If the temperature is 68 degrees Fahrenheit (20 degrees Celsius) or
+  higher, no adjustment. If the temperature is greater than 50 degrees
+  Fahrenheit (10 degrees Celsius) and less than 68 degrees Fahrenheit,
+  then 2 times the temperature in degrees Fahrenheit minus 36 (so the
+  lowest threshold is at 51 degrees Fahrenheit where it is 66
+  seconds). If the temperature is 50 degrees Fahrenheit or less, I
+  don't have a set threshold (this is partly because my home
+  temperature reading does not work at or below 50 degrees
+  Fahrenheit).
+
+* I should also make a point of recording indoor temperature every
+  time I do the exercise, which will allow me to make future updates
+  to the baseline and to the temperature-based adjustment.
 
 ### How the threshold duration is used
 
@@ -394,6 +402,46 @@ frequency is once every 9 to 15 days.
   leg twice (once along with the right leg, and one other time where I
   got to 88 seconds). Most of the time, I get above 100 seconds on
   both legs.
+
+* Starting 2025-12-25, I am increasing the baseline threshold to 100
+  seconds and also updating the temperature-based adjustment
+  logic. The new logic is:
+
+  * Baseline of 100 seconds
+
+  * If the temperature is 68 degrees Fahrenheit (20 degrees Celsius)
+    or higher, no adjustment. If the temperature is greater than 50
+    degrees Fahrenheit (10 degrees Celsius) and less than 68 degrees
+    Fahrenheit, then 2 times the temperature in degrees Fahrenheit
+    minus 36 (so the lowest threshold is at 51 degrees Fahrenheit
+    where it is 66 seconds). If the temperature is 50 degrees
+    Fahrenheit or less, I don't have a set threshold (this is partly
+    because my home temperature reading does not work at or below 50
+    degrees Fahrenheit).
+
+  * I should also make a point of recording indoor temperature every
+    time I do the exercise, which will allow me to make future updates
+    to the baseline and to the temperature-based adjustment.
+
+  These updates are based on a review of recent data over the months
+  of November 2025 and December 2025. The switch to Fahrenheit makes
+  it easier to apply the logic since my home temperature reading is in
+  Fahrenheit, and it also provides a bit more granularity. The floor
+  of 50 degrees Fahrenheit takes into account measurement
+  limitations. The overall magnitude of adjustment per degree Celsius
+  is up from 3 per degree Celsius to 3.6 per degree Celsius
+  (multiplying the 2 per degree Fahrenheit with the adjustment factor
+  of 1.8). In addition to being arithmetically more expedient, this
+  increase also increases the adjustment rate approximately in line
+  with the increase in the baseline threshold.
+
+  Unfortunately, I didn't record indoor temperature around the time of
+  each measurement, though I do have indoor temperature measurements
+  at other times of the day so I have a general sense of the
+  temperature. My right leg has consistently been above 100 seconds,
+  and my left leg has been only slightly below 100 seconds twice, and
+  both times, based on my estimate of indoor temperature, I think I
+  was in the clear.
 
 ### History of triggers for overall exercise
 
