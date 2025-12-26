@@ -184,12 +184,15 @@ error).
 
 ## Recurrence again on 2025-12-25 and use of digital otoscope (for photos) and Earwax MD (for earwax removal)
 
-### Recurrence
+### Recurrence and return to normal
 
-On 2025-12-25, I detected minimum audible volume and balance issues
-again (with both normal headphones and bone conduction headphones),
-with an estimated gap of 4 to 6 out of 64, and other symptoms fairly
-similar to earlier.
+On 2025-12-25, at around 5:30 PM, I detected minimum audible volume and
+balance issues again (with both normal headphones and bone conduction
+headphones), with an estimated gap of 4 to 6 out of 64, and other
+symptoms fairly similar to earlier.
+
+When I tested again at around 11:10 PM, my minimum audible volume and
+balance tests were both passing in the left ear.
 
 ### Use of digital otoscope
 
