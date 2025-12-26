@@ -225,6 +225,10 @@ A few other notes:
 
 ### Earwax removal: review of last year's effort in preparation for trying again this year
 
+NOTE: For the most up-to-date guidance related to at-home earwax removal, see
+[best practices around at-home earwax
+removal](../../best-practices/best-practices-around-at-home-earwax-removal.md).
+
 Last year, on 2024-12-24 going into 2025-12-25 (so one year and one
 day ago!) I had tried applying Ear Wax MD for earwax removal, as
 documented in [last year's
@@ -345,6 +349,10 @@ cleaning it up takes priority over earwax removal.
 
 ### Actual process of application of Ear Wax MD
 
+NOTE: For the most up-to-date guidance related to at-home earwax
+removal, see [best practices around at-home earwax
+removal](../../best-practices/best-practices-around-at-home-earwax-removal.md).
+
 I finished closing my laptop and brushing my teeth by around 11:40 PM,
 and from that point onward I began the preparatory work as planned in
 the protocol described above.
@@ -364,8 +372,15 @@ I made a few additions:
 * I kept a paper towel on the somewhat dirty window sill so that I
   could put stuff there if needed.
 
+* I needed some level of lighting, but not too much, so instead of
+  putting my bedroom light on I put on another light that was a little
+  farther out.
+
 * I made sure my trash can is accessible from my bed so I could throw
   out the tube once I finished it without getting out of position.
+
+* I put my socks in the laundry and took out a fresh pair of socks to
+  use after the ear drop application.
 
 Here is the timeline of the process:
 
