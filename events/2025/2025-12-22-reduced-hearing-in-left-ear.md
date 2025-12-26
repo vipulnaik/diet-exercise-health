@@ -182,12 +182,16 @@ tests with normal headphones, though maybe there was still a slight
 difference between the ears on the order of 1/64 (within my margin of
 error).
 
-## Recurrence again on 2025-12-25 and use of digital otoscope
+## Recurrence again on 2025-12-25 and use of digital otoscope (for photos) and Earwax MD (for earwax removal)
+
+### Recurrence
 
 On 2025-12-25, I detected minimum audible volume and balance issues
 again (with both normal headphones and bone conduction headphones),
 with an estimated gap of 4 to 6 out of 64, and other symptoms fairly
 similar to earlier.
+
+### Use of digital otoscope
 
 I used the digital otoscope (that I had picked up the previous day,
 2025-12-24) with the black silicone cap on but was not able to orient
@@ -196,3 +200,123 @@ canal. I went as far as I could comfortably go. I did take pictures
 and saved them to Google Drive. The pictures identified a yellow
 earwax spot in the outer portion of the left ear, that I was able to
 mostly remove with my finger.
+
+### Earwax removal: review of last year's effort in preparation for trying again this year
+
+Last year, on 2024-12-24 going into 2025-12-25 (so one year and one
+day ago!) I had tried applying Earwax MD for earwax removal, as
+documented in [last year's
+document](../2024/2024-11-29-reduced-hearing-in-left-ear.md#research-on-and-efforts-toward-earwax-removal-on-2024-12-24). At the time, it had not
+appeared to work, but I also lacked some of the more sophisticated
+measurement approaches last time, and the hearing reduction had been
+much more severe, so it may be that a single application didn't work
+last time. So my plan is to try again on the night of 2025-12-25,
+mostly following a similar protocol.
+
+In addition to reading through last time's notes, I watched the
+[how-to video](https://www.youtube.com/shorts/zvzYmQMzfHo) linked from
+the [Eosera how-to page](https://www.eosera.com/pages/how-to-use).
+
+#### Protocol
+
+My plan is as follows:
+
+* Prep by placing hand towels on top of my pillow so that I lie down
+  on these, so that any earwax discharge lands on the hand towels
+
+* Prep by separating the earwax tube I intend to apply from the rest
+
+* Prep by having the earwax removal syringe kit handy
+
+* Lie down on my *right* side (so that I can apply the earwax in my
+  left ear) with the phone in my hand
+
+* Start the phone timer
+
+* Begin application of the Earwax MD from the tube, squeezing the
+  entirety of the tube contents over a few minutes
+
+* Lay still for 20 to 30 minutes from the start of application,
+  assuming the stuff does not get on my hands or in my eyes, and does
+  not get on a lot of skin to the point that it causes itching or
+  burning
+
+* After being done, wipe my ears with the hand towels, then use the
+  earwax removal syringe kit with warm water (neither hot nor cold,
+  ideally around body temperature) a few times in my ear
+
+* Dry out the ears, then go for my bath where I make sure to wash out
+  my ear using warm water
+
+#### Evaluation of success
+
+For the application last year (2024) I evaluated using the minimum
+audible volume test as well as frequency hearing tests that I had done
+a few times before application, and did immediately after and a few
+more times after application. I did not see any change in these
+results. I started balance tests only after application, so I don't
+have a before/after of those.
+
+The situation this time is somewhat different from last time. First,
+the magnitude of hearing loss seems less significant than last
+time. Second, it has shown a tendency to reverse itself over the
+course of the day on two past days (2025-12-22 and 2025-12-23), which
+was not the case last time, where the issue persisted for about 1.5
+months until it was fixed by earwax removal.
+
+So, this time, I'll use a more nuanced and multifaceted measure of
+success.
+
+* I will evaluate subjective heaviness / muffled sensations in the
+  left ear (that correlates with reduced hearing on the whole, but is
+  easier to sense without running a test).
+
+* I will evaluate not just whether the reduced hearing resolves on its
+  own, but also the pattern of how it ebbs and flows within the day
+  for the next week or so.
+
+#### Notes written last time before the application, with a few additional annottations
+
+* If there are different strengths and formulations, the difference
+  between them: I watched some of the videos above to compare
+  different formulations. Sodium bicarbonate is among the more
+  effective, but may be unwise to apply frequently. The hope is that I
+  make significant progress with the first application.
+
+* Expected dose range: My plan is to limit myself to a single tube,
+  and squeeze as much of it as I need to till my left ear feels full.
+
+* Frequency range: I'm currently only planning to do this once to
+  begin with, and at most one more time within the next week. I will
+  re-evaluate after that. ANNOTATION: See previous subsection for how
+  I am evaluating.
+
+* Minimum and maximum dose gap: Minimum gap of 1 day. No maximum gap.
+
+* Impact of missing a dose -- is it advisable to double-dose, or just
+  contine with other doses regularly? Don't double-dose.
+
+* Any dependence or tolerance effects that are known: I'm not yet
+  planning to do this often enough for such effects to become a
+  concern.
+
+Timing information: Based on the how-to, this is most convenient to do
+before a bath so that I can wash the ear out properly.
+
+Risk of getting in eyes: My plan is to keep my eyes closed during the
+squeezing process, and for most of the 20 minutes waiting time after
+that (ANNOTATION: last time I ended up waiting 30 minutes from the
+start of application instead of 20, and I'm hoping and planning to do
+the same this time if nothing goes wrong). If for whatever reason
+something does get in my eyes, it looks like the priority will be to
+flush the eyes for a lengthy period of time, and forgo the earwax
+removal benefits for this time.
+
+Risk of getting on hands: The tube structure means that there
+shouldn't be stuff getting on hands. Even so, I'll keep towels
+handy to wipe my hands, and if a lot gets on hands I may again have to
+abandon the earwax removal plan and focus on washing my hands first.
+
+Other parts of the skin: My plan is to wipe off minor amounts that get
+on the skin, but if a lot gets on and it's itching and burning, then
+cleaning it up takes priority over earwax removal.
