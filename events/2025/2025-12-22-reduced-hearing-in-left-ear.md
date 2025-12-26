@@ -191,8 +191,9 @@ balance issues again (with both normal headphones and bone conduction
 headphones), with an estimated gap of 4 to 6 out of 64, and other
 symptoms fairly similar to earlier.
 
-When I tested again at around 11:10 PM, my minimum audible volume and
-balance tests were both passing in the left ear.
+When I tested again at around 11:10 PM with normal headphones, the
+minimum audible volume test passed for both ears. The balance test
+also passed (sound was equally loud in both ears).
 
 ### Use of digital otoscope
 
