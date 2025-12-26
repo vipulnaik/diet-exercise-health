@@ -182,14 +182,16 @@ tests with normal headphones, though maybe there was still a slight
 difference between the ears on the order of 1/64 (within my margin of
 error).
 
-## Recurrence again on 2025-12-25 and use of digital otoscope (for photos) and Earwax MD (for earwax removal)
+## Recurrence again on 2025-12-25 and use of digital otoscope (for photos) and Ear Wax MD (for earwax removal)
 
 ### Recurrence and return to normal
 
-On 2025-12-25, at around 5:30 PM, I detected minimum audible volume and
-balance issues again (with both normal headphones and bone conduction
-headphones), with an estimated gap of 4 to 6 out of 64, and other
-symptoms fairly similar to earlier.
+On 2025-12-25, at around 5:30 PM, I detected minimum audible volume
+and balance issues again (with both normal headphones and bone
+conduction headphones), with an estimated gap of 4 to 6 out of 64, and
+other symptoms fairly similar to earlier. I did this testing before
+the digital otoscope use described below, so it was not affected by
+any aggravation caused by the otoscope.
 
 When I tested again at around 11:10 PM with normal headphones, the
 minimum audible volume test passed for both ears. The balance test
@@ -205,10 +207,26 @@ and saved them to Google Drive. The pictures identified a yellow
 earwax spot in the outer portion of the left ear, that I was able to
 mostly remove with my finger.
 
+A few other notes:
+
+* Initially, I was having trouble because hair from my head and
+  sideburns kept interfering with the otoscope images (this was more
+  of an issue when self-administering, because it was hard to get an
+  accurate sense of direction when doing the manipulations). I
+  ultimately shaved off my sideburns and slightly trimmed my head hair
+  and was then able to use the otoscope without interference.
+
+* The process of using the otoscope may have exacerbated some of my
+  left ear irritation that peaked shortly after I finished otoscope
+  use, but it subsided within about an hour. The otoscope use did not
+  affect the results of my minimum audible volume and balance tests; I
+  got similar results on the tests I did shortly after otoscope use as
+  I had gotten at around 5:30 PM before starting otoscope use.
+
 ### Earwax removal: review of last year's effort in preparation for trying again this year
 
 Last year, on 2024-12-24 going into 2025-12-25 (so one year and one
-day ago!) I had tried applying Earwax MD for earwax removal, as
+day ago!) I had tried applying Ear Wax MD for earwax removal, as
 documented in [last year's
 document](../2024/2024-11-29-reduced-hearing-in-left-ear.md#research-on-and-efforts-toward-earwax-removal-on-2024-12-24). At the time, it had not
 appeared to work, but I also lacked some of the more sophisticated
@@ -237,7 +255,7 @@ My plan is as follows:
 
 * Start the phone timer
 
-* Begin application of the Earwax MD from the tube, squeezing the
+* Begin application of the Ear Wax MD from the tube, squeezing the
   entirety of the tube contents over a few minutes
 
 * Lay still for 20 to 30 minutes from the start of application,
@@ -324,3 +342,82 @@ abandon the earwax removal plan and focus on washing my hands first.
 Other parts of the skin: My plan is to wipe off minor amounts that get
 on the skin, but if a lot gets on and it's itching and burning, then
 cleaning it up takes priority over earwax removal.
+
+### Actual process of application of Ear Wax MD
+
+I finished closing my laptop and brushing my teeth by around 11:40 PM,
+and from that point onward I began the preparatory work as planned in
+the protocol described above.
+
+I made a few additions:
+
+* I washed my feet; normally, I get into bed after a bath so my feet
+  are washed, but in this case I was doing it before my bath, so I
+  made a point of washing my feet.
+
+* I removed my sweatshirt before getting in.
+
+* I kept my scrunchy on, which is different from when I go to bed to
+  sleep. This was to reduce the risk of hair falling over the left ear
+  while I was trying to apply the Ear Wax MD.
+
+* I kept a paper towel on the somewhat dirty window sill so that I
+  could put stuff there if needed.
+
+* I made sure my trash can is accessible from my bed so I could throw
+  out the tube once I finished it without getting out of position.
+
+Here is the timeline of the process:
+
+* 11:40 PM: I finished brushing teeth and started preparing per the
+  protocol.
+
+* 11:49 PM: I removed my sweatshirt.
+
+* 11:55 PM: I started my phone timer and began applying Ear Wax MD in
+  small increments. I kept the tube above my ear throughout. I
+  squeezed for a couple of seconds, then paused for a few seconds to
+  let it enter.
+
+* 11:59 PM: After four minutes of application, I paused application
+  for about a minute. At this time, I rotated the tube to point up,
+  moved it away from my ear, and capped in. This was because my ear
+  felt like it was full of the fluid.
+
+* 12:00 AM: I resumed application of Ear Wax MD.
+
+* 12:02 AM: I finished the Ear Wax MD tube and threw it in the trash.
+
+* 12:03 AM to 12:12 AM: Over this period, I gently wiped off the
+  earwax and fluid from my left ear, while staying in position, using
+  the hand towel I was sleeping on. Over the middle of the period, I
+  got the most wax out, with yellow and brown colors (and a bit of
+  red, which might indicate some inflammation). By the end, I was not
+  getting any wax out.
+
+* 12:18 AM: By this point, I no longer felt fluid in my ear but it
+  still felt a little heavy/itchy.
+
+* 12:25 AM: Around this time, I got out of bed, about 30 minutes after
+  I had started the timer.
+
+* 12:33 AM to 12:40 AM: This is around the time that I started the
+  irrigation process using the Walgreens earwax removal kit (syringe
+  and bulb). It took me a few attempts to get the right temperature
+  setting (it's about halfway from neutral to hot). After about 5 to
+  10 rounds of irrigation, I washed the syringe and bulb with soap and
+  water and left them to dry. I did not notice any additional earwax
+  coming out at this stage.
+
+* 12:40 AM to 12:45 AM: I took photos of the hand towel with the
+  earwax on it, then washed off the earwax with soap and water, then
+  put the hand towel in the laundry for a fuller wash. Unfortunately,
+  I got the idea of taking photos only after I had already washed one
+  of three regions on the towel with earwax, so I could only get
+  photos of the other two regions.
+
+* 12:49 AM: Around this time, I did the minimum audible volume and
+  balance tests with normal headphones. The former passed for both
+  ears and the latter also passed; this was the same result as I had
+  gotten for the equivalent tests I did around 11:10 PM (shortly
+  before the ear drop application).

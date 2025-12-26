@@ -294,14 +294,14 @@ help with earwax removal. I ended up buying these items:
   peroxide; this is a store brand equivalent of Debrox earwax removal
   drops)
 
-* Earwax MD (active ingredient: sodium bicarbonate) from Eosera
+* Ear Wax MD (active ingredient: sodium bicarbonate) from Eosera
 
 * Walgreens earwax removal kit (this is a syringe design that is
   claimed to be superior to the bulb syringe that seems like the
   default)
 
 After some thought after getting back home, I decided it's worth
-trying the Earwax MD first. This uses sodium bicarbonate. The main
+trying the Ear Wax MD first. This uses sodium bicarbonate. The main
 downside is that sodium bicarbonate, being alkaline, is not good to
 apply repeatedly. So, it's important to limit to maybe two
 applications within the space of a week. It also claims that it can
@@ -367,7 +367,7 @@ cleaning it up takes priority over earwax removal.
 
 ### Execution of eardrop application in left ear
 
-I applied the Earwax MD eardrops on 2024-12-24 around 11:33 PM in my
+I applied the Ear Wax MD eardrops on 2024-12-24 around 11:33 PM in my
 left ear only, which was a little over 2.5 hours after I had finished
 my second meal at around 8:58 PM.
 

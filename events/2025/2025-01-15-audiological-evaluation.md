@@ -141,7 +141,7 @@ c) Subjectively identifying what volume in the left ear seemed as loud
   broadly similar to the picture painted by the single-frequency
   hearing test.
 
-I also attempted earwax removal on December 30, 2024. I used Earwax MD
+I also attempted earwax removal on December 30, 2024. I used Ear Wax MD
 from Eosera, which has sodium bicarbonate as its active
 ingredient. Based on online information, I gathered that sodium
 bicarbonate should not be used too often, even though it is effective
@@ -151,7 +151,7 @@ infections. Therefore, my plan was to use it once and see how
 effective it was, but not use it further until a more formal
 evaluation.
 
-The use of Earwax MD seems to have only removed a small amount of
+The use of Ear Wax MD seems to have only removed a small amount of
 earwax, and comparing pre- and post- hearing tests using normal
 headphones did not show any difference (I did not have bone conduction
 headphones at the time, so I don't have pre- and post- data with bone
