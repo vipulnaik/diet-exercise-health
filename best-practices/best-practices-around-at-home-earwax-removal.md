@@ -2,8 +2,8 @@
 
 This document is based on two experiences:
 
-* [2024-12-24 / 2024-12-25](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md#research-on-and-efforts-toward-earwax-removal-on-2024-12-24)
-* [2025-12-25 / 2025-12-26](../events/2025/2025-12-22-reduced-hearing-in-left-ear.md#recurrence-again-on-2025-12-25-and-use-of-digital-otoscope-for-photos-and-ear-wax-md-for-earwax-removal)
+* [2024-12-24 overnight into 2024-12-25](../events/2024/2024-11-29-reduced-hearing-in-left-ear.md#research-on-and-efforts-toward-earwax-removal-on-2024-12-24)
+* [2025-12-25 overnight into 2025-12-26](../events/2025/2025-12-22-reduced-hearing-in-left-ear.md#recurrence-again-on-2025-12-25-and-use-of-digital-otoscope-for-photos-and-ear-wax-md-for-earwax-removal)
 
 As of the time of initial writing of this document (2025-12-26):
 
