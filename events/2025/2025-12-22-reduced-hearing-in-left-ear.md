@@ -181,3 +181,18 @@ back to normal. I passed both the minimum audible volume and balance
 tests with normal headphones, though maybe there was still a slight
 difference between the ears on the order of 1/64 (within my margin of
 error).
+
+## Recurrence again on 2025-12-25 and use of digital otoscope
+
+On 2025-12-25, I detected minimum audible volume and balance issues
+again (with both normal headphones and bone conduction headphones),
+with an estimated gap of 4 to 6 out of 64, and other symptoms fairly
+similar to earlier.
+
+I used the digital otoscope (that I had picked up the previous day,
+2025-12-24) with the black silicone cap on but was not able to orient
+it in a way that yielded clear pictures of the inner portion of my ear
+canal. I went as far as I could comfortably go. I did take pictures
+and saved them to Google Drive. The pictures identified a yellow
+earwax spot in the outer portion of the left ear, that I was able to
+mostly remove with my finger.
