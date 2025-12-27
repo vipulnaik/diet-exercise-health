@@ -61,10 +61,12 @@ can stick to weekdays!
   weeks of 2026-01-26 and 2026-02-02)
 
 * Add details on my hair (receding hairline) situation (as a new
-  section in my health profile) (current plan is weeks of 2026-02-09)
+  section in my health profile) (current plan is weeks of 2026-02-09
+  and 2026-02-16)
 
-* Look into 23andMe MTHFR stuff and methylated B vitamin
-  investigation in connection with homocysteine analysis (current plan is week of 2025-02-
+* Look into 23andMe MTHFR stuff and methylated B vitamin investigation
+  in connection with homocysteine analysis (current plan is week of
+  2026-02-23)
 
 ## Regular appointments / procedures (things I have done before and have a decent handle on the process for)
 
