@@ -1,8 +1,7 @@
-# 2025 blood test plans: round 3
+# 2026 blood test plans: round 1
 
-As of 2025-11-12, I'm not sure whether I will get a third round of
-blood tests in 2025. If I don't, this list is still expected to be
-useful for whenever I next get tested in 2026.
+Tentative plan is to book these in late February / early March 2026
+and do these in late March 2026. Many more tests may get added.
 
 Prices were not double-checked so they may be out-of-date.
 
