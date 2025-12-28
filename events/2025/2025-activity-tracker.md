@@ -333,3 +333,8 @@ usual food purchases, recorded
 On the way from ASUC Berkeley to Trader Joe's, I walked through part
 of the UC Berkeley campus, an area that I have not walked through for
 a long time.
+
+## 2025-12-27
+
+On Saturday 2025-12-27 I made a trip to Walgreens in the evening to
+purchase various toiletries items.
