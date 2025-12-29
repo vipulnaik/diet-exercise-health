@@ -1444,3 +1444,9 @@ conserve time and energy for a two-stop trip in the early afternoon. I
 wanted to get the trip done in the early afternoon in light of Trader
 Joe's closing early for Christmas Eve, as well as the possibility of
 rain later in the afternoon.
+
+## 2025-12-28: skipped all exercises
+
+On Sunday 2025-12-28, I skipped all exercises so as to be able to fit
+in a Berkeley Bowl trip after I had already woken up late and spent a
+bunch of time in the morning on small work-related tasks.
