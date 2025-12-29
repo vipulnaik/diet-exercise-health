@@ -1605,10 +1605,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-23',2),
   ('2025-12-22','TJ Walnuts',1,1,'2025-12-25',2),
   /* 2025-12-22 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2025-12-22','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2025-12-22','TJ Kale',1,2,null,null),
-  ('2025-12-22','TJ English Shelled Peas',2,2,null,null),
-  ('2025-12-22','Beefsteak tomato',4,2,null,null),
+  ('2025-12-22','Gold potatoes 5 lb',0.5,2,'2025-12-28',1),
+  ('2025-12-22','TJ Kale',1,2,'2025-12-28',1),
+  ('2025-12-22','TJ English Shelled Peas',2,2,'2025-12-28',1),
+  ('2025-12-22','Beefsteak tomato',4,2,'2025-12-28',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-22','TJ Carb Savvy Tortillas',1,2,'2025-12-23',2),
   ('2025-12-23','TJ Carb Savvy Tortillas',1,2,'2025-12-25',1),
@@ -1622,12 +1622,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-24','Red bell pepper',2,2,null,null),
   ('2025-12-24','Beefsteak tomato',8,2,null,null),
   /* 2025-12-25 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2025-12-25','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
+  ('2025-12-25','Lundberg Sustainable California White Jasmine Rice',1,1,'2025-12-28',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-25','TJ Carb Savvy Tortillas',1,1,'2025-12-26',2),
   ('2025-12-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-12-27',1),
   ('2025-12-26','TJ Walnuts',1,1,null,null),
   ('2025-12-26','TJ Roasted Seaweed',1,2,null,null),
   ('2025-12-26','TJ Carb Savvy Tortillas',1,2,'2025-12-27',2),
-  ('2025-12-27','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2025-12-27','TJ Carb Savvy Tortillas',1,2,'2025-12-28',1),
+  ('2025-12-28','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
