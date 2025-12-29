@@ -2,7 +2,7 @@
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-toes-with-eyes-closed duration at at least 90 seconds
+### Maintain standing-on-toes-with-eyes-closed duration at at least 105 seconds
 
 The ability to sustain weight on toes is important for balance, as we
 lift off from our toes, and when jogging, we are lifting off from the
@@ -12,10 +12,10 @@ raises the stakes so as to get more bang per second of exercise.
 When I started standing-on-toes-with-eyes-closed on 2024-09-09, I set
 a threshold of 15 seconds. Even this threshold, I was not able to
 consistently clear on the first try, leading to me doing 3 or 5 tries
-on many days. As of 2025-12-13 the threshold is 90 seconds.
+on many days. As of 2025-12-28 the threshold is 105 seconds.
 
 I don't have standard benchmarks for this, but I think a threshold of
-90 seconds is reasonable and I don't have plans to increase the
+105 seconds is reasonable and I don't have plans to increase the
 threshold, though if my performance continues to improve organically,
 I may increase the threshold further.
 
@@ -85,6 +85,9 @@ the durations I had achieved since the beginning of June 2025.
 
 On 2025-12-13, I increased the threshold to 90 seconds after reviewing
 the durations I had achieved since the beginning of October 2025.
+
+On 2025-12-28, I increased the threshold to 105 seconds after reviewing
+the durations I had achieved over the past two months.
 
 ### History of triggers for overall exercise
 
