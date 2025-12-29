@@ -13,11 +13,12 @@ home without shoes.
 The "with shoes" variant has very similar benefits, but with a few
 differences:
 
-* It's somewhat harder without shoes (at least for the kind of shoes
-  I wear, which are far from barefoot). The main challenge is the lack
-  of simultaneous ground contact of the heel and toes. The toes are
-  particularly important for both gripping and feeling the floor, but
-  when flat on my heel, they are not pressed against the ground.
+* It's somewhat harder than without shoes (at least for the kind of
+  shoes I wear, which are far from barefoot). The main challenge is
+  the lack of simultaneous ground contact of the heel and toes. The
+  toes are particularly important for both gripping and feeling the
+  floor, but when flat on my heel, they are not pressed against the
+  ground.
 
   With that said, the with/without shoes gap is less than it is for
   [standing on one leg with eyes
