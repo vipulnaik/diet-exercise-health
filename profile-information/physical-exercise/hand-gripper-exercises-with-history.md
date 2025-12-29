@@ -63,7 +63,7 @@ has been helpful occasionally for carrying complex, unwieldy loads
 (where it's not just the weight of the load but the awkward way it
 hangs which means I need to use grip strength).
 
-## Current protocol and status as of 2025-12-20
+## Current protocol and status as of 2025-12-29
 
 ### First of 3-day cycle: 150 lb and 100 lb close-and-hold with all fingers (focus on maintaining)
 
@@ -142,7 +142,10 @@ every 6 days) or it may be less frequent.
 
 * Right hand on 100 lb with specific fingers excluded: I try to close
   and keep closed (or as far toward closed as I can get) excluding my
-  little finger and then separately excluding my index finger.
+  little finger and index finger (together and separately).
+
+  * Excluding both the little finger and index finger: I close and
+    keep closed for 0 to 5 seconds.
 
   * Excluding the little finger: I close and keep
     closed for 10 to 25 seconds.
@@ -152,7 +155,12 @@ every 6 days) or it may be less frequent.
 
 * Left hand on 100 lb with specific fingers excluded: I try to close
   and keep closed (or as far toward closed as I can get) excluding my
-  little finger and then separately excluding my index finger.
+  little finger and index finger (together and separately).
+
+  * Excluding both the little finger and index finger: I try to go as
+    far as I can toward closing and hold for as long. I can usually go
+    1/2 or more of the way from parallel to fully closed and hold at
+    that position for 0 to 5 seconds.
 
   * Excluding the little finger: I close and keep closed for 5 to 20
     seconds.
@@ -517,3 +525,21 @@ I made several updates to the protocol and current status:
   closing. This is a new swap-in; other than an initial experimental
   attempt, I do not have experience with it. The protocol may get
   refined over time.
+
+### Updates on 2025-12-29
+
+I added the exercise (for both hands) of trying to close the 100 lb
+hand gripper excluding both my little finger and my index finger. For
+the right hand, I am able to close and hold briefly; for the left
+hand, I cannot fully close. The exercises were added to the second of
+the 3-day cycle, along with the other exercises of closing with
+fingers excluded.
+
+I had previously attempted to close with my right hand excluding both
+the little finger and index finger on 2025-09-20 and 2025-09-23, and
+been unsuccessful both times. I then did not try for three months.
+
+I next tried and succeeded with the right hand was on 2025-12-25, but
+I did not attempt the left hand on that date. 2025-12-29 was the first
+date I attempted both hands, and after that I decided to add this
+exercise to the protocol.
