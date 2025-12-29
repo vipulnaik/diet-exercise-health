@@ -1450,3 +1450,11 @@ rain later in the afternoon.
 On Sunday 2025-12-28, I skipped all exercises so as to be able to fit
 in a Berkeley Bowl trip after I had already woken up late and spent a
 bunch of time in the morning on small work-related tasks.
+
+## 2025-12-29: skipped jogging and strength exercises
+
+On Monday 2025-12-29, I did hand gripper exercises but skipped other
+exercises (in particular, jogging and strength exercises) so that I
+could make a trip to Trader Joe's in the early afternoon and then cook
+later in the afternoon. This is in order to squeeze more such tasks in
+before the anticipated start of rain on Wednesday 2025-12-31.
