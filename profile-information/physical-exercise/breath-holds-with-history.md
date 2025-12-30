@@ -36,28 +36,23 @@ swimming, where this also helps.
 
 ### The right target threshold
 
-My current target threshold that I'm hoping to build toward is around
-70 to 90 seconds. Currently (as of 2025-02-09) my range is 55 to 90
-seconds, with most measures being 60 to 85 seconds. Once I hit the
-range of 70 to 90 seconds, I'll feel satisfied and will probably not
-be pushing to improve (though I might experience continued
-improvement).
+My current target threshold that I'm hoping to build toward is a range
+of 70 to 90 seconds on each try and a consistent average of over 75
+seconds across the two tries. Currently (as of 2025-12-30) my range is
+60 to 90 seconds, with the average of the two breath holds each day
+generally being around 65 to 80 seconds.
 
-However, as of 2024-11-30, I am pausing efforts to aggressively build
-toward the target threshold, by reducing my exercise frequency to
-every 4 days (further reduced to once every 6 days on
-2024-12-06). This is a trade-off for time (and keeping in mind that
-winter tends to have a higher load of work related to cooking, food
-purchases, eating, and cleaning, so I am more pressed for time). I may
-return to a more aggressive build mode in the future.
-
-## Current protocol and status as of 2025-02-09
+## Current protocol and status as of 2025-12-30
 
 I do two successive breath holds in the morning, with a gap of about 1
-to 2 minutes in between. Each breath hold generally lasts between 55
-and 90 seconds, with most breath holds lasting between 60 and 85
-seconds. My goal is that after the end of the breath hold, I may have
-a few loud nasal breaths but should not generally need a mouth breath.
+to 2 minutes in between. Each breath hold generally lasts between 60
+and 90 seconds. My goal is that after the end of the breath hold, I
+may have a few loud nasal breaths but should not generally need a
+mouth breath, but I might need a few mouth breaths if I hit the high
+end of the range (such as 85 to 90 seconds).
+
+The average of the two breath hold each day is generally around 65 to
+80 seconds.
 
 My plan is to do this exercise once every 6 days, with the idea being
 to only do it on days that I am *not* planning to do weight-lifting,
@@ -66,7 +61,9 @@ this nature. The exercise I'm alternating this with is [humming with
 intermittent
 pauses](humming-with-intermittent-pauses-with-history.md).
 
-## 2023-07-30: initial exploration
+## History
+
+### 2023-07-30: initial exploration
 
 At the suggestion of my friend Issa Rice, who in turn had heard about
 it from Mark Lippmann, suggested I try some Buteyko breathing
@@ -74,7 +71,7 @@ measurements and exercises and report my results to him. Issa Rice
 would go on to write a [breathing
 document](https://riceissa.github.io/breathing/) that is a great read.
 
-### Control pause measurement from Howard Cooper
+#### Control pause measurement from Howard Cooper
 
 I tried the [control pause measurement as suggested by Howard
 Cooper](https://www.youtube.com/watch?v=XliOGg8Tl98&t=593s) at Issa's
@@ -95,7 +92,7 @@ The measurements I got were in the range of 20 to 28 seconds.
 After doing the exercise, I also watched the rest of the video
 (including the earlier portion).
 
-## Many small breath holds exercise from Neil Tranter
+### Many small breath holds exercise from Neil Tranter
 
 Also at Issa's suggestion, I tried the [guided many small breath holds
 exercise by Neil
@@ -116,7 +113,7 @@ execution of the actual exercise.
 After doing the exercise, I also watched the rest of the video
 (including the earlier portion).
 
-### Other related reading and watching
+#### Other related reading and watching
 
 Some other videos I watched in relation to Buteyko breathing include:
 
@@ -130,7 +127,7 @@ Some other videos I watched in relation to Buteyko breathing include:
 
 * [When You Think Buteyko Won't Work For You, by Breathing Center](https://www.youtube.com/watch?v=Oi1tvp7Mghs)
 
-## 2024-05-16 update
+### 2024-05-16 update
 
 As of 2024-05-16 (and continuing on from there), I have settled into
 a routine of doing two max-pause breath holds in succession. I
@@ -203,7 +200,7 @@ Sensations I notice right after finishing the breath hold:
   second breath hold. If I am feeling generally unwell, the
   out-of-sorts feeling may continue longer (like 5-10 minutes).
 
-## 2024-09-12 update
+### 2024-09-12 update
 
 My practice has mostly stayed the same as described in the 2024-05-16
 update. However, my average duration of breath hold has now increased
@@ -212,13 +209,13 @@ now around 45 to 72 seconds. Generally, the high end of the range is
 achieved when I am not trying to do any cognitively intense tasks
 during the breath hold.
 
-## 2024-09-22 update
+### 2024-09-22 update
 
 From this time onward, my plan is to do this practice on alternate
 days instead of daily, so that on the other alternate days I can do
 practice of [vocal note holds](vocal-note-holds-with-history.md).
 
-## 2024-10-08 update (edited 2024-10-14)
+### 2024-10-08 update (edited 2024-10-14)
 
 My practice has mostly stayed the same as described in the 2024-05-16
 update. However, my average duration of breath hold has now increased
@@ -229,7 +226,7 @@ subreddit says, so my control pause is likely around 25 to 40
 seconds. However, control pause is much harder to measure than max
 pause, which is why I am sticking with max pause measurement.
 
-## 2024-11-30 update (effective 2024-12-01)
+### 2024-11-30 update (effective 2024-12-01)
 
 Going forward, my plan is to do this exercise once every 4 days rather
 than once every 2 days, with the idea being to only do it on days that
@@ -261,7 +258,7 @@ alternate days of this nature. Here are a few thoughts on this:
   food-related work, *but* I don't yet know how I will want to direct
   that freed-up time.
 
-## 2024-12-06 update
+### 2024-12-06 update
 
 I am reducing the frequency of this exercise from once every 4 days to
 once every 6 days; now I only do this exercise on days when I am not
@@ -269,10 +266,29 @@ doing either weight-lifting + push-ups or dead hang + pull-ups. This
 accompanies an overall reduction in the frequency of those strength
 exercises.
 
-## 2025-02-09 update
+### 2025-02-09 update
 
 I have increased the ranges of durations of breath holds as follows,
 reflecting recent improvements:
 
 * Duration range: (50 to 80 seconds) to (55 to 90 seconds)
 * Typical duration range: (55 to 70 seconds) to (60 to 85 seconds)
+
+### 2025-12-30 updates
+
+I made a few description updates:
+
+* I increased the duration range from (55 to 90 seconds) to (60 to 90
+  seconds).
+* I removed the separate typical duration range, but instead added
+  information on the expected average across the two breath holds,
+  both where I am right now and what I would like to target.
+* I noted that mouth breaths may occur for breath holds at the upper
+  end of the duration range.
+* I removed a paragraph that provided information on frequency
+  reduction. The information is present later in the document, and it
+  is now sufficiently old and established (and unlikely to be
+  reversed) so it is no longer needed in that section.
+
+I also made a structural update: I created a separate History section
+and put all the historical sections under that section.
