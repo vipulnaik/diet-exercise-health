@@ -1458,3 +1458,19 @@ exercises (in particular, jogging and strength exercises) so that I
 could make a trip to Trader Joe's in the early afternoon and then cook
 later in the afternoon. This is in order to squeeze more such tasks in
 before the anticipated start of rain on Wednesday 2025-12-31.
+
+## 2025-12-31: skipped jogging and strength exercises
+
+On Wednesday 2025-12-31, I did hand gripper exercises and spirometry
+but skipped other exercises (in particular, jogging and strength
+exercises) because some stuff on the day job ended up taking a bunch
+of time in the morning and early afternoon. This was mostly not
+time-sensitive work, but rather, it was work that I initially expected
+to finish quickly but then expanded in scope once I got going. By the
+time I was done, it was too late to fit in jogging and strength
+exercises before my first meal.
+
+I was considering fitting in jogging and strength exercises between my
+first and second meals. However, time-sensitive work stuff did crop up
+after the first meal, and I lost the time window in which to do these
+exercises.
