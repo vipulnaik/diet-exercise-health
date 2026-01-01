@@ -97,6 +97,7 @@ read_food_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_schema.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2024.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2025.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2026.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases_schema.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases_2021.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_purchases_2022.sql
@@ -129,6 +130,7 @@ verify_food_data:
 	grep 20 sql/food_purchases_2025.sql | grep -v 2025; :
 	grep 20 sql/food_preparations_and_openings_2024.sql | grep -v 2024; :
 	grep 20 sql/food_preparations_and_openings_2025.sql | grep -v 2025; :
+	grep 20 sql/food_preparations_and_openings_2026.sql | grep -v 2026; :
 	python3 python/food_types_verification_queries.py
 	python3 python/food_purchases_verification_queries.py
 	python3 python/food_preparations_and_openings_verification_queries.py
