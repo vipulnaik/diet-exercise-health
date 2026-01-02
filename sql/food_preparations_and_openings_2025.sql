@@ -1596,7 +1596,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-20','TJ Roasted Seaweed',1,2,'2025-12-25',2),
   ('2025-12-20','TJ Carb Savvy Tortillas',1,2,'2025-12-21',1),
   ('2025-12-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-22',1),
-  ('2025-12-21','TJ Sauerkraut',1,1,null,null),
+  ('2025-12-21','TJ Sauerkraut',1,1,'2026-01-01',1),
   ('2025-12-21','TJ Carb Savvy Tortillas',1,1,'2025-12-22',2),
   /* 2025-12-21 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2025-12-21','Lundberg Sustainable California White Jasmine Rice',1,2,'2025-12-24',2),
@@ -1615,12 +1615,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-24','TJ Almond Milk',1,1,'2025-12-31',1),
   ('2025-12-24','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-25',2),
   /* 2025-12-24 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt, finishing the cinnamon bottle) */
-  ('2025-12-24','Eggplant',1,2,null,null),
-  ('2025-12-24','TJ Kale',1,2,null,null),
-  ('2025-12-24','TJ Carrots',1,2,null,null),
-  ('2025-12-24','Green bell pepper',4,2,null,null),
-  ('2025-12-24','Red bell pepper',2,2,null,null),
-  ('2025-12-24','Beefsteak tomato',8,2,null,null),
+  ('2025-12-24','Eggplant',1,2,'2026-01-01',1),
+  ('2025-12-24','TJ Kale',1,2,'2026-01-01',1),
+  ('2025-12-24','TJ Carrots',1,2,'2026-01-01',1),
+  ('2025-12-24','Green bell pepper',4,2,'2026-01-01',1),
+  ('2025-12-24','Red bell pepper',2,2,'2026-01-01',1),
+  ('2025-12-24','Beefsteak tomato',8,2,'2026-01-01',1),
   /* 2025-12-25 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-12-25','Lundberg Sustainable California White Jasmine Rice',1,1,'2025-12-28',1),
   /* new bottle/packet openings as the old ones finished */
@@ -1649,5 +1649,5 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-30','TJ Carb Savvy Tortillas',1,2,'2025-12-31',2),
   ('2025-12-31','TJ Almond Milk',1,1,null,null),
   ('2025-12-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2025-12-31','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2025-12-31','TJ Carb Savvy Tortillas',1,2,'2026-01-01',1);
   /* Double-check the date and meal index before committing */
