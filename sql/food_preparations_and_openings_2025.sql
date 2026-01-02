@@ -1456,7 +1456,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2025-11-22 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2025-11-22','Lundberg Sustainable California White Basmati Rice',0.97,1,'2025-11-25',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-11-22','TJ Turmeric',1,1,null,null), /* opened with rice prep */
+  ('2025-11-22','TJ Turmeric',1,1,'2026-01-01',2), /* opened with rice prep */
   ('2025-11-22','TJ Sauerkraut',1,1,'2025-12-05',1),
   ('2025-11-22','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-11-24',1),
   /* 2025-11-23 Udupi Palace takeout consumption (second meal) */
@@ -1648,6 +1648,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-30','TJ Walnuts',1,1,null,null),
   ('2025-12-30','TJ Carb Savvy Tortillas',1,2,'2025-12-31',2),
   ('2025-12-31','TJ Almond Milk',1,1,null,null),
-  ('2025-12-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2025-12-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-01-01',2),
   ('2025-12-31','TJ Carb Savvy Tortillas',1,2,'2026-01-01',1);
   /* Double-check the date and meal index before committing */
