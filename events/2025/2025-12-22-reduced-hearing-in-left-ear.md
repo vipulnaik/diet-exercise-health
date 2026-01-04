@@ -520,3 +520,132 @@ reasons. First, given the alkaline nature of the ear drops, it is
 recommended to not apply them more often than once a week in any given
 ear. Second, I wanted to wait a week to see if the problem resolves
 itself.
+
+### Application of Ear Wax MD ear drops
+
+#### High-level comments
+
+I adhered closely to the [best practices around at-home earwax
+removal](../../best-practices/best-practices-around-at-home-earwax-removal.md)
+that I had designed and refined based on last time's experience. While
+I followed the procedure closely this time, some aspects of the
+experience turned out to be different.
+
+* I was able to empty the tube into my ear much faster. The last time,
+  I had taken about 7 minutes total, whereas this time I took 4
+  minutes total. I was able to go faster because the ear drops did not
+  irritate me as much and did not lead to as much feeling of
+  fullness. I don't know how much is just me getting used to the ear
+  drops versus changes to the level of earwax affecting my sensations.
+
+* The wiping of earwax while lying down started a little later (13
+  minutes after start of application versus 8 minutes after start of
+  application last time) but the process also lasted longer (13
+  minutes versus 9 minutes) and the overall quantity of earwax that
+  came out this way was more than last time.
+
+* I removed significant amounts of earwax after irrigation. For
+  comparison, last time, I did not remove any noticeable amounts of
+  earwax after irrigation; all the earwax had come out after lying
+  down. This time, the amount of earwax removed after irrigation was
+  similar to the amount of earwax removed while lying down, though in
+  fewer but larger chunks. I don't know how much of this is a result
+  of more effective irrigation (since this time I had more practice
+  with the irrigation process including the temperature setting) and
+  how much is due to changes to the earwax microgeography of the ear.
+
+* Toward the end of the earwax removal after irrigation, I had a
+  sudden sensation of unblocking of my left ear. When I did the
+  minimum audible volume and balance tests shortly after, the hearing
+  in my left ear had returned to normal, and maybe it was even a
+  little better than the right ear.
+
+#### Timeline
+
+This is the timeline of application:
+
+* 12:57 AM: I finished brushing my teeth and started preparation for
+  the ear drop application.
+
+* 1:01 AM: I removed my sweatshirt.
+
+* 1:12 AM: I started the phone timer to begin ear drop application
+  lying down in bed.
+
+* 1:16 AM: I had finished squeezing the tube and thrown the empty tube
+  into the trash.
+
+* 1:25 AM: Around this time, I started wiping earwax off of my left
+  ear onto the towels, while still lying down.
+
+* 1:38 AM: By this time, I was no longer getting earwax while wiping
+  my ear while lying down.
+
+* 1:43 AM: Around this time, I got out of bed.
+
+* 1:55 AM: By this time, I had completed irrigation and a second round
+  of earwax removal post-irrigation (for which I used the second
+  towel). Significant amounts of earwax came out in this second round.
+
+* 2 AM: I completed minimum audible volume and balance tests using
+  normal headphones, passing in both ears.
+
+* 2:05 AM to 2:25 AM: Around this time, I took photographs of the
+  earwax on the towels and uploaded them to Google Drive. I also made
+  a few quick notes that I could use to document the next day.
+
+* 2:35 AM to 2:41 AM: I used dish soap to get the earwax stains out of
+  the towels and then left them to air dry (once they are dry I will
+  put them in the laundry load for a proper wash).
+
+### Re-run of minimum audible volume and balance tests the next morning
+
+At around 11:20 AM the next morning (2026-01-04), shortly after waking
+up, I did minimum audible volume and balance tests again. The hearing
+in my left ear was reduced again, with a gap of about 4/64 between the
+ears. This mirrored a sense of compression of the left ear that I
+experienced in the morning while sleeping on my left side.
+
+### Overall take and planned next steps as of 2026-01-04 early afternoon
+
+Since more earwax came out in the second round than the first, this is
+suggestive of a "layers" model where the first round only removed the
+outer layer of earwax, and the second round removed a further
+layer.
+
+The fact that the hearing improved immediately but then regressed
+again the next morning suggests that there may be more layers, and I'm
+fighting an active process of continued buildup of earwax (and
+potentially other factors not directly related to earwax that combine
+with it to cause reduced hearing).
+
+In light of these, my plan is as follows:
+
+* Add to my stock of Ear Wax MD. I now have only two tubes left. Given
+  the success so far but also that there appears to be a need for more
+  application, I should have a larger stock. I'll try to get more from
+  Walgreens in the coming week, but if they don't have it in stock, I
+  will order from Amazon.
+
+* Continue monitoring my hearing for another week.
+
+* Consider doing another round of application in my left ear after
+  waiting at least one week and not more than three weeks.
+
+* After this third round of application, based on the amount of earwax
+  that comes out as well as how my hearing progresses before and
+  after, make a decision regarding whether to seek professional earwax
+  removal (with an audiologist) or identify a cadence for continued
+  ear drop application. Also, consider whether to use ear drops in my
+  right ear as well prior to a professional appointment, which might
+  give me valuable information on the comparative earwax status of the
+  ears before the professional earwax removal clears out the impacted
+  earwax entirely.
+
+  My current thinking is that the steady-state cadence should not be
+  more than once every 2 months per ear, and this third application is
+  the last application that is more frequent than the steady-state
+  cadence. I might even change my mind and choose not to do a third
+  application and instead directly seek professional earwax removal,
+  but either way I plan to wait at least a week from 2026-01-04 before
+  booking the appointment.
