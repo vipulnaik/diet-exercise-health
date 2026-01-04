@@ -436,3 +436,87 @@ Here is the timeline of the process:
   ears and the latter also passed; this was the same result as I had
   gotten for the equivalent tests I did around 11:10 PM (shortly
   before the ear drop application).
+
+## Continued monitoring of reduced hearing issues over the next few days and second application of earwax on 2026-01-04 (overnight from 2026-01-03)
+
+### Minimum audible volume and balance test results over the interim period
+
+I continued to do minimum audible volume and balance tests with normal
+headphones over the next few days.
+
+* 2025-12-26 afternoon: gap of about 4/64, with minimum audible volume
+  in left ear 1/64 at 100% YouTube volume; could only hear muffled
+  sounds at 1/64 at 50% YouTube volume
+
+* 2025-12-27 night: similar result as on 2025-12-26 afternoon
+
+* 2025-12-28 night: similar result as on 2025-12-26 afternoon
+
+* 2025-12-30 night: similar result as on 2025-12-26 afternoon
+
+* 2026-01-03 afternoon/evening: gap down to 2/64, with minimum audible
+  volume in left ear 1/64 at about 50% YouTube volume, compared to
+  about 25-30% YouTube volume for right ear
+
+* 2026-01-04 just past midnight from 2026-01-03: similar result as on
+  2026-01-03 afternoon
+
+A few observations:
+
+* The data as recorded suggests stagnation for a few days after the
+  ear drop application and then a sudden improvement. But the 4/64 versus
+  3/64 versus 2/64 difference is not very precise, and it's possible
+  that the 2025-12-30 result was already down to a 3/64 gap but I
+  subjectively assessed it as 4/64.
+
+* Prior to ear drop application, I had a phenomenon where the gap
+  would be more early in the morning and resolve itself by the
+  evening. However, after ear drop application, the gap doesn't seem
+  to have that sort of intra-day variation. It isn't clear if the ear
+  drop application played a causal role here.
+
+### Speculation
+
+I have anecdotally noticed a bit more earwax coming out of my left ear
+over the past week, so one possibility is that in addition to the
+earwax that came out immediately as a result of the ear drop
+application, it softened the earwax and made more come out. This might
+be driving the improvement in hearing over time.
+
+The end to intra-day variation is puzzling, but it might reflect some
+movement of the earwax as a result of the ear drop application, which
+changed the microgeography in a way that's less amenable to intra-day
+variation.
+
+### Thinking behind seeking a second round of ear drop application in the left ear
+
+My hope with the second round of ear drop application is to get more
+clarity to help determine the priority of making an appointment for
+earwax removal. Some of the things I hope to learn are:
+
+* Does a similar quantity of earwax come out as before, or is it less?
+  This will give me a better sense of the time series of removed
+  earwax volume with a function of iteration count. If it's pretty
+  similar to last time, then the model is something like "layers of
+  earwax" with each round of ear drop application successfully
+  removing the outer layer. On the other hand, if very little comes
+  out this time, the model is more like "easy-to-remove versus
+  hard-to-remove earwax" where the easy-to-remove earwax comes off
+  with the ear drops whereas the hard-to-remove earwax needs the use
+  of earwax removal tools by an audiologist.
+
+* How is the hearing in my left ear affected? I expect that if not
+  much earwax comes out, it's very unlikely (though still possible)
+  that the hearing in my left ear will improve immediately, and if it
+  improves gradually, I would not attribute it to the second round of
+  ear drop application. On the other hand, if a decent amount of
+  earwax comes out, comparable with the first time, it will be
+  interesting to see how it affects my hearing. If the hearing in my
+  left ear improves immediately or over the coming week, I will
+  attribute it as a likely consequence of ear drop application.
+
+I chose to wait nine days after the first application, for two
+reasons. First, given the alkaline nature of the ear drops, it is
+recommended to not apply them more often than once a week in any given
+ear. Second, I wanted to wait a week to see if the problem resolves
+itself.
