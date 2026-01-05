@@ -77,8 +77,6 @@ other things I do need to investigate.
 It's generally best to keep a gap of at least 3 weeks between these
 and to try to schedule them when I am not on-call.
 
-* COVID vaccine (likely late January 2026)
-
 * Earwax removal appointment (likely February or March 2026)
 
 * Blood tests plus maybe urine test (likely late March 2026); see
