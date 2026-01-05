@@ -111,6 +111,12 @@ cooking, or post-meal cleanup).
   involves and decide whether and when to do a specialist consultation
   and what questions to cover in the consultation.
 
+* Continuous glucose monitor (CGM) (use at home)
+
+* Oral glucose tolerance test (somewhat overlapping in purpose with CGM)
+
+* Tracking ring (wear for a few weeks)
+
 ## Best practices documents to write or expand
 
 My plan for making progress on these is that, in weeks where I am
