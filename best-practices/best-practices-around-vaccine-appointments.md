@@ -79,13 +79,21 @@ adjusted based on factors such as the following:
 
 ### Booking steps
 
+* **Before booking, make sure I am logged in properly.** Walgreens
+  sometimes uses cookies to say "Hi, Vipul" which might make it appear
+  that I am logged in, but the pharmacy imposes a stricter concept of
+  being logged in. I should consider myself logged in only if I can
+  access my past vaccination records.
+
 * Book on the website such as Walgreens. Make sure that the location,
   date, and selected vaccine are correct. Double-check all entered
   information.
 
-* After booking, fill in consent forms and other related
-  information. This reduces the amount of work that needs to be done
-  on-location.
+* After booking, fill in required forms and also save a copy of
+  submitted information. This reduces the amount of work that needs to
+  be done on-location. Note that required forms cannot be viewed after
+  submission and instead if I re-open my appointment to manage it, it
+  will prompt me to fill them again.
 
 * Review the email received for details such as what to carry, when to
   arrive.

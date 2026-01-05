@@ -25,7 +25,8 @@ calendar reminders) based on guidance in the best practices doc.
 
 ### Consent form
 
-After booking the vaccine, I filled the consent form. The questions were as follows:
+After booking the vaccine, I filled the consent form. The questions
+were as follows:
 
 * Do you have a history of allergic reactions or allergies to latex,
   medications, food, or vaccines (e.g., polyethylene glycol,
@@ -49,7 +50,8 @@ After booking the vaccine, I filled the consent form. The questions were as foll
 
   Answer: No
 
-* Check any vaccinations you've received in the past. Include a best estimate for the month(MM) and year(YYYY) of each vaccination.
+* Check any vaccinations you've received in the past. Include a best
+  estimate for the month(MM) and year(YYYY) of each vaccination.
 
   Pneumonia: did not check
 
