@@ -1,6 +1,6 @@
 insert into food_preparations_and_openings(preparation_or_opening_date, food_type, quantity, meal_index, completion_date, completion_meal_index) values
   /* 2026-01-01 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-01-01','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  ('2026-01-01','Lundberg Sustainable California White Basmati Rice',1,1,'2026-01-04',2),
   /* 2026-01-01 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt, finishing the turmeric bottle) */
   ('2026-01-01','Eggplant',1,2,null,null),
   ('2026-01-01','TJ Kale',1,2,null,null),
@@ -17,5 +17,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-03','TJ Carb Savvy Tortillas',1,1,'2026-01-04',1),
   ('2026-01-03','TJ Walnuts',1,2,null,null),
   ('2026-01-04','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-01-04','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2026-01-04','TJ Carb Savvy Tortillas',1,1,'2026-01-04',2),
+  /* 2026-01-04 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-01-04','Gold potatoes 5 lb',0.5,2,null,null),
+  ('2026-01-04','TJ Kale',1,2,null,null),
+  ('2026-01-04','TJ English Shelled Peas',2,2,null,null),
+  ('2026-01-04','Beefsteak tomato',3,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-01-04','TJ Turmeric',1,2,null,null), /* opened with potatoes prep; previous bottle had been finished with preceding eggplant meal prep */
+  ('2026-01-04','TJ Carb Savvy Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
