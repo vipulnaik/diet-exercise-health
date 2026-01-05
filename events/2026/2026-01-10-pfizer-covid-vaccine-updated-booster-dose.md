@@ -30,7 +30,8 @@ eligibility.
 * [People with Certain Medical Conditions and COVID-19 Risk Factors |
   Covid | CDC](https://www.cdc.gov/covid/risk-factors/index.html)
 
-* [COVID-19 Vaccines | COVID-19 | CDC](COVID-19 Vaccines | COVID-19 | CDC)
+* [COVID-19 Vaccines | COVID-19 |
+  CDC](https://www.cdc.gov/covid/vaccines/index.html)
 
 * [Interim Clinical Considerations for Use of COVID-19 Vaccines in the United States | Covid | CDC](https://www.cdc.gov/covid/hcp/vaccine-considerations/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fcovid-19%2Fclinical-considerations%2Finterim-considerations-us.html)
 
