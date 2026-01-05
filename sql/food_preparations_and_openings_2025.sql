@@ -1637,10 +1637,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-28','TJ Carb Savvy Tortillas',1,2,'2025-12-29',2),
   /* 2025-12-29 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2025-12-29','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2025-12-29','TJ Kale',1,2,null,null),
-  ('2025-12-29','TJ English Shelled Peas',2,2,null,null),
-  ('2025-12-29','Beefsteak tomato',5,2,null,null),
+  ('2025-12-29','Gold potatoes 5 lb',0.5,2,'2026-01-04',1),
+  ('2025-12-29','TJ Kale',1,2,'2026-01-04',1),
+  ('2025-12-29','TJ English Shelled Peas',2,2,'2026-01-04',1),
+  ('2025-12-29','Beefsteak tomato',5,2,'2026-01-04',1),
   /* new bottle/packet openings as the old ones finished */
   ('2025-12-29','TJ Cinnamon',1,2,null,null), /* opened with potatoes prep */
   ('2025-12-29','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-12-31',1),
