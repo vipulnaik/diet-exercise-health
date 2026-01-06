@@ -25,5 +25,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-04','Beefsteak tomato',3,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-04','TJ Turmeric',1,2,null,null), /* opened with potatoes prep; previous bottle had been finished with preceding eggplant meal prep */
-  ('2026-01-04','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2026-01-04','TJ Carb Savvy Tortillas',1,2,'2026-01-05',1),
+  /* 2026-01-05 rice prep (first meal) (added turmeric, cumin, salt) */
+  ('2026-01-05','Lundberg Sustainable California White Basmati Rice',1,1,null,null);
   /* Double-check the date and meal index before committing */
