@@ -17,3 +17,13 @@ afternoon/evening. Due to time constraints and also to conserve
 energy, I skipped all exercises (if I had woken up earlier, I would
 likely have at done hand gripper exercises but skipped jogging and
 strength exercises).
+
+## 2026-01-05: abridged at-home jogging and skipping of some exercises
+
+On Monday 2026-01-05, due to time constraints (partly driven by a work
+meeting) I did abridged at-home jogging; I jogged for about 26 minutes
+instead of the usual of at least 30 minutes. I also skipped hand
+gripper exercises (I originally skipped in the morning with the
+intention of doing them later in the day, but then never got around to
+them) as well as the humming-with-intermittent-pauses exercise that
+was due. I didn't have strength exercises due on this day.
