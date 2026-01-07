@@ -1592,7 +1592,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-18','TJ Carb Savvy Tortillas',1,2,'2025-12-19',1),
   ('2025-12-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-20',2),
   ('2025-12-19','TJ Carb Savvy Tortillas',1,1,'2025-12-20',2),
-  ('2025-12-19','Udupi Palace spinach masala dosa free red chutney',1,1,null,null),
+  ('2025-12-19','Udupi Palace spinach masala dosa free red chutney',1,1,'2026-01-06',1),
   ('2025-12-20','TJ Roasted Seaweed',1,2,'2025-12-25',2),
   ('2025-12-20','TJ Carb Savvy Tortillas',1,2,'2025-12-21',1),
   ('2025-12-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2025-12-22',1),
