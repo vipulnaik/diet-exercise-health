@@ -1647,7 +1647,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-12-29','TJ Carb Savvy Tortillas',1,2,'2025-12-30',2),
   ('2025-12-30','TJ Walnuts',1,1,'2026-01-03',1),
   ('2025-12-30','TJ Carb Savvy Tortillas',1,2,'2025-12-31',2),
-  ('2025-12-31','TJ Almond Milk',1,1,null,null),
+  ('2025-12-31','TJ Almond Milk',1,1,'2026-01-09',1),
   ('2025-12-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-01-01',2),
   ('2025-12-31','TJ Carb Savvy Tortillas',1,2,'2026-01-01',1);
   /* Double-check the date and meal index before committing */

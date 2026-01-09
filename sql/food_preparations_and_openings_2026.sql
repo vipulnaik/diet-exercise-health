@@ -32,10 +32,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-05','TJ Carb Savvy Tortillas',1,2,'2026-01-06',2),
   ('2026-01-05','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-01-07',1),
   ('2026-01-07','TJ Walnuts',1,2,null,null),
-  ('2026-01-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-01-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-01-09',1),
   /* 2026-01-08 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-01-08','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-08','TJ Roasted Seaweed',1,2,null,null),
-  ('2026-01-08','TJ Miso Ginger Broth',1,2,null,null);
+  ('2026-01-08','TJ Miso Ginger Broth',1,2,null,null),
+  ('2026-01-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-01-09','TJ Almond Milk',1,1,null,null);
   /* Double-check the date and meal index before committing */
