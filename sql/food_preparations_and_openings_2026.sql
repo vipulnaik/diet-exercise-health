@@ -11,7 +11,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-01','TJ Roasted Seaweed',1,2,'2026-01-07',2),
   ('2026-01-01','TJ Carb Savvy Tortillas',1,2,'2026-01-02',2),
-  ('2026-01-02','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-01-02','TJ Miso Ginger Broth',1,1,'2026-01-08',2),
   ('2026-01-02','TJ Sauerkraut',1,1,null,null),
   ('2026-01-02','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-03',2),
   ('2026-01-03','TJ Carb Savvy Tortillas',1,1,'2026-01-04',1),
@@ -34,5 +34,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-07','TJ Walnuts',1,2,null,null),
   ('2026-01-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
   /* 2026-01-08 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2026-01-08','Lundberg Sustainable California White Basmati Rice',1,2,null,null);
+  ('2026-01-08','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-01-08','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-01-08','TJ Miso Ginger Broth',1,2,null,null);
   /* Double-check the date and meal index before committing */
