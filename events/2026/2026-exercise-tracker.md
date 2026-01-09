@@ -27,3 +27,17 @@ gripper exercises (I originally skipped in the morning with the
 intention of doing them later in the day, but then never got around to
 them) as well as the humming-with-intermittent-pauses exercise that
 was due. I didn't have strength exercises due on this day.
+
+## 2026-01-08: started pause of hand gripper exercises and strength exercises
+
+On Thursday 2026-01-08, I started the planned pause of hand gripper
+exercises and strength exercises for the upcoming COVID vaccine
+appointment on Saturday 2026-01-10. I still did jogging as usual.
+
+## 2026-01-09: skipped jogging
+
+On Friday 2026-01-09, I skipped jogging, primarily to make sure I have
+my first meal early enough and sleep early enough so that my schedule
+is not too disrupted for my COVID vaccine appointment the next
+day. Strength exercises and hand gripper exercises were already
+paused. I did breath holds as usual.

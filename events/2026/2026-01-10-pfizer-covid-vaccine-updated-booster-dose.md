@@ -192,3 +192,16 @@ with work calendar) and 1 maintenance window:
 
 * Packing / prep reminder for the night prior: I added a calendar
   reminder for the night of Friday 2026-01-09.
+
+### 2026-01-08: started pause of hand gripper exercises and strength exercises
+
+On Thursday 2026-01-08, I started the planned pause of hand gripper
+exercises and strength exercises for the upcoming COVID vaccine
+appointment on Saturday 2026-01-10. I still did jogging as usual.
+
+### 2026-01-08 evening: completed weather check
+
+On the evening of 2026-01-08, I completed the weather check, as
+planned, for the time of the vaccine. I confirmed that rain was not
+expected at the time, and the weather was not too bad (it was colder
+than ideal, but okay).
