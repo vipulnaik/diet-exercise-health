@@ -2234,15 +2234,15 @@ then, I have been getting a booster every year, with the booster some
 time between November and March. Vaccine administration dates are
 available in
 [vaccine_administrations.sql](../sql/vaccine_administrations.sql). As
-of the last edit to this document, my most recent vaccine was on [March
-21,
-2025](../events/2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md).
+of the last edit to this document, my most recent vaccine was on [January 10,
+2026](../events/2026/2026-01-10-pfizer-covid-vaccine-updated-booster-dose.md).
 
-Starting with my second COVID-19 dose and then for each booster dose
-(though much less pronounced for the January 2024 dose), I
-have reacted with a slight fever; the fever has generally subsided
-within 36 hours of getting the dose. With successive boosters, both
-the onset of the fever and its resolution have tended to get faster.
+Starting with my second COVID-19 dose and then for the next few
+booster doses, I have reacted with a slight fever; the fever has
+generally subsided within 36 hours of getting the dose. For the 2025
+and 2026 booster doses, I did not observe a fever, though I still had
+more minor symptoms such as soreness, holistic fatigue, and tightness
+in the back of the neck.
 
 ### Influenza (flu)
 

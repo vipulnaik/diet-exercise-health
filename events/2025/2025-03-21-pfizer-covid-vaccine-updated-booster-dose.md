@@ -197,7 +197,7 @@ I first took note of the soreness at the vaccine injection site at
 7:07 PM on the day of the vaccine, noting "clear soreness on touch and
 slight soreness otherwise". As expected, the soreness was maximal over
 the bandage (so right around where the injection happened) but also it
-wasn't symmetrical around it -- it was more as I mved up my arm than
+wasn't symmetrical around it -- it was more as I moved up my arm than
 as I moved down my arm. In fact, there was almost no soreness even on
 touch right below the bandage, but there was clearly some above the
 bandage.
@@ -247,7 +247,7 @@ close to being back to normal.
 
 When I put the light on around 7:54 PM on the day of the vaccine, I
 felt more light sensitivity than usual (I generally have light
-sensitivty issues, but in the past year they have generally been
+sensitivity issues, but in the past year they have generally been
 pretty mild, without any acute manifestations and generally only
 starting to cause slight fatigue after extended periods of time). I
 suspect this increased light sensitivity was related to the fatigue

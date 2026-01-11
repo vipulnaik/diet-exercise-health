@@ -8,6 +8,12 @@ Sections of this document:
 * [Aftereffects](#aftereffects)
 * [Resumption of exercise](#resumption-of-exercise)
 
+Recent doses of the same base vaccine (with the exact formula varying
+each year):
+
+* [2025-03-21](../2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md)
+* [2024-01-12](../2024/2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md)
+
 ## Appointment booking
 
 I booked my appointment for the COVID vaccine (indicating a preference
@@ -229,3 +235,74 @@ On Saturday 2026-01-10, I started the pause of jogging and breath
 holds as planned. I had also skipped jogging the previous day
 (2026-01-09) for scheduling reasons, but I had done breath holds on
 that day.
+
+## Appointment
+
+### Arrival and check-in
+
+I arrived at the Walgreens location near the check-in counter at
+around 3:12 PM. They didn't have the machine to scan, so I used the
+link they had sent me via SMS to check in. I only had to answer one
+question confirming that I have not felt sick in the past 24 hours.
+
+I was then called up to confirm some details, then asked to wait
+outside the vaccination room.
+
+### Vaccination process
+
+Around 3:25 PM I was called into the vaccination room. I received the
+COVID vaccine in my right arm. I confirmed that I was receiving the
+Pfizer COVID vaccine dose. The medication name was Comirnaty and the
+dose was 0.3ml.
+
+I had received the dose by around 3:28 PM. I got my COVID vaccine
+record card updated. The pharmacist said that the digital immunization
+record is now the one in use and the paper vaccine record card does
+not need to be updated. I exited the room at around 3:30 PM along with
+my COVID vaccine record card and the information leaflet including
+details of the vaccine that I had received.
+
+### Post-appointment shopping
+
+After the vaccine, I stayed on at Walgreens for about ten minutes, and
+I used the time to do some shopping. I completed the purchase at 3:40
+PM and exited the store a minute or two later. I then headed back
+home.
+
+## Aftereffects
+
+### Soreness
+
+The soreness developed over a few hours after the vaccine, and then
+stabilized for the rest of the day. The following notes from [last
+time's COVID
+vaccine](../2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md)
+fit my experience this time as well:
+
+> As expected, the soreness was maximal over the bandage (so right
+> around where the injection happened) but also it wasn't symmetrical
+> around it -- it was more as I moved up my arm than as I moved down
+> my arm. In fact, there was almost no soreness even on touch right
+> below the bandage, but there was clearly some above the bandage.
+
+> The soreness was not distracting, so unless I touched the area or
+> directed my thoughts to it, it didn't get in my way.
+
+### Tightness in the back of the neck
+
+Late at night (past 10 PM) I noticed some tightness in the back of the
+neck, but it was pretty mild. I would not even have noted it down, but
+for the fact that I had noted it down last time and I want to note it
+down this time for parity.`
+
+### Symptoms I experienced in previous iterations that I have not experienced yet
+
+This list was last updated Sunday 2025-01-11 around 12:50 AM:
+
+* Holistic fatigue (experienced 2025-03-21)
+* Increased light sensitivity (experienced 2025-03-21 briefly)
+* Increased thirst (experienced 2025-03-21 briefly)
+* Increased hunger (experienced 2025-03-21 briefly)
+* Urination pattern changes (experienced day after 2025-03-21)
+* Fever (not experienced 2025-03-21 or 2024-01-12 but experienced with earlier doses starting with the second dose)
+* Malaise (not experienced 2025-03-21 or 2024-01-12 but experienced with earlier doses starting with the second dose)
