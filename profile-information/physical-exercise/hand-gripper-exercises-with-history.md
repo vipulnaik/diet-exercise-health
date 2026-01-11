@@ -543,3 +543,24 @@ I next tried and succeeded with the right hand was on 2025-12-25, but
 I did not attempt the left hand on that date. 2025-12-29 was the first
 date I attempted both hands, and after that I decided to add this
 exercise to the protocol.
+
+### Update on 2026-01-10 regarding feat achieved on 2026-01-07
+
+On Wednesday 2026-01-07, for the first time, I was able to fully
+closed the 200 lb hand gripper with my right hand. I kept it closed
+for 3 seconds. It was just barely closed and the ends were not being
+tightly pressed against each other. Previously, I had only gotten as
+far as about 5/6 of the way from parallel to fully closed.
+
+I paused hand gripper exercises the next day for a COVID vaccine
+scheduled for Saturday 2026-01-10. After I resume hand gripper
+exercises, there will likely be a brief reconditioning period where I
+get back to the level I was at before the pause. After that, I will
+get more clarity on how consistently I can fully close the 200 lb hand
+gripper. My expectation (as of Saturday 2026-01-10) is that it will
+take about 2 to 3 months to get to fully closing the 200 lb hand
+gripper.
+
+I am not making any edits to the protocol as part of this update. My
+plan is to edit the protocol in a few months once I show a pattern of
+consistently closing the 200 lb hand gripper with my right hand.
