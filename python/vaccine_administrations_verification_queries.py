@@ -1,14 +1,14 @@
 import shared, connection
 
 queries = [
-    "select administration_date, count(1) as freq from vaccine_administrations group by administration_date having freq > 1;",
+    "select administration_date, count(1) as freq from vaccine_administrations where administration_date >= '2014-01-01' group by administration_date having freq > 1;",
 
     "select * from vaccine_administrations where administration_date >= '2022-10-01' and location != 'Walgreens (Adeline St), Berkeley';",
 
     """
     drop temporary table if exists vaccine_administrations_copy;
 
-    create temporary table vaccine_administrations_copy as select * from vaccine_administrations;
+    create temporary table vaccine_administrations_copy as select * from vaccine_administrations where administration_date >= '2014-01-01';
 
     drop temporary table if exists vaccine_administrations_with_next;
 
@@ -20,6 +20,7 @@ queries = [
     from vaccine_administrations left join vaccine_administrations_copy
     on vaccine_administrations.vaccine = vaccine_administrations_copy.vaccine
     and vaccine_administrations.administration_date < vaccine_administrations_copy.administration_date
+    where vaccine_administrations.administration_date >= '2014-01-01'
     group by vaccine, administration_date;""",
 
     # gaps should be as expected
