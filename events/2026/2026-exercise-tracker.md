@@ -41,3 +41,10 @@ my first meal early enough and sleep early enough so that my schedule
 is not too disrupted for my COVID vaccine appointment the next
 day. Strength exercises and hand gripper exercises were already
 paused. I did breath holds as usual.
+
+### 2026-01-10: started pause of jogging and breath holds for COVID vaccine
+
+On Saturday 2026-01-10, I started the pause of jogging and breath
+holds as planned. This was for my COVID vaccine appointment on
+2026-01-10. I had also skipped jogging the previous day (2026-01-09)
+for scheduling reasons, but I had done breath holds on that day.

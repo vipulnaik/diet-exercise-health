@@ -205,3 +205,27 @@ On the evening of 2026-01-08, I completed the weather check, as
 planned, for the time of the vaccine. I confirmed that rain was not
 expected at the time, and the weather was not too bad (it was colder
 than ideal, but okay).
+
+### 2026-01-09 evening: shopping at Trader Joe's
+
+My original intention (as codified in the calendar reminder) was to go
+shopping at Trader Joe's on 2026-01-08, two days prior to the vaccine
+appointment. However, for scheduling reasons, I was not able to make
+that trip. I ended up going on the evening of Friday
+2026-01-09. Unfortunately, some items were not in stock which means I
+am very likely to need to make a trip on either Sunday or Monday (one
+or two days after the vaccine), which is not ideal but it's okay.
+
+### 2026-01-10: packing/prep for appointment
+
+My original intention (as codified in the calendar reminder) had been
+do packing/prep for the vaccine appointment the previous night, but I
+didn't get time so I did it at around noon on the day of the
+appointment.
+
+### 2026-01-10: started pause of jogging and breath holds
+
+On Saturday 2026-01-10, I started the pause of jogging and breath
+holds as planned. I had also skipped jogging the previous day
+(2026-01-09) for scheduling reasons, but I had done breath holds on
+that day.
