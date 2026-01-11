@@ -1286,7 +1286,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2025-10-15','TJ English Shelled Peas',2,2,'2025-10-20',2),
   ('2025-10-15','Beefsteak tomato',6,2,'2025-10-20',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2025-10-15','TJ Cumin',1,2,null,null), /* opened with potatoes prep; used previous bottle as well */
+  ('2025-10-15','TJ Cumin',1,2,'2026-01-10',2), /* opened with potatoes prep; used previous bottle as well */
   ('2025-10-15','TJ Carb Savvy Tortillas',1,2,'2025-10-16',2),
   ('2025-10-16','TJ Roasted Seaweed',1,2,'2025-10-23',2),
   ('2025-10-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2025-10-18',1),
