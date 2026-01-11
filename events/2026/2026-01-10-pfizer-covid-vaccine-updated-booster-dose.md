@@ -271,7 +271,7 @@ home.
 
 ## Aftereffects
 
-### Soreness
+### Soreness at injection site
 
 The soreness developed over a few hours after the vaccine, and then
 stabilized for the rest of the day. The following notes from [last
@@ -294,6 +294,45 @@ Late at night (past 10 PM) I noticed some tightness in the back of the
 neck, but it was pretty mild. I would not even have noted it down, but
 for the fact that I had noted it down last time and I want to note it
 down this time for parity.`
+
+### Sleep challenges
+
+This was mostly a result of the soreness at injection site, but I want
+to describe it a little more because it highlights an interaction with
+weather that could inform the timing of the vaccine in the future.
+
+Last time, although I had trouble sleeping on my right side, I was
+able to adjust my sleeping posture to not put weight directly on my
+right shoulder. However, there was an additional challenge this time:
+temperature.
+
+Last time, the indoor temperature had been 68 degrees Fahrenheit (20
+degrees Celsius) around the time I went to sleep, and dropped to
+around 61 degrees Fahrenheit in the morning.
+
+This time, the indoor temperature was 59 degrees Fahrenheit (15
+degrees Celsius) around the time I went to sleep, and 58 degrees
+Fahrenheit when I woke up (pretty late) and it likely dropped to
+around 55 degrees Fahrenheit (13 degrees Celsius) at its lowest point
+at night.
+
+At this lower temperature, it's harder to have a sleep posture
+sleeping on the right side where my right arm is not directly under
+the weight of my body. So the posture changes I was able to do last
+time didn't work as well.
+
+I spent the majority of my time sleeping on my left side (this is what
+I did at the time of going to sleep) but sleeping on one side for the
+whole night is hard, and the brief periods at night when I had to
+switch to sleeping on my right side were unpleasant.
+
+This is an argument for trying to get the vaccine around the
+October/November period or the March/April period rather than in
+January when it's generally coldest, though in the grand scheme of
+things this is a minor consideration. In this case, I picked January
+both due to scheduling considerations and because the previous dose
+was in March, and I like to have a gap of at least 9 months between
+doses.
 
 ### Symptoms I experienced in previous iterations that I have not experienced yet
 
