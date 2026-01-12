@@ -6,6 +6,7 @@ Sections of this document:
 * [Preparation](#preparation)
 * [Appointment](#appointment)
 * [Aftereffects](#aftereffects)
+* [Administrative followup](#administrative-followup)
 * [Resumption of exercise](#resumption-of-exercise)
 
 Recent doses of the same base vaccine (with the exact formula varying
@@ -334,14 +335,63 @@ both due to scheduling considerations and because the previous dose
 was in March, and I like to have a gap of at least 9 months between
 doses.
 
+My sleep overnight from 2026-01-11 to 2026-01-12 was much better,
+largely because I was able to sleep on my right side putting all my
+weight on my right shoulder; although the area was still somewhat
+sore, it was able to handle that load.
+
+### Urination pattern
+
+I noticed an increase in the concentratedness of urine on Sunday
+2026-01-11 during the day, which might reflect more toxin
+removal. There wasn't much change to the quantity or timing of
+urination.
+
+### Holistic fatigue and slight muscle aches through the body
+
+I experienced a small amount of holistic fatigue on Sunday 2026-01-11,
+the day after the vaccine, but was mostly able to carry on my work for
+the day as usual. In addition to the tightness in the back of the
+neck, I also experienced fleeting muscle aches in the rest of the
+body, to a level comparable with what one would feel after
+over-exercising those specific muscles.
+
 ### Symptoms I experienced in previous iterations that I have not experienced yet
 
-This list was last updated Sunday 2025-01-11 around 12:50 AM:
+This list was last updated Monday 2026-01-12 around 2:17 PM:
 
-* Holistic fatigue (experienced 2025-03-21)
 * Increased light sensitivity (experienced 2025-03-21 briefly)
 * Increased thirst (experienced 2025-03-21 briefly)
 * Increased hunger (experienced 2025-03-21 briefly)
-* Urination pattern changes (experienced day after 2025-03-21)
-* Fever (not experienced 2025-03-21 or 2024-01-12 but experienced with earlier doses starting with the second dose)
-* Malaise (not experienced 2025-03-21 or 2024-01-12 but experienced with earlier doses starting with the second dose)
+* Fever (not experienced 2025-03-21 or 2024-01-12 but experienced with
+  earlier doses starting with the second dose)
+* Malaise (not experienced 2025-03-21 or 2024-01-12 but experienced
+  with earlier doses starting with the second dose) (note that
+  holistic fatigue and slight muscle aches can be considered on the
+  continuum to malaise; if these were stronger, it would feel like
+  malaise)
+
+## Administrative followup
+
+### Administrative document updates
+
+In addition to documenting the vaccine administration in the current
+file, I completed the updates to the activity tracker, vaccine
+administrations SQL file, and health profile on the night of the
+vaccine administration date (2026-01-10) past midnight into
+2026-01-11.
+
+### Physical record updates
+
+I filed the information leaflet in my health records and updated the
+digital file for the document list to reflect this.
+
+I also moved the COVID-19 vaccination record cards out of my critical
+document pouch and into my health records. I don't intend to update
+these cards further now that the CDC has stopped using them for a few
+years, and various digital records are available instead (from both
+Walgreens and CDPH).
+
+## Resumption of exercise
+
+Still to be started!
