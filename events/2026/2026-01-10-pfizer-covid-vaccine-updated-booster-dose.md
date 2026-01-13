@@ -289,6 +289,12 @@ fit my experience this time as well:
 > The soreness was not distracting, so unless I touched the area or
 > directed my thoughts to it, it didn't get in my way.
 
+The soreness reduced gradually over the next few days. I removed the
+bandage on 2026-01-13 at around 2:30 AM, past midnight from
+2026-01-12, at the end of my bath, as the soreness was mild enough by
+this point, and the bandage was anyway loosening as a result of my
+bath. This was about 59 hours after the vaccine administration.
+
 ### Tightness in the back of the neck
 
 Late at night (past 10 PM) I noticed some tightness in the back of the
