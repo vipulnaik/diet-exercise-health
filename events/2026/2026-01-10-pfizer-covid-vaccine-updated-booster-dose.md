@@ -398,6 +398,13 @@ these cards further now that the CDC has stopped using them for a few
 years, and various digital records are available instead (from both
 Walgreens and CDPH).
 
+### Official digital record updates
+
+On Wednesday 2026-01-14, as scheduled on my calendar, I downloaded the
+updated California digital vaccine record and updated Walgreens
+digital vaccine record to reflect the latest COVID vaccine booster
+dose.
+
 ## Resumption of exercise
 
 Still to be started!
