@@ -407,4 +407,24 @@ dose.
 
 ## Resumption of exercise
 
-Still to be started!
+### Hand gripper exercises with left hand
+
+I resumed hand gripper exercises with my left hand (I got the vaccine
+in my right arm) on Wednesday 2026-01-14, four days after the vaccine,
+as planned.
+
+I was able to do 15 seconds with the 150 lb hand gripper and 22
+seconds with the 100 lb hand gripper. This is lower than my usual, but
+not by a huge amount. It likely reflects some slight deconditioning
+and still being on the recovery trajectory from the insult of the
+vaccine.
+
+### Jogging
+
+I resumed jogging on Wednesday 2026-01-14 (four days after the
+vaccine), a day after the planned date of 2026-01-13 (three days after
+the vaccine). The delay was primarily for scheduling / logistics
+reasons. The first jogging I did was outdoors, and I was able to do
+only about 1.5 miles compared to my usual of 1.75 miles or more. This
+likely reflects some combination of slight deconditioning and still
+being on the recovery trajectory from the insult of the vaccine.

@@ -31,20 +31,52 @@ was due. I didn't have strength exercises due on this day.
 ## 2026-01-08: started pause of hand gripper exercises and strength exercises
 
 On Thursday 2026-01-08, I started the planned pause of hand gripper
-exercises and strength exercises for the upcoming COVID vaccine
-appointment on Saturday 2026-01-10. I still did jogging as usual.
+exercises and strength exercises for the [upcoming COVID vaccine
+appointment on Saturday
+2026-01-10](2026-01-10-pfizer-covid-vaccine-updated-booster-dose.md). I
+still did jogging as usual.
 
 ## 2026-01-09: skipped jogging
 
 On Friday 2026-01-09, I skipped jogging, primarily to make sure I have
 my first meal early enough and sleep early enough so that my schedule
-is not too disrupted for my COVID vaccine appointment the next
-day. Strength exercises and hand gripper exercises were already
-paused. I did breath holds as usual.
+is not too disrupted for my [COVID vaccine appointment the next
+day](2026-01-10-pfizer-covid-vaccine-updated-booster-dose.md). Strength
+exercises and hand gripper exercises were already paused. I did breath
+holds as usual.
 
-### 2026-01-10: started pause of jogging and breath holds for COVID vaccine
+## 2026-01-10: started pause of jogging and breath holds for COVID vaccine
 
 On Saturday 2026-01-10, I started the pause of jogging and breath
-holds as planned. This was for my COVID vaccine appointment on
-2026-01-10. I had also skipped jogging the previous day (2026-01-09)
-for scheduling reasons, but I had done breath holds on that day.
+holds as planned. This was for my [COVID vaccine appointment on
+2026-01-10](2026-01-10-pfizer-covid-vaccine-updated-booster-dose.md). I
+had also skipped jogging the previous day (2026-01-09) for scheduling
+reasons, but I had done breath holds on that day.
+
+## 2026-01-14: resumed hand gripper exercises with left hand as well as jogging
+
+Both these resumptions were after pauses related to the [2026-01-10
+COVID vaccine booster
+dose](2026-01-10-pfizer-covid-vaccine-updated-booster-dose.md).
+
+### Hand gripper exercises with left hand
+
+I resumed hand gripper exercises with my left hand (I got the vaccine
+in my right arm) on Wednesday 2026-01-14, four days after the vaccine,
+as planned.
+
+I was able to do 15 seconds with the 150 lb hand gripper and 22
+seconds with the 100 lb hand gripper. This is lower than my usual, but
+not by a huge amount. It likely reflects some slight deconditioning
+and still being on the recovery trajectory from the insult of the
+vaccine.
+
+### Jogging
+
+I resumed jogging on Wednesday 2026-01-14 (four days after the
+vaccine), a day after the planned date of 2026-01-13 (three days after
+the vaccine). The delay was primarily for scheduling / logistics
+reasons. The first jogging I did was outdoors, and I was able to do
+only about 1.5 miles compared to my usual of 1.75 miles or more. This
+likely reflects some combination of slight deconditioning and still
+being on the recovery trajectory from the insult of the vaccine.
