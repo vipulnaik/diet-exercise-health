@@ -15,10 +15,10 @@ footing and stay on that right footing in order to keep my center of
 gravity over that narrow area. This requires good balance and good
 prediction and estimation of balance.
 
-### Goal: build towards 30 seconds
+### Goal: build towards 45 seconds
 
 The goal is to build to where I can stand on one leg toes with eyes
-open to about 30 seconds for each leg.
+open for about 45 seconds for each leg.
 
 ## Protocol
 
@@ -29,7 +29,7 @@ skipped, but if I abort more than three tries successively I should
 document this.
 
 I should do up to five tries on each leg. I can stop if I hit the
-threshold of 20 seconds on any try.
+threshold of 25 seconds on any try.
 
 ## Triggers for overall exercise
 
@@ -51,6 +51,10 @@ seconds.
 On 2025-11-11, I increased the threshold to 20 seconds. As of this
 time, my maximum on each leg is somewhere betwen 12 seconds and 17
 seconds.
+
+On 2026-01-16, I increased the threshold to 25 seconds after getting
+30 seconds on the right leg (on the second try; the first try was 20
+seconds) and 27 seconds on the left leg (on the first try)
 
 ### History of triggers for overall exercise
 
