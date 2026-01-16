@@ -97,7 +97,7 @@ queries = [
     select * from food_preparations_and_openings_self_join where (preparation_or_opening_date_2, meal_index_2) < (completion_date_1, completion_meal_index_1) and not (food_type in ('TJ Kale','Beefsteak tomato')) and not (
       ((completion_date_1 , completion_meal_index_1) = ('2025-07-07',2) and (preparation_or_opening_date_2, meal_index_2) = ('2025-07-07',1)) or
       ((completion_date_1 , completion_meal_index_1) = ('2025-07-24',2) and (preparation_or_opening_date_2, meal_index_2) = ('2025-07-24',1)) or
-      (food_type in ('Red bell pepper','Green bell pepper') and preparation_or_opening_date_2 in ('2025-08-03','2026-01-10')) or
+      (food_type in ('Red bell pepper','Green bell pepper') and preparation_or_opening_date_2 in ('2025-08-03','2026-01-10','2026-01-14')) or
       (food_type = 'TJ Carrots' and preparation_or_opening_date_2 = '2025-09-14')
     );""",
 
