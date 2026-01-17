@@ -2,6 +2,8 @@
 
 List last updated: 2025-12-27
 
+Timings updated: 2026-01-17
+
 This document covers a list of things I need to do for my health, outside of:
 
 * Normal exercise and health-related work embedded in my daily or
@@ -51,22 +53,23 @@ can stick to weekdays!
 
 * Continue investigating my hearing and earwax situation (off and on
   over December 2025 / January 2026, with initial focused effort in
-  the wek of 2025-12-22)
+  the wek of 2025-12-22; re-evaluation and decision scheduled for week
+  of 2026-01-26)
 
 * Finish data entry for blood tests done 2025-09-10 (CBC, health
   profile updates, and final checking remain) (current plan is weeks
-  of 2026-01-19 and 2026-01-26)
+  of 2026-01-26 and 2026-02-02)
 
 * Conceptualize and enter data for DEXA scan results (current plan is
-  weeks of 2026-02-02 and 2026-02-09)
+  weeks of 2026-02-09 and 2026-02-16)
 
 * Add details on my hair (receding hairline) situation (as a new
-  section in my health profile) (current plan is weeks of 2026-02-16
-  and 2026-02-23)
+  section in my health profile) (current plan is weeks of 2026-02-23
+  and 2026-03-02)
 
 * Look into 23andMe MTHFR stuff and methylated B vitamin investigation
   in connection with homocysteine analysis (current plan is week of
-  2026-03-02)
+  2026-03-09)
 
 ## Regular appointments / procedures (things I have done before and have a decent handle on the process for)
 
