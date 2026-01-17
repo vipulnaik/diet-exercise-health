@@ -39,7 +39,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-08','TJ Roasted Seaweed',1,2,'2026-01-12',2),
   ('2026-01-08','TJ Miso Ginger Broth',1,2,'2026-01-12',2),
   ('2026-01-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-10',1),
-  ('2026-01-09','TJ Almond Milk',1,1,null,null),
+  ('2026-01-09','TJ Almond Milk',1,1,'2026-01-16',2),
   /* 2026-01-10 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; finished cumin bottle as part of this prep; I had only one tomato in stock because Trader Joe's didn't have tomatoes when I went yesterday, so I used bell peppers to fill the pot) */
   ('2026-01-10','Gold potatoes 5 lb',0.5,2,'2026-01-15',1),
   ('2026-01-10','TJ Kale',1,2,'2026-01-15',1),
@@ -69,12 +69,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-14','Red bell pepper',2,2,null,null),
   ('2026-01-14','Beefsteak tomato',6,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-01-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-01-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-16',2),
   ('2026-01-15','Udupi Palace spinach masala dosa free red chutney',1,1,null,null),
   ('2026-01-15','TJ Carb Savvy Tortillas',1,2,'2026-01-16',1),
   /* 2026-01-16 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-01-16','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-16','TJ Sauerkraut',1,1,null,null),
-  ('2026-01-16','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2026-01-16','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2026-01-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
