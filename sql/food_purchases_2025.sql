@@ -302,7 +302,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-04-18','TJ Miso Ginger Broth',1),
   ('2025-04-18','TJ Turmeric',1),
   ('2025-04-18','Gold potatoes 5 lb',1),
-  /* 2025-04-23 (Wednesday) Berkeley Bowl; total cost $62.71; checkout at 6:29 PM; paid by credit card; 12 items in transaction on which 2 were dish soap so effectively 10 food items */
+  /* 2025-04-23 (Wednesday) Berkeley Bowl; total cost $62.71; checkout at 6:29 PM; paid by credit card; 12 items in transaction on which 2 were Seventh Generation dish soap bottles so effectively 10 food items */
   ('2025-04-23','Lundberg Sustainable California White Jasmine Rice',3), /* I was billed for 2 */
   ('2025-04-23','Lundberg Sustainable California White Basmati Rice',1),
   ('2025-04-23','Kite Hill Greek Style Plant-Based Yogurt',6),
