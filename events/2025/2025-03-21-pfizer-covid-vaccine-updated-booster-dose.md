@@ -346,6 +346,14 @@ influenced by the vaccine, but it's not clear either way.
 
 ## Resumption of exercise
 
+### Retrospectively constructed summary table for jogging recovery
+
+Date | Days since vaccine | Distance in miles if outdoors (compare to threshold of 1.67 miles and usual value of 1.75 miles or more) | Time in minutes if indoors (compare to threshold of 25 minutes and usual value of 30 minutes)
+-- | -- | -- | --
+2025-03-24 | 3 | N/A  |  15
+2025-03-25 | 4 | N/A  |  19
+2025-03-26 | 5 | 1.67 | N/A
+
 ### 2025-03-24: resumption of jogging (at-home and shorter duration) and standing-with-eyes-closed exercises
 
 On Monday 2025-03-24, three days after the vaccine, per the [best

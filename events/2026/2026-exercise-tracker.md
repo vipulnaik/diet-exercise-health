@@ -76,7 +76,23 @@ vaccine.
 I resumed jogging on Wednesday 2026-01-14 (four days after the
 vaccine), a day after the planned date of 2026-01-13 (three days after
 the vaccine). The delay was primarily for scheduling / logistics
-reasons. The first jogging I did was outdoors, and I was able to do
-only about 1.5 miles compared to my usual of 1.75 miles or more. This
-likely reflects some combination of slight deconditioning and still
-being on the recovery trajectory from the insult of the vaccine.
+reasons.
+
+It took me a few days to recover to my normal level of jogging. See
+[2026-01-10 COVID vaccine booster dose (jogging
+subsection)](2026-01-10-pfizer-covid-vaccine-updated-booster-dose.md#jogging)
+for more information.
+
+## 2026-01-17: resumed hand gripper exercises with right hand
+
+I resumed hand gripper exercises with my right hand I got the vaccine
+in my right arm) on Saturday 2026-01-17, seven days after the vaccine,
+as planned.
+
+Performance was around the middle of the normal range starting the day
+I resumed.
+
+## 2026-01-19: resumed strength exercises
+
+I resumed strength exercises on Monday 2026-01-19, nine days after the
+vaccine, as planned. Performance was within the normal range.

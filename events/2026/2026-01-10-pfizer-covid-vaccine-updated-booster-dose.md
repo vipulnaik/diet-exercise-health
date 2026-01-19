@@ -407,6 +407,34 @@ dose.
 
 ## Resumption of exercise
 
+### Balance exercises (no pause)
+
+I continued the [balance exercise
+cycle](../../profile-information/physical-exercise/balance-exercise-cycle-with-history.md)
+without any interruption from the COVID vaccine. The dates for balance
+exercises in the period immediately after the vaccine were 2026-01-12
+and 2026-01-16. I did different exercises on these days, so they can't
+be compared with each other.
+
+My performance for the exercises on 2026-01-16 was normal / above normal.
+
+Performance details for the exercises on 2026-01-12:
+
+* Standing-on-one-leg-with-eyes-closed exercises: I
+  cleared the threshold (100 seconds) for both legs, but not by a
+  whole lot: I got 113 seconds on the right leg and 109 seconds on the
+  left leg. The indoor temperature was 69 degrees Fahrenheit, so no
+  temperature-based adjustment was called for. I suspect that the leg
+  soreness / fatigue was handicapping me a little bit, but performance
+  was within the normal range.
+
+* Standing-on-toes-with-eyes-closed exercise: I cleared the threshold
+  (105 seconds) getting 150 seconds and 144 seconds on two consecutive
+  tries. I did two tries for no particular reason; normally I just do
+  one. Unlike the standing-on-one-leg exercises, this does not put
+  weight on muscles where I experienced greater soreness from the
+  vaccine.
+
 ### Hand gripper exercises with left hand
 
 I resumed hand gripper exercises with my left hand (I got the vaccine
@@ -419,12 +447,80 @@ not by a huge amount. It likely reflects some slight deconditioning
 and still being on the recovery trajectory from the insult of the
 vaccine.
 
+By 2026-01-17, seven days after the vaccine administration, my
+performance with my left hand had returned to the middle of the normal
+range. (Since my exercises are on a 3-day cycle, performance on
+consecutive days cannot be directly compared with each other, but only
+with their respective normal ranges).
+
+In all key respects, the recovery pattern was similar to [last
+time](../2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md#resumption-of-exercise):
+
+* Duration after vaccine that I started (4 days)
+
+* Performance on day of starting, relative to my range at the time
+  (low end of or slightly below range)
+
+* Duration after vaccine that I estimate full recovery (7 days) (I
+  didn't explicitly call this out last time)
+
+Note that the absolute levels this time were higher, but this is
+partly reflective of increased baseline strength.
+
+### Hand gripper exercises with right hand
+
+I resumed hand gripper exercises with my right hand I got the vaccine
+in my right arm) on Saturday 2026-01-17, seven days after the vaccine,
+as planned.
+
+Performance was around the middle of the normal range starting the day
+I resumed.
+
+In all key respects, the recovery pattern was similar to [last
+time](../2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md#resumption-of-exercise):
+
+* Duration after vaccine that I started (7 days)
+
+* Performance on day of starting (normal)
+
 ### Jogging
 
 I resumed jogging on Wednesday 2026-01-14 (four days after the
 vaccine), a day after the planned date of 2026-01-13 (three days after
 the vaccine). The delay was primarily for scheduling / logistics
-reasons. The first jogging I did was outdoors, and I was able to do
-only about 1.5 miles compared to my usual of 1.75 miles or more. This
-likely reflects some combination of slight deconditioning and still
-being on the recovery trajectory from the insult of the vaccine.
+reasons.
+
+It took me some time to recover to my normal level of jogging. Below
+is a table of the distance I jogged by day.
+
+Date | Days since vaccine | Distance in miles if outdoors (compare to threshold of 1.75 miles and usual value of 1.8 miles or more) | Time in minutes if indoors (compare to threshold of 30 minutes and usual value of 35 minutes or more)
+-- | -- | -- | --
+2026-01-14 | 4 | 1.5  | N/A
+2026-01-15 | 5 | 1.58 | N/A
+2026-01-16 | 6 | N/A  |  25
+2026-01-17 | 7 | 1.67 | N/A
+2026-01-18 | 8 | 1.75 | N/A
+2026-01-19 | 9 | 1.8  | N/A
+
+The recovery pattern was similar to [last
+time](../2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md#resumption-of-exercise),
+but maybe slower by a little bit. The constraining factor in recovery
+of jogging was leg soreness and fatigue. I also experienced a little
+more system-wide fatigue, but the leg soreness hit first.
+
+### Humming with intermittent pauses
+
+My first execution of the humming-with-intermittent-pauses exercise
+after the vaccine was on 2026-01-14, four days after the
+vaccine. Performance was within the normal range.
+
+### Breath holds
+
+My first round of breath holds after the vaccine was on 2026-01-18,
+eight days after the vaccine. My performance was at the upper end of
+normal.
+
+### Strength exercises
+
+I resumed strength exercises on Monday 2026-01-19, nine days after the
+vaccine, as planned. Performance was within the normal range.
