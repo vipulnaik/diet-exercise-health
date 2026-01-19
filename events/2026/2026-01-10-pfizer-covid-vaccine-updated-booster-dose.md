@@ -295,12 +295,15 @@ bandage on 2026-01-13 at around 2:30 AM, past midnight from
 this point, and the bandage was anyway loosening as a result of my
 bath. This was about 59 hours after the vaccine administration.
 
+When I checked on Monday 2026-01-19 (nine days after the vaccine), I
+was not able to feel soreness even on rubbing the area.
+
 ### Tightness in the back of the neck
 
 Late at night (past 10 PM) I noticed some tightness in the back of the
 neck, but it was pretty mild. I would not even have noted it down, but
 for the fact that I had noted it down last time and I want to note it
-down this time for parity.`
+down this time for parity.
 
 ### Sleep challenges
 
@@ -361,6 +364,26 @@ the day as usual. In addition to the tightness in the back of the
 neck, I also experienced fleeting muscle aches in the rest of the
 body, to a level comparable with what one would feel after
 over-exercising those specific muscles.
+
+### Increased sleep duration over the following week
+
+My sleep duration was a little higher than usual over the week
+following the vaccine, with several days of 9-hour sleep duration
+(sleep duration was about 8 hours or more on all days; normally I
+don't have 9-hour sleep duration unless I fall significantly below 8
+hours on an earlier day). I suspect this increased sleep duration was
+affected by the vaccine in two ways:
+
+* Greater holistic fatigue leading to need for more sleep
+
+* Poor quality of sleep on the night of the vaccine leading to a sleep
+  backlog that needed to be paid out over the coming week
+
+The greater sleep duration somewhat affected the quantity of work I
+was able to do in the coming week, by reducing my number of waking
+hours, and also created minor scheduling challenges. Fortunately, I
+did not have a lot of meetings during the week and the reduced
+exercise level helped me recover some of the time.
 
 ### Symptoms I experienced in previous iterations that I have not experienced yet
 
