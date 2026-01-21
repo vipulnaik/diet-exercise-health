@@ -379,6 +379,18 @@ affected by the vaccine in two ways:
 * Poor quality of sleep on the night of the vaccine leading to a sleep
   backlog that needed to be paid out over the coming week
 
+However, there's an alternative explanation for the increased sleep
+duration: I slept less than usual in the prior week, before the
+vaccine, and this created a mild sleep debt. My average sleep duration
+in the week of 2026-01-05 to 2026-01-11 was 7.5 hours and my average
+sleep duration in 2026-01-12 to 2026-01-18 was about 8.5 hours. The
+reason for reduced sleep duration in the prior week was partly that I
+was doing more exciting stuff and that sometimes led me to stay awake
+a little later.
+
+It's hard to disambiguate between the reasons; weather fluctuations
+are an added complicating factor.
+
 The greater sleep duration somewhat affected the quantity of work I
 was able to do in the coming week, by reducing my number of waking
 hours, and also created minor scheduling challenges. Fortunately, I
