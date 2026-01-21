@@ -186,7 +186,8 @@ Set a weather check reminder for two days prior to the appointment.
   * Include in the year's activity tracker and link from the activity
     tracker to the doc
 
-  * Add to [vaccine_administrations.sql](../sql/vaccine_administrations.sql)
+  * **With correct slug, date, and notes**, add to
+    [vaccine_administrations.sql](../sql/vaccine_administrations.sql)
 
   * Update most recent vaccine date for that condition in the
     [infectious diseases and vaccines section of the health
