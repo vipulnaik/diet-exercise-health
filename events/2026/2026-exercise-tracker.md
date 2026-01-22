@@ -96,3 +96,9 @@ I resumed.
 
 I resumed strength exercises on Monday 2026-01-19, nine days after the
 vaccine, as planned. Performance was within the normal range.
+
+## 2026-01-21: skipped all exercises to make time for administrative work
+
+On Wednesday 2026-01-21, I skipped all exercises so that I could do an
+administrative task (physical sorting of documents) in the morning and
+early afternoon period before my first meal.
