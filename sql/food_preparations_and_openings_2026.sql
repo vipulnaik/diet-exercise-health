@@ -70,7 +70,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-14','Beefsteak tomato',6,2,'2026-01-20',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-16',2),
-  ('2026-01-15','Udupi Palace spinach masala dosa free red chutney',1,1,null,null),
+  ('2026-01-15','Udupi Palace spinach masala dosa free red chutney',1,1,'2026-01-22',1),
   ('2026-01-15','TJ Carb Savvy Tortillas',1,2,'2026-01-16',1),
   /* 2026-01-16 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-01-16','Lundberg Sustainable California White Jasmine Rice',1,1,'2026-01-19',2),
@@ -99,5 +99,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-20','TJ Carb Savvy Tortillas',1,2,'2026-01-21',2),
   ('2026-01-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-01-21','Whole Foods Walnuts',1,1,null,null);
+  ('2026-01-21','Whole Foods Walnuts',1,1,null,null),
+  ('2026-01-22','TJ Carb Savvy Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
