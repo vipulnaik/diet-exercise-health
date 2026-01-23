@@ -46,7 +46,15 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2026-01-18','Lundberg Sustainable California White Jasmine Rice',2),
   ('2026-01-18','Lundberg Sustainable California White Basmati Rice',1),
   ('2026-01-18','Russet potatoes 5 lb',1),
-  ('2026-01-18','Kite Hill Greek Style Plant-Based Yogurt',3);
+  ('2026-01-18','Kite Hill Greek Style Plant-Based Yogurt',3),
+  /* 2026-01-22 (Thursday) Trader Joe's; total cost $42.24; checkout at 8:05 PM; paid by credit card; 16 items in transaction */
+  ('2026-01-22','TJ Carb Savvy Tortillas',5),
+  ('2026-01-22','TJ Kale',1),
+  ('2026-01-22','Green bell pepper',4),
+  ('2026-01-22','TJ Carrots',1),
+  ('2026-01-22','TJ Roasted Seaweed',1),
+  ('2026-01-22','Red bell pepper',2),
+  ('2026-01-22','TJ Walnuts',2);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
