@@ -102,3 +102,14 @@ vaccine, as planned. Performance was within the normal range.
 On Wednesday 2026-01-21, I skipped all exercises so that I could do an
 administrative task (physical sorting of documents) in the morning and
 early afternoon period before my first meal.
+
+## 2026-01-23: skipped all exercises due to scheduling constraints
+
+On Friday 2026-01-23, I skipped all exercises because of a combination
+of these factors:
+
+* I got delayed in the morning and early afternoon due to
+  time-sensitive stuff with the day job.
+
+* I had a packed schedule of stuff to do later in the day, so I could
+  not afford to delay my meal too much.
