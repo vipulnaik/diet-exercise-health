@@ -78,18 +78,18 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-16','TJ Sauerkraut',1,1,null,null),
   ('2026-01-16','TJ Carb Savvy Tortillas',1,1,'2026-01-17',1),
   ('2026-01-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-01-18',1),
-  ('2026-01-17','TJ Almond Milk',1,1,null,null),
+  ('2026-01-17','TJ Almond Milk',1,1,'2026-01-25',1),
   ('2026-01-17','TJ Carb Savvy Tortillas',1,2,'2026-01-18',2),
   ('2026-01-17','TJ Miso Ginger Broth',1,2,'2026-01-22',2),
   ('2026-01-17','Whole Foods Walnuts',1,2,'2026-01-20',2),
   ('2026-01-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-19',2),
   ('2026-01-18','TJ Carb Savvy Tortillas',1,2,'2026-01-19',2),
   /* 2026-01-19 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; I used two green bell peppers in lieu of tomatoes) */
-  ('2026-01-19','Russet potatoes 5 lb',0.5,2,null,null),
-  ('2026-01-19','TJ Kale',1,2,null,null),
-  ('2026-01-19','TJ English Shelled Peas',2,2,null,null),
-  ('2026-01-19','Green bell pepper',2,2,null,null),
-  ('2026-01-19','Beefsteak tomato',3,2,null,null),
+  ('2026-01-19','Russet potatoes 5 lb',0.5,2,'2026-01-25',1),
+  ('2026-01-19','TJ Kale',1,2,'2026-01-25',1),
+  ('2026-01-19','TJ English Shelled Peas',2,2,'2026-01-25',1),
+  ('2026-01-19','Green bell pepper',2,2,'2026-01-25',1),
+  ('2026-01-19','Beefsteak tomato',3,2,'2026-01-25',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-19','TJ Roasted Seaweed',1,2,null,null),
   ('2026-01-19','TJ Carb Savvy Tortillas',1,2,'2026-01-20',1),
@@ -115,6 +115,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-23','TJ Carb Savvy Tortillas',1,2,'2026-01-24',2),
   /* 2026-01-24 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-01-24','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
-  ('2026-01-24','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-01-24','Whole Foods Walnuts',1,2,null,null);
+  ('2026-01-24','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-25',1),
+  ('2026-01-24','Whole Foods Walnuts',1,2,null,null),
+  ('2026-01-25','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2026-01-25','TJ Almond Milk',1,1,null,null);
   /* Double-check the date and meal index before committing */
