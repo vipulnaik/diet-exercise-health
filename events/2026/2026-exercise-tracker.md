@@ -113,3 +113,12 @@ of these factors:
 
 * I had a packed schedule of stuff to do later in the day, so I could
   not afford to delay my meal too much.
+
+## 2026-01-25: skipped jogging due to delays
+
+On Sunday 2026-01-25, I skipped jogging as I had gotten pretty delayed
+as a result of several small tasks. I did do hand gripper exercises
+and humming-with-intermittent-pauses; strength exercises were not due
+on this day. I didn't do jogging because the combined delay of jogging
+plus the post-jogging cooldown time would have delayed my first meal
+too much.
