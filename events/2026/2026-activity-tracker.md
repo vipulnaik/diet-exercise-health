@@ -14,3 +14,8 @@ Walgreens and headed home.
 
 More details of the trip are
 [here](2026-01-10-pfizer-covid-vaccine-updated-booster-dose.md#appointment).
+
+## 2026-01-26
+
+In the afternoon, I made an administrative trip. On the way back, I
+stopped at Walgreens for a toiletries purchase.
