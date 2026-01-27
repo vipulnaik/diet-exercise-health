@@ -122,3 +122,8 @@ and humming-with-intermittent-pauses; strength exercises were not due
 on this day. I didn't do jogging because the combined delay of jogging
 plus the post-jogging cooldown time would have delayed my first meal
 too much.
+
+## 2026-01-26: skipped all exercises
+
+On Monday 2026-01-26, I skipped all exercises in order to make an
+administrative trip in the afternoon.
