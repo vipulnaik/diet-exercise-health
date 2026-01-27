@@ -305,3 +305,24 @@ twice and some even 3 times. Overall, the pain lasted only a few
 seconds in each interdental gap, but it did linger on as discomfort
 for the interdental gaps around the upper middle teeth, so that's an
 area I may want to pay closer attention to.
+
+## 2026-01-26 / 2026-01-27 (off-cycle floss pick pressure testing)
+
+Around midnight going from Monday 2026-01-26 to Tuesday 2026-01-27,
+along with my regular floss pick use to clean my teeth, I did floss
+pick pressure testing. I had a dental self-exam checklist due for a
+while, but it's been delayed somewhat due to a bunch of other
+higher-priority stuff. I therefore decided to go ahead with the floss
+pick pressure testing anyway.
+
+I pressed the floss pick pretty strongly against all interdental gaps,
+covering most interdental gaps at least twice and some even 3
+times. Overall, the pain lasted only a few seconds in each interdental
+gap, but it did linger on as discomfort for the interdental gaps
+around the *lower* teeth, particularly the lower middle teeth. I
+recently got a mouth ulcer (not top of mind, but something I notice
+when brushing the area) in the gum area below the lower middle teeth
+in the back, which might be related.
+
+The discomfort subsided within about 4 minutes of completing the floss
+pick pressure testing.
