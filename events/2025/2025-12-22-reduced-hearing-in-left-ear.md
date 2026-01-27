@@ -649,3 +649,43 @@ In light of these, my plan is as follows:
   application and instead directly seek professional earwax removal,
   but either way I plan to wait at least a week from 2026-01-04 before
   booking the appointment.
+
+## Wrapping up on 2026-01-27 (past midnight from 2026-01-26)
+
+### Hearing is back to normal
+I did minimum audible volume tests (both ears) and balance tests with
+both normal headphones and bone conduction headphones, and performed
+at the upper end of normal (the better-than-usual performance may be
+because I did the tests late at night and there was less ambient noise
+at the time).
+
+I did minimum audible volume and balance tests on 2026-01-05,
+2026-01-09, 2026-01-13, and 2026-01-17. Starting 2026-01-09, all
+minimum audible volume tests passed, though some of the balance tests
+failed by small margins (with the balance test on 2026-01-17 with bone
+conduction headphones favoring the left ear!).
+
+As of 2026-01-27, I have not experienced any weird volume mismatch
+issues between the ears when listening to audio in the normal course
+of operations using either normal headphones or bone conduction
+headphones.
+
+In light of all these facts, I have decided that the "reduced hearing
+in left ear" incident can be closed.
+
+### Ear drop application plan going forward
+
+My plan going forward is to apply the Ear Wax MD ear drops every
+month, alternating between the ears, so that the frequency of
+application in a given ear is once every two months.
+
+This seems a sufficiently low frequency that concerns associated with
+frequent ear drop application should not be an issue. At the same
+time, I think it is high enough that I should avoid having significant
+baseline earwax buildup where a single night can tip me off into
+reduced hearing in one ear.
+
+Since I have already done two rounds of ear drop application in my
+left ear in the recent past, with the second round in early January
+2026, I am planning to set odd months for the left ear and even months
+for the right ear.

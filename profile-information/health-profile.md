@@ -430,9 +430,15 @@ Some historical information:
   abilities may be a little worse than ideal, though I need to collect
   more benchmark data for it.
 
-Most recent specific incident: I experienced reduced hearing in my
-left ear starting 2024-11-29. After a bunch of at-home testing, I
-booked an audiological evaluation appointment for 2025-01-15. At the
+Most recent specific incident: I experienced slightly reduced hearing
+in my left ear starting 2025-12-22, that resolved on its own, helped
+somewhat by application of ear drops. I cover things in detail in
+[this
+document](../events/2025/2025-12-22-reduced-hearing-in-left-ear.md).
+
+Prior to that, I experienced significantly reduced hearing in my left
+ear starting 2024-11-29. After a bunch of at-home testing, I booked an
+audiological evaluation appointment for 2025-01-15. At the
 appointment, we decided to just do earwax removal instead of a hearing
 test, with the plan being for me to do a followup at-home hearing test
 and book an appointment for a hearing test + further evaluation if I
