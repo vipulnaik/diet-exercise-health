@@ -221,10 +221,19 @@ On Friday 2025-07-18, in the late afternoon / early evening, I made a
 trip to the Amazon Hub Locker at ASUC Berkeley to pick up a few
 packages.
 
-## Various trips in 2025-08 (details pending)
+## 2025-08-14
 
-I made a few administrative trips in 2025-08. Details of the trips are
-pending.
+I made an administrative trip and also stopped at the Amazon Hub
+Locker at ASUC Berkeley to pick up a package.
+
+## 2025-08-15
+
+I made a two-stop administrative trip.
+
+## 2025-08-20
+
+I made an administrative trip to San Francisco. I took BART going in
+and took the AC Transit line F for the return journey.
 
 ## 2025-09-03
 
