@@ -1,8 +1,6 @@
 # TODO list
 
-List last updated: 2025-12-27
-
-Timings updated: 2026-01-17
+List last updated: 2026-01-27 (overnight from 2026-01-26)
 
 This document covers a list of things I need to do for my health, outside of:
 
@@ -51,11 +49,6 @@ my work on these to weekdays (so if a given week is busy on weekdays,
 I might defer to the next week). I'm free to make faster progress if I
 can stick to weekdays!
 
-* Continue investigating my hearing and earwax situation (off and on
-  over December 2025 / January 2026, with initial focused effort in
-  the wek of 2025-12-22; re-evaluation and decision scheduled for week
-  of 2026-01-26)
-
 * Finish data entry for blood tests done 2025-09-10 (CBC, health
   profile updates, and final checking remain) (current plan is weeks
   of 2026-01-26 and 2026-02-02)
@@ -79,8 +72,6 @@ other things I do need to investigate.
 
 It's generally best to keep a gap of at least 3 weeks between these
 and to try to schedule them when I am not on-call.
-
-* Earwax removal appointment (likely February or March 2026)
 
 * Blood tests plus maybe urine test (likely late March 2026); see
   [2026-blood-test-plans-round-1.md](../events/2026/2026-blood-test-plans-round-1.md)
