@@ -23,13 +23,11 @@ open for about 45 seconds for each leg.
 ## Protocol
 
 The protocol is to stand on the toes of one leg with eyes open for as
-long as possible. It's okay to do multiple tries and record them
-all. Tries that immediately abort (in less than 2 seconds) can be
-skipped, but if I abort more than three tries successively I should
-document this.
+long as possible. I can do multiple tries and record the best try,
+though in some cases I might record the best two or three tries.
 
-I should do up to five tries on each leg. I can stop if I hit the
-threshold of 25 seconds on any try.
+I should generally do up to five tries on each leg. I can stop if I
+hit the threshold of 25 seconds on any try.
 
 ## Triggers for overall exercise
 
@@ -96,7 +94,7 @@ said, some rice preps I might use for more niche occasional exercises,
 which might displace a few slots, so effectively this might be a
 little less frequent.
 
-### Slight tweak to settings documented 2025-11-24
+#### Slight tweak to settings documented 2025-11-24
 
 Rather than have specific exercise bundles to do in alternating rice
 preps, I've decided to just cycle through a list of exercises over
@@ -104,3 +102,11 @@ rice preps, which might mean doing a variable number in a given rice
 prep, and occasionally throw in more niche exercises. See [balance
 exercise cycle (with history)](balance-exercise-cycle-with-history.md)
 for the list.
+
+### Documentation protocol changes
+
+On 2026-01-27, I updated the documented documentation protocol to
+match a change that had already happened *de facto*. Namely, the
+original protocol required me to document the number of seconds for
+every try. The new protocol only requires me to document the maximum
+across tries for each leg.
