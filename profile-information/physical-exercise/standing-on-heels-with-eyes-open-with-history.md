@@ -55,6 +55,10 @@ I then record the minimum and maximum over all the attempts over the
 two-minute period. My goal is to try to get as high a minimum and as
 high a maximum as possible.
 
+NOTE 2026-01-27: I've been lazy about recording the minimum, but I
+plan to resume recording the minimum, even if it is sometimes
+embarrassingly low, like 1 or 2 seconds.
+
 ## Triggers for overall exercise
 
 The practice 2025-11-24 onward is to do this exercise during rice
