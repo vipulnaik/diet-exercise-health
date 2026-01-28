@@ -14,13 +14,17 @@
 * [Standing on heels with eyes
   open](standing-on-heels-with-eyes-open-with-history.md) (about 2 minutes)
 
+* [Standing on one leg toes with eyes
+  open](standing-on-one-leg-toes-with-eyes-open-with-history.md)
+  (right leg then left leg, about 1 to 2 minutes total)
+
+* [Standing on one leg toes with eyes
+  closed](standing-on-one-leg-toes-with-eyes-closed-with-history.md)
+  (right leg then left leg, about 1 minute total)
+
 * [Dorsiflexion and plantar flexion
   exercises](dorsiflexion-and-plantar-flexion-exercises-with-history.md)
   (about 1 minute)
-
-* [Standing on one leg toes with eyes
-  open](standing-on-one-leg-toes-with-eyes-open-with-history.md)
-  (right leg thne left leg, about 1 to 2 minutes total)
 
 ### Occasional exercises
 

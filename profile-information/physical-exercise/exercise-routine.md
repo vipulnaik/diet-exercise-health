@@ -36,6 +36,7 @@ Sections of this document:
 * [Standing-on-toes-with-eyes-closed exercise](#standing-on-toes-with-eyes-closed-exercise)
 * [Standing-on-toes-with-eyes-open exercise](#standing-on-toes-with-eyes-open-exercise)
 * [Standing-on-one-leg-toes-with-eyes-open exercise](#standing-on-one-leg-toes-with-eyes-open-exercise)
+* [Standing-on-one-leg-toes-with-eyes-closed exercise](#standing-on-one-leg-toes-with-eyes-closed-exercise)
 * [Standing-on-heels-with-eyes-open exercise](#standing-on-heels-with-eyes-open-exercise)
 * [Dorsiflexion and plantar flexion exercises](#dorsiflexion-and-plantar-flexion-exercises)
 * [Hopping](#hopping)
@@ -294,6 +295,16 @@ I started this experimental exercise in June 2025 with the goal of
 improving balance.
 
 See [here](standing-on-one-leg-toes-with-eyes-open-with-history.md) for more
+details.
+
+## Standing-on-one-leg-toes-with-eyes-closed exercise
+
+Goal of exercise: build
+
+I started this experimental exercise in January 2026 with the goal of
+improving balance, with a focus on extreme in-the-moment balance.
+
+See [here](standing-on-one-leg-toes-with-eyes-closed-with-history.md) for more
 details.
 
 ## Standing-on-heels-with-eyes-open exercise
