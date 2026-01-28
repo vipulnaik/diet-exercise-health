@@ -9,7 +9,7 @@ For the with-shoes variant of this exercise, see
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-open for at least 5 minutes
+### Maintain standing-on-one-leg-with-eyes-open for at least 6 minutes
 
 The exercise of standing on one leg with eyes open is complementary to
 the exercise of standing on one leg with eyes closed. The main
@@ -20,7 +20,7 @@ on the strength and stamina of the leg. With that said, there does
 seem to be a positive correlation between the two exercises.
 
 My goal is to maintain my current ability to stand on one leg with
-eyes open for at least 5 minutes on each leg. Since this is with eyes
+eyes open for at least 6 minutes on each leg. Since this is with eyes
 open, I can multiplex this with watching a video as long as I don't
 need to interact with it by clicking on stuff.
 
@@ -46,7 +46,7 @@ The main benefits are as follows:
   version. Anecdotally, it feels like doing the eyes-open exercise
   does seem to result in improvements in the eyes-closed version.
 
-The threshold of 5 minutes is a bit arbitrary, and mainly stems from a
+The threshold of 6 minutes is a bit arbitrary, and mainly stems from a
 need to balance the time and energy expenditure against the value of
 the exercise. I can imagine raising the theshold a bit over time,
 though it's unlikely to go beyond 10 minutes.
@@ -99,3 +99,12 @@ both legs for the second time (the previous successful attempts over 5
 minutes had been in April 2025, and prior to that I had exceeded 5
 minutes on the right leg but not the left leg on 2025-03-28) I
 increased the duration threshold for both legs to 5 minutes.
+
+### Duration threshold increase to 6 minutes on 2026-01-27
+
+On Tuesday 2026-01-27, after the second consecutive attempt where I
+exceeded 6 minutes on each leg, I increased the duration threshold to
+6 minutes on each leg. The most recent durations are:
+
+* Right leg: 425 seconds on 2026-01-27, 391 seconds on 2025-12-13
+* Left leg: 399 seconds on 2026-01-27, 366 seconds on 2025-12-17

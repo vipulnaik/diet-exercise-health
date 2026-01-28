@@ -240,7 +240,7 @@ balance.
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
 
-As of July 2025, my aim is to be able to manage at least 5 minutes
+As of January 2026, my aim is to be able to manage at least 6 minutes
 on each leg.
 
 Given the long time commitment of the exercise, I aim to do it only
