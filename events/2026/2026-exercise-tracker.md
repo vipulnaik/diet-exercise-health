@@ -127,3 +127,10 @@ too much.
 
 On Monday 2026-01-26, I skipped all exercises in order to make an
 administrative trip in the afternoon.
+
+## 2026-01-30: skipped all exercises
+
+On Friday 2026-01-30, I skipped all exercises. This was because I got
+delayed in the morning as a result of some time-sensitive stuff at
+work, and I didn't want to delay things too much as I wanted to make a
+downtown Berkeley trip that included places that were closing at 5 PM.
