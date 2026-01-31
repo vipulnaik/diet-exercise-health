@@ -19,3 +19,12 @@ More details of the trip are
 
 In the afternoon, I made an administrative trip. On the way back, I
 stopped at Walgreens for a toiletries purchase.
+
+## 2026-01-30
+
+In the evening, I made a three-stop trip to downtown Berkeley. My
+first stop was at Goodwill where I dropped off torn socks. My second
+stop was at Citibank where I withdrew quarters and took care of
+another financial transaction. After that, I stopped at Trader Joe's
+for my usual food purchases, that I recorded
+[here](../sql/food_purchases_2026.sql), as usual.
