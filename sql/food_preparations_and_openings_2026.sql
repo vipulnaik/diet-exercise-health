@@ -141,6 +141,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-29','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep */
   ('2026-01-29','TJ Carb Savvy Tortillas',1,2,'2026-01-30',2),
-  ('2026-01-30','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-01-30','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-31',1),
   ('2026-01-30','TJ Carb Savvy Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
