@@ -134,3 +134,13 @@ On Friday 2026-01-30, I skipped all exercises. This was because I got
 delayed in the morning as a result of some time-sensitive stuff at
 work, and I didn't want to delay things too much as I wanted to make a
 downtown Berkeley trip that included places that were closing at 5 PM.
+
+## 2026-02-01: skipped jogging and strength exercises
+
+On Sunday 2026-02-01, I skipped jogging and strength exercises. The
+motivation was that I didn't want to delay my meal too much (so that I
+could do meal prep and other stuff later in the day), and I also
+needed to make a trip to Berkeley Bowl in the slot that I would
+usually use for jogging.
+
+I did do hand gripper exercises and breath holds.
