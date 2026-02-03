@@ -144,3 +144,11 @@ needed to make a trip to Berkeley Bowl in the slot that I would
 usually use for jogging.
 
 I did do hand gripper exercises and breath holds.
+
+## 2026-02-02: skipped all exercises
+
+On Monday 2026-02-02, I skipped all exercises. This was due to a
+combination of waking up late (as a result of staying up late to get
+some work done that needed a longer session) and then scheduling
+reasons and a desire to focus on wrapping up loose ends from the
+previous day's work.
