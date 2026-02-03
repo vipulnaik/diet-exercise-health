@@ -127,7 +127,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-27','Lundberg Sustainable California White Jasmine Rice',1,2,'2026-01-30',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-27','TJ Carb Savvy Tortillas',1,2,'2026-01-28',1),
-  ('2026-01-27','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-01-27','TJ Roasted Seaweed',1,2,'2026-02-02',2), /* technically I had one sheet left, but I had already opened the next packet so I just transferred the sheet to the next packet */
   ('2026-01-28','Whole Foods Walnuts',1,1,'2026-01-31',2),
   ('2026-01-28','TJ Carb Savvy Tortillas',1,2,'2026-01-29',1),
   ('2026-01-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-01-30',1),
@@ -157,5 +157,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-01','Red bell pepper',2,2,null,null),
   ('2026-02-01','Beefsteak tomato',6,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-02-01','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2026-02-01','TJ Carb Savvy Tortillas',1,2,'2026-02-02',2),
+  ('2026-02-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-02-02','TJ Roasted Seaweed',1,2,null,null);
   /* Double-check the date and meal index before committing */
