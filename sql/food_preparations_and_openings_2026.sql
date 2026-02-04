@@ -132,7 +132,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-28','TJ Carb Savvy Tortillas',1,2,'2026-01-29',1),
   ('2026-01-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-01-30',1),
   ('2026-01-29','TJ Sauerkraut',1,1,null,null),
-  ('2026-01-29','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-01-29','TJ Miso Ginger Broth',1,1,'2026-02-03',2),
   /* 2026-01-29 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-01-29','Russet potatoes 5 lb',0.5,2,null,null),
   ('2026-01-29','TJ Kale',1,2,null,null),
@@ -144,7 +144,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-30','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-31',1),
   ('2026-01-30','TJ Carb Savvy Tortillas',1,2,'2026-01-31',2),
   /* 2026-01-31 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-01-31','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  ('2026-01-31','Lundberg Sustainable California White Basmati Rice',1,1,'2026-02-03',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-31','TJ Carb Savvy Tortillas',1,2,'2026-02-01',2),
   ('2026-01-31','TJ Walnuts',1,2,null,null),
