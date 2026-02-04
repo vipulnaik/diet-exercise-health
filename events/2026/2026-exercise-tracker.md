@@ -152,3 +152,11 @@ combination of waking up late (as a result of staying up late to get
 some work done that needed a longer session) and then scheduling
 reasons and a desire to focus on wrapping up loose ends from the
 previous day's work.
+
+## 2026-02-03: skipped all exercises
+
+On Tuesday 2026-02-03, I skipped all exercises. This was mainly
+because a bunch of time-sensitive stuff at work came up, and I
+multiplexed that with other stuff at work that fit in well with the
+time-sensitive stuff. By the time I was able to wrap things up, it was
+too late to do exercise.
