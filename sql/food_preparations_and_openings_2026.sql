@@ -119,7 +119,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-24','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-25',1),
   ('2026-01-24','Whole Foods Walnuts',1,2,'2026-01-28',1),
   ('2026-01-25','TJ Carb Savvy Tortillas',1,1,'2026-01-25',2),
-  ('2026-01-25','TJ Almond Milk',1,1,null,null),
+  ('2026-01-25','TJ Almond Milk',1,1,'2026-02-03',1),
   ('2026-01-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-01-27',1),
   ('2026-01-26','TJ Carb Savvy Tortillas',1,1,'2026-01-27',1),
   ('2026-01-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-01-28',1),
@@ -159,5 +159,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-02-01','TJ Carb Savvy Tortillas',1,2,'2026-02-02',2),
   ('2026-02-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-02-02','TJ Roasted Seaweed',1,2,null,null);
+  ('2026-02-02','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-02-03','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2026-02-03','TJ Almond Milk',1,1,null,null);
   /* Double-check the date and meal index before committing */
