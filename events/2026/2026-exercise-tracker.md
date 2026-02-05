@@ -160,3 +160,10 @@ because a bunch of time-sensitive stuff at work came up, and I
 multiplexed that with other stuff at work that fit in well with the
 time-sensitive stuff. By the time I was able to wrap things up, it was
 too late to do exercise.
+
+## 2026-02-04: skipped jogging and strength exercises
+
+On Wednesday 2026-02-04, I skipped jogging and strength
+exercises. Once again, this was due to time-sensitive stuff at work
+delaying me. I did do hand gripper exercises and
+humming-with-intermittent-pauses.
