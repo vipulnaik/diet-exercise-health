@@ -163,5 +163,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-03','TJ Carb Savvy Tortillas',1,1,'2026-02-04',1),
   ('2026-02-03','TJ Almond Milk',1,1,null,null),
   ('2026-02-04','TJ Miso Ginger Broth',1,1,null,null),
-  ('2026-02-04','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2026-02-04','TJ Carb Savvy Tortillas',1,1,null,null),
+  /* 2026-02-04 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2026-02-04','Lundberg Sustainable California White Basmati Rice',1,2,null,null);
   /* Double-check the date and meal index before committing */
