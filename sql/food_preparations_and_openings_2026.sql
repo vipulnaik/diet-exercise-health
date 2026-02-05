@@ -134,10 +134,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-01-29','TJ Sauerkraut',1,1,null,null),
   ('2026-01-29','TJ Miso Ginger Broth',1,1,'2026-02-03',2),
   /* 2026-01-29 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-01-29','Russet potatoes 5 lb',0.5,2,null,null),
-  ('2026-01-29','TJ Kale',1,2,null,null),
-  ('2026-01-29','TJ English Shelled Peas',2,2,null,null),
-  ('2026-01-29','Beefsteak tomato',5,2,null,null),
+  ('2026-01-29','Russet potatoes 5 lb',0.5,2,'2026-02-04',1),
+  ('2026-01-29','TJ Kale',1,2,'2026-02-04',1),
+  ('2026-01-29','TJ English Shelled Peas',2,2,'2026-02-04',1),
+  ('2026-01-29','Beefsteak tomato',5,2,'2026-02-04',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-01-29','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep */
   ('2026-01-29','TJ Carb Savvy Tortillas',1,2,'2026-01-30',2),
@@ -162,5 +162,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-02','TJ Roasted Seaweed',1,2,null,null),
   ('2026-02-03','TJ Carb Savvy Tortillas',1,1,'2026-02-04',1),
   ('2026-02-03','TJ Almond Milk',1,1,null,null),
-  ('2026-02-04','TJ Miso Ginger Broth',1,1,null,null);
+  ('2026-02-04','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-02-04','TJ Carb Savvy Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
