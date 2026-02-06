@@ -167,3 +167,9 @@ On Wednesday 2026-02-04, I skipped jogging and strength
 exercises. Once again, this was due to time-sensitive stuff at work
 delaying me. I did do hand gripper exercises and
 humming-with-intermittent-pauses.
+
+## 2026-02-05: skipped all exercises
+
+On Thursday 2026-02-05, I skipped all exercises. This was mainly
+because of a couple of work meetings in the morning and early
+afternoon, one of them somewhat impromptu.
