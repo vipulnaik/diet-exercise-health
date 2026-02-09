@@ -336,9 +336,14 @@ floss pick use to clear out the debris (using the same floss pick).
 It didn't pain much, but the lower teeth slightly left of center did
 hit somewhat tender spots. The pain didn't last long, but I did notice
 some blood in the spitting I did immediately after, and it took a few
-rounds of spitting to clear the blood. I don't know for sure whether
-the bleeding happened from the same area that felt tender, because the
-bleeding source had stopped by the time I noticed.
+rounds of spitting to clear the blood. I didn't know for sure at the
+time whether the bleeding happened from the same area that felt
+tender, because the bleeding source had stopped by the time I noticed.
 
-Either way, I should pay more attention to that area, which I might be
+However, about an hour later, when brushing my teeth, I noticed
+further bleeding in the area triggered by the act of brushing, and I
+was able to visually examine and confirm that the bleeding was
+occurring in that same interdental gap.
+
+I should pay more attention to that area, which I might be
 neglecting somewhat in my dental care.
