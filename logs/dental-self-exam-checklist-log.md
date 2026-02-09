@@ -326,3 +326,19 @@ in the back, which might be related.
 
 The discomfort subsided within about 4 minutes of completing the floss
 pick pressure testing.
+
+## 2026-02-09 (off-cycle floss pick pressure testing)
+
+On 2026-02-09, shortly past midnight from 2026-02-08, when doing
+flossing, I did floss pick pressure testing after the initial round of
+floss pick use to clear out the debris (using the same floss pick).
+
+It didn't pain much, but the lower teeth slightly left of center did
+hit somewhat tender spots. The pain didn't last long, but I did notice
+some blood in the spitting I did immediately after, and it took a few
+rounds of spitting to clear the blood. I don't know for sure whether
+the bleeding happened from the same area that felt tender, because the
+bleeding source had stopped by the time I noticed.
+
+Either way, I should pay more attention to that area, which I might be
+neglecting somewhat in my dental care.
