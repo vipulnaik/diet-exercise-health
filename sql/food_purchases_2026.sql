@@ -92,7 +92,10 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2026-02-06','Gold potatoes 5 lb',1),
   /* 2026-02-06 (Friday) Udupi Palace; total cost $15.38; paid by cash */
   ('2026-02-06','Udupi Palace spinach masala dosa',1),
-  ('2026-02-06','Udupi Palace spinach masala dosa free red chutney',1); /* recording as a separate item as I start the consumption of this later */
+  ('2026-02-06','Udupi Palace spinach masala dosa free red chutney',1), /* recording as a separate item as I start the consumption of this later */
+  /* 2026-02-09 (Monday) Berkeley Bowl; total cost $62.72; checkout at 5:47 PM; paid by debit card; 10 items in transaction of which 2 were Seventh Generation dish soap bottles so only 8 food items */
+  ('2026-02-09','Lundberg Sustainable California White Basmati Rice',3),
+  ('2026-02-09','Kite Hill Greek Style Plant-Based Yogurt',5);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
