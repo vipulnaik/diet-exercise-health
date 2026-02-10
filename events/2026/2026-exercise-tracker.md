@@ -179,3 +179,10 @@ afternoon, one of them somewhat impromptu.
 On Friday 2026-02-06, I skipped jogging and strength exercises. Once
 again, this was due to time-sensitive stuff at work delaying me. I did
 do hand gripper exercises.
+
+## 2026-02-09: skipped all exercises
+
+On Monday 2026-02-09, I skipped all exercises in order to be able to
+fit in several personal chores tasks during the day that involve
+outdoor trips, in light of a weather forecast of rain for the next two
+days.
