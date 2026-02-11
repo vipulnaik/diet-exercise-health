@@ -4,6 +4,9 @@ Last major update: October/November 2025 (significant expansion and
 addition of new sections and subsections while adding recent test
 results)
 
+Last nontrivial update (to ongoing incidents section): February 11,
+2026 (2026-02-11)
+
 NOTE (2025-09-22, updated 2025-11-10): I got [blood tests done on September 10,
 2025](../events/2025/2025-09-10-blood-tests.md). I got all the results
 back by September 21. I am part of the way through to entering results in
@@ -91,14 +94,16 @@ Sections of this document:
 ## Ongoing incidents
 
 This section lists and links to ongoing incidents. This section was
-last updated October 4, 2025. I hope to update this section whenever
+last updated February 11, 2026. I hope to update this section whenever
 there's a new incident or the status of an existing incident changes
 significantly. I remove from here incidents that I consider closed; I
 may consider an incident closed once the healing is well on its way
 and it is no longer meaningfully affecting my daily life, even if not
 all of its ramifications have been fully addressed.
 
-As of October 4, 2025, I have no ongoing incidents.
+As of February 11, 2026, the one ongoing incident is [2026-02-06
+onward: right pelvic
+discomfort](../events/2026/2026-02-06-onward-right-pelvic-discomfort.md).
 
 You can see the list
 of incidents for 2024 in the [events/2024 folder](../events/2024), and
