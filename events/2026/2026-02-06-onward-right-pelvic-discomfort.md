@@ -1,5 +1,24 @@
 # 2026-02-06 onward: right pelvic discomfort
 
+Sections of this document:
+
+* [Executive summary](#executive-summary)
+* [Background](#background)
+* [Likely trigger: Udupi Palace spinach masala dosa consumption](#likely-trigger-udupi-palace-spinach-masala-dosa-consumption)
+* [Development of symptoms](#development-of-symptoms)
+* [Deeper dive into right pelvic discomfort](#deeper-dive-into-right-pelvic-discomfort)
+* [Appendix and methanogen hypothesis-chasing](#appendix-and-methanogen-hypothesis-chasing)
+* [Data appendix](#data-appendix)
+
+Related past incidents:
+
+* [2024-04-25: abdominal pain](../events/2024/2024-04-25-abdominal-pain.md)
+* [2024-07-18: excessive morning activity and abdominal pain in the afternoon](../2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md)
+
+## Executive summary
+
+### Symptoms and clinical observations
+
 Starting Friday 2026-02-06 (symptoms noticed overnight starting
 2026-02-07) I experienced a range of symptoms and had corresponding
 clinical observations:
@@ -20,6 +39,11 @@ clinical observations:
   2026-02-10
 
 * Increased sleep need
+
+### Current hypothesis
+
+My current hypothesis is methanogen increase and release from the
+appendix, causing the downstream symptoms and clinical observations.
 
 ## Background
 
