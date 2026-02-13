@@ -308,11 +308,17 @@ methanogens to get released. So my theory was something like this:
   system, causing the release of methane into the GI tract and
   therefore some constipation-like GI issues.
 
-I got FoodMarble Aire 2 readings on 2026-02-09 and 2026-02-10, getting
-scores of 1.7 and 1.6 respectively, which correspond to methane levels
-of 8.5 ppm and 8.0 ppm respectively. These are much higher than the
-levels since September 2024 during my previous abdominal discomfort,
-though lower than the cutoff for a definite diagnosis of IMO. See
+I took FoodMarble Aire 2 readings on 2026-02-09 and 2026-02-10,
+getting scores of 1.7 and 1.6 respectively, which correspond to
+methane levels of 8.5 ppm and 8.0 ppm respectively. These are much
+higher than the levels since September 2024 during my previous
+abdominal discomfort, though lower than the cutoff for a definite
+diagnosis of IMO. A third reading I took on 2026-02-12 gave a methane
+fermentation score of 0.6, corresponding to a methane level of 3 ppm,
+which is still higher than my usual of zero, but now within the range
+of variation I have in normal times.
+
+See
 [foodmarble_aire_2_breath_tests.sql](../../sql/foodmarble_aire_2_breath_tests.sql)
 for more breath test result details.
 
@@ -322,7 +328,11 @@ I had a bunch of Atrantil left over from attempted use after the 2024
 abdominal discomfort. On 2026-02-10, with my first meal, I took 2
 Atrantil capsules. I did experience burps suggesting that the Atrantil
 reached my stomach, but my guess is that the dose so far is too little
-to make it clear if the Atrantil is working.
+to make it clear if the Atrantil is working. I took another 2 Atrantil
+capsules with my second meal on 2026-02-11 and plan to continue to
+take 2 capsules per day (both in the same meal) for a few more days
+while continuing to monitor symptoms and my methane fermentation
+score.
 
 ## Data appendix
 
