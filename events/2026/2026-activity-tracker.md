@@ -28,3 +28,8 @@ stop was at Citibank where I withdrew quarters and took care of
 another financial transaction. After that, I stopped at Trader Joe's
 for my usual food purchases, that I recorded
 [here](../sql/food_purchases_2026.sql), as usual.
+
+## 2026-02-13
+
+In the afternoon, I made an administrative trip. On the way back, I
+stopped at Walgreens to purchase toiletries.
