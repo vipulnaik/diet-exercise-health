@@ -444,7 +444,7 @@ for food purchases recorded in
 
 In the afternoon, I made a trip to Walgreens to pick up the FoodMarble
 Aire 2. I had documented the purchase decision process
-[here](https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-08-21-foodmarble-aire-2-purchase-decision-process.md).
+[here](2024-08-21-foodmarble-aire-2-purchase-decision-process.md).
 
 ## Friday August 30
 
