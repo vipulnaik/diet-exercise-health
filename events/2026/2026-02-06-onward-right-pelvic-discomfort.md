@@ -204,6 +204,27 @@ experienced constipation or tenesmus. However, a few notes:
   completing bowel movements than usual, but still completed bowel
   movements satisfactorily.
 
+### Inflammation elsewhere
+
+I had a few other inflammation incidents on 2026-02-12 /
+2026-02-13. These may be related to some combination of the right
+pelvic discomfort and/or unrelated circumstances beyond my control
+that led me to stay up late and go a long time without eating on
+2026-02-11. While I normally document such incidents only privately, I
+am including them here given the potential relationship:
+
+* Mouth ulcer on lower inner lip slightly right of center
+
+* Right collarbone inflammation
+
+* Right middle finger and ring finger itchiness and swelling (perhaps
+  due to scratching the itch, or perhaps present even before)
+
+More details of these are available in private notes.
+
+It's noteworthy that all these occurred on the right side, though that
+might be a coincidence.
+
 ## Deeper dive into right pelvic discomfort
 
 ### Surface examination
