@@ -12,7 +12,7 @@ Sections of this document:
 
 Related past incidents:
 
-* [2024-04-25: abdominal pain](../events/2024/2024-04-25-abdominal-pain.md)
+* [2024-04-25: abdominal pain](../2024/2024-04-25-abdominal-pain.md)
 * [2024-07-18: excessive morning activity and abdominal pain in the afternoon](../2024/2024-07-18-excessive-morning-activity-and-abdominal-pain-in-the-afternoon.md)
 
 ## Executive summary
