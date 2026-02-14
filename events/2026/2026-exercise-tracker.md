@@ -186,3 +186,13 @@ On Monday 2026-02-09, I skipped all exercises in order to be able to
 fit in several personal chores tasks during the day that involve
 outdoor trips, in light of a weather forecast of rain for the next two
 days.
+
+## 2026-02-11: skipped all exercises
+
+On Wednesday 2026-02-11, I skipped all exercises due to unusual
+circumstances beyond my control.
+
+## 2026-02-13: skipped all exercises
+
+On Friday 2026-02-13, I skipped all exercises to make time for an
+administrative trip.
