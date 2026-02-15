@@ -76,7 +76,7 @@ read_food: read_food_metadata read_food_data interpolate_food_data verify_food
 reset_food_preparations_and_openings_and_associated: reset_interpolated_food_data reset_food_preparations_and_openings_data
 
 .PHONY: read_food_preparations_and_openings_and_associated
-read_food_preparations_and_openings_and_associated: read_food_preparations_and_openings_data interpolate_food_data verify_food_preparations_and_openings_data
+read_food_preparations_and_openings_and_associated: read_food_preparations_and_openings_data interpolate_food_data verify_food_preparations_and_openings_data verify_interpolated_food_data
 
 .PHONY: reset_food_purchases_and_associated
 reset_food_purchases_and_associated: reset_food_purchases_data
@@ -161,7 +161,7 @@ interpolate_food_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/interpolated_nutrient_consumption.sql
 
 .PHONY: verify_food_data
-verify_food_data: verify_food_preparations_and_openings_data verify_food_purchases_data
+verify_food_data: verify_food_preparations_and_openings_data verify_interpolated_food_data verify_food_purchases_data
 
 .PHONY: verify_food_preparations_and_openings_data
 verify_food_preparations_and_openings_data:
@@ -169,6 +169,10 @@ verify_food_preparations_and_openings_data:
 	grep 20 sql/food_preparations_and_openings_2025.sql | grep -v 2025; :
 	grep 20 sql/food_preparations_and_openings_2026.sql | grep -v 2026; :
 	python3 python/food_preparations_and_openings_verification_queries.py
+
+.PHONY: verify_interpolated_food_data
+verify_interpolated_food_data:
+	python3 python/interpolated_nutrient_consumption_verification_queries.py
 
 .PHONY: verify_food_purchases_data
 verify_food_purchases_data:
