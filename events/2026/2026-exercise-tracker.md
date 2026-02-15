@@ -196,3 +196,8 @@ circumstances beyond my control.
 
 On Friday 2026-02-13, I skipped all exercises to make time for an
 administrative trip.
+
+## 2026-02-14: skipped all exercises
+
+On Saturday 2026-02-14, I skipped all exercises to make time for an
+IRL meeting with a few people including two former work colleagues.
