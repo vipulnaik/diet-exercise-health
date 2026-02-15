@@ -27,7 +27,7 @@ first stop was at Goodwill where I dropped off torn socks. My second
 stop was at Citibank where I withdrew quarters and took care of
 another financial transaction. After that, I stopped at Trader Joe's
 for my usual food purchases, that I recorded
-[here](../sql/food_purchases_2026.sql), as usual.
+[here](../../sql/food_purchases_2026.sql), as usual.
 
 ## 2026-02-13
 
@@ -39,5 +39,5 @@ stopped at Walgreens to purchase toiletries.
 In the early afternoon, I went to Farmhouse Kitchen in North Berkeley
 to meet a few people including two former work colleagues. I ended up
 not eating but just participated in some of the conversation. On the
-way back, I stopped at Trader Joe's for my usual food purchases that I
-recorded [here](../sql/food_purchases_2026.sql).
+way back, I stopped at Trader Joe's for my usual food purchases, that
+I recorded [here](../../sql/food_purchases_2026.sql).
