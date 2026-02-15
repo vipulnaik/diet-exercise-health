@@ -33,3 +33,11 @@ for my usual food purchases, that I recorded
 
 In the afternoon, I made an administrative trip. On the way back, I
 stopped at Walgreens to purchase toiletries.
+
+## 2026-02-14
+
+In the early afternoon, I went to Farmhouse Kitchen in North Berkeley
+to meet a few people including two former work colleagues. I ended up
+not eating but just participated in some of the conversation. On the
+way back, I stopped at Trader Joe's for my usual food purchases that I
+recorded [here](../sql/food_purchases_2026.sql).
