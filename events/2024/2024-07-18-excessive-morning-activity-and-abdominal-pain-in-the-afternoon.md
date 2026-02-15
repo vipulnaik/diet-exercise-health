@@ -213,7 +213,7 @@ problem persisted at that point.
 
 ### Measurement of fermentation levels
 
-For the full set of readings, see [here](../sql/foodmarble_aire_2_breath_tests.sql).
+For the full set of readings, see [here](../../sql/foodmarble_aire_2_breath_tests.sql).
 
 I got the FoodMarble Aire 2 on 2024-08-24. I took a few readings
 across 2024-08-24, 2024-08-25, and 2024-08-26, but the device had

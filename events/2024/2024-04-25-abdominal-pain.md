@@ -388,7 +388,7 @@ for this:
 
 * Perhaps the lavash getting drier caused some added irritation; I
   acted on this by disposing of the remaining lavash; see
-  [food_waste.sql](../sql/food_waste.sql) for details.
+  [food_waste.sql](../../sql/food_waste.sql) for details.
 
 ### Ten days later (2024-05-05)
 
@@ -824,7 +824,7 @@ over a longer period of time, so that this super-recent events
 analysis likely doesn't cover the factors that led to the kidney
 stone. Among these longer-term factors, my diet is high in
 oxalates. At least, that's my unofficial sense comparing my [food
-purchases](../sql/food_purchases.sql). I don't think I drink too
+purchases](../../sql/food_purchases_2024.sql). I don't think I drink too
 little water though; my sense is that my water consumption is
 reasonable and maybe a little bit on the higher side, though there may
 have been some periods in between where my water consumption dropped.

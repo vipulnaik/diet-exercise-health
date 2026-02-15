@@ -19,7 +19,7 @@ machine.
 On Wednesday 2024-05-15, I did my first round of blood pressure
 measurements using the blood pressure machine. These measurements are
 recorded in
-[blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
+[blood_pressure_readings.sql](../../sql/blood_pressure_readings.sql).
 
 I also used the stethoscope for the first time. Here are a few gotchas:
 
@@ -50,5 +50,5 @@ I am still mulling the cadence, but my current plan is to make blood
 pressure readings and stethoscope examination of heart sounds and
 diaphragm, a monthly process. For the blood pressure readings, the
 plan is to record them in
-[blood_pressure_readings.sql](../sql/blood_pressure_readings.sql). I
+[blood_pressure_readings.sql](../../sql/blood_pressure_readings.sql). I
 haven't decided the recording modality for the stethoscope.
