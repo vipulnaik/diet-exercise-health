@@ -336,8 +336,10 @@ higher than the levels since September 2024 during my previous
 abdominal discomfort, though lower than the cutoff for a definite
 diagnosis of IMO. A third reading I took on 2026-02-12 gave a methane
 fermentation score of 0.6, corresponding to a methane level of 3 ppm,
-which is still higher than my usual of zero, but now within the range
-of variation I have in normal times.
+which is still higher than my usual score of zero, but now within the
+range of variation I have in normal times. A fourth reading I took on
+2026-02-16 gave a methane fermentation score of 0.4, corresponding to
+a methane level of 2 ppm, suggesting continued recovery.
 
 See
 [foodmarble_aire_2_breath_tests.sql](../../sql/foodmarble_aire_2_breath_tests.sql)
@@ -350,10 +352,10 @@ abdominal discomfort. On 2026-02-10, with my first meal, I took 2
 Atrantil capsules. I did experience burps suggesting that the Atrantil
 reached my stomach, but my guess is that the dose so far is too little
 to make it clear if the Atrantil is working. I took another 2 Atrantil
-capsules with my second meal on 2026-02-11 and plan to continue to
-take 2 capsules per day (both in the same meal) for a few more days
-while continuing to monitor symptoms and my methane fermentation
-score.
+capsules with my second meal on 2026-02-11 and continued to take 2
+capsules per day (both in the same meal) until 2026-02-14.
+
+On 2026-02-15 I reduced the dose to 1 capsule per day.
 
 ## Data appendix
 
