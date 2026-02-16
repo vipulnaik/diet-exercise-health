@@ -211,5 +211,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-13','TJ Almond Milk',1,2,null,null),
   ('2026-02-14','TJ Carb Savvy Tortillas',1,1,'2026-02-15',1),
   ('2026-02-14','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-02-15','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2026-02-15','TJ Carb Savvy Tortillas',1,1,'2026-02-15',2),
+  /* 2026-02-15 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-02-15','Gold potatoes 5 lb',0.5,2,null,null),
+  ('2026-02-15','TJ Kale',1,2,null,null),
+  ('2026-02-15','TJ English Shelled Peas',2,2,null,null),
+  ('2026-02-15','Beefsteak tomato',3,2,null,null);
   /* Double-check the date and meal index before committing */
