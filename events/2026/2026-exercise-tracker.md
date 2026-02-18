@@ -201,3 +201,9 @@ administrative trip.
 
 On Saturday 2026-02-14, I skipped all exercises to make time for an
 IRL meeting with a few people including two former work colleagues.
+
+## 2026-02-17: skipped jogging
+
+On Tuesday 2026-02-17, I skipped jogging so as not to delay my meal
+too much after already experiencing slight delays for other reasons. I
+did not have strength exercises due on this day.
