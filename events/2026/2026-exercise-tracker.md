@@ -207,3 +207,11 @@ IRL meeting with a few people including two former work colleagues.
 On Tuesday 2026-02-17, I skipped jogging so as not to delay my meal
 too much after already experiencing slight delays for other reasons. I
 did not have strength exercises due on this day.
+
+## 2026-02-18: skipped jogging and strength exercises
+
+On Wednesday 2026-02-18, I skipped jogging and strength exercises, in
+the hope of being able to fit laundry in before rain resumed later in
+the evening. However, rain resumed earlier than anticipated, so I was
+not able to fit laundry in after all. I did do hand gripper exercises
+and humming-with-intermittent-pauses.
