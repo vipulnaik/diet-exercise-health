@@ -207,7 +207,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-12','TJ Walnuts',1,2,'2026-02-16',2),
   ('2026-02-12','TJ Carb Savvy Tortillas',1,2,'2026-02-13',2),
   ('2026-02-13','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-14',2),
-  ('2026-02-13','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-02-13','TJ Miso Ginger Broth',1,1,'2026-02-19',2),
   ('2026-02-13','TJ Almond Milk',1,2,null,null),
   ('2026-02-14','TJ Carb Savvy Tortillas',1,1,'2026-02-15',1),
   ('2026-02-14','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-02-16',1),
@@ -226,6 +226,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-16','TJ Carb Savvy Tortillas',1,2,'2026-02-17',2),
   ('2026-02-17','TJ Walnuts',1,1,null,null),
   ('2026-02-18','TJ Carb Savvy Tortillas',1,1,'2026-02-18',2),
-  ('2026-02-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-02-18','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2026-02-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-19',2),
+  ('2026-02-18','TJ Carb Savvy Tortillas',1,2,'2026-02-19',2),
+  ('2026-02-19','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2026-02-19','TJ Miso Ginger Broth',1,2,null,null);
   /* Double-check the date and meal index before committing */
