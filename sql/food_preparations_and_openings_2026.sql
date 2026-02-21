@@ -191,12 +191,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-10','TJ Carb Savvy Tortillas',1,1,'2026-02-11',2),
   ('2026-02-10','TJ Sauerkraut',1,1,null,null),
   /* 2026-02-10 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-02-10','Eggplant',1,2,null,null),
-  ('2026-02-10','TJ Kale',1,2,null,null),
-  ('2026-02-10','TJ Carrots',1,2,null,null),
-  ('2026-02-10','Green bell pepper',4,2,null,null),
-  ('2026-02-10','Red bell pepper',2,2,null,null),
-  ('2026-02-10','Beefsteak tomato',7,2,null,null),
+  ('2026-02-10','Eggplant',1,2,'2026-02-20',1),
+  ('2026-02-10','TJ Kale',1,2,'2026-02-20',1),
+  ('2026-02-10','TJ Carrots',1,2,'2026-02-20',1),
+  ('2026-02-10','Green bell pepper',4,2,'2026-02-20',1),
+  ('2026-02-10','Red bell pepper',2,2,'2026-02-20',1),
+  ('2026-02-10','Beefsteak tomato',7,2,'2026-02-20',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-02-10','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-02-12',2),
   ('2026-02-11','TJ Carb Savvy Tortillas',1,2,'2026-02-12',2),
@@ -228,6 +228,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-18','TJ Carb Savvy Tortillas',1,1,'2026-02-18',2),
   ('2026-02-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-19',2),
   ('2026-02-18','TJ Carb Savvy Tortillas',1,2,'2026-02-19',2),
-  ('2026-02-19','TJ Carb Savvy Tortillas',1,2,null,null),
-  ('2026-02-19','TJ Miso Ginger Broth',1,2,null,null);
+  ('2026-02-19','TJ Carb Savvy Tortillas',1,2,'2026-02-20',1),
+  ('2026-02-19','TJ Miso Ginger Broth',1,2,null,null),
+  ('2026-02-20','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
