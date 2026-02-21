@@ -215,3 +215,10 @@ the hope of being able to fit laundry in before rain resumed later in
 the evening. However, rain resumed earlier than anticipated, so I was
 not able to fit laundry in after all. I did do hand gripper exercises
 and humming-with-intermittent-pauses.
+
+## 2026-02-20: skipped all exercises
+
+On Friday 2026-02-20, I skipped all exercises. This was so that I
+could fit a Berkeley Bowl trip in the early afternoon and not delay my
+meal by too much, after a very long day yesterday and a delayed start
+to the day due to a work meeting.
