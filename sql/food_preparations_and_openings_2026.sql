@@ -203,7 +203,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-02-12 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-02-12','Lundberg Sustainable California White Basmati Rice',1,1,'2026-02-16',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-02-12','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-02-12','TJ Roasted Seaweed',1,2,'2026-02-21',2),
   ('2026-02-12','TJ Walnuts',1,2,'2026-02-16',2),
   ('2026-02-12','TJ Carb Savvy Tortillas',1,2,'2026-02-13',2),
   ('2026-02-13','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-14',2),
@@ -213,10 +213,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-14','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-02-16',1),
   ('2026-02-15','TJ Carb Savvy Tortillas',1,1,'2026-02-15',2),
   /* 2026-02-15 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-02-15','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2026-02-15','TJ Kale',1,2,null,null),
-  ('2026-02-15','TJ English Shelled Peas',2,2,null,null),
-  ('2026-02-15','Beefsteak tomato',3,2,null,null),
+  ('2026-02-15','Gold potatoes 5 lb',0.5,2,'2026-02-21',2),
+  ('2026-02-15','TJ Kale',1,2,'2026-02-21',2),
+  ('2026-02-15','TJ English Shelled Peas',2,2,'2026-02-21',2),
+  ('2026-02-15','Beefsteak tomato',3,2,'2026-02-21',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-02-16','TJ Carb Savvy Tortillas',1,1,'2026-02-16',2),
   ('2026-02-16','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-17',2),
@@ -237,5 +237,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-02-21','TJ Turmeric',1,1,null,null), /* opened with rice prep */
   ('2026-02-21','TJ Walnuts',1,1,null,null),
-  ('2026-02-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-02-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-02-21','TJ Roasted Seaweed',1,2,null,null);
   /* Double-check the date and meal index before committing */
