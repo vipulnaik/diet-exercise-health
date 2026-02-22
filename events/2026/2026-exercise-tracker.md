@@ -222,3 +222,10 @@ On Friday 2026-02-20, I skipped all exercises. This was so that I
 could fit a Berkeley Bowl trip in the early afternoon and not delay my
 meal by too much, after a very long day yesterday and a delayed start
 to the day due to a work meeting.
+
+## 2026-02-21: skipped all exercises
+
+On Saturday 2026-02-21, I skipped all exercises. This was because I
+was trying to fit several cyclic personal chores with long time block
+commitments within the day, after having built a backlog over the past
+few days due to circumstances not directly under my control.
