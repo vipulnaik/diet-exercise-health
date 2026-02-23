@@ -229,3 +229,10 @@ On Saturday 2026-02-21, I skipped all exercises. This was because I
 was trying to fit several cyclic personal chores with long time block
 commitments within the day, after having built a backlog over the past
 few days due to circumstances not directly under my control.
+
+## 2026-02-22: skipped all exercises
+
+On Sunday 2026-02-22, I skipped all exercises. This was because I
+was trying to fit several cyclic personal chores with long time block
+commitments within the day, after having built a backlog over the past
+few days due to circumstances not directly under my control.
