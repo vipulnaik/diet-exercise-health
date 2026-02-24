@@ -70,7 +70,7 @@ queries = [
 
     "select daily_calcium_in_mg_avg from nutrient_consumption_in_recent_week where daily_calcium_in_mg_avg < 650 or daily_calcium_in_mg_avg > 2500; -- dig deeper: select food_type, daily_quantity_avg, daily_calcium_in_mg_avg from food_and_nutrient_consumption_in_recent_week order by daily_calcium_in_mg_avg desc;",
 
-    "select daily_sodium_in_mg_avg from nutrient_consumption_in_recent_week where daily_sodium_in_mg_avg > 4500; -- dig deeper: select food_type, daily_quantity_avg, daily_sodium_in_mg_avg from food_and_nutrient_consumption_in_recent_week order by daily_sodium_in_mg_avg desc;",
+    "select daily_sodium_in_mg_avg from nutrient_consumption_in_recent_week where daily_sodium_in_mg_avg < 1300 or daily_sodium_in_mg_avg > 5000; -- dig deeper: select food_type, daily_quantity_avg, daily_sodium_in_mg_avg from food_and_nutrient_consumption_in_recent_week order by daily_sodium_in_mg_avg desc;",
 
     "select daily_potassium_in_mg_avg from nutrient_consumption_in_recent_week where daily_potassium_in_mg_avg < 3000 or daily_potassium_in_mg_avg > 5400; -- dig deeper: select food_type, daily_quantity_avg, daily_potassium_in_mg_avg from food_and_nutrient_consumption_in_recent_week order by daily_potassium_in_mg_avg desc;",
 
