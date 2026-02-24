@@ -236,3 +236,13 @@ On Sunday 2026-02-22, I skipped all exercises. This was because I
 was trying to fit several cyclic personal chores with long time block
 commitments within the day, after having built a backlog over the past
 few days due to circumstances not directly under my control.
+
+## 2026-02-24: reduced outdoor jogging
+
+On Tuesday 2026-02-24, I went for outdoor jogging. The temperature was
+72 degrees Fahrenheit, so it was "slightly degraded conditions"
+according to my [jogging
+guidelines](../../profile-information/physical-exercise/jogging-and-return-walking-with-history.md). The
+applicable threshold was therefore 1.67 miles, but I jogged just a
+little over 1.5 miles. Leg fatigue (and more specifically lower leg
+fatigue) was the constraining factor.
