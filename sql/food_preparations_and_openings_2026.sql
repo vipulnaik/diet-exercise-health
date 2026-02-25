@@ -233,10 +233,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-20','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-21',1),
   ('2026-02-20','TJ Carb Savvy Tortillas',1,2,'2026-02-21',1),
   /* 2026-02-21 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-02-21','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
+  ('2026-02-21','Lundberg Sustainable California White Jasmine Rice',1,1,'2026-02-24',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-02-21','TJ Turmeric',1,1,null,null), /* opened with rice prep */
-  ('2026-02-21','TJ Walnuts',1,1,null,null),
+  ('2026-02-21','TJ Walnuts',1,1,'2026-02-24',1),
   ('2026-02-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-22',2),
   ('2026-02-21','TJ Roasted Seaweed',1,2,null,null),
   ('2026-02-22','TJ Sauerkraut',1,1,null,null),
@@ -251,7 +251,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-02-22','TJ Almond Milk',1,2,null,null),
   ('2026-02-23','TJ Carb Savvy Tortillas',1,1,'2026-02-23',2),
-  ('2026-02-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-02-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-24',1),
   ('2026-02-23','TJ Miso Ginger Broth',1,2,null,null),
   ('2026-02-23','TJ Carb Savvy Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
