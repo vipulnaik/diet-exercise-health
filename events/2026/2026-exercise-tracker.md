@@ -246,3 +246,9 @@ guidelines](../../profile-information/physical-exercise/jogging-and-return-walki
 applicable threshold was therefore 1.67 miles, but I jogged just a
 little over 1.5 miles. Leg fatigue (and more specifically lower leg
 fatigue) was the constraining factor.
+
+## 2026-02-25: skipped all exercises
+
+On Wednesday 2026-02-25, I skipped all exercises. This was because of
+delays created by a lengthy informal catch-up meeting with work
+colleagues.
