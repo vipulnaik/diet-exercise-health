@@ -104,6 +104,10 @@ verify_food_metadata:
 .PHONY: reset_food_data
 reset_food_data: reset_food_preparations_and_openings_data reset_food_purchases_data reset_other_food_data
 
+.PHONY: show_diff_food_preparations_and_openings
+show_diff_food_preparations_and_openings:
+	git diff sql/food_preparations_and_openings_*.sql
+
 .PHONY: reset_food_preparations_and_openings_data
 reset_food_preparations_and_openings_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_preparations_and_openings;"
@@ -130,6 +134,10 @@ read_food_preparations_and_openings_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2024.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2025.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2026.sql
+
+.PHONY: show_diff_food_purchases
+show_diff_food_purchases:
+	git diff sql/food_purchases_*.sql
 
 .PHONY: read_food_purchases_data
 read_food_purchases_data:
