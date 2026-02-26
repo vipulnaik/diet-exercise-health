@@ -252,3 +252,30 @@ fatigue) was the constraining factor.
 On Wednesday 2026-02-25, I skipped all exercises. This was because of
 delays created by a lengthy informal catch-up meeting with work
 colleagues.
+
+## 2026-02-26: reduced outdoor jogging and skipped strength exercises
+
+On Thursday 2026-02-26, I went for outdoor jogging. The temperature
+was 71 degrees Fahrenheit, so it was "slightly degraded conditions"
+according to my [jogging
+guidelines](../../profile-information/physical-exercise/jogging-and-return-walking-with-history.md). The
+applicable threshold was therefore 1.67 miles, but I jogged around
+1.45 miles. Leg fatigue (and more specifically lower leg fatigue) was
+the constraining factor.
+
+This is very similar to the Tuesday 2026-02-24 incident. I'm inclined
+toward one of these hypotheses:
+
+* The slightly degraded conditions adjustment is inaccurate, and a
+  bigger adjustment is needed, at least if I am wearing a sweatshirt
+  when going outdoors at these temperatures.
+
+  It may be better to either jog indoors or not wear the sweatshirt.
+
+  I will continue to collect more data points and make a decision
+  after I do so.
+
+* I have a (probably temporary) reduction in jogging stamina.
+
+I also skipped strength exercises. This was due to a mixture of
+fatigue and wanting to conserve time for stuff later in the day.
