@@ -66,6 +66,10 @@ verify_medical_data:
 	python3 python/readings_verification_queries.py
 	python3 python/vaccine_administrations_verification_queries.py
 
+.PHONY: show_diff_food
+show_diff_food:
+	git diff sql/food_*.sql
+
 .PHONY: reset_food
 reset_food: reset_interpolated_food_data reset_food_data reset_food_metadata
 
