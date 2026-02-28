@@ -279,3 +279,9 @@ toward one of these hypotheses:
 
 I also skipped strength exercises. This was due to a mixture of
 fatigue and wanting to conserve time for stuff later in the day.
+
+## 2026-02-27: skipped all exercises
+
+On Friday 2026-02-27, I skipped all exercises. This was because I
+needed to do potatoes prep before my meal, and I also got delayed by
+some work stuff in the morning and early afternoon.
