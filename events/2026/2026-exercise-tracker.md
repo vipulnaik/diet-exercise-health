@@ -285,3 +285,17 @@ fatigue and wanting to conserve time for stuff later in the day.
 On Friday 2026-02-27, I skipped all exercises. This was because I
 needed to do potatoes prep before my meal, and I also got delayed by
 some work stuff in the morning and early afternoon.
+
+## 2026-02-28: reduced indoor jogging and abridged strength exercises
+
+On Saturday 2026-02-28, it was very hot both indoors and outdoors,
+resulting in heat-related exhaustion and fatigue that led to a lower
+level of exercise than usual. I did indoor jogging for 20 minutes,
+compared to my usual duration of 30 to 35 minutes. I also stopped my
+strength exercises early. I finished the dumb bells portion but
+skipped the kettlebell and push-ups as I was exhausted after the dumb
+bells portion.
+
+My number of reps for the 20 lb dumb bells was a little lower than
+usual. My hold durations for hand grippers earlier in the day were
+also a little lower than usual.
