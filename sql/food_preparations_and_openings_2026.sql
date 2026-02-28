@@ -242,12 +242,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-22','TJ Sauerkraut',1,1,null,null),
   ('2026-02-22','TJ Carb Savvy Tortillas',1,1,'2026-02-22',2),
   /* 2026-02-22 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-02-22','Eggplant',1,2,null,null),
-  ('2026-02-22','TJ Kale',1,2,null,null),
-  ('2026-02-22','TJ Carrots',1,2,null,null),
-  ('2026-02-22','Green bell pepper',3.5,2,null,null), /* about 0.5 of a green bell pepper was flimsy so I discarded it */
-  ('2026-02-22','Red bell pepper',2,2,null,null),
-  ('2026-02-22','Beefsteak tomato',7,2,null,null),
+  ('2026-02-22','Eggplant',1,2,'2026-02-27',1),
+  ('2026-02-22','TJ Kale',1,2,'2026-02-27',1),
+  ('2026-02-22','TJ Carrots',1,2,'2026-02-27',1),
+  ('2026-02-22','Green bell pepper',3.5,2,'2026-02-27',1), /* about 0.5 of a green bell pepper was flimsy so I discarded it */
+  ('2026-02-22','Red bell pepper',2,2,'2026-02-27',1),
+  ('2026-02-22','Beefsteak tomato',7,2,'2026-02-27',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-02-22','TJ Almond Milk',1,2,null,null),
   ('2026-02-23','TJ Carb Savvy Tortillas',1,1,'2026-02-23',2),
@@ -260,7 +260,15 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-24','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-02-25',2),
   ('2026-02-24','TJ Walnuts',1,2,null,null),
   ('2026-02-25','TJ Carb Savvy Tortillas',1,2,'2026-02-26',1),
-  ('2026-02-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-02-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-02-27',1),
   ('2026-02-26','TJ Roasted Seaweed',1,2,null,null),
-  ('2026-02-26','TJ Carb Savvy Tortillas',1,2,null,null);
+  ('2026-02-26','TJ Carb Savvy Tortillas',1,2,'2026-02-27',1),
+  /* 2026-02-27 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-02-27','Gold potatoes 5 lb',0.5,1,null,null),
+  ('2026-02-27','TJ Kale',1,1,null,null),
+  ('2026-02-27','TJ English Shelled Peas',2,1,null,null),
+  ('2026-02-27','Beefsteak tomato',4,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-02-27','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2026-02-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
