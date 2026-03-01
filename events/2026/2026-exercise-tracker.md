@@ -299,3 +299,12 @@ bells portion.
 My number of reps for the 20 lb dumb bells was a little lower than
 usual. My hold durations for hand grippers earlier in the day were
 also a little lower than usual.
+
+## 2026-03-01: skipped jogging and strength exercises
+
+On Sunday 2026-03-01, I skipped jogging and strength exercises. This
+was because of a Berkeley Bowl trip in the early afternoon that took
+up my usual jogging time slot, and also because I wanted to get enough
+time in the afternoon and evening to work on various other things.
+
+I did hand gripper exercises and breath holds.
