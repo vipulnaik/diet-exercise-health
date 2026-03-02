@@ -1,5 +1,17 @@
 # 2026-02-06 onward: right pelvic discomfort
 
+NOTE 2026-03-01: I consider this incident resolved; however, I have
+not yet had time to wrap up the documentation. Some of the things I
+plan to do in the final round of wrapping up:
+
+* Get another FoodMarble Aire 2 breath test reading
+
+* Document progression of inflammation (sores starting about two weeks
+  from the incident start)
+
+* Say more about exploration of hypotheses and potential steps to
+  reduce incidence in the future
+
 Sections of this document:
 
 * [Executive summary](#executive-summary)
