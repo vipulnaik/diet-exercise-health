@@ -41,5 +41,6 @@ insert into food_waste(waste_date, food_type, quantity, after_preparation_or_ope
   ('2025-09-26','Beefsteak tomato',2.5,false,'I had to throw away two whole tomatoes and parts of other tomatoes (totaling to about half a tomato) due to spoilage noticed when I was about to use them for eggplant meal prep.'),
   ('2025-10-13','TJ Organic Couscous',1,false,'This was a few weeks past its best by date, and I hadn''t been preparing couscous for a while, so I discarded it. This is likely the packet I had purchased over a year ago on 2024-05-24.'),
   ('2025-10-20','TJ Green Lentils',2,false,'I have not been cooking the green lentils for a while. They hit their best by date on 2025-10-15, and I don''t intend to cook them for a while, so I decided to discard them.'),
-  ('2026-02-22','Green bell pepper',0.5,false,'During eggplant meal prep, I had to discard parts of a green bell pepper because it was flimsy and spoiled. The rest of the green bell pepper was still fine.');
+  ('2026-02-22','Green bell pepper',0.5,false,'During eggplant meal prep, I had to discard parts of a green bell pepper because it was flimsy and spoiled. The rest of the green bell pepper was still fine.'),
+  ('2026-03-03','Beefsteak tomato',1,false,'When putting newly purchased food in the refrigerator, I noticed that the one left-over tomato from before was spoiling with about half of the outer surface being soft. I decided to throw the tomato away.');
   /* Double-check the date before committing */
