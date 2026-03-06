@@ -239,7 +239,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-02-21','TJ Walnuts',1,1,'2026-02-24',1),
   ('2026-02-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-22',2),
   ('2026-02-21','TJ Roasted Seaweed',1,2,'2026-02-25',2),
-  ('2026-02-22','TJ Sauerkraut',1,1,null,null),
+  ('2026-02-22','TJ Sauerkraut',1,1,'2026-03-05',1),
   ('2026-02-22','TJ Carb Savvy Tortillas',1,1,'2026-02-22',2),
   /* 2026-02-22 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-02-22','Eggplant',1,2,'2026-02-27',1),
@@ -296,5 +296,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-04','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   ('2026-03-04','TJ Carb Savvy Tortillas',1,2,null,null),
-  ('2026-03-04','TJ Walnuts',1,2,null,null);
+  ('2026-03-04','TJ Walnuts',1,2,null,null),
+  ('2026-03-05','TJ Sauerkraut',1,1,null,null);
   /* Double-check the date and meal index before committing */
