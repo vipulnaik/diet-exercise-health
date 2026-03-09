@@ -308,3 +308,12 @@ up my usual jogging time slot, and also because I wanted to get enough
 time in the afternoon and evening to work on various other things.
 
 I did hand gripper exercises and breath holds.
+
+## 2026-03-09: skipped all exercises
+
+On Monday 2026-03-09, after seven days of not skipping exercises, I
+skipped all exercises. This was to help me get back to a routine more
+aligned with daytime hours, after taking into account the daylight
+saving switch and the fact that because I had a busy week and didn't
+skip exercise, I ended up getting quite delayed (waking up late,
+sleeping late) in my daily rhythm.
