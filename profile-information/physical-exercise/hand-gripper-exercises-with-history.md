@@ -95,31 +95,37 @@ steps in quick succession:
 #### Repetition swap-in for this cycle
 
 I occasionally swap into this day of the cycle the following
-variant:
+variant. The first repetition where I fail to fully close is where I
+stop, and I record the number of successful repetitions and how far
+the final failed repetition got. I also set caps on the number of
+repetitions, so I stop after hitting the cap even if there were no
+failures; in such cases, I add `(capped)`.
 
 * Right hand on 150 lb: Hold and immediately release, and do
-  successive repetitions, as many as I can, with a cap of 10
-  repetitions.
+  successive repetitions, as many as I can, with a cap of 15
+  repetitions. I am generally able to just about hit the cap or fall
+  slightly short of it.
 
-* Left hand on 150 lb: Hold and immediately release, and do
-  successive repetitions, as many as I can, with a cap of 10
-  repetitions.
+* Left hand on 150 lb: Hold and immediately release, and do successive
+  repetitions, as many as I can, with a cap of 15 repetitions. I am
+  generally able to do about 5 to 10 repetitions before failure.
 
 * Right hand on 100 lb: Hold and immediately release, and do
-  successive repetitions, as many as I can, with a cap of 20
-  repetitions.
+  successive repetitions, as many as I can, with a cap of 30
+  repetitions. I am generally able to do about 25 to 30 repetitions
+  before failure.
 
 * Left hand on 100 lb: Hold and immediately release, and do
-  successive repetitions, as many as I can, with a cap of 20
-  repetitions.
+  successive repetitions, as many as I can, with a cap of 30
+  repetitions. I am generally able to do about 20 to 25 repetitions
+  before failure.
 
-As of 2025-12-20, I don't plan to do repetition swap-ins for other
+My de facto swap-in is about half the time, so each variant of the
+first day of the cycle happens on about 1/6 of the days.
+
+As of 2026-03-10, I don't plan to do repetition swap-ins for other
 exercises where the hold durations are not yet high enough, so that my
 focus is still on increasing hold durations first.
-
-I also haven't decided how often I will do this swap-in. It could be
-as often as half the time (so effectively both exercises will be once
-every 6 days) or it may be less frequent.
 
 ### Second of 3-day cycle: 150 lbs and 100 lb close-and-hold excluding specific fingers (focus on building)
 
@@ -564,3 +570,15 @@ gripper.
 I am not making any edits to the protocol as part of this update. My
 plan is to edit the protocol in a few months once I show a pattern of
 consistently closing the 200 lb hand gripper with my right hand.
+
+### Repetition swap-in exercise updates on 2026-03-10 (current caps and performance)
+
+On Tuesday 2026-03-10, I officially recorded updated caps for the
+repetition swap-in to reflect gradual updates that had been happening
+de facto. The cap for repetitions with the 150 lb hand gripper was
+increased gradually from 10 to 15 and the cap for the 100 lb hand
+gripper was increased gradually from 20 to 30 since the introduction
+of the exercise. I have recorded the current caps of 15 and 30 as of
+this update, without spelling out the trajectory of cap evolution. I
+have also recorded my approximate performance as of the time of the
+update.
