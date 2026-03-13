@@ -325,5 +325,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-11','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   ('2026-03-11','TJ Almond Milk',1,1,null,null),
-  ('2026-03-11','TJ Miso Ginger Broth',1,1,null,null);
+  ('2026-03-11','TJ Miso Ginger Broth',1,1,null,null),
+  /* 2026-03-12 rice prep (first meal) (added turmeric, cumin, salt; transitioned salt container with this prep) */
+  ('2026-03-12','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-03-12','Morton Iodized Sea Salt',1,1,null,null);
   /* Double-check the date and meal index before committing */
