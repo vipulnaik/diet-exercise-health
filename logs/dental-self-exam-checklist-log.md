@@ -347,3 +347,12 @@ occurring in that same interdental gap.
 
 I should pay more attention to that area, which I might be
 neglecting somewhat in my dental care.
+
+## 2026-03-12 (off-cycle floss pick pressure testing)
+
+On 2026-03-12, past midnight from 2026-03-11, just after using the
+floss pick for regular post-meal flossing, I did floss pick pressure
+testing. While there was some pressure pain in tender spots throughout
+the mouth, particularly on the lower middle, the pain subsided within
+a few minutes. I did not notice any bleeding when I brushed my teeth
+later at night and then the next day.
