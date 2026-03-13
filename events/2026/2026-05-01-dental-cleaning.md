@@ -1,7 +1,7 @@
-# 2026-04-29: dental cleaning
+# 2026-05-01: dental cleaning
 
 I have a dental cleaning appointment scheduled for Wednesday
-2026-04-29 at 1 PM at Total Health Dental Care at 3017 Telegraph
+2026-05-01 at 1 PM at Total Health Dental Care at 3017 Telegraph
 Avenue for a regular dental cleaning at 1 PM. The previous dental
 cleaning had been on [2025-10-22](../2025/2025-10-22-dental-cleaning.md).
 
@@ -13,12 +13,12 @@ Sections of this document:
 
 ### Appointment set on 2025-10-22 after check-in for that dental cleaning
 
-My appointment was set automatically, and I received an email about
-it, shortly after checking in for my dental cleaning on
-[2025-10-22](../2025/2025-10-22-dental-cleaning.md), even before the
-actual dental cleaning happened. The appointment time was likely
-chosen based on the 27 weeks gap that seems to be the default they
-adhere to.
+My appointment was set automatically for 2026-04-29 at 1 PM. I
+received an email about it, shortly after checking in for my dental
+cleaning on [2025-10-22](../2025/2025-10-22-dental-cleaning.md), even
+before the actual dental cleaning happened. The appointment time was
+likely chosen based on the 27 weeks gap that seems to be the default
+they adhere to.
 
 ### Creation of calendar event, reminders etc. on 2025-11-09
 
@@ -93,3 +93,16 @@ Here are the steps I took:
 
 * I set a calendar reminder to execute the dental self-exam checklist
   one week after the dental cleaning.
+
+### Appointment move to 2026-05-01
+
+On Thursday 2026-03-12, I was notified that the appointment was moved
+to 2026-05-01 at 1 PM due to the office being closed on 2026-04-29 in
+the afternoon.
+
+I moved all the calendar reminders by two days (keeping time constant)
+with the exception of the cancellation reminder that I moved from
+Friday to Monday, as cancellation can only be done on weekdays
+
+I also updated the maintenance window and reached out about on-call
+override.
