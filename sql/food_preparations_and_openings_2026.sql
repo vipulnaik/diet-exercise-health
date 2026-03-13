@@ -304,7 +304,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-05','TJ English Shelled Peas',2,2,'2026-03-10',2),
   ('2026-03-05','Beefsteak tomato',3,2,'2026-03-10',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-03-05','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-03-05','TJ Roasted Seaweed',1,2,'2026-03-12',2),
   ('2026-03-05','TJ Carb Savvy Tortillas',1,2,'2026-03-06',2),
   ('2026-03-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-03-07',2),
   ('2026-03-07','TJ Carb Savvy Tortillas',1,1,'2026-03-08',1),
@@ -313,7 +313,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-08','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-03-09',1),
   ('2026-03-08','TJ Carb Savvy Tortillas',1,2,'2026-03-10',1),
-  ('2026-03-09','TJ Walnuts',1,1,null,null),
+  ('2026-03-09','TJ Walnuts',1,1,'2026-03-12',2),
   ('2026-03-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-03-10',2),
   ('2026-03-10','TJ Carb Savvy Tortillas',1,1,'2026-03-11',1),
   /* 2026-03-11 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) (no carrots and extra tomatoes to compensate) */
@@ -330,5 +330,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-12','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-12','Morton Iodized Sea Salt',1,1,null,null),
-  ('2026-03-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-03-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-03-12','TJ Walnuts',1,2,null,null);
   /* Double-check the date and meal index before committing */
