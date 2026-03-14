@@ -4,18 +4,11 @@
 
 ### Build peak strength I can crush (to 200 lb)
 
-I can currently crush the 150 lb with both hands, but am unable to
-crush the 200 lb with either hand. My goal is to build toward the
-point where I can crush the 200 lb, even if it is just for a second.
-
-It may be that getting to 200 lb requires addressing other
-constraints, such as increasing protein intake or doing other
-complementary exercise. This is evidenced by the fact that progressing
-from 100 lb to 150 lb was relatively quick, but progressing from 150
-lb to 200 lb has been taking a while (though that's also partly
-because I haven't been trying that much). It would be good to
-understand and address these, though I would be fine if it takes a
-while to get to 200 lb.
+I can currently close the 150 lb hand gripper with each of my right
+hand and my left hand. For 200 lb, I am able to close it with my right
+hand about half the time, but am nowhere near closing it with my left
+hand. My goal is to get to a point where I am consistently closing 200
+lb with both my right hand and my left hand.
 
 Functional relevance: strong peak grip strength can be helpful in
 sticky situations. Probably the most likely real-world scenario where
@@ -24,34 +17,19 @@ strength is generally not needed, opening tight lids with wet soapy
 hands is one use case where I still don't have adequate peak strength
 in some cases.
 
-### Maintain how long I can keep the 150 lb and 100 lb closed
+### Maintain how long I can keep the 150 lb and 100 lb closed (and build for some finger exclusion cases)
 
-As of 2025-05-26, I can keep the 150 lb closed for about 15 to 31
-seconds in my right hand and about 7 to 25 seconds in my left hand. I
-can keep the 100 lb closed for about 20 to 45 seconds in my right hand
-and about 15 to 35 seconds in my left hand when done immediately after
-the 150 lb. The lower end of the duration range dropped a little bit
-in late April as a result of hand muscle pain, and then again stayed
-low in May, while the high end stayed stable. I attribute the
-reduction in the lower end to reduction in my available strength as a
-result of travel-related adjustment, with the reduction particularly
-salient during periods where I was making adjustments to my sleep
-cycle. The reduction may also have to do with changes to my diet and
-other exercise patterns in India.
+The durations that I can fully close the 150 lb and 100 lb with either
+hand (more details included with the protocol) are good enough, and in
+practice, trying to crush for longer will just end up using more and
+more of my time without clear benefits. Although I do expect some
+organic improvement in how long I can close, I am not focusing on
+building to longer durations.
 
-I think this duration is good enough, and in practice, trying
-to crush for longer will just end up using more and more of my time
-without clear benefits. Although I do expect some organic improvement
-in how long I can close, I am not focusing on building to longer
-durations.
-
-I can also close the 150 lb with my little finger excluded in my right
-hand; I can close the 100 lb with either the little finger or the
-index finger excluded in my right hand. The durations with fingers
-excluded are much shorter than the corresponding durations with all
-fingers. With my left hand, I have not been able to close the 150 lb
-excluding any fingers, and I am not consistent about closing the 100
-lb though I usually manage the little finger.
+The durations that I can close the 150 lb and 100 lb with fingers
+excluded are close to good enough except the left hand with 150 lb
+where I still am not able to fully close when excluding either the
+little finger or the index finger.
 
 Functional relevance: 150 lb is more than my body weight, so being
 able to grip 150 lb with a single hand for 15 to 25 seconds should be
@@ -63,34 +41,31 @@ has been helpful occasionally for carrying complex, unwieldy loads
 (where it's not just the weight of the load but the awkward way it
 hangs which means I need to use grip strength).
 
-## Current protocol and status as of 2025-12-29
+## Current protocol and status as of 2026-03-14
 
 ### First of 3-day cycle: 150 lb and 100 lb close-and-hold with all fingers (focus on maintaining)
 
 I do this sequence every alternating day in the morning, with the
-steps in quick succession:
+steps in quick succession. In all cases, I close (or get as far toward
+closed as I can) and hold (for as long as I can).
 
 * Right hand on 150 lb: I close and keep closed for about 19 to 40
-  seconds (as long as I can). I usually average about 22 to 30
-  seconds.
+  seconds. I usually average about 22 to 30 seconds.
 
 * Left hand on 150 lb: I close and keep closed for about 12 to 30
-  seconds (as long as I can). I usually average about 17 to 23
-  seconds.
+  seconds. I usually average about 17 to 23 seconds.
 
-* Right hand on 100 lb: I close and keep closed for about 25 to 45
-  seconds (as long as I can). I usually average about 30 to 40
-  seconds. If I were to start with the 100 lb instead of doing the 150
-  lb first, I would be able to do more, but then I would not be able
-  to do the 150 lb immediately aferward. That's why I start with the
-  150 lb.
+* Right hand on 100 lb: I close and keep closed for about 25 to 55
+  seconds. I usually average about 30 to 40 seconds. If I were to
+  start with the 100 lb instead of doing the 150 lb first, I would be
+  able to do more, but then I would not be able to do the 150 lb
+  immediately aferward. That's why I start with the 150 lb.
 
-* Left hand on 100 lb: I close and keep closed for about 20 to 40
-  seconds (as long as I can). I usually average about 25 to 35
-  seconds. If I were to start with the 100 lb instead of doing the 150
-  lb first, I would be able to do over 20 seconds, but then I would
-  not be able to do the 150 lb immediately aferward. That's why I
-  start with the 150 lb.
+* Left hand on 100 lb: I close and keep closed for about 20 to 45
+  seconds. I usually average about 25 to 35 seconds. If I were to
+  start with the 100 lb instead of doing the 150 lb first, I would be
+  able to do over 20 seconds, but then I would not be able to do the
+  150 lb immediately aferward. That's why I start with the 150 lb.
 
 #### Repetition swap-in for this cycle
 
@@ -129,73 +104,81 @@ focus is still on increasing hold durations first.
 
 ### Second of 3-day cycle: 150 lbs and 100 lb close-and-hold excluding specific fingers (focus on building)
 
-* Right hand on 150 lb: I try to close and keep closed (or as far
-  toward closed as I can get) excluding my little finger and then
-  separately excluding my index finger.
+* Right hand on 150 lb: I try to close (or get as far toward closed as
+  I can) and hold (for as long as I can) excluding my little finger
+  and then separately excluding my index finger.
 
-  * Excluding the little finger: I close and keep closed for 0 to 10
-    seconds.
+  * Excluding the little finger: I close and keep closed for about 5
+    to 20 seconds.
 
   * Excluding the index finger: I am not consistently able to close;
-    when I do succeed, I keep closed for 0 to 5 seconds.
+    when I do succeed, I keep closed for about 0 to 8 seconds. If I
+    close part of the way, I am generally able to keep in that
+    position for about 0 to 8 seconds.
 
-* Left hand on 150 lb: I try to close and keep closed (or as far
-  toward closed as I can get) excluding my little finger and then
-  separately excluding my index finger.
+* Left hand on 150 lb: I try to close (or get as far toward closed as
+  I can) and hold (for as long as I can) excluding my little finger
+  and then separately excluding my index finger.
 
-  As of 2025-12-20, I have not been able to fully close with the left
-  hand excluding either of the fingers.
+  * Excluding the little finger: I get somewhere between 1/2 and 5/6
+    of the way from parallel to fully closed and am able to hold for
+    about 0 to 5 seconds.
+
+  * Excluding the index finger: I get somewhere between parallel and
+    1/2 of the way from parallel to fully closed and am able to hold
+    for about 0 to 5 seconds.
 
 * Right hand on 100 lb with specific fingers excluded: I try to close
-  and keep closed (or as far toward closed as I can get) excluding my
-  little finger and index finger (together and separately).
+  (or get as far toward closed as I can) and hold (for as long as I
+  can) excluding my little finger and index finger (together and
+  separately).
 
   * Excluding both the little finger and index finger: I close and
-    keep closed for 0 to 5 seconds.
+    keep closed for about 0 to 8 seconds.
 
-  * Excluding the little finger: I close and keep
-    closed for 10 to 25 seconds.
+  * Excluding the little finger: I close and keep closed for 10 to 25
+    seconds.
 
-  * Excluding the index finger: I close and keep
-    closed for 10 to 25 seconds.
+  * Excluding the index finger: I close and keep closed for about 10
+    to 25 seconds.
 
 * Left hand on 100 lb with specific fingers excluded: I try to close
-  and keep closed (or as far toward closed as I can get) excluding my
-  little finger and index finger (together and separately).
+  (or get as far toward closed as I can) and hold (for as long as I
+  can) excluding my little finger and index finger (together and
+  separately).
 
   * Excluding both the little finger and index finger: I try to go as
     far as I can toward closing and hold for as long. I can usually go
     1/2 or more of the way from parallel to fully closed and hold at
     that position for 0 to 5 seconds.
 
-  * Excluding the little finger: I close and keep closed for 5 to 20
-    seconds.
+  * Excluding the little finger: I close and keep closed for about 5
+    to 20 seconds.
 
-  * Excluding the index finger: I close and keep closed for 3 to 20
-    seconds.
+  * Excluding the index finger: I close and keep closed for about 5 to
+    20 seconds.
 
 ### Third of 3-day cycle: 200 lb close (focus on building -- very far from being able to do this)
 
-* Right hand on 200 lb: I try to close the 200 lb as far as possible
-  and hold it at the maximum I was able to get it to for as long as
-  possible. I record both how far I got in closing (as a fraction of
-  the way from parallel to fully closed) and how long I was able to
-  hold in that position.
+* Right hand on 200 lb: I try to close (or get as far toward closed as
+  I can) and hold (for as long as I can).
 
-  As of 2025-12-20, I have been able to get between 2/3 and 5/6 of the
-  way and hold for anywhere from 4 to 12 seconds, generally getting to
-  about 5 to 8 seconds.
+  * I get somewhere between 5/6 of the way from parallel to fully
+    closed and fully closed, with a close-to-even split between the
+    extremes.
 
-* Left hand on 200 lb: I try to close the 200 lb as far as possible
-  and hold it at the maximum I was able to get it to for as long as
-  possible. I record both how far I got in closing (as a fraction of
-  the way from parallel to fully closed) and how long I was able to
-  hold in that position.
+  * I am able to hold for about 0 to 5 seconds (generally, the longer
+    hold duration of around 4 to 5 seconds is when I close 5/6, and
+    the shorter hold duration of around 3 to 4 seconds is when I close
+    fully)
 
-  As of 2025-10-18, I can go from slightly beyond parallel to 1/2 of
-  the way from parallel to fully closed (I usually manage 1/3 of the
-  way from parallel to fully closed) and hold for about 5 to 9
-  seconds.
+* Left hand on 200 lb: I try to close (or get as far toward closed as
+  I can) and hold (for as long as I can).
+
+  * I get somewhere between parallel and 1/2 of the way from parallel
+    to fully closed, with the "1/2 of the way" the modal occurrence.
+
+  * I am able to hold for about 0 to 5 seconds.
 
 * Both hands together on 200 lb with right hand on the inside: I try to
   close the 200 lb with both hands together, with the right hand on
@@ -203,20 +186,22 @@ focus is still on increasing hold durations first.
   close successfully, I do a second attempt (after attempting the next
   bullet point) and hold closed again for as long as possible.
 
-  As of 2025-12-20, I am usually able to close at least once, and
-  often twice. The first hold time is somewhere between 0 seconds and
-  15 seconds, usually about 5 to 8 seconds. The second hold time, if I
-  succeed, is generally somewhere between 0 seconds and 3 seconds.
+  As of 2026-03-14, I am usually able to close at least once, and
+  often twice. The first hold time is about 5 to 15 seconds, usually
+  over 8 seconds. The second hold time, if I succeed, is generally
+  somewhere between 0 seconds and 5 seconds.
 
 * Both hands together on 200 lb with left hand on the inside: I try to
   close the 200 lb as far as possible with both hands, with the left
   hand on the inside, and hold it at the maximum I was able to get it
   to for as long as possible.
 
-  As of 2025-12-20, I am able to go anywhere from 1/3 to 3/4 of the
+  As of 2026-03-14, I am able to go anywhere from 1/3 to 3/4 of the
   way from parallel to fully closed and hold for anywhere from 1 to 5
   seconds. How far I can go depends inversely on how long I held the
-  previous round.
+  previous round. I do very occasionally fully close with the left
+  hand on the inside, but in such cases my hold time is about 0
+  seconds.
 
 ### Occasional break from cycle for dynamometer grip strength measurement
 
@@ -582,3 +567,48 @@ of the exercise. I have recorded the current caps of 15 and 30 as of
 this update, without spelling out the trajectory of cap evolution. I
 have also recorded my approximate performance as of the time of the
 update.
+
+### Updates on 2026-03-14
+
+On Saturday 2026-03-14, I reviewed the documented extent-of-closing
+and duration ranges for all hand gripper exercises other than the
+repetition swap-in that I had reviewed on 2026-03-10. I compared with
+recent performance and updated the values. I also did a little bit of
+language clean-up to make it less repetitive and easier to update in
+the future. I also updated the goals and functional relevance section,
+removing outdated paragraphs and changing the language to point to the
+protocol for exact numerical values that may keep evolving.
+
+Here's a qualitative summary of the biggest changes, ordered from most
+to least significant:
+
+* 200 lb in right hand: Previously, I could never fully close. Now, I
+  can close about half the time.
+
+* 150 lb in right hand excluding fingers: The ranges moved upward
+  somewhat for both finger exclusions.
+
+* 150 lb in left hand excluding fingers: I still cannot fully
+  close. However, I previously didn't record the extent of partial
+  closing and the duration of holding with partial closure, and now I
+  do have records, so I was able to add in extent-of-closing and hold
+  duration ranges that I didn't have before.
+
+* 100 lb (right hand and left hand, all fingers): My typical range
+  didn't change, but the overall range is higher due to more
+  occasional cases of longer hold durations.
+
+Apart from these, I saw moderate improvements for some of the other
+cases (within 150 lb and 200 lb), with the lower end of the duration
+range going up (while the higher end stayed about the same). Unlike
+the higher end going up, as it did for 100 lb, which reflects more
+stamina and peak potential, the lower end going up shows increased
+consistency.
+
+A story that can be extracted from this trajectory is that at the low
+end (100 lb) my performance is mostly steady with increases in
+occasionally achieved peak durations. With 150 lb (excluding fingers)
+and 200 lb (even with all closing), there is still scope for greater
+extent-of-closing and consistency of achieving that extent-of-closing,
+and the improvements in the recent past have been on those fronts, as
+opposed to the durations themselves.
