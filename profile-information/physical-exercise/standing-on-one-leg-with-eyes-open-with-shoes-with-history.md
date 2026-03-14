@@ -39,9 +39,10 @@ About 2 minutes with shoes on is reasonable, and I both doubt I'll
 need more, and think the time cost of longer stretches is high (since
 I generally cannot multiplex this time with other useful stuff).
 
-I appear to already be at this level for the right leg. As of
-2025-11-29, I haven't done enough testing on the left leg to know if I
-am already at this level for the left leg.
+As of 2026-03-14, I appear to already be at this level for both legs,
+based on a few confirmatory data points for the right leg and even
+fewer for the left leg. I need more data points to be confident. I've
+explained some of the limitations in the history section.
 
 ## Protocol
 
@@ -57,7 +58,14 @@ Otherwise, I should rely on my overall intuition about elapsed time
 Since I might arrive in time to do only one leg, I should make sure to
 do the other leg next time.
 
+If the washer or dryer gets done before I lose my balance, I may
+interrupt even though I am not done, or I may choose to continue for a
+little longer. When documenting, I should note down whether I was
+interrupted or reached the end.
+
 ## History
+
+### Starting out in November 2025
 
 My first recorded execution was on 2025-11-18, and my next recorded
 execution was on 2025-11-27. In both cases, I was able to do about 2
@@ -66,3 +74,30 @@ minutes on the right leg. For the left leg, I did 1 minute on
 able to go further) and didn't get a chance on 2025-11-27. So, as of
 2025-11-29, my right leg is at about 2 minutes and my left leg is at
 at least 1 minute (and maybe at 2 minutes).
+
+### Update on 2026-03-14
+
+I have been doing this exercise off and on for the past few
+months. There are two related considerations that make it hard to
+interpret my performance:
+
+* Sporadic protocol execution: In many cases, particularly when I am
+  busier, the washer or dryer round is already completed by the time I
+  arrive at the laundry room, so I don't get to do the exercise.
+
+* Early interruption: Even in the cases I start the exercise, the
+  washer or dryer round often ends before I am done, because even when
+  I arrive before the round is done, the gap is less than 2
+  minutes. This is more the case with the left leg that I do after the
+  right leg, and although I should in principle alternate, the
+  sporadic nature of protocol execution makes it hard to remember
+  state and alternate properly.
+
+As a result, I have only a few data points for the right leg that help
+confirm that I am above the threshold of 2 minutes, and only one data
+point above 2 minutes on my left leg. On the other hand, I don't have
+any data points where I actually ended the exercise without
+interruption below 2 minutes; all the cases where I ended below 2
+minutes were due to interruption. Therefore, I tentatively assess that
+I am already above the threshold of 2 minutes for this exercise on
+both legs, but more confirmatory data is needed.
