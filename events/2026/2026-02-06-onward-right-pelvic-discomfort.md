@@ -418,8 +418,8 @@ dose on 2026-02-18 and stopped taking Atrantil 2026-02-19 onward.
 ### Udupi Palace spinach masala dosa pause (maybe forever)
 
 This is now the fourth time that Udupi Palace spinach masala dosa
-consumption has been followed by an acute symptom. Here are the two
-previous incidents:
+consumption has been followed by an acute symptom. Here are the four
+incidents:
 
 * [Diarrhea shortly after spinach masala dosa consumption after the
   left wisdom tooth removal in July
