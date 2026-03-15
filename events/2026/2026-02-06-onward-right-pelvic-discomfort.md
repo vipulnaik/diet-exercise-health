@@ -472,6 +472,7 @@ Palace spinach masala dosa. Here are the purchase counts by year as of
 mid-March 2026 (the 2021 data only includes data started 2021-03-10):
 
 ```
+mysql> select year(purchase_date) as purchase_year, ceiling(month(purchase_date) / 3) as purchase_quarter, count(1) as freq from food_purchases where food_type = 'Udupi Palace spinach masala dosa' group by purchase_year, purchase_quarter order by purchase_year, purchase_quarter;
 +---------------+------------------+------+
 | purchase_year | purchase_quarter | freq |
 +---------------+------------------+------+
