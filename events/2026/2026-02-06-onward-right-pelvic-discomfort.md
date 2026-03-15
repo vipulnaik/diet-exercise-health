@@ -1,16 +1,8 @@
 # 2026-02-06 onward: right pelvic discomfort
 
-NOTE 2026-03-01: I consider this incident resolved; however, I have
-not yet had time to wrap up the documentation. Some of the things I
-plan to do in the final round of wrapping up:
-
-* Get another FoodMarble Aire 2 breath test reading
-
-* Document progression of inflammation (sores starting about two weeks
-  from the incident start)
-
-* Say more about exploration of hypotheses and potential steps to
-  reduce incidence in the future
+NOTE 2026-03-15 (past midnight from 2026-03-14): The [Changes going
+forward](#changes-going-forward) section still needs to be completed,
+and other recent edits are being checkpointed without full review.
 
 Sections of this document:
 
@@ -20,6 +12,7 @@ Sections of this document:
 * [Development of symptoms](#development-of-symptoms)
 * [Deeper dive into right pelvic discomfort](#deeper-dive-into-right-pelvic-discomfort)
 * [Appendix and methanogen hypothesis-chasing](#appendix-and-methanogen-hypothesis-chasing)
+* [Changes going forward](#changes-going-forward)
 * [Data appendix](#data-appendix)
 
 Related past incidents:
@@ -155,7 +148,7 @@ In any case, the tightness became less salient after a few minutes
 and I went to sleep.
 
 ### Stabilization of symptoms on 2026-02-07
- 
+
 After waking up on Saturday 2026-02-07, I noticed intermittent
 abdominal discomfort and increased flatulence, including some
 foul-smelling flatulence a few times (later in the evening / at night).
@@ -237,7 +230,51 @@ More details of these are available in private notes.
 It's noteworthy that all these occurred on the right side, though that
 might be a coincidence.
 
+### Evolution of right pelvic soreness into pimples
+
+Around the week of 2026-02-16, the inflammation/redness gave way to
+what appear to be pimples in the area, including four visible ones
+(and perhaps some smaller ones that healed by the time I decided to
+count and record them on 2026-03-15, past midnight from
+2026-03-14). My characterization as pimple (a opposed to cyst or boil)
+is based on comparing the appearance to [this
+guide](https://www.theminorsurgerycenter.com/blog/cyst-vs-pimple-vs-boil).
+
+* They are not cysts, because cysts are below the surface and only
+  cuases the surface to swell and maybe turn bluish. That does not
+  match either the color or the texture of any of the examples.
+
+* They're not boils because they did not show growth, they were not
+  particularly tender or painful, they were not warm to the touch, and
+  they did not discharge pus.
+
+* This leaves pimples, and they all seem to roughly match the
+  description of a pimple: "small, raised bump on the skin surface"
+  with "red or pink inflammation around the bump" (plus the other
+  criteria). One of them appears to have a white/yellow head. The
+  others don't seem to have any clear separate head color.
+
+As of 2026-03-15 (past midnight from 2026-03-14) the pimples all seem
+to still be present, so it looks like they are taking some time to
+resolve. The generalized redness of the area seems to have resolved.
+
+There are many kinds of pimples, and based on my understanding, these
+pimples are likely cystic. This would explain their long healing time
+and fit better with the observations about the discomfort that seems
+to be not just on the skin surface but tied deeper down in the skin.
+
+The concrete nature of the pimples means that further investigation,
+including a potential medical consult, can be better directed. At this
+point, based on simple Googling, and the fact that my other symptoms
+have normalized, I do not think an investigation needs to be
+prioritized.
+
 ## Deeper dive into right pelvic discomfort
+
+NOTE: This section was written on 2026-02-11 before the pelvic
+discomfort and inflammation evolved into pimples, and essentially
+describes the experience in the first week or so after the start of
+the right pelvic discomfort.
 
 ### Surface examination
 
@@ -353,6 +390,12 @@ range of variation I have in normal times. A fourth reading I took on
 2026-02-16 gave a methane fermentation score of 0.4, corresponding to
 a methane level of 2 ppm, suggesting continued recovery.
 
+I stopped taking readings for a while. I took another periodic
+measurement on 2026-03-14 and got a methane fermentation score of 0.4,
+which was the same as 2026-02-16, suggesting that the level had
+stabilized. The value of 0.4 is higher than my modal value of 0, but
+it's still within the range of normal fluctuation.
+
 See
 [foodmarble_aire_2_breath_tests.sql](../../sql/foodmarble_aire_2_breath_tests.sql)
 for more breath test result details.
@@ -367,7 +410,195 @@ to make it clear if the Atrantil is working. I took another 2 Atrantil
 capsules with my second meal on 2026-02-11 and continued to take 2
 capsules per day (both in the same meal) until 2026-02-14.
 
-On 2026-02-15 I reduced the dose to 1 capsule per day.
+On 2026-02-15 I reduced the dose to 1 capsule per day. I took my last
+dose on 2026-02-18 and stopped taking Atrantil 2026-02-19 onward.
+
+## Changes going forward
+
+### Udupi Palace spinach masala dosa pause (maybe forever)
+
+This is now the fourth time that Udupi Palace spinach masala dosa
+consumption has been followed by an acute symptom. Here are the two
+previous incidents:
+
+* [Diarrhea shortly after spinach masala dosa consumption after the
+  left wisdom tooth removal in July
+  2023](../2023/2023-07-05-wisdom-tooth-removal-left-side.md): I had
+  the spinach masala dosa on 2023-07-08 at 6:30 PM, and had an unusual
+  watery bowel movement (the first of many) on Monday 2023-07-10,
+  which was the start of a period of feeling unwell that took a couple
+  of weeks to resolve. While clindamycin was determined to be the
+  primary driving factor, I suspect that the spinach masala dosa may
+  have been a contributor, perhaps by introducing some of the microbes
+  that clindamycin selectively does not attack.
+
+* [Reduced bowel movement and abdominal pain after spinach masala dosa
+  consumption in April 2024](../2024/2024-04-25-abdominal-pain.md): I
+  had the spinach masala dosa on 2024-04-24 evening and experienced
+  the acute abdominal pain on 2024-04-25 in the late morning after a
+  reduced and atypical bowel movement earlier that morning. This is
+  the most acute and discombobulating pain I have experienced in my
+  adult life (wisdom tooth removal itself may have been more painful
+  in other ways but was something that was prepared for and it did not
+  interfere with my ability to think and act). Here again, there were
+  other factors that might have contributed, but the proximity of the
+  spinach masala dosa timing-wise suggests that it played some role.
+
+* [Anal swelling in September
+  2024](../2024/2024-09-20-anal-swelling.md): I had the spinach masala
+  dosa on 2024-09-18 and started developing swelling symptoms on
+  2024-09-20. However, unlike the other three incidents that are
+  one-of-a-kind (I have not had other similar incidents before or
+  after them) anal swelling is something I've had in September 2021
+  after takeout from Mehak Indian Cuisine (see
+  [here](../2021/2021-09-12-anal-swelling.md)) and in November 2024
+  with no outside food trigger (see
+  [here](../2024/2024-11-25-anal-swelling.md)). I therefore don't
+  consider this to be as much of a mark against the spinach masala
+  dosa than the other incidents.
+
+* This incident, where the right pelvic discomfort and other symptoms
+  appeared starting the night of the spinach masala dosa consumption
+  and continued over the coming days.
+
+To assess how typical or atypical this is, it may be helpful to think
+about both the overall frequency of spinach masala dosa and the
+frequency of incidents of this sort.
+
+#### Frequency of Udupi Palace spinach masala dosa consumption
+
+I have records starting 2021-03-10 of food purchases, including Udupi
+Palace spinach masala dosa. Here are the purchase counts by year as of
+mid-March 2026 (the 2021 data only includes data started 2021-03-10):
+
+```
++---------------+------------------+------+
+| purchase_year | purchase_quarter | freq |
++---------------+------------------+------+
+|          2021 |                1 |    4 |
+|          2021 |                2 |   16 |
+|          2021 |                3 |   14 |
+|          2021 |                4 |   18 |
+|          2022 |                1 |   16 |
+|          2022 |                2 |   15 |
+|          2022 |                3 |   17 |
+|          2022 |                4 |   17 |
+|          2023 |                1 |   14 |
+|          2023 |                2 |   16 |
+|          2023 |                3 |    9 |
+|          2023 |                4 |   15 |
+|          2024 |                1 |    5 |
+|          2024 |                2 |    3 |
+|          2024 |                3 |    1 |
+|          2024 |                4 |    2 |
+|          2025 |                1 |    1 |
+|          2025 |                3 |    1 |
+|          2025 |                4 |    3 |
+|          2026 |                1 |    1 |
++---------------+------------------+------+
+20 rows in set (0.01 sec)
+```
+
+Until around July 2023, I got Udupi Palace spinach masala dosa takeout
+(almost) every time I went to Trader Joe's for grocery shopping, with
+exceptions driven by cases where I went shopping on a Tuesday when
+Udupi Palace wasn't open (and I generally tried not to go on Tuesdays
+for that reason). After the diarrhea after the wisdom tooth removal, I
+took a break and then resumed consumption but now I was a bit less
+consistent about always getting the takeout whenever I went to Trader
+Joe's. In Q1 2024, I only had takeout 5 times compared to 15+ prior to
+Q3 2023 -- this is partly explained by travel to India for four weeks,
+but even accounting for that, it's low.
+
+After the April 2024 abdominal discomfort, I took a break from Udupi
+Palace spinach masala dosa for about four months, then resumed but at
+a frequency of once every few weeks rather than regularly. The idea
+was to just get the occasional outside food to stay in touch with the
+experience rather than as a part of my regular food.
+
+If we look at the period prior to July 2023, we have 147 consumptions
+with no reported issues. If we look at the period July 2023 onward, we
+have 41 consumptions with 4 reported issues.
+
+#### Overall frequency and severity of issues
+
+How often do I have issues of this severity?
+
+First, the specific incidents I listed are all unique (in the sense of
+nothing similar having happened to me in the few years prior to them)
+with the exception of anal swelling that has happened two other times.
+
+Two of the incidents (diarrhea and acute abdominal pain) are extreme
+in scary ways, one in terms of the fatigue and lengthy recovery
+period, the other in terms of the acuteness of pain and inability to
+think and act during the period. I would consider these the two
+scariest incidents health-wise since at least 2020; the only
+comparable incident in the years shortly before that was the [2018
+head, neck, jaw, tooth
+pain](../2018/2018-12-head-neck-jaw-tooth-pain.md) where dental
+factors, a cold, and general stress seem to all have collided.
+
+Even the right pelvic discomfort incident that this document is about,
+while not scary (largely because of my confidence navigating things as
+a result of my prior research), does feel adjacent to things that
+could have been scary.
+
+#### Tentative conclusion about correlation and causality
+
+My tentative conclusion is that both sides (spinach masala dosa
+consumption and acute incidents) are rare enough that the overlap is
+meaningful, indicating a high correlation and suggestive of a causal
+connection.
+
+If I had been having spinach masala dosa as regularly over the past
+few years as I had in 2021 and 2022, the timing matching with acute
+health incidents would be less definitive. Similarly, if I were prone
+to acute health incidents at high frequency, the fact that some of
+them happened after spinach masala dosa would not say much.
+
+In Bayesian terms, `P(acute health incident | recently consumed
+spinach masala dosa) >= P(acute health incident)`, i.e., recent
+consumption of spinach masala dosa significantly increases the
+probability of an acute health incident.
+
+Correlation isn't always causation, and there may be confounding
+factors that cause me both to get the spinach masala dosa *and* have
+an acute health incident. One confounding factor that has been present
+since July 2023, that wasn't present before: I might get outside food
+particularly in cases where things have been busy and I haven't had as
+much time to cook, which often correlates with things being more
+stressful and potentially with reduced sleep. This was less of a
+confounder before July 2023 because I was having Udupi Palace spinach
+masala dosa regularly, regardless of fluctuations in
+busyness. However, whereas the shoe fits somewhat for the right pelvic
+discomfort incident, I don't think this confounder is strong enough on
+the whole to invalidate the rest of the evidence.
+
+#### Pause decision
+
+Based on all these considerations, my decision is to pause spinach
+masala dosa consumption. Since I anyway do not rely on outside food as
+part of my regular food cycle, this is doable for the most part. This
+might mean some cases where I am out of cooked food and need to have a
+meal that is based on the ready-to-eat portions (tortillas, walnuts,
+almond milk, miso ginger broth, sauerkraut/seaweed, and vegan yogurt),
+usually with at least rice. This may not feel like the most satisfying
+meal, but I expect it should be sufficient to bridge me for one meal
+until I have time to cook. Given that my overall workload is
+manageable, I expect to not need to have to go without cooking food
+for an extended period of time.
+
+My hope is to find other foods and other risk reduction strategies so
+as to be able to integrate outside food more safely.
+
+### Amelioration strategies when eating outside food
+
+#### Digestive enzymes
+
+Claude suggested that I have digestive enzymes along with outside food
+that I don't usually have.
+
+TO BE CONTINUED
 
 ## Data appendix
 
@@ -375,6 +606,9 @@ NOTE: The word "appendix" here is not referring to appendix as a body
 organ, but appendix as a document section.
 
 ### Sleep and waking times
+
+Below I include sleep and waking times for a few days leading up to
+and a few days after the start of right pelvic discomfort.
 
 Night of | Sleep time | Waking time the next morning | Sleep duration | Needed to wake up by specific time
 -- | -- | -- | -- | --

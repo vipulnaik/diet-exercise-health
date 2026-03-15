@@ -718,10 +718,11 @@ the day after the abdominal pain, is suggestive of this.
   had a normal bowel movement from Monday 2024-04-22 to Wednesday
   2024-04-24.
 
-* The outside food on 2024-04-24 from Udupi Palace may not have agreed
-  with me. This would be weird, though, since I've had this food
-  several times without issues, so unless there was something
-  specifically wrong this time, I don't see the problem.
+* The outside food (spinach masala dosa) on 2024-04-24 from Udupi
+  Palace may not have agreed with me. This would be weird, though,
+  since I've had this food several times without issues, so unless
+  there was something specifically wrong this time, I don't see the
+  problem.
 
 Either of these, or just some other food that I regularly consume, may
 have contributed either in terms of the food itself, or some sort of

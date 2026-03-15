@@ -92,6 +92,8 @@ Sections of this document:
 
 ## Ongoing incidents
 
+I have no ongoing incidents.
+
 You can see the list of incidents for 2026 in the [events/2026
 folder](../events/2026). Similar incidents for past years can be
 accessed in year-specific subfolders under the parent folder.
