@@ -150,7 +150,10 @@ For anal swelling issues, it is safer to pause the consumption of
 sauerkraut, kimchi, and walnuts until at least two days after any of
 these is true:
 
-* I have bleeding in stool or when wiping.
+* I have bleeding in stool or when wiping (excluding tailbone bleed),
+  that seems at least somewhat related to pain (pure painless bleeding
+  is something where I can decide on a case-by-case bleeding; pausing
+  is usually not necessary if this is the only symptom).
 
 * I have frequent urge for anal contractions (anal spasms).
 
