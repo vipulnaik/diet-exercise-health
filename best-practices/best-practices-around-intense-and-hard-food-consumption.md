@@ -94,8 +94,8 @@ gap can be determined based on other circumstances. 14 days is safest;
 
 Since the mouth is an area where sauerkraut, kimchi, and nuts can
 cause injuries or aggravate them, limit the consumption of these foods
-prior to dental cleaning appointments. The limit as of now is six
-days; see [best practices around dental cleaning
+prior to dental cleaning appointments. See [best practices around
+dental cleaning
 appointments](best-practices-around-dental-cleaning-appointments.md)
 for more details.
 
