@@ -80,3 +80,10 @@ My goal is to play about 1-3 times a week.
   percentile. I think continued practice of typing is paying off
   slowly and steadily; though there's a lot of fluctuation in my
   scores, the overall distribution seems to be moving upward.
+
+* 2026-03-14: 113 wpm moving average, placing me at the 98.73th
+  percentile. This is the only Human Benchmark exercise that I have
+  managed to keep doing with reasonable regularity over the past few
+  months. My overall performance seems fairly stable, with a decent
+  amount of fluctuation across days; the overall picture has not
+  changed much since the last recording on 2025-08-05.
