@@ -39,9 +39,13 @@ tract. Chewing carefully is important to not injure the mouth itself.
 ### For moderately intense foods, limit to one food type and to one meal per day
 
 My general practice is to have sauerkraut or kimchi with my morning
-meal. I generally have kimchi once every 3 or 4 days and sauerkraut on
-the remaining days. Sauerkraut has fewer ingredients and I have a
-pattern of tolerating it better.
+meal. When I have purchased a kimchi bottle, I generally have kimchi
+once every 3 or 4 days and sauerkraut on the remaining
+days. Sauerkraut has fewer ingredients and I have a pattern of
+tolerating it better. However, as of early 2026, I have stopped the
+practice of stocking kimchi, because I consume it slowly and it once
+ended up developing mold, which was likely partly due to it being open
+for long.
 
 ### For very intense foods, do not have more than one meal every 4 days, and try to avoid consumption of moderately intense foods for the day of to two days after
 
