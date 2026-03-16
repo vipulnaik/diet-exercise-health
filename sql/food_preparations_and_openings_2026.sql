@@ -329,7 +329,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-03-12 rice prep (first meal) (added turmeric, cumin, salt; transitioned salt container with this prep) */
   ('2026-03-12','Lundberg Sustainable California White Basmati Rice',1,1,'2026-03-15',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-03-12','Morton Iodized Sea Salt',1,1,null,null),
+  -- ('2026-03-12','Morton Iodized Sea Salt',1,1,null,null), -- This turned out to not be iodized sea salt but rather "natural sea salt" without iodine; I noticed on 2026-03-15 evening and hope to start iodized sea salt on 2026-03-16!
   ('2026-03-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-03-13',2),
   ('2026-03-12','TJ Walnuts',1,2,null,null),
   ('2026-03-13','TJ Roasted Seaweed',1,2,null,null),
