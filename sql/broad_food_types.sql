@@ -30,4 +30,12 @@ insert into broad_food_types(broad_food_type, notes) values
   ('Vegan probiotic yogurt','Yogurt based on almond, coconut, or a combination, and with probiotics; ideal as a probiotic when I have an upset stomach'),
   ('Table salt','NaCl, possibly with some small amounts of iodine or other things added'),
   ('Lentils','Rich in a variety of proteins'),
-  ('Seafood','Stuff like seaweed and algae; good wth iodine, salt, and prebiotics for butyrate (SCFA) production');
+  ('Seafood','Stuff like seaweed and algae; good wth iodine, salt, and prebiotics for butyrate (SCFA) production'),
+  ('Condiment','Generic bucket for things like turmeric, cumin, cinnamon etc. Salt and oil are separate categories'),
+  ('Indian restaurant food','Broad category for all prepared food from Indian restaurants with the exception of white rice (which is in the white rice category, sharing the category with home-prepped white rice)'),
+  ('Thai restaurant food','Broad category for all prepared food from Thai restaurants with the exception of white rice (which is in the white rice category, sharing the category with home-prepped white rice)'),
+  ('Vietnamese restaurant food','Broad category for all prepared food from Vietnamese restaurants with the exception of white rice (which is in the white rice category, sharing the category with home-prepped white rice)'),
+  ('Japanese restaurant food','Broad category for all prepared food from Japanese restaurants with the exception of white rice (which is in the white rice category, sharing the category with home-prepped white rice)'),
+  ('Healthy-marketed restaurant food','Broad category for all prepared food from places like Kitava and Tender Greens that have a positioning and marketing as healthy places'),
+  ('Tea','Tea and its variants'),
+  ('Uncategorized restaurant food','Broad category for restaurant food for which we do not have a more specific category (such as Indian, Thai, Vietnamese, Japanese, or healthy-marketed)');

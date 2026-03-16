@@ -882,56 +882,56 @@ insert into food_types(short_name, long_name, url,
    validation. */
 
 /* Spices, condiments, and seasonings -- these don't have nutritional information to speak of, or it's very hard to abstract out the nutritional information */
-insert into food_types(short_name, long_name, url, notes) values
-  ('Lemon','Lemon',null,'I just squeeze drops from the lemon rather than having the whole lemon, so any nutritional information for the whole lemon would be misleading.'),
-  ('Himalayan Fine Pink Salt','Himalayan Fine Pink Salt',null,'I bought this as a one-off for saltwater rinsing for the Portland trip, so including it in nutritional information would be misleading.'),
-  ('TJ Turmeric','Trader Joe''s Turmeric Powder 2 oz','https://www.amazon.com/Trader-Joes-Turmeric-2-Pack/dp/B00JU4BQ1Y','I use this turmeric powder for seasoning my prepared meals.'),
-  ('TJ Cumin','Trader Joe''s Ground Cumin 1.7 oz','https://www.amazon.com/Trader-Joes-Ground-Cumin-NET/dp/B07G1BV593','I use this ground cumin for seasoning my prepared meals.'),
-  ('TJ Cayenne Pepper','Trader Joe''s Cayenne Pepper','https://www.ebay.com/itm/175363234738','I use a little of this cayenne pepper as seasoning. It''s generally less in amount than the turmeric and cumin, and I might skip it in case of a sore throat.'),
-  ('TJ Cinnamon','Trader Joe''s Ground Cinnamon','https://www.amazon.com/Trader-Joes-Ground-Cinnamon-Pack/dp/B07TH176BQ','I put a small amount of this as seasoning. I started using this as there was some left over in my group house. I also accidentally bought another bottle on 2023-08-11, so I may continue using it for some time.');
+insert into food_types(short_name, long_name, url, broad_food_type, notes) values
+  ('Lemon','Lemon',null,null,'I just squeeze drops from the lemon rather than having the whole lemon, so any nutritional information for the whole lemon would be misleading.'),
+  ('Himalayan Fine Pink Salt','Himalayan Fine Pink Salt',null,'Table salt','I bought this as a one-off for saltwater rinsing for the Portland trip, so including it in nutritional information would be misleading.'),
+  ('TJ Turmeric','Trader Joe''s Turmeric Powder 2 oz','https://www.amazon.com/Trader-Joes-Turmeric-2-Pack/dp/B00JU4BQ1Y','Condiment','I use this turmeric powder for seasoning my prepared meals.'),
+  ('TJ Cumin','Trader Joe''s Ground Cumin 1.7 oz','https://www.amazon.com/Trader-Joes-Ground-Cumin-NET/dp/B07G1BV593','Condiment','I use this ground cumin for seasoning my prepared meals.'),
+  ('TJ Cayenne Pepper','Trader Joe''s Cayenne Pepper','https://www.ebay.com/itm/175363234738','Condiment','I use a little of this cayenne pepper as seasoning. It''s generally less in amount than the turmeric and cumin, and I might skip it in case of a sore throat.'),
+  ('TJ Cinnamon','Trader Joe''s Ground Cinnamon','https://www.amazon.com/Trader-Joes-Ground-Cinnamon-Pack/dp/B07TH176BQ','Condiment','I put a small amount of this as seasoning. I started using this as there was some left over in my group house. I also accidentally bought another bottle on 2023-08-11, so I may continue using it for some time.');
 
-insert into food_types(short_name, long_name, notes) values
+insert into food_types(short_name, long_name, broad_food_type, notes) values
   /* pending data entry */
-  ('Roma tomato','Trader Joe''s Roma tomato','PENDING TODO fill in full data'),
-  ('Urban Platter Sauerkraut Raw','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage, 450g / 15.8oz [Raw, Artisanal, Plant-Based, Preservative Free]','Data at https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NC754H4/ but label is hard to read off fully; I should fill data in from the physical jar at some point. Just putting a dummy entry for now for validation.'),
-  ('So Good Oat Milk 200 ml','So Good Oat Beverage Unsweetened 200ml','See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D5BL419H/ for details'),
-  ('So Good Soy Milk 200 ml','So Good Soy Beverage Unsweetened 200ml','See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D4ZFVYQ9/ for details'),
+  ('Roma tomato','Trader Joe''s Roma tomato','Tomato','PENDING TODO fill in full data'),
+  ('Urban Platter Sauerkraut Raw','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage, 450g / 15.8oz [Raw, Artisanal, Plant-Based, Preservative Free]','Sauerkraut / Kimchi','Data at https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NC754H4/ but label is hard to read off fully; I should fill data in from the physical jar at some point. Just putting a dummy entry for now for validation.'),
+  ('So Good Oat Milk 200 ml','So Good Oat Beverage Unsweetened 200ml',null,'See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D5BL419H/ for details'),
+  ('So Good Soy Milk 200 ml','So Good Soy Beverage Unsweetened 200ml','Soy milk','See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D4ZFVYQ9/ for details'),
   /* Udupi Palace */
-  ('Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa with sambhar and white chutney (not including free red chutney)','I generally order takeout for this when going to Trader Joe''s for grocery shopping.'),
-  ('Udupi Palace spinach masala dosa free red chutney','Free red chutney that accompanies Udupi Palace spinach masala dosa','I am treating this as a separate item because I generally consume it separately after finishing the rest of the food'),
-  ('Udupi Palace spring dosa','Udupi Palace spring dosa with sambhar, white chutney, and red chutney','I got this by mistake once when ordering the spinach masala dosa.'),
-  ('Udupi Palace bisi bele bath','Udupi Palace bisi bele bath (dine-in) with papad, raita, and pickles','I generally have this dish when dining in at Udupi Palace.'),
-  ('Udupi Palace sambhar','Udupi Palace sambhar','I sometimes order this as an extra dish when dining in at Udupi Palace.'),
-  ('Udupi Palace sambhar (small)','Udupi Palace sambhar (small)','I sometimes order this as an extra dish when dining in at Udupi Palace.'),
-  ('Udupi Palace medu vada','Udupi Palace medu vada','I had this once when dining in with a friend at Udupi Palace.'),
+  ('Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa with sambhar and white chutney (not including free red chutney)','Indian restaurant food','I generally order takeout for this when going to Trader Joe''s for grocery shopping.'),
+  ('Udupi Palace spinach masala dosa free red chutney','Free red chutney that accompanies Udupi Palace spinach masala dosa','Indian restaurant food','I am treating this as a separate item because I generally consume it separately after finishing the rest of the food'),
+  ('Udupi Palace spring dosa','Udupi Palace spring dosa with sambhar, white chutney, and red chutney','Indian restaurant food','I got this by mistake once when ordering the spinach masala dosa.'),
+  ('Udupi Palace bisi bele bath','Udupi Palace bisi bele bath (dine-in) with papad, raita, and pickles','Indian restaurant food','I generally have this dish when dining in at Udupi Palace.'),
+  ('Udupi Palace sambhar','Udupi Palace sambhar','Indian restaurant food','I sometimes order this as an extra dish when dining in at Udupi Palace.'),
+  ('Udupi Palace sambhar (small)','Udupi Palace sambhar (small)','Indian restaurant food','I sometimes order this as an extra dish when dining in at Udupi Palace.'),
+  ('Udupi Palace medu vada','Udupi Palace medu vada','Indian restaurant food','I had this once when dining in with a friend at Udupi Palace.'),
   /* Mehak Indian Cuisine */
-  ('Mehak Indian Cuisine standard set','Mehak Indian Cuisine standard set: two colored rices (complementary), aloo gobi, aloo saag, vegetable masala, two dal soups','I used to get one takeout of this every 2-3 weeks from September 2020 to (approximately) May 2023. I stopped after switching to part-time work and adding potatoes to my home meal prep.'),
-  ('Mehak Indian Cuisine chana masala','Mehak Indian Cuisine chana masala','I have occasionally ordered this as an additional dish in Mehak Indian Cuisine takeout, on top of my standard set.'),
-  ('Mehak Indian Cuisine bengan bharta','Mehak Indian Cuisine bengan bharta','I have occasionally ordered this as an additional dish in Mehak Indian Cuisine takeout, on top of my standard set.'),
-  ('Mehak Indian Cuisine dal soup','Mehak Indian Cuisine dal soup','The dal soup is part of my standard set (2 dal soups in a standard set) but I have on occasion ordered additional dal soups.'),
+  ('Mehak Indian Cuisine standard set','Mehak Indian Cuisine standard set: two colored rices (complementary), aloo gobi, aloo saag, vegetable masala, two dal soups','Indian restaurant food','I used to get one takeout of this every 2-3 weeks from September 2020 to (approximately) May 2023. I stopped after switching to part-time work and adding potatoes to my home meal prep.'),
+  ('Mehak Indian Cuisine chana masala','Mehak Indian Cuisine chana masala','Indian restaurant food','I have occasionally ordered this as an additional dish in Mehak Indian Cuisine takeout, on top of my standard set.'),
+  ('Mehak Indian Cuisine bengan bharta','Mehak Indian Cuisine bengan bharta','Indian restaurant food','I have occasionally ordered this as an additional dish in Mehak Indian Cuisine takeout, on top of my standard set.'),
+  ('Mehak Indian Cuisine dal soup','Mehak Indian Cuisine dal soup','Indian restaurant food','The dal soup is part of my standard set (2 dal soups in a standard set) but I have on occasion ordered additional dal soups.'),
   /* Bangkok Thai Cuisine */
-  ('Bangkok Thai Cuisine white rice','Bangkok Thai Cuisine white rice','I used to get this as takeout from Bangkok Thai Cuisine occasionally, generally when I was running out of tortillas and wanted to get something quickly. I stopped after moving to a different part of town that was farther from the restaurant.'),
-  ('Bangkok Thai Cuisine yellow curry tofu','Bangkok Thai Cuisine yellow curry tofu','I used to get this as takeout from Bangkok Thai Cuisine occasionally. I stopped after moving to a different part of town that was farther from the restaurant.'),
+  ('Bangkok Thai Cuisine white rice','Bangkok Thai Cuisine white rice','White rice','I used to get this as takeout from Bangkok Thai Cuisine occasionally, generally when I was running out of tortillas and wanted to get something quickly. I stopped after moving to a different part of town that was farther from the restaurant.'),
+  ('Bangkok Thai Cuisine yellow curry tofu','Bangkok Thai Cuisine yellow curry tofu','Thai restaurant food','I used to get this as takeout from Bangkok Thai Cuisine occasionally. I stopped after moving to a different part of town that was farther from the restaurant.'),
   /* Pakwan */
-  ('Pakwan meal set','Pakwan meal set (dal, chana aloo, aloo sag, mixed veg curry)','I sometimes order this meal combination when I''m on a trip to San Francisco and have time to order takeout from Pakwan.'),
-  ('Pakwan basmati rice','Pakwan basmati rice','On at least one occasion where I ordered takeout from Pakwan, I included basmati rice in the takeout. I didn''t do so on other occasions.'),
+  ('Pakwan meal set','Pakwan meal set (dal, chana aloo, aloo sag, mixed veg curry)','Indian restaurant food','I sometimes order this meal combination when I''m on a trip to San Francisco and have time to order takeout from Pakwan.'),
+  ('Pakwan basmati rice','Pakwan basmati rice','White rice','On at least one occasion where I ordered takeout from Pakwan, I included basmati rice in the takeout. I didn''t do so on other occasions.'),
   /* Tender Greens */
-  ('Tender Greens happy vegan salad','Tender Greens happy vegan salad','I occasionally visit Tender Greens for dine-in meals with others, and generally order the happy vegan salad during such meals.'),
+  ('Tender Greens happy vegan salad','Tender Greens happy vegan salad','Healthy-marketed restaurant food','I occasionally visit Tender Greens for dine-in meals with others, and generally order the happy vegan salad during such meals.'),
   /* Revival Bar & Kitchen */
-  ('Revival Bar & Kitchen paella','Revival Bar & Kitchen paella','I had this dish at the end-of-year group dinner for the company I worked for at the time.'),
+  ('Revival Bar & Kitchen paella','Revival Bar & Kitchen paella','Uncategorized restaurant food','I had this dish at the end-of-year group dinner for the company I worked for at the time.'),
   /* Tuk Tuk Thai */
-  ('Tuk Tuk Thai jasmine rice','Tuk Tuk Thai jasmine rice','I had this by takeout once when I was feeling unwell and needed rice, but didn''t have a stock of rice and didn''t want to incur the time cost of buying + cooking rice.'),
+  ('Tuk Tuk Thai jasmine rice','Tuk Tuk Thai jasmine rice','White rice','I had this by takeout once when I was feeling unwell and needed rice, but didn''t have a stock of rice and didn''t want to incur the time cost of buying + cooking rice.'),
   /* Imm Thai Street Food */
-  ('Half spicy eggplant tofu and half yellow curry tofu','Imm Thai Street Food half spicy eggplant tofu and half yellow curry tofu','I had this special combination at a dine-in I did, sharing with another person, at Imm Thai Street Food.'),
+  ('Half spicy eggplant tofu and half yellow curry tofu','Imm Thai Street Food half spicy eggplant tofu and half yellow curry tofu','Thai restaurant food','I had this special combination at a dine-in I did, sharing with another person, at Imm Thai Street Food.'),
   /* Kitava */
-  ('Kitava Power Bowl','Kitava Power Bowl','I had this on 2023-11-29 when uenxpectedly dining in at Kitava.'),
+  ('Kitava Power Bowl','Kitava Power Bowl','Healthy-marketed restaurant food','I had this on 2023-11-29 when uenxpectedly dining in at Kitava.'),
   /* Tay Ho Oakland */
-  ('Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom','Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom','I had this on 2024-03-27 as part of lunch with work colleagues near the Oakland WeWork.'),
+  ('Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom','Tay Ho Oakland Vegan Braised Eggplant, Tofu & Mushroom','Vietnamese restaurant food','I had this on 2024-03-27 as part of lunch with work colleagues near the Oakland WeWork.'),
   /* India House Oregon */
-  ('India House Oregon rice','India House Oregon rice','I had this for takeout on 2024-06-03 in Portland.'),
-  ('India House Oregon aloo sag','India House Oregon aloo sag','I had this for takeout on 2024-06-03 in Portland.'),
-  ('Dil Se Indian Cuisine half chana masala and half aloo gobi','Dil Se Indian Cuisine half chana masala and half aloo gobi','I had this for takeout on 2024-06-04 in Portland.'),
+  ('India House Oregon rice','India House Oregon rice','White rice','I had this for takeout on 2024-06-03 in Portland.'),
+  ('India House Oregon aloo sag','India House Oregon aloo sag','Indian restaurant food','I had this for takeout on 2024-06-03 in Portland.'),
+  ('Dil Se Indian Cuisine half chana masala and half aloo gobi','Dil Se Indian Cuisine half chana masala and half aloo gobi','Indian restaurant food','I had this for takeout on 2024-06-04 in Portland.'),
   /* Asha Tea House */
-  ('Asha Tea House ginger honey tea','Asha Tea House ginger honey tea','I have this on the occasional visit to Asha Tea House, usually whne meeting up with other people.'),
+  ('Asha Tea House ginger honey tea','Asha Tea House ginger honey tea','Tea','I have this on the occasional visit to Asha Tea House, usually when meeting up with other people.'),
   /* We Be Sushi */
-  ('We Be Sushi Vegetable Tempura','We Be Sushi Vegetable Tempura','I had this once for a meal with work colleagues on Friday 2025-11-07.');
+  ('We Be Sushi Vegetable Tempura','We Be Sushi Vegetable Tempura','Japanese restaurant food','I had this once for a meal with work colleagues on Friday 2025-11-07.');
