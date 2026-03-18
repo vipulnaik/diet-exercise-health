@@ -317,3 +317,10 @@ aligned with daytime hours, after taking into account the daylight
 saving switch and the fact that because I had a busy week and didn't
 skip exercise, I ended up getting quite delayed (waking up late,
 sleeping late) in my daily rhythm.
+
+## 2026-03-17: reduced at-home jogging
+
+On Tuesday 2026-03-17, I did reduced at-home jogging, jogging for
+about 21 minutes instead of the usual 30 minutes or more. This was
+because I had already made a Berkeley Bowl trip earlier in the day,
+and also because it was fairly hot.
