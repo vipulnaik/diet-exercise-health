@@ -324,3 +324,9 @@ On Tuesday 2026-03-17, I did reduced at-home jogging, jogging for
 about 21 minutes instead of the usual 30 minutes or more. This was
 because I had already made a Berkeley Bowl trip earlier in the day,
 and also because it was fairly hot.
+
+## 2026-03-18: skipped all exercises
+
+On Wednesday 2026-03-18, I skipped all exercises so that I could fit
+in a Trader Joe's trip in the early afternoon and then do eggplant
+meal prep in the evening.
