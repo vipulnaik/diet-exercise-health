@@ -1,9 +1,9 @@
 create table food_waste(
-  `waste_date` date not null,
-  `food_type` varchar(200),
-  `quantity` decimal(8,4),
-  `after_preparation_or_opening` boolean,
-  `notes` varchar(2000)
+  waste_date date not null,
+  food_type varchar(200),
+  quantity decimal(8,4),
+  after_preparation_or_opening boolean,
+  notes varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- I started keeping track of food waste on 2021-10-31!

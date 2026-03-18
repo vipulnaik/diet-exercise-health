@@ -1,6 +1,6 @@
 create table broad_food_types(
-  `broad_food_type` varchar(200) primary key not null,
-  `notes` varchar(2000)
+  broad_food_type varchar(200) primary key not null,
+  notes varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into broad_food_types(broad_food_type, notes) values
