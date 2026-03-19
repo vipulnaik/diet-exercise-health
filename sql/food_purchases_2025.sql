@@ -605,7 +605,7 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   ('2025-10-06','Beefsteak tomato',4),
   /* 2025-10-08 (Wednesday) Berkeley Bowl; total cost $66.50; checkout at 6:37 PM; paid by credit card; 12 items in transaction but 2 were Seventh Generation dish soap bottles so only 10 food items */
   ('2025-10-08','Lundberg Sustainable California White Basmati Rice',3),
-  ('2025-10-08','Morton Iodized Sea Salt',1),
+  ('2025-10-08','Morton Natural Sea Salt',1), /* I intended to buy iodized but bought natural instead */
   ('2025-10-08','Kite Hill Greek Style Plant-Based Yogurt',6),
   /* 2025-10-12 (Sunday) Trader Joe's; total cost $54.45; checkout at 5:03 PM; paid by credit card; 25 items in transaction */
   ('2025-10-12','TJ Kale',1),

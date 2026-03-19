@@ -74,19 +74,19 @@ show_diff_food:
 reset_food: reset_interpolated_food_data reset_food_data reset_food_metadata
 
 .PHONY: read_food
-read_food: read_food_metadata read_food_data interpolate_food_data verify_food
+read_food: read_food_metadata read_food_data estimate_current_stocks interpolate_food_data verify_food
 
 .PHONY: reset_food_preparations_and_openings_and_associated
 reset_food_preparations_and_openings_and_associated: reset_interpolated_food_data reset_food_preparations_and_openings_data
 
 .PHONY: read_food_preparations_and_openings_and_associated
-read_food_preparations_and_openings_and_associated: read_food_preparations_and_openings_data interpolate_food_data verify_food_preparations_and_openings_data verify_interpolated_food_data
+read_food_preparations_and_openings_and_associated: read_food_preparations_and_openings_data estimate_current_stocks interpolate_food_data verify_food_preparations_and_openings_data verify_interpolated_food_data verify_current_stocks
 
 .PHONY: reset_food_purchases_and_associated
 reset_food_purchases_and_associated: reset_food_purchases_data
 
 .PHONY: read_food_purchases_and_associated
-read_food_purchases_and_associated: read_food_purchases_data verify_food_purchases_data
+read_food_purchases_and_associated: read_food_purchases_data estimate_current_stocks verify_food_purchases_data verify_current_stocks
 
 .PHONY: verify_food
 verify_food: verify_food_metadata verify_food_data
@@ -124,6 +124,7 @@ reset_food_purchases_data:
 
 .PHONY: reset_other_food_data
 reset_other_food_data:
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists checkpointed_food_stocks;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_pauses;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_waste;"
 
@@ -155,6 +156,7 @@ read_food_purchases_data:
 
 .PHONY: read_other_food_data
 read_other_food_data:
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/checkpointed_food_stocks.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_pauses.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_waste.sql
 
@@ -173,7 +175,7 @@ interpolate_food_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/interpolated_nutrient_consumption.sql
 
 .PHONY: verify_food_data
-verify_food_data: verify_food_preparations_and_openings_data verify_interpolated_food_data verify_food_purchases_data
+verify_food_data: verify_food_preparations_and_openings_data verify_interpolated_food_data verify_food_purchases_data verify_current_stocks
 
 .PHONY: verify_food_preparations_and_openings_data
 verify_food_preparations_and_openings_data:
@@ -195,3 +197,11 @@ verify_food_purchases_data:
 	grep 20 sql/food_purchases_2025.sql | grep -v 2025; :
 	grep 20 sql/food_purchases_2026.sql | grep -v 2026; :
 	python3 python/food_purchases_verification_queries.py
+
+.PHONY: estimate_current_stocks
+estimate_current_stocks:
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/estimate_current_stocks.sql
+
+.PHONY: verify_current_stocks
+verify_current_stocks:
+	python3 python/current_stocks_verification_queries.py
