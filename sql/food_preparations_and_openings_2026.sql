@@ -349,7 +349,18 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-16','TJ Miso Ginger Broth',1,1,null,null),
   ('2026-03-16','TJ Walnuts',1,2,null,null),
   ('2026-03-16','TJ Carb Savvy Tortillas',1,2,'2026-03-17',2),
-  ('2026-03-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-03-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-03-18',2),
   ('2026-03-17','TJ Sauerkraut',1,1,null,null),
-  ('2026-03-18','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2026-03-18','TJ Carb Savvy Tortillas',1,1,null,null),
+  /* 2026-03-18 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-03-18','Eggplant',1,2,null,null),
+  ('2026-03-18','TJ Kale',1,2,null,null),
+  ('2026-03-18','TJ Carrots',1,2,null,null),
+  ('2026-03-18','Green bell pepper',4,2,null,null),
+  ('2026-03-18','Red bell pepper',2,2,null,null),
+  ('2026-03-18','Beefsteak tomato',9,2,null,null), /* checkpoint: stock down to 0 */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-03-18','Morton Iodized Sea Salt',1,2,null,null), /* opened with eggplant meal prep */
+  ('2026-03-18','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-03-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
