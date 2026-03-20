@@ -41,3 +41,9 @@ to meet a few people including two former work colleagues. I ended up
 not eating but just participated in some of the conversation. On the
 way back, I stopped at Trader Joe's for my usual food purchases, that
 I recorded [here](../../sql/food_purchases_2026.sql).
+
+## 2026-03-20
+
+In the late morning / early afternoon, I made an administrative
+trip. On the way back, I stopped at Walgreens for priority toiletries
+purchases.
