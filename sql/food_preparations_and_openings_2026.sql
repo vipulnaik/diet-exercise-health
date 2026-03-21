@@ -362,5 +362,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-18','Morton Iodized Sea Salt',1,2,null,null), /* opened with eggplant meal prep */
   ('2026-03-18','TJ Roasted Seaweed',1,2,null,null),
-  ('2026-03-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
+  ('2026-03-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  /* 2026-03-20 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2026-03-20','Lundberg Sustainable California White Jasmine Rice',1,2,null,null);
   /* Double-check the date and meal index before committing */
