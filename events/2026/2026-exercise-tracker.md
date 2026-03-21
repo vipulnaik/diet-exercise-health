@@ -330,3 +330,8 @@ and also because it was fairly hot.
 On Wednesday 2026-03-18, I skipped all exercises so that I could fit
 in a Trader Joe's trip in the early afternoon and then do eggplant
 meal prep in the evening.
+
+## 2026-03-20: skipped all exercises
+
+On Friday 2026-03-20, I skipped all exercises so that I could fit in
+an administrative trip in the late morning / early afternoon.
