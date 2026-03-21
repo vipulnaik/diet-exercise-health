@@ -273,15 +273,15 @@ Goal of exercise: build
 
 When I started this exercise in February 2025, my aim was to build
 toward consistently doing at least 3 minutes without having to lift
-and reposition either foot. As of November 2025, I have increased the
-goal to 4 minutes.
+and reposition either foot. As of March 2026, I have increased the
+goal to 5 minutes.
 
 See [here](standing-on-toes-with-eyes-open-with-history.md) for more
 details.
 
 ### Outdoors, with shoes
 
-Goal of exercise: maintain being able to stand on toes wth eyes open
+Goal of exercise: maintain being able to stand on toes with eyes open
 with shoes at 3 minutes or more
 
 See [here](standing-on-toes-with-eyes-open-with-shoes-with-history.md)

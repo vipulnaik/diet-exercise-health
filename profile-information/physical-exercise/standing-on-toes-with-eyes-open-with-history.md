@@ -9,7 +9,7 @@ For the with-shoes variant of this exercise, see
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-toes-with-eyes-open duration at at least 4 minutes
+### Maintain standing-on-toes-with-eyes-open duration at at least 5 minutes
 
 The exercise of standing on toes with eyes open is complementary to
 the exercise of standing on toes with eyes closed. The main difference
@@ -20,16 +20,18 @@ and stamina of the leg. With that said, there does seem to be a
 positive correlation between the two exercises.
 
 My goal is to maintain a standing-on-toes-with-eyes-open duration of
-at least 4 minutes. I believe this is a reasonable amount of time,
+at least 5 minutes. I believe this is a reasonable amount of time,
 though I don't have very clear reasons for picking that particular
 duration.
 
 The main benefits are as follows:
 
-* The exercise improves the strength and stamina of my toes. This
-  strength and stamina is useful for extended walking and running
-  because there's a huge amount of weight on the toes during the
-  takeoff portion.
+* The exercise improves the strength and stamina of my toes. The
+  exercise also helps improve the strength and stamina of the
+  gastrocnemius and soleus muscles that are involved in plantar
+  flexion. This strength and stamina is useful for extended walking
+  and running because there's a huge amount of weight on the toes
+  during the takeoff portion.
 
 * The exercise may help me with extended standing, by strengthening
   one portion of the feet.
@@ -73,3 +75,7 @@ On 2025-11-11, I decided to increase the threshold to 4 minutes. There
 had been just one intervening execution since the last threshold
 update (at 250 seconds) but on the whole I feel like pushing this up
 is helpful for improving toe strength and stamina.
+
+On 2026-03-21, after three consecutive executions where I exceeded 5
+minutes for the first try within the execution, Iincreased the
+threshold to 5 minutes.
