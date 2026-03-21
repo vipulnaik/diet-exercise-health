@@ -105,7 +105,11 @@ accessed in year-specific subfolders under the parent folder.
 My resting, seated heart rate, as measured by my Omron blood pressure
 machine as well as my Zacurate pulse oximeter, is generally 42-60 bpm
 in the morning in summer (before eating or exercise), and a little
-higher under comparable conditions in the winter.
+higher under comparable conditions in the winter. NOTE: My most recent
+heart rate readings taken 2026-03-21 (68 bpm and 69 bpm) and
+2026-01-25 (64 bpm and 63 bpm) violate this pattern, and if the
+violation continues for the next few readings, I may need to
+re-evaluate my range.
 
 My heart rate goes up by about 10-15 bpm when I stand up, and then
 stabilizes down to about 5 bpm higher than my seated heart rate.
@@ -134,12 +138,13 @@ other one-off readings in response to health events or other
 incidents) in
 [blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
 
-As of 2026-01-25, the most recent morning heart rate readings from the
-BP machine (before exercise or eating) were on 2026-01-25 with
-readings of 64 bpm and 63 bpm respectively. The ambient temperature at
-the time I took the readings was 61 degrees Fahrenheit, but the
-morning had been somewhat colder, which might explain why these
-readings were higher than my usual range of 42 to 60 bpm.
+As of 2026-03-21, the most recent morning heart rate readings from the
+BP machine (before exercise or eating) were on 2026-03-21 with
+readings of 68 bpm and 69 bpm respectively. The ambient temperature at
+the time I took the readings was 75 degrees Fahrenheit, which might
+have played a role in the high heart rate relative to my
+usual. However, the previous readings on 2026-01-25 also had
+higher-than-usual heart rates of 64 bpm and 63 bpm respectively.
 
 I also record my heart rate and SpO2 as part of my monthly pulse
 oximeter readings (as well as other one-off readings in response to
@@ -201,7 +206,9 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting morning blood pressure readings (taken
-2026-01-25) were 102/71 and 101/72 respectively.
+2026-03-21) were 100/65 and 99/64 respectively. NOTE: By "morning"
+here I mean before exercise, eating, or other significant activity. In
+some cases, the time of the readings was after noon.
 
 My most recent afternoon blood
 pressure readings (taken 2024-12-14 about 2.5 hours after finishing a
