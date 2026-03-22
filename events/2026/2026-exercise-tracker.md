@@ -335,3 +335,12 @@ meal prep in the evening.
 
 On Friday 2026-03-20, I skipped all exercises so that I could fit in
 an administrative trip in the late morning / early afternoon.
+
+## 2026-03-22: skipped all exercises
+
+On Sunday 2026-03-22, I skipped all exercises so that I could make a
+trip to Trader Joe's in the early afternoon and do meal prep later in
+the evening. While I could still have hit hand gripper exercises in, I
+decided to do periodic writing practice in the time I would normally
+do hand gripper exercises, and since there's an overlap in the muscles
+exercised, it made sense to skip hand gripper exercises.
