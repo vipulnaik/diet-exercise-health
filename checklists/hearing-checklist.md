@@ -183,7 +183,7 @@ Bone conduction headphones, left ear:
 
 Bone conduction headphones, right ear:
 
-- [ ] Bone conduction headphones, start the video, setting volume to half the max and balance to all on left ear
+- [ ] Bone conduction headphones, start the video, setting volume to half the max and balance to all on right ear
 - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
 - [ ] Estimate the point at which I lose all sense of musical tone
   - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
