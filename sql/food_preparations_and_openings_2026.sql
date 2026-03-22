@@ -337,10 +337,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-14','TJ Carb Savvy Tortillas',1,2,'2026-03-15',2),
   ('2026-03-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-03-16',2),
   /* 2026-03-15 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-03-15','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2026-03-15','TJ Kale',1,2,null,null),
-  ('2026-03-15','TJ English Shelled Peas',2,2,null,null),
-  ('2026-03-15','Beefsteak tomato',4,2,null,null),
+  ('2026-03-15','Gold potatoes 5 lb',0.5,2,'2026-03-21',1),
+  ('2026-03-15','TJ Kale',1,2,'2026-03-21',1),
+  ('2026-03-15','TJ English Shelled Peas',2,2,'2026-03-21',1),
+  ('2026-03-15','Beefsteak tomato',4,2,'2026-03-21',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-15','TJ Carb Savvy Tortillas',1,2,'2026-03-16',2),
   /* 2026-03-16 rice prep (first meal) (added turmeric, cumin, salt; I used the iodized salt (not natural sea salt) pending purchase of iodized sea salt) */
