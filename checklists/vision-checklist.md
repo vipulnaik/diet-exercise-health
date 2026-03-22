@@ -57,6 +57,6 @@ END OF SECTION: (2) Medium distance vision
   - [ ] First, make sure the screen brightness and ambient lighting are such that I cannot detect the color change of the reaction time test when looking diametrically opposite the screen; this is to make sure I can only pass the reaction time test by detecting color changes on the screen
     - In dark environments, I may need to put the light on, otherwise the color change on screen is visible through reflection of the light elsewhere even when I am not facing the screen
   - [ ] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my left (so I would be using the left eye effectively)
-  - [ ] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my left (so I would be using the left eye effectively)
+  - [ ] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my right (so I would be using the right eye effectively)
 
 END OF SECTION: (3) Peripheral vision
