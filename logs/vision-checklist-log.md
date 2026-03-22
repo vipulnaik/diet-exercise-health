@@ -191,7 +191,7 @@ for each test set.
 
 END OF SECTION: Outdoor vision test (to be done at every execution)
 
-## (2) Medium distance vision (done 2025-12-19)
+### (2) Medium distance vision (done 2025-12-19)
 
 - Functional slightly-longer distance vision test: Read vaseline and supplement bottle texts (30 to 35 inches)
   - [x] Both eyes
