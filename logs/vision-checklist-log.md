@@ -207,14 +207,14 @@ END OF SECTION: Outdoor vision test (to be done at every execution)
 
 END OF SECTION: (2) Medium distance vision
 
-## 2026-03-22
+## 2026-03-22 and 2026-03-23
 
-### Outdoor vision test (to be done at every execution)
+### Outdoor vision test (to be done at every execution) (done 2026-03-23)
 
 - Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
-  - [ ] Both eyes
-  - [ ] Left eye only
-  - [ ] Right eye only
+  - [x] Both eyes
+  - [x] Left eye only
+  - [x] Right eye only
 
 END OF SECTION: Outdoor vision test (to be done at every execution)
 
