@@ -206,3 +206,26 @@ END OF SECTION: Outdoor vision test (to be done at every execution)
     - Similar to last time, was not able to read the finest lines for a while and needed to get to about 4-5 feet to be able to read them relatively clearly
 
 END OF SECTION: (2) Medium distance vision
+
+## 2026-03-22
+
+### Outdoor vision test (to be done at every execution)
+
+- Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
+  - [ ] Both eyes
+  - [ ] Left eye only
+  - [ ] Right eye only
+
+END OF SECTION: Outdoor vision test (to be done at every execution)
+
+### (3) Peripheral vision (done 2026-03-22)
+
+- Peripheral vision check
+  - [x] First, make sure the screen brightness and ambient lighting are such that I cannot detect the color change of the reaction time test when looking diametrically opposite the screen; this is to make sure I can only pass the reaction time test by detecting color changes on the screen
+    - In dark environments, I may need to put the light on, otherwise the color change on screen is visible through reflection of the light elsewhere even when I am not facing the screen
+  - [x] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my left (so I would be using the left eye effectively)
+    - Reaction times 348 ms, 515 ms, 321 ms, 378 ms (so 3 of the 4 were under 500 ms)
+  - [x] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my right (so I would be using the right eye effectively)
+    - Reaction times 323 ms, 356 ms, 442 ms, 349 ms (so all 4 under 500 ms)
+
+END OF SECTION: (3) Peripheral vision
