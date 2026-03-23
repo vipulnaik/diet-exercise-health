@@ -1,12 +1,35 @@
 # 2025-12-22: reduced hearing in left ear
 
-I had reduced hearing in my left ear in the morning and early
-afternoon on 2025-12-22, but it resolved by around 8:10 PM (as judged
-subjectively by headphone balance), and I verified the resolution
-using minimum audible volume and balance tests at around 11:40 PM.
+## Overall summary
 
-See also: [2024-11-29: reduced hearing in left
-ear](../2024/2024-11-29-reduced-hearing-in-left-ear.md).
+* I had reduced hearing in my left ear in the morning and early
+  afternoon on 2025-12-22, but it resolved by around 8:10 PM (as judged
+  subjectively by headphone balance), and I verified the resolution
+  using minimum audible volume and balance tests at around 11:40 PM.
+
+  See also: [2024-11-29: reduced hearing in left
+  ear](../2024/2024-11-29-reduced-hearing-in-left-ear.md).
+
+* A similar pattern of reduced hearing in the morning that sometimes
+  but not always resolved itself by the evening recurred on some but
+  not all of the next few days.
+
+* I did two rounds of earwax application in my left ear, using Ear Wax
+  MD both times: one on 2025-12-25 / 2025-12-26, the second on
+  2026-01-03 / 2026-01-04 (the application was around midnight both
+  times, so I am including both the completed date and the coming
+  date). Both rounds of application yielded nontrivial amounts of
+  earwax, with the second round yielding more. With the first round,
+  my minimum audible volume was good before and after. The second
+  round improved my minimum audible volume.
+
+* Minimum audible volume tests starting 2026-01-09 consistently
+  passed, and balance tests mostly passed. On 2026-01-27, I declared
+  the incident as having been wrapped up. I also included the
+  application of Ear Wax MD to my monthly tasks (alternating between
+  the ears so each ear gets it once every two months), though as of
+  2026-03-23, on account of being busy, I have not yet had time to
+  start the practice.
 
 ## Background
 
@@ -653,6 +676,7 @@ In light of these, my plan is as follows:
 ## Wrapping up on 2026-01-27 (past midnight from 2026-01-26)
 
 ### Hearing is back to normal
+
 I did minimum audible volume tests (both ears) and balance tests with
 both normal headphones and bone conduction headphones, and performed
 at the upper end of normal (the better-than-usual performance may be
