@@ -182,3 +182,71 @@ Adjust volume through the test for what lets me hear best.
   - Pressed against skin for most; could hear more clearly when pressed against skin
 
 END OF SECTION: (3) Speech in noise test
+
+## 2026-03-23 onward
+
+### Quick minimum audible volume and balance tests (notes written 2026-03-23 past midnight from 2026-03-22)
+
+I verified that I've been doing the minimum audible volume and balance
+tests regularly since the last hearing checklist execution on
+2025-12-19.
+
+* Air conduction (normal headphones) minimum audible volume and
+  balance tests: I had an elevated frequency of execution from
+  2025-12-22 to 2026-01-05, doing a test every 1 to 3 days. From
+  2026-01-05 to 2026-01-17, I did a test every 4 days. After that, the
+  frequency reduced to my usual with an average gap of 7 to 12 days:
+  2026-01-27, 2026-02-03, 2026-02-06, 2026-02-18, 2026-02-28,
+  2026-03-08, 2026-03-16, 2026-03-17 (past midnight from 2026-03-16),
+  to see how much the day/night difference affects minimum audible
+  volume.
+
+* Bone conduction minimum audible volume and balance tests:
+  2025-12-22, 2025-12-25, 2026-01-17, 2026-01-27, 2026-02-28, and
+  2026-03-08.
+
+A few qualitative notes:
+
+* The increased frequency of both air conduction and bone conduction
+  tests from 2025-12-22 to 2026-01-17 was to monitor the progress and
+  resolution of the [reduced hearing in left
+  ear](../events/2025/2025-12-22-reduced-hearing-in-left-ear.md). I
+  reduced the frequency of tests once that situation stabilized.
+
+* The 2026-03-16 / 2026-03-17 comparison did show a slight day/night
+  difference in minimum audible volume, but it was fairly slight, and
+  there was no difference in balance (both tests were balanced). This
+  suggests that quantitative tests such as the frequency-specific
+  minimum audible volume tests should be done at night when ambient
+  noise is lower.
+
+### Quick max frequency hearing test (notes written 2026-03-23 past midnight from 2026-03-22)
+
+Since the last hearing checklist execution on 2025-12-19, I did this
+just once with normal headphones on 2026-02-18. This is less frequent
+than I would like. It's good enough for now, but going forward I
+should try to do this more often. I have some leeway to reduce the
+frequency of the minimum audible volume and balance tests to make time
+for this.
+
+### Advanced portion: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
+
+Run through and record results for online hearing test at
+https://www.resound.com/en-us/online-hearing-test (using normal
+headphones for air conduction and bone conduction headphones for bone
+conduction) in SQL; compare with the previous results to see if there
+is any concerning loss of hearing, and if so, schedule a followup test
+for a week later.
+
+- [ ] Put on normal headphones
+- [ ] Make sure that the volume of the computer is set to max
+- [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+- [ ] Switch balance back to the middle
+- [ ] Do the Resound online test and record results as you go along
+- [ ] Put on bone conduction headphones
+- [ ] Make sure that the volume of the computer is set to max
+- [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+- [ ] Switch balance back to the middle
+- [ ] Do the Resound online test and record results as you go along
+
+END OF SECTION: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
