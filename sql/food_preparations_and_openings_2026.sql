@@ -370,8 +370,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-20','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-03-21',2),
   ('2026-03-21','TJ Miso Ginger Broth',1,1,null,null),
   ('2026-03-21','TJ Almond Milk',1,2,null,null),
-  ('2026-03-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-03-22','TJ Carb Savvy Tortillas',1,1,null,null),
+  ('2026-03-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-03-23',1),
+  ('2026-03-22','TJ Carb Savvy Tortillas',1,1,'2026-03-23',1),
   /* 2026-03-22 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-03-22','Gold potatoes 5 lb',0.5,2,null,null),
   ('2026-03-22','TJ Kale',1,2,null,null),
