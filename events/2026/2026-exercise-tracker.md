@@ -344,3 +344,15 @@ the evening. While I could still have hit hand gripper exercises in, I
 decided to do periodic writing practice in the time I would normally
 do hand gripper exercises, and since there's an overlap in the muscles
 exercised, it made sense to skip hand gripper exercises.
+
+## 2026-03-23: skipped all exercises but got a lot of natural exercise
+
+On Monday 2026-03-23, I skipped all exercises to make time for an
+administrative trip. The trip involved a fair amount of walking,
+including both necessary walking and some exploratory walking I did
+after the administrative part was over; the total distance walked was
+roughly double my outdoor jogging distance, which comports with the
+2:1 energy expenditure of jogging versus walking. The trip also
+involved extended standing and sitting in unfamiliar
+environments. Overall, the physical exertion was comparable to a
+normal day's exercise but qualitative different.

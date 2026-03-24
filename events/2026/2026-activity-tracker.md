@@ -47,3 +47,11 @@ I recorded [here](../../sql/food_purchases_2026.sql).
 In the late morning / early afternoon, I made an administrative
 trip. On the way back, I stopped at Walgreens for priority toiletries
 purchases.
+
+## 2026-03-23
+
+On Monday 2026-03-23, in the afternoon, I made an administrative
+trip. On the way back, I stopped at the Walgreens at 2801 Adeline St
+with the intention of purchasing toiletries, but upon seeing the long
+checkout line I changed my mind and went home without purchasing
+anything.
