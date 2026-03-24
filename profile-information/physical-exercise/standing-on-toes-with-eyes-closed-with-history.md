@@ -2,7 +2,7 @@
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-toes-with-eyes-closed duration at at least 115 seconds
+### Maintain standing-on-toes-with-eyes-closed duration at at least 125 seconds
 
 The ability to sustain weight on toes is important for balance, as we
 lift off from our toes, and when jogging, we are lifting off from the
@@ -12,10 +12,11 @@ raises the stakes so as to get more bang per second of exercise.
 When I started standing-on-toes-with-eyes-closed on 2024-09-09, I set
 a threshold of 15 seconds. Even this threshold, I was not able to
 consistently clear on the first try, leading to me doing 3 or 5 tries
-on many days. As of 2026-02-24 the threshold is 115 seconds.
+on many days. As of 2026-03-24 the first attempt threshold (that I aim
+to hit most of the time on the first attempt) is 125 seconds.
 
 I don't have standard benchmarks for this, but I think a threshold of
-115 seconds is reasonable and I don't have plans to increase the
+125 seconds is reasonable and I don't have plans to increase the
 threshold, though if my performance continues to improve organically,
 I may increase the threshold further.
 
@@ -27,19 +28,15 @@ I may increase the threshold further.
 * Close my eyes when the seconds counter hits a multiple of 5; note
   the current time.
 
-* Try to stay in that position for as long as
-  possible, without repositioning either foot. Lifting or sliding
-  either foot is not allowed, and contact of the rest of the foot with
-  the floor is also not allowed. A little bit of rocking is permitted.
-  Continue to try to stand until I lose balance and have to lift one
-  of my feet and place it elsewhere; open my eyes and note the elapsed
-  time.
+* Try to stay in that position for as long as possible, without
+  repositioning either foot. Lifting or sliding either foot is not
+  allowed, and contact of the rest of the foot with the floor is also
+  not allowed. A little bit of rocking is permitted.  Continue to try
+  to stand until I lose balance and have to lift one of my feet and
+  place it elsewhere; open my eyes and note the elapsed time.
 
 My goal is to keep trying (up to 5 attempts) until I clear the
-threshold on at least one attempt.
-
-Prior to 2024-11-19, I was using median instead of maximum, but
-maximum makes more sense given the increased threshold.
+attempt-specific threshold on at least one attempt.
 
 ## Triggers for overall exercise
 
@@ -50,6 +47,26 @@ through the cycle every 2 to 3 rice preps, so the approximate
 frequency is once every 9 to 15 days.
 
 ## History
+
+### History of attempt structure
+
+### Change from median to maximum on 2024-11-19
+
+Prior to 2024-11-19, I was using median instead of maximum, but
+maximum makes more sense given the increased threshold.
+
+### Switch to attempt-specific thresholds on 2026-03-24
+
+Prior to 2026-03-24, I had a single threshold across all attempts. On
+2026-03-24, I introduced a concept of attempt-specific thresholds,
+where the threshold to achieve in the nth attempt goes down as n
+increases from 1 to 5. The goal of this change is to account for the
+fatigue effect of earlier attempts on achievable thresholds in later
+attempts and also account for "off" days where I am not able to hit a
+high threshold, perhaps due to fatigue from other stuff. The hope is
+still to succeed on the first attempt on most days, while striking a
+balance in terms of imposing a real but not unbearable consequence for
+initial failure.
 
 ### History of threshold durations
 
@@ -91,6 +108,19 @@ the durations I had achieved over the past two months.
 
 On 2026-02-24, I increased the threshold to 115 seconds after reviewing
 the durations I had achieved over the past two months.
+
+On 2026-03-24, I adopted a structure of attempt-specific thresholds,
+with the threshold going down with each attempt, and the idea being to
+stop as soon as my score on an attempt reached or exceeded the
+attempt-specific threshold. The sequence of attempt-specific
+thresholds was set as follows: 125 seconds for the first try, 105
+seconds for the second try, 90 seconds for the third try, 80 seconds
+for the fourth try, and 75 seconds for the fifth try. The sequence was
+chosen to be a quadratic sequence whose difference of differences is
+-5 seconds. The first try threshold of 125 seconds represents what I
+should be able to achieve in a good starting state without fatigue,
+and the fifth try threshold of 75 seconds represents what I should be
+able to achieve even under adverse conditions.
 
 ### History of triggers for overall exercise
 
