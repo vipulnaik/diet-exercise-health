@@ -356,3 +356,10 @@ roughly double my outdoor jogging distance, which comports with the
 involved extended standing and sitting in unfamiliar
 environments. Overall, the physical exertion was comparable to a
 normal day's exercise but qualitative different.
+
+## 2026-03-24: skipped strength exercises
+
+On Tuesday 2026-03-24, I did hand gripper exercises and indoor jogging
+as usual, but skipped strength exercises due to some continued fatigue
+from yesterday's trip (and staying up late to catch up on some of the
+backlog caused by the trip).
