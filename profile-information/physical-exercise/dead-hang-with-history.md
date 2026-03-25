@@ -32,11 +32,11 @@ center of mass).
 Generally, I do this after returning from jogging.
 
 * Overhand dead hang (palms away from me) for as long as I can; as of
-  2025-12-22, this is 30 to 42 oscillations which is about 66 to 105
+  2026-03-25, this is 35 to 50 oscillations which is about 77 to 125
   seconds.
 
 * Underhand dead hang (palms facing me) for as long as I can; as of
-  2025-01-26, this is 10 to 20 oscillations which is about 22 to 50
+  2026-03-25, this is 12 to 24 oscillations which is about 26 to 60
   seconds.
 
 From 2024-12-06 onward, I aim to do this once every 3 days, and more
@@ -44,7 +44,9 @@ specifically on the days after my strength exercise break and the day
 before I do weight-lifting exercises. Previously I did the exercise on
 alternating days, alternating with weight-lifting.
 
-## 2024-10-02 onward: started underhand dead hang
+## History
+
+### 2024-10-02 onward: started underhand dead hang
 
 On 2024-10-02, I started the underhand dead hang. To do this, I check
 the time on my laptop, go to the dead hang bar, hang from it till I
@@ -53,12 +55,12 @@ laptop to the bar and back takes 5-10 seconds, and the overall clocked
 time is about 40-45 seconds, so my estimate of time with the dead hang
 is about 30-35 seconds.
 
-## 2024-10-06 onward: introducing overhand dead hang as well
+### 2024-10-06 onward: introducing overhand dead hang as well
 
 Starting 2024-10-06, I introduced the overhand dead and got an
 estimate of about 45-50 seconds.
 
-## 2025-01-26 status update
+### 2025-01-26 status update
 
 As of 2025-01-26, I record dead hang based on the number of
 oscillations rather than the duration because it's easier to measure
@@ -75,7 +77,7 @@ overhand dead hang tend to also have more oscillations for the
 underhand dead hang. The gap between the two numbers on a given day is
 usually around 20.
 
-## 2025-12-22 status update
+### 2025-12-22 status update
 
 On 2025-12-22, based on a review of recent data, I increased the
 ranges (in terms of number of oscillations) for both overhand and
@@ -84,3 +86,13 @@ underhand dead hang.
 * Overhand: (25 to 38) to (30 to 42)
 
 * Underhand: (5 to 17) to (10 to 20)
+
+### 2026-03-25 status update
+
+On 2026-03-25, based on a review of recent data, I increased the
+ranges (in terms of number of oscillations) for both overhand and
+underhand dead hang.
+
+* Overhand: (30 to 42) to (35 to 50)
+
+* Underhand: (10 to 20) to (12 to 24)

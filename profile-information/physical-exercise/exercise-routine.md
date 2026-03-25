@@ -368,7 +368,7 @@ I started doing dead hang in October 2024. See
 
 Goal of exercise: build
 
-I started doing pull-ups in November 0224. See
+I started doing pull-ups in November 2024. See
 [here](pull-ups-with-history.md) for details.
 
 ## Breath holds
