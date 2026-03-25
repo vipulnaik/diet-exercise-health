@@ -356,3 +356,21 @@ testing. While there was some pressure pain in tender spots throughout
 the mouth, particularly on the lower middle, the pain subsided within
 a few minutes. I did not notice any bleeding when I brushed my teeth
 later at night and then the next day.
+
+## 2026-03-24 (off-cycle squeaky clean teeth check)
+
+On 2026-03-24, I did an off-cycle squeaky clean teeth check. I got
+variable squeakiness:
+
+* The front upper middle teeth were the most pronounced.
+
+* The front upper teeth on the left and right side were consistently
+  squeaky, but less pronounced.
+
+* The front lower left and middle teeth were somewhat squeakly but
+  less so than the upper teeth.
+
+* The front lower right teeth were not squeaky at all.
+
+* The back teeth (upper and lower) were somewhat squeaky in patches
+  but not consistently so.
