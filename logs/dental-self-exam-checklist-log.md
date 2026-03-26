@@ -146,7 +146,7 @@ END OF CHECKLIST
 Overall notes:
 
 * The upper front teeth appear more white than the lower front teeth,
-  which might reflect more enamel erosion and more plaque accumultion
+  which might reflect more enamel erosion and more plaque accumulation
   on the lower teeth; this is typical.
 
 * Plaque: I did not visually see or feel (with my finger) much plaque
@@ -224,7 +224,7 @@ due to being busy I only got to it 2 weeks after the dental cleaning.
 END OF CHECKLIST
 
 * The upper front teeth appear more white than the lower front teeth,
-  which might reflect more enamel erosion and more plaque accumultion
+  which might reflect more enamel erosion and more plaque accumulation
   on the lower teeth; this is typical.
 
 * Plaque: I did not visually see or feel (with my finger) much plaque
@@ -374,3 +374,148 @@ variable squeakiness:
 
 * The back teeth (upper and lower) were somewhat squeaky in patches
   but not consistently so.
+
+## 2026-03-26
+
+- [x] Take the intra-oral camera out and plug it in to charge, so that it gets charged more by the time I am ready for the camera step
+- [x] Examine teeth in mirror; look for things like stains, plaque, and recession
+  - For front teeth, look in the normal mirror, using the hands to pull parts of the mouth to get a better view
+  - For back teeth, open mouth wide; use the dental mirror particularly for the back middle teeth and to get an additional angle on the back side teeth (the back side teeth can be partly viewed directly in the mirror if the mouth is wide open)
+  - Stain: some distinctive color pattern, usually black, often seen on back side teeth
+  - Plaque: "thin, slightly fuzzy, colorless film that might not be readily visible to the naked eye, but you can often feel it with your tongue as a slightly rough texture on your teeth" though in some cases it can show a yellow discoloration
+  - Gum recession: gumline is receded from where it should be; the place where it should be is the cemento-enamel junction (CEJ) and any gap between that and the gumline means the cementum is exposed; this gap area tends to look yellower than the white tooth
+- (skipped due to recent off-cycle execution) Check how "squeaky clean" the front and back teeth are by gently rubbing against them with a clean finger
+- Use pressure testing to confirm the health and strength of the teeth; there should be no sharp pain beyond the sensation of pressure and maybe in some cases a stretch or massage feel, and it should go away within a few seconds of the pressure being removed
+  - [x] Using a floss pick, push moderately hard against each interdental gap
+  - [x] Push backward with a clean finger on the exposed part of each of the front teeth
+  - [x] Push forward (outward) with a clean finger on the exposed part of each of the back teeth
+  - [x] Push backward with a clean finger on the gumline part for each of the front teeth
+  - [x] Push forward (outward) with a clean finger on the gumline part of each of the back teeth
+- [x] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (front/back) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
+  - All back teeth before all front teeth
+  - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
+  - Within each, left, then middle, then right
+  - The location to save in GitHub should be in the `diet-exercise-health-private` repo in `self-photos/dental/<YYYY-MM-DD>`
+  - Also save in my Google Drive in `self-photos/dental/<YYYY-MM-DD>`
+- [x] Compare these photos with the previous photos
+
+END OF CHECKLIST
+
+A special note on the photos and the protocol changes involved with
+them. Previously I would take only 12 photos, one for each combination
+of (front/back) X (top/bottom) X (left/middle/right). This created
+inconsistencies between what teeth were included in what picture, with
+different teeth being captured at different times.
+
+This time, I continued to make sure I get at least one picture for
+each combination of (front/back) X (top/bottom) X (left/middle/right)
+but where possible, I took more than one picture, making sure to zoom
+in on specific teeth wherever the mouth shape allowed such photos to
+be taken. For photos where the numbers of the teeth were clear enough,
+I edited the filename to reflect the range of numbers, with the order
+being left to right (for instance, `tooth-10-to-tooth-8` means that
+the tooth on the left (from the viewpoint of the person viewing the
+picture) is tooth 10, and the tooth on the right (from the viewpoint
+of the person viewing the picture). Hopefully, if I follow similar
+conventions in the future, I will be able to do better comparisons of
+specific teeth.
+
+Overall notes:
+
+* The upper front teeth appear more white than the lower front teeth,
+  which might reflect more enamel erosion and more plaque accumulation
+  on the lower teeth; this is typical.
+
+* Plaque: I did not visually see or feel (with my finger) much plaque
+  on the teeth. With the intraoral camera, I saw slight plaque
+  depositions for several teeth near where they meet the gum, with
+  plaque being more on the back teeth than the front teeth and more on
+  the side teeth than the middle teeth.
+
+* Staining: There was no staining on the front teeth. There was no
+  staining on the front teeth. The back teeth had some staining, most
+  of which was not very obvious in a normal mirror but was obvious
+  with the intra-oral mirror and even more so with the
+  photos. Overall, I think the staining is less than it was on
+  2025-10-21, but more than it was on 2025-11-05, right after the
+  dental cleaning. The favorable comparison to 2025-10-21 might
+  reflect a shorter elapsed time since cleaning (5 months versus 6
+  months) or better dental hygiene practices (including greater use of
+  baking soda toothpaste).
+
+* Gum recession: I didn't see much change in the recession pattern;
+  the canines seem to be the ones with the clearest recession.
+
+* Pressure testing with floss pick: I did two rounds of each
+  interdental gap. The pain subsided quickly, and it makes me feel
+  more optimistic about my gum health compared to the experience last
+  time (on 2025-10-21). The fact that I have been doing off-cycle
+  floss pick pressure testing, and that things have generally been
+  okay, and in fact the latest test is actually better than the
+  2026-02-09 test where there was bleeding, is reassuring.
+
+* Other pressure testing (with finger): There were no notable
+  findings.
+
+A few general observations not directly tied to the checklist
+execution but rather based on treating this as a time to reflect and
+take stock:
+
+* I have been doing frequent intra-oral mirror checks (about once
+  every 1 to 2 weeks) and logging them to Slack self-chat logs. I have
+  also been doing off-cycle floss pick pressure testing and squeaky
+  clean teeth tests, logging them to Slack self-chat logs and also
+  taking notes in this document. I feel that these have helped me have
+  confidence in my overall dental health, while also flagging causes
+  for concern and leading to slight protocol adjustments, despite the
+  significant time crunch that led me to delay this dental
+  self-exam. I hope to continue these practices going forward,
+  although to the extent possible I also hope to do the dental
+  self-exam more regularly at the intended cadence.
+
+* The Slack self-chat logs have also been helpful for monitoring
+  adherence to dental routine. Here are a few things I could confirm:
+
+  * I have been brushing my back teeth with baking soda regularly; the
+    frequency was about once every 3 to 4 days from 2025-10-22 (the
+    date of the last dental cleaning) to 2025-12-11, and then
+    increased to about once every 2 days. The overall number of times
+    has been 58 since and including 2025-10-22. This is already almost
+    double the number (30) in the interval from the dental cleaning
+    before last to the last dental cleaning, in just 5 months compared
+    to 6 months for that interval. This might account for the slightly
+    lower level of staining, but it's too early to say.
+
+  * I also use Slack self-chat logs to monitor the time gap between
+    finishing my meal and finishing flossing and rinsing. My goal is
+    to keep the gap to 30 to 45 minutes. In practice, the mean gap has
+    been about 1 hout 15 minutes and the median gap about 1 hour 7
+    minutes. While this isn't ideal, it's good that the gap has not
+    been drifting upward, and preventing further deterioration here is
+    top of mind. It's still an overall better protocol than I had
+    before where I deferred flossing and rinsing to the very end of
+    post-meal cleanup, which could take much longer.
+
+* I feel like I have been able to adhere to the planned protocol
+  changes outlined in
+  [2025-10-22-dental-cleaning.md](../events/2025/2025-10-22-dental-cleaning.md). Unlike
+  the meal-to-flossing-and-rinsing-gap or intra-oral mirror check
+  frequency that can be validated against Slack self-chat logs, the
+  other protocol changes are more reliant on my self-assessment, but
+  looking at the planned changes and reflecting on recent practice, I
+  feel like I haven't drifted much. For instance, starting with the
+  back teeth first is a practice I have internalized very well. The
+  planned practice of returning to back teeth after finishing the
+  front teeth is something I feel I might slip up on sometimes, but
+  there is no increasing drift: I still remember it most of the
+  time. Maybe one area that has somewhat slipped my mind is the
+  importance of drinking and swirling water after the meal, to buy
+  some time and clear things out until I get to flossing and
+  rinsing. This is something I hope to consciously improve adherence
+  to.
+
+* I've been fairly free of obvious-to-me dental issues since I healed
+  from the 2025-10-22 dental cleaning. Mouth ulcers have been pretty
+  rare and relatively mild compared to last winter. The only bleeding
+  I recorded was in response to a floss pick pressure test, which is a
+  good way to discover and act on issues before bleeding in the wild.

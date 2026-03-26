@@ -2,6 +2,7 @@
 
 Execution log is [here](../logs/dental-self-exam-checklist-log.md).
 
+- [ ] Take the intra-oral camera out and plug it in to charge, so that it gets charged more by the time I am ready for the camera step
 - [ ] Examine teeth in mirror; look for things like stains, plaque, and recession
   - For front teeth, look in the normal mirror, using the hands to pull parts of the mouth to get a better view
   - For back teeth, open mouth wide; use the dental mirror particularly for the back middle teeth and to get an additional angle on the back side teeth (the back side teeth can be partly viewed directly in the mirror if the mouth is wide open)
@@ -15,7 +16,7 @@ Execution log is [here](../logs/dental-self-exam-checklist-log.md).
   - [ ] Push forward (outward) with a clean finger on the exposed part of each of the back teeth
   - [ ] Push backward with a clean finger on the gumline part for each of the front teeth
   - [ ] Push forward (outward) with a clean finger on the gumline part of each of the back teeth
-- [ ] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of 12 photos)
+- [ ] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (front/back) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
   - All back teeth before all front teeth
   - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
   - Within each, left, then middle, then right
