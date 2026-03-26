@@ -55,3 +55,12 @@ trip. On the way back, I stopped at the Walgreens at 2801 Adeline St
 with the intention of purchasing toiletries, but upon seeing the long
 checkout line I changed my mind and went home without purchasing
 anything.
+
+## 2026-03-25
+
+On Wednesday 2026-03-25, in the late evening, I made a trip to the
+Amazon Hub Locker at ASUC Berkeley to pick up several packages. I took
+my suitcase along and packed stuff in a mix of my suitcase and my
+backpack. The packed suitcase weight was around 9.3-10.0 kg and the
+packed backpack weight was around 4.55 kg. Both were measured using a
+luggage weighing machine after returning and before unpacking.

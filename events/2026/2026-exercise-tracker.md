@@ -363,3 +363,85 @@ On Tuesday 2026-03-24, I did hand gripper exercises and indoor jogging
 as usual, but skipped strength exercises due to some continued fatigue
 from yesterday's trip (and staying up late to catch up on some of the
 backlog caused by the trip).
+
+## 2026-03-25: natural exercise carrying stuff back from Amazon Hub Locker (after normal exercise earlier in the day)
+
+On Wednesday 2026-03-25, in the late evening, I made a trip to the
+Amazon Hub Locker at ASUC Berkeley to pick up several packages. I took
+my suitcase and backpack along and packed stuff in a mix of my
+suitcase and my backpack. I walked both ways and carried the suitcase
+(rather than rolling it) both ways.
+
+### Forward journey
+
+For the forward journey, the suitcase weight was the baseline weight
+of around 4.2 kg and the backpack weight was around 2 kg (weight of
+empty backpack plus stuff I keep in the backpack by default).
+
+The weight didn't meaningfully slow me down on my forward journey
+relative to regular walking -- it's more than the weight I carry when
+going to Trader Joe's, but less than the weight I carry coming back. I
+empirically verified that the duration of the forward journey was
+close to my normal duration for trips of similar length.
+
+While I did switch the suitcase from one hand to another often, this
+was more out of convenience and desire for balance than because either
+hand got close to failure. I did not need to put the suitcase down
+during the forward journey, which is again as expected (as I do not
+need to put groceries down when walking back from Trader Joe's).
+
+### Return journey
+
+For the return journey, the packed suitcase weight was around 9.3-10.0
+kg and the packed backpack weight was around 4.55 kg. Both were
+measured using a luggage weighing machine after returning and before
+unpacking.
+
+Overall, it looks like my walking time for the return journey was
+about 25% higher than for the forward journey due to being bogged down
+by the weight. This makes sense: the load I carried on the return
+journey was fairly high, matched only by intercity travel, house-moving
+carrying of stuff, and a few past Amazon Hub Locker trips.
+
+I did have to put the suitcase down often, and in other cases switch
+the suitcase from one hand to another, and here the switching was more
+because I felt close to failure than just for balance. I was able to
+take about 80 to 128 steps with the suitcase in my right hand before
+needing to switch or put the suitcase down, and 60 to 100 steps with
+the suitcase in my left hand before needing to switch or put the
+suitcase down. I was also not able to get away with just switching all
+the time; sometimes I did need to put the suitcase down. Overall, the
+need to put the suitcase down occurred about once per block.
+
+### Comparison with other "natural exercise" trips
+
+Two recent Amazon Hub Locker trips are comparable:
+
+* The 2025-10-03 trip (documented in the [2025 exercise
+  tracker](../2025/2025-exercise-tracker.md)) involved 10.5 kg in the
+  suitcase and 3.9 kg in the backpack, which is about the same total
+  weight but distributed more toward the suitcase. The Google Maps
+  timeline suggests that my duration walking back was about 10% higher
+  for this trip than the 2026-03-25 trip.
+
+* The 2024-12-22 trip (documented in the [2024 exercise
+  tracker](../2024/2024-exercise-tracker.md)) where the suitcase was
+  even heavier at 10.7 kg but I don't appear to have packed extra
+  stuff in the backpack so its weight was likely around 2 kg (base
+  weight plus normal stuff I pack). The Google Maps timeline suggests
+  that my duration walking back was about the same for this trip as
+  the 2026-03-25 trip.
+
+Qualitative notes for both these past trips are pretty similar. For
+the 2024-12-22, the frequency of putting the suitcase down was about
+once per block, similar to the 2026-03-25 trip. The frequency of
+switching hands might have been more, but this might have reflected
+switching hands more short of failure rather than needing to switch
+due to failure.
+
+Overall, it looks like the gains in strength over the period from
+2024-12-22 through 2025-10-03 to 2026-03-25 have not been big enough
+to cause major qualitative changes to the trip experience. While minor
+quantitative changes (more time to failure per hand, slightly faster
+walking relative to weight) are suggested somewhat by the data, it's
+hard to disambiguate these from noise.
