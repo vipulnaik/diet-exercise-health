@@ -160,4 +160,22 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, co
   ('2025-10-13',1,'bone','right',500,8,'faint and barely audible at 8; faint and clear at 9'),
   ('2025-10-13',1,'bone','right',1000,9,'faint and clear at 9; when I pressed the headphone to my skin I could hear at 8'),
   ('2025-10-13',1,'bone','right',2000,9,'faint and clear at 9; when I pressed the headphone to my skin I could hear at 8'),
-  ('2025-10-13',1,'bone','right',4000,8,'faint and barely audible at 8, faint and clear at 9; when I pressed the headphone to my skin I could hear at 7');
+  ('2025-10-13',1,'bone','right',4000,8,'faint and barely audible at 8, faint and clear at 9; when I pressed the headphone to my skin I could hear at 7'),
+  /* 2026-03-27 1:21 AM test -- air (I adopted the practice of doing this late at night when there were enough periods of near-zero outdoor noise, which might explain better scores than the 2025-10-13 test; slightly worse scores on right ear might be partly due to noise profile being more on the right side) */
+  ('2026-03-27',1,'air','left',500,1,'faint and barely audible at 1, faint and clear at 2'),
+  ('2026-03-27',1,'air','left',1000,3,'faint at 3, clear at 4'),
+  ('2026-03-27',1,'air','left',2000,2,'faint at 2, clear at 3'),
+  ('2026-03-27',1,'air','left',4000,1,'clear at 1'),
+  ('2026-03-27',1,'air','right',500,3,'faint at 3, somewhat clearer at 4 but not super-clear until 5'),
+  ('2026-03-27',1,'air','right',1000,4,'faint at 4, clear at 5'),
+  ('2026-03-27',1,'air','right',2000,1,'faint and barely audible at 1, faint and clear at 2'),
+  ('2026-03-27',1,'air','right',4000,1,'clear at 1'),
+  /* 2026-03-27 1:33 AM test -- bone */
+  ('2026-03-27',1,'bone','left',500,7,'faint and barely audible at 7; when I pressed the headphone to my skin I could hear at 6'),
+  ('2026-03-27',1,'bone','left',1000,8,'faint and clear at 8; when I pressed the headphone to my skin I could hear at 7'),
+  ('2026-03-27',1,'bone','left',2000,8,'faint and clear at 8; when I pressed the headphone to my skin I could hear more clearly at 8 but I still couldn''t hear at 7'),
+  ('2026-03-27',1,'bone','left',4000,8,'faint and clear at 8; when I pressed the headphone to my skin I could hear at 7'),
+  ('2026-03-27',1,'bone','right',500,6,'faint and barely audible at 6; when I pressed the headphone to my skin I could hear more clearly at 6 but still couldn''t hear at 5'),
+  ('2026-03-27',1,'bone','right',1000,8,'faint and clear at 8; when I pressed the headphone to my skin I could hear at 7'),
+  ('2026-03-27',1,'bone','right',2000,8,'faint and barely audible at 8; when I pressed the headphone to my skin I could hear at 7'),
+  ('2026-03-27',1,'bone','right',4000,8,'faint and barely audible at 8; when I pressed the headphone to my skin I could hear at 7');

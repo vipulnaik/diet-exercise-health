@@ -229,7 +229,7 @@ should try to do this more often. I have some leeway to reduce the
 frequency of the minimum audible volume and balance tests to make time
 for this.
 
-### Advanced portion: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
+### Advanced portion: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz) (done 2026-03-27 past midnight from 2026-03-26)
 
 Run through and record results for online hearing test at
 https://www.resound.com/en-us/online-hearing-test (using normal
@@ -238,15 +238,15 @@ conduction) in SQL; compare with the previous results to see if there
 is any concerning loss of hearing, and if so, schedule a followup test
 for a week later.
 
-- [ ] Put on normal headphones
-- [ ] Make sure that the volume of the computer is set to max
-- [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
-- [ ] Switch balance back to the middle
-- [ ] Do the Resound online test and record results as you go along
-- [ ] Put on bone conduction headphones
-- [ ] Make sure that the volume of the computer is set to max
-- [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
-- [ ] Switch balance back to the middle
-- [ ] Do the Resound online test and record results as you go along
+- [x] Put on normal headphones
+- [x] Make sure that the volume of the computer is set to max
+- [x] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+- [x] Switch balance back to the middle
+- [x] Do the Resound online test and record results as you go along
+- [x] Put on bone conduction headphones
+- [x] Make sure that the volume of the computer is set to max
+- [x] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+- [x] Switch balance back to the middle
+- [x] Do the Resound online test and record results as you go along
 
 END OF SECTION: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
