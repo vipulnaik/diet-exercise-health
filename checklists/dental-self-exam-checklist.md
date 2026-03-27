@@ -16,6 +16,7 @@ Execution log is [here](../logs/dental-self-exam-checklist-log.md).
   - [ ] Push forward (outward) with a clean finger on the exposed part of each of the back teeth
   - [ ] Push backward with a clean finger on the gumline part for each of the front teeth
   - [ ] Push forward (outward) with a clean finger on the gumline part of each of the back teeth
+- [ ] Disconnect intra-oral camera from charger, put it on, and connect the phone to its wi-fi network
 - [ ] Take photos of front and back teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (front/back) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
   - All back teeth before all front teeth
   - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth

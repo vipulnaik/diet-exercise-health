@@ -97,12 +97,11 @@ next use the headphones.
 
 ### (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
 
-Run through and record results for online hearing test at
-https://www.resound.com/en-us/online-hearing-test (using normal
-headphones for air conduction and bone conduction headphones for bone
-conduction) in SQL; compare with the previous results to see if there
-is any concerning loss of hearing, and if so, schedule a followup test
-for a week later.
+Run through and record results in SQL for online hearing test at
+https://www.resound.com/en-us/online-hearing-test
+
+**Night time is preferred due to less ambient noise. Wait for troughs
+  in outdoor noise to confirm readings.**
 
 - [ ] Put on normal headphones
 - [ ] Make sure that the volume of the computer is set to max
@@ -114,12 +113,15 @@ for a week later.
 - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
 - [ ] Switch balance back to the middle
 - [ ] Do the Resound online test and record results as you go along
+- [ ] Compare with previous results
+  - [ ] If there is significant degradation compared to the previous results, schedule a followup test for a week later
 
 END OF SECTION: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
 
 ### (2) Max frequency hearing test
 
-Do a max frequency hearing test using https://www.youtube.com/watch?v=zUmbmssqHOY
+Do a max frequency hearing test using
+https://www.youtube.com/watch?v=zUmbmssqHOY
 
 This is a fuller version of the quick max frequency hearing test. It differs from the quick version in the following respects:
 
@@ -204,7 +206,8 @@ END OF SECTION: (2) Max frequency hearing test
 
 ### (3) Speech in noise test
 
-Run through and report results of https://www.medel.com/en-us/about-hearing/hearing-test/speech-in-noise
+Run through and report results of
+https://www.medel.com/en-us/about-hearing/hearing-test/speech-in-noise
 
 Adjust volume through the test for what lets me hear best.
 
