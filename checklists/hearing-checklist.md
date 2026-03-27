@@ -123,7 +123,8 @@ END OF SECTION: (1) Frequency-specific hearing test in the normal frequency rang
 Do a max frequency hearing test using
 https://www.youtube.com/watch?v=zUmbmssqHOY
 
-This is a fuller version of the quick max frequency hearing test. It differs from the quick version in the following respects:
+This is a fuller version of the quick max frequency hearing test. It
+differs from the quick version in the following respects:
 
 * We start from the beginning frequencies so we get a clearer picture
   of how the minimum audible volume changes with frequency.
