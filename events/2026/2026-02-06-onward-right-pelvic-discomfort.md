@@ -241,7 +241,7 @@ is based on comparing the appearance to [this
 guide](https://www.theminorsurgerycenter.com/blog/cyst-vs-pimple-vs-boil).
 
 * They are not cysts, because cysts are below the surface and only
-  cuases the surface to swell and maybe turn bluish. That does not
+  cause the surface to swell and maybe turn bluish. That does not
   match either the color or the texture of any of the examples.
 
 * They're not boils because they did not show growth, they were not
