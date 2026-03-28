@@ -115,7 +115,7 @@ on the shape of the hold or the direction of application. It's a
 complicated balance of neuromuscular, metabolic, and structural
 factors.
 
-#### Mechanical and metabolic power
+### Mechanical and metabolic power
 
 The mechanical power output of force production is the power it
 creates as force times velocity. This is zero for static / isometric
@@ -189,3 +189,18 @@ the passive tolerance increases with the strength to effectively make
 use of muscle activation e.g., when falling with some degree of
 preparation. However, these benefits are only unlocked if reflexes are
 fast enough to trigger the muscle activation.
+
+### Note on jerk production and tolerance
+
+Jerk is interesting because it's not often talked about in exercise
+training, but it's very relevant to accidents or unexpected contact.
+
+Humans are pretty good at jerk production -- walking and running
+involves a decent amout of jerk, and several movements involve
+jerk. Some exercises -- particularly explosive movement exercises --
+can make one even better at jerk production.
+
+Humans are naturally not that great at passive tolerance of
+jerk. They're a little better at active tolerance of jerk. Note that
+the 50 ms reaction time floor means that the first 50 ms or so of jerk
+response are passive.
