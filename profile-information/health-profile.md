@@ -383,9 +383,12 @@ Some historical information:
   read license plates) at random points in between.
 
 * I have some issues with distance vision, as evinced in the eye exam
-  results. Since I don't drive, and the issues haven't gotten in my
-  way so far, I have not chosen to get corrective lenses for these
-  issues.
+  results. The eyes are fairly different in this respect: the right
+  eye has substantially worse distance vision than the left eye; this
+  difference is seen both in the eye exam results and in my own vision
+  checklist execution. Since I don't drive, and the issues haven't
+  gotten in my way so far, I have not chosen to get corrective lenses
+  for these issues.
 
 * Other things surfaced by my eye exam: (benevolent so far) melanosis,
   and a difference in the inner/outer ratio between my left and right
