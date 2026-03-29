@@ -52,7 +52,8 @@ energy, it's in the range of 17-22.
 
 Fist push-ups are similar to standard push-ups with just one change:
 for upper body support, instead of resting on my palm, I rest on my
-fist, specifically, the portion between the MCP and PIP joints.
+fist, specifically, the proximal phalanx i.e., theportion between the
+MCP and PIP joints.
 
 Starting 2025-06-25, I try to do a few fist push-ups. I might do them
 either before or after standard push-ups.
