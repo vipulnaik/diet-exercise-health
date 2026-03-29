@@ -1224,7 +1224,7 @@ liver-related blood markers being fine.
 
 A crude proxy for liver fat is the total visceral fat estimated in
 DEXA. This "visceral fat" is a crude estimate and should also include
-ectopic fat in the abdominal organs such as the liver and apancreas.
+ectopic fat in the abdominal organs such as the liver and pancreas.
 
 My DEXA scan on 2025-11-07 gave an estimate of 0.15 lbs of visceral
 fat, which is about 68 grams. This is at around the 5th percentile
