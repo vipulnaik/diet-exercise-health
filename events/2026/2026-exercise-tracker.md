@@ -445,3 +445,9 @@ to cause major qualitative changes to the trip experience. While minor
 quantitative changes (more time to failure per hand, slightly faster
 walking relative to weight) are suggested somewhat by the data, it's
 hard to disambiguate these from noise.
+
+## 2026-03-28: skipped all exercises to focus on health documentation work
+
+On Saturday 2026-03-28, I skipped all exercises to get a long
+continuous block of time to focus on health documentation work (that
+ended up taking over 3 hours).
