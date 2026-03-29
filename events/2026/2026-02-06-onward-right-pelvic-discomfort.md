@@ -230,51 +230,62 @@ More details of these are available in private notes.
 It's noteworthy that all these occurred on the right side, though that
 might be a coincidence.
 
-### Evolution of right pelvic soreness into pimples
+### Evolution of right pelvic soreness into post-inflammatory hyperpigmentation (PIH)
 
 Around the week of 2026-02-16, the inflammation/redness gave way to
-what appear to be pimples in the area, including four visible ones
-(and perhaps some smaller ones that healed by the time I decided to
-count and record them on 2026-03-15, past midnight from
-2026-03-14). My characterization as pimple (a opposed to cyst or boil)
-is based on comparing the appearance to [this
-guide](https://www.theminorsurgerycenter.com/blog/cyst-vs-pimple-vs-boil).
+what appear to be flat regular and symmetric black/brown moles in the
+area, including four visible ones (and perhaps some smaller ones that
+healed by the time I decided to count and record them on 2026-03-15,
+past midnight from 2026-03-14). On 2026-03-28 (past midnight from
+2026-03-27), I noticed another similar mole on the right flank, which
+might have developed earlier but escaped my notice.
 
-* They are not cysts, because cysts are below the surface and only
-  cause the surface to swell and maybe turn bluish. That does not
-  match either the color or the texture of any of the examples.
+While I initially classified them as pimples, their continuation for
+over six weeks led me to reconsider the classification. A discussion
+with Claude led to their identification as post-inflammatory
+hyperpigmentation (PIH). This fits in with the various clues:
 
-* They're not boils because they did not show growth, they were not
-  particularly tender or painful, they were not warm to the touch, and
-  they did not discharge pus.
+* Location matches the location of inflammation/redness.
 
-* This leaves pimples, and they all seem to roughly match the
-  description of a pimple: "small, raised bump on the skin surface"
-  with "red or pink inflammation around the bump" (plus the other
-  criteria). One of them appears to have a white/yellow head. The
-  others don't seem to have any clear separate head color.
+* Timing matches the expected timing of PIH, namely, right as the
+  inflammation is subsiding. The gap of about 10 days also matches the
+  usual gap from onset of inflammation.
 
-As of 2026-03-15 (past midnight from 2026-03-14) the pimples all seem
-to still be present, so it looks like they are taking some time to
-resolve. The generalized redness of the area seems to have resolved.
+* The color (black/brown) and morphology (regular and symmetric)
+  matches hyperpigmentation.
 
-There are many kinds of pimples, and based on my understanding, these
-pimples are likely cystic. This would explain their long healing time
-and fit better with the observations about the discomfort that seems
-to be not just on the skin surface but tied deeper down in the skin.
+* The lack of resolution over about 6 weeks (as of 2026-03-28, the
+  time of writing this portion of the document) is consistent with the
+  expected duration of 6 to 12 months for PIH to resolve.
 
-The concrete nature of the pimples means that further investigation,
-including a potential medical consult, can be better directed. At this
-point, based on simple Googling, and the fact that my other symptoms
-have normalized, I do not think an investigation needs to be
-prioritized.
+* The lack of symptoms tied to the moles themselves (in fact, they
+  appeared as symptoms were resolving) is consistent with PIH.
+
+* PIH also makes sense for my skin in particular, since I am a
+  Fitzpatrick Type V (as judged by self-assessment, which might be a
+  bit off but at any rate I am unambiguously at least Fitzpatrick Type
+  IV), and PIH is more common for Fitzpatrick Types IV to VI since
+  these types have more melanin.
+
+My own assessment, shared by Claude, is that these don't fit the ABCDE
+criteria that would make skin cancer a concern.
+
+My plan is to take photographs and measurements and add more detailed
+notes as part of the next skin checklist execution (some time in April
+2026), more to provide a general baseline of what PIH looks like for
+me. After that, I plan to not really pay attention to it unless
+something changes very obviously. Claude and I agreed that given the
+very clear case that this is PIH, there is no need to engage in active
+monitoring of development, but if something changes very visibly I
+can compare with the photographs and measurements. At that time, I may
+come back and add more details.
 
 ## Deeper dive into right pelvic discomfort
 
 NOTE: This section was written on 2026-02-11 before the pelvic
-discomfort and inflammation evolved into pimples, and essentially
-describes the experience in the first week or so after the start of
-the right pelvic discomfort.
+discomfort and inflammation evolved into post-inflammatory
+hyperpigmentation (PIH), and essentially describes the experience in
+the first week or so after the start of the right pelvic discomfort.
 
 ### Surface examination
 
