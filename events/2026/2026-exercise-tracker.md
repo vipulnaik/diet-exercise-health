@@ -451,3 +451,10 @@ hard to disambiguate these from noise.
 On Saturday 2026-03-28, I skipped all exercises to get a long
 continuous block of time to focus on health documentation work (that
 ended up taking over 3 hours).
+
+## 2026-03-29: skipped all exercises to make time for shopping trip and food prep
+
+On Sunday 2026-03-29, I was low on cooked food (as a result of low
+cyclic personal chores count over the week), so I needed to both make
+a shopping trip and cook food. To preserve time and energy for both, I
+skipped all exercises.
