@@ -272,7 +272,7 @@ criteria that would make skin cancer a concern.
 
 My plan is to take photographs and measurements and add more detailed
 notes as part of the next skin checklist execution (some time in April
-2026), more to provide a general baseline of what PIH looks like for
+2026), mainly to provide a general baseline of what PIH looks like for
 me. After that, I plan to not really pay attention to it unless
 something changes very obviously. Claude and I agreed that given the
 very clear case that this is PIH, there is no need to engage in active
