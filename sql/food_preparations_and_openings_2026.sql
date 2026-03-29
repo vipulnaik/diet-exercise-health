@@ -353,12 +353,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-17','TJ Sauerkraut',1,1,null,null),
   ('2026-03-18','TJ Carb Savvy Tortillas',1,1,'2026-03-19',1), /* checkpoint: stock down to 0 */
   /* 2026-03-18 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-03-18','Eggplant',1,2,null,null),
-  ('2026-03-18','TJ Kale',1,2,null,null),
-  ('2026-03-18','TJ Carrots',1,2,null,null),
-  ('2026-03-18','Green bell pepper',4,2,null,null),
-  ('2026-03-18','Red bell pepper',2,2,null,null),
-  ('2026-03-18','Beefsteak tomato',9,2,null,null), /* checkpoint: stock down to 0 */
+  ('2026-03-18','Eggplant',1,2,'2026-03-28',2),
+  ('2026-03-18','TJ Kale',1,2,'2026-03-28',2),
+  ('2026-03-18','TJ Carrots',1,2,'2026-03-28',2),
+  ('2026-03-18','Green bell pepper',4,2,'2026-03-28',2),
+  ('2026-03-18','Red bell pepper',2,2,'2026-03-28',2),
+  ('2026-03-18','Beefsteak tomato',9,2,'2026-03-28',2), /* checkpoint: stock down to 0 */
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-18','Morton Iodized Sea Salt',1,2,null,null), /* opened with eggplant meal prep */
   ('2026-03-18','TJ Roasted Seaweed',1,2,'2026-03-27',2),
@@ -368,7 +368,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-20','TJ Walnuts',1,2,'2026-03-24',1),
   ('2026-03-20','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-03-21',2),
-  ('2026-03-21','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-03-21','TJ Miso Ginger Broth',1,1,'2026-03-28',2),
   ('2026-03-21','TJ Almond Milk',1,2,null,null),
   ('2026-03-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-03-23',1),
   ('2026-03-22','TJ Carb Savvy Tortillas',1,1,'2026-03-23',1),
@@ -384,9 +384,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-03-24 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-03-24','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-03-24','TJ Walnuts',1,2,null,null),
+  ('2026-03-24','TJ Walnuts',1,2,'2026-03-28',2),
   ('2026-03-25','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-03-27',1),
   ('2026-03-25','TJ Carb Savvy Tortillas',1,1,'2026-03-26',1),
   ('2026-03-26','TJ Carb Savvy Tortillas',1,1,'2026-03-28',1),
-  ('2026-03-28','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null);
+  ('2026-03-28','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null),
+  ('2026-03-28','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2026-03-28','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-03-28','TJ Miso Ginger Broth',1,2,null,null);
   /* Double-check the date and meal index before committing */
