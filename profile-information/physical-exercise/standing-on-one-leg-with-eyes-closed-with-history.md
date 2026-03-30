@@ -180,7 +180,7 @@ original baseline (before 2023-10-28) |  10 |   N/A | N/A | unavailable
 2025-06-22 |  80 | 3/C = 1.67/F | N/A | 13
 2025-11-11 |  90 | 3/C = 1.67/F | N/A | 13
 2025-12-25 | 100 | 3.6/C =  2/F | N/A | 4
-2026-03-29 | 110 | 3.6/C =  2/F | -15, 5 | 12 (a lot of these were redo rounds on the left leg; if limited to both-leg rounds the number falls to 7)
+2026-03-29 | 110 | 3.6/C =  2/F | -20, 5 | 12 (a lot of these were redo rounds on the left leg; if limited to both-leg rounds the number falls to 7)
 
 A few key insights that can be gleaned from the table:
 
