@@ -148,7 +148,7 @@ The threshold durations are presented below in table form. Some
 nuances around conditions may be lost relative to the original
 presentation, which can be accessed in the git history of this file.
 
-Temperature adjustments always start for indoor temperature at
+Temperature adjustments only apply when the indoor temperature at
 exercise time is less than 20 degrees Celsius (68 degrees Fahrenheit)
 and the downward adjustment is proportional to how far below 20
 degrees Celsius the indoor temperature is.
