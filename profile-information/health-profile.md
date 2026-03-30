@@ -1376,7 +1376,8 @@ collection is influenced by the exact way the sample is managed and
 fist-clenching details) but, with the notable exception of September
 2024, the data tentatively suggests that my potassium levels are a
 little higher (by about 0.2-0.3 mmol/L) when my dietary potassium
-consumption is a lot higher in the winter months.
+consumption is a lot higher, which tends to happen in the winter
+months as my overall food consumption is higher when it's colder.
 
 Reading date | Potassium measurement (mmol/L) | Average daily potassium consumption in mg | Estimation method
 -- | -- | -- | --
