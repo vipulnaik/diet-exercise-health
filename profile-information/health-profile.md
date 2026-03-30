@@ -916,7 +916,18 @@ inflammation](#markers-of-internal-inflammation).
 ## Metabolic syndrome evaluation
 
 Based on the document so far, it's clear that I don't satisfy any of
-the conditions for metabolic syndrome:
+the conditions for metabolic syndrome.
+
+Below, I evaluate using the [NCEP ATP III
+criteria](https://www.nhlbi.nih.gov/files/docs/guidelines/atglance.pdf)
+(Step 8 on page 4) and confirm that I don't meet any of the five
+criteria; to be classified as metabolic syndrome, at least three
+criteria must be met. The American Heart Association (AHA) also uses
+the same criteria. The [International Diabetes Federation (IDF)
+criteria](https://idf.org/media/uploads/2023/05/attachments-30.pdf)
+are similar, with one key difference being that the waist size
+threshold is lower. Fortunately, I am below the waist size threshold
+for the IDF criteria as well.
 
 * Hypertension: My blood pressure is well below 120/80.
 
@@ -933,8 +944,18 @@ the conditions for metabolic syndrome:
   and 89 mg/dL (September 2024) are below the upper threshold of 150
   mg/dL.
 
-* Waist size: At 28 inches, my waist size is well below the thresholf
-  of 40 inches.
+* Waist size: My official waist size, defined as the waist size
+  measured with measuring tape after a normal exhalation is 28.3
+  inches (72 cm) which is less than the threshold of 40 inches. The
+  waist size after normal inhalation is 29.5 inches (75 cm) and the
+  size used for shorts and trousers is 28 inches.
+
+  My waist size is therefore clearly below the NCEP ATP III / AHA
+  threshold of 40 inches. It's also below the reduced threshold of 90
+  cm for South Asian males in the IDF criteria.
+
+  More body measurements are available
+  [here](../sql/length_measurements.sql).
 
 ## Markers of internal inflammation
 
