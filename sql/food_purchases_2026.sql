@@ -201,7 +201,7 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-03-22','TJ Kale',1,0),
   ('2026-03-22','Beefsteak tomato',7,0),
   ('2026-03-22','TJ English Shelled Peas',2,0),
-  /* 2026-03-28 (Saturday) Berkeley Bowl trip; total cost $44.74; checkout at 4:37 PM; paid by credit card; 8 items in transaction of which 2 were Seventh Generation dish soap bottles so 6 food items */
+  /* 2026-03-28 (Saturday) Berkeley Bowl; total cost $44.74; checkout at 4:37 PM; paid by credit card; 8 items in transaction of which 2 were Seventh Generation dish soap bottles so 6 food items */
   ('2026-03-28','Lundberg Sustainable California White Jasmine Rice',3,0),
   ('2026-03-28','Lundberg Sustainable California White Basmati Rice',1,0),
   ('2026-03-28','Kite Hill Unsweetened Plain Almond Milk Yogurt',2,0); /* no plain Greek Style yogurt; there was some vanilla Greek Style yogurt but I decided to get the plain amond milk yogurt instead */
