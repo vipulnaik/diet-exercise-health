@@ -251,10 +251,22 @@ was 124.4 lb; this translates to 56.4 kg.
 
 ### Waist size
 
-I have a lean, athletic appearance. My waist size is at the "small"
-end, with shorts/trousers sizes of 28 and 30 generally working for me,
-with 28 being the most preferred (no belt needed), 30 needing a loose
-belt, and 32 being manageable with a tight belt.
+My official waist size, defined as the waist circumference measured
+with measuring tape after a normal exhalation is 28.3 inches (72
+cm). The waist circumference after normal inhalation is 29.5 inches
+(75 cm).
+
+More body measurements (including periodic waist circumference
+measurements starting 2025-12-20) are available
+[here](../sql/length_measurements.sql).
+
+The shorts/trousers sizes of 28 and 30 generally work for me, with 28
+being the most preferred (no belt needed), 30 needing a loose belt,
+and 32 being manageable with a tight belt. The advantage of the
+shorts/trousers size information is that, although less precise, it
+goes back several years, whereas the circumference measurements only
+started 2025-12-20. My preferred shorts/trousers size has been 28 since at
+least 2018 or so.
 
 ### More insights from DEXA scan
 
@@ -944,18 +956,12 @@ for the IDF criteria as well.
   and 89 mg/dL (September 2024) are below the upper threshold of 150
   mg/dL.
 
-* Waist size: My official waist size, defined as the waist size
-  measured with measuring tape after a normal exhalation is 28.3
-  inches (72 cm) which is less than the threshold of 40 inches. The
-  waist size after normal inhalation is 29.5 inches (75 cm) and the
-  size used for shorts and trousers is 28 inches.
+* Waist size: My official waist size (28.3 inches = 72 cm after normal
+  exhalation) is clearly below the NCEP ATP III / AHA threshold of 40
+  inches. It's also below the reduced threshold of 90 cm for South
+  Asian males in the IDF criteria.
 
-  My waist size is therefore clearly below the NCEP ATP III / AHA
-  threshold of 40 inches. It's also below the reduced threshold of 90
-  cm for South Asian males in the IDF criteria.
-
-  More body measurements are available
-  [here](../sql/length_measurements.sql).
+  See [Waist size](#waist-size) for more information.
 
 ## Markers of internal inflammation
 
