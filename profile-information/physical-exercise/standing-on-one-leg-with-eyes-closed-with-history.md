@@ -151,31 +151,36 @@ presentation, which can be accessed in the git history of this file.
 Temperature adjustments only apply when the indoor temperature at
 exercise time is less than 20 degrees Celsius (68 degrees Fahrenheit)
 and the downward adjustment is proportional to how far below 20
-degrees Celsius the indoor temperature is.
+degrees Celsius the indoor temperature is. For compactness, the table
+only presents the multiplier.
 
-Date of change | Baseline threshold duration (seconds) | Temperature adjustment (downward per unit temperature) (/C and /F) | Retry adjustment (seconds) (second try threshold minus first try threshold, difference of differences)
--- | -- | -- | --
-original baseline (before 2023-10-28) |  10 |   N/A | N/A
-2023-10-28 |  12 |          N/A | N/A
-2023-11-18 |  14 |          N/A | N/A
-2024-01-18 |  18 | 1/C = 0.56/F | N/A
-2024-05-07 |  20 | 1/C = 0.56/F | N/A
-2024-07-15 |  23 | 1/C = 0.56/F | N/A
-2024-08-08 |  27 | 1/C = 0.56/F | N/A
-2024-09-09 |  30 | 1/C = 0.56/F | N/A
-2024-09-27 |  32 | 2/C = 1.11/F | N/A
-2024-10-17 |  34 | 2/C = 1.11/F | N/A
-2024-11-05 |  36 | 2/C = 1.11/F | N/A
-2024-11-17 |  40 | 2/C = 1.11/F | N/A
-2025-01-16 |  44 | 2/C = 1.11/F | N/A
-2025-01-21 |  50 | 2/C = 1.11/F | N/A
-2025-02-03 |  60 | 3/C = 1.67/F | N/A
-2025-03-03 |  66 | 3/C = 1.67/F | N/A
-2025-04-12 |  75 | 3/C = 1.67/F | N/A
-2025-06-22 |  80 | 3/C = 1.67/F | N/A
-2025-11-11 |  90 | 3/C = 1.67/F | N/A
-2025-12-25 | 100 | 3.6/C =  2/F | N/A
-2026-03-29 | 110 | 3.6/C =  2/F | -15, 5
+The original baseline of 10 seconds before 2023-10-28 applies from the
+time I started the exercise, which is at least November 2021. In other
+words, there was no threshold increase in the first two years.
+
+Date of change | Baseline threshold duration (seconds) | Temperature adjustment (downward per unit temperature) (/C and /F) | Retry adjustment (seconds) (second try threshold minus first try threshold, difference of differences) | Number of rounds since last time (exclusive of start date, inclusive of end date)
+-- | -- | -- | -- | --
+original baseline (before 2023-10-28) |  10 |   N/A | N/A | unavailable
+2023-10-28 |  12 |          N/A | N/A | unavailable
+2023-11-18 |  14 |          N/A | N/A | unavailable
+2024-01-18 |  18 | 1/C = 0.56/F | N/A | unavailable
+2024-05-07 |  20 | 1/C = 0.56/F | N/A | unavailable
+2024-07-15 |  23 | 1/C = 0.56/F | N/A | unavailable
+2024-08-08 |  27 | 1/C = 0.56/F | N/A | unavailable
+2024-09-09 |  30 | 1/C = 0.56/F | N/A | unavailable
+2024-09-27 |  32 | 2/C = 1.11/F | N/A | unavailable
+2024-10-17 |  34 | 2/C = 1.11/F | N/A | unavailable
+2024-11-05 |  36 | 2/C = 1.11/F | N/A | unavailable
+2024-11-17 |  40 | 2/C = 1.11/F | N/A | unavailable
+2025-01-16 |  44 | 2/C = 1.11/F | N/A | >= 22 (recording started 2024-12-21)
+2025-01-21 |  50 | 2/C = 1.11/F | N/A | 4
+2025-02-03 |  60 | 3/C = 1.67/F | N/A | 4
+2025-03-03 |  66 | 3/C = 1.67/F | N/A | 11
+2025-04-12 |  75 | 3/C = 1.67/F | N/A | 9
+2025-06-22 |  80 | 3/C = 1.67/F | N/A | 13
+2025-11-11 |  90 | 3/C = 1.67/F | N/A | 13
+2025-12-25 | 100 | 3.6/C =  2/F | N/A | 4
+2026-03-29 | 110 | 3.6/C =  2/F | -15, 5 | 12 (a lot of these were redo rounds on the left leg; if limited to both-leg rounds the number falls to 7)
 
 A few key insights that can be gleaned from the table:
 
@@ -192,33 +197,90 @@ A few key insights that can be gleaned from the table:
   something like once every 2 to 4 months, with variable step sizes
   depending on progress.
 
-* The rate of progress appears to have been fastest, both with linear
-  and exponential (geometric) fitting, from around July 2024 to June
-  2025 (the earlier portion of that showing faster geometric growth
-  and the later portion showing faster linear growth). After June
-  2025, the linear rate of growth is about 10 seconds per quarter, and
-  growth approximates linear better than exponential. Remarkably,
-  though, this is still comparable to or faster than the linear rate
-  of growth in the early period, and only slower than the linear rate
-  of growth in the first half of 2025, which happened to be unusually
-  fast.
+* The rate of progress over time appears to have been fastest, both
+  with linear and exponential (geometric) fitting, from around July
+  2024 to June 2025 (the earlier portion of that showing faster
+  geometric growth and the later portion showing faster linear
+  growth). After June 2025, the linear rate of growth is about 10
+  seconds per quarter, and growth approximates linear better than
+  exponential. Remarkably, though, this is still comparable to or
+  faster than the linear rate of growth in the early period, and only
+  slower than the linear rate of growth in the first half of 2025,
+  which happened to be unusually fast.
+
+* At least since the time I have been logging individual rounds
+  (2024-12-21), the linear rate of progress relative to number of
+  rounds seems to be something roughly on the order of 1 second per
+  round, and seems fairly consistent over time. The fluctuations may
+  partly be driven by rounding conventions and fluctuations in when I
+  document and how much margin I leave relative to the actual
+  attempts, which are much noisier and leave a lot of room for
+  interpretation in terms of how to adjust thresholds.
+
+  This recontextualizes the observation that growth was faster in the
+  first half of 2025 and slower since then. That change was mostly a
+  result of reduced execution frequency rather than reduced rate of
+  progress per round.
+
+  On the other hand, although I wasn't tracking individual rounds
+  prior to 2024-12-21, the [History of triggers for overall
+  exercise](#history-of-triggers-for-overall-exercise) subsection
+  makes clear that the frequency before 2024-12-21 was much higher
+  (close to daily) and it's very clear that I had to have been making
+  progress at a much slower rate given that I started at about 10
+  seconds prior to 2023-10-28 and had only reached 40 seconds on
+  2024-11-17. Even the period from 2024-11-17 to 2025-01-16 has a very
+  large number of recorded rounds (22, even though it covers only
+  2024-12-21 onward) compared to the threshold increase of 4
+  seconds. While the small size of the threshold increase on
+  2025-01-16 was partly a function of conservatism in light of
+  significant fluctuation in recent readings at the time, the overall
+  evidence still points to a qualitative shift starting around
+  mid-January 2025 to a faster rate of progress.
 
 A few additional notes covering nuances not directly visible in the
 table:
+
+* The improvements in the early period (from November 2021 to October
+  2023, where I made no threshold improvements and have no
+  attempt-specific records) were probably largely about being able to
+  consistently clear the threshold of 10 seconds with fewer
+  retries. While I think I was modally able to clear the threshold on
+  the first try shortly after I started the exercise, the fraction of
+  cases where I wasn't able to clear the threshold was nontrivial, and
+  retries were a regular part of my experience.
+
+* The frequency of retries, as well as the number of iterations when I
+  do have to retry, have both been going down over time, though most
+  of the improvement was prior to 2024-12-21 (the date I started
+  recording individual attempts). In recent times, the reduced
+  frequency of retries is partly a result of conservatism in threshold
+  increases. The reduction in number of iterations of retries when I
+  do have to retry is due to changes to retry policies that I describe
+  in the [How the threshold durations are
+  used](#how-the-threshold-durations-are-used) subsection.
+
+* The changes over time in the number of rounds is primary driven by
+  changes in the triggers; see the later subsection [History of
+  triggers for overall
+  exercise](#history-of-triggers-for-overall-exercise) for more
+  information. Some of the fluctuation may be driven by differences in
+  the frequency of skipping exercise.
 
 * 2024-01-18: I introduced temperature-based adjustment that didn't
   exist before. As my duration increased, the additive differences
   between what I could achieve at warmer and colder temperatures also
   rose in proportion and became measurable.
 
-* 2025-02-03: I previously did the exercise both before
-  jogging and between jogging and strength exercises. For the latter
-  execution, I did not apply temperature-based adjustments, with the
-  idea being that I was sufficiently warmed up from jogging that I
-  should expect to meet the unadjusted threshold. I dropped this
-  caveat eventually as I stopped doing the exercise between jogging
-  and strength exercises (see the next section for a history of
-  triggers for overall exercise).
+* 2025-02-03: I previously did the exercise both before jogging and
+  between jogging and strength exercises. For the latter execution, I
+  did not apply temperature-based adjustments, with the idea being
+  that I was sufficiently warmed up from jogging that I should expect
+  to meet the unadjusted threshold. I dropped this caveat eventually
+  as I stopped doing the exercise between jogging and strength
+  exercises (see the later subsection [History of triggers for overall
+  exercise](#history-of-triggers-for-overall-exercise) for more
+  context).
 
 * 2025-12-25: The switch in temperature-based adjustment from
   Celsius-based to Fahrenheit-based was to make it easier to apply the
