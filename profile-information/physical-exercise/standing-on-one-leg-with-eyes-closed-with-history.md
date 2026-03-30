@@ -154,7 +154,7 @@ and the downward adjustment is proportional to how far below 20
 degrees Celsius the indoor temperature is.
 
 Date of change | Baseline threshold duration (seconds) | Temperature adjustment (downward per unit temperature) (/C and /F) | Retry adjustment (seconds) (second try threshold minus first try threshold, difference of differences)
--- | -- | --
+-- | -- | -- | --
 original baseline (before 2023-10-28) |  10 |   N/A | N/A
 2023-10-28 |  12 |          N/A | N/A
 2023-11-18 |  14 |          N/A | N/A
