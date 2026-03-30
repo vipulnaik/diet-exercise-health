@@ -1380,11 +1380,11 @@ consumption is a lot higher in the winter months.
 
 Reading date | Potassium measurement (mmol/L) | Average daily potassium consumption in mg | Estimation method
 -- | -- | -- | --
-2025-09-10 (September 2025) | 4.1 | 3120 | Food preparations and openings (with completion data)
-2025-01-22 (January 2025)   | 4.4 | 4935 | Food preparations and openings (no completion data)
-2024-12-13 (December 2024)  | 4.3 | 5044 | Food preparations and openings (no completion data)
-2024-09-03 (September 2024) | 4.5 | 3456 | Food preparations and openings (no completion data)
-2024-04-30 (April 2024) (not fasting) | 4.1 | N/A | Food purchases (but I haven't constructed the query yet)
+2025-09-10 (September 2025) | 4.1 | 3120 | food preparations and openings (with completion data)
+2025-01-22 (January 2025)   | 4.4 | 4935 | food preparations and openings (no completion data)
+2024-12-13 (December 2024)  | 4.3 | 5044 | food preparations and openings (no completion data)
+2024-09-03 (September 2024) | 4.5 | 3456 | food preparations and openings (no completion data)
+2024-04-30 (April 2024) (not fasting) | 4.1 | N/A | food purchases (but I haven't constructed the query yet)
 
 When preparations and openings data is available, I use the following
 command to get average potassium consumption in the *week* prior to the
@@ -1430,11 +1430,11 @@ for the context of the temporary dietary changes.
 
 Reading date | BUN (mg/dL) | Average daily protein consumption in grams | Estimation method
 -- | -- | -- | --
-2025-09-10 (September 2025) | 13 |  76.3 | Food preparations and openings (with completion data)
-2025-01-22 (January 2025)   | 15 | 106.5 | Food preparations and openings (no completion data)
-2024-12-13 (December 2024)  | 17 | 108.5 | Food preparations and openings (no completion data)
-2024-09-03 (September 2024) |  6 |  49.7 | Food preparations and openings (no completion data)
-2024-04-30 (April 2024) (not fasting) | 14 | N/A | Food purchases (but I haven't constructed the query yet)
+2025-09-10 (September 2025) | 13 |  76.3 | food preparations and openings (with completion data)
+2025-01-22 (January 2025)   | 15 | 106.5 | food preparations and openings (no completion data)
+2024-12-13 (December 2024)  | 17 | 108.5 | food preparations and openings (no completion data)
+2024-09-03 (September 2024) |  6 |  49.7 | food preparations and openings (no completion data)
+2024-04-30 (April 2024) (not fasting) | 14 | N/A | food purchases (but I haven't constructed the query yet)
 2016-12-12 (December 2016)  | 13 | N/A | I don't have any available data
 
 When preparations and openings data is available, I use the following
