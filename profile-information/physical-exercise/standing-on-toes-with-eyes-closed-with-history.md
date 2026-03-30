@@ -117,7 +117,7 @@ thresholds was set as follows: 125 seconds for the first try, 105
 seconds for the second try, 90 seconds for the third try, 80 seconds
 for the fourth try, and 75 seconds for the fifth try. The sequence was
 chosen to be a quadratic sequence whose difference of differences is
--5 seconds. The first try threshold of 125 seconds represents what I
+5 seconds. The first try threshold of 125 seconds represents what I
 should be able to achieve in a good starting state without fatigue,
 and the fifth try threshold of 75 seconds represents what I should be
 able to achieve even under adverse conditions.

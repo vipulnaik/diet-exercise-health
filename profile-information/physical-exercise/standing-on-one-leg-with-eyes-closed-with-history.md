@@ -11,7 +11,7 @@ For the with-shoes variant of this exercise, see
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 100 seconds (with adjustment for temperature)
+### Maintain standing-on-one-leg-with-eyes-closed for at least 110 seconds (with adjustments for colder temperatures and retries)
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -23,19 +23,17 @@ According to
 [this](https://www.matassessment.com/blog/single-leg-balance-eyes-closed),
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
-(average of 18.3 seconds. As somebody in my late 30s / early 40s (as
-of 2025), my threshold is at least 100 seconds per leg with temperature
-adjustment, and in practice I do between 90 and 150 seconds on the
-first try most of the time; the portion of the range below 100 would
-generally be during colder temperatures where the threshold is also
-correspondingly lower.
+(average of 18.3 seconds). As somebody in my late 30s / early 40s (as
+of 2026), my threshold is at least 110 seconds per leg with
+adjustments for colder temperatures and retries, and I usually clear
+the threshold on the first attempt.
 
 At this point, it's not clear that increasing the duration has
 real-world effects either in practice or in theory,so my plan is to
-sustain the minimum of 100 seconds for
+sustain the minimum of 110 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
 up. Time considerations make it dificult to push the threshold too far
-up, even if I am eventually able to do clearly over 100 seconds.
+up, even if I am eventually able to do clearly over 110 seconds.
 
 In late 2025, I switched to doing these exercises along with rice
 prep, and multiplexed with listening to stuff, so the time is
@@ -44,9 +42,9 @@ said, the multiplexing is efficient only if I don't spend a *lot* of
 time standing on one leg and I don't have to do multiple repeat tries.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 100 seconds over a
-period of a little over 2 years, I think just being able to maintain
-at 100 seconds should be good enough.
+that I've increased the threshold from 10 seconds to 110 seconds over a
+period of about 2.5 years, I think just being able to maintain
+at 110 seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
 exercises, such as
@@ -74,33 +72,41 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 100 seconds with adjustments for colder temperatures)
+### Threshold duration (currently 110 seconds with adjustments for colder temperatures and retries)
 
-Starting 2025-12-25, the threshold duration is as follows:
+Starting 2026-03-29, the threshold duration is as follows:
 
-* Baseline of 100 seconds
+* Baseline thresholds are as follows for the first five tries: 110
+  seconds, 90 seconds, 75 seconds, 65 seconds, and 60 seconds. I stop
+  at the try where I exceed the baseline threshold for that try.
 
-* If the temperature is 68 degrees Fahrenheit (20 degrees Celsius) or
-  higher, no adjustment. If the temperature is greater than 50 degrees
-  Fahrenheit (10 degrees Celsius) and less than 68 degrees Fahrenheit,
-  then 2 times the temperature in degrees Fahrenheit minus 36 (so the
-  lowest threshold is at 51 degrees Fahrenheit where it is 66
-  seconds). If the temperature is 50 degrees Fahrenheit or less, I
-  don't have a set threshold (this is partly because my home
-  temperature reading does not work at or below 50 degrees
-  Fahrenheit).
+* If the indoor temperature at time of exercise is 68 degrees
+  Fahrenheit (20 degrees Celsius) or higher, no adjustment. If the
+  temperature is greater than 50 degrees Fahrenheit (10 degrees
+  Celsius) and less than 68 degrees Fahrenheit, then subtract 2 times
+  (68 minus temperature in degrees Fahrenheit) from the
+  attempt-specific threshold.
 
 * I should also make a point of recording indoor temperature every
   time I do the exercise, which will allow me to make future updates
   to the baseline and to the temperature-based adjustment.
 
-### How the threshold duration is used
+### How the threshold durations are used
 
 If I don't clear the threshold duration on my first attempt, I
-continue to do attempts until I clear the threshold on any
-attempt. The maximum number of attempts is 5.
+continue to do attempts until I clear the attempt-specific threshold
+on that attempt. The maximum number of attempts is 5.
 
-NOTE: Prior to 2024-11-19, I was using the median across attempts
+NOTE: Prior to 2026-03-29, I was using the same threshold across
+attempts. On 2026-03-29, I switched to a descending sequence of
+attempt-specific thresholds. The sequence is chosen as a quadratic
+sequence; the initial sequence has a difference of differences of 5
+seconds. The first try threshold represents what I should be able to
+achieve in a good starting state without fatigue, and the fifth try
+threshold represents what I should be able to achieve even adverse
+conditions.
+
+NOTE 2: Prior to 2024-11-19, I was using the median across attempts
 rather than the maximum. With the significantly increased threshold,
 using the maximum makes sense and helps make sure I don't end up
 spending several minutes on this exercise. The median made sense in
@@ -122,7 +128,9 @@ try if I exceed the threshold on the first try).
 ### Overall exercise: both legs
 
 For the overall exercise, I do the above for one leg, then after
-completion I do it for the other leg.
+completion I do it for the other leg. In some cases, I may do the
+other leg between tries for the first leg to help with strength
+recovery of the first leg.
 
 ## Triggers for overall exercise
 
@@ -136,312 +144,104 @@ frequency is once every 9 to 15 days.
 
 ### History of threshold durations
 
-* Prior to 2023-10-28, the de facto threshold duration was 10 seconds
-
-* Starting 2023-10-28, the threshold duration was increased to 12
-  seconds
-
-* Starting 2023-11-18, the threshold duration was increased to 14
-  seconds
-
-* Starting 2024-01-18, I followed this rule:
-
-  * Baseline of 18 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (18 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. For every degree celsius
-    that the indoor temperature is less than 20 degrees Celsius (68
-    degrees Fahrenheit), I subtract 1 second.  For instance, if the
-    indoor temperature is 15 degrees Celsius (59 degrees Fahrenheit),
-    my target is 18 - (20 - 15) = 13 seconds.
-
-  This temperature-dependence is based on the observation that my
-  ability to stand on one leg with eyes closed is harder at colder
-  temperatures.
-
-* Starting 2024-05-07, I am increasing the baseline threshold to 20
-  seconds, as I pretty consistently exceed 20 seconds on the first try
-  nowadays. The new logic is:
-
-  * Baseline of 20 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (20 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than 0 degrees Celsius and less than 20 degrees Celsius,
-    then the temperature rounded down in degrees Celsius. If the
-    temperature is less than 0 degrees Celsius, I shouldn't be doing
-    this exercise!
-
-* Starting 2024-07-15, I am increasing the baseline threshold to 23
-  seconds, as I pretty consistently exceed 23 seconds on the first try
-  nowadays. The new logic is:
-
-  * Baseline of 23 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (23 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than -3 degrees Celsius and less than 20 degrees Celsius,
-    then 3 + the temperature rounded down in degrees Celsius. If the
-    temperature is less than -3 degrees Celsius, I shouldn't be doing
-    this exercise!
-
-* Starting 2024-08-08, I am increasing the baseline threshold to 27
-  seconds, as I pretty consistently exceed 27 seconds on the first try
-  nowadays. The new logic is:
-
-  * Baseline of 27 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (27 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than -7 degrees Celsius and less than 20 degrees Celsius,
-    then 7 + the temperature rounded down in degrees Celsius. If the
-    temperature is less than -7 degrees Celsius, I shouldn't be doing
-    this exercise!
-
-* Starting 2024-09-09, I am increasing the baseline threshold to 30
-  seconds, as I pretty consistently exceed 30 seconds on the first try
-  nowadays. The new logic is:
-
-  * Baseline of 30 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (30 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than -10 degrees Celsius and less than 20 degrees Celsius,
-    then 10 + the temperature rounded down in degrees Celsius. If the
-    temperature is less than -10 degrees Celsius, I shouldn't be doing
-    this exercise!
-
-* Starting 2024-09-27, I am increasing the baseline threshold to 32
-  seconds, as I pretty consistently exceed 32 seconds on the first try
-  nowadays. I am also doubling the magnitude of temperature-based
-  adjustment. The new logic is:
-
-  * Baseline of 32 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (32 seconds remains the target).
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than 4 degrees Celsius and less than 20 degrees Celsius,
-    then twice the temperature in degrees Celsius - 8. For instance,
-    if the temperature is 10 degrees Celsius, the threshold is 12. For
-    temperatures of less than 4 degrees Celsius, I should skip this
-    exercise or do it with no threshold expectation.
-
-* Starting 2024-10-17, I am increasing the baseline threshold to 34
-  seconds. After many tries I've found about 35-36 seconds to be the
-  lowest outside of cases of sudden balance loss, so a baseline of 34
-  seconds will likely work. The new logic is:
-
-  * Baseline of 34 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (34 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than 3 degrees Celsius and less than 20 degrees Celsius,
-    then twice the temperature in degrees Celsius - 6. For instance,
-    if the temperature is 10 degrees Celsius, the threshold is 14. For
-    temperatures of less than 3 degrees Celsius, I should skip this
-    exercise or do it with no threshold expectation.
-
-* Starting 2024-11-05, I am increasing the baseline threshold to 36
-  seconds. The new logic is:
-
-  * Baseline of 36 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (36 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than 2 degrees Celsius and less than 20 degrees Celsius,
-    then twice the temperature in degrees Celsius - 4. For instance,
-    if the temperature is 10 degrees Celsius, the threshold is 14. For
-    temperatures of 2 degrees Celsius or less, I should skip this
-    exercise or do it with no threshold expectation.
-
-* Starting 2024-11-17, I am increasing the baseline threshold to 40
-  seconds. The new logic is:
-
-  * Baseline of 40 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (40 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than 0 degrees Celsius and less than 20 degrees Celsius,
-    then twice the temperature in degrees Celsius (in seconds). For
-    instance, if the temperature is 10 degrees Celsius, the threshold
-    is 20 seconds. For temperatures of 0 degrees Celsius or less, I
-    should skip this exercise or do it with no threshold expectation.
-
-* Starting 2025-01-16, I am increasing the baseline threshold to 44
-  seconds. The new logic is:
-
-  * Baseline of 44 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (44 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than -2 degrees Celsius and less than 20 degrees Celsius,
-    then twice the temperature in degrees Celsius plus 4 (in
-    seconds). For instance, if the temperature is 10 degrees Celsius,
-    the threshold is 24 seconds. For temperatures of -2 degrees
-    Celsius or less, I should skip this exercise or do it with no
-    threshold expectation.
-
-* Starting 2025-01-21, I am increasing the baseline threshold to 50
-  seconds. The new logic is:
-
-  * Baseline of 50 seconds
-
-  * If I am doing the exercise after I return from jogging, no
-    adjustment (50 seconds remains the target)
-
-  * If I am doing the exercise without jogging or similar warmup, then
-    temperature-based adjustment as follows. If the temperature is 20
-    degrees Celsius or higher, no adjustment. If the temperature is
-    greater than -5 degrees Celsius and less than 20 degrees Celsius,
-    then twice the temperature in degrees Celsius plus 10 (in
-    seconds). For instance, if the temperature is 10 degrees Celsius,
-    the threshold is 30 seconds. For temperatures of -5 degrees
-    Celsius or less, I should skip this exercise or do it with no
-    threshold expectation.
-
-* Starting 2025-02-03, I am increasing the baseline threshold to 60
-  seconds, but also increasing the temperature-based adjustment to 3
-  seconds for every degree Celsius. I am also removing the "return
-  from jogging" exemption. The new logic is:
-
-  * Baseline of 60 seconds
-
-  * If the temperature is 20 degrees Celsius or higher, no
-    adjustment. If the temperature is greater than 0 degrees Celsius
-    and less than 20 degrees Celsius, then three times the temperature
-    in degrees Celsius (in seconds). For instance, if the temperature
-    is 10 degrees Celsius, the threshold is 30 seconds.
-
-* Starting 2025-03-03, I am increasing the baseline threshold to 66
-  seconds. The new logic is:
-
-  * Baseline of 66 seconds
-
-  * If the temperature is 20 degrees Celsius or higher, no
-    adjustment. If the temperature is greater than 0 degrees Celsius
-    and less than 20 degrees Celsius, then 6 + three times the temperature
-    in degrees Celsius (in seconds). For instance, if the temperature
-    is 10 degrees Celsius, the threshold is 36 seconds.
-
-* Starting 2025-04-12, I am increasing the baseline threshold to 75
-  seconds. The new logic is:
-
-  * Baseline of 75 seconds
-
-  * If the temperature is 20 degrees Celsius or higher, no
-    adjustment. If the temperature is greater than 0 degrees Celsius
-    and less than 20 degrees Celsius, then 15 + three times the temperature
-    in degrees Celsius (in seconds). For instance, if the temperature
-    is 10 degrees Celsius, the threshold is 45 seconds.
-
-* Starting 2025-06-22, I am increasing the baseline threshold to 80
-  seconds. The new logic is:
-
-  * Baseline of 80 seconds
-
-  * If the temperature is 20 degrees Celsius or higher, no
-    adjustment. If the temperature is greater than 0 degrees Celsius
-    and less than 20 degrees Celsius, then 20 + three times the temperature
-    in degrees Celsius (in seconds). For instance, if the temperature
-    is 10 degrees Celsius, the threshold is 50 seconds.
-
-* Starting 2025-11-11, I am increasing the baseline threshold to 90
-  seconds. The new logic is:
-
-  * Baseline of 90 seconds
-
-  * If the temperature is 20 degrees Celsius or higher, no
-    adjustment. If the temperature is greater than 0 degrees Celsius
-    and less than 20 degrees Celsius, then 30 + three times the
-    temperature in degrees Celsius (in seconds). For instance, if the
-    temperature is 10 degrees Celsius, the threshold is 60 seconds.
-
-  This increase is based on a review of data since the beginning of
-  June. Over this period, I have gone below 90 seconds on my right leg
-  just once (86 seconds). At that time, my foot and socks were wet,
-  and the second try worked. I have gone below 90 seconds on my left
-  leg twice (once along with the right leg, and one other time where I
-  got to 88 seconds). Most of the time, I get above 100 seconds on
-  both legs.
-
-* Starting 2025-12-25, I am increasing the baseline threshold to 100
-  seconds and also updating the temperature-based adjustment
-  logic. The new logic is:
-
-  * Baseline of 100 seconds
-
-  * If the temperature is 68 degrees Fahrenheit (20 degrees Celsius)
-    or higher, no adjustment. If the temperature is greater than 50
-    degrees Fahrenheit (10 degrees Celsius) and less than 68 degrees
-    Fahrenheit, then 2 times the temperature in degrees Fahrenheit
-    minus 36 (so the lowest threshold is at 51 degrees Fahrenheit
-    where it is 66 seconds). If the temperature is 50 degrees
-    Fahrenheit or less, I don't have a set threshold (this is partly
-    because my home temperature reading does not work at or below 50
-    degrees Fahrenheit).
-
-  * I should also make a point of recording indoor temperature every
-    time I do the exercise, which will allow me to make future updates
-    to the baseline and to the temperature-based adjustment.
-
-  These updates are based on a review of recent data over the months
-  of November 2025 and December 2025. The switch to Fahrenheit makes
-  it easier to apply the logic since my home temperature reading is in
-  Fahrenheit, and it also provides a bit more granularity. The floor
-  of 50 degrees Fahrenheit takes into account measurement
-  limitations. The overall magnitude of adjustment per degree Celsius
-  is up from 3 per degree Celsius to 3.6 per degree Celsius
-  (multiplying the 2 per degree Fahrenheit with the adjustment factor
-  of 1.8). In addition to being arithmetically more expedient, this
-  increase also increases the adjustment rate approximately in line
-  with the increase in the baseline threshold.
-
-  Unfortunately, I didn't record indoor temperature around the time of
-  each measurement, though I do have indoor temperature measurements
-  at other times of the day so I have a general sense of the
-  temperature. My right leg has consistently been above 100 seconds,
-  and my left leg has been only slightly below 100 seconds twice, and
-  both times, based on my estimate of indoor temperature, I think I
-  was in the clear.
+The threshold durations are presented below in table form. Some
+nuances around conditions may be lost relative to the original
+presentation, which can be accessed in the git history of this file.
+
+Temperature adjustments always start for indoor temperature at
+exercise time is less than 20 degrees Celsius (68 degrees Fahrenheit)
+and the downward adjustment is proportional to how far below 20
+degrees Celsius the indoor temperature is.
+
+Date of change | Baseline threshold duration (seconds) | Temperature adjustment (downward per unit temperature) (/C and /F) | Retry adjustment (seconds) (second try threshold minus first try threshold, difference of differences)
+-- | -- | --
+original baseline (before 2023-10-28) |  10 |   N/A | N/A
+2023-10-28 |  12 |          N/A | N/A
+2023-11-18 |  14 |          N/A | N/A
+2024-01-18 |  18 | 1/C = 0.56/F | N/A
+2024-05-07 |  20 | 1/C = 0.56/F | N/A
+2024-07-15 |  23 | 1/C = 0.56/F | N/A
+2024-08-08 |  27 | 1/C = 0.56/F | N/A
+2024-09-09 |  30 | 1/C = 0.56/F | N/A
+2024-09-27 |  32 | 2/C = 1.11/F | N/A
+2024-10-17 |  34 | 2/C = 1.11/F | N/A
+2024-11-05 |  36 | 2/C = 1.11/F | N/A
+2024-11-17 |  40 | 2/C = 1.11/F | N/A
+2025-01-16 |  44 | 2/C = 1.11/F | N/A
+2025-01-21 |  50 | 2/C = 1.11/F | N/A
+2025-02-03 |  60 | 3/C = 1.67/F | N/A
+2025-03-03 |  66 | 3/C = 1.67/F | N/A
+2025-04-12 |  75 | 3/C = 1.67/F | N/A
+2025-06-22 |  80 | 3/C = 1.67/F | N/A
+2025-11-11 |  90 | 3/C = 1.67/F | N/A
+2025-12-25 | 100 | 3.6/C =  2/F | N/A
+2026-03-29 | 110 | 3.6/C =  2/F | -15, 5
+
+A few key insights that can be gleaned from the table:
+
+* The update frequency has, on the whole, been going down, though not
+  monotonically. For instance, there was a huge gap early on between
+  2024-01-18 and 2024-05-07 and the update frequency was unusually
+  high from 2025-01 to 2025-04. However, the reduced update frequency
+  2025-04-12 onward has two more fundamental drivers: (a) the
+  frequency of execution of the exercise has gone down, so it takes a
+  long time to get enough data points to build confidence in a
+  threshold update, and (b) the durations are longer and more subject
+  to noise, which compounds the need for more data points. This is
+  unlikely to reverse, so most likely the update cadence will remain
+  something like once every 2 to 4 months, with variable step sizes
+  depending on progress.
+
+* The rate of progress appears to have been fastest, both with linear
+  and exponential (geometric) fitting, from around July 2024 to June
+  2025 (the earlier portion of that showing faster geometric growth
+  and the later portion showing faster linear growth). After June
+  2025, the linear rate of growth is about 10 seconds per quarter, and
+  growth approximates linear better than exponential. Remarkably,
+  though, this is still comparable to or faster than the linear rate
+  of growth in the early period, and only slower than the linear rate
+  of growth in the first half of 2025, which happened to be unusually
+  fast.
+
+A few additional notes covering nuances not directly visible in the
+table:
+
+* 2024-01-18: I introduced temperature-based adjustment that didn't
+  exist before. As my duration increased, the additive differences
+  between what I could achieve at warmer and colder temperatures also
+  rose in proportion and became measurable.
+
+* 2025-02-03: I previously did the exercise both before
+  jogging and between jogging and strength exercises. For the latter
+  execution, I did not apply temperature-based adjustments, with the
+  idea being that I was sufficiently warmed up from jogging that I
+  should expect to meet the unadjusted threshold. I dropped this
+  caveat eventually as I stopped doing the exercise between jogging
+  and strength exercises (see the next section for a history of
+  triggers for overall exercise).
+
+* 2025-12-25: The switch in temperature-based adjustment from
+  Celsius-based to Fahrenheit-based was to make it easier to apply the
+  logic since my home temperature reading is in Fahrenheit, and it
+  also provides a bit more granularity. I also imposed a floor of 50
+  degrees Fahrenheit to take into account measurement limitations. At
+  the time of transition, the overall magnitude of adjustment per
+  degree Celsius went up from 3 per degree Celsius to 3.6 per degree
+  Celsius (multiplying the 2 per degree Fahrenheit with the adjustment
+  factor of 1.8). In addition to being arithmetically more expedient,
+  this also increased the adjustment rate approximately in line with
+  the increase in the baseline threshold.
+
+* 2026-03-29: I switched to attempt-specific thresholds, with the
+  threshold reducing for later attempts. This was in order to take
+  into account the fatiguing effect of earlier attempts. This had been
+  less of a concern in the past because the attempts were short and
+  not fatiguing, but it became more of an issue as both my durations
+  and the thresholds increased. I chose a quadratic sequence
+  implementation. The first try threshold represents what I should be
+  able to achieve in a good starting state without fatigue, and the
+  fifth try threshold represents what I should be able to achieve even
+  under adverse conditions.
 
 ### History of triggers for overall exercise
 
