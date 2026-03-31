@@ -350,7 +350,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-16','TJ Walnuts',1,2,'2026-03-20',2),
   ('2026-03-16','TJ Carb Savvy Tortillas',1,2,'2026-03-17',2),
   ('2026-03-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-03-18',2),
-  ('2026-03-17','TJ Sauerkraut',1,1,null,null),
+  ('2026-03-17','TJ Sauerkraut',1,1,'2026-03-30',1),
   ('2026-03-18','TJ Carb Savvy Tortillas',1,1,'2026-03-19',1), /* checkpoint: stock down to 0 */
   /* 2026-03-18 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-03-18','Eggplant',1,2,'2026-03-28',2),
@@ -389,7 +389,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-25','TJ Carb Savvy Tortillas',1,1,'2026-03-26',1),
   ('2026-03-26','TJ Carb Savvy Tortillas',1,1,'2026-03-28',1),
   ('2026-03-28','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-03-29',1),
-  ('2026-03-28','TJ Carb Savvy Tortillas',1,2,null,null),
+  ('2026-03-28','TJ Carb Savvy Tortillas',1,2,'2026-03-30',1),
   ('2026-03-28','TJ Roasted Seaweed',1,2,null,null),
   ('2026-03-28','TJ Miso Ginger Broth',1,2,null,null),
   /* 2026-03-29 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
