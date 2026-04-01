@@ -42,7 +42,7 @@ formal execution I find that I haven't done them at all for at least
 
 END OF SECTION: Quick minimum audible volume and balance tests
 
-### Quick max frequency hearing test
+### Quick max frequency hearing test (intended only for normal headphones)
 
 This is a quick version of the max frequency hearing test described in
 a later section. Instead of playing the whole 2-minute video
@@ -53,14 +53,31 @@ eyes right after the clip ends. I should do the left and right ear
 separately.
 
 I should log this to Slack as `quick max frequency hearing test passed
-(both ears) with normal headphones` or `quick max frequency hearing
-test passed (both ears) with bone conduction headphones`.
+(both ears) with normal headphones`.
 
 Remember to return to normal volume and set balance back to neutral.
 
 END OF SECTION: Quick max frequency hearing test
 
-### Quick auditory reaction time test
+### Quick tonal loss point test (intended only for normal headphones)
+
+This is a part of the long max frequency hearing test that is focused
+only on confirming that I can my tonal loss point is at or above 13000
+Hz.
+
+Play https://www.youtube.com/watch?v=zUmbmssqHOY start 1:28 and make
+sure I can hear clear tonality in both left and right ear for a few
+seconds after that. Finding the exact tonal loss point is not
+important.
+
+I should log this to Slack as `quick tonal loss point test passed
+(both ears) with normal headphones`.
+
+Remember to return to normal volume and set balance back to neutral.
+
+END OF SECTION: Quick tonal loss point test
+
+### Quick auditory reaction time test (intended only for normal headphones)
 
 Test to play: https://playback.fm/audio-reaction-time
 
@@ -69,8 +86,9 @@ headphones have a latency of a few hundred milliseconds.
 
 Play this once with the left ear and once with the right ear, and
 record in Slack self-chat logs with message of the format: `auditory
-reaction time: <number> ms with left ear, `<number>` ms with right
-ear`
+reaction time: <number> ms with left ear, <number> ms with right
+ear`. Note that I may not always add a space between `<number>` and
+ms.
 
 The values should be around 300 ms or lower; values above 350 ms are
 concerning and might call for a replay.
