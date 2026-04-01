@@ -405,5 +405,5 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-31','TJ Almond Milk',1,1,null,null),
   ('2026-03-31','TJ Sauerkraut',1,1,null,null),
-  ('2026-03-31','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null);
+  ('2026-03-31','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-04-01',1);
   /* Double-check the date and meal index before committing */
