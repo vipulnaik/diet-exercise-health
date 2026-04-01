@@ -458,3 +458,12 @@ On Sunday 2026-03-29, I was low on cooked food (as a result of low
 cyclic personal chores count over the week), so I needed to both make
 a shopping trip and cook food. To preserve time and energy for both, I
 skipped all exercises.
+
+## 2026-04-01: skipped all exercises to shift schedule to a little earlier (after drift) and make time for shopping trip in the non-rain time window
+
+On Wednesday 2026-04-01, I skipped all exercises in order to shift my
+schedule to a little earlier after lateward drift, and also to make
+sure I can go grocery shopping in the time window where it was not
+expected to rain. This was also expected to have the added benefit of
+giving me a bit of time to recover from a slightly-heavier-than-usual
+exercise load on 2026-03-31.
