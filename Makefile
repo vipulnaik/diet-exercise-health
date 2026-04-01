@@ -62,6 +62,7 @@ read_medical_data:
 
 .PHONY: verify_medical_data
 verify_medical_data:
+	python3 python/length_measurements_verification_queries.py
 	python3 python/test_results_verification_queries.py
 	python3 python/readings_verification_queries.py
 	python3 python/vaccine_administrations_verification_queries.py

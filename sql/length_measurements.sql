@@ -22,4 +22,11 @@ insert into length_measurements(measurement_date, measurement_type, side, measur
   ('2025-12-20','height from outer edge of eyebrow to hairline above it','right',8.0),
   /* measurements taken 2025-12-21 */
   ('2025-12-21','wrist circumference','left',16),
-  ('2025-12-21','wrist circumference','right',16);
+  ('2025-12-21','wrist circumference','right',16),
+  /* measurements taken 2026-04-01 */
+  ('2026-04-01','height from glabella to central hairline','N/A',7),
+  ('2026-04-01','vellus band width of central hairline','N/A',0.5),
+  ('2026-04-01','height from outer edge of eyebrow to hairline above it','left',7.5),
+  ('2026-04-01','vellus band width of temple hairline','left',1.5),
+  ('2026-04-01','height from outer edge of eyebrow to hairline above it','right',7.5),
+  ('2026-04-01','vellus band width of temple hairline','right',1.5);
