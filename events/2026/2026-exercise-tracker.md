@@ -467,3 +467,8 @@ sure I can go grocery shopping in the time window where it was not
 expected to rain. This was also expected to have the added benefit of
 giving me a bit of time to recover from a slightly-heavier-than-usual
 exercise load on 2026-03-31.
+
+## 2026-04-02: skipped all exercises to fit meal prep in the early afternoon after a work meeting
+
+On Thursday 2026-04-02, I skipped all exercises to be able to fit meal
+prep in the early afternoon after a work meeting.
