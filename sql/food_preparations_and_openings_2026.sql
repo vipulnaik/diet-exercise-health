@@ -393,10 +393,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-28','TJ Roasted Seaweed',1,2,null,null),
   ('2026-03-28','TJ Miso Ginger Broth',1,2,null,null),
   /* 2026-03-29 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-03-29','Gold potatoes 5 lb',0.5,1,null,null),
-  ('2026-03-29','TJ Kale',1,1,null,null),
-  ('2026-03-29','TJ English Shelled Peas',2,1,null,null),
-  ('2026-03-29','Beefsteak tomato',4,1,null,null), /* 3 of old stock and 1 of new stock, leaving 4 of new stock */
+  ('2026-03-29','Gold potatoes 5 lb',0.5,1,'2026-04-02',1),
+  ('2026-03-29','TJ Kale',1,1,'2026-04-02',1),
+  ('2026-03-29','TJ English Shelled Peas',2,1,'2026-04-02',1),
+  ('2026-03-29','Beefsteak tomato',4,1,'2026-04-02',1), /* 3 of old stock and 1 of new stock, leaving 4 of new stock */
   /* new bottle/packet openings as the old ones finished */
   ('2026-03-29','TJ Walnuts',1,1,'2026-04-01',2),
   ('2026-03-29','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-03-30',2),
@@ -407,5 +407,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-31','TJ Sauerkraut',1,1,null,null),
   ('2026-03-31','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-04-01',1),
   ('2026-04-01','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-04-01','TJ Walnuts',1,2,null,null);
+  ('2026-04-01','TJ Walnuts',1,2,null,null),
+  /* 2026-04-02 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-04-02','Eggplant',1,1,null,null),
+  ('2026-04-02','TJ Kale',1,1,null,null),
+  ('2026-04-02','TJ Carrots',1,1,null,null),
+  ('2026-04-02','Green bell pepper',4,1,null,null),
+  ('2026-04-02','Red bell pepper',2,1,null,null),
+  ('2026-04-02','Beefsteak tomato',9,1,null,null); /* checkpoint: stock down to 0 */
   /* Double-check the date and meal index before committing */
