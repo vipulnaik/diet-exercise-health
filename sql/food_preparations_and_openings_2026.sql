@@ -390,7 +390,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-26','TJ Carb Savvy Tortillas',1,1,'2026-03-28',1),
   ('2026-03-28','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-03-29',1),
   ('2026-03-28','TJ Carb Savvy Tortillas',1,2,'2026-03-30',1),
-  ('2026-03-28','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-03-28','TJ Roasted Seaweed',1,2,'2026-04-03',2),
   ('2026-03-28','TJ Miso Ginger Broth',1,2,null,null),
   /* 2026-03-29 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-03-29','Gold potatoes 5 lb',0.5,1,'2026-04-02',1),
