@@ -137,7 +137,7 @@ fluctuations.
 
 Tolerance refers to the force that can be tolerated without structural
 damage. Generally, the maximum force production falls well short of
-the tolerance (ranging from 50% to 80%, going higher usually in
+the tolerance (ranging from 60% to 80%, going higher usually in
 emergency situations with adrenaline pumping); this is the
 neuromuscular safety buffer to prevent injury. Tolerance becomes
 relevant when passively subject to force, e.g., being in an
