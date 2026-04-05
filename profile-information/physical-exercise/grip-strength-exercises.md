@@ -26,7 +26,7 @@ The fingers may also be used to grip stuff *between the fingers*; this
 is called a lateral pinch when it includes the thumb and an
 interdigital grip for two non-thumb fingers. This again is different.
 
-## A few important distinctions around grip
+## A few important axes of distinction around grip
 
 ### Whole-body pull versus local grip
 
@@ -144,7 +144,7 @@ force production through dynamic movement.
 It therefore differs from the dynamometer where the force production
 has to be achieved without any movement feedback.
 
-### Part of hand and posture
+### Region of contact
 
 The part of the hand through which the force is applied can affect the
 force production. The posture of the hand at the time of application
@@ -156,9 +156,11 @@ on the other side. On the other hand, dead hang exercises mostly
 involve the contact-from-above (which bears most of the weight) at the
 proximal phalanx for most of the time.
 
-Not just the part of hand, but also the posture, can affect the
-ability to recruit force production. This might hinge more on the
-"neuro" side of the neuromuscular system.
+### Geometry (open hand versus closed hand)
+
+It matters whether we have an "open hand" geometry (as with a
+dynamometer) or a "closed hand" geometry (as with a hand gripper at
+the point of closing).
 
 ### Worked toy example: hand gripper hold-and-close versus dynamometer
 
@@ -181,3 +183,77 @@ It could be some mix of:
   position. The dynamometer is a more awkward "open hand" position,
   with contact at the proximal/middle phalanx.
 
+## My various grip strength exercises
+
+### Hand gripper exercises
+
+More information:
+[hand-gripper-exercises-with-history.md](hand-gripper-exercises-with-history.md). As
+of 2026-04-04, the linked document has not been updated with recent
+experimental protocol changes and with the improved understanding
+reflected in the current document.
+
+I started hand gripper exercises in July 2023, and my performance on
+these improved over the next few years.
+
+Here's how hand gripper exercises fit along the various axes of
+distinction:
+
+* Whole-body pull versus local grip: All the hand gripper exercises
+  are completely local grip exercises.
+
+* Force production versus force tolerance / transmission: Most of the
+  hand gripper exercises require the entirety of the force to be
+  produced directly by the hand. The one slight exception is the
+  wrapped hands exercise that I introduced for 200 lb, where one hand
+  wraps around the other, so the inner hand is transmitting more force
+  that it is producing.
+
+* Static versus dynamic in the context of recruitment and maintenance:
+  Most hand gripper exercises have a dynamic recruitment phase. This
+  means that the ramping up of force happens in the context of dynamic
+  feedback (things are moving).
+
+  The close-and-hold exercises have a static maintenance phase
+  after the dynamic recruitment phase.
+
+  As of 2026-04-04, I am experimenting with a transfer exercise where
+  I try to transfer a closed hand gripper from one hand to the other,
+  trying to keep it as close to closed as possible through the
+  process, and re-closing after the transfer is complete. In this
+  case, the receiving hand is initially engaged in static recruitment,
+  which proves insufficient, leading to the gripper opening. Once the
+  gripper is transferred to the receiving hand, further recruitment
+  (to close it beyond however much it has opened) is dynamic.
+
+* Part of hand: For the normal exercise pattern, the hand gripper is
+  held in the thenar eminence on one side and the middle and distal
+  phalanxes of each of the wrapping non-thumb fingers on the other
+  side, with the DIP joint being the most prominent joint of
+  contact. This is also true of fingers-excluded variants for the
+  remaining fingers, the middle and distal phalanxes are in contact,
+  with the DIP joint being the crucial joint of contact.
+
+  As of 2026-04-04, I plan to experiment with other exercise patterns
+  with lighter hand grippers, such as using the forethumb rather than
+  the thenar eminence on one side.
+
+* Geometry: The geometry is "open hand" when the hand gripper is in
+  the open position and "closed hand" when the hand gripper is in the
+  closed position. Since the force requirement is more as the hand
+  gripper gets closer to closing, the peak force requirement is in
+  closed hand geometry. Essentially, the ramping up of force happens
+  as the hand transitions from an open hand to a closed hand geometry.
+
+  Note that the forethumb variant described above is a different
+  geometric evolution -- it does not produce a closed hand geometry
+  even at the point of closing.
+
+A note on ratings: Hand gripper ratings are likely based on the force
+needed to close them at the edges where it's minimal, due to the lever
+principle. Since the hand is not a single point, the actual force the
+hand needs to produce, being distributed closer than the edge, is
+likely more. The force will also be more as one moves up the hand
+gripper, as will the static versus dynamic aspect (less movement
+feedback per unit force, so recruiting a more static pattern of force
+application).
