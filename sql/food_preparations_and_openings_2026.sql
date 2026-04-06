@@ -391,7 +391,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-28','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-03-29',1),
   ('2026-03-28','TJ Carb Savvy Tortillas',1,2,'2026-03-30',1),
   ('2026-03-28','TJ Roasted Seaweed',1,2,'2026-04-03',2),
-  ('2026-03-28','TJ Miso Ginger Broth',1,2,null,null),
+  ('2026-03-28','TJ Miso Ginger Broth',1,2,'2026-04-05',2),
   /* 2026-03-29 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-03-29','Gold potatoes 5 lb',0.5,1,'2026-04-02',1),
   ('2026-03-29','TJ Kale',1,1,'2026-04-02',1),
@@ -407,7 +407,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-31','TJ Sauerkraut',1,1,null,null),
   ('2026-03-31','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-04-01',1),
   ('2026-04-01','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-04-02',2),
-  ('2026-04-01','TJ Walnuts',1,2,null,null),
+  ('2026-04-01','TJ Walnuts',1,2,'2026-04-05',2),
   /* 2026-04-02 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-04-02','Eggplant',1,1,null,null),
   ('2026-04-02','TJ Kale',1,1,null,null),
@@ -419,6 +419,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-02','Lundberg Sustainable California White Jasmine Rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-04-02','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2026-04-04',1),
-  ('2026-04-04','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null),
-  ('2026-04-04','TJ Roasted Seaweed',1,2,null,null);
+  ('2026-04-04','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-04-05',2),
+  ('2026-04-04','TJ Roasted Seaweed',1,2,null,null),
+  /* 2026-04-05 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-04-05','Gold potatoes 5 lb',0.5,2,null,null),
+  ('2026-04-05','TJ Kale',1,2,null,null),
+  ('2026-04-05','TJ English Shelled Peas',2,2,null,null),
+  ('2026-04-05','Beefsteak tomato',5,2,null,null), /* checkpoint: stock down to 0 */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-04-05','TJ Miso Ginger Broth',1,2,null,null),
+  ('2026-04-05','TJ Walnuts',1,2,null,null);
   /* Double-check the date and meal index before committing */
