@@ -302,7 +302,8 @@ highlights:
 
   * I brush teeth once in the morning (before eating) and once about 2
     to 4 hours after each meal (I have two meals, so that's 3 times a
-    day brushing in total).
+    day brushing in total). I use an ultra soft toothbrush and change
+    it every 3 months.
 
     I mostly use a stannous fluoride toothpaste (Colgate), though I
     may on occasion use a sodium fluoride toothpaste when a stannous
@@ -315,7 +316,7 @@ highlights:
     teeth. I also cover my tongue and cheek, and do a final round
     focused on the gums.
 
-    About once every 2 to 5 days (aspirationally every 3 to 4 days),
+    About once every 2 to 5 days (aspirationally once every 2 days),
     after regular brushing, I lightly brush my back teeth with a small
     amount of baking soda toothpaste, to reduce staining of the back
     teeth.
@@ -324,16 +325,33 @@ highlights:
     (aspirationally about 30 to 45 minutes) after the completion of
     each meal, so I floss twice a day and rinse twice a day. I use an
     interdental brush for flossing for one meal per day and a floss
-    pick for flossing for the other meal. When using the interdental
-    brush, I floss before rinsing, whereas when using the floss pick,
-    I rinse before flossing. For rinsing, I use saltwater; I don't use
-    a mouthwash.
+    pick (with handle) for flossing for the other meal. When using the
+    interdental brush, I floss before rinsing, whereas when using the
+    floss pick, I rinse before flossing. For rinsing, I use saltwater;
+    I don't use a mouthwash.
 
-* Additionally, I execute the [dental self-exam
+* I execute the [dental self-exam
   checklist](../checklists/dental-self-exam-checklist.md) every 2 to 4
   months and also try to execute it before and after each dental
   cleaning, time permitting. The execution log is
   [here](../logs/dental-self-exam-checklist-log.md).
+
+* I execute some parts of the dental self-exam checklist in isolation
+  more frequently:
+
+  * I try to do an intra-oral mirror check of the back teeth about
+    once a week, though in practice it can be once every 1 to 2 weeks.
+
+  * I try to do floss pick pressure testing (where I press a floss
+    pick moderately hard against each interdental gap) once every 3 to
+    4 weeks, since this is one part of the dental self-exam checklist
+    that seems good at flagging the development of issues in the
+    interdental gaps.
+
+  * I try to do a "squeaky clean teeth" test where I rub my finger
+    against the teeth to see if they make a squeaky sound. This helps
+    provide another layer of confirmation of the cleanliness of teeth
+    beyond visual inspection.
 
 Some historical information:
 
@@ -2219,25 +2237,6 @@ conclusive information). In any case, my sleep issues resolved
 themselves over time. As of 2025, I don't have any ongoing sleep
 issues (such as difficulty falling asleep, highly restless sleep,
 etc.)
-
-## Other routine elements
-
-### Dental routine
-
-* Brushing: Once in the morning, and once about 1-6 hours after each
-  meal (earlier if I need to go out after the meal so I can't wait the
-  1-6 hours). Total 3 times per day. I use a soft (manual, not
-  electric) toothbrush and change it every 3 months.
-
-* Saltwater rinse: Once after post-meal cleanup for each meal. Total 2
-  times per day.
-
-* Flossing with interdental brush: Once after post-meal cleanup for
-  first meal of the day, before saltwater rinse. Total once per day. I
-  use a given interdental brush for about 3 days.
-
-* Flossing with pick on floss holder: Once after post-meal cleanup for
-  second meal of the day, after saltwater rinse. Total once per day.
 
 ## Infectious diseases and vaccines
 
