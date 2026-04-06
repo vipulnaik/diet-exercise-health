@@ -1,4 +1,4 @@
-# 2026-04-05 onward: digestive enzyme experimentation
+# 2026-04-05 onward: digestive enzymes experimentation
 
 ## Background
 
@@ -44,7 +44,7 @@ down my health list.
 
 I singled out the digestive enymes portion of the work as something I
 want to start sooner even as the rest of it is deferred. The main
-reason is that the initial digestive enzyme work is fundamentally
+reason is that the initial digestive enzymes work is fundamentally
 experimental data collection, with very little additional active time
 expenditure, but with a need to space things out and try different
 combinations over time. I also consider the digestive enzyme
@@ -58,22 +58,22 @@ crunches, or travel needs.
 
 ### Timing as the key variable
 
-The timing of digestive enzyme administration relative to meal is
+The timing of digestive enzymes administration relative to meal is
 important because there are two opposing considerations:
 
-* Digestive enzyme at the beginning of the meal may suppress the
-  body's own enzyme production, whereas digestive enzyme after meal
+* Digestive enzymes at the beginning of the meal may suppress the
+  body's own enzyme production, whereas digestive enzymes after meal
   can act on top of the body's enzyme production, creating the most
   additive effect.
 
-* Digestive enzyme at the beginning of the meal provides protection
+* Digestive enzymes at the beginning of the meal provides protection
   right from the beginning, significantly reducing the "unprotected
   window". This is particularly relevant for the digestive enzymes
   that the body doesn't produce in any meaningful quantity at all,
-  some of which are a part of the digestive enzyme supplement.
+  some of which are a part of the digestive enzymes supplement.
 
 Beyond timing relative to meal, which meal I have the digestive enzyme
-with could have some effect: digestive enzyme with the first meal may
+with could have some effect: digestive enzymes with the first meal may
 be partly available for the second meal as well.
 
 ### Gap between administrations
@@ -88,10 +88,10 @@ three days (so two days in between with no digestive enzyme).
 
 ### Recording protocol
 
-I plan to record the digestive enzyme consumption with `digestive
-enzyme` in Slack self-chat logs, ideally timed to the exact time of
-consumption, so that its position relative to the meal can be
-calculated.
+I plan to record the digestive enzymes consumption with `de` (short for
+`digestive enzymes`) in Slack self-chat logs, ideally timed to the
+exact time of consumption, so that its position relative to the meal
+can be calculated.
 
 Beyond that, I expect that my usual Slack self-chat logs of stuff like
 bowel movement volume and pattern, bowel pressure pattern after waking
@@ -107,9 +107,9 @@ most relevant and how to weight them.
 
 ## Phase 1 (starting 2026-04-05): digestive enzymes on top of normal meal content and routine
 
-I plan to take one Nutricost digestive enzyme supplement capsule for
+I plan to take one Nutricost digestive enzymes supplement capsule for
 each day of this, with the minimum 3-day spacing (2 days without
-digestive enzyme in between). This is my planned order:
+digestive enzymes in between). This is my planned order:
 
 * Shortly after second meal
 
@@ -119,7 +119,7 @@ digestive enzyme in between). This is my planned order:
 
 * Beginning of first meal
 
-## Phase 2: digestive enzyme in the context of reduced sleep of various kinds
+## Phase 2: digestive enzymes in the context of reduced sleep of various kinds
 
 The exact sequence here is to be determined, but the general idea is
 to determine the effect of digestive enzymes in scenarios where I have
@@ -132,7 +132,7 @@ occasions at a time where they are least likely to disrupt things, or
 piggyback on an existing low-sleep situation if I can predict it in
 advance.
 
-## Phase 3: digestive enzyme in the context of unusual food consumption (restaurant food, smaller food quantity, larger food quantity)
+## Phase 3: digestive enzymes in the context of unusual food consumption (restaurant food, smaller food quantity, larger food quantity)
 
 * The restaurant food case is one of the original motivators. However,
   I'll need to decide what restaurant food to try this with and which
