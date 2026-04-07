@@ -43,18 +43,29 @@ The following situations are ones I should be particularly cautious of:
 I need to be particularly careful when carrying heavy loads with thin
 handles (string or rope) such as grocery bags or laundry bags. One
 mistake I have made at times is to put the weight of the handle
-entirely on my PIP joint, that is not meant to handle heavy loads for
-extended durations.
+entirely on my PIP joint or proximal phalanx, that is not meant to
+handle heavy loads for extended durations.
 
-Instead, it's better to have the weight go on the wrist, and move it
-around so that the thin region of contact doesn't tax the same part of
-the hand for an extended period of time. The PIP joint should be used
-only intermittently.
+Instead, it's better to distribute the weight over the hand,
+continuously if possible (when the contact area is large enough) or by
+frequently changing the area of contact.
 
 When possible, alternate between hands (if both hands are carrying
 things of different weight, switch the weight around between the
 hands). If possible, rest and relax each hand for a few seconds during
 the journey.
+
+Note that there is another related kind of strain: skin stretch, which
+is implicated in dorsal finger joint fissures. For more, see the
+section [Avoid stretching finger skin for extended periods in the best
+practices around skin wounds
+document](best-practices-around-skin-wounds.md#avoid-stretching-finger-skin-for-extended-periods). Fortunately,
+there is some convergence between the advice there and the advice from
+a muscle strain perspective: for both, it's important to avoid
+overloading the PIP joint / proximal phalanx. The difference in focus
+is that the muscle strain concern argues for wider distribution in
+general, whereas the skin stretch concern specifically seeks to avoid
+stretching the finger skin, since that skin is uniquely prone to fissures.
 
 #### Sleep at night
 

@@ -91,6 +91,82 @@ Here are a few thoughts around this:
   ripping motion. Holding down the larger surface being separated also
   reduces the risk of the whole thing moving toward me.
 
+### Avoid focal pressure
+
+Avoid putting pressure on the same narrow portion of skin over an
+extended period of time. Use the following general best practices when holding sharp things:
+
+* Use gloves or tissues/paper towels to spread the impact and reduce
+  the direct focal pressure, if feasible.
+
+* Switch around the point of contact (e.g., use a different finger).
+
+* Regularly monitor and take breaks as needed.
+
+An interesting incident that is pretty much the only serious incident
+I've had along these lines is a [2025-07-22 tweezer use
+injury](../events/2025/2025-07-22-right-index-finger-cut-after-repeated-tweezers-use.md);
+the incident has its own set of best practices specifically around
+focal pressure injuries. I've also had a few more minor incidents
+including skin flaps on the ventral hand and hand gripper contact
+injury on the excluded little finger; I document the incidents in more
+detail in private notes
+[here](https://github.com/vipulnaik/diet-exercise-health-private/blob/master/notes/repetitive-focal-pressure-injuries.md).
+
+### Avoid stretching finger skin for extended periods
+
+I'm prone to dorsal finger joint fissures: these are fissures (cracks)
+in the skin of my fingers, usually at the MCP and PIP joints of
+fingers and near the IP joint of the thumb, and generally along the
+folds.
+
+While the primary driver seems to be cold temperatures, and the
+primary intervention is moisturization (which also helps with a lot of
+the other skin wound issues), mechanical factors also play a
+role. Specifically, stretching of the finger skin, particularly along
+the proximal-distal axis, contributes to the fissures. The stretching
+tends to happen either during finger curling, when the muscles are
+flexed, or through the fingers being pulled by an external force.
+
+What matters here is extended periods of skin stretch or extended
+cycling of stretch and unstretch.
+
+While both hand washing and hand gripper use cause some skin stretch
+(the former through pulling of fingers by each other, the latter
+through curling of the fingers) these are relatively brief. The daily
+activity most implicated in causing extended stretch or extended
+stretch/unstretch cycling is carrying groceries, particularly in cold
+weather.
+
+My experimentation has revealed a simple way to reduce finger stretch
+while carrying groceries: I hang the grocery bags from my (ventral)
+distal palm one fold more proximal than the MCP joints. This is as
+opposed to hanging grocery bags from the ventral proximal phalanx,
+which is where they would naturally fall to. This works as the grocery
+bags are light enough and the contact handle small enough that the
+palm folds can successfully hold them. This way, even though the
+fingers are curled around the grocery bag, there is no *additional*
+stretch coming from the grocery bag itself pulling the finger skin
+along the proximal-distal axis, and the curl can be relatively
+relaxed.
+
+The bags do tend to slip down toward the proximal phalanx over time,
+so every 1 to 2 minutes I slant my hands to slide them back up
+proximally.
+
+There is some overlap between skin stretch concerns and muscle fatigue
+concerns documented in the [Carrying heavy things with a thin surface
+of contact section of the best practices around muscle strain
+document](best-practices-around-muscle-strain.md#carrying-heavy-things-with-a-thin-surface-of-contact). The
+difference in focus is that the muscle strain concern argues for wider
+distribution in general, whereas the skin stretch concern specifically
+seeks to avoid stretching the finger skin, since that skin is uniquely
+prone to fissures.
+
+I document more of the mechanism details behind dorsal finger joint
+fissures and specific incidents in private notes
+[here](https://github.com/vipulnaik/diet-exercise-health-private/blob/master/notes/dorsal-finger-joint-fissures.md).
+
 ### Moisturize regularly
 
 Moisturizing (with vaseline hydrating lotion) at a decent regularity
