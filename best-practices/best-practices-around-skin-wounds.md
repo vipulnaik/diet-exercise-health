@@ -157,11 +157,11 @@ proximally.
 There is some overlap between skin stretch concerns and muscle fatigue
 concerns documented in the [Carrying heavy things with a thin surface
 of contact section of the best practices around muscle strain
-document](best-practices-around-muscle-strain.md#carrying-heavy-things-with-a-thin-surface-of-contact). The
-difference in focus is that the muscle strain concern argues for wider
-distribution in general, whereas the skin stretch concern specifically
-seeks to avoid stretching the finger skin, since that skin is uniquely
-prone to fissures.
+document](best-practices-around-muscle-strain.md#carrying-heavy-things-with-a-thin-surface-of-contact).
+The linked document goes into more detail on the muscle/skin tradeoff,
+but as a general rule, for regular grocery bag carries, particularly
+in cold weather, skin concerns dominate, so the strategy outlined
+above is the right one.
 
 I document more of the mechanism details behind dorsal finger joint
 fissures and specific incidents in private notes
