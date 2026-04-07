@@ -64,3 +64,8 @@ my suitcase along and packed stuff in a mix of my suitcase and my
 backpack. The packed suitcase weight was around 9.3-10.0 kg and the
 packed backpack weight was around 4.55 kg. Both were measured using a
 luggage weighing machine after returning and before unpacking.
+
+## 2026-04-06
+
+In the evening, I made a trip to the Walgreens at 2801 Adeline St for
+toiletries purchases.
