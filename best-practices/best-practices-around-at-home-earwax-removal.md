@@ -37,7 +37,7 @@ document](best-practices-around-adding-a-topical-treatment-protocol.md).
 * Minimum and maximum dose gap: Minimum gap of 1 week.
 
 * Impact of missing a dose -- is it advisable to double-dose, or just
-  contine with other doses regularly? Don't double-dose.
+  continue with other doses regularly? Don't double-dose.
 
 * Any dependence or tolerance effects that are known: I'm not yet
   planning to do this often enough for such effects to become a

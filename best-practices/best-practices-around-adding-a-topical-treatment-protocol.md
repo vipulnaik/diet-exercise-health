@@ -21,7 +21,7 @@ Get information on:
 * Minimum and maximum dose gap
 
 * Impact of missing a dose -- is it advisable to double-dose, or just
-  contine with other doses regularly?
+  continue with other doses regularly?
 
 * Any dependence or tolerance effects that are known
 
