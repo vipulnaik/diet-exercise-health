@@ -51,12 +51,14 @@ stub](../events/202/2025-01-18-right-little-toe-stub.md):
   * cold because this both increases the chances of jerky movements
     and increases the damage from injury
 
-### Care when opening packaging or tight lids where more force is needed than is normally safe
+### Be careful during assembly and disassembly operations where more force is needed than usual: opening tight lids, opening sealed packaging, screwing or unscrewing nozzle caps, assembling furniture, etc.
 
-I've had minor thumb injuries, generally at around the IP joint, from
-tight packaging where a lot of force is needed to open it, and when it
-does open, a mildly sharp edge hits the back of my thumb (left or
-right) at around the IP joint.
+I've had minor thumb injuries, generally at around the dorsal IP
+joint, from tight packaging where a lot of force is needed to open it,
+and when it does open, a mildly sharp edge hits the back of my thumb
+(left or right) at around the IP joint. Other areas that are affected
+include the DIP joints of fingers and the wrist/palm area (this
+happens in case of whole hand rebound).
 
 Here are a few thoughts around this:
 
@@ -89,7 +91,7 @@ Here are a few thoughts around this:
   ripping motion. Holding down the larger surface being separated also
   reduces the risk of the whole thing moving toward me.
 
-### Moisturizing
+### Moisturize regularly
 
 Moisturizing (with vaseline hydrating lotion) at a decent regularity
 in general, and particularly before and after being in dry
