@@ -46,6 +46,20 @@ queries = [
 
     """
     select broad_food_type,
+    coalesce(min(calories / weight_in_grams), 0) as calorie_weight_ratio_min,
+    coalesce(max(calories / weight_in_grams), 0) as calorie_weight_ratio_max
+    from food_types where broad_food_type is not null group by broad_food_type
+    having calorie_weight_ratio_max > 4 * calorie_weight_ratio_min;""",
+
+    """
+    select broad_food_type,
+    coalesce(min(calories / volume_in_ml), 0) as calorie_volume_ratio_min,
+    coalesce(max(calories / volume_in_ml), 0) as calorie_volume_ratio_max
+    from food_types where broad_food_type is not null group by broad_food_type
+    having calorie_volume_ratio_max > 1.4 * calorie_volume_ratio_min;""",
+
+    """
+    select broad_food_type,
     coalesce(min(total_carb_in_grams / calories), 0) as carb_calorie_ratio_min,
     coalesce(max(total_carb_in_grams / calories), 0) as carb_calorie_ratio_max
     from food_types where broad_food_type is not null group by broad_food_type
