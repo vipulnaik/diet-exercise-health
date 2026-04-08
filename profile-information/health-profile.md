@@ -127,70 +127,46 @@ circumstances.
 
 ### Heart rate
 
-My resting, seated heart rate, as measured by my Omron blood pressure
-machine as well as my Zacurate pulse oximeter, is generally 42-60 bpm
-in the morning in summer (before eating or exercise), and a little
-higher under comparable conditions in the winter. NOTE: My most recent
-heart rate readings taken 2026-03-21 (68 bpm and 69 bpm) and
-2026-01-25 (64 bpm and 63 bpm) violate this pattern, and if the
-violation continues for the next few readings, I may need to
-re-evaluate my range.
+I have three sources of information for heart rate:
 
-My heart rate goes up by about 10-15 bpm when I stand up, and then
-stabilizes down to about 5 bpm higher than my seated heart rate.
+* [Pulse oximeter readings](../sql/pulse_oximeter_readings.sql) (these cover more of the early period; some older data not entered in SQL is at [2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md))
+* [Blood pressure readings (mostly from the Omron blood pressure machine)](../sql/blood_pressure_readings.sql) (these cover the period May 2024 onward)
+* [Stethoscope heart rate measurements](../sql/stethoscope_heart_rate_measurements.sql) (these cover the period December 2025 onward, and are interspersed with blood pressure readings)
 
-After I return home from jogging, my heart rate is generally in the
-70-100 bpm range. It generally takes about an hour to drop to be
-stably in the 60s, which is still higher than my pre-exercise heart
-rate.
+#### Resting, seated heart rate
 
-My heart rate after eating (for the first two hours after eating) is
-generally somewhat elevated, in the range of 60-80 bpm. The heart rate
-peaks around 0.5-1.5 hours after finishing my meal.
+From 2023 to early 2025, my resting,seated heart rate was in the 42-60
+bpm range. However, from late 2025 onward, measurements of my resting,
+seated heart rate have generally been in the range of 60-70 bpm.
 
-Generally, when my resting heart rate exceeds 75 bpm outside of the
-post-exercise context, I can "feel" my heart racing. After I took
-antibiotics as part of my recovery process from the [2023-07-05 wisdom
-tooth removal (left
-side)](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md),
-there were periods where I could feel my heart racing. I didn't have
-the pulse oximeter at the time, so I relied on crude measurement of my
-heart rate, and the crude estimate was around 80 bpm.
+As of 2026-04-08, my most recent resting, seated heart rate estimates are as follows:
 
-I record my heart rate (measured using the Omron blood pressure
-machine) as part of my monthly blood pressure readings (as well as
-other one-off readings in response to health events or other
-incidents) in
-[blood_pressure_readings.sql](../sql/blood_pressure_readings.sql).
+* Stethoscope: 66, 66, 63, and 69 bpm on 2026-04-08
 
-As of 2026-03-21, the most recent morning heart rate readings from the
-BP machine (before exercise or eating) were on 2026-03-21 with
-readings of 68 bpm and 69 bpm respectively. The ambient temperature at
-the time I took the readings was 75 degrees Fahrenheit, which might
-have played a role in the high heart rate relative to my
-usual. However, the previous readings on 2026-01-25 also had
-higher-than-usual heart rates of 64 bpm and 63 bpm respectively.
+* Blood pressure machine: 68 and 69 bpm on 2026-03-21
 
-I also record my heart rate and SpO2 as part of my monthly pulse
-oximeter readings (as well as other one-off readings in response to
-health events or other incidents) in
-[pulse_oximeter_readings.sql](../sql/pulse_oximeter_readings.sql). As
-of 2025-06-25, my latest morning heart rate reading from the pulse
-oximeter (before exercise or eating) as measured by the pulse oximeter
-was on 2025-06-11 with a range of 52-57 bpm. However, at the time I
-had a [respiratory infection (likely the common
-cold)](../events/2025/2025-06-respiratory-infection-likely-common-cold.md)
-which could in principle distort the readings (although in this case I
-don't think the reading was distorted meaningfully). My previous
-morning reading was on 2024-10-13 with a range of 49-55 bpm. During
-winter months, the pulse oximeter tends to have trouble reading out in
-the morning, likely due to cold hands. My most recent afternoon heart
-rate reading measured by the pulse oximeter was on 2024-12-14 with a
-range of 60-71 bpm; this reading was taken about 2.5 hours after
-finishing a meal and is typical of such readings.
+#### Heart rate after exercise
 
-For extensive older experiment results, see
-[2023-08-18-pulse-oximeter-experimentation.md](../events/2023/2023-08-18-pulse-oximeter-experimentation.md).
+Historically, my heart rate after jogging has been in the 70-100 bpm
+range. My most recent post-exercise heart rate estimates are as
+follows:
+
+* Stethoscope: 80 bpm on 2025-12-20
+
+* Blood pressure machine: 73 and 72 bpm on 2024-12-28
+
+Since I don't generally take heart rate readings after exercise, the
+data points for this are much sparser.
+
+#### Heart rate after eating
+
+My heart rate after eating is generally somewhat elevated, with the
+peak heart rate about 0.5 to 1.5 hours after the meal.
+
+My most recent post-meal heart rate measurements are as follows:
+
+* Blood pressure machine: 75 bpm on 2025-03-25, taken 2.5 hours after
+  my meal
 
 ### SpO2 (saturation percentage of oxygen)
 

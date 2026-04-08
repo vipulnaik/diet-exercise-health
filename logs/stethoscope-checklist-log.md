@@ -43,3 +43,21 @@ END OF CHECKLIST
 - [x] Place the diaphragm side of the stethoscope on various parts of the diaphragm area and confirm that I can consistently hear the peristalsis sounds
 
 END OF CHECKLIST
+
+## 2026-04-08
+
+### Chest portion
+
+- [x] Make the stethoscope listen to the chest side and put the earpieces on (orientation guidance: earpieces should be pointing forward not backward); confirm that sound is coming through (if the ears are reversed the sound is much fainter)
+- [x] Place the chest side of the stethoscope on the chest area in front of the heart and listen for heart sounds and murmurs; confirm that there are no unusual sounds other than S1 and S2
+- [x] Count and record the number of heartbeats in a minute
+  - Number: 66 bpm, 66 bpm, 63 bpm, 69 bpm
+  - Comments on consistency / variability: Reasonable variability over the course of the minute
+  - [x] Also record in stethoscope_heart_rate_measurements.sql
+
+### Diaphragm portion
+
+- [x] Make the stethoscope listen to the diaphragm and put the earpieces on (orientation guidance: earpieces should be pointing forward not backward); confirm that sound is coming through (if the ears are reversed the sound is much fainter)
+- [x] Place the diaphragm side of the stethoscope on various parts of the diaphragm area and confirm that I can consistently hear the peristalsis sounds
+
+END OF CHECKLIST
