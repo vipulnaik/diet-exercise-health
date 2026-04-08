@@ -34,6 +34,7 @@ read_medical_metadata:
 reset_medical_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists accidents;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists blood_pressure_readings;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists breath_counts;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists doctor_visits;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists foodmarble_aire_2_breath_tests;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists frequency_hearing_test_results;"
@@ -50,6 +51,7 @@ reset_medical_data:
 read_medical_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/accidents.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/blood_pressure_readings.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/breath_counts.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/doctor_visits.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/foodmarble_aire_2_breath_tests.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/frequency_hearing_test_results.sql

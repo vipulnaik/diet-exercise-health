@@ -100,6 +100,27 @@ accessed in year-specific subfolders under the parent folder.
 
 ## Vital signs
 
+### Respiratory rate
+
+Starting late March 2026, I began occasional breath count exercises
+where I would count my breaths over a period of a few minutes,
+generally getting to around 90 to 110 breaths. This served a dual
+purpose of being a breath-focused meditation and giving me data on my
+breathing rate. More data can be found in [the SQL
+file](../sql/breath_counts.sql).
+
+The overall takeaway as of 2026-04-08 is that my respiratory rate
+(breathing rate) is about 9 to 11 breaths per minute while standing
+with light movement and walking, and around 13 to 15 breaths per
+minute during indoor jogging.
+
+All readings so far have involved fully nasal breathing patterns with
+all or almost all breaths at or near the tidal volume, i.e., no
+explicit exertion inhaling or exhaling during the breathing process.
+
+My estimates may evolve as I get more readings in a wider range of
+circumstances.
+
 ### Heart rate
 
 My resting, seated heart rate, as measured by my Omron blood pressure
