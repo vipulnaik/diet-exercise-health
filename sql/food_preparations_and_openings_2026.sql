@@ -403,7 +403,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-03-29 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-03-29','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-03-31','TJ Almond Milk',1,1,null,null),
+  ('2026-03-31','TJ Almond Milk',1,1,'2026-04-07',2),
   ('2026-03-31','TJ Sauerkraut',1,1,null,null),
   ('2026-03-31','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-04-01',1),
   ('2026-04-01','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-04-02',2),
@@ -432,5 +432,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-04-06 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-04-06','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-04-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-04-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-07',2),
+  ('2026-04-07','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
+  ('2026-04-07','TJ Whole Wheat Pita Bread',1,2,null,null);
   /* Double-check the date and meal index before committing */
