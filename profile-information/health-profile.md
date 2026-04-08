@@ -116,7 +116,11 @@ minute during indoor jogging.
 
 All readings so far have involved fully nasal breathing patterns with
 all or almost all breaths at or near the tidal volume, i.e., no
-explicit exertion inhaling or exhaling during the breathing process.
+explicit exertion inhaling or exhaling during the breathing
+process. The act of breath-focused meditation may itself have slowed
+down and regularized my breath a little bit compared to what it is
+when not monitored, so my actual breathing rate may be 1 or 2 breaths
+per minute higher.
 
 My estimates may evolve as I get more readings in a wider range of
 circumstances.
