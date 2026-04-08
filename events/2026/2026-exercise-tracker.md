@@ -472,3 +472,8 @@ exercise load on 2026-03-31.
 
 On Thursday 2026-04-02, I skipped all exercises to be able to fit meal
 prep in the early afternoon after a work meeting.
+
+## 2026-04-08: skipped all exercises to fit meal prep in the afternoon after some health work
+
+On Wednesday 2026-04-08, I skipped all exercises so that I could fit
+in some health work in the early afternoon and then do meal prep.
