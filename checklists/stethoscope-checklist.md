@@ -11,6 +11,7 @@ Execution log is [here](../logs/stethoscope-checklist-log.md).
 - [ ] Count and record the number of heartbeats in a minute
   - Number: ?? bpm
   - Comments on consistency / variability: ??
+  - [ ] Also record in stethoscope_heart_rate_measurements.sql
 
 ### Diaphragm portion
 
