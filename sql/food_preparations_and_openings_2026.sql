@@ -409,12 +409,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-01','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-04-02',2),
   ('2026-04-01','TJ Walnuts',1,2,'2026-04-05',2),
   /* 2026-04-02 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-04-02','Eggplant',1,1,null,null),
-  ('2026-04-02','TJ Kale',1,1,null,null),
-  ('2026-04-02','TJ Carrots',1,1,null,null),
-  ('2026-04-02','Green bell pepper',4,1,null,null),
-  ('2026-04-02','Red bell pepper',2,1,null,null),
-  ('2026-04-02','Beefsteak tomato',9,1,null,null), /* checkpoint: stock down to 0 */
+  ('2026-04-02','Eggplant',1,1,'2026-04-07',1),
+  ('2026-04-02','TJ Kale',1,1,'2026-04-07',1),
+  ('2026-04-02','TJ Carrots',1,1,'2026-04-07',1),
+  ('2026-04-02','Green bell pepper',4,1,'2026-04-07',1),
+  ('2026-04-02','Red bell pepper',2,1,'2026-04-07',1),
+  ('2026-04-02','Beefsteak tomato',9,1,'2026-04-07',1), /* checkpoint: stock down to 0 */
   /* 2026-04-02 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-04-02','Lundberg Sustainable California White Jasmine Rice',1,2,'2026-04-06',1),
   /* new bottle/packet openings as the old ones finished */
