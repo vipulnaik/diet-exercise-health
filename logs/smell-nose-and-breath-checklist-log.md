@@ -1,7 +1,7 @@
-# Smell checklist log
+# Smell, nose, and breath checklist log
 
-This is the execution log for the [smell
-checklist](../checklists/smell-checklist.md).
+This is the execution log for the [smell, nose, and breath
+checklist](../checklists/smell-nose-and-breath-checklist.md).
 
 ## 2026-01-12
 
