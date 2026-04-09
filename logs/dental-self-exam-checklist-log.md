@@ -519,3 +519,12 @@ take stock:
   rare and relatively mild compared to last winter. The only bleeding
   I recorded was in response to a floss pick pressure test, which is a
   good way to discover and act on issues before bleeding in the wild.
+
+## 2026-04-08 (off-cycle floss pick pressure testing)
+
+On Wednesday 2026-04-08, while flossing with the floss pick after my
+second meal, I did floss pick pressure testing. The pressure pain in
+all interdental gaps subsided within about a minute or two. Relatively
+speaking, the upper right interdental gaps, which were earliest in my
+sequence, had pressure pain for the longest, but even the maximum was
+about two minutes so overall things seem good.
