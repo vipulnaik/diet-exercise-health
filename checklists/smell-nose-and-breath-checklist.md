@@ -13,13 +13,118 @@ END OF CHECKLIST
 
 ## Parking lot: potential tests that did not make it to the regular checklist
 
+### Quick sequence guidance on what to do if I suspect loss or distortion of smell
+
+Many of the tests in the parking lot get triggered if I suspect loss
+or distortion of smell. The all-encompassing term for loss or
+distortion of smell is dysosmia.
+
+Some more specific terms:
+
+* Hyposmia: reduced smell sensitivity
+* Anosmia: complete loss of smell; generally predated by hyposmia
+* Parosmia: mis-identification of smell
+* Phantosmia: imagining smells
+
+Here's a quick guide on the rough order to follow after any evidence
+of dysosmia.
+
+The following are tests I should do immediately:
+
+* I should re-execute my usual orthonasal smell tests (sniffing
+  condiments) to provide a baseline before proceeding to the parking
+  lot tests.
+
+* Retronasal smell testing comes next. The combined information on
+  orthonasal and retronasal smell can help narrow down the likely
+  cause.
+
+  If both orthonasal and retronasal smell are equally affected, it
+  suggests a sensorineural issue (affecting the olfactory epithelium,
+  olfactory nerve, or olfactory cortex).
+
+  If one is more affected than the other, it suggests a conductive
+  issue, which could be either a structural issue (unlikely for me) or
+  congestion or airway blockage that is heavier on the relevant side
+  (anterior/middle for orthonasal, nasopharyngeal for retronasal).
+
+  Nasal congestion (the most likely cause of acute loss or distortion
+  of smell for me), such as due to a respiratory infection, affects
+  both orthonasal and retronasal smell but affects orthonasal smell
+  more, because the anterior/middle blockage is more severe than the
+  nasopharyngeal blockage.
+
+* Single-nostril smell testing comes next, and can be combined with a
+  nasal cycle record. Data for single-nostril testing should be
+  collected across different points in the nasal cycle. This can help
+  determine if the issue is unilateral or bilateral.
+
+  Most causes of olfactory loss are bilateral, particularly given that
+  I don't appear to have any structural differences between nostrils
+  that should cause unilateral issues.
+
+  Unilateral conductive olfactory loss (i.e., olfactory loss that is
+  specific to one nostril and differs between orthonasal and
+  retronasal), usually accompanied by nasal cycle disruption, is
+  likely due to nostril-specific airway blockage.
+
+  Unilateral sensorineural olfactory loss (i.e., olfactory loss that
+  is specific to one nostril but similar between orthonasal and
+  retronasal), usually *not* accompanied by nasal cycle disruption,
+  may reflect issue with one side of the olfactory cortex.
+
+The following are tests I should do after more thoroughly documenting
+what I've learned above and doing more context-specific research and
+taking appropriate corrective action, so they will likely happen a few
+days after the initial noticing of issues:
+
+* Blinded and randomized smell testing might be useful as a followup
+  measure after a period of dysosmia, complementing deliberate efforts
+  to remaster smells.
+
+* Formal testing using a smell identification test comes last, and is
+  likely worth pursuing only in case of persistent dysosmia.
+
+### Formal testing using a smell identification test
+
+I have the option of purchasing a smell identification test such as
+the [University of Pennsylvania Smell Identification Test
+(UPSIT)](https://sensonics.com/product/smell-identification-test/). This
+would test a wider range of smells and also satisfy the property of
+being blinded and randomized.
+
+#### Why I don't do this
+
+The financial cost is nontrivial; the site linked above costs $29.50
+per test with a minimum order size of 7 tests, and prices are similar
+for similar tests. In addition, the time overhead of test execution is
+nontrivial. Tests ordered in bulk also need to be stored properly for
+execution over several quarters.
+
+In contrast, my existing condiment sniffing is essentially free of
+cost and takes very little time because it is embedded in my
+routine. The marginal increase in volatile molecule loss as a result
+of brief sniffing is negligible compared to the use of the condiment
+in cooking, and even the total cost of the condiments is small.
+
+#### What might make me do this
+
+A smell identification test might be useful as a one-time benchmark,
+perhaps if I am able to get a copy of such a test for free or share a
+bulk purchase with others interested in ordering it.
+
+I might also do a smell identification test for better quantification
+if I see evidence of loss of smell or mis-identification of smells
+that persists over months.
+
 ### Blinded and randomized smell testing
 
 All my smell testing is either spontaneous noticing or deliberate
 sniffing of items that I already know. While this is good for
 reinforcement, it does not verify my ability to identify a smell in
 contexts where I don't already know it. Blinded, randomized smell
-testing could fill in the gap.
+testing (even with at-home materials and not using the smell
+identification test mentioned above) could fill in the gap.
 
 #### Why I don't do this
 
@@ -84,3 +189,71 @@ dominant at the time, and then compare with whether I experience a
 similar issue when the other nostril is dominant. I can then follow up
 with single-nostril testing, ideally done at a time when the nostrils
 are close to equal in airflow.
+
+### Retronasal smell testing
+
+All my smell testing is orthonasal: sniffing or spontaneous noticing
+of smells in air breathed in via the nostrils. Another important
+component of smell is retronasal smell, which is smells of air coming
+up from the mouth. Retronasal smell plays an important role in
+combination with taste to give a composite flavor to food.
+
+#### Why I don't do this
+
+I expect that issues with retronasal smell would surface
+naturalistically through food feeling different. I know that when I
+got a respiratory infection (likely the common cold) in June 2025, I
+did notice food seeming to taste and smell different, which I
+eventually attributed to nasal congestion; more
+[here](../events/2025/2025-06-respiratory-infection-likely-common-cold.md). At
+the time I noticed, I did not realize I had an infection, so this is
+evidence that when retronasal smell breaks down (due to congestion in
+this case) I notice immediately. In fact, my feedback loop for
+retronasal smell is more frequent than for orthonasal smell, given
+that I eat more regularly than I do meal prep.
+
+An explicit retronasal smell check protocol is also more complicated
+-- I need to put the food in my mouth, then breathe out with the mouth
+closed, so that the volatile molecules travel upward. I also want to
+not put so much food that swallowing it could cause issues.
+
+#### What might make me do this
+
+I might do explicit retronasal smell checks if I have evidence of
+either orthonasal smell loss or taste/flavor loss.
+
+The explicit retronasal smell protocol is somewhat complicated. Here
+is what Claude suggests as the protocol:
+
+> For a condiment-based retronasal check — which avoids the gustatory
+> complexity of actual food — you could place a small amount of a
+> strongly aromatic condiment like cinnamon on the tongue, allow it to
+> warm and release volatiles, then close the mouth, press the tongue
+> upward, and exhale slowly through the nose. What you perceive during
+> the nasal exhale phase is primarily retronasal. Comparing this to
+> what you perceive when sniffing the same condiment externally gives
+> you a direct orthonasal versus retronasal comparison.
+
+Different combinations of whether orthonasal and retronasal smell are
+both degraded and which one is more degraded provide different
+diagnoses as to the likely causes.
+
+* Anterior/middle nasal blockage (which could be caused by nasal
+  congestion, and is the most likely acute cause of olfactory loss)
+  affects orthonasal smell more.
+
+* Nasopharyngeal blockages (which would be very rare) cause more loss
+  in retronasal than orthonasal smell.
+
+* Sensorineural olfactory loss (damage to the olfactory epithelium,
+  olfactory nerve, or olfactory cortex) generally produces comparable
+  loss in orthonasal and retronasal smell.
+
+In a typical nasal congestion due to a respiratory infection, the
+first two of the three mechanisms above are active, but the first is
+much more active than the second, so orthonasal smell loss is much
+more pronounced than retronasal smell loss. Comparing orthonasal and
+retronasal smell during a suspected respiratory infection and
+confirming that orthonasal smell is more handicapped can help provide
+evidence that the loss in smell is driven primarily by an expected
+congestion pattern, as opposed to something sensorineural.
