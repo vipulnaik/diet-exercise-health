@@ -477,3 +477,13 @@ prep in the early afternoon after a work meeting.
 
 On Wednesday 2026-04-08, I skipped all exercises so that I could fit
 in some health work in the early afternoon and then do meal prep.
+
+## 2026-04-10: skipped jogging
+
+On Friday 2026-04-10, I skipped jogging. I did hand gripper exercises
+and breath holds; strength exercises were not due on this day. The
+reason for skipping jogging was delays in the morning/early afternoon
+due to a long TODO list and a few impromptu Claude conversations, plus
+a decision to make a Berkeley Bowl trip in the usual jogging time
+slot. Further delays created by stuff from the day job vindicated the
+decision.
