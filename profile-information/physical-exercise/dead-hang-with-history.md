@@ -32,11 +32,11 @@ center of mass).
 Generally, I do this after returning from jogging.
 
 * Overhand dead hang (palms away from me) for as long as I can; as of
-  2026-03-25, this is 35 to 50 oscillations which is about 77 to 125
+  2026-04-11, this is 40 to 60 oscillations which is about 88 to 150
   seconds.
 
 * Underhand dead hang (palms facing me) for as long as I can; as of
-  2026-03-25, this is 12 to 24 oscillations which is about 26 to 60
+  2026-04-11, this is 15 to 25 oscillations which is about 33 to 63
   seconds.
 
 From 2024-12-06 onward, I aim to do this once every 3 days, and more
@@ -96,3 +96,20 @@ underhand dead hang.
 * Overhand: (30 to 42) to (35 to 50)
 
 * Underhand: (10 to 20) to (12 to 24)
+
+## 2026-04-11 status update
+
+On 2026-04-11, based on a review of recent data, I increased the
+ranges (in terms of number of oscillations) for both overhand and
+underhand dead hang.
+
+* Overhand: (35 to 50) to (40 to 60)
+
+* Underhand: (12 to 24) to (15 to 25)
+
+I have a much larger document revamp in mind, similar to revamps done
+for [standing on one leg with eyes
+closed](standing-on-one-leg-with-eyes-closed-with-history.md), but am
+holding off on it to save time. I'm still recording the range update
+rather than waiting for that larger chunk of time, since the range
+update is meaningful as a checkpoint.
