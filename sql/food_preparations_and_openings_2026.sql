@@ -434,7 +434,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-04-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-07',2),
   ('2026-04-07','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2026-04-09',2),
-  ('2026-04-07','TJ Whole Wheat Pita Bread',1,2,null,null),
+  ('2026-04-07','TJ Whole Wheat Pita Bread',1,2,'2026-04-11',2), /* I had this slowly, partly due to digestive issues noticed during consumption, and partly to not meaningfully reduce the rate of rice consumption so that I still consume the cooked rice in about 4 days */
   ('2026-04-08','TJ Almond Milk',1,1,null,null),
   /* 2026-04-08 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-04-08','Eggplant',1,2,null,null),
@@ -444,7 +444,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-08','Red bell pepper',2,2,null,null),
   ('2026-04-08','Beefsteak tomato',7,2,null,null), /* checkpoint: stock down to 0 */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-04-08','TJ Walnuts',1,2,null,null),
+  ('2026-04-08','TJ Walnuts',1,2,'2026-04-11',2),
   ('2026-04-09','TJ Sauerkraut',1,1,null,null),
   ('2026-04-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-11',1),
   /* 2026-04-10 rice prep (second meal) (added turmeric, cumin, salt) */
