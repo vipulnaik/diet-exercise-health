@@ -487,3 +487,8 @@ due to a long TODO list and a few impromptu Claude conversations, plus
 a decision to make a Berkeley Bowl trip in the usual jogging time
 slot. Further delays created by stuff from the day job vindicated the
 decision.
+
+## 2026-04-13: skipped all exercises to fit Trader Joe's trip in the early afternoon
+
+On Monday 2026-04-13, I skipped all exercises to fit a Trader Joe's
+trip in the early afternoon along with meal prep later in the day.
