@@ -13,6 +13,8 @@ queries = [
     "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (heart_rate_bpm between 40 and 75);",
 
     # Breath counts
+    "select * from breath_counts where measurement_date > curdate();",
+
     "select * from breath_counts where activity_mode != 'jogging' and not ((60 * breath_count) / time_period_in_seconds) between 8 and 12;",
 
     "select * from breath_counts where activity_mode = 'jogging' and not ((60 * breath_count) / time_period_in_seconds) between 13 and 17;",
