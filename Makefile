@@ -207,10 +207,7 @@ verify_food_purchases_data:
 estimate_current_stocks:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/estimate_current_stocks.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) -t -e "select food_type, unopened_stock_at_estimation_time, partially_opened_stock_at_estimation_time from current_stocks order by food_type;"  > sql/current_stocks.md
-	sed -i '' -e 's/+/|/g' sql/current_stocks.md
-	sed -i '' -e '1d' sql/current_stocks.md
-	export NUM_LINES=`wc -l sql/current_stocks.md | awk '{print $1}'`
-	sed -i '' -e "${NUM_LINES}d" sql/current_stocks.md
+	./remove-first-line-and-last-line.sh sql/current_stocks.md
 
 .PHONY: verify_current_stocks
 verify_current_stocks:
