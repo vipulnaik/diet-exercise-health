@@ -206,7 +206,7 @@ verify_food_purchases_data:
 .PHONY: estimate_current_stocks
 estimate_current_stocks:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/estimate_current_stocks.sql
-	mysql $(MYSQL_ARGS) $(DATABASE) -e "select food_type, unopened_stock_at_estimation_time, partially_opened_stock_at_estimation_time from current_stocks order by unopened_stock_at_estimation_time desc;" > sql/current_stocks.md
+	mysql $(MYSQL_ARGS) $(DATABASE) -t -e "select food_type, unopened_stock_at_estimation_time, partially_opened_stock_at_estimation_time from current_stocks order by unopened_stock_at_estimation_time desc;" > sql/current_stocks.md
 
 .PHONY: verify_current_stocks
 verify_current_stocks:
