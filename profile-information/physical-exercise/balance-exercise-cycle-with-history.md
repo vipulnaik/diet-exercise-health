@@ -26,15 +26,29 @@
   exercises](dorsiflexion-and-plantar-flexion-exercises-with-history.md)
   (about 1 minute)
 
+While I normally cycle through these exercises in the order stated, I
+may make exceptions as follows:
+
+* Some exercises may sometimes have their occasional exercise
+  counterparts swapped in instead of them, so the exercise effectively
+  gets skipped in that cycle.
+
+* If my performance on an exercise is below expectations (for
+  instance, I am unable to clear the threshold or need multiple tries
+  to clear the threshold), I may choose to repeat that exercise the
+  next time and therefore delay proceeding along the cycle. I might
+  also do more off-cycle repetitions of the exercise.
+
 ### Occasional exercises
 
 * [Standing on one leg with eyes
   open](standing-on-one-leg-with-eyes-open-with-history.md) (right leg
-  then left leg, about 5 to 7 minutes per leg)
+  then left leg, about 5 to 7 minutes per leg) (swap-in for standing
+  on one leg with eyes closed)
 
 * [Standing on toes with eyes
   open](standing-on-toes-with-eyes-open-with-history.md) (about 4 to 6
-  minutes)
+  minutes) (swap-in for standing on toes with eyes closed)
 
 ## History
 
@@ -43,3 +57,11 @@
 This is when I formally instituted the balance exercise cycle, moving
 from a fixed alternation pattern to account for variability in the
 amount of time taken per exercise.
+
+### 2026-04-14: cycling protocol refinements
+
+On 2026-04-14, I introduced cycling protocol refinements related to
+the swap-in mechanism for occasional exercises and the option to
+repeat exercises rather than cycling on. These refinements are a mix
+of descriptive (of de facto practice) and prescriptive (guidance going
+forward).
