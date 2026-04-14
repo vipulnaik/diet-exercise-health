@@ -492,3 +492,11 @@ decision.
 
 On Monday 2026-04-13, I skipped all exercises to fit a Trader Joe's
 trip in the early afternoon along with meal prep later in the day.
+
+## 2026-04-14: reduced at-home jogging and skipped strength exercises
+
+On Tuesday 2026-04-14, I did reduced at-home jogging (about 19
+minutes) and skipped strength exercises. This was due to being late as
+a result of some of my planned work taking longer than usual, and also
+to fit in a few repetitions of the standing-on-toes-with-eyes-closed
+exercise.
