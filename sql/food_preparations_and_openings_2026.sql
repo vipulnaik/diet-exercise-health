@@ -448,9 +448,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-09','TJ Sauerkraut',1,1,null,null),
   ('2026-04-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-11',1),
   /* 2026-04-10 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2026-04-10','Lundberg Sustainable California White Jasmine Rice',1,2,null,null),
+  ('2026-04-10','Lundberg Sustainable California White Jasmine Rice',1,2,'2026-04-14',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-04-10','TJ Miso Ginger Broth',1,2,null,null),
+  ('2026-04-10','TJ Miso Ginger Broth',1,2,'2026-04-14',1),
   ('2026-04-10','TJ Roasted Seaweed',1,2,null,null),
   ('2026-04-11','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-12',1),
   ('2026-04-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-13',2),
@@ -461,5 +461,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-13','TJ English Shelled Peas',2,1,null,null),
   ('2026-04-13','Beefsteak tomato',3,1,null,null), /* limited by space in pot, not by tomato stock */
   /* 2026-04-14 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-04-14','Lundberg Sustainable California White Jasmine Rice',1,1,null,null);
+  ('2026-04-14','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-04-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
