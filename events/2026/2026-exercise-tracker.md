@@ -500,3 +500,9 @@ minutes) and skipped strength exercises. This was due to being late as
 a result of some of my planned work taking longer than usual, and also
 to fit in a few repetitions of the standing-on-toes-with-eyes-closed
 exercise.
+
+## 2026-04-15: skipped all exercises
+
+On Wednesday 2026-04-15, I skipped all exercises as my morning and
+early afternoon were spent on work, on a mix of catching up on
+scheduled items and a time-sensitive investigation.
