@@ -157,7 +157,7 @@ sniff only with the other.
 * The two nostrils are not quite independent systems the way the two
   eyes and the two ears are; this can be seen in their geographic
   proximity and the fact that the inbreath and outbreath are
-  coordinates between the nostrils. Problems that develop are rarely
+  coordinated between the nostrils. Problems that develop are rarely
   nostril-specific, though some are (which is where the nasal cycle
   monitoring item comes in; using smell to distinguish the two
   nostrils is not the best way).
