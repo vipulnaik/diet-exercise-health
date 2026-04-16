@@ -905,6 +905,7 @@ insert into food_types(short_name, long_name, url, broad_food_type, notes) value
 
 insert into food_types(short_name, long_name, broad_food_type, notes) values
   /* pending data entry */
+  ('Ezekiel Sprouted Flourless Tortillas','Ezekiel 4:9 Sprouted Flourless Original Tortillas','Whole wheat flatbread','PENDING TODO fill in full data from https://www.amazon.com/Food-Life-Tortillas-Ezekiel-Sprouted/dp/B004T36LDO?th=1'),
   ('Roma tomato','Trader Joe''s Roma tomato','Tomato','PENDING TODO fill in full data'),
   ('Urban Platter Sauerkraut Raw','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage, 450g / 15.8oz [Raw, Artisanal, Plant-Based, Preservative Free]','Sauerkraut / Kimchi','Data at https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NC754H4/ but label is hard to read off fully; I should fill data in from the physical jar at some point. Just putting a dummy entry for now for validation.'),
   ('So Good Oat Milk 200 ml','So Good Oat Beverage Unsweetened 200ml',null,'See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D5BL419H/ for details'),
