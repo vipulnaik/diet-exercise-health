@@ -1,6 +1,6 @@
 # Hearing checklist
 
-Execution log is [here](../logs/hearing-checklist-log.md).
+The execution log is [here](../logs/hearing-checklist-log.md).
 
 ## Quick things I should do in pieces every so often (ideally at least once every 10 days)
 

@@ -1,6 +1,7 @@
 # Smell, nose, and breath checklist
 
-Execution log is [here](../logs/smell-nose-and-breath-checklist-log.md).
+The execution log is
+[here](../logs/smell-nose-and-breath-checklist-log.md).
 
 - [ ] Confirm that I have experienced at least one incident of pronounced smell gradient upon return to apartment (`psgurta` in Slack self-chat logs) in the past 3 months
 - [ ] Confirm that I have been regularly sniffing condiments (turmeric, cumin, cinnamon, and cayenne pepper / red pepper) for meal preparations and have had success doing so

@@ -1,6 +1,6 @@
 # Vision checklist
 
-Execution log is [here](../logs/vision-checklist-log.md).
+The execution log is [here](../logs/vision-checklist-log.md).
 
 ## Outdoor vision test (to be done at every execution)
 

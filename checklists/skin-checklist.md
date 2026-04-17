@@ -1,6 +1,6 @@
 # Skin checklist
 
-Execution log is [here](../logs/skin-checklist-log.md).
+The execution log is [here](../logs/skin-checklist-log.md).
 
 Reference video: [snap pinch pout](https://www.youtube.com/watch?v=EU5WsUQ3lb0)
 

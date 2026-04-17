@@ -1,6 +1,6 @@
 # Stethoscope checklist
 
-Execution log is [here](../logs/stethoscope-checklist-log.md).
+The execution log is [here](../logs/stethoscope-checklist-log.md).
 
 ## Checklist
 

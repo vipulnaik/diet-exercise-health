@@ -1,6 +1,7 @@
 # Dental self-exam checklist
 
-Execution log is [here](../logs/dental-self-exam-checklist-log.md).
+The execution log is
+[here](../logs/dental-self-exam-checklist-log.md).
 
 NOTE 2026-04-12: An early version of this checklist used "front teeth"
 for what I now call "facial (labial or buccal, depending on location)
