@@ -1,22 +1,22 @@
-# Best practices around mouth bites
+# Best practices around mouth bites and non-specific mouth ulcers
 
-This document includes best practices around mouth bites. I seem to
-have had about 3-4 mouth bites a year with at least 1 per year leading
-to an injury that lasted a week or more (the rest often heal within
-less than a day). Without adequate care, or if the injury happens to
-be serious, I might experience pain with eating, rinsing, and flossing
-for 3-4 days at the peak of the pain.
+This document includes best practices around mouth bites and
+non-specific mouth ulcers. Mouth bites can lead to injuries in the
+form of mouth ulcers that are directly caused by the intense trauma of
+the bite. Non-specific mouth ulcers are mouth ulcers due to other
+causes, typically a repetitive microtrauma pattern that might have
+both mechanical and chemical components.
 
 ## Prevention
 
-### Chew food well and carefully
+### Chew food well and carefully (specific to mouth bites)
 
 It's important to chew food well and carefully, and not in a hurry and
 not to load too much food. With a lot of food in the mouth, I might
 miss my mark when chewing or biting, causing the teeth to injure the
 tongue, lips, or cheek.
 
-### Be particularly careful around hard, sharp food such as walnuts
+### Be particularly careful around hard, sharp food such as walnuts (specific to mouth bites)
 
 In addition to teeth injuring the mouth, the sharp edges of walnuts
 have the potential to injure the mouth as well.
@@ -59,6 +59,13 @@ picture of the evolution of the issue.
 ### Make sure I'm drinking enough water
 
 Dry mouth can exacerbate issues, so be particularly careful to drink enough water.
+
+### Make sure my lips are well-hydrated (using lip balm and water contact)
+
+Dry, chapped lips, even if slightly, can increase the tendency to
+adjust or reposition lips, which in turn can cause more contact
+between the inner lip and the teeth. This can aggravate any existing
+ulcers.
 
 ### Make sure there is a coating of saliva over the stuff whenever possible
 
@@ -109,6 +116,8 @@ after I can no longer feel the swelling.
 ### Continue other practices of preceding section
 
 * Continue to make sure to drink enough water
+
+* Continue to make sure lips are hydrated
 
 * Continue to make sure to coat with saliva
 
