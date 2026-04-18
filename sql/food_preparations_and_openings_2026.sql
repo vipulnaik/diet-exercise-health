@@ -456,12 +456,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-13',2),
   ('2026-04-12','TJ Walnuts',1,1,'2026-04-15',1),
   /* 2026-04-13 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-04-13','Gold potatoes 5 lb',0.5,1,null,null),
-  ('2026-04-13','TJ Kale',1,1,null,null),
-  ('2026-04-13','TJ English Shelled Peas',2,1,null,null),
-  ('2026-04-13','Beefsteak tomato',3,1,null,null), /* limited by space in pot, not by tomato stock */
+  ('2026-04-13','Gold potatoes 5 lb',0.5,1,'2026-04-18',1),
+  ('2026-04-13','TJ Kale',1,1,'2026-04-18',1),
+  ('2026-04-13','TJ English Shelled Peas',2,1,'2026-04-18',1),
+  ('2026-04-13','Beefsteak tomato',3,1,'2026-04-18',1), /* limited by space in pot, not by tomato stock */
   /* 2026-04-14 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-04-14','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
+  ('2026-04-14','Lundberg Sustainable California White Jasmine Rice',1,1,'2026-04-18',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-04-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-15',1),
   ('2026-04-14','TJ Miso Ginger Broth',1,2,null,null),
