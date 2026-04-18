@@ -8,6 +8,7 @@ cleaning had been on [2025-10-22](../2025/2025-10-22-dental-cleaning.md).
 Sections of this document:
 
 * [Prior preparation](#prior-preparation)
+* [Appointment](#appointment)
 
 ## Prior preparation
 
@@ -106,3 +107,104 @@ Friday to Monday, as cancellation can only be done on weekdays
 
 I also updated the maintenance window and reached out about on-call
 override.
+
+### Food pause decisions on 2026-04-17
+
+On Friday 2026-04-17, two weeks prior to the dental cleaning
+appointment, I thought through the food pause plan.
+
+The context driving more of a food pause than my baseline is that on
+2026-04-02, I developed or revive a mouth ulcer opposite my mandibular
+right canine tooth, a favorite spot for such ulcers. The mouth ulcer
+has been mostly benign, not causing pain or irritation most of the
+time. However, it does have the risk of smarting from minor mechanical
+injuries or contact with harsh acid or spices. Going into a dental
+cleaning, I want to minimize the risk of these small aggravations,
+given the additional demands that the dental cleaning will place on
+the mouth and the risk of further injury aggravation.
+
+Here's what I decided after reviewing the [best
+practices](../../best-practices/best-practices-around-dental-cleaning-appointments.md)
+and discussing my thoughts with Claude ([private
+chat](https://claude.ai/chat/2657b0c1-77a4-48a8-a87c-e5d136dfb6dc)):
+
+* I'm pausing intense spicy outside foods from now until after the
+  dental cleaning. This is a default behavior (I don't usually eat
+  outside food) so no special reminders are needed.
+
+  This is in line with my usual best practices.
+
+* My plan is to reduce cayenne pepper volume to about half the usual
+  starting 2026-04-17, and to not include cayenne pepper in meal
+  preparations starting Thursday 2026-04-23 (8 days prior to the
+  dental cleaning appointment). Since meal preparations last somewhere
+  between 4 and 8 days, this should have the effect of tapering down
+  my cayenne pepper consumption. This is my only regular
+  capsaicin-containing source, so this should reduce the risk of mouth
+  inflammation or aggravation in the run-up to the appointment.
+
+  I have added a calendar reminder about stopping cayenne pepper for
+  2026-04-23.
+
+  This is in line with the general best practices guidance.
+
+* My plan is to pause sauerkraut starting the morning of 2026-04-28, 3
+  days prior to the dental cleaning. The acidic nature of sauerkraut,
+  while usually well-tolerated, does increase the risk of aggravating
+  minor inflammation in the mouth.
+
+  I have added a calendar reminder to this effect for 2026-04-28.
+
+  This is not part of my default best practices but is within the
+  range of expected adjustments when I have mouth ulcers. Since the
+  ulcer is in a benign, stable state, I am choosing a 3-day pause
+  rather than a full 1-week pause.
+
+* I don't have any special pause plans for walnuts other than the
+  "morning of" pause that is already marked on my calendar.
+
+### Verification that work calendar is clear (done 2026-04-17)
+
+I verified on Friday 2026-04-17, two weeks prior to the dental
+cleaning appointment, that my work calendar is clear for the day of
+the appointment (Friday 2026-05-01).
+
+## Appointment
+
+### List of items to discuss
+
+This list will be largely informed by the results of the dental
+self-exam checklist scheduled for Friday 2026-04-24.
+
+Here's the list prior to the checklist execution:
+
+* The recurrence of ulcers opposite my mandibular right canine led
+  Claude to suggest that perhaps the cusp tip has a sharp edge, which
+  contributes to ongoing trauma (causing recurrence and slowing down
+  healing). Claude suggests that if so, a targeted smoothing of the
+  cusp tip could permanently reduce the contribution of this
+  microtrauma, which would allow faster healing and reduce recurrence
+  in the long run.
+
+  A few related points:
+
+  * The greater recession of the canines could be an indirect
+    contributor. It doesn't change the cusp tip shape directly, but it
+    could affect the contact angle in an unfavorable way.
+
+  * The smoothing of the cusp tip is likely to be a quick one-time
+    procedure and not something that needs a refresh with every
+    cleaning.
+
+  * The evaluation can be done by the dentist in the exam. I should
+    just make sure to mention it to the hygienist at the start of the
+    appointment and then again to the dentist if the hygienist doesn't
+    bring it up.
+
+  * If cusp tip smoothing seems worth doing, it is likely to be doable
+    within the same visit, but it does need to be done by the dentist
+    rather than the hygienist, so depending on schedule it may not be
+    doable.
+
+  * If the procedure is indicated, it's likely to either be done for
+    free or have a minimal incremental cost.

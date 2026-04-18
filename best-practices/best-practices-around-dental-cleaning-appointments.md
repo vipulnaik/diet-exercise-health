@@ -127,14 +127,13 @@ other medical appointments, vaccines, or blood tests.
     modify the decision.
 
   * Decide (and set a reminder if the decision is positive) whether to
-    pause walnuts about 5-6 days prior to the appointmentif I have had
-    mouth ulcers or recent mouth bites: appointment. However, when
-    pausing walnuts, I should review my calorie, fiber,
+    pause walnuts about 5-6 days prior to the appointment. However,
+    when pausing walnuts, I should review my calorie, fiber,
     polyunsaturated fat, and protein intakes to make sure that
-    stopping these will not result in a significant drop. NOTE: Further
-    information gleaned through the execution of the dental self-exam
-    checklist one week before the dental cleaning may lead me to
-    modify the decision.
+    stopping these will not result in a significant drop. NOTE:
+    Further information gleaned through the execution of the dental
+    self-exam checklist one week before the dental cleaning may lead
+    me to modify the decision.
 
 * Reminder for the morning of the appointment: Skip sauerkraut and
   walnuts, to reduce the risk of mouth bites or irritation right
