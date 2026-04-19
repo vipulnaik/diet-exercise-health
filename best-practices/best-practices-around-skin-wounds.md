@@ -188,6 +188,23 @@ I should carry some moisturizer in my backpack so I have access to it
 as part of outside trips in general, ready for use in case I have
 impacts while on the go.
 
+### Limit on-the-go hand sanitizer application to ventral hand and dorsal hand distal of PIP joint
+
+When using hand sanitizer on the go, or in cases where washing hands
+would be impractical or too time-consuming, apply it to the full
+ventral hand but only to the part of the dorsal hand that's distal of
+the PIP joint, being a little careful not to apply too much to the
+proximal nail fold. This is doubly justified:
+
+* It covers the areas of the hand most likely to touch surfaces and
+  get germs through that process: the ventral hand through direct
+  contact, and the distal portion of the dorsal hand that may have
+  inadvertent contact.
+
+* It avoids the fissure-prone dorsal PIP joint and dorsal MCP joint
+  folds (and also sensitive skin in the proximal portion of the dorsal
+  palm).
+
 ## Handling
 
 ### Things to avoid / reduce if possible in case of hand injury
