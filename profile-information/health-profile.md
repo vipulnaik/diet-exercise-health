@@ -1,10 +1,6 @@
 # Health profile
 
-Last major update: October/November 2025 (significant expansion and
-addition of new sections and subsections while adding recent test
-results)
-
-Last nontrivial update (to ongoing incidents section): March 1, 2026 (2026-03-01)
+Last major update: April 20, 2026 (2026-04-20)
 
 NOTE (2025-09-22, updated 2025-11-10): I got [blood tests done on September 10,
 2025](../events/2025/2025-09-10-blood-tests.md). I got all the results
@@ -1288,7 +1284,103 @@ am good on both fronts.
 
 ## Kidney status
 
+Last substantive section update: April 20, 2026 (2026-04-20)
+
+Private Claude conversations informing the update:
+
+* [Health profile
+  review](https://claude.ai/chat/b9b94006-2e65-4a25-adf5-9cb94b446ed4)
+  (search for `kidney status` to see specific feedback on the section)
+
+* [Blood flow deep
+  dive](https://claude.ai/chat/bcbc2f76-5aee-4920-8479-06e85ceb6c0c)
+  (several mechanistic clarifications regarding the kidneys in the
+  broader context of understanding blood flow)
+
+### Overview of kidney funnel
+
+#### Three stages of the kidney funnel
+
+The kidneys operate continuously, filtering blood and producing urine.
+The funnel of blood flow and urine production can be understood as
+having these stages:
+
+* Renal blood flow (RBF): This is the rate at which blood flows to the
+  kidney.
+
+  * Average: About 20% of total blood flow, or about 1L/min.
+
+  * Short-run fluctuation: Locally, this is remarkably well-regulated
+    (with smoothing out of pulsatile variation.
+
+  * Diurnal fluctuation: About 10-20%. It tends to drop a little bit
+    during sympathetic activation such as heavy exercise (blood is
+    directed elsewhere) and drop during parasympathetic
+    activation. But it is also lower at night despite lower
+    parasympathetic activation.
+
+* Glomerular filtration rate (GFR): Not all the blood that flows to
+  the kidney filters through the glomerulus -- some of it just keeps
+  flowing along. The GFR is the rate at which blood actually filters
+  through the kidney (including both the blood that makes up the urine
+  and the blood that gets reabsorbed).
+
+  * Average: About 20% of renal plasma flow (RPF), which in turn is
+    about 60% of RBF, RBF, so 20% of 60% of 20%, or about 2.4%, of
+    total blood flow.
+
+    The fraction of RPF that is GFR is called the filtration fraction.
+
+  * Short-run fluctuation: Mostly tracks RBF, with posture
+    contributing slightly (upright posture increases GFR).
+
+  * Diurnal fluctuation: Mostly tracks RBF, but protein intake can
+    increase GFR during the day. So overall fluctuation is about
+    20-30% versus 10-20% for RBF.
+
+  eGFR, estimated average GFR (see next section) is not the absolute
+  GFR but a body surface area-normalized GFR (with the normalization
+  to 1.73 m^2 surface area). The surface area isn't measured but
+  estimated from age.
+
+* Urine output from kidneys: Most of the filtered blood gets
+  reabsorbed; a tiny fraction produces urine. It's hard to give
+  averages here since this is much more subject to the level of
+  hormones, that can vary both within the day and between individuals,
+  and based on factors like temperature.
+
+  Some parts of absorption (proximal convoluted tubule, loop of Henle)
+  tend to happen regardless of hormones, whereas late distal
+  convoluted tubule absorption depends on anti-diuretic hormone (ADH)
+  and aldosterone levels that vary widely through the day (ADH is
+  higher at night, leading to more reabsorption and less urine
+  output). The relatively stable parts contribute to about 85%
+  reabsorption, so even at peak, urine output is at most about 15% of
+  GFR. But where exactly it lands between 0% and 15% depends on many
+  factors.
+
+#### Nephron loss and GFR
+
+The kidneys are massive parallel processors, with on the order of a
+million nephrons per kidney, each of which independently does the
+filtration. The GFR of the kidneys is the sum of the GFRs of all the
+nephrons; the GFR of an individual nephron is called the
+single-nephron GFR (SNGFR).
+
+The main reason the kidney's GFR goes down with age and in
+the presence of specific morbidities is nephron loss.
+
+However, overall GFR is a lagging indicator of nephron loss, because
+with mild nephron loss, the remaining nephrons compensate by
+increasing their SNGFR through hypertrophy and hyperfiitration. This
+means that substantial nephron loss can occur before GFR even starts
+meaningfully declining. However, the increased SNGFR of the surviving
+nephrons actually increases the risk of losing them because they are
+working hard and at an unnatural level.
+
 ### GFR estimation
+
+#### General background on GFR estimation
 
 A key measurement associated with kidney function is the glomerular
 filtration rate (GFR) which is the rate at which blood is filtered
@@ -1319,24 +1411,13 @@ give very different estimates of GFR, the estimate from cystatin C is
 considered the more reliable one and the estimate from creatinine can
 essentialy be discarded.
 
+#### My readings
+
 In my case, I have gotten a GFR estimate using cystatin C just once,
 whereas I've gotten several GFR estimates using creatinine. The GFR
 estimate using cystatin C is 88, whereas the ones using creatinine
 have been in excess of 110, due to lower-than-usual creatinine levels
 which might be related to low overall muscle mass.
-
-I started creatine supplementation in 2025, initially in the form of
-gummies; later I switched to powder. See
-[here](../events/2025/2025-07-06-creatine-purchase.md) for
-details. The September 2025 test is after I started the gummies. As
-creatinine is one of the breakdown products of creatine, it is
-possible that the slightly higher reading in September 2025 reflects
-the increased creatine consumption. However, gummies are in general
-not that effective and my dose was low, so it will be interesting to
-see how the creatinine level evolves after the switch to powder. I did
-also test a serum *creatine* level in September 2025, which was at 0.1
-mg/dL (on the low end) but there isn't a lot of study yet of how to
-interpret serum creatine.
 
 Below are my recent readings:
 
@@ -1350,6 +1431,8 @@ Reading date | Type of measurement | Measurement (mg/dL) | eGFR (mL/min/1.73 m^2
 2024-04-30 (April 2024) | creatinine | 0.87 | 113
 2016-12-12 (December 2016) | creatinine | 0.62 | 133
 
+#### My assessment that I should pay attention to cystatin C
+
 Based on the general guidance, I am inclined to discard the
 creatinine-based estimates and focus on the cystatin C-based
 estimate. The estimate of 88, while well above the stage where
@@ -1359,11 +1442,50 @@ till I get to the concerning level of around 59. With that said, I
 currently have just one data point and it's definitely not enough to
 show a clear trend line.
 
+#### Potential factors influencing the creatinine level and trend
+
+While my plan going forward is to get periodic measurements of
+cystatin C, for retrospective data I only have creatinine. As I
+mentioned above, I suspect my creatinine to be depressed, and
+therefore the creatinine-based eGFR to be an overestimate, due to low
+muscle mass.
+
+Regarding the trend, there are two factors, neither directly related
+to the kidneys:
+
+* Increase in muscle mass due to strength exercises: I started doing
+  regular strength exercises in 2021, and have gradually been
+  progressing to higher levels since then. In particular, the
+  difference between 2016 (before I was doing regular strength
+  exercises) and the period 2024 onward may be driven largely by
+  changes in muscle mass. The magnitude and direction are roughly as
+  expected: my creatinine in 2016 was much lower (and therefore
+  creatinine-based eGFR was much higher) than any of the readings 2024
+  onward.
+
+* Creatine supplementation: I started creatine supplementation in
+  2025, initially in the form of gummies; later I switched to
+  powder. See [here](../events/2025/2025-07-06-creatine-purchase.md)
+  for details. The September 2025 test is after I started the
+  gummies. As creatinine is one of the breakdown products of creatine,
+  it is possible that the slightly higher reading in September 2025
+  reflects the increased creatine consumption. However, gummies are in
+  general not that effective and my dose was low, so it will be
+  interesting to see how the creatinine level evolves after the switch
+  to powder. I did also test a serum *creatine* level in September
+  2025, which was at 0.1 mg/dL (on the low end) but there isn't a lot
+  of study yet of how to interpret serum creatine.
+
 #### Plan for followup measurements and actions
 
 I plan to get a cystatin C measurement every 2 to 3 years to get a
 clear picture of the trend. I will also continue monitoring my
-metabolic panel for any other evidence of impaired kidney function.
+metabolic panel for any other evidence of impaired kidney
+function. While I don't plan to view a high creatinine-based eGFR as
+*positive* evidence of good kidney function, a creatinine-based eGFR
+that is lower than my most recent cystatin C-based eGFR will likely
+trigger me to get another cystatin C measurement before the scheduled
+time.
 
 ### Urinalysis
 
@@ -1438,7 +1560,8 @@ command to get average potassium consumption in the *week* prior to the
 test:
 
 ```sql
-select avg(potassium_in_mg) from interpolated_nutrient_consumption where datediff(<test date>,consumption_date) between 1 and 7;
+select avg(potassium_in_mg) from interpolated_nutrient_consumption
+where datediff(<test date>,consumption_date) between 1 and 7;
 ```
 
 Note that this interpolates data for openings that happened more than
@@ -1489,7 +1612,8 @@ command to get average protein consumption in the *week* prior to the
 test:
 
 ```sql
-select avg(protein_in_grams) from interpolated_nutrient_consumption where datediff(<test date>,consumption_date) between 1 and 7;
+select avg(protein_in_grams) from interpolated_nutrient_consumption
+where datediff(<test date>,consumption_date) between 1 and 7;
 ```
 
 Note that this interpolates data for openings that happened more than
@@ -1555,6 +1679,43 @@ Reading date | Calcium measurement (mg/dL)
 
 ### Urine quantity and pattern
 
+#### General facts
+
+Urine production in general is expected to be about 800 mL to 2,200 mL
+per day.
+
+Urine output from kidneys is stored in the bladder; voiding from the
+bladder (aka micturition or, colloquially, urination) happens at select
+intervals; the rest of the time, the bladder is building up
+urine. Voiding tends to not be totally complete; residual volumes of
+about 10 to 30 mL are common. The urge to urinate tends to get strong
+around 150-200 mL, though it's often possible to urinate at levels of
+around 100 mL.
+
+Urine production goes up in colder climates; this phenomenon is called
+cold diuresis. In the language of [Overview of kidney
+funnel](#overview-of-kidney-funnel), the cold diuresis mechanism
+operates at the RBF stage (the first stage of the funnel) and the
+urine output stage (the last stage of the funnel):
+
+* RBF stage: Cold-induced peripheral vasoconstriction reduces
+  peripheral blood flow, redistributing blood flow to central organs
+  in cluding the kidney, so it increases renal blood flow. This effect
+  might be most acute during night-time temperature drops.
+
+* Urine output stage: Lower levels of water loss through sweat result
+  in the body's regulatory mechanisms detecting low osmolality, so it
+  know that it needs to get rid of more water, leading to more ADH
+  suppression. This is a more holistic effect not tied to the
+  temperature at a specific point in time but more to the overall rate
+  of water loss through sweat over the course of the day.
+
+The urine output stage dominates the overall pattern, but specific
+spikes in urine output rate after sudden temperature drops are likely
+explained by the RBF stage.
+
+#### My pattern
+
 My urine is generally yellow in color (as also confirmed in both the
 urinalyses that have been done). I've noticed a neon-green color as a
 result of taking a B complex supplement, for a few hours after taking
@@ -1563,27 +1724,51 @@ the supplement. I don't take this supplement regularly.
 I generally urinate about 8 to 10 times a day.
 
 These are the 7 scheduled/trigger-based time points, where I'll
-generally go to urinate even if I don't feel a strong urge (although
-in warmer climates I may skip some of the pre-meal and post-meal ones):
+generally go to urinate even if I don't feel a strong urge and am
+generally able to successfully urinate.
 
 * Once after waking up (1 time total)
 
 * Once before eating for each meal (2 times total)
 
-* Once after eating and post-meal cleanup (2 times total)
+* Once some time during post-meal cleanup (2 times total)
 
 * Once before going jogging in the morning (1 time total)
 
 * Once as I wrap up to go to sleep (1 time total)
 
-Additional ones:
+In most cases, I am able to successfully urinate at each of these
+times. Under warm conditions, these are around 100 mL urinations, with
+the exception of the urination after waking up that tends to be close
+to a 200 mL urination. In colder climates, many of these scheduled
+urinations are closer to 150 mL. The overall picture across scheduled
+urinations is somewhere between 800 mL in warmer climates and 1100 mL
+in colder climates.
+
+Additional ones that may or may not happen:
 
 * Once or twice at other times during the day, usually about 1.5 to 3
   hours after the last scheduled time, or in some cases earlier if I
   am preparing to go out.
 
+  The urge-driven cases tend to be 100 to 200 mL. The urinations to
+  clear the bladder prior to outside trips can in some cases be around
+  50 mL, particularly if they happen within less than an hour after the
+  previous urination.
+
 * One urination mid-sleep, generally in colder weather. The colder the
   weather, the earlier in my sleep I'll do the mid-sleep urination.
+
+  Mid-sleep urination tended to be more common in the 2024-2025 winter
+  and less common in the 2025-2026 winter. This might partly reflect
+  differences in how cold the winters were, but might also reflect
+  other changes such as changes to my diurnal ADH cycle, or changes to
+  my bladder's tolerance for urine buildup. I suspect some ADH cycle
+  changes, since my urination quantity after waking up was at around
+  the 200 mL mark throughout, rather than going up in 2025-2026,
+  suggesting that the urine from the missing mid-sleep urination did
+  reflect less production rather than just being shifted in timing to
+  the urination after waking up.
 
 ## Lifestyle
 
