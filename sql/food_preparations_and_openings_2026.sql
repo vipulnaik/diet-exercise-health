@@ -445,7 +445,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-08','Beefsteak tomato',7,2,'2026-04-12',2), /* checkpoint: stock down to 0 */
   /* new bottle/packet openings as the old ones finished */
   ('2026-04-08','TJ Walnuts',1,2,'2026-04-11',2),
-  ('2026-04-09','TJ Sauerkraut',1,1,null,null),
+  ('2026-04-09','TJ Sauerkraut',1,1,'2026-04-19',1),
   ('2026-04-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-11',1),
   /* 2026-04-10 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-04-10','Lundberg Sustainable California White Jasmine Rice',1,2,'2026-04-14',1),
@@ -467,7 +467,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-14','TJ Miso Ginger Broth',1,2,null,null),
   ('2026-04-15','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-04-16',2),
   ('2026-04-15','TJ Almond Milk',1,2,null,null),
-  ('2026-04-15','TJ Walnuts',1,2,null,null),
+  ('2026-04-15','TJ Walnuts',1,2,'2026-04-19',1),
   ('2026-04-15','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-04-17',2),
   /* 2026-04-16 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-04-16','Eggplant',1,2,null,null),
