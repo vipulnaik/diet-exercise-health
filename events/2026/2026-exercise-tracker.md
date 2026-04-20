@@ -506,3 +506,11 @@ exercise.
 On Wednesday 2026-04-15, I skipped all exercises as my morning and
 early afternoon were spent on work, on a mix of catching up on
 scheduled items and a time-sensitive investigation.
+
+## 2026-04-19: skipped all exercises
+
+On Sunday 2026-04-19, I skipped all exercises as some complex day job
+work ended up taking a lot of time. Although the work wasn't
+time-sensitive per se, it was complex and high-context, and took
+longer than expected, but given the high-context nature, I deemed it
+best to complete it rather than leave it at an awkward checkpoint.
