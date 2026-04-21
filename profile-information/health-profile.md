@@ -1760,6 +1760,8 @@ Additional ones that may or may not happen:
 * One urination mid-sleep, generally in colder weather. The colder the
   weather, the earlier in my sleep I'll do the mid-sleep urination.
 
+  These tend to be 150 to 200 mL urinations, as only significant voiding pressure would be enough to get me up at night to urinate in the cold.
+
   Mid-sleep urination tended to be more common in the 2024-2025 winter
   and less common in the 2025-2026 winter. This might partly reflect
   differences in how cold the winters were, but might also reflect
