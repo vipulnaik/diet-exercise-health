@@ -1327,7 +1327,7 @@ having these stages:
   and the blood that gets reabsorbed).
 
   * Average: About 20% of renal plasma flow (RPF), which in turn is
-    about 60% of RBF, RBF, so 20% of 60% of 20%, or about 2.4%, of
+    about 60% of RBF, so 20% of 60% of 20%, or about 2.4%, of
     total blood flow.
 
     The fraction of RPF that is GFR is called the filtration fraction.
