@@ -1732,7 +1732,7 @@ generally able to successfully urinate.
 
 * Once before eating for each meal (2 times total)
 
-* Once some time during post-meal cleanup (2 times total)
+* Once some time during post-meal cleanup for each meal (2 times total)
 
 * Once before going jogging in the morning (1 time total)
 
