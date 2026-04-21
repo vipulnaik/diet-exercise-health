@@ -1316,8 +1316,8 @@ having these stages:
 
   * Diurnal fluctuation: About 10-20%. It tends to drop a little bit
     during sympathetic activation such as heavy exercise (blood is
-    directed elsewhere) and drop during parasympathetic
-    activation. But it is also lower at night despite lower
+    directed elsewhere) and rise during parasympathetic
+    activation. But it is also lower at night despite more
     parasympathetic activation.
 
 * Glomerular filtration rate (GFR): Not all the blood that flows to
