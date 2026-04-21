@@ -1311,8 +1311,8 @@ having these stages:
 
   * Average: About 20% of total blood flow, or about 1L/min.
 
-  * Short-run fluctuation: Locally, this is remarkably well-regulated
-    (with smoothing out of pulsatile variation.
+  * Short-run fluctuation: Locally, this is remarkably well-regulated,
+    with smoothing out of pulsatile variation.
 
   * Diurnal fluctuation: About 10-20%. It tends to drop a little bit
     during sympathetic activation such as heavy exercise (blood is
