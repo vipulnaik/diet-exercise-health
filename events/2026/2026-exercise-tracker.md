@@ -514,3 +514,14 @@ work ended up taking a lot of time. Although the work wasn't
 time-sensitive per se, it was complex and high-context, and took
 longer than expected, but given the high-context nature, I deemed it
 best to complete it rather than leave it at an awkward checkpoint.
+
+## 2026-04-21: skipped jogging and strength exercises
+
+On Tuesday 2026-04-21, I did hand gripper exercises but skipped
+jogging and strength exercises. The goal was to move my whole daily
+cycle to earlier, something I have been struggling with in the context
+of long and intense days. I was already a little late as a result of
+my morning and early afternoon tasks each taking a little more time
+than anticipated, and doing jogging and strength exercises would have
+added not just the time of doing them but also the additional gap
+between exercise and meal.
