@@ -64,6 +64,7 @@ Sections of this document:
     * [Total bilirubin in the blood](#total-bilirubin-in-the-blood)
     * [Liver fat (steatosis)](#liver-fat-steatosis)
   * [Kidney status](#kidney-status)
+    * [Overview of kidney funnel](#overview-of-kidney-funnel)
     * [GFR estimation](#gfr-estimation)
     * [Urinalysis](#urinalysis)
     * [Metabolic panel](#metabolic-panel)
