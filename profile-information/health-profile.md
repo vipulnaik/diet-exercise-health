@@ -1309,7 +1309,9 @@ having these stages:
 * Renal blood flow (RBF): This is the rate at which blood flows to the
   kidney.
 
-  * Average: About 20% of total blood flow, or about 1L/min.
+  * Average: About 20% of total blood flow. In an adult of normal
+    size, this works out to about 1L/min in an adult since total blood
+    flow is about 5L/min.
 
   * Short-run fluctuation: Locally, this is remarkably well-regulated,
     with smoothing out of pulsatile variation.
@@ -1326,11 +1328,24 @@ having these stages:
   through the kidney (including both the blood that makes up the urine
   and the blood that gets reabsorbed).
 
-  * Average: About 20% of renal plasma flow (RPF), which in turn is
-    about 60% of RBF, so 20% of 60% of 20%, or about 2.4%, of
-    total blood flow.
+  * Average (with perfectly healthy kidneys): About 20% of renal
+    plasma flow (RPF), which in turn is about 60% of RBF, so 20% of
+    60% of 20%, or about 2.4%, of total blood flow. In an adult of
+    normal size and with perfectly healthy kidneys, this works out to
+    about 120 mL/min since total blood flow is about 5L/min.
 
-    The fraction of RPF that is GFR is called the filtration fraction.
+    The fraction of RPF that is GFR is called the filtration
+    fraction. As kidney deteriorate, the filtration fraction falls,
+    and therefore the GFR also falls.
+
+    eGFR, estimated average GFR (see next section) is not the absolute
+    GFR but a body surface area-normalized GFR (with the normalization
+    to 1.73 m^2 surface area). The surface area isn't measured but
+    estimated from age. Since 1.73 m^2 is approximtely the surface
+    area of a normal adult, the numeric values of eGFR with annd
+    without surface area normalization are about the same -- so about
+    120 mL/min or about 120 mL/min/1.73 m^2 in an adult with healthy
+    kidneys.
 
   * Short-run fluctuation: Mostly tracks RBF, with posture
     contributing slightly (upright posture increases GFR).
@@ -1339,16 +1354,12 @@ having these stages:
     increase GFR during the day. So overall fluctuation is about
     20-30% versus 10-20% for RBF.
 
-  eGFR, estimated average GFR (see next section) is not the absolute
-  GFR but a body surface area-normalized GFR (with the normalization
-  to 1.73 m^2 surface area). The surface area isn't measured but
-  estimated from age.
-
-* Urine output from kidneys: Most of the filtered blood gets
+* Urine production by kidneys: Most of the filtered blood gets
   reabsorbed; a tiny fraction produces urine. It's hard to give
   averages here since this is much more subject to the level of
   hormones, that can vary both within the day and between individuals,
-  and based on factors like temperature.
+  and based on factors like temperature. However, this is the stage of
+  the funnel with the most short-run and diurnal fluctuation.
 
   Some parts of absorption (proximal convoluted tubule, loop of Henle)
   tend to happen regardless of hormones, whereas late distal
@@ -1356,7 +1367,7 @@ having these stages:
   and aldosterone levels that vary widely through the day (ADH is
   higher at night, leading to more reabsorption and less urine
   output). The relatively stable parts contribute to about 85%
-  reabsorption, so even at peak, urine output is at most about 15% of
+  reabsorption, so even at peak, urine production is at most about 15% of
   GFR. But where exactly it lands between 0% and 15% depends on many
   factors.
 
@@ -1685,7 +1696,7 @@ Reading date | Calcium measurement (mg/dL)
 Urine production in general is expected to be about 800 mL to 2,200 mL
 per day.
 
-Urine output from kidneys is stored in the bladder; voiding from the
+Urine production by kidneys is stored in the bladder; voiding from the
 bladder (aka micturition or, colloquially, urination) happens at select
 intervals; the rest of the time, the bladder is building up
 urine. Voiding tends to not be totally complete; residual volumes of
@@ -1697,22 +1708,22 @@ Urine production goes up in colder climates; this phenomenon is called
 cold diuresis. In the language of [Overview of kidney
 funnel](#overview-of-kidney-funnel), the cold diuresis mechanism
 operates at the RBF stage (the first stage of the funnel) and the
-urine output stage (the last stage of the funnel):
+urine production stage (the last stage of the funnel):
 
 * RBF stage: Cold-induced peripheral vasoconstriction reduces
   peripheral blood flow, redistributing blood flow to central organs
   in cluding the kidney, so it increases renal blood flow. This effect
   might be most acute during night-time temperature drops.
 
-* Urine output stage: Lower levels of water loss through sweat result
+* Urine production stage: Lower levels of water loss through sweat result
   in the body's regulatory mechanisms detecting low osmolality, so it
   know that it needs to get rid of more water, leading to more ADH
   suppression. This is a more holistic effect not tied to the
   temperature at a specific point in time but more to the overall rate
   of water loss through sweat over the course of the day.
 
-The urine output stage dominates the overall pattern, but specific
-spikes in urine output rate after sudden temperature drops are likely
+The urine production stage dominates the overall pattern, but specific
+spikes in urine production rate after sudden temperature drops are likely
 explained by the RBF stage.
 
 #### My pattern
