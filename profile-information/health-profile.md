@@ -1285,7 +1285,7 @@ am good on both fronts.
 
 ## Kidney status
 
-Last substantive section update: April 20, 2026 (2026-04-20)
+Last substantive section update: April 21, 2026 (2026-04-21)
 
 Private Claude conversations informing the update:
 
@@ -1694,7 +1694,9 @@ Reading date | Calcium measurement (mg/dL)
 #### General facts
 
 Urine production in general is expected to be about 800 mL to 2,200 mL
-per day.
+per day. For more on the funnel stages affecting the rate of urine
+production, see the earlier subsection [Overview of kidney
+funnel](#overview-of-kidney-funnel).
 
 Urine production by kidneys is stored in the bladder; voiding from the
 bladder (aka micturition or, colloquially, urination) happens at select
@@ -1705,14 +1707,14 @@ around 150-200 mL, though it's often possible to urinate at levels of
 around 100 mL.
 
 Urine production goes up in colder climates; this phenomenon is called
-cold diuresis. In the language of [Overview of kidney
-funnel](#overview-of-kidney-funnel), the cold diuresis mechanism
-operates at the RBF stage (the first stage of the funnel) and the
-urine production stage (the last stage of the funnel):
+cold diuresis. In the language of the earlier subsection [Overview of
+kidney funnel](#overview-of-kidney-funnel), the cold diuresis
+mechanism operates at the RBF stage (the first stage of the funnel)
+and the urine production stage (the last stage of the funnel):
 
 * RBF stage: Cold-induced peripheral vasoconstriction reduces
   peripheral blood flow, redistributing blood flow to central organs
-  in cluding the kidney, so it increases renal blood flow. This effect
+  including the kidney, so it increases renal blood flow. This effect
   might be most acute during night-time temperature drops.
 
 * Urine production stage: Lower levels of water loss through sweat result
@@ -1726,63 +1728,176 @@ The urine production stage dominates the overall pattern, but specific
 spikes in urine production rate after sudden temperature drops are likely
 explained by the RBF stage.
 
-#### My pattern
+#### My urine color pattern
 
 My urine is generally yellow in color (as also confirmed in both the
 urinalyses that have been done). I've noticed a neon-green color as a
 result of taking a B complex supplement, for a few hours after taking
 the supplement. I don't take this supplement regularly.
 
-I generally urinate about 8 to 10 times a day.
+#### My inferred urine production rate
 
-These are the 7 scheduled/trigger-based time points, where I'll
-generally go to urinate even if I don't feel a strong urge and am
-generally able to successfully urinate.
+My urine production rate over time, as inferred based on timing of
+voiding (urination) and quantity of urine, is as follows:
 
-* Once after waking up (1 time total)
+* While sleeping, I have a urine production range of 25 mL/hour to 50
+  mL/hour, with the lower end achieved in cool to warm weather, and
+  the higher end seen in cold weather (indoor temperatures around 60
+  degrees Fahrenheit or less). Urine production rate also goes up
+  toward the end of sleep, which likely reflects both the shift to a
+  wakeful pattern and the fact that temperature is often lowest in the
+  hours shortly before waking up.
 
-* Once before eating for each meal (2 times total)
+* While awake, I have a urine production range of 50 mL/hour to 100
+  mL/hour, with the lower end achieved in cool to warm weather, and
+  the higher end achieved in colder weather. Some of the known
+  correlates I have observed:
 
-* Once some time during post-meal cleanup for each meal (2 times total)
+  * Urine production is generally higher in the 2 to 3 hours after
+    finishing a meal, likely in response to the water content of food
+    gets absorbed, further strengthened by being relatively sedentary
+    over that period (no heavy exercise, usually no outdoor travel at
+    least for the first 1 hour after the meal).
 
-* Once before going jogging in the morning (1 time total)
+  * Urine production is somewhat lower during heavy exercise,
+    particularly in warmer weather, as sweat production offers an
+    alternative way of losing water and excess minerals.
 
-* Once as I wrap up to go to sleep (1 time total)
+  * In colder weather, urine production can spike during outdoor trips
+    in the evening, as outdoor temperatures are significantly lower
+    than indoor temperatures in the evening.
 
-In most cases, I am able to successfully urinate at each of these
-times. Under warm conditions, these are around 100 mL urinations, with
-the exception of the urination after waking up that tends to be close
-to a 200 mL urination. In colder climates, many of these scheduled
-urinations are closer to 150 mL. The overall picture across scheduled
-urinations is somewhere between 800 mL in warmer climates and 1100 mL
-in colder climates.
+#### My urge/volume relationship
 
-Additional ones that may or may not happen:
+I don't measure the volume of urine most of the time, so this is an
+approximate estimation. Amounts may be off by about 20%.
 
-* Once or twice at other times during the day, usually about 1.5 to 3
-  hours after the last scheduled time, or in some cases earlier if I
-  am preparing to go out.
+Urine quantity in mL: midpoint of range (full range) | Urge and experience
+-- | --
+50 (25 to 75) | no urge (except in rare cases of concentrated urine); generally, stream of urine takes time to start
+100 (75 to 125) | usually no urge, or easily suppressed urge; stream of urine starts relatively easily once deliberately attempted
+150 (125 to 175) | mild urge that can be suppressed with moderate distraction; stream starts spontaneously
+200 (175 to 225) | moderate urge that is uncomfortable and needs willpower to suppress; stream eager to start
+250 (225 to 275) | urge that is so distracting that it leads to pacing up and down or posture changes to suppress;  stream eager to start and can be chaotic
 
-  The urge-driven cases tend to be 100 to 200 mL. The urinations to
-  clear the bladder prior to outside trips can in some cases be around
-  50 mL, particularly if they happen within less than an hour after the
-  previous urination.
+#### Daily triggers for voiding (urination)
 
-* One urination mid-sleep, generally in colder weather. The colder the
-  weather, the earlier in my sleep I'll do the mid-sleep urination.
+Below is the list of 7 daily triggers for voiding that happen
+reasonably reliably on all or almost all days; I use the point
+estimates above (50, 100, 150, 200, 250) to refer to the associated
++/- 25 ranges.
 
-  These tend to be 150 to 200 mL urinations, as only significant voiding pressure would be enough to get me up at night to urinate in the cold.
+The "standard" urination amount is 100 mL in cool to warm weather,
+potentially going down to 50 mL in hot weather and up to 150 mL in cold
+weather.
 
-  Mid-sleep urination tended to be more common in the 2024-2025 winter
-  and less common in the 2025-2026 winter. This might partly reflect
-  differences in how cold the winters were, but might also reflect
-  other changes such as changes to my diurnal ADH cycle, or changes to
-  my bladder's tolerance for urine buildup. I suspect some ADH cycle
-  changes, since my urination quantity after waking up was at around
-  the 200 mL mark throughout, rather than going up in 2025-2026,
-  suggesting that the urine from the missing mid-sleep urination did
-  reflect less production rather than just being shifted in timing to
-  the urination after waking up.
+Trigger | Gap since last urination Approximate urine quantity (mL)
+-- | -- | --
+waking up | depends on whether pre-sleep/mid-sleep urination; sleep duration + 1.25 hours otherwise | 200 or 250 if no mid-sleep urination; up to 50 * (number of hours since last mid-sleep urination) in case of mid-sleep urination
+before jogging (may skip if skipping jogging entirely) | 1 to 4 hours | standard
+before first meal | 1 to 3 hours | standard, potentially a bit higher in case of skipping jogging due to the skipped urination
+during post-meal cleanup after first meal | 1 to 2 hours | standard
+before second meal | 1 to 3 hours unless unscheduled urination in between | 50 more than standard if no unscheduled urination in between, standard or less in case of unscheduled urination in between
+during post-meal cleanup after second meal | 1 to 2 hours | standard
+closing for sleep | 1 to 3 hours | 50 more than standard if no unscheduled urination in between, standard or less in case of unscheduled urination in between
+
+Some urine is also released with bowel movement. This tends to be
+relatively small (around 50 mL) and can be ignored.
+
+#### Voiding due to other triggers or strong urges that don't occur every day
+
+The following are some example of triggers that don't occur every day:
+
+* Pre-sleep urination: In cold weather, I do an additional pre-sleep
+  urination that is about 20 to 30 minutes before going to sleep, in
+  addition to the urination at closing for sleep (so the gap between
+  the urinations is about 30 to 45 minutes). This is usually a 50 mL
+  urination. The goal isn't a strong urge at the time but trying to
+  get to as empty a bladder as possible for a clean start before
+  sleeping.
+
+* Mid-sleep urination: This may occur somewhere in the latter half of
+  sleep. The colder the weather, the more likely this is, and the
+  earlier it happens.
+
+  * Mid-sleep urination that is urge-driven is almost always at the
+    200 mL or 250 mL level. This almost always happens in the latter
+    half of sleep.
+
+  * Mid-sleep urination may occur because I had to wake up for another
+    reason and wanted to urinate to be able to focus on it. In such
+    contexts, it could be 150 mL, 200 mL, or 250 mL. This usually
+    happens in the latter half of sleep, because interruptions to
+    sleep are more likely at such times (early morning, as opposed to
+    late night). If it happens early in sleep, I may not need to
+    urinate or my urine volume may be around 100 mL.
+
+  * The timing of mid-sleep urination affects the volume of the next
+    urination after waking up. Roughly speaking, after mid-sleep
+    urination, the urine production rate for the rest of the night
+    seems to be around 50 mL/hour (this reflects it being later in the
+    night or early in the morning, with the cold diuresis effect
+    likely being operational insofar as it caused mid-sleep urination,
+    and with having woken up somewhat as a result of the urination).
+
+  * Mid-sleep urination tended to be more common in the 2024-2025
+    winter and less common in the 2025-2026 winter. This might partly
+    reflect differences in how cold the winters were, but might also
+    reflect other changes such as changes to my diurnal ADH cycle, or
+    changes to my bladder's tolerance for urine buildup. I suspect
+    some ADH cycle changes, since it does look like the sum total of
+    my pre-sleep, mid-sleep, and waking up urination was lower for
+    2025-26 winter nights than 2024-25 winter nights, even after
+    approximately matching for temperature.
+
+* Urination before going for a non-jogging outdoor trip, such as
+  shopping: I might choose to urinate before going out shopping if my
+  previous urination was over 30 minutes ago. This might happen even
+  if I don't have a strong urge; similar to the pre-sleep case, my
+  goal is to get to an empty bladder to get a clean start before the
+  trip. The volume can vary significantly based on the gap since the
+  last urination and the context (for instance, whether it's
+  post-meal).
+
+* Urination after return from a non-jogging outdoor trip, if I have an
+  urge: If I don't have an urge, I generally do not urinate, folding
+  the urine release into the next daily triggered urination. If I do
+  have an urge, the urine volume is typically around 150 mL or 200 mL.
+
+* Urination at a logical point within a laundry sequence or long
+  hands-on computer work or at a transition point between hands-on
+  computer work and some work around the house (in either
+  direction). This generally tends to be a 100 mL urination: enough
+  buildup to be meaningful to void, but not enough to create a strong
+  urge to urinate. The desire for a clean start before starting what
+  might be a long sequence of work, as well as the creation of a
+  little "break" time to do the mental preparation for the transition,
+  are important motivations.
+
+#### Good attentional gating and urine production suppression in rare cases of long periods of focused work
+
+While my typical daily pattern involves a lot of natural triggers for
+voiding (nicely spread out over time), I also occasionally do long
+sessions (hands-on computer work, work meetings on the computer,
+indoor work around the house, or outdoor work) for periods of 3 or
+more hours (going up to 7 hours in one case, though the higher end is
+usually in somewhat warmer weather), without even feeling an urge to
+void. This suggests that the relatively frequent voiding in my normal
+daily pattern is not *required*; I have the ability to void less
+frequently and even not feel the urge, but exercise this only in rare
+cases of long flow tasks.
+
+Three mechanisms are likely going on at the same time:
+
+* Reduction in the rate of urine production through a slight increase
+  in symathetic drive.
+
+* Increase in the ease with which the bladder relaxes as urine fills
+  in, again driven by a slight increase in sympathetic drive.
+
+* Attentional gating, where the urges as experienced at the muscle
+  level don't propagate all the way up to my conscious awareness,
+  because I am very engaged in the task.
 
 ## Lifestyle
 
