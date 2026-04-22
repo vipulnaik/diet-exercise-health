@@ -470,26 +470,28 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-15','TJ Walnuts',1,2,'2026-04-19',1),
   ('2026-04-15','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-04-17',2),
   /* 2026-04-16 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-04-16','Eggplant',1,2,null,null),
-  ('2026-04-16','TJ Kale',1,2,null,null),
-  ('2026-04-16','TJ Carrots',1,2,null,null),
-  ('2026-04-16','Green bell pepper',4,2,null,null),
-  ('2026-04-16','Red bell pepper',2,2,null,null),
-  ('2026-04-16','Beefsteak tomato',7,2,null,null),
+  ('2026-04-16','Eggplant',1,2,'2026-04-21',2),
+  ('2026-04-16','TJ Kale',1,2,'2026-04-21',2),
+  ('2026-04-16','TJ Carrots',1,2,'2026-04-21',2),
+  ('2026-04-16','Green bell pepper',4,2,'2026-04-21',2),
+  ('2026-04-16','Red bell pepper',2,2,'2026-04-21',2),
+  ('2026-04-16','Beefsteak tomato',7,2,'2026-04-21',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-04-16','TJ Roasted Seaweed',1,2,null,null),
   ('2026-04-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-18',2),
   /* 2026-04-18 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2026-04-18','Lundberg Sustainable California White Jasmine Rice',1,2,null,null),
+  ('2026-04-18','Lundberg Sustainable California White Jasmine Rice',1,2,'2026-04-21',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-04-19','TJ Walnuts',1,2,null,null),
   ('2026-04-19','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-04-21',1),
-  ('2026-04-20','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-04-20','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-21',2),
   ('2026-04-20','TJ Miso Ginger Broth',1,1,null,null),
   ('2026-04-20','TJ Sauerkraut',1,1,null,null),
   /* 2026-04-20 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper (a little less than usual), and salt) */
   ('2026-04-20','Gold potatoes 5 lb',0.5,2,null,null),
   ('2026-04-20','TJ Kale',1,2,null,null),
   ('2026-04-20','TJ Carrots',1,2,null,null),
-  ('2026-04-20','Beefsteak tomato',3,2,null,null); /* limited by space in pot, not by tomato stock */
+  ('2026-04-20','Beefsteak tomato',3,2,null,null), /* limited by space in pot, not by tomato stock */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-04-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
