@@ -2200,8 +2200,9 @@ of waking up can go either way.
 #### Mechanistic notes explaining these patterns
 
 The gastrocolic reflex and its interaction with my time of waking up
-has a mechanistic explanation. The key insight is that there are two
-things interacting:
+has a mechanistic explanation. The key insight is that there are three
+things interacting, and the reflex is strongest when they all happen
+at the same time:
 
 * Circadian motility ramp-up, which probably starts one ultradian
   rhythm (about 90 minutes) before I naturally wake up. If I wake up
