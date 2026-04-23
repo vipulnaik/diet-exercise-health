@@ -14,7 +14,7 @@
 | Red bell pepper                                    |                            0.0000 |                                    0.0000 |
 | Roma tomato                                        |                            8.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
-| TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
+| TJ Almond Milk                                     |                            0.0000 |                                    1.0000 |
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
 | TJ Carrots                                         |                            0.0000 |                                    1.0000 |
 | TJ Cinnamon                                        |                            0.0000 |                                    1.0000 |
