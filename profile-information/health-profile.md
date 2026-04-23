@@ -2143,20 +2143,138 @@ Here are some highlights of my current diet:
 
 ## Digestive cycle
 
+Last substantive section update: April 23, 2026 (2026-04-23)
+
 ### Bowel movement cycle
 
-I have daily morning bowel movements. Generally, after I wake up and
-urinate, I spend about 10-15 minutes on the computer catching up on my
-morning checklist, allowing the pressure to build up, then I have a
-bowel movement.
+#### Typical morning bowel movement timing
 
-Occasionally I have an additional bowel movement later in the day, or
-am unable to have a bowel movement in the morning. These cases are
-very unusual. The frequency of such incidents is generally less than
-one per month under normal conditions.
+Generally, I have one bowel movement in the morning after waking up
+and no other bowel movements during the day.
 
-I've basically adhered to this bowel movement cycle pretty
-regularly. Disruptions have been as follows:
+On typical mornings, after I wake up and urinate, I spend about 10-15
+minutes on the computer catching up on my morning checklist, allowing
+the pressure to build up, then I have a bowel movement.
+
+I record three time points inn my Slack self-chat logs:
+
+* `wu`: woke up
+
+* `sfsbmu`: started feeling strong bowel movement urge (where I am
+  confident that I could start a strong bowel movement immediately if
+  I went) (tied to the "gastrocolic reflex"; see later section with
+  mechanistic notes)
+
+* `wfbm`: went for bowel movement
+
+On days where I wake up naturally or within an hour or less prior to
+my normal time of waking up, the `wu` / `sfsbmu` gap is about 15
+minutes on average (varying between 5 and 25 minutes)
+
+The `sfsbmu` / `wfbm` gap is about 10 minutes (varying between 5 and
+15 minutes). Once I start feeling the strong bowel movement urge, it's
+very difficult to reverse, and extending the gap significantly is very
+difficult.
+
+#### The somewhat different pattern with early waking
+
+In cases where I wake up two hours or more prior to my usual time of
+waking up, I generally fail to develop a strong bowel movement urge
+within the usual timeframe after waking up.
+
+The most typical thing that happens is that I fail to develop a strong
+bowel movement urge, but if I deliberately make a bowel movement
+attempt around half an hour after my usual time of waking up, it is
+successful (maybe with slightly less volume than usual). If I try to
+do a bowel movement around my actual (early) time of waking up, it is
+likely to fail.
+
+This is in contrast to cases where I wake up upto one hour before my
+usual time of waking up; in such cases, I do get a strong bowel
+movement urge and it is tied to my actual (early) time of waking up
+rather than my normal time of waking up.
+
+Cases where I wake up between 1 hour and 2 hours before my normal time
+of waking up can go either way.
+
+#### Mechanistic notes explaining these patterns
+
+The gastrocolic reflex and its interaction with my time of waking up
+has a mechanistic explanation. The key insight is that there are two
+things interacting:
+
+* Circadian motility ramp-up, which probably starts one ultradian
+  rhythm (about 90 minutes) before I naturally wake up. If I wake up
+  one hour before my normal time of waking up, the circadian motility
+  ramp-up is already under way, and while it's not quite as ramped up
+  as if I had woken up at my usual time, it's ramped up enough that
+  there's stuff to work with.
+
+* Postural effect: Being in a seated position is better for motility
+  and triggering the gastrocolic reflex. In the seated position, the
+  final position of colon transit is vertical, whereas in a position
+  of lying down, it is horizontal. So motility is better when seated
+  than when lying down. What may be a bit less obvious is that the
+  seated position is even better than the standing or walking position
+  due to the anorectal angle being more favorable.
+
+* Cortisol spike: Waking triggers a cortisol spike, which peaks about
+  20 to 30 minutes after waking up. This also has pro-motility effects.
+
+When I wake up at most one hour prior to my usual time of waking up,
+the circadian motility ramp-up is underway, and the postural effect
+and cortisol spike can therefore work alongside the circadian motility
+ramp-up, explaining the strong bowel movement urge around 15 minutes
+after waking up (and not anchored to my usual time of waking up).
+
+In contrast, when I wake up over two hours prior to my normal time of
+waking up, the circadian motility ramp-up is not underway at all. The
+postural effect and cortisol spike still strike based on my time of
+waking up, but the circadian motility ramp-up is not around to
+help. By the time the circadian motility ramp-up kicks in (based on my
+usual time of waking up) the cortisol spike has already subsided. So,
+I never get all three things working together. However, the circadian
+motility ramp-up that happens after I wake up is still enough (in most
+cases) to allow a bowel movement, just insufficient to generate the
+strong bowel movement urge without the simultaneous support of the
+cortisol spike.
+
+#### Bowel movement structure
+
+The bowel movement itself tends to generally be a 3 on the Bristol
+stool scale. It can switch to a 4 if I pause walnuts consumption, and
+in some cases can be a 5 if I have had a lot of lentils or other
+pulses. Consumption of unusual restaurant food since the previous
+bowel movement may result in changes both to the Bristol stool scale
+and to other qualitative aspects of the bowel movement.
+
+In the typical situation where I go for morning bowel movement with a
+strong urge, the bowel movement tends to start off strongest, and is
+mostly done in the first 1 to 4 minutes (80%+ of volume). However,
+residual bowel movement may continue for about 10 to 15 more
+minutes. I generally only leave when I am confident that my bowels are
+clear, except in cases of severe time crunch where I might leave after
+the initial surge (1 to 4 minutes) completes.
+
+In cases of morning bowel movement without a strong urge, I'm usually
+still able to start the bowel movement within a few minutes, but the
+volume distribution is more spread out over time.
+
+Second and subsequent bowel movements for the day are fairly rare and
+don't have a very set pattern -- in some cases, they are driven by
+strong urge and finish very quickly, whereas in others (driven by
+tenesmus sensations) they may take time to start.
+
+#### Known specific and general disruptions to bowel movement cycle
+
+Below are some examples, both specific and generic, of significant
+changes to the timing, frequency, and quantity of bowel
+movements. Minor bowel movement structure variation is described in
+the preceding subsection. I also record individual atypical bowel
+movements in a [SQL table in
+diet-exercise-health-private](https://github.com/vipulnaik/diet-exercise-health-private/blob/master/sql/atypical_bowel_movement_attempts.sql);
+this covers incidents such as the ones below as well as more minor
+random disruptions.
 
 * After the consumption of clindamycin after the [2023-07-05 wisdom
   tooth removal (left
@@ -2186,12 +2304,6 @@ regularly. Disruptions have been as follows:
   may be off. However, short travel within the same timezone is
   generally not disruptive (such as travel from the San Francisco Bay
   Area to Portland or Bengaluru to Chennai).
-
-* Disruptions due to waking up early for something: On 2024-04-21, I
-  used an alarm to wake up about 2 hours prior to my normal waking-up
-  time, and was unable to have a bowel movement that day. This might
-  have been one of the causal factors for the 2024-04-25 abdominal
-  pain alluded to above.
 
 * Bowel movement after intense food consumption: On 2024-03-27, I ate
   with work colleagues at Tay Ho Restaurant in Oakland. A combination
