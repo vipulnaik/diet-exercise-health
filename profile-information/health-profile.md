@@ -2169,7 +2169,7 @@ I record three time points inn my Slack self-chat logs:
 
 On days where I wake up naturally or within an hour or less prior to
 my normal time of waking up, the `wu` / `sfsbmu` gap is about 15
-minutes on average (varying between 5 and 25 minutes)
+minutes on average (varying between 5 and 25 minutes).
 
 The `sfsbmu` / `wfbm` gap is about 10 minutes (varying between 5 and
 15 minutes). Once I start feeling the strong bowel movement urge, it's
