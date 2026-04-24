@@ -525,3 +525,11 @@ my morning and early afternoon tasks each taking a little more time
 than anticipated, and doing jogging and strength exercises would have
 added not just the time of doing them but also the additional gap
 between exercise and meal.
+
+## 2026-04-24: skipped all exercises
+
+On Friday 2026-04-24, I skipped all exercises. This was in order to
+fit in two cyclic personal chores with long time block commitment
+while also continuing to shift my daily cycle to earlier (or at least
+maintain the hard-won gains shifting it to earlier over the past few
+days).
