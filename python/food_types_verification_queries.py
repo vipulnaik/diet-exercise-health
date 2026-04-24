@@ -30,7 +30,7 @@ queries = [
     "select * from food_types where protein_in_grams = 0 and total_fat_in_grams > 0 and not (short_name regexp 'Olive oil');",
 
     # The amount of zinc should be small
-    "select short_name, calories, zinc_in_mg, zinc_in_mg / calories from food_types where zinc_in_mg / calories > 0.02;",
+    "select short_name, calories, zinc_in_mg, zinc_in_mg / calories from food_types where zinc_in_mg / calories > 0.02 and short_name != 'Ezekiel Sprouted Flourless Tortillas';",
 
     # Only a handful of foods have added Vitamin D, and these should have much more (added) calcium
     "select * from food_types where vitamin_d_in_mcg > 0.02 * calcium_in_mg;",

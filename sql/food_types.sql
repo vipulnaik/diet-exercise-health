@@ -876,6 +876,19 @@ insert into food_types(short_name, long_name, url,
   /* special oxalate column added in light of risk of kidney stones */ null,
   /* notes */ 'For the weight I used the total printed weight (340 grams). For other fields, I used the information for one serving (one piece of flatbread) and multiplied by 6 for the number of pieces per packet; note that multiplying the per-item weight 57 grams by 6 would have yielded 342 grams, which is within rounding difference of the total printed weight.'),
 
+  ('Ezekiel Sprouted Flourless Tortillas','Ezekiel 4:9 Sprouted Flourless Original Tortillas','https://www.amazon.com/Food-Life-Tortillas-Ezekiel-Sprouted/dp/B004T36LDO?th=1',
+  /* calories, weight, and volume */ 840,342,null,
+  /* broad food type */ 'Whole wheat flatbread',
+  /* fat-related columns */ 12,0,0,null,null,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 750,852,
+  /* carbohydrate-related columns */ 156,30,0,
+  /* protein-related columns */ 36,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,null,0,90,18,
+  /* columns for other less commonly reported vitamins and minerals */ 0.6,null,null,null,288,834,24,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes column */ 'I used the Nutrition Facts at https://www.amazon.com/Food-Life-Tortillas-Ezekiel-Sprouted/dp/B004T36LDO?th=1 (which per quick eyeballing match up with the physical item, but I did not check that every nutrient matches). This reports calories, weight, and nutrient amounts per tortilla, so I multiplied by 6 to get the estimates for the whole packet. The nutrition label also includes a few nutrients that were not in the food types schema as of data entry time: thiamin (vitamin B1) at 0.2 mg / tortilla, niacin (vitamin B3) at 3 mg / tortilla, folate at 25mcg / tortilla, selenium at 23 mcg / tortilla, and manganese at 1.4 mg / tortilla. In addition to wheat, the tortilla also includes sesame seeds, soybeans, barley, millet, lentils, and spelt, all of them sprouted. The name "Ezekiel 4:9" alludes to the eponymous Bible verse Ezekiel 4:9-17 that starts: "Take wheat and barley, beans and lentils, millet and spelt; put them in a storage jar and use them to make bread for yourself."'),
+
   ('Sofit Soya 180 ml','SOFIT Soya Drink Naturally Sugar Free Vegan Drink Enriched With Plant Protein,Dietary Fibers,Vitamins And Calcium Lactose Free Gluten Free Preservatives Free,180 Ml / 200 Ml','https://www.amazon.in/Naturally-Enriched-protein-vitamins-Preservatives/dp/B00NTTCZUM/',
   /* calories, weight, and volume */ 68.8,null,180,
   /* broad food type */ 'Soy milk',
@@ -905,7 +918,6 @@ insert into food_types(short_name, long_name, url, broad_food_type, notes) value
 
 insert into food_types(short_name, long_name, broad_food_type, notes) values
   /* pending data entry */
-  ('Ezekiel Sprouted Flourless Tortillas','Ezekiel 4:9 Sprouted Flourless Original Tortillas','Whole wheat flatbread','PENDING TODO fill in full data from https://www.amazon.com/Food-Life-Tortillas-Ezekiel-Sprouted/dp/B004T36LDO?th=1'),
   ('Roma tomato','Trader Joe''s Roma tomato','Tomato','PENDING TODO fill in full data'),
   ('Urban Platter Sauerkraut Raw','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage, 450g / 15.8oz [Raw, Artisanal, Plant-Based, Preservative Free]','Sauerkraut / Kimchi','Data at https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NC754H4/ but label is hard to read off fully; I should fill data in from the physical jar at some point. Just putting a dummy entry for now for validation.'),
   ('So Good Oat Milk 200 ml','So Good Oat Beverage Unsweetened 200ml',null,'See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D5BL419H/ for details'),
