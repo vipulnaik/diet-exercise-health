@@ -235,7 +235,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-02-21 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-02-21','Lundberg Sustainable California White Jasmine Rice',1,1,'2026-02-24',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-02-21','TJ Turmeric',1,1,null,null), /* opened with rice prep */
+  ('2026-02-21','TJ Turmeric',1,1,'2026-04-24',2), /* opened with rice prep */
   ('2026-02-21','TJ Walnuts',1,1,'2026-02-24',1),
   ('2026-02-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-02-22',2),
   ('2026-02-21','TJ Roasted Seaweed',1,2,'2026-02-25',2),
@@ -501,7 +501,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-24',2),
   ('2026-04-23','TJ Walnuts',1,1,null,null),
   ('2026-04-23','TJ Roasted Seaweed',1,2,null,null),
-  /* 2026-04-24 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt -- skipped cayenne pepper in light of dental cleaning a week from now) */
+  /* 2026-04-24 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt -- skipped cayenne pepper in light of dental cleaning a week from now; finished turmeric with this prep) */
   ('2026-04-24','Eggplant',1,2,null,null),
   ('2026-04-24','TJ Kale',1,2,null,null),
   ('2026-04-24','TJ Carrots',1,2,null,null),
@@ -510,5 +510,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-24','Roma tomato',16,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-04-24','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-04-24','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-04-25',2);
+  ('2026-04-24','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-04-25',2),
+  /* 2026-04-26 rice prep (first meal) (added turmeric, cumin, salt) */
+  ('2026-04-26','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-04-26','TJ Turmeric',1,1,null,null);
   /* Double-check the date and meal index before committing */
