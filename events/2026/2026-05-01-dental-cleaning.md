@@ -169,6 +169,40 @@ I verified on Friday 2026-04-17, two weeks prior to the dental
 cleaning appointment, that my work calendar is clear for the day of
 the appointment (Friday 2026-05-01).
 
+### Pause of cayenne pepper in meal preparations (2026-04-23 onward)
+
+I paused inclusion of cayenne pepper in meal preparations 2026-04-23
+onward. The first affected meal prep was the eggplant meal prep of
+2026-04-24.
+
+### Decision not to cancel (done 2026-04-27)
+
+On Monday 2026-04-27, I made the decision not to cancel the
+appointment, based on no emerging factors that could lead me to cancel
+the appointment.
+
+### Dental self-exam checklist execution (2026-04-26, 2026-04-27, and later)
+
+The dental self-exam checklist was originally scheduled for 2026-04-24
+(one week prior to the cleaning) but due to time availability issues I
+had to delay it.
+
+By Sunday 2026-04-26, I realized that it would be hard to get a long
+enough chunk to do the whole checklist in one session. However, I did
+want to get the pressure testing part done, so that any pain or
+bleeding from it ends by the date of the dental cleaning (and also to
+give me flexibility to cancel the dental cleaning if there's enough
+bleeding). I executed various parts of the checklist on 2026-04-26 and
+2026-04-27; as of 2026-04-27, the photos are still pending.
+
+The execution went about as well as expected. Since the pressure
+testing was fine, and no new issues were found, I decided on
+2026-04-27 (even before the photos) to not make any changes to the
+food pause decisions made 2026-04-17.
+
+The execution log is
+[here](../../logs/dental-self-exam-checklist-log.md).
+
 ## Appointment
 
 ### List of items to discuss
