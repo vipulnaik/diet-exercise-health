@@ -528,3 +528,114 @@ all interdental gaps subsided within about a minute or two. Relatively
 speaking, the upper right interdental gaps, which were earliest in my
 sequence, had pressure pain for the longest, but even the maximum was
 about two minutes so overall things seem good.
+
+## 2026-04-26 and 2026-04-27 (with continuation to later)
+
+I broke this up across days as I wanted to get some parts (the
+pressure testing) done earlier so that any pain or bleeding from it
+ends by the time of the dental cleaning, whereas other parts (photos)
+can be delayed till any time before the dental cleaning. This means a
+bit of reordering, since the order in the checklist is designed around
+the idea of doing it all in one sitting.
+
+Given that different parts of the checklist were executed at different
+times, I've indicated the approximate times of execution for each
+checklist item. Past executions of the checklist that were in a single
+session do not do this; going forward, I plan to indicate execution
+times for individual checklist items only in cases where I spread the
+execution out.
+
+- [x] DONE 2026-04-27 evening: Examine teeth in mirror; look for things like stains, plaque, and recession
+  - For facial (labial or buccal, depending on location) surfaces of teeth, look in the normal mirror, using the hands to pull parts of the mouth to get a better view
+  - For lingual (technically, lingual or palatal, depending on location) surfaces of teeth, open mouth wide; use the dental mirror particularly for the lingual surfaces of the maxillary anterior teeth (the upper incisors and canines) which are otherwise very hard to see at all, and to get an additional angle on the lingual surfaces of other teeth, many of which can be seen somewhat without a mirror but much better with a mirror
+  - Stain: some distinctive color pattern, usually yellow, brown, or black, usually on the lingual surfaces of teeth and with color and appearance varying by tooth
+  - Plaque: "thin, slightly fuzzy, colorless film that might not be readily visible to the naked eye, but you can often feel it with your tongue as a slightly rough texture on your teeth" though in some cases it can show a yellow discoloration
+  - Gum recession: gumline is receded from where it should be; the place where it should be is the cemento-enamel junction (CEJ) and any gap between that and the gumline means the cementum is exposed; this gap area tends to look yellower than the white tooth
+- [x] DONE 2026-04-27 (past midnight from 2026-04-26): (NOTE: This should be done shortly after brushing teeth, for best and most consistent results) Check how "squeaky clean" the facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth are by gently rubbing against them with a clean finger
+- Use pressure testing to confirm the health and strength of the teeth; there should be no sharp pain beyond the sensation of pressure and maybe in some cases a stretch or massage feel, and it should go away within a few seconds of the pressure being removed
+  - [x] DONE 2026-04-26 night: Using a floss pick, push moderately hard against each interdental gap
+  - [x] DONE 2026-04-26 night: Push inward (toward the lingual side) with a clean finger on the exposed part of each of the facial (labial or buccal, depending on location) surfaces of teeth
+  - [x] DONE 2026-04-26 night: Push outward (toward the facial side) with a clean finger on the exposed part of each of the lingual (technically, lingual or palatal, depending on location) surfaces of teeth
+  - [x] DONE 2026-04-26 night: Push inward (toward the lingual side) with a clean finger on the gumline part for each of the facial (labial or buccal, depending on location) surfaces of teeth
+  - [x] DONE 2026-04-26 night: Push outward (toward the facial side) with a clean finger on the gumline part of each of the lingual (technically, lingual or palatal, depending on location) surfaces of teeth
+
+The intra-oral camera portion:
+
+- [ ] Take the intra-oral camera out and plug it in to charge, so that it gets charged more by the time I am ready for the camera step
+- [ ] Disconnect intra-oral camera from charger, put it on, and connect the phone to its wi-fi network
+- [ ] Take photos of facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (facial/lingual) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
+  - All lingual (technically, lingual or palatal, depending on location) surfaces of teeth before all facial (labial or buccal, depending on location) surfaces of teeth
+  - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
+  - Within each, left, then middle, then right
+  - The location to save in GitHub should be in the `diet-exercise-health-private` repo in `self-photos/dental/<YYYY-MM-DD>`
+  - Also save in my Google Drive in `self-photos/dental/<YYYY-MM-DD>`
+- [ ] Compare these photos with the previous photos
+
+END OF CHECKLIST
+
+A few notes (to be updated with further insights from photos):
+
+* I did the squeaky clean teeth test twice. The first iteration was
+  after flossing and rinsing but before brushing. This produced very
+  little squeakiness, with the squeakiness only on the facial surfaces
+  of the maximally molars and a little bit on the lingual surfaces of
+  the maximally molars, with nothing at the incisors, canines, or
+  mandibular teeth. The second iteration was after brushing, where
+  squeakiness was much more widespread (results in next two bullet
+  points). Based on discussion with Claude, it appears that
+  squeakiness is heavily influenced by the short-term cleanliness of
+  teeth, which is maximal after brushing. It also has a slight signal
+  from long-term plaque accumulation, but in order to parse that
+  signal, it's important to control for short-term cleanliness by
+  standardizing to measure this after brushing. I've also updated the
+  checklist to this effect.
+
+* Facial surfaces (plaque, staining, squeakiness): The facial surfaces
+  (outward-facing surfaces) of teeth seem fairly white, with no
+  visible plaque or staining. They also pass the squeaky clean teeth
+  right after brushing, with the exception of the mandibular incisors
+  and canines, where the issue might be more one of angle than plaque
+  accumulation.
+
+* Lingual surfaces (plaque, staining, squeakiness): The lingual
+  surfaces have some mix of plaque and staining. The lingual surfaces
+  of the left maxillary molars have what is likely a layer of plaque
+  right around the root, which is likely due to the difficulty of
+  angling the toothbrush right. Staining is seen, mostly away from the
+  roots, across the maxillary and mandibular teeth, likely reflecting
+  exposure to iron from my high walnuts and kale consumption. Among
+  the maxillary teeth, there was a bit more plaque/staining on the
+  left side than the right side, which is consistent with the
+  2026-03-26 photos. Despite the plaque and staining, the lingual
+  surfaces continue to exhibit some squeakiness, though less so than
+  the facial surfaces.
+
+* Floss pick pressure testing: No bleeding either during the pressure
+  testing or as observed over the next three iterations of brushing
+  teeth and the next iteration of flossing and rinsing. The pain from
+  floss pick pressure testing fully subsided within 3 minutes, and it
+  felt like the expected pattern of pain from pressure rather than
+  from aggravating an existing inflamed or sensitive area.
+
+* Other pressure testing: I did not experience anything noteworthy. As
+  expected, the gum portion corresponding to the removed wisdom teeth
+  is a little less sturdy, so its ability to comfortably withstand
+  pressure is lower than the other parts of the gum.
+
+* Protocol adherence since last checklist execution: My general
+  impression, validated against logs where feasible, is that my
+  protocol adherence since the last dental self-exam checklist
+  execution (on 2026-03-26) has been comparable to or slightly better
+  than my adherence up to that point. The one practice that I
+  mentioned last time as having fallen by the wayside was swirling
+  water in my mouth, and I have been following it consistently since
+  then, with an average time from meal end to swirling of about 13
+  minutes for data from 2026-03-26 to 2026-04-12, for which I have
+  processed the Slack self-chat logs. The nonzero difference reflects
+  delays getting up and putting stuff in the fridge). My general sense
+  is that the practice of swirling water in the mouth has helped
+  improve my dental hygiene; I am now less likely to find large food
+  fragments at the point of flossing and rinsing which is a little
+  later. Also, my teeth don't feel quite as uncomfortable on the
+  occasions where flossing and rinsing get delayed further than
+  expected.

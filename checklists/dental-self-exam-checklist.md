@@ -26,7 +26,7 @@ posterior).
   - Stain: some distinctive color pattern, usually yellow, brown, or black, usually on the lingual surfaces of teeth and with color and appearance varying by tooth
   - Plaque: "thin, slightly fuzzy, colorless film that might not be readily visible to the naked eye, but you can often feel it with your tongue as a slightly rough texture on your teeth" though in some cases it can show a yellow discoloration
   - Gum recession: gumline is receded from where it should be; the place where it should be is the cemento-enamel junction (CEJ) and any gap between that and the gumline means the cementum is exposed; this gap area tends to look yellower than the white tooth
-- [ ] Check how "squeaky clean" the facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth are by gently rubbing against them with a clean finger
+- [ ] (NOTE: This should be done shortly after brushing teeth, for best and most consistent results) Check how "squeaky clean" the facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth are by gently rubbing against them with a clean finger
 - Use pressure testing to confirm the health and strength of the teeth; there should be no sharp pain beyond the sensation of pressure and maybe in some cases a stretch or massage feel, and it should go away within a few seconds of the pressure being removed
   - [ ] Using a floss pick, push moderately hard against each interdental gap
   - [ ] Push inward (toward the lingual side) with a clean finger on the exposed part of each of the facial (labial or buccal, depending on location) surfaces of teeth
