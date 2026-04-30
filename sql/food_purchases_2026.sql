@@ -271,7 +271,7 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-04-19','Roma tomato',8,1),
   /* 2026-04-20 (Monday) Berkeley Bowl; total cost $35.94; checkout at 11:45 AM; paid by credit card; 6 items in transaction */
   ('2026-04-20','Kite Hill Greek Style Plant-Based Yogurt',6,0),
-  /* 2026-04-24 (Friday) Trader Joe's; total cost $28.08; checkout at 6:02 PM; paid by crediit card; 22 items in transaction */
+  /* 2026-04-24 (Friday) Trader Joe's; total cost $28.08; checkout at 6:02 PM; paid by credit card; 22 items in transaction */
   ('2026-04-24','TJ Kale',1,1),
   ('2026-04-24','Ezekiel Sprouted Flourless Tortillas',1,1),
   ('2026-04-24','TJ Almond Milk',1,1),
@@ -282,7 +282,14 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-04-24','Red bell pepper',2,1),
   ('2026-04-24','TJ Sauerkraut',1,1),
   ('2026-04-24','Roma tomato',8,1),
-  ('2026-04-24','Green bell pepper',4,1);
+  ('2026-04-24','Green bell pepper',4,1),
+  /* 2026-04-29 (Wednesday) Trader Joe's; total cost $33.25; checkout at 1:59 PM; paid by credit card; 15 items in transaction */
+  ('2026-04-29','Ezekiel Sprouted Flourless Tortillas',1,0),
+  ('2026-04-29','TJ Kale',1,0),
+  ('2026-04-29','TJ English Shelled Peas',2,0),
+  ('2026-04-29','Russet potatoes 3 lb',1,0),
+  ('2026-04-29','TJ Walnuts',2,0),
+  ('2026-04-29','Roma tomato',8,0);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
