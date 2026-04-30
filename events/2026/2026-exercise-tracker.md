@@ -533,3 +533,10 @@ fit in two cyclic personal chores with long time block commitment
 while also continuing to shift my daily cycle to earlier (or at least
 maintain the hard-won gains shifting it to earlier over the past few
 days).
+
+## 2026-04-29: skipped all exercises
+
+On Wednesday 2026-04-29, I skipped all exercises. This was in order to
+fit in two cyclic personal chores with long time block commitment,
+including a Trader Joe's trip around the time of my normal exercise
+slot.
