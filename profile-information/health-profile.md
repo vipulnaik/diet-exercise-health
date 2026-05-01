@@ -319,6 +319,11 @@ highlights:
     amount of baking soda toothpaste, to reduce staining of the back
     teeth.
 
+  * I swirl water in the mouth for about 30 seconds and swallow it
+    about 10 to 20 minutes after each meal. This is a quick way of
+    clearing large particles from the mouth, and serves as a stopgap
+    until I can do a full floss and rinse for a thorougher cleaning.
+
   * I floss and rinse (with saltwater) about 15 to 75 minutes
     (aspirationally about 30 to 45 minutes) after the completion of
     each meal, so I floss twice a day and rinse twice a day. I use an
