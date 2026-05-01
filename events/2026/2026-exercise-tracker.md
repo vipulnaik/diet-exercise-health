@@ -546,3 +546,8 @@ slot.
 On Thursday 2026-04-30, I skipped all exercises. This was in order to
 fit in time-sensitive day job work in the morning and early afternoon
 along with personal chores later in the afternoon.
+
+## 2026-05-01: skipped all exercises
+
+On Friday 2026-05-01, I skipped all exercises to fit a dental cleaning
+appointment in the afternoon.
