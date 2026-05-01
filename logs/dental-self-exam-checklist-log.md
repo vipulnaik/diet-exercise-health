@@ -563,17 +563,17 @@ The intra-oral camera portion:
 
 - [x] DONE 2026-04-29: Take the intra-oral camera out and plug it in to charge, so that it gets charged more by the time I am ready for the camera step
 - [x] DONE 2026-04-29: Disconnect intra-oral camera from charger, put it on, and connect the phone to its wi-fi network
-- [ ] IN PROGRESS 2026-04-29 (photos taken and labeled in Google Drive, to be reviewed for correctness before downloading and saving on GitHub): Take photos of facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (facial/lingual) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
+- [x] DONE 2026-04-29 (photos taken and labeled in Google Drive), 2026-04-30 (photos reviewed further), and 2026-05-01 (photos saved to GitHub): Take photos of facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (facial/lingual) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
   - All lingual (technically, lingual or palatal, depending on location) surfaces of teeth before all facial (labial or buccal, depending on location) surfaces of teeth
   - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
   - Within each, left, then middle, then right
   - The location to save in GitHub should be in the `diet-exercise-health-private` repo in `self-photos/dental/<YYYY-MM-DD>`
   - Also save in my Google Drive in `self-photos/dental/<YYYY-MM-DD>`
-- [ ] Compare these photos with the previous photos
+- [x] DONE 2026-04-29 and 2026-04-30: Compare these photos with the previous photos
 
 END OF CHECKLIST
 
-A few notes (to be updated with further insights from photos):
+A few notes written before taking the photos:
 
 * I did the squeaky clean teeth test twice. The first iteration was
   after flossing and rinsing but before brushing. This produced very
@@ -639,3 +639,33 @@ A few notes (to be updated with further insights from photos):
   later. Also, my teeth don't feel quite as uncomfortable on the
   occasions where flossing and rinsing get delayed further than
   expected.
+
+Additional notes taken after taking and reviewing the photos:
+
+* I suspect that the photos that were targeting the facial surfaces of
+  the mandibular teeth ended up capturing the lingual surfaces of the
+  maxillary teeth, based on the curvature and angle in the
+  photos. This is fundamentally because to correctly angle the camera
+  for the facial surfaces of the mandibular teeth, the handle would
+  have to point inward into the upper face, which isn't
+  possible. However, I am not totally sure. In the next round of
+  photos, I will attempt using a horizontal placement of the camera to
+  more definitively capture the facial surfaces of the mandibular
+  teeth.
+
+* Based on the photos, it looks like there's very little difference
+  compared to 2026-03-26 and 2025-11-05, and somewhat better than
+  2025-10-21 (before the high-bleeding dental cleaning on
+  2025-10-22). Unfortunately, the 2025-11-05 photos do not zoom in on
+  individual tooth surfaces; for instance, they don't include separate
+  photos of the molars, and they also don't annotate the specific
+  teeth covered. But for the surfaces that seem present across photos,
+  the surface whiteness and staining are not meanningfully
+  different. This suggests that the protocol improvements have
+  worked. The most interesting thing is that the staining appears to
+  be somewhat lower for some teeth (such as the lingual surface of the
+  maxillary molar 15 on the left side) than on 2026-03-26. This might
+  reflect local effects of proximity to time of brushing, but
+  nonetheless it does suggest that the cumulative effect of staining
+  over a one-month period is low enough that local effects can
+  dominate.
