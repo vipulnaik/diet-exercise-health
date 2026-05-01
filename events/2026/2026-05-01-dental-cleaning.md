@@ -181,7 +181,7 @@ On Monday 2026-04-27, I made the decision not to cancel the
 appointment, based on no emerging factors that could lead me to cancel
 the appointment.
 
-### Dental self-exam checklist execution (2026-04-26, 2026-04-27, and later)
+### Dental self-exam checklist execution (2026-04-26, 2026-04-27, 2026-04-29, 2026-04-30, and 2026-05-01)
 
 The dental self-exam checklist was originally scheduled for 2026-04-24
 (one week prior to the cleaning) but due to time availability issues I
@@ -200,17 +200,76 @@ testing was fine, and no new issues were found, I decided on
 2026-04-27 (even before the photos) to not make any changes to the
 food pause decisions made 2026-04-17.
 
+I took the photos on 2026-04-29. I did further review of the photos on
+2026-04-30 and completed the followup steps and documentation on
+2026-05-01. The photos did not surface further issues.
+
 The execution log is
 [here](../../logs/dental-self-exam-checklist-log.md).
+
+### Sauerkraut pause (started 2026-04-28)
+
+I started the sauerkraut pause on Tuesday 2026-04-28, three days prior
+to the dental cleaning appointment, following the overall plan I came
+up with on 2026-04-17.
+
+### Shopping ahead of dental cleaning (done 2026-04-29 and 2026-04-30, though less than desired)
+
+I bought groceries from Trader Joe's on 2026-04-29 (two days before
+the dental cleaning appointment) and Berkeley Bowl on 2026-04-30 (one
+day before the dental cleaning appointment), reducing pressure in the
+immediate run-up to the dental cleaning. However, the stock-up was
+less than desired, partly due to being a bit behind in general.
+
+### Failure to reduce fermentable food consumption (2026-04-30)
+
+I only had the potatoes prep (including peas) cooked as of 2026-04-30,
+and did not have enough flexibility to cook the eggplant meal
+prep. Therefore, I was unable to meaningfully reduce fermentable food
+consumption in the run-up to the appointment. However, I also decided
+to skip eating in the morning prior to the dental cleaning appointment
+on 2026-05-01, which, along with a complete bowel movement the morning
+of, reduces the risk of flatulence and discomfort.
+
+### Normal face shaving (2026-04-30)
+
+I did a round of normal face shaving in the evening on 2026-04-30, so
+that the morning-of shaving on 2026-05-01 could be more thorough while
+still being quick.
+
+### Packing / prep before appointment (2026-04-30)
+
+I reviewed what I need to pack for the appointment (nothing much, just
+making sure I take the right payment card). I also reviewed the Total
+Health Dental Care website for membership plan updates.
+
+### Skipping exercise (2026-05-01)
+
+I skipped exercise the morning of 2026-05-01 prior to the dental
+cleaning appointment. Unfortunately, I had to skip exercise the two
+prior days as well (2026-04-29 and 2026-04-30) for largely unrelated
+reasons. However, given that I made outside trips on all three days,
+this was less of a concern.
+
+### Inapplicability of plan to pause walnuts the morning of the appointment (2026-05-01)
+
+For reasons of both timing crunch (my normal time of waking up didn't
+allow enough time to comfortably fit a meal and post-meal cleanup
+before the dental cleaning) and reduction of fermentable food risk, I
+chose to defer my first meal on the day of the appointment
+(2026-05-01) to after the dental cleaning.
+
+Since I ended up not having any meal the morning of the appointment, I
+didn't need to deliberately skip walnuts from the meal, as there was
+no meal to skip walnuts from.
 
 ## Appointment
 
 ### List of items to discuss
 
-This list will be largely informed by the results of the dental
-self-exam checklist scheduled for Friday 2026-04-24.
+Items:
 
-Here's the list prior to the checklist execution:
+* General check-in on recession.
 
 * The recurrence of ulcers opposite my mandibular right canine led
   Claude to suggest that perhaps the cusp tip has a sharp edge, which
