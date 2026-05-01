@@ -540,3 +540,9 @@ On Wednesday 2026-04-29, I skipped all exercises. This was in order to
 fit in two cyclic personal chores with long time block commitment,
 including a Trader Joe's trip around the time of my normal exercise
 slot.
+
+## 2026-04-30: skipped all exercises
+
+On Thursday 2026-04-30, I skipped all exercises. This was in order to
+fit in time-sensitive day job work in the morning and early afternoon
+along with personal chores later in the afternoon.
