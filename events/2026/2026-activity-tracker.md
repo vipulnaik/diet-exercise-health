@@ -74,3 +74,13 @@ toiletries purchases.
 
 In the evening, I made a trip to the Walgreens at 2801 Adeline St for
 toiletries purchases.
+
+## 2026-05-01
+
+On Friday 2026-05-01, in the early afternoon, I got my dental cleaning
+at Total Health Dental Care at 3017 Telegraph Ave. On the way back, I
+stopped at the Walgreens at 2801 Adeline St for toiletries purchases.
+
+More details of the dental cleaning trip will be included in the
+[dental cleaning trip document](2026-05-01-dental-cleaning.md). As of
+2026-05-01, the document is not yet updated.
