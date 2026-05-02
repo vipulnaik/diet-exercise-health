@@ -1,9 +1,19 @@
 # 2026-05-01: dental cleaning
 
-I have a dental cleaning appointment scheduled for Wednesday
-2026-05-01 at 1 PM at Total Health Dental Care at 3017 Telegraph
-Avenue for a regular dental cleaning at 1 PM. The previous dental
-cleaning had been on [2025-10-22](../2025/2025-10-22-dental-cleaning.md).
+I had a dental cleaning appointment scheduled for Wednesday 2026-05-01
+at 1 PM at Total Health Dental Care at 3017 Telegraph Avenue. The
+previous dental cleaning had been on
+[2025-10-22](../2025/2025-10-22-dental-cleaning.md).
+
+NOTE 2026-05-01: The document has not been updated meaningfully to
+reflect the events of the dental cleaning and the learnings from
+it. The notes are in a [Slack self-chat log
+message](https://vipulscafe.slack.com/archives/D07J33LQEK0/p1777674977030969)
+with further discussion in a [Claude
+chat](https://claude.ai/chat/0a67cd07-fdba-4d15-9531-7c9efd3e96eb). My
+plan is to mull over the information, perhaps do some of the potential
+followup experiments, and update this public document in about 1 to 2
+weeks.
 
 Sections of this document:
 
