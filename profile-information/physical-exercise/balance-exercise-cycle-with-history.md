@@ -43,6 +43,9 @@ substandard performance.
 * [Standing on heels with eyes
   open](standing-on-heels-with-eyes-open-with-history.md) (about 2 minutes)
 
+* Standing on heels with eyes open (with toe support) (about 2
+  minutes) (document pending)
+
 * [Standing on one leg toes with eyes
   open](standing-on-one-leg-toes-with-eyes-open-with-history.md)
   (right leg then left leg, about 1 to 2 minutes total)
