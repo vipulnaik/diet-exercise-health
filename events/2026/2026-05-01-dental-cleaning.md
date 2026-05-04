@@ -19,6 +19,7 @@ Sections of this document:
 
 * [Prior preparation](#prior-preparation)
 * [Appointment](#appointment)
+* [Immediate aftermath](#immediate-aftermath)
 
 ## Prior preparation
 
@@ -275,6 +276,9 @@ no meal to skip walnuts from.
 
 ## Appointment
 
+TODO This section is pending expansion based on notes recorded in
+Slack and Google Drive and a conversation with Claude.
+
 ### List of items to discuss
 
 Items:
@@ -311,3 +315,75 @@ Items:
 
   * If the procedure is indicated, it's likely to either be done for
     free or have a minimal incremental cost.
+
+## Immediate aftermath
+
+### Minor injuries and impact
+
+There were two minor injuries I noticed, both to the gumline of the
+lingual surfaces of the maxillary teeth, one near the incisors and one
+near the right molars. The former was likely due to a bitewing X-ray
+bite injury, while the latter may be some mix of bitewing X-ray and
+irritation by cleaning instruments. Both of them had micro-bleeding
+during the cleaning, but not to an extent that interfered with the
+cleaning. Afterward, I could sense a faint saltiness around the areas
+that was likely due to dried blood. When spitting later in the day, I
+noticed a little bit of blood in part of the spit, suggesting
+intermittent opening of the wounds.
+
+The injuries had mostly resolved by 2026-05-02 and seemed to be gone
+by 2026-05-03.
+
+### Head/neck/shoulder soreness
+
+I am on the lookout for head/neck/shoulder soreness after the awkward
+lying-down position of dental cleaning. I did notice some soreness and
+stiffness in the afternoon and evening on 2026-05-01, and I
+proactively did a bit of light shoulder movement, neck motion
+exercises, and neck strength isometric exercises (the neck exercises
+are things I do every few days, so it was just about choosing timing
+than doing something new).
+
+I did jogging as usual but skipped strength exercises on 2026-05-02,
+which was partly in response to some continued soreness and stiffness
+in the head/neck/shoulder area that I wanted to recover more
+completely from before resuming strength exercises.
+
+On 2026-05-03 I resumed strength exercises (dead hang and pull-ups)
+and performed within my normal range.
+
+### Salivation (affected by talking and drinking water)
+
+With the 2024-04-03 dental cleaning, I ended up producing excess
+saliva after the cleaning, with a sharp and sudden peak around 24
+hours after the cleaning, and it took about two weeks to return to
+normal saliva production. I attributed this to opening my mouth too
+widely and too continuously during the dental cleaning. The 2024-04-03
+situation had also been exacerbated by talking for long in a work
+meeting the next day, which preceded the dramatic peak of saliva
+production. For more information, see the [greater saliva production
+section of the 2024-04-03 dental
+cleaning](../2024/2024-04-03-dental-cleaning.md#greater-saliva-production).
+
+During the 2026-05-01 dental cleaning, I was careful to not open my
+mouth unnecessarily and to close it during breaks. The 2026-05-01
+dental cleaning. The timing was favorable as far as the "talking the
+next day" concern goes: it was on Friday, so the next two days were
+the weekend, and I didn't have any work meetings where continuous
+talking is required; all my talking obligations (such as interactions
+at the grocery store) were brief, and spontaneous oral sound
+production (like singing) was within my control and had enough pauses
+and a limited degree of mouth opening (and hence limited exacerbation
+of mouth drying that can trigger the greater saliva production). I
+also did try to drink water deliberately, though I don't think I ended
+up drinking much more water than usual.
+
+It all worked out: I did not end up experiencing greater saliva
+production.
+
+### Sauerkraut pause
+
+I had started my sauerkraut pause on Tuesday 2026-04-28. In light of
+the two minor injuries, and out of general conservatism, I decided to
+extend the sauerkraut pause to one more day (2026-05-02) and resumed
+on 2026-05-03 with my first meal.
