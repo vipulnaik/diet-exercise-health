@@ -42,7 +42,7 @@ seconds across the two tries. Currently (as of 2025-12-30) my range is
 60 to 90 seconds, with the average of the two breath holds each day
 generally being around 65 to 80 seconds.
 
-## Current protocol and status as of 2025-12-30
+## Current protocol
 
 I do two successive breath holds in the morning, with a gap of about 1
 to 2 minutes in between. Each breath hold generally lasts between 60
@@ -54,12 +54,12 @@ end of the range (such as 85 to 90 seconds).
 The average of the two breath hold each day is generally around 65 to
 80 seconds.
 
-My plan is to do this exercise once every 6 days, with the idea being
-to only do it on days that I am *not* planning to do weight-lifting,
-push-ups, pull-ups, or dead hang, and to do it on alternate days of
-this nature. The exercise I'm alternating this with is [humming with
-intermittent
-pauses](humming-with-intermittent-pauses-with-history.md).
+## Triggers for overall exercise
+
+I do this exercise as part of my [non-strength day exercise
+cycle](non-strength-day-exercise-cycle-with-history.md). If I am doing
+exercise every day and not skipping it, it should happen once every 9
+days. In practice, it happens every 15 days or so.
 
 ## History
 

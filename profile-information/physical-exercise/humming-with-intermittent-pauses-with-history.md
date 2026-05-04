@@ -64,11 +64,12 @@ The protocol is to do the first three bullet points, though in case of
 time constraints, I may also do the first two (i.e., skip the 1 in 16
 that I know I can do).
 
-For frequency, I should do this in the morning before going jogging,
-roughly once every 6 days, determined as alternate days among days
-that I am not doing weight-lifting, push-ups, dead hang, or
-pull-ups. The exercise I'm alternating this with is [breath
-holds](breath-holds-with-history.md).
+## Triggers for overall exercise
+
+I do this exercise as part of my [non-strength day exercise
+cycle](non-strength-day-exercise-cycle-with-history.md). If I am doing
+exercise every day and not skipping it, it should happen once every 9
+days. In practice, it happens every 15 days or so.
 
 ## History
 
