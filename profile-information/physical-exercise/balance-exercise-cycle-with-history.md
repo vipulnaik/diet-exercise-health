@@ -1,5 +1,34 @@
 # Balance exercise cycle (with history)
 
+## Trigger for execution of cycle exercises: rice prep
+
+I generally execute the balance exercise cycle while waiting for water
+to filter during rice prep, which happens about once every 3 to 5
+days. I usually have 2 or 3 intervals with a minimum waiting time of 2
+minutes, but the possibility of doing a somewhat longer exercise. All
+exercises I do should involve minimal use of hands, so that my hands
+remain clean for the purpose of food manipulation without needing to
+be washed again.
+
+The balance exercises that make the cut fit the bill in all ways:
+
+* They tend to be approximately the correct duration of a few minutes
+  per exercise. This means that they don't cause my rice prep to get
+  significantly elongated, while also giving me something to do while
+  waiting.
+
+* They all involve lower body balance, and therefore don't require
+  active use of hands at all. Hand use is limited to the Slack logging
+  part, that I can either defer or use the dorsal PIP joints for,
+  leaving my ventral hand clean for food manipulation.
+
+## Cycle time
+
+The overall time taken to go through the whole cycle is about 3 rice
+preps, so about 9 to 15 days. The exact number can fluctuate based on
+variants I throw in or repetitions of exercises in a cycle in case of
+substandard performance.
+
 ## Cycle exercises and occasional exercises
 
 ### Cycle exercises
