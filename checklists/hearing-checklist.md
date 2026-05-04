@@ -44,18 +44,22 @@ END OF SECTION: Quick minimum audible volume and balance tests
 
 ### Quick max frequency hearing test (intended only for normal headphones)
 
-This is a quick version of the max frequency hearing test described in
-a later section. Instead of playing the whole 2-minute video
-https://www.youtube.com/watch?v=zUmbmssqHOY I just start about 10 to
-15 seconds prior to the end (With some variability in exactly when I
-start), listen to it with my eyes closed, and confirm that I open my
-eyes right after the clip ends. I should do the left and right ear
-separately.
+This is the part of the long max frequency hearing test that is
+focused only on confirming that I can still hear till 20000 Hz.
+
+Play https://www.youtube.com/watch?v=zUmbmssqHOY starting around 1:40
+to 1:50 (20 to 10 seconds prior to the end), listen to it with my eyes
+closed, and confirm that I open my eyes right after the clip ends. I
+should do the left and right ear separately.
 
 I should log this to Slack as `quick max frequency hearing test passed
 (both ears) with normal headphones`.
 
 Remember to return to normal volume and set balance back to neutral.
+
+If I notice that the sound volume differs significantly between the
+ears (even if the test passes), do the followup high-frequency balance
+disruption check.
 
 END OF SECTION: Quick max frequency hearing test
 
@@ -65,9 +69,9 @@ This is a part of the long max frequency hearing test that is focused
 only on confirming that I can my tonal loss point is at or above 13000
 Hz.
 
-Play https://www.youtube.com/watch?v=zUmbmssqHOY start 1:28 and make
-sure I can hear clear tonality in both left and right ear for a few
-seconds after that. Finding the exact tonal loss point is not
+Play https://www.youtube.com/watch?v=zUmbmssqHOY starting 1:28 and
+make sure I can hear clear tonality in both left and right ear for a
+few seconds after that. Finding the exact tonal loss point is not
 important.
 
 I should log this to Slack as `quick tonal loss point test passed
@@ -75,7 +79,42 @@ I should log this to Slack as `quick tonal loss point test passed
 
 Remember to return to normal volume and set balance back to neutral.
 
+If I notice that the sound volume differs significantly between the
+ears (even if the test passes), do the followup high-frequency balance
+disruption check.
+
 END OF SECTION: Quick tonal loss point test
+
+### Followup high-frequency balance disruption check
+
+This is a followup check to either the quick max frequency hearing
+test or the quick tonal loss point test that I should do if either
+test surfaces imbalances in sound volume between the ears. The goal is
+to find out the frequency at which the imbalance starts materializing.
+
+Play https://www.youtube.com/watch?v=zUmbmssqHOY starting around 0:40
+and monitor how the sound imbalance evolves. Identify the point at
+which there is a clear shift in the direction of the expected ear.
+
+I should log this to Slack as `quick high-frequency balance
+disruption: around <frequency> starting toward <left/right, whichever
+is louder> ear`.
+
+Remember to return to normal volume and set balance back to neutral.
+
+It's worth noting that at low frequencies, with normal headphones, and
+absent significant earwax accumulation, I have a slight bias toward
+sounds being louder in the left ear, which is likely driven by better
+middle ear processing. I want to get beyond this -- at around 4000 Hz
+that middle ear processing advantage should disappear and things
+should be roughly neutral. Note whether there's a shift toward either
+ear after that.
+
+I've historically found shifts at around 8000 Hz toward the right ear,
+which I suspect to be due to subclinical levels of earwax
+accumulation, but more data is needed.
+
+END OF SECTION: Followup high-frequency balance disruption check
 
 ### Quick auditory reaction time test (intended only for normal headphones)
 
