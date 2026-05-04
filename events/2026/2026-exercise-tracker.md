@@ -551,3 +551,19 @@ along with personal chores later in the afternoon.
 
 On Friday 2026-05-01, I skipped all exercises to fit a dental cleaning
 appointment in the afternoon.
+
+## 2026-05-02: skipped strength exercises
+
+On Saturday 2026-05-02, I skipped strength exercises as a
+precautionary measure after slight head/neck/shoulder stiffness after
+the 2026-05-01 dental cleaning. See
+[here](2026-05-01-dental-cleaning.md#headneckshoulder-soreness) for
+more information.
+
+## 2026-05-04: skipped all exercises
+
+On Monday 2026-05-04, I skipped all exercises to make time for a bunch
+of tasks in the morning and early afternoon and fit in meal
+preparation in the evening. While none of the tasks were individually
+urgent, they had been accumulating and I wanted to pop some of them
+off the backlog.
