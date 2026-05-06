@@ -567,3 +567,14 @@ of tasks in the morning and early afternoon and fit in meal
 preparation in the evening. While none of the tasks were individually
 urgent, they had been accumulating and I wanted to pop some of them
 off the backlog.
+
+## 2026-05-06: skipped all exercises
+
+On Wednesday 2026-05-06, I skipped all exercises as a proactive rather
+than reactive move. My intent was to spend a long session on complex
+day job work. But rather than spend the long session during the
+exercise time window, I decided to eat sooner and defer the long
+session to later in the day. This way, I would simultaneously get the
+time saving from not doing exercise (and freeing it up to add to time
+for the complex task execution) while also keeping pressure to move my
+schedule to earlier (or at least not let it slip to later).
