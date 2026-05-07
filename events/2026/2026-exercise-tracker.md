@@ -578,3 +578,10 @@ session to later in the day. This way, I would simultaneously get the
 time saving from not doing exercise (and freeing it up to add to time
 for the complex task execution) while also keeping pressure to move my
 schedule to earlier (or at least not let it slip to later).
+
+## 2026-05-07: skipped all exercises
+
+On Thursday 2026-05-07, I skipped all exercises as a proactive rather
+than reactive move. The goal was to make time for a Trader Joe's trip
+and potatoes prep later in the day, after already spending some time
+in the morning and early afternoon on work meetings.
