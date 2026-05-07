@@ -15,7 +15,8 @@ queries = [
 
     """
     select * from food_types where
-    total_carb_in_grams < 0.9 * (coalesce(fiber_in_grams, 0) + coalesce(sugars_in_grams, 0));""",
+    total_carb_in_grams < 0.9 * (coalesce(fiber_in_grams, 0) + coalesce(sugars_in_grams, 0))
+    and not (short_name = 'Roma tomato' /* the rounding down of small numbers creates an apparent inconsistency */);""",
 
     """
     select * from food_types where

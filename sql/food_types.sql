@@ -278,6 +278,19 @@ insert into food_types(short_name, long_name, url,
   /* special oxalate column added in light of risk of kidney stones */ null,
   /* notes */ 'The actual size of beefsteak tomatoes I consume varies and may not match the specification on Nutritionix. Note that the Nutritionix page as of 2025-03-02 shows 33 calories instead of the 25 that I plugged in, and I''m not sure if the data were updated or I got it wrong. TODO resolve this.'),
 
+  ('Roma tomato','Trader Joe''s Roma tomato','https://www.eatthismuch.com/calories/roma-tomatoes-1221839',
+  /* calories, weight, and volume */ 11,62,null,
+  /* broad food type */ 'Tomato',
+  /* fat-related columns */ 0.1,0,null,null,null,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 3,147,
+  /* carbohydrate-related columns */ 2,1,2,
+  /* protein-related columns */ 1,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ 26,8,0,6,0.2,
+  /* columns for other less commonly reported vitamins and minerals */ 0,0,0.3,5,7,15,0.1,0,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes column */ 'The roma tomatoes are very similar to beefsteak tomatoes, scaled down to about 1/4 to 1/2 the size, with a little more nutrient density and a little less water weight by proportion. I generally prefer beefsteak tomatoes (mostly because of the smaller number needed for a given volume, but also because the wateriness helps the tomato blend the food better) but get roma tomatoes when beefsteak tomatoes are out of stock.'),
+
   ('Eggplant','Trader Joe''s eggplant','https://www.eatthismuch.com/food/nutrition/eggplant,1975/',
   /* calories, weight, and volume */ 137, 548, null,
   /* broad food type */ 'Eggplant',
@@ -918,7 +931,6 @@ insert into food_types(short_name, long_name, url, broad_food_type, notes) value
 
 insert into food_types(short_name, long_name, broad_food_type, notes) values
   /* pending data entry */
-  ('Roma tomato','Trader Joe''s Roma tomato','Tomato','PENDING TODO fill in full data'),
   ('Urban Platter Sauerkraut Raw','Urban Platter Sauerkraut Original Pickled Probiotic Cabbage, 450g / 15.8oz [Raw, Artisanal, Plant-Based, Preservative Free]','Sauerkraut / Kimchi','Data at https://www.amazon.in/Urban-Platter-Sauerkraut-Original-Probiotic/dp/B07NC754H4/ but label is hard to read off fully; I should fill data in from the physical jar at some point. Just putting a dummy entry for now for validation.'),
   ('So Good Oat Milk 200 ml','So Good Oat Beverage Unsweetened 200ml',null,'See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D5BL419H/ for details'),
   ('So Good Soy Milk 200 ml','So Good Soy Beverage Unsweetened 200ml','Soy milk','See https://www.amazon.in/So-Good-Beverage-Unsweetened-200ml/dp/B0D4ZFVYQ9/ for details'),
