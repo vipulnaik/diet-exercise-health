@@ -11,10 +11,10 @@ insert into food_preparations_and_openings_lower_bounds(food_type, num_days, qua
   -- ('Lundberg Sustainable California White Basmati Rice',12,1.85),
   ('TJ Kale',10,2),
   ('TJ English Shelled Peas',18,3),
-  ('Beefsteak tomato',14,8),
+  -- ('Beefsteak tomato',14,8),
+  ('Roma tomato',14,12),
   ('TJ Almond Milk',10,1),
   ('TJ Miso Ginger Broth',10,1),
   ('TJ Sauerkraut',30,1),
   ('TJ Walnuts',14,1),
-  ('Kite Hill Greek Style Plant-Based Yogurt',45,1),
-  ('Udupi Palace spinach masala dosa',91,1);
+  ('Kite Hill Greek Style Plant-Based Yogurt',45,1);

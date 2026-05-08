@@ -102,7 +102,7 @@ queries = [
     );""",
 
     # This variant needs a cutoff date of 2025-02-24 because I didn't record completion dates prior. Once I backfill estimated completion dates, the cutoff date can be adjusted or removed
-    "select * from food_preparations_and_openings_self_join where completion_date_1 is null and datediff(curdate(), preparation_or_opening_date_2) >= 1 and preparation_or_opening_date_1 >= '2025-02-24' and not (food_type in ('TJ Kale','Beefsteak tomato'));",
+    "select * from food_preparations_and_openings_self_join where completion_date_1 is null and datediff(curdate(), preparation_or_opening_date_2) >= 1 and preparation_or_opening_date_1 >= '2025-02-24' and not (food_type in ('TJ Kale','Beefsteak tomato','Roma tomato'));",
 
     # I generally have sauerkraut and kimchi only with the first meal, so both the meal index and the completion meal index should be 1
     "select * from food_preparations_and_openings where food_type in ('TJ Sauerkraut','TJ Kimchi') and meal_index != 1;",
@@ -129,7 +129,7 @@ queries = [
     select * from t2 where completion_date >= '2024-10-01' and pause_date is null;""",
 
     # If I completed something more than 1 day ago, there should be a new preparation or opening, except for foods that I consume one-off */
-    "select * from food_preparations_and_openings_self_join where preparation_or_opening_date_2 is null and not (completion_date_1 between '2025-05-03' and '2025-06-06') and datediff(curdate(), completion_date_1) > 1 and not (food_type in ('Whole Foods Mexican Whole Wheat Tortillas','Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa free red chutney','We Be Sushi Vegetable Tempura','Lundberg Sustainable California White Jasmine Rice','Lundberg Sustainable California White Basmati Rice','Whole Foods Walnuts','TJ Green Lentils','TJ Kimchi','TJ Carrots (Organic)','Orange bell pepper','Kite Hill Unsweetened Plain Almond Milk Yogurt','Gold potatoes 3 lb','Russet potatoes 3 lb','Russet potatoes 5 lb','Roma tomato','Morton Iodized Salt' /* I plan to use sea salt for cooking and eating going forward */,'TJ Carb Savvy Tortillas' /* these have been absent from Trader Joe's for some time as of 2026-04-07 */,'TJ Whole Wheat Pita Bread' /* this was a one-off */, 'Ezekiel Sprouted Flourless Tortillas' /* occasional consumption */));",
+    "select * from food_preparations_and_openings_self_join where preparation_or_opening_date_2 is null and not (completion_date_1 between '2025-05-03' and '2025-06-06') and datediff(curdate(), completion_date_1) > 1 and not (food_type in ('Whole Foods Mexican Whole Wheat Tortillas','Udupi Palace spinach masala dosa','Udupi Palace spinach masala dosa free red chutney','We Be Sushi Vegetable Tempura','Lundberg Sustainable California White Jasmine Rice','Lundberg Sustainable California White Basmati Rice','Whole Foods Walnuts','TJ Green Lentils','TJ Kimchi','TJ Carrots (Organic)','Orange bell pepper','Kite Hill Unsweetened Plain Almond Milk Yogurt','Gold potatoes 3 lb','Russet potatoes 3 lb','Russet potatoes 5 lb','Morton Iodized Salt' /* I plan to use sea salt for cooking and eating going forward */,'TJ Carb Savvy Tortillas' /* these have been absent from Trader Joe's for some time as of 2026-04-07 */,'TJ Whole Wheat Pita Bread' /* this was a one-off */, 'Ezekiel Sprouted Flourless Tortillas' /* occasional consumption */,'Beefsteak tomato' /* temporarily replaced by roma tomato */));",
 
     # I should always open 1 bottle at a time
     "select * from food_preparations_and_openings where food_type in ('TJ Almond Milk','TJ Sauerkraut','TJ Walnuts','TJ Miso Ginger Broth','Trader Giotto''s Olive Oil') and quantity != 1;",
@@ -141,7 +141,7 @@ queries = [
     "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date in ('2024-09-08','2024-11-20','2025-01-01','2025-01-07','2025-06-22','2025-08-01','2025-08-03') or preparation_or_opening_date between '2025-04-10' and '2025-05-02');",
 
     # I should generally do 2 or 3 at a time, though exceptions are possible
-    "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and not (quantity in (2,3)) and not (preparation_or_opening_date in ('2024-09-07','2024-09-19','2024-09-30','2024-11-25'));",
+    "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and not (quantity in (2,3)) and not (preparation_or_opening_date in ('2024-09-07','2024-09-19','2024-09-30','2024-11-25','2026-05-07'));",
 
     # I should generally do 4 at a time, though exceptions are possible
     "select * from food_preparations_and_openings where food_type = 'Green bell pepper' and quantity != 4 and not (preparation_or_opening_date in ('2025-06-30','2025-08-01','2025-08-03','2026-01-10','2026-01-19','2026-02-22'));",
