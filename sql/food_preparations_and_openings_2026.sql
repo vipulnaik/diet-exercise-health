@@ -527,7 +527,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-04-29','TJ English Shelled Peas',2,2,'2026-05-04',1),
   ('2026-04-29','Roma tomato',8,2,'2026-05-04',1), /* stock down to 0, and also used all space in pot */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-04-29','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-04-29','TJ Roasted Seaweed',1,2,'2026-05-08',2),
   /* 2026-04-30 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-04-30','Lundberg Sustainable California White Basmati Rice',1,1,'2026-05-04',1),
   /* new bottle/packet openings as the old ones finished */
@@ -559,6 +559,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-07','TJ English Shelled Peas',1.9,2,null,null),
   ('2026-05-07','Roma tomato',7,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-05-07','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
-  ('2026-05-07','TJ Walnuts',1,2,null,null);
+  ('2026-05-07','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-05-08',2),
+  ('2026-05-07','TJ Walnuts',1,2,null,null),
+  ('2026-05-08','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
