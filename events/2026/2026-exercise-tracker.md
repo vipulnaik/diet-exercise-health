@@ -585,3 +585,9 @@ On Thursday 2026-05-07, I skipped all exercises as a proactive rather
 than reactive move. The goal was to make time for a Trader Joe's trip
 and potatoes prep later in the day, after already spending some time
 in the morning and early afternoon on work meetings.
+
+## 2026-05-09: skipped jogging and strength exercises
+
+On Saturday 2026-05-09, both to save time and for scheduling reasons,
+I skipped jogging and strength exercises. However, I did fit in hand
+gripper exercises.
