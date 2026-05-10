@@ -538,7 +538,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-03','TJ Almond Milk',1,2,'2026-05-09',1),
   ('2026-05-03','TJ Walnuts',1,2,'2026-05-07',1),
   ('2026-05-03','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-05-05',1),
-  ('2026-05-04','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-05-04','TJ Miso Ginger Broth',1,1,'2026-05-09',2),
   ('2026-05-04','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-05-05',1),
   /* 2026-05-04 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-05-04','Eggplant',1,2,'2026-05-07',2),
@@ -561,9 +561,19 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-05-07','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-05-08',2),
   ('2026-05-07','TJ Walnuts',1,2,null,null),
-  ('2026-05-08','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-05-08','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-05-09',2),
   ('2026-05-09','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
   ('2026-05-09','TJ Almond Milk',1,1,null,null),
   ('2026-05-09','Imm Thai Street Food yellow curry tofu',1,1,null,null),
-  ('2026-05-09','Imm Thai Street Food white rice',1,1,'2026-05-09',1);
+  ('2026-05-09','Imm Thai Street Food white rice',1,1,'2026-05-09',1),
+  /* 2026-05-09 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt -- skipped cayenne pepper in light of yellow curry tofu consumption leading to increased spice consumption) */
+  ('2026-05-09','Eggplant',1,2,null,null),
+  ('2026-05-09','TJ Kale',1,2,null,null),
+  ('2026-05-09','TJ Carrots',1,2,null,null),
+  ('2026-05-09','Green bell pepper',4,2,null,null),
+  ('2026-05-09','Red bell pepper',2,2,null,null),
+  ('2026-05-09','Roma tomato',3,2,null,null), /* stock down to 0 */
+  ('2026-05-09','Beefsteak tomato',5,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-05-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
