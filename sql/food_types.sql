@@ -950,6 +950,12 @@ insert into food_types(short_name, long_name, broad_food_type, notes) values
   /* Bangkok Thai Cuisine */
   ('Bangkok Thai Cuisine white rice','Bangkok Thai Cuisine white rice','White rice','I used to get this as takeout from Bangkok Thai Cuisine occasionally, generally when I was running out of tortillas and wanted to get something quickly. I stopped after moving to a different part of town that was farther from the restaurant.'),
   ('Bangkok Thai Cuisine yellow curry tofu','Bangkok Thai Cuisine yellow curry tofu','Thai restaurant food','I used to get this as takeout from Bangkok Thai Cuisine occasionally. I stopped after moving to a different part of town that was farther from the restaurant.'),
+  /* Tuk Tuk Thai */
+  ('Tuk Tuk Thai jasmine rice','Tuk Tuk Thai jasmine rice','White rice','I had this by takeout once when I was feeling unwell and needed rice, but didn''t have a stock of rice and didn''t want to incur the time cost of buying + cooking rice.'),
+  /* Imm Thai Street Food */
+  ('Imm Thai Street Food yellow curry tofu','Imm Thai Street Food yellow curry tofu','Thai restaurant food','I had this special combination at a dine-in I did, sharing with another person, at Imm Thai Street Food.'),
+  ('Imm Thai Street Food spicy eggplant tofu','Imm Thai Street Food spicy eggplant tofu','Thai restaurant food','I had this special combination at a dine-in I did, sharing with another person, at Imm Thai Street Food.'),
+  ('Imm Thai Street Food white rice','Imm Thai Street Food white rice','White rice','There is free white rice accompanying Imm Thai Street Food curries and dishes.'),
   /* Pakwan */
   ('Pakwan meal set','Pakwan meal set (dal, chana aloo, aloo sag, mixed veg curry)','Indian restaurant food','I sometimes order this meal combination when I''m on a trip to San Francisco and have time to order takeout from Pakwan.'),
   ('Pakwan basmati rice','Pakwan basmati rice','White rice','On at least one occasion where I ordered takeout from Pakwan, I included basmati rice in the takeout. I didn''t do so on other occasions.'),
@@ -957,10 +963,6 @@ insert into food_types(short_name, long_name, broad_food_type, notes) values
   ('Tender Greens happy vegan salad','Tender Greens happy vegan salad','Healthy-marketed restaurant food','I occasionally visit Tender Greens for dine-in meals with others, and generally order the happy vegan salad during such meals.'),
   /* Revival Bar & Kitchen */
   ('Revival Bar & Kitchen paella','Revival Bar & Kitchen paella','Uncategorized restaurant food','I had this dish at the end-of-year group dinner for the company I worked for at the time.'),
-  /* Tuk Tuk Thai */
-  ('Tuk Tuk Thai jasmine rice','Tuk Tuk Thai jasmine rice','White rice','I had this by takeout once when I was feeling unwell and needed rice, but didn''t have a stock of rice and didn''t want to incur the time cost of buying + cooking rice.'),
-  /* Imm Thai Street Food */
-  ('Half spicy eggplant tofu and half yellow curry tofu','Imm Thai Street Food half spicy eggplant tofu and half yellow curry tofu','Thai restaurant food','I had this special combination at a dine-in I did, sharing with another person, at Imm Thai Street Food.'),
   /* Kitava */
   ('Kitava Power Bowl','Kitava Power Bowl','Healthy-marketed restaurant food','I had this on 2023-11-29 when uenxpectedly dining in at Kitava.'),
   /* Tay Ho Oakland */

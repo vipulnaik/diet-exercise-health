@@ -84,3 +84,14 @@ stopped at the Walgreens at 2801 Adeline St for toiletries purchases.
 More details of the dental cleaning trip will be included in the
 [dental cleaning trip document](2026-05-01-dental-cleaning.md). As of
 2026-05-01, the document is not yet updated.
+
+## 2026-05-09
+
+On Saturday 2026-05-09, in the early afternoon, I made a trip to
+downtown Berkeley. I first stopped at Imm Thai Street Food where I
+placed an order and paid for it. I then stopped at the Citibank branch
+to withdraw quarters. After that, I went to Trader Joe's for food
+purchases. After being done, I dropped by at Imm Thai Street Food to
+pick up the order. Both the Imm Thai Street Food purchase and the
+Trader Joe's purchase are recorded
+[here](../../sql/food_purchases_2026.sql).

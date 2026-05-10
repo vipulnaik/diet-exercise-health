@@ -261,7 +261,9 @@ insert into food_purchases(purchase_date, food_type, quantity) values
   /* 2023-05-06 Udupi Palace; total cost $14.28; order placed at 6:18 PM; paid by cash */
   ('2023-05-06','Udupi Palace spinach masala dosa',1),
   /* 2023-05-11 dinner at Imm Thai Street Food; paid $20 in cash to cover cost + taxes + tip */
-  ('2023-05-11','Half spicy eggplant tofu and half yellow curry tofu',1),
+  ('2023-05-11','Imm Thai Street Food spicy eggplant tofu',0.5),
+  ('2023-05-11','Imm Thai Street Food yellow curry tofu',0.5),
+  ('2023-05-11','Imm Thai Street Food white rice',1),
   /* 2023-05-11 Trader Joe's; total cost $67.69; checkout at 8:14 PM; paid by debit card */
   ('2023-05-11','TJ Baby Spinach',1),
   ('2023-05-11','TJ English Shelled Peas',3),
