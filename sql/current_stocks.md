@@ -2,9 +2,11 @@
 |----------------------------------------------------|-----------------------------------|-------------------------------------------|
 | Beefsteak tomato                                   |                            6.0000 |                                    0.0000 |
 | Eggplant                                           |                            1.0000 |                                    0.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            1.0000 |                                    0.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    1.0000 |
 | Gold potatoes 5 lb                                 |                            0.5000 |                                    0.5000 |
 | Green bell pepper                                  |                            4.0000 |                                    0.0000 |
+| Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
+| Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    1.0000 |
 | Kite Hill Greek Style Plant-Based Yogurt           |                            5.0000 |                                    1.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Basmati Rice |                            8.0000 |                                    0.0000 |
@@ -15,7 +17,7 @@
 | Roma tomato                                        |                            3.0000 |                                    7.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
-| TJ Almond Milk                                     |                            2.0000 |                                    1.0000 |
+| TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
 | TJ Carrots                                         |                            1.0000 |                                    0.0000 |
 | TJ Cinnamon                                        |                            0.0000 |                                    1.0000 |
