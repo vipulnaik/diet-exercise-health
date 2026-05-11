@@ -529,7 +529,7 @@ speaking, the upper right interdental gaps, which were earliest in my
 sequence, had pressure pain for the longest, but even the maximum was
 about two minutes so overall things seem good.
 
-## 2026-04-26 and 2026-04-27 (with continuation to later)
+## 2026-04-26, 2026-04-27, 2026-04-29, 2026-04-30, and 2026-05-01
 
 I broke this up across days as I wanted to get some parts (the
 pressure testing) done earlier so that any pain or bleeding from it
