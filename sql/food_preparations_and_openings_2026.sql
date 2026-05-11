@@ -560,11 +560,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-07','Roma tomato',7,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-05-07','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-05-08',2),
-  ('2026-05-07','TJ Walnuts',1,2,null,null),
+  ('2026-05-07','TJ Walnuts',1,2,'2026-05-10',2),
   ('2026-05-08','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-05-09',2),
   ('2026-05-09','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
   ('2026-05-09','TJ Almond Milk',1,1,null,null),
-  ('2026-05-09','Imm Thai Street Food yellow curry tofu',1,1,null,null),
+  ('2026-05-09','Imm Thai Street Food yellow curry tofu',1,1,'2026-05-10',2), /* a little bit was left (not intentionally -- I planned to finish but didn't notice it until after finishing the meal) and I added it as a drizzle over potatoes prep */
   ('2026-05-09','Imm Thai Street Food white rice',1,1,'2026-05-09',1),
   /* 2026-05-09 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt -- skipped cayenne pepper in light of yellow curry tofu consumption leading to increased spice consumption) */
   ('2026-05-09','Eggplant',1,2,null,null),
