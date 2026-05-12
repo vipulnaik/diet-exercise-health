@@ -2984,11 +2984,12 @@ might be wrong in some of the cases.
   throat, no runny nose; I addressed this by briefly taking a break
   from sauerkraut.
 
-* [2019-08-30 Thai yellow curry and subsequent
-  cold](../events/2019/2019-08-30-thai-yellow-curry-and-subsequent-cold.md): After
-  having a huge amount of Thai yellow cury, I had a runny nose. The
-  runny nose recovered quickly. I believe it was throat irritation and
-  not a viral cold, but I'm not sure.
+* [2019-08-30 Thai yellow curry and subsequent runny nose and throat
+  irritation](../events/2019/2019-08-30-thai-yellow-curry-and-subsequent-runny-nose-and-throat-irritation.md):
+  After having a huge amount of Thai yellow cury, I had a runny
+  nose. The runny nose recovered quickly. I believe it was throat
+  irritation from the components of the yellow curry (primarily the
+  turmeric's curcumin) as explained in the notes for the incident.
 
 Overall, my incidence of runny nose has been very low since I moved to
 Berkeley in 2014; the above incident list is likely comprehensive
