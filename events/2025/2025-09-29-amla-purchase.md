@@ -48,9 +48,43 @@ plan is to have two capsules of amla as follows:
 * Another capsule of amla right after brushing teeth between my two
   meals, again with a large amount of water, that also serves as my
   pre-meal water. This brushing generally happens within about an hour
-  prior to my second meal, and it's often about 10 minutes before the
-  meal.
+  prior to my second meal, and it's often about 10 to 20 minutes
+  before the meal.
 
 If I find that two capsules of amla produce too much by way of GI
 discomfort, I will maintain the morning dose but stop the evening
 dose.
+
+## Retrospective notes added May 2026 on why amla is unique (at least for me) in being worse with meals
+
+Based on a [discussion with
+Claude](https://claude.ai/chat/9a41ff54-7707-4b91-9f95-ffff7c378a39)
+(see first question onward), I came up with the following
+understanding of why amla worked better for me when taken on an empty
+stomach.
+
+The key insight from Claude was that amla has a confluence of several
+things:
+
+* Tannin-protein binding during active digestion: When taken with
+  meal, the tannins in amla bind to the proteins from food and
+  digestive enzymes released to digest food, slowing gastric
+  emptying. When taken sufficiently in advance of the meal, the
+  tannins don't meet an elevated protein and digestive enzyme load,
+  and they get cleared before the load increases with the start of the
+  meal.
+
+* Acid-on-acid loading due to high vitamin C content: When taken with
+  a meal, the high vitamin C content of the amla interacts with the
+  high stomach acid being secreted to digest food. When taken
+  sufficiently in advance, the acid of the amla does not interact with
+  the peak of high stomach acid.
+
+* Ellagic acid's H+/K+-ATPase effect: When taken with a meal, this can
+  interfere with normal digestive acid dynamics.
+
+The good news is that most of the currently understood mechanism by
+which amla achieves its effect of lowering Apo B and LDL cholesterol
+is largely independent of its timing relative to meals. That's because
+these effects are primarily systematic pharmacological effects that
+depend on steady-state circulating levels.
