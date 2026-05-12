@@ -82,8 +82,9 @@ I address these respectively as follows:
   working on computer)
 
 * Screens: I use dark mode (moderate contrast), adaptive brightness
-  (so screen is as dim as feasible hardware-wise and considering the
-  brightness of the environment).
+  (so the screen is as dim as feasible hardware-wise and considering
+  the brightness of the environment), and warm colors (so the screen
+  has a yellowish rather than a bluish hue).
 
 ### Sun avoidance
 
@@ -124,7 +125,7 @@ system of lighting, they can also have really powerful concentrated
 light sources sometimes). However, the fatigue does eventually come
 back to me later.
 
-### Screen coping: dark mode, adaptive brightness
+### Screen coping: dark mode, adaptive brightness, warm colors
 
 For screens, I use three tools:
 
@@ -162,9 +163,9 @@ For screens, I use three tools:
   time by default. Night Shift uses warm colors, so the screen has a
   slightly yellow tint compared to the bluish default. This seems to
   help somewhat indirectly with my problems: while it doesn't solve
-  the problem of light intensity or concentration, the extent to which
-  the light feels painful is lower with warm colors than with the
-  default colors.
+  the problem of light intensity or unevenness across space, the
+  extent to which the light feels painful is lower with warm colors
+  than with the default colors.
 
 ## Situations of increased sensitivity
 
