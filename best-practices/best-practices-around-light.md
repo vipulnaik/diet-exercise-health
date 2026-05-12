@@ -158,11 +158,13 @@ For screens, I use three tools:
   light in a nearby room or pull back curtains to let a little bit of
   light in).
 
-* Warm colors: I have configured to use warm colors after 5 PM. I
-  don't think this directly helps with my problems, but it is alleged
-  to have other benefits. I'm not as convinced about warm colors as I
-  am about dark mode and adaptive brightness, so I may end up
-  reversing the decision.
+* Warm colors: I have my Macbook laptop to use Night Shift all the
+  time by default. Night Shift uses warm colors, so the screen has a
+  slightly yellow tint compared to the bluish default. This seems to
+  help somewhat indirectly with my problems: while it doesn't solve
+  the problem of light intensity or concentration, the extent to which
+  the light feels painful is lower with warm colors than with the
+  default colors.
 
 ## Situations of increased sensitivity
 
