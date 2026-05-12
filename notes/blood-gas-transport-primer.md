@@ -108,7 +108,7 @@ periphery.
   (delivering it to tissues) and gains carbon dioxide (absorbing it
   from tissues).
 
-* Approximately 25% of the oxygen gets used up. This can be seen in
+* Approximately 25% of the oxygen gets extracted by tissues. This can be seen in
   the oxygen per unit blood measurement (that drops from 200 mL/L to
   150 mL/L), as well as in the oxygen saturation (that drops from 98%
   to 75%).
@@ -129,3 +129,76 @@ periphery.
   and [Bohr effect](https://en.wikipedia.org/wiki/Bohr_effect). The
   details are not being covered in the current document as they are
   not directly relevant to it.
+
+## The 25% extraction and what happens when hemoglobin drops
+
+We noted above that tissues extract approximately 25% of oxygen
+(averaged across the systemic circuit) in a well-functioning system
+that loads 200 mL/L at the arterian end of the systemic circuit.
+
+When the hemoglobin level in the blood drops, the hemoglobin-bound
+oxygen has to drop (because there's really no upward room to saturate
+more -- we are already at 98% saturation). This can be compensated
+somewhat by an increase in dissolved oxygen, but that's a small margin
+and on the whole, the oxygen content in blood at the arterial end
+really does drop.
+
+This means that for tissues to get the same absolute oxygen per
+systemic circuit, they need to compensate in one of these two ways:
+
+* Increased cardiac output, which means there are more systemic
+  circuits per unit time.
+
+* Increased extraction per systemic circuit, which in turn can be
+  accomplished by one of these:
+
+  * Increased capillary recruitment
+
+  * Increased production of 2,3-DPG (2,3-diphosphoglycerate) inside
+    RBCs, causing a rightward shift of the dissociation curve (this is
+    a more chronic / long-term response)
+
+What ends up happening is that as hemoglobin drops (and therefore
+oxygen content at the arterial end drops), oxygen delivery to tissues
+also drops, but much more slowly than the hemoglobin drop
+initially. However, as hemoglobin drops significantly, the
+compensation fails to keep up ( we hit limits in terms of increasing
+the percentage extracted) and we start seeing catastrophic
+consequences (anemic hypoxia).
+
+Here is an illustrative table prepared by Claude; this doesn't clearly
+separate the cardiac output versus per-circuit delivery aspects, so
+should be treated as broadly illustrative rather than specific.
+
+Hgb (g/dL) | O2 content (mL/L) | Extraction fraction | O2 absorbed (mL/L) | Compensation status
+-- | -- | -- | -- | --
+15 (normal) | 200 | ~25%| ~50 |Baseline
+12 | 160 | ~28% | ~45 | Mild compensation
+10 | 133 | ~33% | ~44 | Moderate compensation
+8  | 107 | ~38% | ~41 | Near compensation limit
+7  | 93  | ~40% | ~37 | Compensation failing
+5  | 67  | ~40% | ~27 | Severely impaired
+
+## Why having more hemoglobin doesn't help
+
+In the previous section, we talked of the challenges of reduced
+hemoglobin levels. From an oxygen transport perspective, increased
+hemoglobin levels feel like a free lunch: tissues can always choose to
+extract less, and that extra capacity provides a buffer for peak
+oxygen demand or against blood loss.
+
+However, more hemoglobin creates viscosity problems, impairing blood
+flow, and impaired blood flow means impaired ability of blood to
+deliver the oxygen to tissues. The viscosity problems are triggered
+both if we increase the hemoglobin concentration per unit volume of
+RBC (aka the MCHC in the CBC), the size of the RBC itself (aka the MCV
+in the CBC), or the number of RBCs per unit volume (the RBC
+measurement in the CBC). The three things together multiply to give
+the hemeglobin concentration, and while the exact details of how each
+affects viscosity differ, none of them allow for significant increases
+without paying the price in viscosity.
+
+In this respect, we can think of the RBC system as a finely optimized
+system that operates within tight parameters -- go too far down, and
+we don't deliver enough oxygen to tissues; go too far up, and we
+impair blood flow itself due to viscosity.

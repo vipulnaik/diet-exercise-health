@@ -1,15 +1,16 @@
 # Health profile
 
-Last major update: April 20, 2026 (2026-04-20)
+Last major update: May 11, 2026 (2026-05-11)
 
-NOTE (2025-09-22, updated 2025-11-10): I got [blood tests done on September 10,
-2025](../events/2025/2025-09-10-blood-tests.md). I got all the results
-back by September 21. I am part of the way through to entering results in
-the SQL file and incorporate them into the health profile. I plan to finish updating over the next few weeks, and will remove this note
-once the update is complete. A quick examination of the results
-suggests that they are either within normal range or outside normal
-range in ways that are already known, so there is no immediate
-tactical change needed based on the results.
+NOTE (2025-09-22, updated 2025-11-10): I got [blood tests done on
+September 10, 2025](../events/2025/2025-09-10-blood-tests.md). I got
+all the results back by September 21. I am part of the way through to
+entering results in the SQL file and incorporate them into the health
+profile. I plan to finish updating over the next few weeks, and will
+remove this note once the update is complete. A quick examination of
+the results suggests that they are either within normal range or
+outside normal range in ways that are already known, so there is no
+immediate tactical change needed based on the results.
 
 NOTE 2 (2025-11-08): I got a [BodySpec DEXA scan done on November 7,
 2025](../events/2025/2025-11-07-bodyspec-dexa-scan.md). I got the
@@ -53,7 +54,7 @@ Sections of this document:
   * [Hormones](#hormones) (doesn't cover insulin which is covered in the insulin sensitivity and glycemic control section)
     * [Thyroid (T3, T4, TSH)](#thyroid-t3-t4-tsh)
     * [Testosterone](#testosterone)
-* Sections (some written, some pending) covering internal organs, will cover
+* Sections (some written, some pending) covering internal organs and systems, will cover
   what I can gather from measurements taken in my blood tests as well
   as other biomarkers covered in the preceding section to paint a
   picture both of the current health and of the trajectory of my liver
@@ -69,6 +70,8 @@ Sections of this document:
     * [Urinalysis](#urinalysis)
     * [Metabolic panel](#metabolic-panel)
     * [Urine quantity and pattern](#urine-quantity-and-pattern)
+  * [Blood cell status](#blood-cell-status) (this specifically covers the kinds of stuff covered in a CBC, plus adjacent stuff)
+    * [Red blood cells (RBCs): gas exchange](#red-blood-cells-rbcs-gas-exchange
   * Lung status (I haven't done any pulmonary function tests, so inferences will be indirect)
   * Heart status (I don't have much to go on except measurement of vitals and general lifestyle info)
 * Lifestyle factors
@@ -165,7 +168,7 @@ My most recent post-meal heart rate measurements are as follows:
 * Blood pressure machine: 75 bpm on 2025-03-25, taken 2.5 hours after
   my meal
 
-### SpO2 (saturation percentage of oxygen)
+### SpO2 (saturation percentage of peripheral oxygen)
 
 My SpO2 is about 97% most of the time (sometimes going up to 98% and
 sometimes going down to 96%). It is a little higher in the mornings
@@ -1903,6 +1906,190 @@ Three mechanisms are likely going on at the same time:
 * Attentional gating, where the urges as experienced at the muscle
   level don't propagate all the way up to my conscious awareness,
   because I am very engaged in the task.
+
+## Blood cell status
+
+Last substantive section update: May 11, 2026 (2026-05-11)
+
+This section covers the material that falls under hematology and is
+covered under a complete blood count (CBC) along with conceptually
+adjacent material, such as compounds in the plasma that are obtained
+from the blood cells. It does not cover stuff that is solely about
+blood's plasma transport function if it doesn't connect with the role
+of blood cells.
+
+* [Health profile
+  review](https://claude.ai/chat/b9b94006-2e65-4a25-adf5-9cb94b446ed4)
+  (search `cbc` and read first match onward)
+
+* [Blood flow deep
+  dive](https://claude.ai/chat/bcbc2f76-5aee-4920-8479-06e85ceb6c0c)
+  (start around the beginning of the chat for stuff informing general
+  primer, look for relevant keywords to get portions of chat informing
+  specific subsections)
+
+### Red blood cells (RBCs): gas exchange
+
+Before proceeding, it's helpful to brush up using the [blood gas
+transport primer](../notes/blood-gas-transport-primer.md) that has
+specifically been designed by me for me to get more from the loose
+high school biology level (that I am very likely to remember coming
+into it) to a level of sophistication that is adequate as a foundation
+for the coming discussion.
+
+#### An overview of the six central RBC measurements (three factors and three products, including two partial products and one all-three product: hemoglobin)
+
+As the blood gas transport primer shows, the overwhelming majority of
+oxygen is carried via hemoglobin, and about 25% of carried oxygen gets
+used up in the systemic circuit. This suggests that the level of
+hemoglobin plays a key role in how much oxygen the blood can
+transport.
+
+Let's break down the measurement in the CBC. There are three factors
+and the CBC reports the factors and various products of them.
+
+Factor shorthand | Factor full name | Typical units | Explanation
+-- | -- | -- | --
+MCHC | mean corpuscular hemoglobin concentration | g/dL | amount of hemoglobin per unit volume of red blood cells; note that this is not the arithmetic mean of hemoglobin concentrations across individual red blood cells, but is more properly thought of as the volume-weighted mean of concentrations.
+MCV | mean corpuscular volume | fL | average volume of a red blood cell
+RBC | red blood cell (count) | 1000000/uL | number of millions of red blood cells per uL of blood
+
+And here's how they multiply, giving three products; the unit scaling
+when multiplying can be verified by converting the relevant portions
+of the units (for instance, how many uL are in a dL, how many fL are
+in the uL, and how many pg are in a g).
+
+Shorthand | Full name | Typical units | Factor's it's a product of (conceptually) | Unit scaling when multiplying | Explanation
+-- | -- | -- | -- | -- | --
+MCH | mean corpuscular hemoglobin | pg | MCHC and MCV | 0.01 | MCH is the average amount of hemoglobin per RBC. Conceptually, that's multiplying the MCHC (average amount of hemoglobin per unit volume of RBC) with MCV (average volume of RBC).
+PCV (aka hematocrit) | packed cell volume (aka hematocrit) | MCV and RBC | 0.1 | PCV is the fraction of volume occupied by RBCs, expressed as a percentage. Conceptually, that's multiplying the MCV (average volume of a RBC) with the RBC count (the number of RBCs per unit volume of blood). This is also the easiest to read out; if you sediment the blood in a test tube, the RBCs form the bottom (hematocrit)% of the test tube. It's a truly macroscopic measure that doesn't require compositional analysis or size distribution of RBCs.
+Hgb | hemoglobin | g/dL | MCHC, MCV, and RBC (all three) | 0.001 | Hgb is the total hemoglobin concentration in the blood. As a first approximation, all hemoglobin in the blood is in RBCs, so this is a product of the three factors.
+
+We can read out the whole equation:
+
+Hgb = MCHC X MCV X RBC
+
+The multiplication on the right side of the equation is associative, so it can be parenthesized in either of two ways:
+
+Hgb = (MCHC X MCV) X RBC = MCH X RBC (this has a unit scaling of 0.1)
+
+Hgb = MCHC X (MCV X RBC) = MCHC X PCV (aka hematocrit) (this has a unit scaling of 0.01)
+
+#### The relationship between RBC measurements and blood gas transport
+
+Hgb (hemoglobin) is the most directly relevant for blood gas
+transport, because hemoglobin is the primary means of oxygen
+transport.
+
+We can view the other measurements as providing both a mathematical
+and a causal factorization of Hgb. This is particularly relevant to
+anemia; which is basically low Hgb.
+
+For instance, MCHC is about whether there's enough hemoglobin per unit
+volume of RBC; if this is low, it reveals something about the RBC
+creation process and possibly the synthesis of Hgb itself. MCV is
+about the size of RBCs; high and low values here both reflect in
+different ways on potential dysfunction in the RBC creation
+process. RBC count reflects some mix of the RBC creation rate and
+factors causing destruction or loss of RBCs, which may be due to the
+shape of RBCs or other factors (such as bleeding).
+
+For more on how low Hgb affects oxygen extraction rate by tissues and
+delivery to tissues, see the [blood gas transport
+primer](../notes/blood-gas-transport-primer.md). For a deeper dive
+into what various combinations of MCHC, MCV, and RBC count values
+mean, look up diagnostic flowcharts for anemia; [this Ninja Nerd
+video](https://www.youtube.com/watch?v=MRzxsX5YG94) is a good overview.
+
+#### The special role of red cell distribution width (RDW)
+
+Red cell distribution width (RDW) is a somewhat different measurement
+related to RBCs that does not fit in our framework above of three
+factors and three products. That's because whereas our six
+measurements are all about central measures or averages, RDW is
+fundamentally a measure of variation. Specifically, RDW measures the
+coefficient of variation of MCV: how much the size of individual RBCs
+varies around the mean.
+
+The variation that RDW measures is variation between RBCs currently in
+the bloodstream. The key insight here is that this is mostly capturing
+temporal heterogeneity between RBCs produced at different times,
+rather than spatial heterogeneity between RBCs produced by different
+parts of the bone marrow; since the RBC lifetime is about 120 days,
+this gives us a window into RBCs created in the past 120 days. And
+this temporal heterogenity captures two pieces:
+
+* The direct effect of aging on RBC size: older RBCs are a little
+  smaller than younger RBCs as they lose some of their membrane over
+  their lifetime). This is what accounts for the typical RDW of
+  11.5-14.5% even for a healthy individual not undergoing major
+  changes.
+
+* RBCs created at a specific time are a window into conditions at that
+  time. This is what can account for atypical RDWs in the context of
+  changing body conditions, such as nutrient deficiencies (iron or
+  B12) that work slowly over time to deplete nutrient stores in the
+  body.
+
+Spatial heterogeneity does become relevant in conditions such as
+metastatic cancer, lymphoma, or myelofibrosis, where some parts of the
+bone marrow may be compromised.
+
+The upshot of this is that RDW is particularly relevant for catching
+deficiencies over a period of the depletion lag (the period in which
+the body's stores of the thing drop) plus the transition window (the
+RBC lifetime of about 120 days). Generally speaking, as the deficiency
+is ramping up through the depletion lag + transition window, new cells
+are more abnormal than old cells, which can lead to increased
+RDW. Here's the quick summary:
+
+* MCV trending down, high RDW is indicative of microcytic anemia
+  caused by iron deficiency
+
+* MCV trending up, high RDW is indicative of macrocytic anemia caused
+  by B12 or folate deficiency
+
+* MCV normal, high RDW is indicative of mixed iron and (B12 or folate)
+  deficiency anemia
+
+The catch: very early stages of iron-deficiency anemia (early in the
+depletion lag + transition window) might actually see low RDW as the
+size of new cells is reduced just enough to get close to the size of
+old cells, which were normal-sized cells that have shed size due to
+age.
+
+The depletion lags are as follows:
+
+* B12 (dietary cessation): 3 to 7 years
+
+* B12 (malabsorption): 1 to 3 years
+
+* Folate: 3 to 4 months
+
+* Iron (dietary): months to 2 years
+
+* Iron (blood loss): weeks to months
+
+* Copper (rare): months to years
+
+What about low RDW? This is more complicated, because in the absence
+of other problems, it can just mean that everything is fine. In the
+presence of other problems, it can provide corroborative information
+to rule out possibilities. For instance, a recent transition from
+normal MCV to high MCV is suggestive of B12 or folate deficiency if
+RDW is elevated, but if RDW is low, that is a strike against B12 or
+folate deficiency. With that said, there are also conditions that can
+specifically lower RDW, primarily through the mechanisms of greater
+spatial homogeneity in production of relatively unusual cells, shorter
+lifetimes (thereby limiting age-driven variation) and either a
+reduction or reversal in the age-related membrane loss through
+structural changes. I discuss the mechanisms more in the Claude
+conversation (search `fully understand why these would produce low
+RDW`).
+
+RDW is also more individually variable, and therefore, unlike the
+central RBC measurements, it is more helpful to compare RDW against
+one's own when-healthy baseline than against population norms.
 
 ## Lifestyle
 
