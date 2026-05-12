@@ -333,6 +333,16 @@ insert into test_results(collection, test, units, reference_interval_low_end, re
   ('January 2025 LabCorp tests','Basophils (absolute)','1000/uL',0,0.2,0,'Normal','This test was part of a complete blood count (CBC).'),
   ('January 2025 LabCorp tests','Immature granulocytes','%',null,null,0,'Normal','This test was part of a complete blood count (CBC).'),
   ('January 2025 LabCorp tests','Immature granulocytes (absolute)','1000/uL',0,0.1,0,'Normal','This test was part of a complete blood count (CBC).'),
+  /* September 2025 LabCorp complete blood count */
+  ('September 2025 LabCorp tests','WBC','1000/uL',3.4,10.8,4.1,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2025 LabCorp tests','RBC','1000000/uL',4.14,5.80,4.77,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2025 LabCorp tests','Hemoglobin','g/dL',13.0,17.7,14.8,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2025 LabCorp tests','Hematocrit','%',37.5,51.0,45.6,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2025 LabCorp tests','MCV','fL',79,97,96,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2025 LabCorp tests','MCH','pg',26.6,33.0,31.0,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2025 LabCorp tests','MCHC','g/dL',31.5,35.7,32.5,'Normal','This test was part of a complete blood count (CBC).'),
+  ('September 2025 LabCorp tests','RDW','%',11.6,15.4,12.6,'Normal','This test was part of a complete blood count (CBC).'),
+  -- TODO fill in platelets and WBC breakdown part of CBC results
   /* April 2024 Sutter Health comprehensive metabolic panel (not fasting; 6.5 hours after meal) */
   ('April 2024 Sutter Health blood tests','Sodium','mmol/L',136,145,140,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
   ('April 2024 Sutter Health blood tests','Potassium','mmol/L',3.5,5.1,4.1,'Normal','This test was part of a comprehensive metabolic panel. I had eaten 6.5 hours prior to the blood draw and then also had the citrus drink concoction right before the blood draw (for my urease breath test).'),
