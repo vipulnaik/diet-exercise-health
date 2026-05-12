@@ -108,10 +108,10 @@ periphery.
   (delivering it to tissues) and gains carbon dioxide (absorbing it
   from tissues).
 
-* Approximately 25% of the oxygen gets extracted by tissues. This can be seen in
-  the oxygen per unit blood measurement (that drops from 200 mL/L to
-  150 mL/L), as well as in the oxygen saturation (that drops from 98%
-  to 75%).
+* Approximately 25% of the oxygen gets extracted by tissues. This can
+  be seen in the oxygen per unit blood measurement (that drops from
+  200 mL/L to 150 mL/L), as well as in the oxygen saturation (that
+  drops from 98% to 75%).
 
 * In contrast, the partial pressure of oxygen drops by 60% from 100 to
   40. What this means, effectively, is that the fraction of oxygen
