@@ -88,6 +88,13 @@ I address these respectively as follows:
 
 ### Sun avoidance
 
+See also some of the exertion and stimulation limits in the [sun and
+heat exposure section of the best practices around exertion and
+stimulation
+document](best-practices-around-exertion-and-stimulation.md#sun-and-heat-exposure). That
+section is focused more on the combined whole-body effect of the sun's
+heat and light.
+
 I generally wear sunglasses when outdoors, except when going jogging
 (as the sunglasses reduce vision which is important at higher
 speeds). But I try to go jogging outside of peak noon hours.

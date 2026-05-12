@@ -209,6 +209,9 @@ post-meal cleanup work including washing dishes.
 
 ## Sun and heat exposure
 
+See also the [sun avoidance subsection of the best practices around
+light document](best-practices-around-light.md#sun-avoidance).
+
 These are the limits:
 
 * Continuous outdoor exposure: 60 minutes when it is sunny, 40 minutes
