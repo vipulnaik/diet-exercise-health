@@ -2,6 +2,8 @@
 
 List last updated: April 5, 2026 (2026-04-05)
 
+Dates last updated: May 12, 2026 (2026-05-12)
+
 This document covers a list of things I need to do for my health, outside of:
 
 * Normal exercise and health-related work embedded in my daily or
@@ -50,9 +52,9 @@ work on these. I expect that the actual work should not take more than
 a few hours each. I'm free to make faster progress if I can stick to
 weekdays!
 
-### Higher priority (aiming to finish in April and May 2026)
+### Higher priority (aiming to finish in May and June 2026)
 
-* Weeks of 2026-04-06 and 2026-04-13: Finish data entry for blood
+* Weeks of 2026-05-11 and 2026-05-18: Finish data entry for blood
   tests done 2025-09-10 (CBC, health profile updates, and final
   checking remain). Some thinking around how to structure this is in
   the [health profile review Claude
@@ -61,13 +63,13 @@ weekdays!
   part. This is a definite blocker for booking the next round of blood
   tests.
 
-* Weeks of 2026-04-20 and 2026-04-27: Conceptualize and enter data for
+* Weeks of 2026-05-25 and 2026-06-01: Conceptualize and enter data for
   DEXA scan results. Some thinking around how to structure this is in
   the [health profile review Claude
   conversation](https://claude.ai/chat/b9b94006-2e65-4a25-adf5-9cb94b446ed4);
   search `dexa results` in the conversation.
 
-* Weeks of 2026-05-04 and 2026-05-11: Next, make updates to my health
+* Weeks of 2026-06-08 and 2026-06-15: Next, make updates to my health
   profile incorporating feedback from Claude that was collected in the
   [health profile review Claude
   conversation](https://claude.ai/chat/b9b94006-2e65-4a25-adf5-9cb94b446ed4),
@@ -76,7 +78,7 @@ weekdays!
   blood tests; I can go ahead with booking them without this, but
   ideally I want to do this before booking.
 
-* Weeks of 2026-05-18 and 2026-05-25: Wrap up offshoots of right
+* Weeks of 2026-06-22 and 2026-06-29: Wrap up offshoots of right
   pelvic discomfort incident documentation, including restaurant food,
   correlation running, potential rough data backfill, health incident
   documentation, and outside food experimentation. Some of this might
@@ -84,9 +86,9 @@ weekdays!
   but the bulk of the focused effort should be concentrated in a
   session for benefits of scale.
 
-### Lower priority (June and July 2026 if I focus on it, but may stretch out to longer to accommodate more high-priority items)
+### Lower priority (July and August 2026 if I focus on it, but may stretch out to longer to accommodate more high-priority items)
 
-* Weeks of 2026-06-01 and 2026-06-08: Add details on my hair (receding
+* Weeks of 2026-07-06 and 2026-07-13: Add details on my hair (receding
   hairline) situation (as a new section in my health profile). I have
   a saved TODO list in Slack self-chat logs and the [health checklists
   by organ and function Claude
@@ -94,7 +96,7 @@ weekdays!
   backing up what I intend to say -- search `hair checklist` in both
   to locate the relevant stuff).
 
-* Weeks of 2026-06-15 and 2026-06-22, with some parts in 2026-04 along
+* Weeks of 2026-07-20 and 2026-07-27, with some parts in 2026-05 along
   with skin checklist execution if time permits: Finish expansion of
   skin section of health profile and updates to skin checklist. Search
   `rfhl: skin` in Slack self-chat logs for a detailed plan. See also
@@ -105,7 +107,7 @@ weekdays!
   that provide some background exploration if I need to remember more
   details around any specific point in the list.
 
-* Weeks of 2026-06-29 and 2026-07-06, with some parts earlier along
+* Weeks of 2026-08-03 and 2026-08-10, with some parts earlier along
   with hearing checklist execution if time permits: Finish expansion
   of hearing section of health profile and updates to hearing
   checklist. Search `rfhl: hearing` in Slack self-chat logs for the
@@ -114,7 +116,7 @@ weekdays!
   that provides some background exploration if I need to remember more
   details around any specific point in the list.
 
-* Week of 2026-07-13 or later: Look into 23andMe MTHFR stuff and
+* Week of 2026-08-17 or later: Look into 23andMe MTHFR stuff and
   methylated B vitamin investigation in connection with homocysteine
   analysis.
 
