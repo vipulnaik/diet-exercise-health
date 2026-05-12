@@ -553,11 +553,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-05','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-05-06',2),
   ('2026-05-06','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-05-08',1), /* stock down to 0 */
   ('2026-05-07','TJ Sauerkraut',1,1,null,null),
-  /* 2026-05-07 potatoes prep (second meal) (added olive oil, turmeric, cumin, and salt, skipped cayenne pepper ahead of dental cleaning; unsure about cinnamon) */
-  ('2026-05-07','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2026-05-07','TJ Kale',1,2,null,null),
-  ('2026-05-07','TJ English Shelled Peas',1.9,2,null,null),
-  ('2026-05-07','Roma tomato',7,2,null,null),
+  /* 2026-05-07 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-05-07','Gold potatoes 5 lb',0.5,2,'2026-05-11',2),
+  ('2026-05-07','TJ Kale',1,2,'2026-05-11',2),
+  ('2026-05-07','TJ English Shelled Peas',1.9,2,'2026-05-11',2),
+  ('2026-05-07','Roma tomato',7,2,'2026-05-11',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-05-07','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-05-08',2),
   ('2026-05-07','TJ Walnuts',1,2,'2026-05-10',2),
