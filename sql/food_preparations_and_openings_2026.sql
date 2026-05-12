@@ -378,7 +378,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-03-22','TJ English Shelled Peas',2,2,'2026-03-28',1),
   ('2026-03-22','Beefsteak tomato',4,2,'2026-03-28',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-03-22','Trader Giotto''s Olive Oil',1,2,null,null),
+  ('2026-03-22','Trader Giotto''s Olive Oil',1,2,'2026-05-09',2),
   ('2026-03-23','TJ Carb Savvy Tortillas',1,2,'2026-03-25',1),
   ('2026-03-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-03-25',1),
   /* 2026-03-24 rice prep (second meal) (added turmeric, cumin, salt) */
