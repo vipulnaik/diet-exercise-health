@@ -189,14 +189,16 @@ oxygen demand or against blood loss.
 
 However, more hemoglobin creates viscosity problems, impairing blood
 flow, and impaired blood flow means impaired ability of blood to
-deliver the oxygen to tissues. The viscosity problems are triggered
-both if we increase the hemoglobin concentration per unit volume of
-RBC (aka the MCHC in the CBC), the size of the RBC itself (aka the MCV
-in the CBC), or the number of RBCs per unit volume (the RBC
-measurement in the CBC). The three things together multiply to give
-the hemeglobin concentration, and while the exact details of how each
-affects viscosity differ, none of them allow for significant increases
-without paying the price in viscosity.
+deliver oxygen and nutrients to tissues (in other words, the effect of
+viscosity isn't just limited to oxygen delivery but the broader
+functioning of blood). The viscosity problems are triggered both if we
+increase the hemoglobin concentration per unit volume of RBC (aka the
+MCHC in the CBC), the size of the RBC itself (aka the MCV in the CBC),
+or the number of RBCs per unit volume (the RBC measurement in the
+CBC). The three things together multiply to give the hemeglobin
+concentration, and while the exact details of how each affects
+viscosity differ, none of them allow for significant increases without
+paying the price in viscosity.
 
 In this respect, we can think of the RBC system as a finely optimized
 system that operates within tight parameters -- go too far down, and

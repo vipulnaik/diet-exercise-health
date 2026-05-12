@@ -1937,6 +1937,19 @@ high school biology level (that I am very likely to remember coming
 into it) to a level of sophistication that is adequate as a foundation
 for the coming discussion.
 
+One overall takeaway from that document that's useful to keep in mind
+when interpreting RBC measurements: RBC measurements have a fairly
+narrow optimal range.
+
+Roughly speaking, this is because going below the ranges (the clinical
+extreme of this being anemia) results in too little oxygen being
+carried and therefore too little oxygen delivery to tissues, also
+known as hypoxia, with associated downstream negative effects. Going
+above the ranges results in problems such as viscosity and
+crystallization, impeding blood flow, which in turn means not just
+less oxygen delivered to tissues, but the blood as a whole not
+performing its desired functions.
+
 #### An overview of the six central RBC measurements (three factors and three products, including two partial products and one all-three product: hemoglobin)
 
 As the blood gas transport primer shows, the overwhelming majority of
