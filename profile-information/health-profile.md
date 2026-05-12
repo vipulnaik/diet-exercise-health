@@ -1,6 +1,6 @@
 # Health profile
 
-Last major update: May 11, 2026 (2026-05-11)
+Last major update: May 12, 2026 (2026-05-12)
 
 NOTE (2025-09-22, updated 2025-11-10): I got [blood tests done on
 September 10, 2025](../events/2025/2025-09-10-blood-tests.md). I got
@@ -1909,7 +1909,7 @@ Three mechanisms are likely going on at the same time:
 
 ## Blood cell status
 
-Last substantive section update: May 11, 2026 (2026-05-11)
+Last substantive section update: May 12, 2026 (2026-05-12)
 
 This section covers the material that falls under hematology and is
 covered under a complete blood count (CBC) along with conceptually
@@ -2090,6 +2090,68 @@ RDW`).
 RDW is also more individually variable, and therefore, unlike the
 central RBC measurements, it is more helpful to compare RDW against
 one's own when-healthy baseline than against population norms.
+
+#### My values for the factors (along with RDW)
+
+The table below covers measurements of the three factors in RBC
+measurement (MCHC, MCV, and RBC) along with RDW, the coefficient of
+variation of MCV. I put RDW to the immediate right of MCV for easier
+cross-referencing. I do not include the products (MCH, hematocrit, and
+hemoglobin) in the table itself to reduce clutter, and because most
+interesting things about the products can be inferred from the
+factors. I do spell out implications for the products in the notes
+below the table.
+
+I provide LabCorp reference ranges on top of the table. Quest
+Diagnostics and other providers have very slightly different ranges;
+in the case of RDW, LabCorp's reference range for the December 2016
+blood tests was a little different.
+
+Although I did do a blood test in 2005, that test does not seem to
+include any of the three factors or RDW (it does include hemoglobin,
+which is at normal albeit the lower end of normal). Therefore, my
+earliest recorded RBC measurements are from December 2016.
+
+The full set of values (including the products) is available at
+[test_results.sql](../sql/test_results.sql).
+
+Reading date | MCHC (g/dL) | MCV (fL) | RDW (%) | RBC (1000000/uL)
+-- | -- | -- | -- | --
+LabCorp reference range     | 31.5 - 35.7 | 79 - 97   | 11.6 - 15.4 | 4.14 - 5.8
+2025-09-10 (September 2025) |        32.5 |      96   |        12.6 |        4.77
+2025-01-22 (January 2025)   |        34.3 |      93   |        11.8 |        4.62
+2024-09-03 (September 2024) |        32.9 |      93.7 |        12.2 |        4.9
+2024-04-30 (April 2024)     |        33.1 |      93   |        12.5 |        4.93
+2021-06-30 (June 2021)      |        32.9 |      91.8 |        12.8 |        4.73
+2016-12-12 (December 2016)  |        33.6 |      88   |        13.8 |        5.19
+
+A few general notes:
+
+* All the factors as well as RDW are within range in all
+  measurements. The products (MCH, hematocrit, and hemoglobin) are
+  also within range.
+
+* MCV shows a clear upward trend through the series of
+  measurements. High MCV may be indicative of B12 or folate deficiency
+  anemia; however, my B12 is at the upper end of normal and my folate
+  is also normal. RDW stably at the low end of normal argues against a
+  B12 deficiency, which, per the preceding discussion, should show
+  increasing RDW as we get through the depletion lag + transition
+  window. The continued evolution of MCV will be important to watch.
+
+* The RBC count has, very loosely, trended downward to partially
+  compensate for the increased MCV, leading to a fairly stable
+  hematocrit (MCV X RBC) over time around the 43% to 46% range, with
+  no clear trend over time.
+
+* MCHC has been fairly stable over time, and hence MCH (MCHC X MCV)
+  also shows an increase over time, reflecting the increase in MCV
+  over time.
+
+* Hemoglobin (the product of all three factors) has also been fairly
+  stable over time, with the increase in MCV being compensated for by
+  the decrease in RBC, and the stable MCHC not messing up the overall
+  product.
 
 ## Lifestyle
 
