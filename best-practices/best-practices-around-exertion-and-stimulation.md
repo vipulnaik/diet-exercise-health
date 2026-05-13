@@ -8,8 +8,11 @@ am interested in.
 This document provides guidance on best practices regarding limits to
 adhere to, even if I feel like I can do more.
 
-It complements the [best practices around
-sleep](best-practices-around-sleep.md).
+Related documents:
+
+* [Best practices around sleep](best-practices-around-sleep.md)
+* [Best practices around light](best-practices-around-light.md)
+* [Best practices around sound](best-practices-around-sound.md)
 
 ## Heart rate as a measure of exertion and stimulation
 
@@ -257,8 +260,12 @@ material I'm trying to retain from it is low.
   * 3 hours hard limit for POCS per day -- don't go over this even if I
     feel like I can handle more
 
-* POCS on speaker (where I am listening to it while away from
-  computer without using Bluetooth headphones). Limits here are a little lower because listening to
+* (NOTE: This point does not apply in practice because I always use
+  bone conduction headphones for off-screen listening, so it's more a
+  theoretical limit in case I don't have working bone conduction
+  headphones available). POCS on speaker (where I am listening to it
+  while away from computer without using bone conduction
+  headphones). Limits here are a little lower because listening to
   audio this way can be a bit strenuous and also cuts into my
   unwinding / processing / sorting time.
 

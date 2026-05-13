@@ -3,9 +3,12 @@
 Light is a challenge both in general and in light of (no pun intended)
 some specific issues I have with light.
 
-NOTE: Notes are very rough.
+Related documents:
 
-## General role of light
+* [Best practices around sound](best-practices-around-sound.md)
+* [Best practices around exertion and stimulation](best-practices-around-exertion-and-stimulation.md)
+
+## General facts about and challenges with light
 
 ### Circadian rhythm regulation
 
