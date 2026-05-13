@@ -92,28 +92,6 @@ hear, both through quick tests to confirm that they are in the
 expected range, and through a fuller test every 6 months to determine
 exact values.
 
-### Loudness bias, loudness wars, and volume ratchet effect
-
-Humans have a loudness bias; this is essentially a bias toward finding
-sounds better as they get louder, particularly when the sounds are
-played side by side or the louder sound is played right after the less
-loud sound. The loudness bias creates a [loudness
-war](https://en.wikipedia.org/wiki/Loudness_war), where recorded music
-deliberately tries to sound loud (for a given level of volume at the
-control) through signal processing techniques to amplify itself,
-including dynamic range compression and equalization.
-
-This is one reason music generally sounds louder than other recorded
-audio (such as podcasts or lectures) at the same volume: the music has
-been processed in a way to more fully saturate the allowed volume with
-sounds. Podcasts and lectures generally undergo either no such
-processing or a much more minimal form of such processing.
-
-The fact that sequentially raising the volume of sound makes it sound
-better creates what I call the volume ratchet effect: a tendency to
-keep raising the volume on sound to make it sound better, particularly
-for the good parts, and then forget to turn the volume down.
-
 ### Central and peripheral fatigue mechanisms and music characteristics
 
 The following contribute to peripheral fatigue directly; this can be
@@ -181,6 +159,28 @@ effects. However, the exact optimum can vary based on how much noise
 there is in the recording and what the absolute task-specific
 threshold is (because peripheral fatigue is more affected by absolute
 levels while central fatigue is more affected by TSL).
+
+### Loudness bias, loudness wars, and volume ratchet effect
+
+Humans have a loudness bias; this is essentially a bias toward finding
+sounds better as they get louder, particularly when the sounds are
+played side by side or the louder sound is played right after the less
+loud sound. The loudness bias creates a [loudness
+war](https://en.wikipedia.org/wiki/Loudness_war), where recorded music
+deliberately tries to sound loud (for a given level of volume at the
+control) through signal processing techniques to amplify itself,
+including dynamic range compression and equalization.
+
+This is one reason music generally sounds louder than other recorded
+audio (such as podcasts or lectures) at the same volume: the music has
+been processed in a way to more fully saturate the allowed volume with
+sounds. Podcasts and lectures generally undergo either no such
+processing or a much more minimal form of such processing.
+
+The fact that sequentially raising the volume of sound makes it sound
+better creates what I call the volume ratchet effect: a tendency to
+keep raising the volume on sound to make it sound better, particularly
+for the good parts, and then forget to turn the volume down.
 
 ### Music versus podcasts: the key differences
 
