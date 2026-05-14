@@ -9,7 +9,7 @@
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
 | Kite Hill Greek Style Plant-Based Yogurt           |                            2.0000 |                                    1.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
-| Lundberg Sustainable California White Basmati Rice |                            8.0000 |                                    0.0000 |
+| Lundberg Sustainable California White Basmati Rice |                            7.0000 |                                    1.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            0.0000 |                                    0.0000 |
 | Morton Iodized Sea Salt                            |                            0.0000 |                                    1.0000 |
 | Orange bell pepper                                 |                            0.0000 |                                    0.0000 |
