@@ -1,4 +1,4 @@
-# 2025-11-11: right index finger impact against botom of kitchen shelves
+# 2025-11-11: right index finger impact against bottom of kitchen shelves
 
 ## Incident
 
