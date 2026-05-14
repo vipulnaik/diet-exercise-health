@@ -591,3 +591,16 @@ in the morning and early afternoon on work meetings.
 On Saturday 2026-05-09, both to save time and for scheduling reasons,
 I skipped jogging and strength exercises. However, I did fit in hand
 gripper exercises.
+
+## 2026-05-13: skipped strength exercises due to exhaustion
+
+On Wednesday 2026-05-13, I was exhausted after indoor jogging, and
+also eager to continue a Claude conversation, so I ended up skipping
+strength exercises that were due on that day.
+
+## 2026-05-14: skipped jogging and strength exercises
+
+On Thursday 2026-05-14, in order to make time for a Trader Joe's trip
+as well as potatoes prep, I skipped jogging and strength exercises. I
+did hand gripper exercises and humming-with-intermittent-pauses before
+the Trader Joe's trip.
