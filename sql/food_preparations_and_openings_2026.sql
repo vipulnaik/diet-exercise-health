@@ -598,5 +598,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-14','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep */
   ('2026-05-14','TJ Walnuts',1,2,null,null),
   ('2026-05-14','TJ Brazil Nuts',1,2,null,null),
-  ('2026-05-14','TJ Almond Milk',1,2,null,null);
+  ('2026-05-14','TJ Almond Milk',1,2,null,null),
+  ('2026-05-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
