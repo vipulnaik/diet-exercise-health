@@ -604,3 +604,11 @@ On Thursday 2026-05-14, in order to make time for a Trader Joe's trip
 as well as potatoes prep, I skipped jogging and strength exercises. I
 did hand gripper exercises and humming-with-intermittent-pauses before
 the Trader Joe's trip.
+
+## 2026-05-15: skipped jogging and strength exercises
+
+On Friday 2026-05-15, I skipped jogging and strength exercises. This
+was because a bunch of investigations and tasks related to the day job
+ended up stacking together and by the time they wrapped up, I was too
+delayed to go jogging. I did manage to squeeze in hand gripper
+exercises.
