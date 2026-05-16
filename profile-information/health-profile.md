@@ -71,7 +71,7 @@ Sections of this document:
     * [Metabolic panel](#metabolic-panel)
     * [Urine quantity and pattern](#urine-quantity-and-pattern)
   * [Blood cell status](#blood-cell-status) (this specifically covers the kinds of stuff covered in a CBC, plus adjacent stuff)
-    * [Red blood cells (RBCs): gas exchange](#red-blood-cells-rbcs-gas-exchange
+    * [Red blood cells (RBCs): gas exchange](#red-blood-cells-rbcs-gas-exchange)
   * Lung status (I haven't done any pulmonary function tests, so inferences will be indirect)
   * Heart status (I don't have much to go on except measurement of vitals and general lifestyle info)
 * Lifestyle factors
