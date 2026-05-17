@@ -612,3 +612,8 @@ was because a bunch of investigations and tasks related to the day job
 ended up stacking together and by the time they wrapped up, I was too
 delayed to go jogging. I did manage to squeeze in hand gripper
 exercises.
+
+## 2026-05-17: skipped all exercises
+
+On Sunday 2026-05-17, I skipped all exercises to save time and energy
+and fit cyclic personal chores as well as a bunch of catch-up work.
