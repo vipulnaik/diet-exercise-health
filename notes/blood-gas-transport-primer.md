@@ -8,9 +8,9 @@ from the loose high school biology level (that I am very likely to
 remember coming into it) to a level of sophistication that is adequate
 as a foundation for digging into things like:
 
-* Detailed interpretation of complete blood count (CBC) interpretation
-  of red blood cells (RBCs) and reasoning through the effects of
-  atypical or concerning readings
+* Detailed interpretation of complete blood count (CBC) measurements
+  involving red blood cells (RBCs) and reasoning through the
+  effects of atypical or concerning readings
 
 * Reasoning through the effects of short-term physiological changes,
   such as sleep, moderate exercise, intense exercise, and eating
