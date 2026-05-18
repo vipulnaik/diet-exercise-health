@@ -39,12 +39,15 @@ was entering the conversation with some prior knowledge.
 
 ## A few high-level distinctions within immunity
 
-There are 5 important distinctions, each with 2 key sides, yielding a
-total of 2^5 = 32 potential combinations. Some of these combinations
-don't matter much, but the vast majority of the combinations do make
-sense and each cover different things. The Claude conversation
-includes an attempt to traverse all 32 possibilities (search `null` in
-the conversation). We'll skip trying to summarize that attempt in this
+There are 5 important distinctions, four with 2 key sides one one with
+4 key sides, yielding a total of 2^4 * 4 = 64 potential
+combinations. Some of these combinations don't matter much, but the
+vast majority of the combinations do make sense and each cover
+different things. The Claude conversation includes an attempt to
+traverse all 64 possibilities (search `null` in the conversation,
+though the further refinement of one of the distinctions from 2 to 4
+sides is further down in the conversation; search `lymphatic system
+and microbiome`). We'll skip trying to summarize that attempt in this
 primer.
 
 * Innate/natural immunity versus adaptive immunity:
@@ -128,8 +131,7 @@ primer.
     cell-mediated function (directly attacking the infected or
     cancerous cells).
 
-* Blood versus tissue (with special roles for the lymphatic system and
-  microbiome):
+* Blood versus tissue versus lympathic system versus microbiome:
 
   * A lot of immunity operates directly within blood. In particular,
     the blood itself destroys antigens, keeping itself clean and
