@@ -39,8 +39,39 @@ was entering the conversation with some prior knowledge.
 
 ## A few high-level distinctions within immunity
 
-* An important distinction in immunology is between standing
-  preparedness and current activity.
+There are 5 important distinctions, each with 2 key sides, yielding a
+total of 2^5 = 32 potential combinations. Some of these combinations
+don't matter much, but the vast majority of the combinations do make
+sense and each cover different things. The Claude conversation
+includes an attempt to traverse all 32 possibilities (search `null` in
+the conversation). We'll skip trying to summarize that attempt in this
+primer.
+
+* Innate/natural immunity versus adaptive immunity:
+
+  * Innate immunity or natural immunity is general immunity not
+    specific to a particular exposure.
+
+  * Adaptive immunity is the specialized, highly-targeted,
+    memory-building system tied to specific exposures.
+
+* Naive (respectively, untrained) immunity versus memory (respectively, trained) immunity:
+
+  * For adaptive immunity, we contrast naive immunity against memory
+    immunity. Naive immunity is when there's a fresh exposure to an
+    insult that a naive immune system component (a B cell or T cell in
+    response to an antigen) encounters and then adjusts to. Memory
+    immunity is encoded through the population of B cells or T cells
+    that are created specifically to combat the specific antigen, that
+    continue circulating in the blood for a while after that.
+
+  * For innate immunity, we can distinguish untrained immunity (no
+    lived experience that finetunes the immune system's preparedness)
+    with trained immunity (lived experience of pathogens affecting the
+    overall tuning of the immune system, such as the mix of WBCs or
+    quantitative immunoglobulins).
+
+* Standing preparedness versus current activity:
 
   * Standing preparedness, which is the stuff the immune system keeps
     running all the time to be ready to detect and combat attacks.
@@ -48,8 +79,9 @@ was entering the conversation with some prior knowledge.
   * Current activity in response to attacks, for instance, during an
     insult (infection, injury, or other exposure).
 
-* A related distinction is between immune markers and inflammatory
-  markers.
+  This distinction is relevant when thinking about immune function
+  markers (such as WBCs and quantitative immunoglobulins) versus
+  inflammatory markers.
 
   * Each immune marker represents some mix between standing
     preparedness and current activity; the factors affecting the mix
@@ -74,9 +106,9 @@ was entering the conversation with some prior knowledge.
     markers). They don't provide much insight into standing
     preparedness.
 
-* An important distinction is between cellular immunity (or
-  cell-mediated immunity) (white blood cells (WBCs)) and humoral immunity
-  (individual compounds such as immunoglobulins and cytokines).
+* Cellular immunity (or cell-mediated immunity) (white blood cells
+  (WBCs)) versus humoral immunity (individual compounds such as
+  immunoglobulins and cytokines):
 
   * The main compounds responsible for humoral immunity are themselves
     produced by WBCs. For instance, a specific type of WBC may produce
@@ -96,9 +128,8 @@ was entering the conversation with some prior knowledge.
     cell-mediated function (directly attacking the infected or
     cancerous cells).
 
-* Another important distinction is between tissue and blood, with some
-  things like the lymphatic system and microbiome having their own
-  complexity.
+* Blood versus tissue (with special roles for the lymphatic system and
+  microbiome):
 
   * A lot of immunity operates directly within blood. In particular,
     the blood itself destroys antigens, keeping itself clean and
