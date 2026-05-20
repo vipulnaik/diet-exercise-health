@@ -10,21 +10,21 @@ For these pieces, I log in my Slack self-chat logs when I execute. I
 don't formally follow the checklist; I just do them whenever I happen
 to already be listening to the song in question and have a minute to
 spare. I record completion in the Slack self-chat logs. I generally do
-the normal headphones and bone conduction headphones portion
+the over-ear headphones and bone conduction headphones portion
 separately. Search for `lmlyd` in Slack self-chat logs.
 
 So I can skip these during the formal execution. However, if during
 formal execution I find that I haven't done them at all for at least
 21 days, I should do them along with the formal execution.
 
-- Play https://www.youtube.com/watch?v=eVVaqFDG6Fo and determine minimum audible volume with normal headphones (expected to be 1/64 system volume at about 25% YouTube volume) and with bone conduction headphones (expected to be 1/16 system volume at <= 50% for Yomdud)
-  - normal headphones: log message (if passed) `lmlyd minimum audible volume test passed (both ears) with normal headphones`, otherwise document in more detail and determine followup actions
+- Play https://www.youtube.com/watch?v=eVVaqFDG6Fo and determine minimum audible volume with over-ear headphones (expected to be 1/64 system volume at about 25% YouTube volume) and with bone conduction headphones (expected to be 1/16 system volume at <= 50% for Yomdud)
+  - over-ear headphones: log message (if passed) `lmlyd minimum audible volume test passed (both ears) with over-ear headphones`, otherwise document in more detail and determine followup actions
     - [ ] Make sure that within-YouTube volume is set to max
-    - [ ] Left ear with normal headphones (if the headphones are oriented wrong, re-wear the headphones)
-    - [ ] Right ear with normal headphones
+    - [ ] Left ear with over-ear headphones (if the headphones are oriented wrong, re-wear the headphones)
+    - [ ] Right ear with over-ear headphones
     - [ ] Reduce within-YouTube volume to 50%
-    - [ ] Left ear with normal headphones (if the headphones are oriented wrong, re-wear the headphones)
-    - [ ] Right ear with normal headphones
+    - [ ] Left ear with over-ear headphones (if the headphones are oriented wrong, re-wear the headphones)
+    - [ ] Right ear with over-ear headphones
   - bone conduction headphones: log message: `lmlyd minimum audible volume test passed (both ears) with bone conduction headphones`, otherwise document in more detail and determine followup actions
     - [ ] Make sure that within-YouTube volume is set to max
     - [ ] Left ear with bone conduction headphones
@@ -33,16 +33,16 @@ formal execution I find that I haven't done them at all for at least
     - [ ] Left ear with bone conduction headphones
     - [ ] Right ear with bone conduction headphones
 - Check for balance when I play https://www.youtube.com/watch?v=eVVaqFDG6Fo
-  - normal headphones: log message: `lmlyd balance test passed with normal headphones`, otherwise document in more detail and determine followup actions
-    - [ ] Normal headphones, when set to balanced, feel centered rather than skewed to one side
-    - [ ] For normal headphones, switching back and forth between all left to all right does not change perceived loudness
+  - over-ear headphones: log message: `lmlyd balance test passed with over-ear headphones`, otherwise document in more detail and determine followup actions
+    - [ ] Over-ear headphones, when set to balanced, feel centered rather than skewed to one side
+    - [ ] For over-ear headphones, switching back and forth between all left to all right does not change perceived loudness
   - bone conduction headphones: log message: `lmlyd balance test passed with bone conduction headphones`, otherwise document in more detail and determine followup actions
     - [ ] Bone conduction headphones, when set to balanced, feel centered rather than skewed to one side
     - [ ] For bone conduction headphones, switching back and forth between all left to all right does not change perceived loudness
 
 END OF SECTION: Quick minimum audible volume and balance tests
 
-### Quick max frequency hearing test (intended only for normal headphones)
+### Quick max frequency hearing test (intended only for over-ear headphones)
 
 This is the part of the long max frequency hearing test that is
 focused only on confirming that I can still hear till 20000 Hz.
@@ -53,7 +53,7 @@ closed, and confirm that I open my eyes right after the clip ends. I
 should do the left and right ear separately.
 
 I should log this to Slack as `quick max frequency hearing test passed
-(both ears) with normal headphones`.
+(both ears) with over-ear headphones`.
 
 Remember to return to normal volume and set balance back to neutral.
 
@@ -63,7 +63,7 @@ disruption check.
 
 END OF SECTION: Quick max frequency hearing test
 
-### Quick tonal loss point test (intended only for normal headphones)
+### Quick tonal loss point test (intended only for over-ear headphones)
 
 This is a part of the long max frequency hearing test that is focused
 only on confirming that I can my tonal loss point is at or above 13000
@@ -75,7 +75,7 @@ few seconds after that. Finding the exact tonal loss point is not
 important.
 
 I should log this to Slack as `quick tonal loss point test passed
-(both ears) with normal headphones`.
+(both ears) with over-ear headphones`.
 
 Remember to return to normal volume and set balance back to neutral.
 
@@ -102,7 +102,7 @@ is louder> ear`.
 
 Remember to return to normal volume and set balance back to neutral.
 
-It's worth noting that at low frequencies, with normal headphones, and
+It's worth noting that at low frequencies, with over-ear headphones, and
 absent significant earwax accumulation, I have a slight bias toward
 sounds being louder in the left ear, which is likely driven by better
 middle ear processing. I want to get beyond this -- at around 4000 Hz
@@ -116,11 +116,11 @@ accumulation, but more data is needed.
 
 END OF SECTION: Followup high-frequency balance disruption check
 
-### Quick auditory reaction time test (intended only for normal headphones)
+### Quick auditory reaction time test (intended only for over-ear headphones)
 
 Test to play: https://playback.fm/audio-reaction-time
 
-This test should be done with normal headphones, since bone conduction
+This test should be done with over-ear headphones, since bone conduction
 headphones have a latency of a few hundred milliseconds.
 
 Play this once with the left ear and once with the right ear, and
@@ -133,6 +133,21 @@ The values should be around 300 ms or lower; values above 350 ms are
 concerning and might call for a replay.
 
 ## More advanced portion of test with formal recording, that I should do formally at the periodic interval
+
+### Audit portion
+
+This portion is an audit of the quick tests and my regular sound habits.
+
+- [ ] Check recent sound volume patterns by searching `/16` in Slack self-chat logs, summarize here, and confirm that these are within the guidelines in [best practices around sound](../best-practices/best-practices-around-sound.md)
+- [ ] Verify that I have been doing the quick minimum audible volume test regularly with over-ear headphones (search Slack self-chat logs for `lmlyd over-ear`)
+- [ ] Verify that I have been doing the quick minimum audible volume test regularly with bone conduction headphones (search Slack self-chat logs for `lmlyd bone`)
+- [ ] Verify that I have been doing the quick max freuqency hearing test regularly with over-ear headphones (search Slack self-chat logs for `quick max frequency`)
+- [ ] Verify that I have been doing the quick tonal loss point test regularly with over-ear headphones (search Slack self-chat logs for `quick tonal loss`)
+- [ ] Verify that I have been doing the quick auditory reaction time test regularly with over-ear headphones (search Slack self-chat logs for `auditory reaction time`)
+
+END OF SECTION: Audit portion
+
+### Cycling portion
 
 These pieces require more active concentration as well as
 documentation steps, so I should do these only as part of the periodic
@@ -152,7 +167,7 @@ Remember after each test set to return the volume and balance to
 normal. This is important to avoid getting a "blast" of noise when I
 next use the headphones.
 
-### (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
+#### (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
 
 Run through and record results in SQL for online hearing test at
 https://www.resound.com/en-us/online-hearing-test
@@ -160,7 +175,7 @@ https://www.resound.com/en-us/online-hearing-test
 **Night time is preferred due to less ambient noise. Wait for troughs
   in outdoor noise to confirm readings.**
 
-- [ ] Put on normal headphones
+- [ ] Put on over-ear headphones
 - [ ] Make sure that the volume of the computer is set to max
 - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
 - [ ] Switch balance back to the middle
@@ -175,7 +190,7 @@ https://www.resound.com/en-us/online-hearing-test
 
 END OF SECTION: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
 
-### (2) Max frequency hearing test
+#### (2) Max frequency hearing test
 
 Do a max frequency hearing test using
 https://www.youtube.com/watch?v=zUmbmssqHOY
@@ -192,9 +207,9 @@ differs from the quick version in the following respects:
   max volume, whereas the sound stays audible to me right till the
   end).
 
-Normal headphones, left ear only:
+over-ear headphones, left ear only:
 
-- [ ] Normal headphones, start the video, setting volume to half the max and balance to all on left ear
+- [ ] Over-ear headphones, start the video, setting volume to half the max and balance to all on left ear
 - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
 - [ ] Estimate the point at which I lose all sense of musical tone
   - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
@@ -207,9 +222,9 @@ Normal headphones, left ear only:
   - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
   - Final frequency estimate: ???
 
-Normal headphones, right ear only:
+over-ear headphones, right ear only:
 
-- [ ] Normal headphones, start the video, setting volume to half the max and balance to all on right ear
+- [ ] Over-ear headphones, start the video, setting volume to half the max and balance to all on right ear
 - [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
 - [ ] Estimate the point at which I lose all sense of musical tone
   - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
@@ -222,7 +237,7 @@ Normal headphones, right ear only:
   - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
   - Final frequency estimate: ???
 
-Wrap up normal headphones:
+Wrap up over-ear headphones:
 
 - [ ] Remember to set volume back to low and balance to neutral
 
@@ -262,16 +277,16 @@ Wrap up bone conduction headphones:
 
 END OF SECTION: (2) Max frequency hearing test
 
-### (3) Speech in noise test
+#### (3) Speech in noise test
 
 Run through and report results of
 https://www.medel.com/en-us/about-hearing/hearing-test/speech-in-noise
 
 Adjust volume through the test for what lets me hear best.
 
-- [ ] Normal headphones, left ear
-- [ ] Normal headphones, right ear
-- [ ] Normal headphones, balanced
+- [ ] Over-ear headphones, left ear
+- [ ] Over-ear headphones, right ear
+- [ ] Over-ear headphones, balanced
 - [ ] Bone conduction headphones, left ear (okay to press against skin)
 - [ ] Bone conduction headphones, right ear (okay to press against skin)
 - [ ] Bone conduction headphones, balanced (okay to press against skin)
