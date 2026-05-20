@@ -699,3 +699,16 @@ I did the photo-taking (and some of the photo classification) and the squeaky cl
 - [ ] IN PROGRESS (comparison started 2026-05-17 for some of the photos classified at that time): Compare these photos with the previous photos
 
 END OF CHECKLIST
+
+Notes:
+
+* The squeaky clean teeth test passed with clear squeaking on all
+  facial surfaces with the exception of the mandibular incisors where
+  there was no squeaking; the lingual surfaces squeaked but not that
+  clearly.
+
+* The fingernail scrape test did not reveal any plaque.
+
+* The floss pick pressure test passed, with time to near-full recovery
+  about 5 minutes, and the interdental gaps on the maxillary left
+  incisors and canine taking the most time to recover.
