@@ -15,7 +15,7 @@ teeth on the sides (premolars and molars).
 
 I am not editing historical entries in the execution log, so they may
 still use the ambiguous terminology, but they will always be using
-front and back to refer to the surfaces of teeth (labial versus
+front and back to refer to the surfaces of teeth (facial versus
 lingual) rather than to the positions of teeth (anterior versus
 posterior).
 
