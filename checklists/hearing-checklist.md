@@ -139,8 +139,8 @@ concerning and might call for a replay.
 This portion is an audit of the quick tests and my regular sound habits.
 
 - [ ] Check recent sound volume patterns by searching `/16` in Slack self-chat logs, summarize here, and confirm that these are within the guidelines in [best practices around sound](../best-practices/best-practices-around-sound.md)
-- [ ] Verify that I have been doing the quick minimum audible volume test regularly with over-ear headphones (search Slack self-chat logs for `lmlyd over-ear`)
-- [ ] Verify that I have been doing the quick minimum audible volume test regularly with bone conduction headphones (search Slack self-chat logs for `lmlyd bone`)
+- [ ] Verify that I have been doing the quick minimum audible volume and balance tests regularly with over-ear headphones (search Slack self-chat logs for `lmlyd over-ear`)
+- [ ] Verify that I have been doing the quick minimum audible volume and balance tests regularly with bone conduction headphones (search Slack self-chat logs for `lmlyd bone`)
 - [ ] Verify that I have been doing the quick max freuqency hearing test regularly with over-ear headphones (search Slack self-chat logs for `quick max frequency`)
 - [ ] Verify that I have been doing the quick tonal loss point test regularly with over-ear headphones (search Slack self-chat logs for `quick tonal loss`)
 - [ ] Verify that I have been doing the quick auditory reaction time test regularly with over-ear headphones (search Slack self-chat logs for `auditory reaction time`)
