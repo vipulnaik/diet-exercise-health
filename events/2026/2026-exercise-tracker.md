@@ -617,3 +617,10 @@ exercises.
 
 On Sunday 2026-05-17, I skipped all exercises to save time and energy
 and fit cyclic personal chores as well as a bunch of catch-up work.
+
+## 2026-05-23: skipped jogging and strength exercises
+
+On Saturday 2026-05-23, I skipped jogging and strength exercises to
+conserve time and energy and fit in meal prep and other tasks. This
+was after five days of not skipping exercises, so it felt like a
+relatively safe skip. I did hand gripper exercises as usual.
