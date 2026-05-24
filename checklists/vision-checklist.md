@@ -2,10 +2,30 @@
 
 The execution log is [here](../logs/vision-checklist-log.md).
 
+## Quick pencil push-ups
+
+This is a quick exercise that has both evaluative and therapeutic
+benefits. I aim to do it about once every 10 days, which suffices for
+evaluative purposes but is too infrequent for therapeutic benefits if
+I did have problems.
+
+I call it "pencil push-ups" but I use my red pen which I have on my desk.
+
+- [ ] Hold it about a foot away from the tip of the nose, and focus on the pen clip.
+- [ ] Move it at a moderate speed toward the tip of the nose, staying focused on the pen clip.
+- [ ] Note (with finger measurement) how far the pen needs to be from the tip of the nose for the pen clip to become hard to identify. This is the "near point of convergence" (NPC) and measures the vergence of the two eyes.
+  - It is expected to be about one inch from the tip of the nose, and hence about two inches from my eyes.
+- [ ] Move it back to about a foot away, and note if it comes back into focus effortlessly.
+- [ ] Repeat a few more times (minimum 3 total repetition, occasionally go up to 20 total repetitions).
+- [ ] Log to Slack self-chat logs as `pencil push-ups: <number of reps> with standard vergence (2 inches)` if the vergence / NPC were standard; adjust end of message if non-standard; also note if vergence worsened with repetitions or there was noticeable fatigue with repetitions.
+
+END OF SECTION: Quick pencil push-ups
+
 ## Audit portion
 
 - [ ] Check display brightness since the last audit (look in Slack self-chat logs for `display brightness` -- there should be at least one log every 2-3 days and a reasonable density of logs for different times of day); pay attention both to absolute levels relative to time of day and my notes on whether I had to manually adjust it
-- [ ] Check that I have been taking eye breaks regularly (look in Slack self-chat logs for `eye break`; there should be at least 2 to 3 log lines per day with durations of 15 seconds or more for each)
+- [ ] Check that I have been taking eye breaks regularly (look in Slack self-chat logs for `eye break`; there should be at least 2 to 3 log lines per day with durations of 15 seconds or more for each) (note that I do not log every eye break, but I should log enough of them to create the log density; the goal of the audit is just to make sure I am taking enough eye breaks, not to quantify them precisely)
+- [ ] Check that I have been doing pencil push-ups regularly (look in Slack self-chat logs for `pencil push-ups`) and that my performance has been decent
 
 END OF SECTION: Audit portion
 
