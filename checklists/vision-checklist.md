@@ -52,12 +52,16 @@ END OF SECTION: (1) Short distance vision
 
 END OF SECTION: (2) Medium distance vision
 
-### (3) Peripheral vision
+### (3) Peripheral vision and macular degeneration
 
 - Peripheral vision check
   - [ ] First, make sure the screen brightness and ambient lighting are such that I cannot detect the color change of the reaction time test when looking diametrically opposite the screen; this is to make sure I can only pass the reaction time test by detecting color changes on the screen
     - In dark environments, I may need to put the light on, otherwise the color change on screen is visible through reflection of the light elsewhere even when I am not facing the screen
   - [ ] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my left (so I would be using the left eye effectively)
   - [ ] Confirm that I am able to get a reaction time under 500 ms when facing at an angle of 110 degrees with the screen on my right (so I would be using the right eye effectively)
+- Amsler grid test (to detect macular degeneration)
+  - [ ] Open a low-contrast Amsler grid; for instance, https://en.wikipedia.org/wiki/Amsler_grid ain thumbnail image in dark mode
+  - [ ] With the left eye only (right eye closed), stare directly at the central dot of the grid (while diffusely taking in the whole grid without sequentially scanning it) for about 30 seconds; note if the surrounding lines become wavy or go missing
+  - [ ] With the right eye only (left eye closed), stare directly at the central dot of the grid (while diffusely taking in the whole grid without sequentially scanning it) for about 30 seconds; note if the surrounding lines become wavy or go missing
 
-END OF SECTION: (3) Peripheral vision
+END OF SECTION: (3) Peripheral vision and macular degeneration
