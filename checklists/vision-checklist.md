@@ -2,6 +2,13 @@
 
 The execution log is [here](../logs/vision-checklist-log.md).
 
+## Audit portion
+
+- [ ] Check display brightness since the last audit (look in Slack self-chat logs for `display brightness` -- there should be at least one log every 2-3 days and a reasonable density of logs for different times of day); pay attention both to absolute levels relative to time of day and my notes on whether I had to manually adjust it
+- [ ] Check that I have been taking eye breaks regularly (look in Slack self-chat logs for `eye break`; there should be at least 2 to 3 log lines per day with durations of 15 seconds or more for each)
+
+END OF SECTION: Audit portion
+
 ## Outdoor vision test (to be done at every execution)
 
 - Functional long distance vision test: Verify that I can read a license plate for first parked car across the street when at intersection, assuming that the parked car leaves space for one car to allow turns (and see how much earlier I can read the license plate)
@@ -11,7 +18,7 @@ The execution log is [here](../logs/vision-checklist-log.md).
 
 END OF SECTION: Outdoor vision test (to be done at every execution)
 
-## More involved indoor vision tests
+## Cycling portion (involved indoor vision tests)
 
 By default, I should cycle between these test sets at every periodic
 checklist execution. Each test set is expected to take 10 to 30
