@@ -625,5 +625,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-05-22','TJ Walnuts',1,1,null,null),
   ('2026-05-22','TJ Sauerkraut',1,1,null,null),
-  ('2026-05-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-05-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  /* 2026-05-23 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-05-23','Gold potatoes 5 lb',0.5,1,null,null),
+  ('2026-05-23','TJ Kale',1,1,null,null),
+  ('2026-05-23','TJ English Shelled Peas',2,1,null,null),
+  ('2026-05-23','Beefsteak tomato',3,1,null,null); /* constrained by space in pot */
   /* Double-check the date and meal index before committing */
