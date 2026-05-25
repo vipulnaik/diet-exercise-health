@@ -462,7 +462,9 @@ Some historical information:
   videos.
 
 * I exercise caution in terms of exposing myself to loud noises and to
-  extended periods of listening to stuff.
+  extended periods of listening to stuff. For more information, see my
+  [best practices around
+  sound](../best-practices/best-practices-around-sound.md).
 
 * As of 2025, my hearing seems fine judged by minimum audible volume
   and maximum frequency I can hear. My speech-in-noise hearing
