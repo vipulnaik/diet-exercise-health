@@ -630,5 +630,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-23','Gold potatoes 5 lb',0.5,1,null,null),
   ('2026-05-23','TJ Kale',1,1,null,null),
   ('2026-05-23','TJ English Shelled Peas',2,1,null,null),
-  ('2026-05-23','Beefsteak tomato',3,1,null,null); /* constrained by space in pot */
+  ('2026-05-23','Beefsteak tomato',3,1,null,null), /* constrained by space in pot */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-05-24','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
