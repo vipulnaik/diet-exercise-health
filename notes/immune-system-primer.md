@@ -70,7 +70,7 @@ primer.
 
   * For innate immunity, we can distinguish untrained immunity (no
     lived experience that finetunes the immune system's preparedness)
-    with trained immunity (lived experience of pathogens affecting the
+    from trained immunity (lived experience of pathogens affecting the
     overall tuning of the immune system, such as the mix of WBCs or
     quantitative immunoglobulins).
 
