@@ -250,3 +250,23 @@ for a week later.
 - [x] Do the Resound online test and record results as you go along
 
 END OF SECTION: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
+
+## Opportunistic JND test on 2026-05-24 / 2026-05-25
+
+This test was done to establish a benchmark for frequency
+discrimination as a reference point for future opportunistic tests.
+
+I used https://www.compadre.org/osp/EJSS/4485/T08_Pitch/jnd.html for
+the test:
+
+* For 440 Hz and 1760 Hz, I was reliably able to detect all the 3%
+  higher cases. For 110 Hz, I was not able to detect any difference
+  reliably.
+
+* In many of the cases, I thought I felt slight differences in the
+  energy and intensity, but was not confident of them. For the 1760 Hz
+  case, I did mark one of the 1765 Hz samples as different as it felt
+  borderline different.
+
+For more, see the relevant subsection of the hearing checklist parking
+lot.

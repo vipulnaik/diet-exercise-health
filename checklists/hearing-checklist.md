@@ -149,6 +149,7 @@ This portion is an audit of the quick tests and my regular sound habits.
 - [ ] Verify that I have been doing the quick max freuqency hearing test regularly with over-ear headphones (search Slack self-chat logs for `quick max frequency`)
 - [ ] Verify that I have been doing the quick tonal loss point test regularly with over-ear headphones (search Slack self-chat logs for `quick tonal loss`)
 - [ ] Verify that I have been doing the quick auditory reaction time test regularly with over-ear headphones (search Slack self-chat logs for `auditory reaction time`)
+- [ ] Verify that I have been doing shuffle music listening and that I have had success with song recognition (search Slack self-chat logs for `smld`) (this provides more practice and evaluation/verification of a bunch of auditory processing, which is used more heavily in music listening)
 
 END OF SECTION: Audit portion
 
@@ -511,3 +512,87 @@ I might do the full tests for one of four reasons:
 
 * In response to reductions in hearing ability, particularly at high
   frequencies given their important role in sound localization.
+
+### Frequency discrimination tests (measuring Just Noticeable Differences (JNDs))
+
+Frequency discrimination refers to the ability to make out that two
+frequencies are different. It gets harder and harder as the
+frequencies get closer and closer. Just Noticeable Differences (JNDs)
+refers to the closest that two frequencies can get at which the person
+in question can still distinguish them. JNDs can vary based on the
+frequency being used to compare (the steady tone) and could differ
+slightly in the upward and downward direction; they aren't a fixed
+value across frequencies in either hertz or percentage terms.
+
+https://www.compadre.org/osp/EJSS/4485/T08_Pitch/jnd.html has online
+JND tests with steady tones of 440 Hz (medium frequency JND), 1760 Hz
+(high frequency JND), and 110 Hz (low frequency JND). These correspond
+to the tones A4, A2, and A6 respectively (the sounds as played have
+some undertones and overtones as far as I can make out). For each of
+the tests, there are 21 pairs, with each pair playing the steady tone
+and another tone; the order of the two tones is not fixed (in some
+cases, the steady tone might be first, in others, the other tone might
+be first). 3 of the 21 pairs have the other tone equal to the steady
+tone, 3 of the 21 pairs have the other tone about 3% (a half-semitone)
+higher than the steady tone, and the rest have the other tone
+somewhere in between (the exact amount by which it's higher than the
+steady tone varies across tests).
+
+I did this test on 2026-05-24 / 2026-05-25 and my results are as
+follows:
+
+* For 440 Hz and 1760 Hz, I was reliably able to detect all the 3%
+  higher cases. For 110 Hz, I was not able to detect any difference
+  reliably.
+
+* In many of the cases, I thought I felt slight differences in the
+  energy and intensity, but was not confident of them. For the 1760 Hz
+  case, I did mark one of the 1765 Hz samples as different as it felt
+  borderline different.
+
+What seems to be going on, at least at 440 Hz and 1760 Hz, is a
+confound created by what's called "categorical perception of pitch" --
+my auditory hardware might be good enough to detect differences below
+3%, but it's being overridden by auditory processing that treats close
+frequencies as being the same categorical pitch. Categorical
+perception of pitch is helpful for the appreciation of music, since
+not every musical instrument or human voice is tuned to hit the exact
+intended frequency. Essentially, listening to music allows for fine
+frequency distinctions up to about the half-semitone mark (3%) since a
+half-semitone detection allows for rounding to the nearest semitone
+(the error correction / error detection ratio being 2), but may
+actively interfere with the identification of distinctions finer than
+a half-semitone for the same reason. At 110 Hz, I'm not even able to
+clearly identify half-semitone distinctions, and this might be a case
+where I'm limited by hardware (spectral resolution of the cochlea) and
+also by lack of training from musical listening, since this is below
+the range of most finely tuned music.
+
+#### Why I don't do this as a regular checklist item
+
+Frequency discrimination up to the ~3% (half-semitone) mark is
+something I expect to get practice of and validate through regular
+music listening, including listening to dedicated music tracks and
+background music and songs in TV shows and movies I watch
+regularly. The shuffle music listening with sound recognition, that I
+do occasionally, offers both practice and verification of a bunch of
+auditory processing skills. The audit portion of the hearing checklist
+includes an item to verify that I've been doing shuffle music
+listening regularly and have had success with song recognition.
+
+Frequency discrimination beyond that, which is what such testing would
+be ideal for evaluating, is both something that is not too relevant
+for my day-to-day life and something that I cannot measure very
+precisely, because of the categorical perception of pitch confound.
+
+#### What might make me do this
+
+I might do this for any of the following reasons:
+
+* At a whim, or opportunistically, whenever I am curious about my
+  performance here. I will record results in the hearing checklist log
+  at each opportunistic execution.
+
+* In response to any evidence that I am having trouble with music
+  recognition or appreciation that I suspect might be due to impaired
+  frequency discrimination.
