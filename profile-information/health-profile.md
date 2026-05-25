@@ -1,16 +1,14 @@
 # Health profile
 
-Last major update: May 12, 2026 (2026-05-12)
+Last major update: May 25, 2026 (2026-05-25)
 
-NOTE (2025-09-22, updated 2025-11-10): I got [blood tests done on
+NOTE (2025-09-22, updated 2026-05-25): I got [blood tests done on
 September 10, 2025](../events/2025/2025-09-10-blood-tests.md). I got
-all the results back by September 21. I am part of the way through to
-entering results in the SQL file and incorporate them into the health
-profile. I plan to finish updating over the next few weeks, and will
-remove this note once the update is complete. A quick examination of
-the results suggests that they are either within normal range or
-outside normal range in ways that are already known, so there is no
-immediate tactical change needed based on the results.
+all the results back by September 21. I have entered all results in
+the [SQL file](../sql/test_results.sql) but a final round of data
+verification is pending. Most of the test results have also been
+incorporated into the health profile, but in some cases, no existing
+health profile sections are available to absorb the results.
 
 NOTE 2 (2025-11-08): I got a [BodySpec DEXA scan done on November 7,
 2025](../events/2025/2025-11-07-bodyspec-dexa-scan.md). I got the
@@ -72,6 +70,8 @@ Sections of this document:
     * [Urine quantity and pattern](#urine-quantity-and-pattern)
   * [Blood cell status](#blood-cell-status) (this specifically covers the kinds of stuff covered in a CBC, plus adjacent stuff)
     * [Red blood cells (RBCs): gas exchange](#red-blood-cells-rbcs-gas-exchange)
+    * [White blood cells (WBCs): immune function](#white-blood-cells-wbcs-immune-function)
+    * [Platelets: primary hemostasis](#platelets-primary-hemostasis)
   * Lung status (I haven't done any pulmonary function tests, so inferences will be indirect)
   * Heart status (I don't have much to go on except measurement of vitals and general lifestyle info)
 * Lifestyle factors
@@ -1911,7 +1911,7 @@ Three mechanisms are likely going on at the same time:
 
 ## Blood cell status
 
-Last substantive section update: May 12, 2026 (2026-05-12)
+Last substantive section update: May 25, 2026 (2026-05-25)
 
 This section covers the material that falls under hematology and is
 covered under a complete blood count (CBC) along with conceptually
@@ -2167,6 +2167,128 @@ A few general notes:
   stable over time, with the increase in MCV being compensated for by
   the decrease in RBC, and the stable MCHC not messing up the overall
   product.
+
+### White blood cells (WBCs): immune function
+
+Before proceeding, it's helpful to brush up using the [immune system
+primer](../notes/immune-system-primer.md) that provides a summary of
+high-level distinctions within immunity.
+
+#### Where WBCs and their CBC measurements fit in the immune system
+
+In terms of the various distinctions, here is a simplified
+overview. For a more detailed breakdown of the various combinations of
+different distinctions, search `null` in the [Claude
+conversation](https://claude.ai/chat/bcbc2f76-5aee-4920-8479-06e85ceb6c0c),
+though the further refinement of one of the distinctions from 2 to 4
+sides is further down in the conversation; search `lymphatic system
+and microbiome`
+
+* Innate/natural immunity versus adaptive immunity: WBCs play a role
+  on both sides, with neutrophils being examples of innate immunity
+  and lymphocytes (B cells and T cells) being examples of adaptive
+  immunity.
+
+* Naive (respectively, untrained) immunity versus memory
+  (respectively, trained) immunity: WBCs play a role on both sides. On
+  the adaptive side, for B cells and T cells, there are both naive B
+  and T cells and memory B and T cells (from current or recent
+  infectious exposures). On the innate side, natural killer cells (NK
+  cells), a type of lymphocyte, as well as monocytes, exist in the
+  untrained immune system, but are epigenetically reprogrammed by
+  exposures, without being very specifically targeted to a particular
+  antigen.
+
+* Standing preparedness versus current activity: The level and
+  distribution of WBCs in the blood reflects some mix of standing
+  preparedness and current activity (fighting an infection, injury, or
+  insult). The standing preparedness component itself is influenced by
+  past exposures, per the above point.
+
+  Most of my CBC measurements were taken at a time when I did not have
+  any known infection or any recent significantly elevated
+  inflammation, injury, or insult. Therefore, my CBC measurements
+  reflect standing preparedness rather than current or recent activity
+  in the context of an exposure.
+
+* Cellular (cell-mediated) versus humoral immunity: WBCs are cells, so
+  their direct immune action is cellular. However, they are also
+  responsible for producing several compounds that play a role in
+  humoral immunity. Most notably, B cells have some direct
+  cell-mediated action but their primary function is humoral: they
+  produce antibodies that directly attack antigens. On the other hand,
+  T cells primarily act directly as cells.
+
+  CBC measurements only cover the cell counts, not the concentrations
+  of compounds that the WBCs produce. Separate tests can be done for
+  the plasma blood concentrations of these; most notable among these
+  is the quantitative immunoglobulin test.
+
+* Blood versus tissue versus lymphatic system versus microbiome: WBCs
+  primarily act in blood, but the compounds they produce, and in some
+  cases, the WBCs themselves, are also delivered to tissues.
+
+  CBC measurements of WBCs are measuring only their prevalence in blood,
+  rather than in tissues or the lymphatic system.
+
+TODO discuss total WBC levels across blood tests
+
+#### Neutrophils
+
+Neutrophils play the role of migrating quickly (a process known as
+extravasation) to a site of infection or inflammation, and once there,
+they carry out functions such as anti-microbial action and
+phagocytosis. They are ideal for fighting small pathogens such as
+bacteri and fungi non-adaptively (in other words, their action is not
+specific to a particular antigen).
+
+In terms of our classification:
+
+* Innate/natural immunity versus adaptive immunity: Natural immunity.
+
+* Untrained versus trained immunity: Untrained immunity; the main
+  training effect is on the level of neutrophils rather than their
+  structure.
+
+* Standing preparedness versus current activity: Both. Neutrophils are
+  the first line of defense against bacterial and fungal exposures, so
+  a baseline level in the blood is necessary. They also surge in
+  response to bacterial and fungal infections (the kind where they are
+  most helpful).
+
+* Cellular (cell-mediated) versus humoral immunity: Cellular
+
+* Blood versus tissue versus lymphatic system versus microbiome: The
+  standing preparedness is primarily in blood. However, in response to
+  local infection or inflammation of tissue, the current activity
+  spikes in the tissue -- the neutrophils migrate to the tissue to do
+  their job.
+
+Based on these characteristics, we should predict the following for
+CBC measurements, that are known to be cellular measurements in blood
+and reflective of standing preparedness:
+
+* Absolute neutrophil levels should reflect the general probability of
+  infectious exposure. In contexts where infectious exposures were low
+  over the past few months, absolute neutrophil levels should be on
+  the low end; in contexts where infectious exposures were high over
+  the past few months, absolute neutrophil levels should be on the
+  high end. With that said, values should not go so low as to be
+  outside the reference range, because some standing preparedness is
+  always desirable even with low recent infectious exposure.
+
+* Neutrophils should be a nontrivial part of the overall portfolio of
+  WBCs, usually half (50%) or more, as a matter of standing
+  preparedness. That's because they are a fast-acting first line of
+  defense, and play an important role in reducing the load enough,
+  giving the more adaptive parts of the system (B cells and T cells)
+  time and space to act.
+
+TODO pull in neutrophil levels and discuss them
+
+### Platelets: primary hemostasis
+
+TODO write a coagulation system primer and link to it from here.
 
 ## Lifestyle
 

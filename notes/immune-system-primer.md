@@ -58,7 +58,8 @@ primer.
   * Adaptive immunity is the specialized, highly-targeted,
     memory-building system tied to specific exposures.
 
-* Naive (respectively, untrained) immunity versus memory (respectively, trained) immunity:
+* Naive (respectively, untrained) immunity versus memory
+  (respectively, trained) immunity:
 
   * For adaptive immunity, we contrast naive immunity against memory
     immunity. Naive immunity is when there's a fresh exposure to an
@@ -131,7 +132,7 @@ primer.
     cell-mediated function (directly attacking the infected or
     cancerous cells).
 
-* Blood versus tissue versus lympathic system versus microbiome:
+* Blood versus tissue versus lymphatic system versus microbiome:
 
   * A lot of immunity operates directly within blood. In particular,
     the blood itself destroys antigens, keeping itself clean and
