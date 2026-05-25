@@ -2,6 +2,11 @@
 
 The execution log is [here](../logs/hearing-checklist-log.md).
 
+A [private Claude
+conversation](https://claude.ai/chat/0afeed5f-bc22-4411-9658-8426e77de3a3)
+helped inform several tweaks to the checklist after its initial
+construction, and was also a key input to the parking lot section.
+
 ## Quick things I should do in pieces every so often (ideally at least once every 10 days)
 
 ### Quick minimum audible volume and balance tests
@@ -292,3 +297,217 @@ Adjust volume through the test for what lets me hear best.
 - [ ] Bone conduction headphones, balanced (okay to press against skin)
 
 END OF SECTION: (3) Speech in noise test
+
+## Parking lot: potential tests that did not make it to the regular checklist
+
+### Sound localization tests
+
+Sound localization refers to the process of determining the location a
+sound is coming from. For sounds from moving sources, this can also be
+extended to the process of determining the movement trajectory of the
+sound source.
+
+#### The auditory, subcortical, and cortical techniques used for sound localization
+
+The purely auditory aspect of sound localization for stationary
+objects has two main pieces:
+
+* Interaural time differences (ITDs): Sound reaches the ears at
+  slightly different times, because of different distances from the
+  sound source to ears. This works best for low frequencies (below
+  about 1500-1700 Hz) since these frequencies can wrap around the head
+  (diffraction), so that the time difference between the ears is
+  indicative of the physical distance of the sound source from the two
+  ears. Also, particularly in the case of sounds that are uniform over
+  time, a lower frequency means a clearer phase difference that allows
+  the time difference to be calculated precisely; at higher
+  frequencies, the time difference is large enough to cover several
+  iterations of the sound wave, so that the phase difference doesn't
+  accurately capture the time difference.
+
+  1500-1700 Hz is roughly the frequency at which the wavelength of
+  sound equals the diameter of the head, which is the relevant
+  threshold for both the diffraction effect and phase-based
+  calculation to work.
+
+* Interaural level differences (ILDs): Sound reaches the ears at
+  different amplitudes and hence different perceived loudness. This
+  works best for high frequencies. These frequencies cannot diffract
+  around the head, which means that the "head shadow effect" operates
+  -- the ear opposite the sound doesn't get the sound directly from
+  the sound source because the head blocks delivery. Instead, it'll
+  usually get a fainter sound coming from diffraction in the air or
+  reflection off of other objects; such sound will be noticeably lower
+  in volume.
+
+  1500-1700 Hz is roughly the threshold at which ILD takes over from
+  ITD as the dominant method for localization. However, it's only at
+  frequencies above 8000 Hz that ILD starts shining.
+
+ITDs and ILDs are good for lateral sound localization -- is it coming
+from the left or the right, at what angle, and at what distance? The
+dorsal-ventral axis and superior-inferior axis are not directly
+well-covered by these, so head rotations as well as the pinna help
+with sound localization here.
+
+In addition to the purely auditory aspect of localization for
+stationary sound sources, there are two other sources of information
+in practice:
+
+* Doppler effects for moving sound sources: The brain can process
+  subtle frequency changes to estimate the direction and speed of
+  movement of a sound source , though sequential localization of the
+  sound source across time is still the main way that motion is
+  inferred.
+
+* Visual cues: There is a phenomenon of "visual capture" where, when
+  visual cues are present, they can override auditory cues. If both
+  are in agreement, that is great, but if they come apart, the visual
+  cues can mislead. Examples include ventiloquism and how it's easy to
+  believe that the sound in a video is coming from the mouths of the
+  people speaking.
+
+* Other information: The brain uses other information to infer a sound
+  source. For instance, gross localization might say that a sound is
+  coming from the right, but knowledge of a specific likely source for
+  that kind of sound that's roughly in the area might lead to a more
+  precise identification of the sound source.
+
+There are many other nuances, including reverb/echo correction (using
+subcortical techniques suchas the precedence effect), room acoustics
+learning (where reverb prediction in an environment gets better over
+time as one learns the environment better), and the challenge of
+dealing with sound diffracting in through doors and windows. These are
+covered more in the Claude conversation.
+
+#### Naturalistic sound localization
+
+A lot of day-to-day sound localization is helped by visual cues and
+other information. For instance, I know that the refrigerator hum
+comes from the refrigerator, so my ability to locate it precisely is
+not a proof of sound localization.
+
+The one day-to-day experience that tests my sound localization
+repeatedly in the real world: approaching intersections while walking,
+I usually already have a decent sense of whether there are any
+vehicles that are likely to be near the intersection by the time I
+arrive. This is a real-world test that involves localizing the source
+of sound, using volume and Doppler cues to determine whether the
+vehicle is moving toward or away from the intersection, and
+integrating all of this into an estimate of where things will be by
+the time I arrive. I am rarely surprised by vehicles suddenly emerging
+that I didn't expect, though the reverse mistake -- thinking there's
+an approaching vehicle but it's actually just getting into or out of
+parking, does happen from time to time. In any case, I think my
+real-world performance here is good enough.
+
+#### Potential sound localization test 1: spin and then determine orientation based on sound
+
+For this test, I spin around with eyes closed for several iterations
+till I don't know which way I am facing. I then use the sound coming
+into my ears to determine which way I am facing. Then I open my eyes
+and verify.
+
+Important gotchas:
+
+* I need to make sure there are no other direction-providing cues,
+  such as light level (even with eyes closed, this may be non-uniform
+  across directions, so I might need to do further light blocking with
+  my forearm) and floor or ground texture.
+
+* There should be enough sound with a known directional pattern that
+  using sound is a reliable way of inferring direction.
+
+This can be done indoors near a door or window withe enough outdoor
+noise, or outdoors near an intersection or road that provides sound in
+particular directions. Indoors is safer.
+
+#### Potential sound localization test 2: close eyes near an intersection and form a map of the surroundings based on sound
+
+Close eyes near a busy intersection; keep closed for a minute or so,
+then infer based on the sounds which way traffic is flowing, where the
+vehicles are, and what the traffic light situation is. Then open eyes
+and confirm. This has to be done outdoors but in a context where it's
+reasonably safe and not disruptive of other pedestrian traffic.
+
+#### Why I don't do these as regular checklist items
+
+There are several reasons:
+
+* I think my naturalistic sound localization practice is frequent
+  enough and high-stakes enough that I expect to get early feedback if
+  my gross localization skills deteriorate significantly. In
+  particular, predicting vehicles at intersections as I approach them
+  is something I do regularly insofar as I go jogging outdoors and
+  walk for shopping trips. I already log cases of road surprises, and
+  if auditory failure is a driver, I mention it in those logs.
+
+* I already have a fair amount of hearing checklist items geared at
+  specific frequencies, so for the most common path to localization
+  deterioration, namely, hearing loss at specific frequencies, I am
+  reasonably well-covered. In particular, the max frequency hearing
+  test is helpful for making sure I don't lose the ILD signals.
+
+* The particular sound localization tests are a bit awkward to do, and
+  even if I do do them, I don't gain a huge amount of quantifiable
+  insight that can meaningfully be compared across executions.
+
+#### Partial versions of these that I might do
+
+I might do partial versions of these while doing balance exercises,
+without doing them at full rigor.
+
+* Variants of potential sound localization test 1 might fit well with
+  balance exercises, such as [standing-on-one-leg-with-eyes-closed at
+  home](../profile-information/physical-exercise/standing-on-one-leg-with-eyes-closed-with-history.md), where I might in some cases lose balance, catch it, and not be
+  sure which way I am facing. A prediction based on sound before the
+  final balance loss and eye opening can help make use of the partial
+  balance loss to test sound localization.
+
+* Variants of potential sound localization test 2 might fit well with
+  standing-on-one-leg-with-eyes-closed with
+  shoes](../profile-information/physical-exercise/standing-on-one-leg-with-eyes-closed-with-shoes-with-history.md)
+  at intersections, where I try to predict based on the traffic sounds
+  whether the traffic light transition has happened.
+
+The partial versions differ from the full versions in three respects
+that pull in opposite directions:
+
+* I am focused on something else (balance) which means I can't devote
+  the entirety of my cognitive bandwidth to the sound localization
+  task.
+
+* The circumstances may not be ideal for detection. The partial
+  balance loss at home (mimicking test 1) relies on ambient sound
+  levels, which may not be that high or consistent in particular
+  directions, whereas for deliberate execution, I can use a fixed
+  sound cue like sound on laptop speakers or a phone placed in a
+  specific location. The balance exercise at intersections (mimicking
+  test 2) suffers from the problem that the traffic pattern at the
+  specific intersection may be too low to be ideal for test 2.
+
+* The circumstances are less controlled, so I might have more
+  hints. For instance, the partial balance loss situation at home
+  (mimicking test 1) is one where I haven't spun enough to lose
+  orientation memory fully. The balance exercises at intersections
+  (mimicking test 2) don't involve waiting long enough to lose my time
+  sense, so I am relying not just on sound localization but also my
+  memory on the signal state when I closed my eyes, plus how long I
+  think elapsed since then.
+
+#### What might make me do the full tests
+
+I might do the full tests for one of four reasons:
+
+* At a whim, just because I feel like it and have the time and energy
+  to spare.
+
+* In response to a partial test (of the sort mentioned above) flagging
+  a localization issue.
+
+* In response to naturalistic sound localization failures, such as not
+  identifying a car at an intersection as I walk up to it, or missing
+  the sound of a turning car near me.
+
+* In response to reductions in hearing ability, particularly at high
+  frequencies given their important role in sound localization.
