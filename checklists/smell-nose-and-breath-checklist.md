@@ -3,6 +3,11 @@
 The execution log is
 [here](../logs/smell-nose-and-breath-checklist-log.md).
 
+A [private Claude
+conversation](https://claude.ai/chat/0afeed5f-bc22-4411-9658-8426e77de3a3)
+helped inform several tweaks to the checklist after its initial
+construction, and was also a key input to the parking lot section.
+
 ## Checklist
 
 - [ ] Confirm that I have experienced at least one incident of pronounced smell gradient upon return to apartment (`psgurta` in Slack self-chat logs) in the past 3 months
@@ -15,8 +20,6 @@ The execution log is
 END OF CHECKLIST
 
 ## Parking lot: potential tests that did not make it to the regular checklist
-
-[Private Claude conversation with background discussion](https://claude.ai/chat/0afeed5f-bc22-4411-9658-8426e77de3a3)
 
 ### Quick sequence guidance on what to do if I suspect loss or distortion of smell
 
