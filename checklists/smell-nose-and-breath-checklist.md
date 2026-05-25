@@ -3,6 +3,8 @@
 The execution log is
 [here](../logs/smell-nose-and-breath-checklist-log.md).
 
+## Checklist
+
 - [ ] Confirm that I have experienced at least one incident of pronounced smell gradient upon return to apartment (`psgurta` in Slack self-chat logs) in the past 3 months
 - [ ] Confirm that I have been regularly sniffing condiments (turmeric, cumin, cinnamon, and cayenne pepper / red pepper) for meal preparations and have had success doing so
 - [ ] Confirm that I have been able to identify distinctive smells of fresh rice prep, potatoes prep, and eggplant meal prep
@@ -13,6 +15,8 @@ The execution log is
 END OF CHECKLIST
 
 ## Parking lot: potential tests that did not make it to the regular checklist
+
+[Private Claude conversation with background discussion](https://claude.ai/chat/0afeed5f-bc22-4411-9658-8426e77de3a3)
 
 ### Quick sequence guidance on what to do if I suspect loss or distortion of smell
 
