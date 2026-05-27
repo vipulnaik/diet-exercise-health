@@ -629,3 +629,9 @@ relatively safe skip. I did hand gripper exercises as usual.
 
 On Sunday 2026-05-24, I skipped hand gripper exercises and strength
 exercises to conserve time and energy. I did not skip jogging.
+
+## 2026-05-27: skipped jogging and strength exercises
+
+On Wednesday 2026-05-27, I skipped jogging and strength exercises to
+conserve time and energy. I did do hand gripper exercises and
+humming-with-intermittent-pauses as usual.
