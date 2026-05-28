@@ -635,3 +635,13 @@ exercises to conserve time and energy. I did not skip jogging.
 On Wednesday 2026-05-27, I skipped jogging and strength exercises to
 conserve time and energy. I did do hand gripper exercises and
 humming-with-intermittent-pauses as usual.
+
+## 2026-05-28: skipped all exercises
+
+On Thursday 2026-05-28, I skipped all exercises due to a time crunch
+imposed by the bunching up of personal chores on this day due to being
+extremely focused on day job work for the past three days (even though
+I did do cyclic personal chores with long time block commitment on two
+of the three days, one of these was a lower-priority item that was
+just chosen for fit with intense day job work, so the high-priority
+items had indeed bunched up).
