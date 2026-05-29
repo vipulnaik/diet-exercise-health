@@ -365,7 +365,18 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-05-28','Lundberg Sustainable California White Jasmine Rice',1,0),
   ('2026-05-28','Lundberg Sustainable California White Basmati Rice',1,0),
   ('2026-05-28','Kite Hill Unsweetened Plain Almond Milk Yogurt',2,0), /* count in receipt was 3 due to inclusion of greek style yogurt from next line */
-  ('2026-05-28','Kite Hill Greek Style Plant-Based Yogurt',1,0); /* this was billed as almond milk yogurt instead */
+  ('2026-05-28','Kite Hill Greek Style Plant-Based Yogurt',1,0), /* this was billed as almond milk yogurt instead */
+  /* 2026-05-28 (Thursday) Trader Joe's; total cost $41.71; checkout at 7:46 PM; paid by credit card; 19 items in transaction */
+  ('2026-05-28','Green bell pepper',4,1),
+  ('2026-05-28','Beefsteak tomato',5,1),
+  ('2026-05-28','Eggplant',1,1),
+  ('2026-05-28','Ezekiel Sprouted Flourless Tortillas',1,1),
+  ('2026-05-28','Red bell pepper',2,1),
+  ('2026-05-28','TJ Almond Milk',1,1),
+  ('2026-05-28','TJ Carrots',1,1),
+  ('2026-05-28','TJ Sauerkraut',1,1),
+  ('2026-05-28','TJ Kale',1,1),
+  ('2026-05-28','TJ Walnuts',2,1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
