@@ -645,3 +645,9 @@ I did do cyclic personal chores with long time block commitment on two
 of the three days, one of these was a lower-priority item that was
 just chosen for fit with intense day job work, so the high-priority
 items had indeed bunched up).
+
+## 2026-05-31: skipped all exercises
+
+On Sunday 2026-05-31, I skipped all exercises to conserve time and
+energy for meal prep and other personal chores after spending the
+morning and early afternoon on some day job work.
