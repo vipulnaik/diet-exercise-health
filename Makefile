@@ -42,9 +42,9 @@ reset_medical_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists length_measurements;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists pulse_oximeter_readings;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists stethoscope_heart_rate_measurements;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists supplements;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists test_results;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists test_sample_collections;"
-	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists supplements;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists vaccine_administrations;"
 
 .PHONY: read_medical_data
@@ -59,9 +59,9 @@ read_medical_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/length_measurements.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/pulse_oximeter_readings.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/stethoscope_heart_rate_measurements.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/supplements.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/test_sample_collections.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/test_results.sql
-	mysql $(MYSQL_ARGS) $(DATABASE) < sql/supplements.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/vaccine_administrations.sql
 
 .PHONY: verify_medical_data
