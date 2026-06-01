@@ -627,7 +627,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-22','TJ Sauerkraut',1,1,null,null),
   ('2026-05-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-05-23',2),
   /* 2026-05-23 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-05-23','Gold potatoes 5 lb',0.5,1,'2026-05-28',1),
+  ('2026-05-23','Gold potatoes 5 lb',0.55,1,'2026-05-28',1),
   ('2026-05-23','TJ Kale',1,1,'2026-05-28',1),
   ('2026-05-23','TJ English Shelled Peas',2,1,'2026-05-28',1),
   ('2026-05-23','Beefsteak tomato',3,1,'2026-05-28',1), /* constrained by space in pot */
@@ -657,5 +657,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-30','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-05-30','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
-  ('2026-05-30','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null);
+  ('2026-05-30','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
+  /* 2026-05-31 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-05-31','Gold potatoes 5 lb',0.45,1,null,null),
+  ('2026-05-31','TJ Kale',1,1,null,null),
+  ('2026-05-31','TJ English Shelled Peas',2,1,null,null),
+  ('2026-05-31','Beefsteak tomato',6,1,null,null); /* constrained by space in pot */
   /* Double-check the date and meal index before committing */
