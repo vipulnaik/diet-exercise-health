@@ -651,3 +651,8 @@ items had indeed bunched up).
 On Sunday 2026-05-31, I skipped all exercises to conserve time and
 energy for meal prep and other personal chores after spending the
 morning and early afternoon on some day job work.
+
+## 2026-06-01: skipped jogging and strength exercises
+
+On Monday 2026-06-01, I skipped jogging and strength exercises as I
+got delayed due to some day job work.
