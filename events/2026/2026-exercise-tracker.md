@@ -656,3 +656,8 @@ morning and early afternoon on some day job work.
 
 On Monday 2026-06-01, I skipped jogging and strength exercises as I
 got delayed due to some day job work.
+
+## 2026-06-05: skipped all exercises
+
+On Friday 2026-06-05, I skipped all exercises to make time for
+personal chores while also tackling a few small day job items.
