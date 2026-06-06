@@ -649,7 +649,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-28','Red bell pepper',2,2,'2026-06-04',2),
   ('2026-05-28','Beefsteak tomato',7,2,'2026-06-04',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-05-28','TJ Almond Milk',1,2,null,null),
+  ('2026-05-28','TJ Almond Milk',1,2,'2026-06-05',1),
   ('2026-05-28','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-05-30',1),
   ('2026-05-29','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-05-30',2),
   ('2026-05-29','TJ Walnuts',1,2,'2026-06-02',1),
@@ -671,7 +671,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-06-03 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-06-03','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-06-03','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null),
+  ('2026-06-03','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-06-05',1),
   ('2026-06-04','TJ Sauerkraut',1,1,null,null),
-  ('2026-06-04','TJ Roasted Seaweed',1,2,null,null);
+  ('2026-06-04','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-06-05','TJ Almond Milk',1,1,null,null),
+  ('2026-06-05','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
