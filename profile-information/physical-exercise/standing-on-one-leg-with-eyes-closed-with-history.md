@@ -11,7 +11,7 @@ For the with-shoes variant of this exercise, see
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 110 seconds (with adjustments for colder temperatures and retries)
+### Maintain standing-on-one-leg-with-eyes-closed for at least 115 seconds (with adjustments for colder temperatures and retries)
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -24,16 +24,16 @@ According to
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
 (average of 18.3 seconds). As somebody in my late 30s / early 40s (as
-of 2026), my threshold is at least 110 seconds per leg with
+of 2026), my threshold is at least 115 seconds per leg with
 adjustments for colder temperatures and retries, and I usually clear
 the threshold on the first attempt.
 
 At this point, it's not clear that increasing the duration has
 real-world effects either in practice or in theory,so my plan is to
-sustain the minimum of 110 seconds for
+sustain the minimum of 115 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
 up. Time considerations make it dificult to push the threshold too far
-up, even if I am eventually able to do clearly over 110 seconds.
+up, even if I am eventually able to do clearly over 115 seconds.
 
 In late 2025, I switched to doing these exercises along with rice
 prep, and multiplexed with listening to stuff, so the time is
@@ -42,9 +42,9 @@ said, the multiplexing is efficient only if I don't spend a *lot* of
 time standing on one leg and I don't have to do multiple repeat tries.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 110 seconds over a
+that I've increased the threshold from 10 seconds to 115 seconds over a
 period of about 2.5 years, I think just being able to maintain
-at 110 seconds should be good enough.
+at 115 seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
 exercises, such as
@@ -72,13 +72,17 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 110 seconds with adjustments for colder temperatures and retries)
+### Threshold duration (currently 115 seconds with adjustments for colder temperatures and retries)
 
-Starting 2026-03-29, the threshold duration is as follows:
+Starting 2026-06-07, the threshold duration is as follows:
 
-* Baseline thresholds are as follows for the first five tries: 110
-  seconds, 90 seconds, 75 seconds, 65 seconds, and 60 seconds. I stop
-  at the try where I exceed the baseline threshold for that try.
+* Baseline thresholds are as follows for the first five tries: 115
+  seconds, 94 seconds, 77 seconds, 64 seconds, and 55 seconds. I stop
+  at the try where I exceed the baseline threshold for that try. The
+  sequence of thresholds is a quadratic sequence with initial first
+  difference of -21 seconds and constant second difference of 4
+  seconds (the second difference being constant and nonzero is what
+  makes it a quadratic sequence).
 
 * If the indoor temperature at time of exercise is 68 degrees
   Fahrenheit (20 degrees Celsius) or higher, no adjustment. If the
@@ -100,8 +104,7 @@ on that attempt. The maximum number of attempts is 5.
 NOTE: Prior to 2026-03-29, I was using the same threshold across
 attempts. On 2026-03-29, I switched to a descending sequence of
 attempt-specific thresholds. The sequence is chosen as a quadratic
-sequence; the initial sequence has a difference of differences of 5
-seconds. The first try threshold represents what I should be able to
+sequence. The first try threshold represents what I should be able to
 achieve in a good starting state without fatigue, and the fifth try
 threshold represents what I should be able to achieve even adverse
 conditions.
@@ -181,6 +184,7 @@ original baseline (before 2023-10-28) |  10 |   N/A | N/A | unavailable
 2025-11-11 |  90 | 3/C = 1.67/F | N/A | 13
 2025-12-25 | 100 | 3.6/C =  2/F | N/A | 4
 2026-03-29 | 110 | 3.6/C =  2/F | -20, 5 | 12 (a lot of these were redo rounds on the left leg; if limited to both-leg rounds the number falls to 7)
+2026-06-07 | 115 | 3.6/C =  2/F | -21, 4 | 4
 
 A few key insights that can be gleaned from the table:
 

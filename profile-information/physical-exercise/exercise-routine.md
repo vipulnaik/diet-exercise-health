@@ -206,7 +206,7 @@ balance.
 When I do this exercise, I do one round standing on the right leg, and
 one round standing on the left leg.
 
-As of March 2026, my aim is to be able to manage at least 110
+As of June 2026, my aim is to be able to manage at least 115
 seconds on each leg, with adjustments for colder indoor temperatures
 and retries. I usually succeed on the first try.
 
