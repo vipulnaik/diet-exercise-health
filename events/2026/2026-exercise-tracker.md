@@ -667,3 +667,9 @@ personal chores while also tackling a few small day job items.
 On Saturday 2026-06-06, I skipped all exercises to be able to fit meal
 prep after working on day job stuff in the morning and early
 afternoon.
+
+## 2026-06-07: skipped strength exercises
+
+On Sunday 2026-06-07, I skipped strength exercises, even though they
+were due, because of fatigue and heat exhaustion after indoor jogging
+and a desire to conserve time and energy for chores.
