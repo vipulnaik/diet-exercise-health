@@ -661,3 +661,9 @@ got delayed due to some day job work.
 
 On Friday 2026-06-05, I skipped all exercises to make time for
 personal chores while also tackling a few small day job items.
+
+## 2026-06-06: skipped all exercises
+
+On Saturday 2026-06-06, I skipped all exercises to be able to fit meal
+prep after working on day job stuff in the morning and early
+afternoon.
