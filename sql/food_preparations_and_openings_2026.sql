@@ -676,5 +676,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-04','TJ Roasted Seaweed',1,2,null,null),
   ('2026-06-05','TJ Almond Milk',1,1,null,null),
   ('2026-06-05','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null),
-  ('2026-06-05','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-06-05','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  /* 2026-06-06 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-06-06','Green bell pepper',4,1,null,null),
+  ('2026-06-06','TJ Kale',1,1,null,null),
+  ('2026-06-06','TJ Carrots',1,1,null,null),
+  ('2026-06-06','Red bell pepper',4,1,null,null),
+  ('2026-06-06','Beefsteak tomato',7,1,null,null);
   /* Double-check the date and meal index before committing */
