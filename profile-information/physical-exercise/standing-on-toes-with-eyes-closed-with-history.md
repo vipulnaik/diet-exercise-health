@@ -2,7 +2,7 @@
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-toes-with-eyes-closed duration at at least 125 seconds
+### Maintain standing-on-toes-with-eyes-closed duration at at least 130 seconds
 
 The ability to sustain weight on toes is important for balance, as we
 lift off from our toes, and when jogging, we are lifting off from the
@@ -12,11 +12,11 @@ raises the stakes so as to get more bang per second of exercise.
 When I started standing-on-toes-with-eyes-closed on 2024-09-09, I set
 a threshold of 15 seconds. Even this threshold, I was not able to
 consistently clear on the first try, leading to me doing 3 or 5 tries
-on many days. As of 2026-03-24 the first attempt threshold (that I aim
-to hit most of the time on the first attempt) is 125 seconds.
+on many days. As of 2026-06-07 the first attempt threshold (that I aim
+to hit most of the time on the first attempt) is 130 seconds.
 
 I don't have standard benchmarks for this, but I think a threshold of
-125 seconds is reasonable and I don't have plans to increase the
+130 seconds is reasonable and I don't have plans to increase the
 threshold, though if my performance continues to improve organically,
 I may increase the threshold further.
 
@@ -38,15 +38,16 @@ I may increase the threshold further.
 My goal is to keep trying (up to 5 attempts) until I clear the
 attempt-specific threshold on at least one attempt.
 
-The sequence of attempt-specific thresholds is as follows: 125 seconds
-for the first try, 105 seconds for the second try, 90 seconds for the
-third try, 80 seconds for the fourth try, and 75 seconds for the fifth
-try. The sequence was chosen to be a quadratic sequence whose
-difference of differences is 5 seconds. The first try threshold of 125
-seconds represents what I should be able to achieve in a good starting
-state without fatigue, and the fifth try threshold of 75 seconds
-represents what I should be able to achieve even under adverse
-conditions.
+The sequence of attempt-specific thresholds is as follows: 130 seconds
+for the first try, 109 seconds for the second try, 92 seconds for the
+third try, 79 seconds for the fourth try, and 70 seconds for the fifth
+try. The sequence of thresholds is a quadratic sequence with initial
+first difference of -21 seconds and constant second difference of 4
+seconds (the second difference being constant and nonzero is what
+makes it a quadratic sequence). The first try threshold of 130 seconds
+represents what I should be able to achieve in a good starting state
+without fatigue, and the fifth try threshold of 70 seconds represents
+what I should be able to achieve even under adverse conditions.
 
 ## Triggers for overall exercise
 
@@ -77,6 +78,7 @@ Date of change | Baseline threshold duration (seconds) | Retry adjustment (secon
 2025-12-28 | 105 | N/A | 1
 2026-02-24 | 115 | N/A | 5
 2026-03-24 | 125 | -20, 5 | 1
+2026-06-07 | 130 | -21, 4 | 10
 
 A few key insights that can be gleaned from the table:
 

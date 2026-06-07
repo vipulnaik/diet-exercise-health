@@ -82,7 +82,11 @@ Starting 2026-06-07, the threshold duration is as follows:
   sequence of thresholds is a quadratic sequence with initial first
   difference of -21 seconds and constant second difference of 4
   seconds (the second difference being constant and nonzero is what
-  makes it a quadratic sequence).
+  makes it a quadratic sequence). The first try threshold of 115
+  seconds represents what I should be able to achieve in a good
+  starting state without fatigue, and the fifth try threshold of 55
+  seconds represents what I should be able to achieve even under
+  adverse conditions.
 
 * If the indoor temperature at time of exercise is 68 degrees
   Fahrenheit (20 degrees Celsius) or higher, no adjustment. If the
