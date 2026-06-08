@@ -78,7 +78,7 @@ Date of change | Baseline threshold duration (seconds) | Retry adjustment (secon
 2025-12-28 | 105 | N/A | 1
 2026-02-24 | 115 | N/A | 5
 2026-03-24 | 125 | -20, 5 | 1
-2026-06-07 | 130 | -21, 4 | 10
+2026-06-07 | 130 | -21, 4 | 10 (4 of these were redo rounds on two days, both of which were days where my first round succeeded on the second attempt)
 
 A few key insights that can be gleaned from the table:
 
