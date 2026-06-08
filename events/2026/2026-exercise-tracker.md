@@ -673,3 +673,11 @@ afternoon.
 On Sunday 2026-06-07, I skipped strength exercises, even though they
 were due, because of fatigue and heat exhaustion after indoor jogging
 and a desire to conserve time and energy for chores.
+
+## 2026-06-08: truncated jogging and skipped strength exercises due to time constraints
+
+On Monday 2026-06-08, I shortened my at-home jogging and skipped
+strength exercises to be able to more effectively participate in a
+work meeting (the meeting is typically one where I just listen in, but
+the topics this time were ones that called for more active
+participation that was not compatible with exercise).
