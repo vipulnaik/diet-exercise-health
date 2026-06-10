@@ -681,3 +681,13 @@ strength exercises to be able to more effectively participate in a
 work meeting (the meeting is typically one where I just listen in, but
 the topics this time were ones that called for more active
 participation that was not compatible with exercise).
+
+## 2026-06-10: reduced at-home jogging due to fatigue and to shorten time to meal
+
+On Wednesday 2026-06-10, I did at-home jogging for a reduced duration
+(a little under 20 minutes). This was both because of heat-related
+fatigue and exhaustion (the indoor temperature was 82 degrees
+Fahrenheit) and for scheduling reasons: I wanted to have my meal a
+little sooner, and finishing jogging earlier meant not just saving the
+remaining jogging time but also less waiting time between the end of
+jogging and when I could start my meal.
