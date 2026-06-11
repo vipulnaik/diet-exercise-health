@@ -95,3 +95,10 @@ purchases. After being done, I dropped by at Imm Thai Street Food to
 pick up the order. Both the Imm Thai Street Food purchase and the
 Trader Joe's purchase are recorded
 [here](../../sql/food_purchases_2026.sql).
+
+## 2026-06-10
+
+On Wednesday 2026-06-10, on the way to Trader Joe's, I stopped at the
+downtown Berkeley BART to check my Clipper card and top up its balance
+by $20. After I was done, I headed to Trader Joe's for my usual food
+purchases, that I recorded [here](../../sql/food_purchases_2026.sql).
