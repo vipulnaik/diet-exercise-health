@@ -691,3 +691,8 @@ Fahrenheit) and for scheduling reasons: I wanted to have my meal a
 little sooner, and finishing jogging earlier meant not just saving the
 remaining jogging time but also less waiting time between the end of
 jogging and when I could start my meal.
+
+## 2026-06-11: skipped all exercises
+
+On Thursday 2026-06-11, I skipped all exercises due to being behind on
+several things.
