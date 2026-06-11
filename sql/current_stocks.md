@@ -2,14 +2,14 @@
 |----------------------------------------------------|-----------------------------------|-------------------------------------------|
 | Beefsteak tomato                                   |                            5.0000 |                                    7.0000 |
 | Eggplant                                           |                            0.0000 |                                    0.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            2.0000 |                                    0.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            1.0000 |                                    1.0000 |
 | Gold potatoes 5 lb                                 |                            1.0000 |                                    0.0000 |
 | Green bell pepper                                  |                            0.0000 |                                    4.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
 | Kite Hill Greek Style Plant-Based Yogurt           |                            4.0000 |                                    1.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
-| Lundberg Sustainable California White Basmati Rice |                            6.0000 |                                    1.0000 |
+| Lundberg Sustainable California White Basmati Rice |                            6.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            4.0000 |                                    0.0000 |
 | Morton Iodized Sea Salt                            |                            0.0000 |                                    1.0000 |
 | Orange bell pepper                                 |                            0.0000 |                                    0.0000 |
@@ -28,7 +28,7 @@
 | TJ Kale                                            |                            1.0000 |                                    1.0000 |
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
 | TJ Miso Ginger Broth                               |                            1.0000 |                                    1.0000 |
-| TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
+| TJ Roasted Seaweed                                 |                            2.0000 |                                    0.0000 |
 | TJ Sauerkraut                                      |                            1.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            4.0000 |                                    1.0000 |
 | TJ Walnuts                                         |                            8.0000 |                                    1.0000 |
