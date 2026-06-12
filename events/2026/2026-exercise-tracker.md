@@ -696,3 +696,10 @@ jogging and when I could start my meal.
 
 On Thursday 2026-06-11, I skipped all exercises due to being behind on
 several things.
+
+## 2026-06-12: reduced at-home jogging and skipped strength exercises
+
+On Friday 2026-06-12, due primarily to heat-related exhaustion and
+general fatigue, I did reduced at-home jogging (for about 14 minutes
+compared to the usual 30+ minutes) and skipped strength exercises. The
+indoor temperature was about 82 degrees Fahrenheit.
