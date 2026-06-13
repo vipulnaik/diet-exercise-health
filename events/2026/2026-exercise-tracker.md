@@ -703,3 +703,12 @@ On Friday 2026-06-12, due primarily to heat-related exhaustion and
 general fatigue, I did reduced at-home jogging (for about 14 minutes
 compared to the usual 30+ minutes) and skipped strength exercises. The
 indoor temperature was about 82 degrees Fahrenheit.
+
+## 2026-06-13: skipped all exercises
+
+On Saturday 2026-06-13, I skipped all exercises due to a long day job
+work session to bring a lengthy project to a logical point. While I
+could in theory have fitted in exercises, these would have gotten in
+the way of readjusting my sleep schedule to earlier after a lot of
+disruption in the past few days wrought directly and indirectly by the
+project.
