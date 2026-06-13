@@ -674,7 +674,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-03','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-06-05',1),
   ('2026-06-04','TJ Sauerkraut',1,1,null,null),
   ('2026-06-04','TJ Roasted Seaweed',1,2,'2026-06-10',2),
-  ('2026-06-05','TJ Almond Milk',1,1,null,null),
+  ('2026-06-05','TJ Almond Milk',1,1,'2026-06-12',1),
   ('2026-06-05','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-06-06',2),
   ('2026-06-05','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-06-06',2),
   /* 2026-06-06 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
@@ -703,5 +703,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-11','TJ Roasted Seaweed',1,2,null,null),
   ('2026-06-11','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
   /* 2026-06-12 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-06-12','Lundberg Sustainable California White Basmati Rice',1,1,null,null);
+  ('2026-06-12','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-06-12','TJ Almond Milk',1,1,null,null);
   /* Double-check the date and meal index before committing */
