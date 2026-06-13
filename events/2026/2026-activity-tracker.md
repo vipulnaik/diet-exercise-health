@@ -102,3 +102,8 @@ On Wednesday 2026-06-10, on the way to Trader Joe's, I stopped at the
 downtown Berkeley BART to check my Clipper card and top up its balance
 by $20. After I was done, I headed to Trader Joe's for my usual food
 purchases, that I recorded [here](../../sql/food_purchases_2026.sql).
+
+## 2026-06-12
+
+On Friday 2026-06-12, I made a trip to the Amazon Hub Locker as ASUC
+Berkeley to pick up a few packages.
