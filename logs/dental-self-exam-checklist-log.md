@@ -712,3 +712,14 @@ Notes:
 * The floss pick pressure test passed, with time to near-full recovery
   about 5 minutes, and the interdental gaps on the maxillary left
   incisors and canine taking the most time to recover.
+
+## 2026-06-14 (past midnight from 2026-06-13) (off-cycle squeaky clean teeth test)
+
+I did the squeaky clean teeth test right after the end-of-day brushing
+of teeth, and the test passed.
+
+All facial surfaces except the mandibular central incisors and
+mandibular right lateral incisor had the squeak, with the squeaking
+most prominent when moving the fingertip horizontally (medial to
+lateral or vice versa). So did a few of the lingual surfaces,
+primarily the maxillary non-incisor teeth.
