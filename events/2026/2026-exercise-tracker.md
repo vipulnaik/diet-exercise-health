@@ -712,3 +712,8 @@ could in theory have fitted in exercises, these would have gotten in
 the way of readjusting my sleep schedule to earlier after a lot of
 disruption in the past few days wrought directly and indirectly by the
 project.
+
+## 2026-06-15: skipped all exercises
+
+On Monday 2026-06-15, I skipped all exercises in order to fit a Trader
+Joe's trip as well as meal prep within the day.
