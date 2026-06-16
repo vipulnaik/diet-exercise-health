@@ -22,7 +22,7 @@
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
 | TJ Carrots                                         |                            0.0000 |                                    1.0000 |
 | TJ Cinnamon                                        |                            0.0000 |                                    1.0000 |
-| TJ Cumin                                           |                            3.0000 |                                    1.0000 |
+| TJ Cumin                                           |                            3.0000 |                                    0.0000 |
 | TJ English Shelled Peas                            |                            0.0000 |                                    2.0000 |
 | TJ Green Lentils                                   |                            0.0000 |                                    0.0000 |
 | TJ Kale                                            |                            0.0000 |                                    2.0000 |
