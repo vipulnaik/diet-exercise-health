@@ -689,7 +689,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-07','Lundberg Sustainable California White Basmati Rice',1,1,'2026-06-10',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-06-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-06-09',2),
-  ('2026-06-08','TJ Miso Ginger Broth',1,2,null,null),
+  ('2026-06-08','TJ Miso Ginger Broth',1,2,'2026-06-15',1),
   ('2026-06-09','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-06-11',2),
   ('2026-06-10','TJ Walnuts',1,1,'2026-06-14',1),
   ('2026-06-10','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-06-11',2),
@@ -708,5 +708,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-12','TJ Almond Milk',1,1,null,null),
   ('2026-06-13','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-06-14',1),
   ('2026-06-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-06-14','TJ Walnuts',1,1,null,null);
+  ('2026-06-14','TJ Walnuts',1,1,null,null),
+  ('2026-06-15','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
