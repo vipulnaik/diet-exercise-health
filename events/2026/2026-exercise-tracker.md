@@ -717,3 +717,10 @@ project.
 
 On Monday 2026-06-15, I skipped all exercises in order to fit a Trader
 Joe's trip as well as meal prep within the day.
+
+## 2026-06-16: skipped strength exercises
+
+On Tuesday 2026-06-16, I skipped strength exercises. This was in order
+to conserve time and move my schedule to earlier, and also because an
+alert meant I could not do strength exercises *immediately* after
+jogging.
