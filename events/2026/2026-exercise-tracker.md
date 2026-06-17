@@ -724,3 +724,9 @@ On Tuesday 2026-06-16, I skipped strength exercises. This was in order
 to conserve time and move my schedule to earlier, and also because an
 alert meant I could not do strength exercises *immediately* after
 jogging.
+
+## 2026-06-17: skipped jogging and strength exercises
+
+On Wednesday 2026-06-17, I skipped jogging and strength exercises as I
+got delayed after attending to some work stuff. I did do hand gripper
+exercises as usual.
