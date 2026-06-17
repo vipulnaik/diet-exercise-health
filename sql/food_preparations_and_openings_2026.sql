@@ -694,16 +694,16 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-10','TJ Walnuts',1,1,'2026-06-14',1),
   ('2026-06-10','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-06-11',2),
   /* 2026-06-11 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-06-11','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2026-06-11','TJ Kale',1,2,null,null),
-  ('2026-06-11','TJ English Shelled Peas',2,2,null,null),
-  ('2026-06-11','Beefsteak tomato',5,2,null,null), /* stock down to 0 */
+  ('2026-06-11','Gold potatoes 5 lb',0.5,2,'2026-06-16',2),
+  ('2026-06-11','TJ Kale',1,2,'2026-06-16',2),
+  ('2026-06-11','TJ English Shelled Peas',2,2,'2026-06-16',2),
+  ('2026-06-11','Beefsteak tomato',5,2,'2026-06-16',2), /* stock down to 0 */
   /* new bottle/packet openings as the old ones finished */
   ('2026-06-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-06-13',1),
   ('2026-06-11','TJ Roasted Seaweed',1,2,null,null),
   ('2026-06-11','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-06-13',2),
   /* 2026-06-12 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-06-12','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  ('2026-06-12','Lundberg Sustainable California White Basmati Rice',1,1,'2026-06-16',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-06-12','TJ Almond Milk',1,1,null,null),
   ('2026-06-13','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-06-14',1),
@@ -719,5 +719,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-15','Beefsteak tomato',7,2,null,null), /* stock down to 0; pot almost but not completely full */
   /* new bottle/packet openings as the old ones finished */
   ('2026-06-15','TJ Miso Ginger Broth',1,2,null,null),
-  ('2026-06-16','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-06-16','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-06-16','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
