@@ -514,7 +514,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-04-26 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-04-26','Lundberg Sustainable California White Jasmine Rice',1,1,'2026-04-29',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-04-26','TJ Turmeric',1,1,null,null),
+  ('2026-04-26','TJ Turmeric',1,1,'2026-06-17',2), /* opened with 2026-04-26 rice prep, finished with 2026-06-17 rice prep */
   ('2026-04-26','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-27',2),
   ('2026-04-26','TJ Walnuts',1,2,'2026-04-30',1),
   ('2026-04-28','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-04-29',1),
@@ -720,5 +720,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-06-15','TJ Miso Ginger Broth',1,2,null,null),
   ('2026-06-16','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-06-16','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-06-17',1);
+  ('2026-06-16','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-06-17',1),
+  /* 2026-06-17 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2026-06-17','Lundberg Sustainable California White Jasmine Rice',1,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-06-17','TJ Cumin',1,2,null,null); /* opened with 2026-06-17 rice prep */
   /* Double-check the date and meal index before committing */
