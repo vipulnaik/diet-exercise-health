@@ -730,3 +730,9 @@ jogging.
 On Wednesday 2026-06-17, I skipped jogging and strength exercises as I
 got delayed after attending to some work stuff. I did do hand gripper
 exercises as usual.
+
+## 2026-06-19: skipped all exercises
+
+On Friday 2026-06-19, I skipped all exercises in order to fit a Trader
+Joe's trip in the afternoon and preserve time for meal prep later in
+the day.
