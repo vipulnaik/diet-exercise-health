@@ -28,7 +28,7 @@
 | TJ Kale                                            |                            1.0000 |                                    1.0000 |
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
 | TJ Miso Ginger Broth                               |                            2.0000 |                                    1.0000 |
-| TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
+| TJ Roasted Seaweed                                 |                            1.0000 |                                    1.0000 |
 | TJ Sauerkraut                                      |                            1.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            4.0000 |                                    0.0000 |
 | TJ Walnuts                                         |                            6.0000 |                                    1.0000 |
