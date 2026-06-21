@@ -727,8 +727,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-17','TJ Cumin',1,2,null,null), /* opened with 2026-06-17 rice prep */
   ('2026-06-18','TJ Sauerkraut',1,1,null,null),
   ('2026-06-18','TJ Walnuts',1,1,null,null),
-  ('2026-06-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-06-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-06-20',1),
   ('2026-06-19','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
   ('2026-06-19','TJ Almond Milk',1,1,null,null),
-  ('2026-06-19','TJ Roasted Seaweed',1,2,null,null);
+  ('2026-06-19','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-06-20','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
