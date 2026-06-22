@@ -736,3 +736,10 @@ exercises as usual.
 On Friday 2026-06-19, I skipped all exercises in order to fit a Trader
 Joe's trip in the afternoon and preserve time for meal prep later in
 the day.
+
+## 2026-06-22: skipped jogging
+
+On Monday 2026-06-22, I skipped jogging. This was due to a schedule
+overrun with a work meeting. I did do hand gripper exercises and
+humming with intermittent pauses. Strength exercises were not due on
+this day.
