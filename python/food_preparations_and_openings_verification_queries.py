@@ -98,7 +98,7 @@ queries = [
       ((completion_date_1 , completion_meal_index_1) = ('2025-07-07',2) and (preparation_or_opening_date_2, meal_index_2) = ('2025-07-07',1)) or
       ((completion_date_1 , completion_meal_index_1) = ('2025-07-24',2) and (preparation_or_opening_date_2, meal_index_2) = ('2025-07-24',1)) or
       (food_type in ('Red bell pepper','Green bell pepper') and preparation_or_opening_date_2 in ('2025-08-03','2026-01-10','2026-01-14','2026-01-19','2026-01-23')) or
-      (food_type = 'TJ Carrots' and preparation_or_opening_date_2 in ('2025-09-14','2026-04-20')) or
+      (food_type = 'TJ Carrots' and preparation_or_opening_date_2 in ('2025-09-14','2026-04-20','2026-06-20')) or
       (food_type = 'Roma tomato' and preparation_or_opening_date_2 = '2026-05-09')
     );""",
 
