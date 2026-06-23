@@ -743,3 +743,8 @@ On Monday 2026-06-22, I skipped jogging. This was due to a schedule
 overrun with a work meeting. I did do hand gripper exercises and
 humming with intermittent pauses. Strength exercises were not due on
 this day.
+
+## 2026-06-23: skipped all exercises
+
+On Tuesday 2026-06-23, I skipped all exercises. This was to conserve
+time for stuff later in the day.
