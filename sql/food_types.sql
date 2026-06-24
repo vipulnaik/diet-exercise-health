@@ -953,9 +953,11 @@ insert into food_types(short_name, long_name, broad_food_type, notes) values
   /* Tuk Tuk Thai */
   ('Tuk Tuk Thai jasmine rice','Tuk Tuk Thai jasmine rice','White rice','I had this by takeout once when I was feeling unwell and needed rice, but didn''t have a stock of rice and didn''t want to incur the time cost of buying + cooking rice.'),
   /* Imm Thai Street Food */
-  ('Imm Thai Street Food yellow curry tofu','Imm Thai Street Food yellow curry tofu','Thai restaurant food','I had this special combination at a dine-in I did, sharing with another person, at Imm Thai Street Food.'),
-  ('Imm Thai Street Food spicy eggplant tofu','Imm Thai Street Food spicy eggplant tofu','Thai restaurant food','I had this special combination at a dine-in I did, sharing with another person, at Imm Thai Street Food.'),
+  ('Imm Thai Street Food yellow curry tofu','Imm Thai Street Food yellow curry tofu','Thai restaurant food','I get this as takeout sometimes, and have also had this as part of a dine-in at least once.'),
+  ('Imm Thai Street Food spicy eggplant tofu','Imm Thai Street Food spicy eggplant tofu','Thai restaurant food','I had this as part of a dine-in at least once.'),
   ('Imm Thai Street Food white rice','Imm Thai Street Food white rice','White rice','There is free white rice accompanying Imm Thai Street Food curries and dishes.'),
+  /* Mr. East Kitchen */
+  ('Mr. East Kitchen Veggie Pho','Mr. East Kitchen Veggie Pho','Vietnamese restaurant food','I had this as a dine-in once.'),
   /* Pakwan */
   ('Pakwan meal set','Pakwan meal set (dal, chana aloo, aloo sag, mixed veg curry)','Indian restaurant food','I sometimes order this meal combination when I''m on a trip to San Francisco and have time to order takeout from Pakwan.'),
   ('Pakwan basmati rice','Pakwan basmati rice','White rice','On at least one occasion where I ordered takeout from Pakwan, I included basmati rice in the takeout. I didn''t do so on other occasions.'),
