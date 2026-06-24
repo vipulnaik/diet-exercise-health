@@ -433,7 +433,7 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-06-19','TJ Sauerkraut',1,0),
   ('2026-06-19','TJ Carrots',1,0),
   ('2026-06-19','Beefsteak tomato',6,0),
-  /* 2026-06-23 (Tuesday) Mr. East Kitchen dine-in; checkout at 9:04 PM; paid by credit card */
+  /* 2026-06-23 (Tuesday) Mr. East Kitchen dine-in; total cost $27.67 (more than the cost of my specific item as we split the total bill evenly); checkout at 9:04 PM; paid by credit card */
   ('2026-06-23','Mr. East Kitchen Veggie Pho',1,1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
