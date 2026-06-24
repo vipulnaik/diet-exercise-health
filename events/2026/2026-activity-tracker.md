@@ -107,3 +107,9 @@ purchases, that I recorded [here](../../sql/food_purchases_2026.sql).
 
 On Friday 2026-06-12, I made a trip to the Amazon Hub Locker as ASUC
 Berkeley to pick up a few packages.
+
+## 2026-06-23
+
+On Tuesday 2026-06-23, in the evening, I made a trip to San Francisco
+where I had dinner with a few friends (including work colleagues) at
+Mr. East Kitchen.
