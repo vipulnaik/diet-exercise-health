@@ -434,7 +434,16 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-06-19','TJ Carrots',1,0),
   ('2026-06-19','Beefsteak tomato',6,0),
   /* 2026-06-23 (Tuesday) Mr. East Kitchen dine-in; total cost $27.67 (more than the cost of my specific item as we split the total bill evenly); checkout at 9:04 PM; paid by credit card */
-  ('2026-06-23','Mr. East Kitchen Veggie Pho',1,1);
+  ('2026-06-23','Mr. East Kitchen Veggie Pho',1,1),
+  /* 2026-06-24 (Wednesday) Trader Joe's; total cost $39.69; checkout at 7:38 PM; paid by credit card; 21 items in transaction */
+  ('2026-06-24','Ezekiel Sprouted Flourless Tortillas',1,1),
+  ('2026-06-24','TJ Walnuts',2,1),
+  ('2026-06-24','TJ Kale',1,1),
+  ('2026-06-24','TJ Carrots',1,1),
+  ('2026-06-24','TJ Roasted Seaweed',1,1),
+  ('2026-06-24','Red bell pepper',4,1), /* extra since there was no eggplant */
+  ('2026-06-24','Beefsteak tomato',7,1),
+  ('2026-06-24','Green bell pepper',4,1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
