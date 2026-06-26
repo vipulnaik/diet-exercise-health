@@ -750,5 +750,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-06-23 Mr. East Kitchen dine-in */
   ('2026-06-23','Mr. East Kitchen Veggie Pho',1,2,'2026-06-23',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-06-24','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-06-24','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-06-25','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
