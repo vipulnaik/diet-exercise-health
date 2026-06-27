@@ -748,3 +748,9 @@ this day.
 
 On Tuesday 2026-06-23, I skipped all exercises. This was to conserve
 time for stuff later in the day.
+
+## 2026-06-26: skipped all exercises
+
+On Friday 2026-06-26, I skipped all exercises. This was because I had
+a lot of day job items to catch up on in the early afternoon, after
+which I proceeded to do meal prep.
