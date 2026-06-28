@@ -7,7 +7,7 @@
 | Green bell pepper                                  |                            0.0000 |                                    4.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
-| Kite Hill Greek Style Plant-Based Yogurt           |                            2.0000 |                                    1.0000 |
+| Kite Hill Greek Style Plant-Based Yogurt           |                            1.0000 |                                    1.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Basmati Rice |                            5.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            3.0000 |                                    1.0000 |
@@ -18,7 +18,7 @@
 | Roma tomato                                        |                            0.0000 |                                    0.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
-| TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
+| TJ Almond Milk                                     |                            0.0000 |                                    1.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
 | TJ Carrots                                         |                            0.0000 |                                    1.0000 |
