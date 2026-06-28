@@ -745,7 +745,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-06-22 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-06-22','Lundberg Sustainable California White Basmati Rice',1,2,'2026-06-26',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-06-23','TJ Walnuts',1,1,null,null),
+  ('2026-06-23','TJ Walnuts',1,1,'2026-06-27',2),
   ('2026-06-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-06-24',2),
   /* 2026-06-23 Mr. East Kitchen dine-in */
   ('2026-06-23','Mr. East Kitchen Veggie Pho',1,2,'2026-06-23',2),
@@ -764,5 +764,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-27','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-06-27','TJ Almond Milk',1,1,null,null),
-  ('2026-06-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-06-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-06-27','TJ Walnuts',1,2,null,null);
   /* Double-check the date and meal index before committing */
