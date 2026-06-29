@@ -754,3 +754,10 @@ time for stuff later in the day.
 On Friday 2026-06-26, I skipped all exercises. This was because I had
 a lot of day job items to catch up on in the early afternoon, after
 which I proceeded to do meal prep.
+
+## 2026-06-29: skipped all exercises
+
+On Monday 2026-06-29, I skipped all exercises. This was to make time
+for a Trader Joe's trip in the early afternoon, leaving the later
+afternoon/evening open for other chores, while also fitting in a few
+time-sensitive day job items in the morning.
