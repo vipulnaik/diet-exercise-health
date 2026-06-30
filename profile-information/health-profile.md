@@ -1933,7 +1933,7 @@ of blood cells.
 ### Red blood cells (RBCs): gas exchange
 
 Before proceeding, it's helpful to brush up using the [blood gas
-transport primer](../notes/blood-gas-transport-primer.md) that has
+transport primer](../primers/blood-gas-transport-primer.md) that has
 specifically been designed by me for me to get more from the loose
 high school biology level (that I am very likely to remember coming
 into it) to a level of sophistication that is adequate as a foundation
@@ -2011,7 +2011,7 @@ shape of RBCs or other factors (such as bleeding).
 
 For more on how low Hgb affects oxygen extraction rate by tissues and
 delivery to tissues, see the [blood gas transport
-primer](../notes/blood-gas-transport-primer.md). For a deeper dive
+primer](../primers/blood-gas-transport-primer.md). For a deeper dive
 into what various combinations of MCHC, MCV, and RBC count values
 mean, look up diagnostic flowcharts for anemia; [this Ninja Nerd
 video](https://www.youtube.com/watch?v=MRzxsX5YG94) is a good overview.
@@ -2171,7 +2171,7 @@ A few general notes:
 ### White blood cells (WBCs): immune function
 
 Before proceeding, it's helpful to brush up using the [immune system
-primer](../notes/immune-system-primer.md) that provides a summary of
+primer](../primers/immune-system-primer.md) that provides a summary of
 high-level distinctions within immunity.
 
 #### Where WBCs and their CBC measurements fit in the immune system

@@ -206,12 +206,19 @@ respective specializations.
   specific exceptions to general conditions, and these vary by person
   and circumstance.
 
+* [Primers](primers): This includes primers on various health topics
+  and adjacent material in biomechanics or physiology. This is
+  material that is not specific to my situation; however, it is still
+  personal content in the sense that both the assumed prerequisites
+  and the level it's trying to get to are determined by my background
+  and needs. This folder was split out from the `notes` folder on
+  2026-06-30.
+
 * [Notes](notes): This is a catch-all folder for files that do not fit
   into any of the other categories. These include things like the
-  overall health TODO list, primers on various health topics and
-  adjacent material in biomechanics or physiology, notes on health
-  learning strategy, and additional notes on various health strategies
-  that go beyond what is reasonable to include in the health profile.
+  overall health TODO list, notes on health learning strategy, and
+  additional notes on various health strategies that go beyond what is
+  reasonable to include in the health profile.
 
   Update policy: I try to keep the TODO list reasonably up-to-date,
   but the document can depart from reality at exactly the times that I
@@ -228,12 +235,12 @@ respective specializations.
   Additional note: This is often the source subfolder for new
   subfolders, as it accumulates files before I have a clear concept of
   a subfolder to organize the files into. For instance, I imagine I
-  might eventually make a separate subfolder for `primers`,
-  `strategy`, or `todo`, and if so, I'll be moving files out from
-  `notes` into it. Thus, `notes` plays the role of a staging ground
-  for things that may or may not eventually become their own
-  subfolder. As discussed further down, `notes` was the source
-  subfolder for the `events` and `profile-information` subfolders.
+  might eventually make a separate subfolder for `strategy`, or
+  `todo`, and if so, I'll be moving files out from `notes` into
+  it. Thus, `notes` plays the role of a staging ground for things that
+  may or may not eventually become their own subfolder. As discussed
+  further down, `notes` was the source subfolder for the `events` and
+  `profile-information` subfolders.
 
 Beyond the usefulness of individual content, the organization of
 content itself may be useful to others wondering how to organize their

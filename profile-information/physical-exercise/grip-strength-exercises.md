@@ -60,7 +60,7 @@ primary on normal force.
 
 For a a general background around force production versus force
 tolerance / transmission, see the [biomechanics
-primer](../../notes/biomechanics-primer.md).
+primer](../../primers/biomechanics-primer.md).
 
 Grip strength is largely about force production -- how much force I
 can produce through my own muscles in each han.
