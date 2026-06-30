@@ -91,7 +91,7 @@ read_food_preparations_and_openings_and_associated: read_food_preparations_and_o
 reset_food_purchases_and_associated: reset_food_purchases_data
 
 .PHONY: read_food_purchases_and_associated
-read_food_purchases_and_associated: read_food_purchases_data estimate_current_stocks verify_food_purchases_data verify_current_stocks
+read_food_purchases_and_associated: read_food_purchases_data estimate_current_stocks verify_food_purchases_data verify_current_stocks print_quantity_purchased_today
 
 .PHONY: verify_food
 verify_food: verify_food_metadata verify_food_data
@@ -212,3 +212,7 @@ estimate_current_stocks:
 .PHONY: verify_current_stocks
 verify_current_stocks:
 	python3 python/current_stocks_verification_queries.py
+
+.PHONY: print_quantity_purchased_today
+print_quantity_purchased_today:
+	mysql $(MYSQL_ARGS) $(DATABASE) -t -e "select sum(quantity) from food_purchases where purchase_date = curdate();"
