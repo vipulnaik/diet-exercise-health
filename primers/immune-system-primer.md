@@ -26,8 +26,10 @@ as a foundation for digging into things like:
 ## Source information
 
 The primer was mostly constructed based on a small subset of the
-material covered in the [blood flow deep dive Claude
-conversation](https://claude.ai/chat/bcbc2f76-5aee-4920-8479-06e85ceb6c0c). I
+material covered in the (private) [blood flow deep dive Claude
+conversation](https://claude.ai/chat/bcbc2f76-5aee-4920-8479-06e85ceb6c0c)
+(the link is included for my own reference for future work on the
+primer and digging deeper; it won't work for other readers). I
 cross-checked anything that felt fishy against Google Search AI mode
 and/or Wikipedia, and also spot-checked a few things that didn't feel
 fishy.
@@ -118,6 +120,16 @@ primer.
     produced by WBCs. For instance, a specific type of WBC may produce
     a specific class of immunoglobulins.
 
+    A note on the term "antibody" and its relationship with
+    immunoglobulin. Antibodies are the same class of compounds as
+    immunoglobulins. The term "antibody" is used when discussing the
+    relationship to the thing the immunoglobulin attacks (the
+    antigen); for instance, "antibodies against the flu virus". The
+    term "immunoglobulin" is used more often when thinking of the
+    compounds and their structure. It's also worth noting that all
+    immunoglobulins are proteins, but the antigens they attack are not
+    always proteins; there can be antibodies to other macromolecules.
+
   * But many of the cells are also capable of acting as cells -- using
     their shape, binding capabilities, and other physical properties
     -- to execute some of their immune functions.
@@ -128,9 +140,9 @@ primer.
     kind of white blood cell. Both these kinds of cells have both
     cell-mediated and humoral immune functions. But B cells are
     primarily known for their humoral immune function (the production
-    of antibodies) and T cells are primarily known for their
-    cell-mediated function (directly attacking the infected or
-    cancerous cells).
+    of antibodies aka immunoglobulins) and T cells are primarily known
+    for their cell-mediated function (directly attacking the infected
+    or cancerous cells).
 
 * Blood versus tissue versus lymphatic system versus microbiome:
 
