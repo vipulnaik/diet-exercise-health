@@ -761,3 +761,10 @@ On Monday 2026-06-29, I skipped all exercises. This was to make time
 for a Trader Joe's trip in the early afternoon, leaving the later
 afternoon/evening open for other chores, while also fitting in a few
 time-sensitive day job items in the morning.
+
+## 2026-07-01: skipped all exercises
+
+On Wednesday 2026-07-01, I skipped all exercises. This was due to
+fatigue from the previous day, plus a packed schedule of stuff I
+needed to catch up on on the personal chores front due to the huge
+amount of day job work I did the previous day.
