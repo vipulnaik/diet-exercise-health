@@ -450,7 +450,10 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-06-29','TJ Kale',1,0),
   ('2026-06-29','TJ Carrots',1,0),
   ('2026-06-29','TJ Turmeric',1,0),
-  ('2026-06-29','Beefsteak tomato',10,0);
+  ('2026-06-29','Beefsteak tomato',10,0),
+  /* 2026-07-01 (Wednesday) Berkeley Bowl; total cost $77.10; checkout at 4:04 PM; paid by credit card; 12 items in transaction (billed incorrectly as 13) of which 3 were Seventh Generation dish soap bottles, so only 9 food items */
+  ('2026-07-01','Lundberg Sustainable California White Basmati Rice',2,0),
+  ('2026-07-01','Kite Hill Greek Style Plant-Based Yogurt',7,0); /* I was billed incorrectly for 8 */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
