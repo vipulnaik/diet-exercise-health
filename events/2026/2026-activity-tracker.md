@@ -113,3 +113,9 @@ Berkeley to pick up a few packages.
 On Tuesday 2026-06-23, in the evening, I made a trip to San Francisco
 where I had dinner with a few friends (including work colleagues) at
 Mr. East Kitchen.
+
+## 2026-07-02
+
+On Thursday 2026-07-02, in the evening, I made a trip to the Amazon
+Hub Locker at ASUC Berkeley to pick up a few packages. On the way
+back, I stopped at Walgreens for a quick purchase.
