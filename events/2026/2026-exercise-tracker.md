@@ -775,3 +775,11 @@ On Thursday 2026-07-02, I skipped all exercises. This was due to being
 delayed by a mix of day job stuff and Fable testing, but also not
 wanting to compound the delay further since I was behind on a bunch of
 personal chores items.
+
+## 2026-07-03: skipped all exercises
+
+On Friday 2026-07-03, I skipped all exercises. The week had been very
+busy with time-sensitive day job items, and I was finally free of
+them, but fairly behind on personal chores. Therefore, I reluctantly
+decided to skip all exercises in order to be able to fit more personal
+chores in the day and generally catch up on the backlog.
