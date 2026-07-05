@@ -7,7 +7,7 @@
 | Green bell pepper                                  |                            4.0000 |                                    4.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
-| Kite Hill Greek Style Plant-Based Yogurt           |                            5.0000 |                                    1.0000 |
+| Kite Hill Greek Style Plant-Based Yogurt           |                            5.0000 |                                    0.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Basmati Rice |                            6.0000 |                                    1.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            3.0000 |                                    0.0000 |
@@ -18,7 +18,7 @@
 | Roma tomato                                        |                            0.0000 |                                    0.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
-| TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
+| TJ Almond Milk                                     |                            0.0000 |                                    1.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
 | TJ Carrots                                         |                            1.0000 |                                    2.0000 |
@@ -28,7 +28,7 @@
 | TJ Green Lentils                                   |                            0.0000 |                                    0.0000 |
 | TJ Kale                                            |                            1.0000 |                                    2.0000 |
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
-| TJ Miso Ginger Broth                               |                            1.0000 |                                    0.0000 |
+| TJ Miso Ginger Broth                               |                            0.0000 |                                    1.0000 |
 | TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
 | TJ Sauerkraut                                      |                            1.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            4.0000 |                                    1.0000 |
