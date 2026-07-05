@@ -753,11 +753,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-24','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-06-26',1),
   ('2026-06-25','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-06-27',1),
   /* 2026-06-26 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-06-26','Green bell pepper',4,1,null,null),
-  ('2026-06-26','TJ Kale',1,1,null,null),
-  ('2026-06-26','TJ Carrots',1,1,null,null),
-  ('2026-06-26','Red bell pepper',4,1,null,null),
-  ('2026-06-26','Beefsteak tomato',7,1,null,null),
+  ('2026-06-26','Green bell pepper',4,1,'2026-07-04',2),
+  ('2026-06-26','TJ Kale',1,1,'2026-07-04',2),
+  ('2026-06-26','TJ Carrots',1,1,'2026-07-04',2),
+  ('2026-06-26','Red bell pepper',4,1,'2026-07-04',2),
+  ('2026-06-26','Beefsteak tomato',7,1,'2026-07-04',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-06-26','TJ Miso Ginger Broth',1,1,'2026-07-03',2),
   /* 2026-06-27 rice prep (first meal) (added turmeric, cumin, salt) */
@@ -783,5 +783,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-03','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-04',1),
   ('2026-07-03','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
   ('2026-07-04','TJ Miso Ginger Broth',1,1,null,null),
-  ('2026-07-04','TJ Almond Milk',1,1,null,null);
+  ('2026-07-04','TJ Almond Milk',1,1,null,null),
+  /* 2026-07-04 eggplant meal prep (WITHOUT THE EGGPLANT!) (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-07-04','Green bell pepper',4,2,null,null),
+  ('2026-07-04','TJ Kale',1,2,null,null),
+  ('2026-07-04','TJ Carrots',1,2,null,null),
+  ('2026-07-04','Red bell pepper',4,2,null,null),
+  ('2026-07-04','Beefsteak tomato',7,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-07-04','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */

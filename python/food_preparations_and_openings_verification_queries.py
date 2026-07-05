@@ -98,7 +98,7 @@ queries = [
       ((completion_date_1 , completion_meal_index_1) = ('2025-07-07',2) and (preparation_or_opening_date_2, meal_index_2) = ('2025-07-07',1)) or
       ((completion_date_1 , completion_meal_index_1) = ('2025-07-24',2) and (preparation_or_opening_date_2, meal_index_2) = ('2025-07-24',1)) or
       (food_type in ('Red bell pepper','Green bell pepper') and preparation_or_opening_date_2 in ('2025-08-03','2026-01-10','2026-01-14','2026-01-19','2026-01-23')) or
-      (food_type = 'TJ Carrots' and preparation_or_opening_date_2 in ('2025-09-14','2026-04-20','2026-06-20')) or
+      (food_type = 'TJ Carrots' and preparation_or_opening_date_2 in ('2025-09-14','2026-04-20','2026-06-20','2026-06-29')) or
       (food_type = 'Roma tomato' and preparation_or_opening_date_2 = '2026-05-09')
     );""",
 
@@ -139,7 +139,7 @@ queries = [
     "select * from food_preparations_and_openings where food_type in ('Eggplant','TJ Kale','TJ Carrots','TJ Broccoli Florets 12 oz') and not (quantity between 0.85 and 1) and not ((food_type, preparation_or_opening_date) in (('Eggplant','2025-08-01')));",
 
     # I should generally do 2 at a time, though exceptions are possible
-    "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date in ('2024-09-08','2024-11-20','2025-01-01','2025-01-07','2025-06-22','2025-08-01','2025-08-03','2026-06-06','2026-06-26') or preparation_or_opening_date between '2025-04-10' and '2025-05-02');",
+    "select * from food_preparations_and_openings where food_type = 'Red bell pepper' and quantity != 2 and not (preparation_or_opening_date in ('2024-09-08','2024-11-20','2025-01-01','2025-01-07','2025-06-22','2025-08-01','2025-08-03','2026-06-06','2026-06-26','2026-07-04') or preparation_or_opening_date between '2025-04-10' and '2025-05-02');",
 
     # I should generally do 2 or 3 at a time, though exceptions are possible
     "select * from food_preparations_and_openings where food_type = 'TJ English Shelled Peas' and not (quantity in (2,3)) and not (preparation_or_opening_date in ('2024-09-07','2024-09-19','2024-09-30','2024-11-25','2026-05-07'));",
