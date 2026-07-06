@@ -723,3 +723,22 @@ mandibular right lateral incisor had the squeak, with the squeaking
 most prominent when moving the fingertip horizontally (medial to
 lateral or vice versa). So did a few of the lingual surfaces,
 primarily the maxillary non-incisor teeth.
+
+## 2026-07-06 (past midnight from 2026-07-05) (off-cycle floss pick pressure testing)
+
+On Monday 2026-07-06, shortly past midnight from Sunday 2026-07-05,
+right after finishing rinsing and floss pick flossing, I did a round
+of floss pick pressure testing with a new floss pick.
+
+A lot of areas were slightly tender (i.e., the pain wasn't purely
+mechanical but also reflected slight irritation) but within the range
+of expectation. The pain subsided completely within about 5 to 6
+minutes after I finished the testing. The mandibular incisor
+interdental gaps were the last to recover, which is partly because
+they were tested toward the end, but they also had a longer gap
+between being tested and recovering.
+
+There was no bleeding or pain after the initial recovery. There may
+have been a small amount of blood in my spit right after the pressure
+testing; it was hard to distinguish from other things that might
+thicken the saliva.
