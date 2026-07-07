@@ -783,3 +783,9 @@ busy with time-sensitive day job items, and I was finally free of
 them, but fairly behind on personal chores. Therefore, I reluctantly
 decided to skip all exercises in order to be able to fit more personal
 chores in the day and generally catch up on the backlog.
+
+## 2026-07-07: skipped all exercises
+
+On Tuesday 2026-07-07, I skipped all exercises. This was because of a
+long morning / early afternoon session dealing with a bunch of items
+related to the day job.
