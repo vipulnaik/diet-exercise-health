@@ -726,7 +726,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-17','Lundberg Sustainable California White Jasmine Rice',1,2,'2026-06-22',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-06-17','TJ Cumin',1,2,null,null), /* opened with 2026-06-17 rice prep */
-  ('2026-06-18','TJ Sauerkraut',1,1,null,null),
+  ('2026-06-18','TJ Sauerkraut',1,1,'2026-07-06',1),
   ('2026-06-18','TJ Walnuts',1,1,'2026-06-22',2),
   ('2026-06-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-06-20',1),
   ('2026-06-19','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-06-21',1),
@@ -769,17 +769,17 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-06-30',2),
   ('2026-06-29','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-01',1),
   /* 2026-06-29 potatoes prep (second meal) (REPLACED PEAS WITH CARROTS for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-06-29','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2026-06-29','TJ Kale',1,2,null,null),
-  ('2026-06-29','TJ Carrots',1,2,null,null),
-  ('2026-06-29','Beefsteak tomato',3,2,null,null), /* limited by space in pot */
+  ('2026-06-29','Gold potatoes 5 lb',0.5,2,'2026-07-06',1),
+  ('2026-06-29','TJ Kale',1,2,'2026-07-06',1),
+  ('2026-06-29','TJ Carrots',1,2,'2026-07-06',1),
+  ('2026-06-29','Beefsteak tomato',3,2,'2026-07-06',1), /* limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
   ('2026-06-30','TJ Roasted Seaweed',1,2,null,null),
   ('2026-07-01','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-02',2),
   /* 2026-07-01 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-07-01','Lundberg Sustainable California White Basmati Rice',1,2,'2026-07-05',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-02','TJ Walnuts',1,1,null,null),
+  ('2026-07-02','TJ Walnuts',1,1,'2026-07-06',1),
   ('2026-07-03','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-04',1),
   ('2026-07-03','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-07-05',1),
   ('2026-07-04','TJ Miso Ginger Broth',1,1,null,null),
