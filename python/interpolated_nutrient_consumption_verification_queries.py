@@ -64,7 +64,7 @@ queries = [
     "select daily_saturated_fat_in_grams_avg from nutrient_consumption_in_recent_week where daily_saturated_fat_in_grams_avg > 15;",
 
     # protein I bound from below and above in grams based on an upper estimate of my body weight
-    "select daily_protein_in_grams_avg from nutrient_consumption_in_recent_week where daily_protein_in_grams_avg < 0.9 * 58 or daily_protein_in_grams_avg > 2.1 * 58;",
+    "select daily_protein_in_grams_avg from nutrient_consumption_in_recent_week where daily_protein_in_grams_avg < 0.9 * 58 or daily_protein_in_grams_avg > 2.1 * 58;  -- dig deeper: select food_type, daily_quantity_avg, daily_protein_in_grams_avg from food_and_nutrient_consumption_in_recent_week order by daily_protein_in_grams_avg desc;",
 
     "select daily_oxalate_in_mg_avg from nutrient_consumption_in_recent_week where daily_oxalate_in_mg_avg > 150; -- dig deeper: select food_type, daily_quantity_avg, daily_oxalate_in_mg_avg from food_and_nutrient_consumption_in_recent_week order by daily_oxalate_in_mg_avg desc;",
 
