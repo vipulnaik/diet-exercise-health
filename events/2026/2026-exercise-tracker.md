@@ -789,3 +789,9 @@ chores in the day and generally catch up on the backlog.
 On Tuesday 2026-07-07, I skipped all exercises. This was because of a
 long morning / early afternoon session dealing with a bunch of items
 related to the day job.
+
+## 2026-07-08: skipped all exercises
+
+On Wednesday 2026-07-08, I skipped all exercises. This was because of
+a long informal catch-up meeting with work colleagues spread across
+the morning and early afternoon.
