@@ -774,7 +774,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-29','TJ Carrots',1,2,'2026-07-06',1),
   ('2026-06-29','Beefsteak tomato',3,2,'2026-07-06',1), /* limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-06-30','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-06-30','TJ Roasted Seaweed',1,2,'2026-07-08',2),
   ('2026-07-01','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-02',2),
   /* 2026-07-01 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-07-01','Lundberg Sustainable California White Basmati Rice',1,2,'2026-07-05',2),
@@ -795,7 +795,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-07-06 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-07-06','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-06','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-07-06','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-08',2),
   ('2026-07-06','TJ Walnuts',1,2,null,null),
-  ('2026-07-07','TJ Sauerkraut',1,1,null,null);
+  ('2026-07-07','TJ Sauerkraut',1,1,null,null),
+  ('2026-07-08','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-07-08','TJ Roasted Seaweed',1,2,null,null);
   /* Double-check the date and meal index before committing */
