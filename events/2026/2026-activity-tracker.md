@@ -118,4 +118,10 @@ Mr. East Kitchen.
 
 On Thursday 2026-07-02, in the evening, I made a trip to the Amazon
 Hub Locker at ASUC Berkeley to pick up a few packages. On the way
-back, I stopped at Walgreens for a quick purchase.
+back, I stopped at Walgreens (at 2801 Adeline St) for a quick
+purchase.
+
+## 2026-07-08
+
+On Wednesday 2026-07-08, in the evening, I made a trip to the
+Walgreens at 2801 Adeline St for toiletries purchases.
