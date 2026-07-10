@@ -795,3 +795,9 @@ related to the day job.
 On Wednesday 2026-07-08, I skipped all exercises. This was because of
 a long informal catch-up meeting with work colleagues spread across
 the morning and early afternoon.
+
+## 2026-07-09: skipped all exercises
+
+On Thursday 2026-07-09, I skipped all exercises. This was because of a
+long morning / early afternoon session dealing with a bunch of items
+related to the day job.
