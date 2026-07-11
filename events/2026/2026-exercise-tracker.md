@@ -801,3 +801,11 @@ the morning and early afternoon.
 On Thursday 2026-07-09, I skipped all exercises. This was because of a
 long morning / early afternoon session dealing with a bunch of items
 related to the day job.
+
+## 2026-07-10: skipped strength exercises
+
+On Friday 2026-07-10, after three days of skipping all exercises, I
+was overdue to do strength exercises. However, due to a mix of time
+constraints and general fatigue, I decided to skip strength
+exercises. I did hand gripper exercises and indoor jogging (as well as
+standing-on-one-leg-with-eyes-open exercises accompanying rice prep).
