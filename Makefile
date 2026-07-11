@@ -215,4 +215,4 @@ verify_current_stocks:
 
 .PHONY: print_quantity_purchased_today
 print_quantity_purchased_today:
-	mysql $(MYSQL_ARGS) $(DATABASE) -t -e "select sum(quantity) from food_purchases where purchase_date = curdate();"
+	mysql $(MYSQL_ARGS) $(DATABASE) -t -e "select sum(quantity) from food_purchases where purchase_date = date(date_add(curtime(), interval -5 hour));"
