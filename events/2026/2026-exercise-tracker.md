@@ -809,3 +809,8 @@ was overdue to do strength exercises. However, due to a mix of time
 constraints and general fatigue, I decided to skip strength
 exercises. I did hand gripper exercises and indoor jogging (as well as
 standing-on-one-leg-with-eyes-open exercises accompanying rice prep).
+
+## 2026-07-11: skipped all exercises
+
+On Saturday 2026-07-11, I skipped all exercises since I was out of
+cooked vegetables and needed to fit in cooking before my first meal.
