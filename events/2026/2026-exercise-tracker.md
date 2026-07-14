@@ -814,3 +814,10 @@ standing-on-one-leg-with-eyes-open exercises accompanying rice prep).
 
 On Saturday 2026-07-11, I skipped all exercises since I was out of
 cooked vegetables and needed to fit in cooking before my first meal.
+
+## 2026-07-14: skipped all exercises except an off-cycle exercise
+
+On Tuesday 2026-07-14, in order to catch up with a huge cyclic
+personal chores backlog, I skipped all exercises except the
+humming-with-intermittent-pauses exercise that I was executing
+off-cycle to investigate and address recent performance regression.
