@@ -7,7 +7,7 @@
 | Green bell pepper                                  |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
-| Kite Hill Greek Style Plant-Based Yogurt           |                            0.0000 |                                    1.0000 |
+| Kite Hill Greek Style Plant-Based Yogurt           |                            0.0000 |                                    0.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Basmati Rice |                            5.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            2.0000 |                                    1.0000 |
@@ -30,7 +30,7 @@
 | TJ Kale                                            |                            0.0000 |                                    1.0000 |
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
 | TJ Miso Ginger Broth                               |                            1.0000 |                                    1.0000 |
-| TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
+| TJ Roasted Seaweed                                 |                            1.0000 |                                    1.0000 |
 | TJ Sauerkraut                                      |                            1.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            4.0000 |                                    1.0000 |
 | TJ Walnuts                                         |                            5.0000 |                                    1.0000 |
