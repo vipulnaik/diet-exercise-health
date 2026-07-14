@@ -129,3 +129,28 @@ exercises.
 I updated the protocol to include the 1 in 24 round that I have
 recently started doing in practice. I also noted that I might skip the
 rounds for 1 in 16 in case of time constraints.
+
+### 2026-07 regression
+
+As of 2026-07-14, over the past few months, my frequency of doing the
+exercise has been about 2 or 3 times a month, compared to the ideal of
+once every 9 days -- the shortfall is due to the effect of skipping
+exercise due to time constraints.
+
+I have also had slight throat dryness and soreness, which is generally
+not enough to be functionally noticeable for normal work. I suspect
+this might be due to several long morning / early afternoon sessions
+leading to a delay in when I first ate food, causing a kind of learned
+soreness response.
+
+My performance on 2026-07-13 was concerningly poor, with some trouble
+even doing the 16:1 completely at the beginning before I drank
+water. The previous exercise run was on 2026-06-22, where 32:1
+performance was normal but I had cough/phlegm issues that got in the
+way of completion.
+
+Based on this concerning trend, I've decided to do the exercise more
+frequently for a few weeks and monitor my performance to see if it
+returns to normal. I also plan to crack down on late morning / early
+afternoon sessions in the hope that the overall throat dryness /
+soreness improves.
