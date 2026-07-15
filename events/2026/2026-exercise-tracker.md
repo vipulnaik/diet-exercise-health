@@ -821,3 +821,11 @@ On Tuesday 2026-07-14, in order to catch up with a huge cyclic
 personal chores backlog, I skipped all exercises except the
 humming-with-intermittent-pauses exercise that I was executing
 off-cycle to investigate and address recent performance regression.
+
+## 2026-07-15: skipped jogging and strength exercises
+
+On Wednesday 2026-07-15, I skipped jogging and strength exercises. My
+original plan had been to do meal prep prior to my first meal, so I
+didn't start jogging, but a few items related to the day job ended up
+using a large share of my early afternoon time so I ended up deferring
+meal prep.
