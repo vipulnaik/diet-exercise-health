@@ -1,10 +1,10 @@
 | food_type                                          | unopened_stock_at_estimation_time | partially_opened_stock_at_estimation_time |
 |----------------------------------------------------|-----------------------------------|-------------------------------------------|
-| Beefsteak tomato                                   |                            3.0000 |                                    4.0000 |
-| Eggplant                                           |                            0.0000 |                                    0.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    1.0000 |
+| Beefsteak tomato                                   |                           10.0000 |                                    4.0000 |
+| Eggplant                                           |                            1.0000 |                                    0.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            2.0000 |                                    1.0000 |
 | Gold potatoes 5 lb                                 |                            0.0000 |                                    0.4700 |
-| Green bell pepper                                  |                            0.0000 |                                    0.0000 |
+| Green bell pepper                                  |                            4.0000 |                                    0.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
 | Kite Hill Greek Style Plant-Based Yogurt           |                            6.0000 |                                    1.0000 |
@@ -14,26 +14,26 @@
 | Morton Iodized Sea Salt                            |                            0.0000 |                                    1.0000 |
 | Mr. East Kitchen Veggie Pho                        |                            0.0000 |                                    0.0000 |
 | Orange bell pepper                                 |                            0.0000 |                                    0.0000 |
-| Red bell pepper                                    |                            0.0000 |                                    0.0000 |
+| Red bell pepper                                    |                            2.0000 |                                    0.0000 |
 | Roma tomato                                        |                            0.0000 |                                    0.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
-| TJ Almond Milk                                     |                            0.0000 |                                    1.0000 |
+| TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
 | TJ Broccoli Florets 12 oz                          |                            0.0000 |                                    1.0000 |
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
-| TJ Carrots                                         |                            0.0000 |                                    0.0000 |
+| TJ Carrots                                         |                            1.0000 |                                    0.0000 |
 | TJ Cinnamon                                        |                            0.0000 |                                    1.0000 |
 | TJ Cumin                                           |                            2.0000 |                                    1.0000 |
 | TJ English Shelled Peas                            |                            0.0000 |                                    0.0000 |
 | TJ Green Lentils                                   |                            0.0000 |                                    0.0000 |
-| TJ Kale                                            |                            0.0000 |                                    1.0000 |
+| TJ Kale                                            |                            1.0000 |                                    1.0000 |
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
-| TJ Miso Ginger Broth                               |                            1.0000 |                                    1.0000 |
-| TJ Roasted Seaweed                                 |                            1.0000 |                                    1.0000 |
+| TJ Miso Ginger Broth                               |                            2.0000 |                                    1.0000 |
+| TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
 | TJ Sauerkraut                                      |                            1.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            4.0000 |                                    1.0000 |
-| TJ Walnuts                                         |                            5.0000 |                                    0.0000 |
+| TJ Walnuts                                         |                            7.0000 |                                    0.0000 |
 | TJ Whole Wheat Pita Bread                          |                            0.0000 |                                    0.0000 |
 | Trader Giotto's Olive Oil                          |                            2.0000 |                                    1.0000 |
 | Udupi Palace spinach masala dosa                   |                            0.0000 |                                    0.0000 |
