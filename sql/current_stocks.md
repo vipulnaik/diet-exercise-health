@@ -1,9 +1,9 @@
 | food_type                                          | unopened_stock_at_estimation_time | partially_opened_stock_at_estimation_time |
 |----------------------------------------------------|-----------------------------------|-------------------------------------------|
-| Beefsteak tomato                                   |                           10.0000 |                                    4.0000 |
+| Beefsteak tomato                                   |                           10.0000 |                                    0.0000 |
 | Eggplant                                           |                            1.0000 |                                    0.0000 |
 | Ezekiel Sprouted Flourless Tortillas               |                            2.0000 |                                    1.0000 |
-| Gold potatoes 5 lb                                 |                            0.0000 |                                    0.4700 |
+| Gold potatoes 5 lb                                 |                            0.0000 |                                    0.0000 |
 | Green bell pepper                                  |                            4.0000 |                                    0.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
@@ -20,14 +20,14 @@
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
 | TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
-| TJ Broccoli Florets 12 oz                          |                            0.0000 |                                    1.0000 |
+| TJ Broccoli Florets 12 oz                          |                            0.0000 |                                    0.0000 |
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
 | TJ Carrots                                         |                            1.0000 |                                    0.0000 |
 | TJ Cinnamon                                        |                            0.0000 |                                    1.0000 |
 | TJ Cumin                                           |                            2.0000 |                                    1.0000 |
 | TJ English Shelled Peas                            |                            0.0000 |                                    0.0000 |
 | TJ Green Lentils                                   |                            0.0000 |                                    0.0000 |
-| TJ Kale                                            |                            1.0000 |                                    1.0000 |
+| TJ Kale                                            |                            1.0000 |                                    0.0000 |
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
 | TJ Miso Ginger Broth                               |                            2.0000 |                                    1.0000 |
 | TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
