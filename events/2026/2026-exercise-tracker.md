@@ -829,3 +829,8 @@ original plan had been to do meal prep prior to my first meal, so I
 didn't start jogging, but a few items related to the day job ended up
 using a large share of my early afternoon time so I ended up deferring
 meal prep.
+
+## 2026-07-16: skipped strength exercises
+
+On Thursday 2026-07-16, I did hand gripper exercises and jogging but
+skipped strength exercises due to scheduling constraints.
