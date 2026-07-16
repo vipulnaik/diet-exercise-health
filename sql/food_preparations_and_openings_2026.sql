@@ -815,11 +815,15 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-11','TJ Almond Milk',1,1,null,null),
   ('2026-07-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-13',2),
   ('2026-07-12','TJ Miso Ginger Broth',1,2,null,null),
-  ('2026-07-13','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  ('2026-07-13','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-15',2), /* I was ready to start the next packet in the completion meal but ended up not using any of it */
   ('2026-07-13','TJ Roasted Seaweed',1,2,null,null),
-  ('2026-07-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-07-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-15',2),
   /* 2026-07-14 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-07-14','Lundberg Sustainable California White Jasmine Rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-14','TJ Walnuts',1,2,null,null);
+  ('2026-07-14','TJ Walnuts',1,2,null,null),
+  /* one-off raw tomato consumption due to lack of cooked food */
+  ('2026-07-15','Beefsteak tomato',1,2,'2026-07-15',2),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-07-15','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
