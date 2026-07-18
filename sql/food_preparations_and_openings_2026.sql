@@ -836,5 +836,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-16','TJ Carrots',1,2,null,null),
   ('2026-07-16','Green bell pepper',4,2,null,null),
   ('2026-07-16','Red bell pepper',2,2,null,null),
-  ('2026-07-16','Beefsteak tomato',8,2,null,null); /* stock down to 0; pot also full */
+  ('2026-07-16','Beefsteak tomato',8,2,null,null), /* stock down to 0; pot also full */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-07-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
