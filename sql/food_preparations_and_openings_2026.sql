@@ -828,6 +828,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-15','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-17',1),
   /* one-off raw tomato consumption due to lack of cooked food */
   ('2026-07-16','Beefsteak tomato',1,1,'2026-07-16',1),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-07-16','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
   /* 2026-07-16 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-07-16','Eggplant',1,2,null,null),
   ('2026-07-16','TJ Kale',1,2,null,null),
