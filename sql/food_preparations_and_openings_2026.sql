@@ -827,5 +827,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-07-15','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
   /* one-off raw tomato consumption due to lack of cooked food */
-  ('2026-07-16','Beefsteak tomato',1,1,'2026-07-16',1);
+  ('2026-07-16','Beefsteak tomato',1,1,'2026-07-16',1),
+  /* 2026-07-16 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-07-16','Eggplant',1,2,null,null),
+  ('2026-07-16','TJ Kale',1,2,null,null),
+  ('2026-07-16','TJ Carrots',1,2,null,null),
+  ('2026-07-16','Green bell pepper',4,2,null,null),
+  ('2026-07-16','Red bell pepper',2,2,null,null),
+  ('2026-07-16','Beefsteak tomato',8,2,null,null); /* stock down to 0; pot also full */
   /* Double-check the date and meal index before committing */
