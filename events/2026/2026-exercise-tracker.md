@@ -834,3 +834,9 @@ meal prep.
 
 On Thursday 2026-07-16, I did hand gripper exercises and jogging but
 skipped strength exercises due to scheduling constraints.
+
+## 2026-07-17: skipped strength exercises
+
+On Friday 2026-07-17, I did hand gripper exercises and jogging but
+skipped strength exercises as I got engrossed in some work stuff I was
+trying to wrap up.
