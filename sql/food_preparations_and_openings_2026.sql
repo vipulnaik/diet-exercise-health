@@ -812,7 +812,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-11','TJ Broccoli Florets 12 oz',1,1,'2026-07-15',1),
   ('2026-07-11','Beefsteak tomato',4,1,'2026-07-15',1), /* limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-11','TJ Almond Milk',1,1,null,null),
+  ('2026-07-11','TJ Almond Milk',1,1,'2026-07-18',1),
   ('2026-07-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-13',2),
   ('2026-07-12','TJ Miso Ginger Broth',1,2,null,null),
   ('2026-07-13','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-15',2), /* I was ready to start the next packet in the completion meal but ended up not using any of it */
@@ -821,7 +821,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-07-14 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-07-14','Lundberg Sustainable California White Jasmine Rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-14','TJ Walnuts',1,2,null,null),
+  ('2026-07-14','TJ Walnuts',1,2,'2026-07-18',1),
   /* one-off raw tomato consumption due to lack of cooked food */
   ('2026-07-15','Beefsteak tomato',1,2,'2026-07-15',2),
   /* new bottle/packet openings as the old ones finished */
@@ -829,7 +829,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* one-off raw tomato consumption due to lack of cooked food */
   ('2026-07-16','Beefsteak tomato',1,1,'2026-07-16',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-16','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  ('2026-07-16','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-18',1),
   /* 2026-07-16 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-07-16','Eggplant',1,2,null,null),
   ('2026-07-16','TJ Kale',1,2,null,null),
@@ -838,5 +838,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-16','Red bell pepper',2,2,null,null),
   ('2026-07-16','Beefsteak tomato',8,2,null,null), /* stock down to 0; pot also full */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
+  ('2026-07-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-07-18','TJ Almond Milk',1,1,null,null),
+  ('2026-07-18','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
