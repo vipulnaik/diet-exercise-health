@@ -838,10 +838,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-16','Red bell pepper',2,2,null,null),
   ('2026-07-16','Beefsteak tomato',8,2,null,null), /* stock down to 0; pot also full */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-07-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-19',2),
   ('2026-07-18','TJ Almond Milk',1,1,null,null),
   ('2026-07-18','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
   ('2026-07-18','TJ Walnuts',1,2,null,null),
   /* 2026-07-19 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2026-07-19','Lundberg Sustainable California White Basmati Rice',1,2,null,null);
+  ('2026-07-19','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-07-19','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
