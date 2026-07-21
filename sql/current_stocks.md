@@ -2,7 +2,7 @@
 |----------------------------------------------------|-----------------------------------|-------------------------------------------|
 | Beefsteak tomato                                   |                            0.0000 |                                    8.0000 |
 | Eggplant                                           |                            0.0000 |                                    1.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    1.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    0.0000 |
 | Gold potatoes 5 lb                                 |                            0.0000 |                                    0.0000 |
 | Green bell pepper                                  |                            0.0000 |                                    4.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
