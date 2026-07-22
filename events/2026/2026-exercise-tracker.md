@@ -840,3 +840,9 @@ skipped strength exercises due to scheduling constraints.
 On Friday 2026-07-17, I did hand gripper exercises and jogging but
 skipped strength exercises as I got engrossed in some work stuff I was
 trying to wrap up.
+
+## 2026-07-22: skipped jogging and strength exercises
+
+On Wednesday 2026-07-22, I did hand gripper exercises but skipped
+jogging and strength exercises to handle some time-sensitive stuff at
+work.
