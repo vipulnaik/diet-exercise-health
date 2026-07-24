@@ -846,3 +846,8 @@ trying to wrap up.
 On Wednesday 2026-07-22, I did hand gripper exercises but skipped
 jogging and strength exercises to handle some time-sensitive stuff at
 work.
+
+## 2026-07-23: skipped all exercises
+
+On Thursday 2026-07-23, I skipped all exercises to fit in both a
+Trader Joe's trip and meal prep later in the day.
