@@ -856,5 +856,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-23','Gold potatoes 5 lb',0.5,2,null,null),
   ('2026-07-23','TJ Kale',1,2,null,null),
   ('2026-07-23','TJ Broccoli Florets 12 oz',1,2,null,null),
-  ('2026-07-23','Beefsteak tomato',2,2,null,null); /* limited by space in pot */
+  ('2026-07-23','Beefsteak tomato',2,2,null,null), /* limited by space in pot */
+  /* 2026-07-24 rice prep (first meal) (added turmeric, cumin, salt) */
+  ('2026-07-24','Lundberg Sustainable California White Basmati Rice',1,1,null,null);
   /* Double-check the date and meal index before committing */
