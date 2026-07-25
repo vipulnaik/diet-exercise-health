@@ -851,3 +851,11 @@ work.
 
 On Thursday 2026-07-23, I skipped all exercises to fit in both a
 Trader Joe's trip and meal prep later in the day.
+
+## 2026-07-24: reduced at-home jogging and skipped strength exercises
+
+On Friday 2026-07-24, due to heat-related fatigue (the indoor
+temperature was about 81 degrees Fahrenheit) as well as out of a
+desire to save time, I did at-home jogging for a shorter duration
+(about 15 minutes instead of the usual 30 minutes) and skipped
+strength exercises.
