@@ -2,7 +2,7 @@
 |----------------------------------------------------|-----------------------------------|-------------------------------------------|
 | Beefsteak tomato                                   |                            9.0000 |                                    2.0000 |
 | Eggplant                                           |                            1.0000 |                                    0.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            2.0000 |                                    1.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            1.0000 |                                    1.0000 |
 | Gold potatoes 5 lb                                 |                            0.5000 |                                    0.5000 |
 | Green bell pepper                                  |                            4.0000 |                                    0.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
@@ -18,7 +18,7 @@
 | Roma tomato                                        |                            0.0000 |                                    0.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
-| TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
+| TJ Almond Milk                                     |                            0.0000 |                                    1.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
 | TJ Broccoli Florets 12 oz                          |                            0.0000 |                                    1.0000 |
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
