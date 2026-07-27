@@ -861,7 +861,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-24','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-07-24','TJ Miso Ginger Broth',1,1,null,null),
-  ('2026-07-24','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-26',2),
+  ('2026-07-24','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-26',2), /* actually I left a small piece but since I opened the next packet and consumed more than that piece in size, I just moved the piece into the next packet */
   ('2026-07-24','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-26',1),
   ('2026-07-25','TJ Walnuts',1,2,null,null),
   ('2026-07-26','TJ Almond Milk',1,2,null,null),
