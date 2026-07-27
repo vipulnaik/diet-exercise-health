@@ -859,3 +859,11 @@ temperature was about 81 degrees Fahrenheit) as well as out of a
 desire to save time, I did at-home jogging for a shorter duration
 (about 15 minutes instead of the usual 30 minutes) and skipped
 strength exercises.
+
+## 2026-07-27: skipped all exercises
+
+On Monday 2026-07-27, I skipped all exercises. This was to fit in a
+Berkeley Bowl trip in the early afternoon, plus as part of a general
+effort to move my clock earlier after a significant delay introduced
+about 10 days ago from which I had failed to fully recover due to a
+lot to do per day.
