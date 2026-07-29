@@ -867,3 +867,9 @@ Berkeley Bowl trip in the early afternoon, plus as part of a general
 effort to move my clock earlier after a significant delay introduced
 about 10 days ago from which I had failed to fully recover due to a
 lot to do per day.
+
+## 2026-07-28
+
+On Tuesday 2026-07-28, I skipped all exercises. This was due to a
+bunch of time-sensitive day job stuff that transpired in the
+afternoon.
