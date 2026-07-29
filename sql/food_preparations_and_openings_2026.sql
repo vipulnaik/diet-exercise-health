@@ -858,7 +858,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-23','TJ Broccoli Florets 12 oz',1,2,null,null),
   ('2026-07-23','Beefsteak tomato',2,2,null,null), /* limited by space in pot */
   /* 2026-07-24 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-07-24','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  ('2026-07-24','Lundberg Sustainable California White Basmati Rice',1,1,'2026-07-28',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-07-24','TJ Miso Ginger Broth',1,1,null,null),
   ('2026-07-24','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-26',2), /* actually I left a small piece but since I opened the next packet and consumed more than that piece in size, I just moved the piece into the next packet */
