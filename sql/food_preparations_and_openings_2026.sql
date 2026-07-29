@@ -847,7 +847,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-07-19','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-21',1),
   ('2026-07-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-23',1),
-  ('2026-07-21','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-07-21','TJ Roasted Seaweed',1,2,'2026-07-28',2),
   ('2026-07-22','TJ Walnuts',1,1,'2026-07-25',2),
   ('2026-07-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-24',2),
   ('2026-07-23','TJ Sauerkraut',1,1,null,null),
@@ -865,13 +865,17 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-24','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-26',1),
   ('2026-07-25','TJ Walnuts',1,2,null,null),
   ('2026-07-26','TJ Almond Milk',1,2,null,null),
-  ('2026-07-26','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
-  ('2026-07-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-07-26','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-07-28',2),
+  ('2026-07-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-28',2),
   /* 2026-07-27 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-07-27','Eggplant',1,2,null,null),
   ('2026-07-27','TJ Kale',0.9,2,null,null),
   ('2026-07-27','TJ Carrots',1,2,null,null),
   ('2026-07-27','Green bell pepper',4,2,null,null),
   ('2026-07-27','Red bell pepper',2,2,null,null),
-  ('2026-07-27','Beefsteak tomato',8,2,null,null); /* limited by space in pot */
+  ('2026-07-27','Beefsteak tomato',8,2,null,null), /* limited by space in pot */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-07-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-07-28','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-07-28','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
