@@ -868,8 +868,15 @@ effort to move my clock earlier after a significant delay introduced
 about 10 days ago from which I had failed to fully recover due to a
 lot to do per day.
 
-## 2026-07-28
+## 2026-07-28: skipped all exercises
 
 On Tuesday 2026-07-28, I skipped all exercises. This was due to a
 bunch of time-sensitive day job stuff that transpired in the
 afternoon.
+
+## 2026-07-29: skipped strength exercises
+
+On Wednesday 2026-07-29, I skipped strength exercises due to a
+combination of being very delayed to begin with, and having a few
+time-sensitive things to respond to right after I finished jogging,
+that ended up delaying me further.
