@@ -256,7 +256,7 @@ for more details.
 
 Goal of exercise: maintain
 
-As of June 2026, my aim is to be able to manage at least 130
+As of July 2026, my aim is to be able to manage at least 140
 seconds without having to lift and reposition either foot.
 
 See [here](standing-on-toes-with-eyes-closed-with-history.md) for more
