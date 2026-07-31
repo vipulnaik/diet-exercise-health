@@ -880,3 +880,10 @@ On Wednesday 2026-07-29, I skipped strength exercises due to a
 combination of being very delayed to begin with, and having a few
 time-sensitive things to respond to right after I finished jogging,
 that ended up delaying me further.
+
+## 2026-07-30: skipped strength exercises
+
+On Thursday 2026-07-30, I skipped strength exercises due to a
+combination of being somewhat delayed to begin with, and having a few
+time-sensitive things to respond to right after I finished jogging,
+that ended up delaying me further.
