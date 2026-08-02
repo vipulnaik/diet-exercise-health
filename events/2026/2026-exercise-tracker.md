@@ -894,3 +894,8 @@ On Saturday 2026-08-01, I skipped all exercises as I worked on a math
 research problem for a large part of the morning and early afternoon
 and was running late, having already accumulated a huge cyclic
 personal chores backlog.
+
+## 2026-08-02: skipped all exercises
+
+On Sunday 2026-08-02, I skipped all exercises to make time for meal
+prep in the afternoon, since I had run out of cooked vegetables.
