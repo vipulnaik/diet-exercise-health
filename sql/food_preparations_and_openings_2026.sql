@@ -853,10 +853,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-23','TJ Sauerkraut',1,1,null,null),
   ('2026-07-23','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-24',1),
   /* 2026-07-23 potatoes prep (second meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-07-23','Gold potatoes 5 lb',0.5,2,null,null), /* mostly completed 2026-07-29 with first meal, but a little leftover portion I didn't notice and only finished 2026-08-01 */
-  ('2026-07-23','TJ Kale',1,2,null,null),
-  ('2026-07-23','TJ Broccoli Florets 12 oz',1,2,null,null),
-  ('2026-07-23','Beefsteak tomato',2,2,null,null), /* limited by space in pot */
+  ('2026-07-23','Gold potatoes 5 lb',0.5,2,'2026-08-01',2), /* mostly completed 2026-07-29 with first meal, but a little leftover portion I didn't notice and only finished 2026-08-01 */
+  ('2026-07-23','TJ Kale',1,2,'2026-08-01',2),
+  ('2026-07-23','TJ Broccoli Florets 12 oz',1,2,'2026-08-01',2),
+  ('2026-07-23','Beefsteak tomato',2,2,'2026-08-01',2), /* limited by space in pot */
   /* 2026-07-24 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-07-24','Lundberg Sustainable California White Basmati Rice',1,1,'2026-07-28',2),
   /* new bottle/packet openings as the old ones finished */
@@ -868,12 +868,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-26','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-07-28',2),
   ('2026-07-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-28',2),
   /* 2026-07-27 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-07-27','Eggplant',1,2,null,null),
-  ('2026-07-27','TJ Kale',0.9,2,null,null),
-  ('2026-07-27','TJ Carrots',1,2,null,null),
-  ('2026-07-27','Green bell pepper',4,2,null,null),
-  ('2026-07-27','Red bell pepper',2,2,null,null),
-  ('2026-07-27','Beefsteak tomato',8,2,null,null), /* limited by space in pot */
+  ('2026-07-27','Eggplant',1,2,'2026-08-01',2),
+  ('2026-07-27','TJ Kale',0.9,2,'2026-08-01',2),
+  ('2026-07-27','TJ Carrots',1,2,'2026-08-01',2),
+  ('2026-07-27','Green bell pepper',4,2,'2026-08-01',2),
+  ('2026-07-27','Red bell pepper',2,2,'2026-08-01',2),
+  ('2026-07-27','Beefsteak tomato',8,2,'2026-08-01',2), /* limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
   ('2026-07-28','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-30',1),
   ('2026-07-28','TJ Roasted Seaweed',1,2,null,null),
@@ -883,5 +883,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-07-30','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-31',1),
   ('2026-07-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-07-31','TJ Walnuts',1,2,null,null);
+  ('2026-07-31','TJ Walnuts',1,2,null,null),
+  ('2026-08-01','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
