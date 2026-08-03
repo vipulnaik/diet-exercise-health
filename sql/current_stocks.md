@@ -2,7 +2,7 @@
 |----------------------------------------------------|-----------------------------------|-------------------------------------------|
 | Beefsteak tomato                                   |                            2.0000 |                                    7.0000 |
 | Eggplant                                           |                            0.0000 |                                    0.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            1.0000 |                                    1.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    1.0000 |
 | Gold potatoes 5 lb                                 |                            0.0000 |                                    0.5000 |
 | Green bell pepper                                  |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
@@ -18,7 +18,7 @@
 | Roma tomato                                        |                            0.0000 |                                    0.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
-| TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
+| TJ Almond Milk                                     |                            0.0000 |                                    1.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
 | TJ Broccoli Florets 12 oz                          |                            0.0000 |                                    1.0000 |
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
@@ -29,7 +29,7 @@
 | TJ Green Lentils                                   |                            0.0000 |                                    0.0000 |
 | TJ Kale                                            |                            0.0000 |                                    1.0000 |
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
-| TJ Miso Ginger Broth                               |                            2.0000 |                                    1.0000 |
+| TJ Miso Ginger Broth                               |                            2.0000 |                                    0.0000 |
 | TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
 | TJ Sauerkraut                                      |                            0.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            4.0000 |                                    1.0000 |

@@ -860,11 +860,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-07-24 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-07-24','Lundberg Sustainable California White Basmati Rice',1,1,'2026-07-28',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-24','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-07-24','TJ Miso Ginger Broth',1,1,'2026-08-02',2),
   ('2026-07-24','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-26',2), /* actually I left a small piece but since I opened the next packet and consumed more than that piece in size, I just moved the piece into the next packet */
   ('2026-07-24','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-26',1),
   ('2026-07-25','TJ Walnuts',1,2,'2026-07-31',1),
-  ('2026-07-26','TJ Almond Milk',1,2,null,null),
+  ('2026-07-26','TJ Almond Milk',1,2,'2026-08-02',2),
   ('2026-07-26','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-07-28',2),
   ('2026-07-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-28',2),
   /* 2026-07-27 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
@@ -884,12 +884,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-30','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-31',1),
   ('2026-07-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-02',1),
   ('2026-07-31','TJ Walnuts',1,2,null,null),
-  ('2026-08-01','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-08-01','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-02',2),
   /* 2026-08-02 potatoes prep (first meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-08-02','Gold potatoes 5 lb',0.5,1,null,null),
   ('2026-08-02','TJ Kale',1,1,null,null),
   ('2026-08-02','TJ Broccoli Florets 12 oz',1,1,null,null),
   ('2026-08-02','Beefsteak tomato',7,1,null,null), /* 1 from old batch, 6 from new batch, 2 remaining, limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
+  ('2026-08-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-08-02','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-08-02','TJ Almond Milk',1,2,null,null);
   /* Double-check the date and meal index before committing */
