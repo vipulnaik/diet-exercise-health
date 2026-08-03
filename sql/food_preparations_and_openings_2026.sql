@@ -891,5 +891,5 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-02','TJ Broccoli Florets 12 oz',1,1,null,null),
   ('2026-08-02','Beefsteak tomato',7,1,null,null), /* 1 from old batch, 6 from new batch, 2 remaining, limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-02','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-08-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
