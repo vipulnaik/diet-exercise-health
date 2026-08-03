@@ -899,3 +899,11 @@ personal chores backlog.
 
 On Sunday 2026-08-02, I skipped all exercises to make time for meal
 prep in the afternoon, since I had run out of cooked vegetables.
+
+## 2026-08-03: abridged at-home jogging and skipped strength exercises
+
+On Monday 2026-08-03, I did hand gripper exercises as usual but did
+abridged at-home jogging (17 minutes compared to the usual 30 minutes
+or more) and skipped strength exercises. This was due to a mix of
+heat-related exhaustion, interrupted sleep overnight, and a general
+time crunch.
