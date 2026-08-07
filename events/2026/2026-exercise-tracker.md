@@ -907,3 +907,9 @@ abridged at-home jogging (17 minutes compared to the usual 30 minutes
 or more) and skipped strength exercises. This was due to a mix of
 heat-related exhaustion, interrupted sleep overnight, and a general
 time crunch.
+
+## 2026-08-07: skipped all exercises
+
+On Friday 2026-08-07, I skipped all exercises in order to be able to
+fit in meal prep after some personal projects work in the early
+afternoon.
