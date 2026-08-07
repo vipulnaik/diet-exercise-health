@@ -886,19 +886,20 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-31','TJ Walnuts',1,2,'2026-08-05',1),
   ('2026-08-01','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-02',2),
   /* 2026-08-02 potatoes prep (first meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-08-02','Gold potatoes 5 lb',0.5,1,null,null),
-  ('2026-08-02','TJ Kale',1,1,null,null),
-  ('2026-08-02','TJ Broccoli Florets 12 oz',1,1,null,null),
-  ('2026-08-02','Beefsteak tomato',6,1,null,null), /* 1 from old batch, 5 from new batch, 3 remaining, limited by space in pot */
+  ('2026-08-02','Gold potatoes 5 lb',0.5,1,'2026-08-06',2),
+  ('2026-08-02','TJ Kale',1,1,'2026-08-06',2),
+  ('2026-08-02','TJ Broccoli Florets 12 oz',1,1,'2026-08-06',2),
+  ('2026-08-02','Beefsteak tomato',6,1,'2026-08-06',2), /* 1 from old batch, 5 from new batch, 3 remaining, limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-03',2),
   ('2026-08-02','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-04',1),
   ('2026-08-02','TJ Almond Milk',1,2,null,null),
   /* 2026-08-03 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-08-03','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
+  ('2026-08-03','Lundberg Sustainable California White Jasmine Rice',1,1,'2026-08-06',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-03','TJ Miso Ginger Broth',1,1,null,null),
   ('2026-08-03','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-06',1),
   ('2026-08-05','TJ Walnuts',1,1,null,null),
-  ('2026-08-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-08-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-08-06','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
