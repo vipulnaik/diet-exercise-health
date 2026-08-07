@@ -1,6 +1,6 @@
 | food_type                                          | unopened_stock_at_estimation_time | partially_opened_stock_at_estimation_time |
 |----------------------------------------------------|-----------------------------------|-------------------------------------------|
-| Beefsteak tomato                                   |                            2.0000 |                                    7.0000 |
+| Beefsteak tomato                                   |                            3.0000 |                                    6.0000 |
 | Eggplant                                           |                            0.0000 |                                    0.0000 |
 | Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    0.0000 |
 | Gold potatoes 5 lb                                 |                            0.0000 |                                    0.5000 |

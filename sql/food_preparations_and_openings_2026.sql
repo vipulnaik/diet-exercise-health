@@ -889,7 +889,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-02','Gold potatoes 5 lb',0.5,1,null,null),
   ('2026-08-02','TJ Kale',1,1,null,null),
   ('2026-08-02','TJ Broccoli Florets 12 oz',1,1,null,null),
-  ('2026-08-02','Beefsteak tomato',7,1,null,null), /* 1 from old batch, 6 from new batch, 2 remaining, limited by space in pot */
+  ('2026-08-02','Beefsteak tomato',6,1,null,null), /* 1 from old batch, 5 from new batch, 3 remaining, limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-03',2),
   ('2026-08-02','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-04',1),
