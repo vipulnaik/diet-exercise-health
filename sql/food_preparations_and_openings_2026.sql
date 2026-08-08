@@ -901,5 +901,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-03','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-06',1),
   ('2026-08-05','TJ Walnuts',1,1,null,null),
   ('2026-08-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-08-06','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-08-06','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  /* 2026-08-07 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-08-07','Green bell pepper',4,1,null,null),
+  ('2026-08-07','TJ Kale',1,1,null,null),
+  ('2026-08-07','TJ Carrots',1,1,null,null),
+  ('2026-08-07','Red bell pepper',4,1,null,null),
+  ('2026-08-07','Beefsteak tomato',7,1,null,null); /* limited by space in pot; 3 of old stock, 4 of new stock, 3 remaining */
   /* Double-check the date and meal index before committing */
