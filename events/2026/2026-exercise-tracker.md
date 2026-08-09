@@ -913,3 +913,8 @@ time crunch.
 On Friday 2026-08-07, I skipped all exercises in order to be able to
 fit in meal prep after some personal projects work in the early
 afternoon.
+
+## 2026-08-08: skipped strength exercises
+
+On Saturday 2026-08-08, I did hand gripper exercises and at-home
+jogging but skipped strength exercises to conserve time and energy.
