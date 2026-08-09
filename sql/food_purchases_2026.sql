@@ -521,7 +521,7 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-08-01','Beefsteak tomato',8,1),
   /* 2026-08-06 (Thursday) Trader Joe's; total cost $46.26; checkout at 8:53 PM; paid by credit card; 24 items in transaction (the billing had two errors that canceled each other out in terms of number of items) */
   ('2026-08-06','Ezekiel Sprouted Flourless Tortillas',2,1),
-  ('2026-08-06','TJ Almond Milk',1,1), /* I was billed for 2 */
+  ('2026-08-06','TJ Almond Milk',1,1), /* vanilla instead of usual; I was billed for 2 */
   ('2026-08-06','TJ Carrots',1,1),
   ('2026-08-06','TJ Miso Ginger Broth',1,1),
   ('2026-08-06','TJ Sauerkraut',2,1),
