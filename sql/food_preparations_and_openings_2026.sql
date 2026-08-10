@@ -915,5 +915,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-08','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-08','TJ Almond Milk',1,1,null,null),
-  ('2026-08-08','TJ Roasted Seaweed',1,2,null,null);
+  ('2026-08-08','TJ Roasted Seaweed',1,2,null,null),
+  /* 2026-08-09 (Sunday) Imm Thai Street Food dine-in for lunch with friends */
+  ('2026-08-09','Imm Thai Street Food yellow curry tofu',1,1,'2026-08-09',1),
+  ('2026-08-09','Imm Thai Street Food white rice',1,1,'2026-08-09',1),
+  /* 2026-08-09 (Sunday) Asha Tea House post-lunch beverage */
+  ('2026-08-09','Asha Tea House ginger honey tea',1,1,'2026-08-09',1);
   /* Double-check the date and meal index before committing */

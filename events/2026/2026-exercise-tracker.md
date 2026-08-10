@@ -918,3 +918,8 @@ afternoon.
 
 On Saturday 2026-08-08, I did hand gripper exercises and at-home
 jogging but skipped strength exercises to conserve time and energy.
+
+## 2026-08-09: skipped all exercises
+
+On Sunday 2026-08-09, I skipped all exercises to accommodate a meeting
+with friends in the early afternoon.

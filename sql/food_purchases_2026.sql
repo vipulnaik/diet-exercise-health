@@ -534,7 +534,21 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-08-07','Lundberg Sustainable California White Basmati Rice',2,1),
   ('2026-08-07','Lundberg Sustainable California White Jasmine Rice',1,1),
   ('2026-08-07','Kite Hill Greek Style Plant-Based Yogurt',2,1),
-  ('2026-08-07','Kite Hill Unsweetened Plain Almond Milk Yogurt',3,1);
+  ('2026-08-07','Kite Hill Unsweetened Plain Almond Milk Yogurt',3,1),
+  /* 2026-08-09 (Sunday) Imm Thai Street Food dine-in for lunch with friends */
+  ('2026-08-09','Imm Thai Street Food yellow curry tofu',1,0),
+  ('2026-08-09','Imm Thai Street Food white rice',1,0),
+  /* 2026-08-09 (Sunday) Asha Tea House post-lunch beverage */
+  ('2026-08-09','Asha Tea House ginger honey tea',1,1),
+  /* 2026-08-09 (Sunday) Trader Joe's (first round; quick stop before going to the Apple Store); checkout at 3:33 PM; total cost $6.98; paid by debit card; 2 items in transaction */
+  ('2026-08-09','Ezekiel Sprouted Flourless Tortillas',2,1),
+  /* 2026-08-09 (Sunday) Trader Joe's (second round; returning from the Apple Store); checkout at 5:20 PM; total cost $35.27; paid by debit card; 13 items in transaction */
+  ('2026-08-09','TJ Walnuts',2,1),
+  ('2026-08-09','TJ Almond Milk',1,1),
+  ('2026-08-09','Gold potatoes 5 lb',1,1),
+  ('2026-08-09','TJ Kale',1,1),
+  ('2026-08-09','Beefsteak tomato',7,1),
+  ('2026-08-09','TJ Broccoli Florets 12 oz',1,1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
