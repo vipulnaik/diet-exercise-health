@@ -899,7 +899,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-03','TJ Miso Ginger Broth',1,1,null,null),
   ('2026-08-03','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-06',1),
-  ('2026-08-05','TJ Walnuts',1,1,null,null),
+  ('2026-08-05','TJ Walnuts',1,1,'2026-08-09',2),
   ('2026-08-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-08-07',2),
   ('2026-08-06','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-07',2),
   /* 2026-08-07 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
@@ -910,7 +910,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-07','Beefsteak tomato',7,1,null,null), /* limited by space in pot; 3 of old stock, 4 of new stock, 3 remaining */
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-07','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
-  ('2026-08-07','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-08-07','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-09',2),
   /* 2026-08-08 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-08-08','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
@@ -920,5 +920,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-09','Imm Thai Street Food yellow curry tofu',1,1,'2026-08-09',1),
   ('2026-08-09','Imm Thai Street Food white rice',1,1,'2026-08-09',1),
   /* 2026-08-09 (Sunday) Asha Tea House post-lunch beverage */
-  ('2026-08-09','Asha Tea House ginger honey tea',1,1,'2026-08-09',1);
+  ('2026-08-09','Asha Tea House ginger honey tea',1,1,'2026-08-09',1),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-08-09','TJ Walnuts',1,2,null,null);
   /* Double-check the date and meal index before committing */
