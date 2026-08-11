@@ -739,7 +739,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-06-20','TJ Carrots',1,2,'2026-06-26',1),
   ('2026-06-20','Beefsteak tomato',6,2,'2026-06-26',1), /* stock down to 0 */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-06-20','TJ Turmeric',1,2,null,null), /* opened with 2026-06-20 potatoes prep */
+  ('2026-06-20','TJ Turmeric',1,2,'2026-08-10',1), /* opened with 2026-06-20 potatoes prep, finished with 2026-08-10 potatoes prep */
   ('2026-06-21','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-06-23',1), /* stock down to 0 */
   ('2026-06-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-06-22',2),
   /* 2026-06-22 rice prep (second meal) (added turmeric, cumin, salt) */
@@ -909,8 +909,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-07','Red bell pepper',4,1,null,null),
   ('2026-08-07','Beefsteak tomato',7,1,null,null), /* limited by space in pot; 3 of old stock, 4 of new stock, 3 remaining */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-07','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
-  ('2026-08-07','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-09',2),
+  ('2026-08-07','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2026-08-10',1),
+  ('2026-08-07','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-10',1),
   /* 2026-08-08 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-08-08','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
@@ -922,5 +922,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-08-09 (Sunday) Asha Tea House post-lunch beverage */
   ('2026-08-09','Asha Tea House ginger honey tea',1,1,'2026-08-09',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-09','TJ Walnuts',1,2,null,null);
+  ('2026-08-09','TJ Walnuts',1,2,null,null),
+  /* 2026-08-10 potatoes prep (first meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-08-10','Gold potatoes 5 lb',0.5,1,null,null),
+  ('2026-08-10','TJ Kale',1,1,null,null),
+  ('2026-08-10','TJ Broccoli Florets 12 oz',1,1,null,null),
+  ('2026-08-10','Beefsteak tomato',5,1,null,null), /* 3 from old batch, 2 from new batch, 5 remaining (all from new batch), limited by space in pot */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-08-10','TJ Turmeric',1,1,null,null), /* opened with 2026-08-10 potatoes prep */
+  ('2026-08-10','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  ('2026-08-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
