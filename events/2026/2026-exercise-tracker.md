@@ -923,3 +923,8 @@ jogging but skipped strength exercises to conserve time and energy.
 
 On Sunday 2026-08-09, I skipped all exercises to accommodate a meeting
 with friends in the early afternoon.
+
+## 2026-08-10: skipped all exercises
+
+On Monday 2026-08-10, I skipped all exercises to make time for
+potatoes prep and heavy laundry, both of which were due.
