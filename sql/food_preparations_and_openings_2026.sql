@@ -930,6 +930,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-10','Beefsteak tomato',5,1,null,null), /* 3 from old batch, 2 from new batch, 5 remaining (all from new batch), limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-10','TJ Turmeric',1,1,null,null), /* opened with 2026-08-10 potatoes prep */
-  ('2026-08-10','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
-  ('2026-08-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-08-10','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-08-11',2),
+  ('2026-08-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-08-11','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
