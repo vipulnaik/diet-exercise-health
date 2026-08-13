@@ -928,3 +928,9 @@ with friends in the early afternoon.
 
 On Monday 2026-08-10, I skipped all exercises to make time for
 potatoes prep and heavy laundry, both of which were due.
+
+## 2026-08-13: skipped strength exercises
+
+On Thursday 2026-08-13, due to constraints related to getting in the
+flow of work, I skipped dead hang and pull-ups after finishing indoor
+jogging.
