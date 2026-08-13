@@ -850,7 +850,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-21','TJ Roasted Seaweed',1,2,'2026-07-28',2),
   ('2026-07-22','TJ Walnuts',1,1,'2026-07-25',2),
   ('2026-07-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-07-24',2),
-  ('2026-07-23','TJ Sauerkraut',1,1,null,null),
+  ('2026-07-23','TJ Sauerkraut',1,1,'2026-08-12',1),
   ('2026-07-23','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-07-24',1),
   /* 2026-07-23 potatoes prep (second meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-07-23','Gold potatoes 5 lb',0.5,2,'2026-08-01',2), /* mostly completed 2026-07-29 with first meal, but a little leftover portion I didn't notice and only finished 2026-08-01 */
@@ -931,6 +931,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-10','TJ Turmeric',1,1,null,null), /* opened with 2026-08-10 potatoes prep */
   ('2026-08-10','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-08-11',2),
-  ('2026-08-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-08-11','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-08-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-08-12',1),
+  ('2026-08-11','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-08-12','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
