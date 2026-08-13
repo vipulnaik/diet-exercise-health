@@ -132,3 +132,9 @@ On Sunday 2026-08-09, I met friends for lunch at Imm Thai Street
 Food. After that, we went to Asha Tea House for drinks. After that, I
 stopped by at Trader Joe's, then went to the Apple Store at Fourth
 Street Berkeley. On the way back, I stopped at Trader Joe's again.
+
+## 2026-08-12
+
+On Wednesday 2026-08-12, I went to the Amazon Hub Locker at ASUC
+Berkeley to pick up a few packages. On the way back, I stopped at the
+Walgreens at 2801 Adeline St for a few toiletries purchases.
