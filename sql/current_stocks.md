@@ -3,7 +3,7 @@
 | Asha Tea House ginger honey tea                    |                            0.0000 |                                    0.0000 |
 | Beefsteak tomato                                   |                            5.0000 |                                   12.0000 |
 | Eggplant                                           |                            0.0000 |                                    0.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    1.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    0.0000 |
 | Gold potatoes 5 lb                                 |                            0.5000 |                                    0.5000 |
 | Green bell pepper                                  |                            0.0000 |                                    4.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
@@ -32,7 +32,7 @@
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
 | TJ Miso Ginger Broth                               |                            2.0000 |                                    1.0000 |
 | TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
-| TJ Sauerkraut                                      |                            2.0000 |                                    0.0000 |
+| TJ Sauerkraut                                      |                            1.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            3.0000 |                                    1.0000 |
 | TJ Walnuts                                         |                            7.0000 |                                    1.0000 |
 | TJ Whole Wheat Pita Bread                          |                            0.0000 |                                    0.0000 |
