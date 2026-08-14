@@ -934,3 +934,12 @@ potatoes prep and heavy laundry, both of which were due.
 On Thursday 2026-08-13, due to constraints related to getting in the
 flow of work, I skipped dead hang and pull-ups after finishing indoor
 jogging.
+
+## 2026-08-14: skipped hand gripper exercises and strength exercises, abridged jogging
+
+On Friday 2026-08-14, I did an abridged round of jogging (for 10
+minutes instead of the full duration) and skipped hand gripper
+exercises and strenfth exercises. This was due to a mix of fatigue and
+time constraints later in the day. The constraint wasn't literally on
+the jogging duration, but on the cooldown period between that and my
+meal.
