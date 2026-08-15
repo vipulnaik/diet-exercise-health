@@ -138,3 +138,10 @@ Street Berkeley. On the way back, I stopped at Trader Joe's again.
 On Wednesday 2026-08-12, I went to the Amazon Hub Locker at ASUC
 Berkeley to pick up a few packages. On the way back, I stopped at the
 Walgreens at 2801 Adeline St for a few toiletries purchases.
+
+## 2026-08-14
+
+On Friday 2026-08-14, I went to San Bruno (via BART) to meet a high
+school friend who was visiting the Bay Area. We met up at Viet Time,
+which is near the Starbucks. On the way back, I also checked out our
+old LiftIgniter office.
