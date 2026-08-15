@@ -13,7 +13,7 @@
 | Lundberg Sustainable California White Basmati Rice |                            4.0000 |                                    1.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            3.0000 |                                    0.0000 |
 | Morton Iodized Sea Salt                            |                            1.0000 |                                    1.0000 |
-| Mr. East Kitchen Veggie Pho                        |                            0.0000 |                                    0.0000 |
+| Mr. East Kitchen veggie pho                        |                            0.0000 |                                    0.0000 |
 | Orange bell pepper                                 |                            0.0000 |                                    0.0000 |
 | Red bell pepper                                    |                            0.0000 |                                    0.0000 |
 | Roma tomato                                        |                            0.0000 |                                    0.0000 |

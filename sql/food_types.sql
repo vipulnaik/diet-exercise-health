@@ -957,7 +957,7 @@ insert into food_types(short_name, long_name, broad_food_type, notes) values
   ('Imm Thai Street Food spicy eggplant tofu','Imm Thai Street Food spicy eggplant tofu','Thai restaurant food','I had this as part of a dine-in at least once.'),
   ('Imm Thai Street Food white rice','Imm Thai Street Food white rice','White rice','There is free white rice accompanying Imm Thai Street Food curries and dishes.'),
   /* Mr. East Kitchen */
-  ('Mr. East Kitchen Veggie Pho','Mr. East Kitchen Veggie Pho','Vietnamese restaurant food','I had this as a dine-in once.'),
+  ('Mr. East Kitchen veggie pho','Mr. East Kitchen veggie pho','Vietnamese restaurant food','I had this as a dine-in once.'),
   /* Viet Time */
   ('Viet Time mixed vegetable pho','Viet Time mixed vegetable pho','Vietnamese restaurant food','I had this as a dine-in once.'),
   /* Pakwan */
