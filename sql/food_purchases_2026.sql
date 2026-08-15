@@ -548,7 +548,9 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-08-09','Gold potatoes 5 lb',1,1),
   ('2026-08-09','TJ Kale',1,1),
   ('2026-08-09','Beefsteak tomato',7,1),
-  ('2026-08-09','TJ Broccoli Florets 12 oz',1,1);
+  ('2026-08-09','TJ Broccoli Florets 12 oz',1,1),
+  /* 2026-08-14 (Friday) Viet Time dine-in for dinner with a friend */
+  ('2026-08-14','Viet Time mixed vegetable pho',1,1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness

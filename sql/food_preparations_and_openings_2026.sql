@@ -939,5 +939,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-13','TJ Sauerkraut',1,1,null,null),
   ('2026-08-13','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-08-14','TJ Walnuts',1,1,null,null);
+  ('2026-08-14','TJ Walnuts',1,1,null,null),
+  /* 2026-08-14 (Friday) Viet Time dine-in for dinner with a friend */
+  ('2026-08-14','Viet Time mixed vegetable pho',1,2,'2026-08-14',2);
   /* Double-check the date and meal index before committing */
