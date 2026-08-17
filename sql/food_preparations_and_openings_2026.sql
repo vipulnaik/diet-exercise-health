@@ -914,7 +914,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-08-08 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-08-08','Lundberg Sustainable California White Basmati Rice',1,1,'2026-08-12',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-08','TJ Almond Milk',1,1,null,null),
+  ('2026-08-08','TJ Almond Milk',1,1,'2026-08-16',1),
   ('2026-08-08','TJ Roasted Seaweed',1,2,null,null),
   /* 2026-08-09 (Sunday) Imm Thai Street Food dine-in for lunch with friends */
   ('2026-08-09','Imm Thai Street Food yellow curry tofu',1,1,'2026-08-09',1),
@@ -938,10 +938,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-13','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-13','TJ Sauerkraut',1,1,null,null),
-  ('2026-08-13','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-08-13','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-16',1),
   ('2026-08-14','TJ Walnuts',1,1,null,null),
   /* 2026-08-14 (Friday) Viet Time dine-in for dinner with a friend */
   ('2026-08-14','Viet Time mixed vegetable pho',1,2,'2026-08-14',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-15','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-08-15','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-08-16','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
