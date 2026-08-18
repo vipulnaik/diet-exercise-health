@@ -943,7 +943,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-08-14 (Friday) Viet Time dine-in for dinner with a friend */
   ('2026-08-14','Viet Time mixed vegetable pho',1,2,'2026-08-14',2),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-15','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-08-15','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-17',1),
   ('2026-08-16','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,null,null),
   /* 2026-08-16 eggplant meal prep (WITHOUT THE EGGPLANT!) (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-08-16','Green bell pepper',4,2,null,null),
@@ -952,5 +952,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-16','Red bell pepper',4,2,null,null),
   ('2026-08-16','Beefsteak tomato',8,2,null,null), /* 5 from old batch, 3 from new batch, 3 remaining (all from new batch) */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-16','TJ Almond Milk',1,2,null,null);
+  ('2026-08-16','TJ Almond Milk',1,2,null,null),
+  ('2026-08-17','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
