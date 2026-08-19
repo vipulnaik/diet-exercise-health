@@ -551,14 +551,18 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-08-09','TJ Broccoli Florets 12 oz',1,1),
   /* 2026-08-14 (Friday) Viet Time dine-in for dinner with a friend */
   ('2026-08-14','Viet Time mixed vegetable pho',1,1),
-  /* 2026-08-15 (Saturday) Trader Joe's; total cost $53.88; paid by credit card; 22 items in transaction */
+  /* 2026-08-15 (Saturday) Trader Joe's; total cost $53.88; checkout at 8:35 PM; paid by credit card; 22 items in transaction */
   ('2026-08-15','Ezekiel Sprouted Flourless Tortillas',2,1),
   ('2026-08-15','Green bell pepper',4,1),
   ('2026-08-15','TJ Carrots',1,1),
   ('2026-08-15','TJ Walnuts',4,1),
   ('2026-08-15','Red bell pepper',4,1),
   ('2026-08-15','TJ Kale',1,1),
-  ('2026-08-15','Beefsteak tomato',6,1);
+  ('2026-08-15','Beefsteak tomato',6,1),
+  /* 2026-08-18 (Tuesday) Berkeley Bowl; total cost $93.84; checkout at 7:38 PM; paid by credit card; 11 items in transaction of which 3 were Seventh Generation dish soap bottles and 1 was Brita water filters so only 7 food items */
+  ('2026-08-18','Lundberg Sustainable California White Basmati Rice',3,1),
+  ('2026-08-18','Morton Iodized Sea Salt',1,1),
+  ('2026-08-18','Kite Hill Greek Style Plant-Based Yogurt',3,1); /* vanilla flavor but it has similar ingredient info */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
