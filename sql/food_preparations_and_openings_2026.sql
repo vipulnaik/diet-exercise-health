@@ -939,7 +939,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-13','TJ Sauerkraut',1,1,null,null),
   ('2026-08-13','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-16',1),
-  ('2026-08-14','TJ Walnuts',1,1,null,null),
+  ('2026-08-14','TJ Walnuts',1,1,'2026-08-19',1),
   /* 2026-08-14 (Friday) Viet Time dine-in for dinner with a friend */
   ('2026-08-14','Viet Time mixed vegetable pho',1,2,'2026-08-14',2),
   /* new bottle/packet openings as the old ones finished */
@@ -959,5 +959,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-18','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-18','Morton Iodized Sea Salt',1,1,null,null), /* opened with 2026-08-18 rice prep */
-  ('2026-08-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null); /* vanilla */
+  ('2026-08-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null), /* vanilla */
+  ('2026-08-19','TJ Walnuts',1,1,null,null);
   /* Double-check the date and meal index before committing */
