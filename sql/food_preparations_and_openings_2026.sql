@@ -915,7 +915,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-08','Lundberg Sustainable California White Basmati Rice',1,1,'2026-08-12',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-08','TJ Almond Milk',1,1,'2026-08-16',1),
-  ('2026-08-08','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-08-08','TJ Roasted Seaweed',1,2,'2026-08-19',2),
   /* 2026-08-09 (Sunday) Imm Thai Street Food dine-in for lunch with friends */
   ('2026-08-09','Imm Thai Street Food yellow curry tofu',1,1,'2026-08-09',1),
   ('2026-08-09','Imm Thai Street Food white rice',1,1,'2026-08-09',1),
@@ -960,5 +960,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-18','Morton Iodized Sea Salt',1,1,null,null), /* opened with 2026-08-18 rice prep */
   ('2026-08-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null), /* vanilla */
-  ('2026-08-19','TJ Walnuts',1,1,null,null);
+  ('2026-08-19','TJ Walnuts',1,1,null,null),
+  ('2026-08-19','TJ Roasted Seaweed',1,2,null,null);
   /* Double-check the date and meal index before committing */
