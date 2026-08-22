@@ -562,7 +562,15 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   /* 2026-08-18 (Tuesday) Berkeley Bowl; total cost $93.84; checkout at 7:38 PM; paid by credit card; 11 items in transaction of which 3 were Seventh Generation dish soap bottles and 1 was Brita water filters so only 7 food items */
   ('2026-08-18','Lundberg Sustainable California White Basmati Rice',3,1),
   ('2026-08-18','Morton Iodized Sea Salt',1,1),
-  ('2026-08-18','Kite Hill Greek Style Plant-Based Yogurt',3,1); /* vanilla flavor but it has similar ingredient info */
+  ('2026-08-18','Kite Hill Greek Style Plant-Based Yogurt',3,1), /* vanilla flavor but it has similar ingredient info */
+  /* 2026-08-21 (Friday) Trader Joe's; total cost $46.74; checkout at 7:40 PM; paid by credit card; 16 items in transaction */
+  ('2026-08-21','Ezekiel Sprouted Flourless Tortillas',2,1),
+  ('2026-08-21','TJ Kale',1,1),
+  ('2026-08-21','TJ Miso Ginger Broth',1,1),
+  ('2026-08-21','TJ Almond Milk',1,1),
+  ('2026-08-21','TJ English Shelled Peas',2,1),
+  ('2026-08-21','TJ Walnuts',2,1),
+  ('2026-08-21','Beefsteak tomato',7,1);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
