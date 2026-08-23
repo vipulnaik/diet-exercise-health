@@ -970,5 +970,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-22','TJ English Shelled Peas',2,1,null,null),
   ('2026-08-22','Beefsteak tomato',5,1,null,null), /* 2 from old batch, 3 from new batch, 1 from old batch thrown away due to spoilage, 4 remaining from new batch */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-22','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-08-22','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-08-22','TJ Walnuts',1,2,null,null);
   /* Double-check the date and meal index before committing */
