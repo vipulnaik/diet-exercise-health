@@ -935,7 +935,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-11','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-13',1),
   ('2026-08-12','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-08-13',2),
   /* 2026-08-13 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-08-13','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  ('2026-08-13','Lundberg Sustainable California White Basmati Rice',1,1,'2026-08-18',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-13','TJ Sauerkraut',1,1,null,null),
   ('2026-08-13','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-16',1),
@@ -956,12 +956,17 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-17','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-08-18',2),
   ('2026-08-17','TJ Miso Ginger Broth',1,2,null,null),
   /* 2026-08-18 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-08-18','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  ('2026-08-18','Lundberg Sustainable California White Basmati Rice',1,1,'2026-08-22',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-18','Morton Iodized Sea Salt',1,1,null,null), /* opened with 2026-08-18 rice prep */
   ('2026-08-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-21',1), /* vanilla */
-  ('2026-08-19','TJ Walnuts',1,1,null,null),
+  ('2026-08-19','TJ Walnuts',1,1,'2026-08-22',1),
   ('2026-08-19','TJ Roasted Seaweed',1,2,null,null),
   ('2026-08-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null), /* vanilla */
-  ('2026-08-21','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-08-21','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  /* 2026-08-22 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-08-22','Gold potatoes 5 lb',0.5,1,null,null),
+  ('2026-08-22','TJ Kale',1,1,null,null),
+  ('2026-08-22','TJ English Shelled Peas',2,1,null,null),
+  ('2026-08-22','Beefsteak tomato',5,1,null,null); /* 2 from old batch, 3 from new batch, 1 from old batch thrown away due to spoilage, 4 remaining from new batch */
   /* Double-check the date and meal index before committing */
