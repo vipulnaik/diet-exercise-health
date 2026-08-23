@@ -943,3 +943,10 @@ exercises and strenfth exercises. This was due to a mix of fatigue and
 time constraints later in the day. The constraint wasn't literally on
 the jogging duration, but on the cooldown period between that and my
 meal.
+
+## 2026-08-22: skipped all exercises
+
+On Saturday 2026-08-22, after seven days of regular exercise with
+roughly normal cycling between exercises, I took a break from
+exercising in order to fit in potatoes prep while also getting through
+my backlog of tasks.
