@@ -198,7 +198,7 @@ time, I might displace the standing-on-toes-with-eyes-closed to the
 next rice prep along with the other set of exercises, so the execution
 pattern can be somewhat erratic.
 
-### Slight tweak to settings documented 2025-11-24
+#### Slight tweak to settings documented 2025-11-24
 
 Rather than have specific exercise bundles to do in alternating rice
 preps, I've decided to just cycle through a list of exercises over
