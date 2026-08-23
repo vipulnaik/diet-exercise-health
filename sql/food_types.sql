@@ -655,6 +655,59 @@ insert into food_types(short_name, long_name, url,
   /* special oxalate column added in light of risk of kidney stones */ null,
   /* notes */ 'The serving size used is 45 grams, 1/20 of the size of the container (907 grams). All amounts were scaled up by 20.'),
 
+  /* takeout rice portions, placed right after the raw rice for ease of comparison; I'm using the same standard "2 cups cooked" even though exact portion sizes may vary between takeouts */
+  ('Bangkok Thai Cuisine white rice','Bangkok Thai Cuisine white rice','https://nutrifox.com/nutrition/rice-white-steamed-chinese-restaurant',
+  /* calories, weight and volume */ 398,264,null,
+  /* broad food type */ 'White rice',
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 14,68,
+  /* carbohydrate-related columns */ 90,2,0,
+  /* protein-related columns */ 8,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,null,0,15,0.78,
+  /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes */ 'I used to get this as takeout from Bangkok Thai Cuisine occasionally, generally when I was running out of tortillas and wanted to get something quickly. I stopped after moving to a different part of town that was farther from the restaurant. For nutrition information, I took the estimates at the link https://nutrifox.com/nutrition/rice-white-steamed-chinese-restaurant and multiplied them by 2, and verified that it''s about 1/8 of the estimates from my raw rice packet that lasts me about 8 meals. I used rough RDA estimates for the numbers that were reported based on the RDA, I left out a few really small values (like vitamin B6) as not reliable.'),
+
+  ('Tuk Tuk Thai jasmine rice','Tuk Tuk Thai jasmine rice','https://nutrifox.com/nutrition/rice-white-steamed-chinese-restaurant',
+  /* calories, weight and volume */ 398,264,null,
+  /* broad food type */ 'White rice',
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 14,68,
+  /* carbohydrate-related columns */ 90,2,0,
+  /* protein-related columns */ 8,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,null,0,15,0.78,
+  /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes */ 'I had this by takeout once when I was feeling unwell and needed rice, but didn''t have a stock of rice and didn''t want to incur the time cost of buying + cooking rice. For nutrition information, I took the estimates at the link https://nutrifox.com/nutrition/rice-white-steamed-chinese-restaurant and multiplied them by 2, and verified that it''s about 1/8 of the estimates from my raw rice packet that lasts me about 8 meals. I used rough RDA estimates for the numbers that were reported based on the RDA, I left out a few really small values (like vitamin B6) as not reliable.'),
+
+  ('Imm Thai Street Food white rice','Imm Thai Street Food white rice','https://nutrifox.com/nutrition/rice-white-steamed-chinese-restaurant',
+  /* calories, weight and volume */ 398,264,null,
+  /* broad food type */ 'White rice',
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 14,68,
+  /* carbohydrate-related columns */ 90,2,0,
+  /* protein-related columns */ 8,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,null,0,15,0.78,
+  /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes */ 'There is free white rice accompanying Imm Thai Street Food curries and dishes. For nutrition information, I took the estimates at the link https://nutrifox.com/nutrition/rice-white-steamed-chinese-restaurant and multiplied them by 2, and verified that it''s about 1/8 of the estimates from my raw rice packet that lasts me about 8 meals. I used rough RDA estimates for the numbers that were reported based on the RDA, I left out a few really small values (like vitamin B6) as not reliable.'),
+
+  ('Pakwan basmati rice','Pakwan basmati rice','https://nutrifox.com/nutrition/rice-white-steamed-chinese-restaurant',
+  /* calories, weight and volume */ 398,264,null,
+  /* broad food type */ 'White rice',
+  /* fat-related columns */ 0,0,0,0,0,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 14,68,
+  /* carbohydrate-related columns */ 90,2,0,
+  /* protein-related columns */ 8,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,null,0,15,0.78,
+  /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes */ 'On at least one occasion where I ordered takeout from Pakwan, I included basmati rice in the takeout. I didn''t do so on other occasions. For nutrition information, I took the estimates at the link https://nutrifox.com/nutrition/rice-white-steamed-chinese-restaurant and multiplied them by 2, and verified that it''s about 1/8 of the estimates from my raw rice packet that lasts me about 8 meals. I used rough RDA estimates for the numbers that were reported based on the RDA, I left out a few really small values (like vitamin B6) as not reliable.'),
+
   ('Health Factory Zero Maida Bread','Health Factory Zero Maida Bread - (Simply Whole Wheat) 250g','https://www.thehealthfactory.in/products/zero-maida-simply-whole-wheat',
   /* calories, weight, and volume */ 613.05, 250, null,
   /* broad food type */ 'Wheat bread',
@@ -913,7 +966,35 @@ insert into food_types(short_name, long_name, url,
   /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,null,null,null /* soy should have a lot of calcium, but the label doesn't list the amount */,null,
   /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,75.6,null,0.4,null,
   /* special oxalate column added in light of risk of kidney stones */ null,
-  /* notes */ 'I read the information off the package label at the url (one of the images) rather than the physical package. The serving size is the full package, so no adjustment factor was needed. The label doesn''t include calcium, though I suspect there should be some given that soy is rich in calcium.');
+  /* notes */ 'I read the information off the package label at the url (one of the images) rather than the physical package. The serving size is the full package, so no adjustment factor was needed. The label doesn''t include calcium, though I suspect there should be some given that soy is rich in calcium.'),
+
+  /* Vietnamese restaurant food (pho); data per restaurant is not available, so we use general standard information from https://www.nola.com/entertainment_life/eat-drink/how-does-pho-measure-up-nutrition-wise-depends-on-these-factors-and-your-sodium-intake/article_07e3b8d4-0ffa-58bd-8483-0011aa173033.html */
+  ('Mr. East Kitchen veggie pho','Mr. East Kitchen veggie pho','https://www.nola.com/entertainment_life/eat-drink/how-does-pho-measure-up-nutrition-wise-depends-on-these-factors-and-your-sodium-intake/article_07e3b8d4-0ffa-58bd-8483-0011aa173033.html',
+  /* calories, weight, and volume */ 400,null,null,
+  /* broad food type */ 'Vietnamese restaurant food',
+  /* fat-related columns */ 7,null,null,null,null,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 1500,null,
+  /* carbohydrate-related columns */ 45,3.5,0,
+  /* protein-related columns */ 30,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,null,0,null,null,
+  /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes */ 'I had this as a dine-in once. Rather than try to figure out details specific to this restaurant, I used standard information for pho based primarily on https://www.nola.com/entertainment_life/eat-drink/how-does-pho-measure-up-nutrition-wise-depends-on-these-factors-and-your-sodium-intake/article_07e3b8d4-0ffa-58bd-8483-0011aa173033.html and then filling the others roughly based on Google Search and a Reddit thread. The goal is just very approximate correctness so that time intervals including such meals don''t show unusually low calorie or carbohydrate levels.'),
+
+  ('Viet Time mixed vegetable pho','Viet Time mixed vegetable pho','https://www.nola.com/entertainment_life/eat-drink/how-does-pho-measure-up-nutrition-wise-depends-on-these-factors-and-your-sodium-intake/article_07e3b8d4-0ffa-58bd-8483-0011aa173033.html',
+  /* calories, weight, and volume */ 400,null,null,
+  /* broad food type */ 'Vietnamese restaurant food',
+  /* fat-related columns */ 7,null,null,null,null,
+  /* cholesterol */ 0,
+  /* sodium and potassium (mostly from salts) */ 1500,null,
+  /* carbohydrate-related columns */ 45,3.5,0,
+  /* protein-related columns */ 30,
+  /* columns for commonly reported vitamins and minerals (other than sodium and potassium) */ null,null,0,null,null,
+  /* columns for other less commonly reported vitamins and minerals */ null,null,null,null,null,null,null,null,
+  /* special oxalate column added in light of risk of kidney stones */ null,
+  /* notes */ 'I had this as a dine-in once. Rather than try to figure out details specific to this restaurant, I used standard information for pho based primarily on https://www.nola.com/entertainment_life/eat-drink/how-does-pho-measure-up-nutrition-wise-depends-on-these-factors-and-your-sodium-intake/article_07e3b8d4-0ffa-58bd-8483-0011aa173033.html and then filling the others roughly based on Google Search and a Reddit thread. The goal is just very approximate correctness so that time intervals including such meals don''t show unusually low calorie or carbohydrate levels.');
+
 
 /* The list below is for food types for which we either cannot obtain
    nutritional information or don't want to spend the effort right
@@ -948,21 +1029,12 @@ insert into food_types(short_name, long_name, broad_food_type, notes) values
   ('Mehak Indian Cuisine bengan bharta','Mehak Indian Cuisine bengan bharta','Indian restaurant food','I have occasionally ordered this as an additional dish in Mehak Indian Cuisine takeout, on top of my standard set.'),
   ('Mehak Indian Cuisine dal soup','Mehak Indian Cuisine dal soup','Indian restaurant food','The dal soup is part of my standard set (2 dal soups in a standard set) but I have on occasion ordered additional dal soups.'),
   /* Bangkok Thai Cuisine */
-  ('Bangkok Thai Cuisine white rice','Bangkok Thai Cuisine white rice','White rice','I used to get this as takeout from Bangkok Thai Cuisine occasionally, generally when I was running out of tortillas and wanted to get something quickly. I stopped after moving to a different part of town that was farther from the restaurant.'),
   ('Bangkok Thai Cuisine yellow curry tofu','Bangkok Thai Cuisine yellow curry tofu','Thai restaurant food','I used to get this as takeout from Bangkok Thai Cuisine occasionally. I stopped after moving to a different part of town that was farther from the restaurant.'),
-  /* Tuk Tuk Thai */
-  ('Tuk Tuk Thai jasmine rice','Tuk Tuk Thai jasmine rice','White rice','I had this by takeout once when I was feeling unwell and needed rice, but didn''t have a stock of rice and didn''t want to incur the time cost of buying + cooking rice.'),
   /* Imm Thai Street Food */
   ('Imm Thai Street Food yellow curry tofu','Imm Thai Street Food yellow curry tofu','Thai restaurant food','I get this as takeout sometimes, and have also had this as part of a dine-in at least once.'),
   ('Imm Thai Street Food spicy eggplant tofu','Imm Thai Street Food spicy eggplant tofu','Thai restaurant food','I had this as part of a dine-in at least once.'),
-  ('Imm Thai Street Food white rice','Imm Thai Street Food white rice','White rice','There is free white rice accompanying Imm Thai Street Food curries and dishes.'),
-  /* Mr. East Kitchen */
-  ('Mr. East Kitchen veggie pho','Mr. East Kitchen veggie pho','Vietnamese restaurant food','I had this as a dine-in once.'),
-  /* Viet Time */
-  ('Viet Time mixed vegetable pho','Viet Time mixed vegetable pho','Vietnamese restaurant food','I had this as a dine-in once.'),
   /* Pakwan */
   ('Pakwan meal set','Pakwan meal set (dal, chana aloo, aloo sag, mixed veg curry)','Indian restaurant food','I sometimes order this meal combination when I''m on a trip to San Francisco and have time to order takeout from Pakwan.'),
-  ('Pakwan basmati rice','Pakwan basmati rice','White rice','On at least one occasion where I ordered takeout from Pakwan, I included basmati rice in the takeout. I didn''t do so on other occasions.'),
   /* Tender Greens */
   ('Tender Greens happy vegan salad','Tender Greens happy vegan salad','Healthy-marketed restaurant food','I occasionally visit Tender Greens for dine-in meals with others, and generally order the happy vegan salad during such meals.'),
   /* Revival Bar & Kitchen */
