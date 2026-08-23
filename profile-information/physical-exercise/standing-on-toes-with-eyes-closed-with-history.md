@@ -164,7 +164,7 @@ Over this period, I did the exercise once every 3 days, specifically
 the days I was skipping strength exercises, following the
 standing-on-one-leg-with-eyes-closed exercise.
 
-### Settings 2025-07-05 to end of July 2025
+#### Settings 2025-07-05 to end of July 2025
 
 Starting 2025-07-05, I now do the exercise after
 standing-on-one-leg-with-eyes-closed exercise on alternating days that
