@@ -70,8 +70,8 @@ queries = [
     """
     select broad_food_type,
     coalesce(min(total_fat_in_grams / calories), 0) as fat_calorie_ratio_min,
-    coalesce(max(total_fat_in_grams / calories), 0) as fat_calorie_ratio_max from food_types
-    where broad_food_type is not null
+    coalesce(max(total_fat_in_grams / calories), 0) as fat_calorie_ratio_max
+    from food_types where broad_food_type is not null
     group by broad_food_type
     having fat_calorie_ratio_max > 2 * fat_calorie_ratio_min + 0.01
     and not (broad_food_type in ('Sauerkraut / Kimchi','Whole wheat flatbread'));""",
@@ -79,11 +79,21 @@ queries = [
     """
     select broad_food_type,
     coalesce(min(protein_in_grams / calories), 0) as protein_calorie_ratio_min,
-    coalesce(max(protein_in_grams / calories), 0) as protein_calorie_ratio_max from food_types
-    where broad_food_type is not null
+    coalesce(max(protein_in_grams / calories), 0) as protein_calorie_ratio_max
+    from food_types where broad_food_type is not null
     group by broad_food_type
     having protein_calorie_ratio_max > 2 * protein_calorie_ratio_min + 0.005
     and not (broad_food_type in ('Sauerkraut / Kimchi','Whole wheat flatbread','Vegan probiotic yogurt'));""",
+
+    # Most broad food types (with the exception of white rice, that is both prepared and opened (takeout) should have just one prepared_versus_opened value
+    """
+    select broad_food_type,
+    count(distinct prepared_versus_opened) as num_distinct_prepared_versus_opened_values,
+    group_concat(distinct prepared_versus_opened) as distinct_prepared_versus_opened_values
+    from food_types where broad_food_type is not null
+    group by broad_food_type
+    having num_distinct_prepared_versus_opened_values > 1
+    and broad_food_type != 'White rice';""",
 ]
 
 _connection = connection.connect()

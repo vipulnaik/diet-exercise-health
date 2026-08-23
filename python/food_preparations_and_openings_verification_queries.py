@@ -132,8 +132,8 @@ queries = [
     # If I completed something more than 1 day ago, there should be a new preparation or opening, except for foods that I consume one-off */
     "select * from food_preparations_and_openings_self_join where preparation_or_opening_date_2 is null and not (completion_date_1 between '2025-05-03' and '2025-06-06') and datediff(curdate(), completion_date_1) > 1 and food_type in (select short_name from food_types where consumption_mode = 'continuous primary');",
 
-    # I should always open 1 bottle at a time
-    "select * from food_preparations_and_openings where food_type in ('TJ Almond Milk','TJ Sauerkraut','TJ Walnuts','TJ Miso Ginger Broth','Trader Giotto''s Olive Oil') and quantity != 1;",
+    # For everything that is opened, microwaved, or seasoning, I should only open one at a time
+    "select * from food_preparations_and_openings where food_type in (select short_name from food_types where prepared_versus_opened != 'prepared') and quantity != 1;",
 
     # I should generally do 1 at a time, though exceptions are possible
     "select * from food_preparations_and_openings where food_type in ('Eggplant','TJ Kale','TJ Carrots','TJ Broccoli Florets 12 oz') and not (quantity between 0.85 and 1) and not ((food_type, preparation_or_opening_date) in (('Eggplant','2025-08-01')));",
