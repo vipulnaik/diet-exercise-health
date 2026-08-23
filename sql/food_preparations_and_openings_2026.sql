@@ -946,11 +946,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-15','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-17',1),
   ('2026-08-16','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-08-18',1),
   /* 2026-08-16 eggplant meal prep (WITHOUT THE EGGPLANT!) (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-08-16','Green bell pepper',4,2,null,null),
-  ('2026-08-16','TJ Kale',1,2,null,null),
-  ('2026-08-16','TJ Carrots',1,2,null,null),
-  ('2026-08-16','Red bell pepper',4,2,null,null),
-  ('2026-08-16','Beefsteak tomato',8,2,null,null), /* 5 from old batch, 3 from new batch, 3 remaining (all from new batch) */
+  ('2026-08-16','Green bell pepper',4,2,'2026-08-22',2),
+  ('2026-08-16','TJ Kale',1,2,'2026-08-22',2),
+  ('2026-08-16','TJ Carrots',1,2,'2026-08-22',2),
+  ('2026-08-16','Red bell pepper',4,2,'2026-08-22',2),
+  ('2026-08-16','Beefsteak tomato',8,2,'2026-08-22',2), /* 5 from old batch, 3 from new batch, 3 remaining (all from new batch) */
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-16','TJ Almond Milk',1,2,null,null),
   ('2026-08-17','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-08-18',2),
@@ -963,10 +963,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-19','TJ Walnuts',1,1,'2026-08-22',1),
   ('2026-08-19','TJ Roasted Seaweed',1,2,null,null),
   ('2026-08-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null), /* vanilla */
-  ('2026-08-21','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-08-21','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-22',2),
   /* 2026-08-22 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-08-22','Gold potatoes 5 lb',0.5,1,null,null),
   ('2026-08-22','TJ Kale',1,1,null,null),
   ('2026-08-22','TJ English Shelled Peas',2,1,null,null),
-  ('2026-08-22','Beefsteak tomato',5,1,null,null); /* 2 from old batch, 3 from new batch, 1 from old batch thrown away due to spoilage, 4 remaining from new batch */
+  ('2026-08-22','Beefsteak tomato',5,1,null,null), /* 2 from old batch, 3 from new batch, 1 from old batch thrown away due to spoilage, 4 remaining from new batch */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-08-22','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
