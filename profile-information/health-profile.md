@@ -2231,9 +2231,63 @@ and microbiome`
   CBC measurements of WBCs are measuring only their prevalence in blood,
   rather than in tissues or the lymphatic system.
 
-TODO discuss total WBC levels across blood tests
+#### My total WBC measurements
 
-#### Neutrophils
+The table below gives my WBC measurements, along with the LabCorp
+reference range (not all tests were from LabCorp, but reference ranges
+are fairly similar by laboratory).
+
+Reading date | WBC (1000/uL)
+-- | --
+LabCorp reference range     | 3.4-10.8
+2025-09-10 (September 2025) | 4.1
+2025-01-22 (January 2025)   | 3.5
+2024-09-03 (September 2024) | 4
+2024-04-30 (April 2024)     | 5.1
+2021-06-30 (June 2021)      | 4.2
+2016-12-12 (December 2016)  | 4.3
+2005-06-15 (June 2005)      | 10.4
+
+My 2005 reading was taken in Chennai, India while I was pursuing
+undergraduate studies. All other readings (2016 onward) were taken
+while I was in Berkeley, California.
+
+The April 2024 reading is somewhat unusual in that it was taken
+non-fasting while I was experiencing health issues (see
+[here](../events/2024/2024-04-30-urgent-care-visit-and-tests.md) for
+the urgent care visit that the tests were part of, and
+[here](../events/2024/2024-04-25-abdominal-pain.md) for the underlying
+health incident). Although these issues weren't directly tied to an
+infectious exposure, there may well have been a mild elevation in
+"current activity" / "recent activity" as of the time of the test. All
+other readings were taken at a time when I didn't have any significant
+ongoing or recent health incidents or other events (such as infectious
+exposures or vaccinations) that might drive up "current activity" of
+the immune system.
+
+Based on this background information, the readings paint a reasonably
+clear picture:
+
+* In the general backdrop of Berkeley, California's environment, my
+  standing preparedness WBC level is near the low end of the reference
+  range (about 3.4 to 4.3, compared to a reference range lower
+  endpoint of 3.4).
+
+* My one reading in Chennai, India in 2005 is at the high end of the
+  reference range (10.4 compared to a reference range upper endpoint
+  of 10.8). I don't have good records to indicate whether I had recent
+  infectious exposures at the time, though I probably didn't. The much
+  higher reading then likely reflects greater standing preparedness,
+  which might have to do with my younger age and/or the greater
+  pathogen exposure based on the environment around me and my living
+  conditions (living with college batchmates).
+
+* The one reading in Berkeley, California in the backdrop of a recent
+  health incident is the one from April 2024, and at 5.1, it's still
+  in the lower half of the range but slightly elevated relative to the
+  other readings.
+
+#### Neutrophils: general overview
 
 Neutrophils play the role of migrating quickly (a process known as
 extravasation) to a site of infection or inflammation, and once there,
@@ -2284,7 +2338,70 @@ and reflective of standing preparedness:
   giving the more adaptive parts of the system (B cells and T cells)
   time and space to act.
 
-TODO pull in neutrophil levels and discuss them
+#### My neutrophil-related readings
+
+Below are my neutrophil-related readings, using explicitly reported
+values where available, and computed from other readings where
+not. For computed values, the basis of computation is described
+inline.
+
+Reading date | Neutrophils (absolute) | Neutrophils (%) | Neutrophil/lymphocyte ratio
+-- | -- | -- | --
+LabCorp reference range     | 1.4-7 | N/A  | 0-2.9
+2025-09-10 (September 2025) | 2.5   | 60   | 1.9
+2025-01-22 (January 2025)   | 2.3   | 66   | 2.6
+2024-09-03 (September 2024) | 2.376 | 59.4 | 1.9 (= 2.376 / 1.26)
+2024-04-30 (April 2024)     | 3.3   | 67   | 2.5 (= 3.3 / 1.3)
+2021-06-30 (June 2021)      | 2.302 | 54.8 | 1.7 (= 2.302 / 1.386)
+2016-12-12 (December 2016)  | 2.7   | 63   | 2.3 (= 2.7 / 1.2)
+2005-06-15 (June 2005)      | 8.4 (= 81% of 10.4)  | 81 | 5.1 (= 81% / 16%)
+
+My 2005 reading was taken in Chennai, India while I was pursuing
+undergraduate studies. All other readings (2016 onward) were taken
+while I was in Berkeley, California.
+
+The April 2024 reading is somewhat unusual in that it was taken
+non-fasting while I was experiencing health issues (see
+[here](../events/2024/2024-04-30-urgent-care-visit-and-tests.md) for
+the urgent care visit that the tests were part of, and
+[here](../events/2024/2024-04-25-abdominal-pain.md) for the underlying
+health incident). Although these issues weren't directly tied to an
+infectious exposure, there may well have been a mild elevation in
+"current activity" / "recent activity" as of the time of the test. All
+other readings were taken at a time when I didn't have any significant
+ongoing or recent health incidents or other events (such as infectious
+exposures or vaccinations) that might drive up "current activity" of
+the immune system.
+
+Based on the information above, the readings paint a reasonably clear
+picture:
+
+* In the general backdrop of Berkeley, California's environment, my
+  standing preparedness absolute neutrophil level is around 2.3 to
+  2.7, which is in the lower half of the reference range but not too
+  close to the lower endpoint. This suggests that my default standing
+  preparedness is on the low end, but neutrophils in particular don't
+  go too low. This is consistent with what good standing preparedness
+  looks like: even in an environment of low infection risk,
+  neutrophils shouldn't go too low.
+
+* The percentage of neutrophils, likewise, is pretty steady around
+  50-60%, and the neutrophil/lymphocyte ratio is well above 1 but
+  below the reference range upper limit of 2.9.
+
+* The 2005 Chennai reading is unusual: neutrophils are high in
+  absolute amount (8.4) and high as a percentage (81%). This likely
+  reflects greater standing preparedness in the Chennai environment,
+  as described earlier when discussing total WBC levels. What is
+  interesting is that this greater standing preparedness was
+  neutrophil-heavy as opposed to lymphocyte-heavy, which is what good
+  generic standing preparedness is expected to look like.
+
+* The April 2024 elevation was also slightly skewed in the direction
+  of neutrophils. This likely means that there was a general elevation
+  in activity in response to the health incident, but no specific
+  antigens were identified that needed attacking, so there was no
+  lymphocyte elevation.
 
 ### Platelets: primary hemostasis
 
