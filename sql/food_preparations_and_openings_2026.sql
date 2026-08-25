@@ -970,7 +970,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-22','TJ English Shelled Peas',2,1,null,null),
   ('2026-08-22','Beefsteak tomato',5,1,null,null), /* 2 from old batch, 3 from new batch, 1 from old batch thrown away due to spoilage, 4 remaining from new batch */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-22','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-08-22','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-24',1),
   ('2026-08-22','TJ Walnuts',1,2,null,null),
   /* 2026-08-23 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-08-23','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
