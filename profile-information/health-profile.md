@@ -2403,6 +2403,107 @@ picture:
   antigens were identified that needed attacking, so there was no
   lymphocyte elevation.
 
+#### Lymphocytes: general overview
+
+Lymphocytes are generally the second most common WBC after
+neutrophils. Whereas neutrophils are a first line of defense,
+lymphocytes are generally more active after an infection. Unlike
+neutrophils, lymphocytes are also key for fighting viral infections;
+in fact, since neutrophils are not very useful for viral infections,
+lymphocytes become the primary tool for fighting viral infections.
+
+There are three main kinds of lymphocytes:
+
+* T cells (thymus cells)
+
+* B cells
+
+* Natural killer cells (NK cells)
+
+In terms of our classification:
+
+* Innate/natural immunity versus adaptive immunity: Adaptive immunity.
+
+* Naive versus memory immunity: Both; we have both naive B cells and
+  memory B cells; we similarly have both naive T cells and memory T
+  cells.
+
+* Standing preparedness versus current activity: Both. There are some
+  circulating levels of lymphocytes all the time. However, lymphocytes
+  are quantitatively less important to standing preparedness than
+  neutrophils are; neutrophils are the first line of defense, and
+  lymphocytes are the second.
+
+* Cellular (cell-mediated) versus humoral immunity: Both. The
+  predominant mode breaks down by the type of cell:
+
+  * T cells are primarily cell-mediated.
+
+  * B cells act primarily through the humoral channel; the compounds
+    they produce, called immunoglobulins, are the antibodies that act
+    against specific antigens.
+
+* Blood versus tissue versus lymphatic system versus microbiome: As
+  the name suggests, lymphocytes are found in lymph tissue, that is
+  primarily made up of them. They are also found in blood, and they
+  get into blood *from* lymph tissue. Therefore, their standing
+  preparedness is in both blood and lymph (with lymph feeding blood).
+  In addition, the immunoglobulins produced by B cells also circulate
+  in blood. In response to infection or inflammation of tissue,
+  lymphocytes may extravasate to tissues (this is similar to
+  neutrophils, but it happens on a slower timescale).
+
+Based on this understanding, here are a few comments on what the CBC
+measures.
+
+* The CBC measures only total lymphocytes, and therefore does not separate:
+
+  * B cells versus T cells versus NK cells
+
+  * naive cells versus memory cells (an important distinction in the
+    context of B cells and T cells)
+
+* The CBC only measures the cells, not their humoral output, which is
+  particularly important for B cells that produce immunoglobulins
+  (that play the role of antibodies to specific antigens). An overall
+  picture of circulating immunoglobulins can be obtained using a
+  quantitative immunoglobulin test. However, even a quantitative
+  immunoglobulin test doesn't look for specific antibodies to specific
+  antigens. There are more advanced tests that look for antibodies to
+  specific antigens, but even most of these do not distinguish
+  neutralizing antibodies.
+
+* The CBC only measures the count of lymphocytes at a given time (and,
+  in the absence of current activity, this only measures standing
+  preparedness), rather than the upstream information sources and
+  algorithms (such as long-lived plasma cells and more complicated
+  immunological imprinting).
+
+#### My lymphocyte-related readings
+
+Reading date | Lymphocytes (absolute) | Lymphocytes (%)
+-- | -- | --
+LabCorp reference range     | 0.7-3.1 | N/A
+2025-09-10 (September 2025) | 1.3     | 31
+2025-01-22 (January 2025)   | 0.9     | 25
+2024-09-03 (September 2024) | 1.26    | 31.5
+2024-04-30 (April 2024)     | 1.3     | 26
+2021-06-30 (June 2021)      | 1.386   | 33
+2016-12-12 (December 2016)  | 1.2     | 27
+2005-06-15 (June 2005)      | 1.7 (= 16% of 10.4) | 16
+
+My lymphocyte readings have been fairly consistently in the lower half
+of the range, and the percentage of lymphocytes has also been fairly
+consistent about 25-35% (excluding the June 2005 reading).
+
+The June 2005 reading is a little higher than the other readings,
+which might reflect the different environment (undergraduate studies
+in Chennai, India) or my age; however, the lymphocyte difference is
+minor compared to the neutrophil difference, which was discussed in
+more detail in the neutrophil section above, and that also explains
+why, despite the higher absolute level of lymphocytes, the percentage
+of lymphocytes was lower in June 2005.
+
 ### Platelets: primary hemostasis
 
 TODO write a coagulation system primer and link to it from here.
