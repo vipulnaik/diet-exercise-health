@@ -977,5 +977,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-23','TJ Almond Milk',1,1,null,null),
   ('2026-08-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null), /* vanilla */
-  ('2026-08-24','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-08-24','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  /* 2026-08-25 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-08-25','Eggplant',1,1,null,null),
+  ('2026-08-25','TJ Kale',1,1,null,null),
+  ('2026-08-25','TJ Carrots',1,1,null,null),
+  ('2026-08-25','Green bell pepper',4,1,null,null),
+  ('2026-08-25','Red bell pepper',2,1,null,null),
+  ('2026-08-25','Beefsteak tomato',9,1,null,null); /* 4 from old batch (finishing the old batch), 5 from new batch, 2 remaining in new batch; limited by space in pot */
   /* Double-check the date and meal index before committing */
