@@ -742,3 +742,11 @@ There was no bleeding or pain after the initial recovery. There may
 have been a small amount of blood in my spit right after the pressure
 testing; it was hard to distinguish from other things that might
 thicken the saliva.
+
+## 2026-08-27 (past midnight from 2026-08-26) (off-cycle squeaky clean teeth testing)
+
+On Thursday 2026-08-27, shortly past midnight from Wednesday
+2026-08-26, after brushing teeth, I did a squeaky clean teeth test. I
+was able to get squeakiness everywhere on the facial surfaces of teeth
+with the exception of the mandibular incisors. The squeaky clean teeth
+test passed for most of the lingual surfaces of teeth.
