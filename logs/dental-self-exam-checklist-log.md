@@ -750,3 +750,16 @@ On Thursday 2026-08-27, shortly past midnight from Wednesday
 was able to get squeakiness everywhere on the facial surfaces of teeth
 with the exception of the mandibular incisors. The squeaky clean teeth
 test passed for most of the lingual surfaces of teeth.
+
+## 2026-08-28 (off-cycle floss pick pressure testing (some bleeding))
+
+At around 12:40 PM on Friday 2026-08-28, I did floss pick pressure
+testing. The only region that had bleeding, and more pain than
+expected, was the right mandibular interdental gaps, particularly the
+molars; I suspect all the bleeding happened from the interdental gap
+between the two molars, which is an interdental gap that has given me
+trouble, but this is hard to confirm exactly. This does suggest that I
+should do more thorough flossing of those particular teeth. In fact,
+it might be better to start my flossing with those teeth to give them
+more attention. I should also make sure to not have too long a gap
+before the next floss pick pressure testing.
