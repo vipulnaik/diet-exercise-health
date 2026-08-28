@@ -954,7 +954,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-16','TJ Almond Milk',1,2,'2026-08-23',1),
   ('2026-08-17','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-08-18',2),
-  ('2026-08-17','TJ Miso Ginger Broth',1,2,null,null),
+  ('2026-08-17','TJ Miso Ginger Broth',1,2,'2026-08-27',1),
   /* 2026-08-18 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-08-18','Lundberg Sustainable California White Basmati Rice',1,1,'2026-08-22',1),
   /* new bottle/packet openings as the old ones finished */
@@ -971,9 +971,9 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-22','Beefsteak tomato',5,1,null,null), /* 2 from old batch, 3 from new batch, 1 from old batch thrown away due to spoilage, 4 remaining from new batch */
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-22','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-24',1),
-  ('2026-08-22','TJ Walnuts',1,2,null,null),
+  ('2026-08-22','TJ Walnuts',1,2,'2026-08-27',1),
   /* 2026-08-23 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-08-23','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  ('2026-08-23','Lundberg Sustainable California White Basmati Rice',1,1,'2026-08-27',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-23','TJ Almond Milk',1,1,null,null),
   ('2026-08-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-26',1), /* vanilla */
@@ -989,5 +989,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-26','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
   ('2026-08-26','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
   /* 2026-08-27 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-08-27','Lundberg Sustainable California White Jasmine Rice',1,1,null,null);
+  ('2026-08-27','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-08-27','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-08-27','TJ Walnuts',1,1,null,null);
   /* Double-check the date and meal index before committing */
