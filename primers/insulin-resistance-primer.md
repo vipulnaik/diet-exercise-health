@@ -48,7 +48,7 @@ Not all details from the Claude conversation are transcribed, so
 reviewing the conversation may make sense if the primer here seems to
 have gaps worth filling.
 
-## Stuff left out of this primer
+## Stuff left out of the primer
 
 The following adjacent topics have been left out of this primer:
 
