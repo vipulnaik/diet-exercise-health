@@ -208,7 +208,7 @@ higher, while GLUT1 transport is not that sensitive to insulin, but it
 is sensitive to glucose levels.
 
 We talked about how the liver can store glucose (by converting it to
-glycogen stored in the liver; the muscles can do the same. After a
+glycogen stored in the liver); the muscles can do the same. After a
 carbohydrate-heavy meal, muscles take up glucose faster than they burn
 it, then store it as glycogen; this increased uptake is due to a
 combination of the direct effect of increased glucose and the effect
