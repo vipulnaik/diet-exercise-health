@@ -123,7 +123,7 @@ and can dip even lower during exercise.
 
 Input | Response | Effect on glucose | Effect on insulin
 -- | -- | -- | --
-Glucose up| Beta cells sense glucose via GLUT2/glucokinase, increase insulin secretion; alpha cells suppress glucagon | down (indirectly via insulin/glucagon) | up (direct effect)
+Glucose up| Beta cells sense glucose via GLUT2/glucokinase, increase insulin secretion; alpha cells suppress glucagon | down (indirect via insulin/glucagon) | up (direct effect)
 Insulin up | Mild autocrine feedback on beta cells (some self-limiting of further secretion); paracrine suppression of alpha-cell glucagon release | down (indirect via glucagon suppression) | down (via autocrine negative feedback)
 
 #### More comments
