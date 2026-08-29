@@ -59,7 +59,7 @@ The following adjacent topics have been left out of this primer:
   because clamping tests are not clinically available anyway.
 
 * Detailed biochemical models of glycolysis and cell-level
-  measurements of insulin resistance such as those done in Gerald
+  measurements of insulin resistance such as those done by Gerald
   Shulman.
 
 * Detailed description of what happens during exercise. We focus on
