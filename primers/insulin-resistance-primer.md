@@ -1,5 +1,30 @@
 # Insulin resistance primer
 
+Primer written: August 28 and 29, 2026 (2026-08-28 and 2026-08-29)
+
+Here's how this primer is organized:
+
+Preliminaries/meta:
+
+* [Level and goals of the primer](#level-and-goals-of-the-primer)
+* [Source information](#source-information)
+* [Stuff left out of the primer](#stuff-left-out-of-the-primer)
+
+Setting the stage:
+
+* [The two key metrics: glucose and insulin](#the-two-key-metrics-glucose-and-insulin)
+* [The four main players: pancreas, liver, muscle, and adipose tissue](#the-four-main-players-pancreas-liver-muscle-and-adipose-tissue)
+
+Telling the story:
+
+* [A multi-stage story from carbohydrate meal consumption to rest / fasting](#a-multi-stage-story-from-carbohydrate-meal-consumption-to-rest--fasting)
+
+Drawing the inferences:
+
+* [How each of the nodes can contribute to insulin resistance and glucose/insulin dysfunction](#how-each-of-the-nodes-can-contribute-to-insulin-resistance-and-glucoseinsulin-dysfunction)
+* [Muscle versus adipose tissue and quantity versus quality](#muscle-versus-adipose-tissue-and-quantity-versus-quality)
+* [Measurements](#measurements)
+
 ## Level and goals of the primer
 
 This is an intermediate-level primer I wrote specifically to ramp up
@@ -40,6 +65,10 @@ The following adjacent topics have been left out of this primer:
 * Detailed description of what happens during exercise. We focus on
   the postprandial and rested, fasting state, which are more important
   for interpreting available measurements.
+
+* A breakdown of non-carbohydrate food source consumption as well as
+  phenomena like ketosis and the role of a ketogenic or
+  low-carbohydrate diet.
 
 ## The two key metrics: glucose and insulin
 
@@ -86,7 +115,7 @@ go fairly high during or immediately after the consumption of a
 carbohydrate-rich meal. It is relatively low in a rested fasting state
 and can dip even lower during exercise.
 
-## The four main players in insulin: pancreas, liver, muscle, and adipose tissue
+## The four main players: pancreas, liver, muscle, and adipose tissue
 
 ### Pancreas (secretes insulin)
 
@@ -212,7 +241,7 @@ higher, adipose tissue suppresses the release of free fatty acids into
 the bloodstream, which reduces the substrate that the liver can use as
 an input for gluconeogenesis.
 
-## A multi-step story from carbohydrate meal consumption to rest / fasting
+## A multi-stage story from carbohydrate meal consumption to rest / fasting
 
 It helps to put all these nodes together in a single coherent
 narrative.
