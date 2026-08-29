@@ -146,7 +146,7 @@ itself. Therefore, we will focus less on it than on the other players.
 Input | Response | Effect on glucose | Effect on insulin
 -- | -- | -- | --
 Glucose up | GLUT2-mediated concentration-driven influx; glucokinase flux favors glycogenesis, suppresses glycogenolysis (largely insulin-independent, mass-action/substrate-driven autoregulation) | down | N/A (to a first approximation)
-Insulin up | Activates glycogenesis, suppresses gluconeogenesis and glycogenolysis, activates lipogenesis (SREBP-1c) | down | down (directly via first-pass clearance using insulin-degading enzyme)
+Insulin up | Activates glycogenesis, suppresses gluconeogenesis and glycogenolysis, activates lipogenesis (SREBP-1c) | down | down (directly via first-pass clearance using insulin-degrading enzyme)
 
 #### Dials
 
@@ -169,7 +169,7 @@ The liver has three levers controlling the level of glucose:
   glycogenolysis.
 
 * Gluconeogenesis: The liver can make glucose from non-carbohydrate
-  predecessors and release it into the bloodstream. This is useful
+  precursors and release it into the bloodstream. This is useful
   when the liver wants to release glucose but its glycogen stores are
   low; this would also be the mechanism by which energy ingested in
   non-carbohydrate forms, such as dietary fats and proteins, gets
@@ -246,7 +246,7 @@ an input for gluconeogenesis.
 It helps to put all these nodes together in a single coherent
 narrative.
 
-### Stage 0: absoprtion
+### Stage 0: absorption
 
 Carbohydrates reach the GI tract and get absorbed and broken down into
 glucose. This crosses the intestinal epithelium and enters the blood
@@ -359,7 +359,7 @@ mechanism is glucose-sensitive, not insulin-sensitive. However, Stage
 3 is where the liver's insulin resistance gets in the way: the liver
 is not able to turn its glycogenolysis/glycogenesis and
 gluconeogenesis dials as much as it should, because even though
-insulin is elevated, the liver isn't able to respond as well to tht
+insulin is elevated, the liver isn't able to respond as well to that
 increased insulin as it should.
 
 This effect continues through to the rested, fasting state: the liver
@@ -435,7 +435,7 @@ quantity.
 There are a few caveats: not all muscle cells are equal, and not all
 muscle tissues have the same ability to drive additional cells to
 increase the overall effectiveness of muscles as a sink. To a first
-approximation, leg muscle is more plentiful and structually more
+approximation, leg muscle is more plentiful and structurally more
 effective at taking up glucose, so increasing leg muscle is good for
 overall insulin sensitivity. Arm muscle, while important as part of a
 functional fitness story, is a much less powerful lever for insulin
@@ -450,9 +450,9 @@ bad quality can only exacerbate the problem. In other words, quantity
 exacerbates, rather than compensates for, quality. The one slight
 exception here is if the quantity increase comes specifically by
 reducing lower-quality higher-IR adipose tissue (such as inflamed
-visceral fat) by higher-quality lower-IR adipose tissue (such as
-subcutaneous fat). However, generally, interventions that reduce one
-kind of adipose tissue also reduce the other kind.
+visceral fat) while increasing higher-quality lower-IR adipose tissue
+(such as subcutaneous fat). However, generally, interventions that
+reduce one kind of adipose tissue also reduce the other kind.
 
 ## Measurements
 
@@ -474,7 +474,7 @@ Here's the breakdown in terms of our four nodes:
     that the pancreas has lost the ability to produce insulin.
 
   * However, the other profiles, such as normal glucose and low
-    insulin, or medim or high insulin, don't settle anything regarding
+    insulin, or medium or high insulin, don't settle anything regarding
     the health of the pancreas; they are perfectly consistent with a
     well-functioning pancreas, but they could also hide some partial
     dysfunction of the pancreas.
@@ -637,15 +637,24 @@ the past 3 or 4 months (based on the lifetime of the RBC).
 Unlike all the above, which are biochemical measurements, visceral
 fat, as measured on DEXA or MRI, is an anatomical measurement.
 
-DEXA provides a total estimate of visceral fat (which therefore
-provides an uper bound on visceral fat per organ). MRI can provide
-organ-specific values for organs such as the pancreas and liver.
+DEXA provides a total estimate of visceral fat. It does not estimate
+ectopic fat within specific organs, although visceral and ectopic fat
+correlate quite a bit. MRI measures both visceral fat and ectopic fat
+in specific organs like the liver and pancreas.
 
 Visceral fat speaks primarily to adipose insulin resistance. This is
 because visceral fat is much more likely to be insulin resistant, so
 the more of it there is quantitatively, the more quantitatively
-significant insulin resistance can be. A second reason visceral fat is
-more dangerous is location: it may be inside the liver or pancreas or
-at any rate close enough to the liver that its FFAs drain directly
-into the liver without dilution, which means that it has an undiluted
-effect on the liver's VLDL production.
+significant adipose insulin resistance can be. A second reason
+visceral fat is more dangerous is location: it lives close enough to
+the liver that its FFAs drain directly into the liver without
+dilution, which means that it has an undiluted effect on the liver's
+VLDL production.
+
+Ectopic fat is not measured in DEXA, but is correlated with DEXA's
+visceral fat measurement. In fact, visceral fat can *cause* ectopic
+fat, particularly in the liver (and to a lesser extent the pancreas),
+through the same portal drainage mechanism (free fatty acids from
+insulin-resistant visceral fat accumulate in the liver, building
+ectopic fat). This ectopic fat can then directly contribute to hepatic
+IR.
