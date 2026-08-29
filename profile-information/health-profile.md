@@ -1,6 +1,6 @@
 # Health profile
 
-Last major update: May 25, 2026 (2026-05-25)
+Last major update: August 25, 2026 (2026-08-25)
 
 NOTE (2025-09-22, updated 2026-05-25): I got [blood tests done on
 September 10, 2025](../events/2025/2025-09-10-blood-tests.md). I got
