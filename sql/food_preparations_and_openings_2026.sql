@@ -937,7 +937,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-08-13 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-08-13','Lundberg Sustainable California White Basmati Rice',1,1,'2026-08-18',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-13','TJ Sauerkraut',1,1,null,null),
+  ('2026-08-13','TJ Sauerkraut',1,1,'2026-08-29',1),
   ('2026-08-13','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-16',1),
   ('2026-08-14','TJ Walnuts',1,1,'2026-08-19',1),
   /* 2026-08-14 (Friday) Viet Time dine-in for dinner with a friend */
@@ -975,7 +975,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-08-23 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-08-23','Lundberg Sustainable California White Basmati Rice',1,1,'2026-08-27',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-23','TJ Almond Milk',1,1,null,null),
+  ('2026-08-23','TJ Almond Milk',1,1,'2026-08-29',1),
   ('2026-08-23','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-26',1), /* vanilla */
   ('2026-08-24','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-26',1),
   /* 2026-08-25 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
@@ -987,11 +987,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-25','Beefsteak tomato',9,1,null,null), /* 4 from old batch (finishing the old batch), 5 from new batch, 2 remaining in new batch; limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-26','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-08-28',1),
-  ('2026-08-26','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-08-26','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-29',1),
   /* 2026-08-27 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-08-27','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-27','TJ Miso Ginger Broth',1,1,null,null),
   ('2026-08-27','TJ Walnuts',1,1,null,null),
-  ('2026-08-27','TJ Roasted Seaweed',1,2,null,null);
+  ('2026-08-27','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-08-29','TJ Almond Milk',1,1,null,null),
+  ('2026-08-29','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
