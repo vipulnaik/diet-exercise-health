@@ -763,3 +763,32 @@ should do more thorough flossing of those particular teeth. In fact,
 it might be better to start my flossing with those teeth to give them
 more attention. I should also make sure to not have too long a gap
 before the next floss pick pressure testing.
+
+I experienced a little bit of further bleeding after normal floss pick
+flossing on 2026-08-29, past midnight from 2026-08-28, when I flossed
+the right mandibular interdental gaps twice, targeting normal pressure
+both times. This was just a little bit of blood in one round of spit
+rather than continued bleeding, and my guess is that I used a bit more
+force than ideal, which, combined with tenderness from the previous
+injury, released a bit of the clotted blood.
+
+## 2026-08-30 (insight during intra-oral mirror check)
+
+During my intra-oral mirror check, I happened to capture the distal
+surface (facing the now-removed wisdom tooth) of my right maxillary
+second molar, and noticed that it appeared to have more plaque than
+the other surfaces. This has highlighted the importance of deliberate
+brush strokes on the distal surfaces of the second molars, given that
+the wisdom teeth they are adjacent to are now removed.
+
+Planned changes going forward:
+
+* I should make sure to cover these surfaces explicitly when
+  brushing. The transition from lingual to facial surfaces is a good
+  time for this.
+
+* I should cover these when flossing, even though there's no
+  interdental gap; I should still run the floss pick or interdental
+  brush against the surface. This gets us at least the minimal benefit
+  that comes from flossing, though this is more about scraping debris
+  than the brush/paste action, so it doesn't substitute for brushing.
