@@ -965,6 +965,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-21','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-23',2), /* vanilla */
   ('2026-08-21','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-22',2),
   /* 2026-08-22 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  /* I discovered with the second meal on 2026-08-30 that there was about 1.5 meals worth of potatoes prep + eggplant meal prep left; the potatoes prep being below the eggplant meal prep was not visible from a cursory glance; I'm still keeping the completion date based on when the bulk of the prep was finished. */
   ('2026-08-22','Gold potatoes 5 lb',0.5,1,'2026-08-27',2),
   ('2026-08-22','TJ Kale',1,1,'2026-08-27',2),
   ('2026-08-22','TJ English Shelled Peas',2,1,'2026-08-27',2),
