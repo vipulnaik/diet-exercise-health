@@ -951,7 +951,13 @@ roughly normal cycling between exercises, I took a break from
 exercising in order to fit in potatoes prep while also getting through
 my backlog of tasks.
 
-## 2026-08-25
+## 2026-08-25: skipped all exercises
 
 On Tuesday 2026-08-25, I decided to skip all exercises to fit in meal
 prep in the early afternoon and other chores later in the day.
+
+## 2026-08-30: skipped all exercises
+
+On Sunday 2026-08-30, I decided to skip all exercises to fit in meal
+prep in the early afternoon and use the late afternoon / evening to
+make progress on on a huge backlog of tasks.
