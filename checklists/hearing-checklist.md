@@ -130,7 +130,7 @@ headphones have a latency of a few hundred milliseconds.
 
 Play this once with the left ear and once with the right ear, and
 record in Slack self-chat logs with message of the format: `auditory
-reaction time: <number> ms with left ear, <number> ms with right
+reaction time: <number>ms with left ear, <number>ms with right
 ear`. Note that I may not always add a space between `<number>` and
 ms.
 
