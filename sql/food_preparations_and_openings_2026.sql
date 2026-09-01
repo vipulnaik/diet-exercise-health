@@ -990,13 +990,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-26','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-08-28',1),
   ('2026-08-26','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-08-29',1),
   /* 2026-08-27 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-08-27','Lundberg Sustainable California White Jasmine Rice',1,1,null,null),
+  ('2026-08-27','Lundberg Sustainable California White Jasmine Rice',1,1,'2026-08-31',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-27','TJ Miso Ginger Broth',1,1,null,null),
-  ('2026-08-27','TJ Walnuts',1,1,null,null),
+  ('2026-08-27','TJ Walnuts',1,1,'2026-08-31',2),
   ('2026-08-27','TJ Roasted Seaweed',1,2,null,null),
   ('2026-08-29','TJ Almond Milk',1,1,null,null),
-  ('2026-08-29','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-08-29','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-08-31',2),
   ('2026-08-29','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-30',2),
   /* 2026-08-30 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-08-30','Gold potatoes 5 lb',0.5,1,null,null),
@@ -1005,5 +1005,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-30','Beefsteak tomato',4,1,null,null), /* 2 from old batch (finishing old batch), 2 from new batch; 5 remaining from new batch */
   /* new bottle/packet openings as the old ones finished */
   ('2026-08-30','TJ Sauerkraut',1,1,null,null),
-  ('2026-08-31','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
+  ('2026-08-31','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  /* 2026-08-31 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2026-08-31','Lundberg Sustainable California White Jasmine Rice',1,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-08-31','TJ Walnuts',1,2,null,null),
+  ('2026-08-31','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
