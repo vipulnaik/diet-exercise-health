@@ -961,3 +961,12 @@ prep in the early afternoon and other chores later in the day.
 On Sunday 2026-08-30, I decided to skip all exercises to fit in meal
 prep in the early afternoon and use the late afternoon / evening to
 make progress on on a huge backlog of tasks.
+
+## 2026-08-31: skipped strength exercises
+
+On Monday 2026-08-31, I skipped strength exercises (dead hang and
+pull-ups were due on this day). This was because of a work meeting
+starting shortly after I returned from jogging, and continuing for
+longer than anticipated. By the time I had time to do strength
+exercises, it was already late and I didn't want the exercises plus
+cooldownn period to delay my meal consumption further.
