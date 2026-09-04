@@ -970,3 +970,14 @@ starting shortly after I returned from jogging, and continuing for
 longer than anticipated. By the time I had time to do strength
 exercises, it was already late and I didn't want the exercises plus
 cooldownn period to delay my meal consumption further.
+
+## 2026-09-03: skipped jogging and non-strength cycle exercise
+
+On Thursday 2026-09-03, I skipped jogging and the non-strength cycle
+exercise (humming with intermittent pauses). I did do hand gripper
+exercises while in a meeting, but needed to switch to meal prep and
+didn't have time to fit in jogging in the interim. The meeting
+actually extended into a semi-collaborative work session, which didn't
+require continuous interaction, but also would have made it harder to
+fit in humming with intermittent pauses since that requires continuous
+vocal use for a non-meeting purpose.
