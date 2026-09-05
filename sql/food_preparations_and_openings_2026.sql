@@ -1021,5 +1021,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-03','Red bell pepper',2,1,null,null),
   ('2026-09-03','Beefsteak tomato',8,1,null,null), /* 5 from old batch (finishing the old batch), 3 from new batch, 4 remaining in new batch; limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-09-03','TJ Miso Ginger Broth',1,1,null,null);
+  ('2026-09-03','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-09-04','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
