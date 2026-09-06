@@ -145,3 +145,8 @@ On Friday 2026-08-14, I went to San Bruno (via BART) to meet a high
 school friend who was visiting the Bay Area. We met up at Viet Time,
 which is near the Starbucks. On the way back, I also checked out our
 old LiftIgniter office.
+
+## 2026-09-05
+
+On Saturday 2026-09-05, in the evening, I made a trip to Walgreens to
+buy toiletries.
