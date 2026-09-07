@@ -981,3 +981,11 @@ actually extended into a semi-collaborative work session, which didn't
 require continuous interaction, but also would have made it harder to
 fit in humming with intermittent pauses since that requires continuous
 vocal use for a non-meeting purpose.
+
+## 2026-09-06: skipped all exercises
+
+On Sunday 2026-09-06, I skipped all exercises in order to fit in work
+completing a complex project (ARK conjecture work) in the afternoon
+while also making a Berkeley Bowl trip for shopping (I wanted to
+finish the trip because Berkeley Bowl was closed the next day, Monday,
+for Labor Day).
