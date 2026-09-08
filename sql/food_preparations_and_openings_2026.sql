@@ -1031,5 +1031,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-05','TJ Roasted Seaweed',1,2,null,null),
   ('2026-09-06','TJ Almond Milk',1,1,null,null),
   ('2026-09-06','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-09-07','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
+  ('2026-09-07','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  /* 2026-09-07 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-09-07','Gold potatoes 5 lb',0.5,2,null,null),
+  ('2026-09-07','TJ Kale',1,2,null,null),
+  ('2026-09-07','TJ English Shelled Peas',2,2,null,null),
+  ('2026-09-07','Beefsteak tomato',3,2,null,null); /* 3 from old batch, discarded remaining 1 from old batch; I did not touch the new batch which has 7 tomatoes */
   /* Double-check the date and meal index before committing */

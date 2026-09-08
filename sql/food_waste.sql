@@ -49,5 +49,6 @@ insert into food_waste(waste_date, food_type, quantity, after_preparation_or_ope
   ('2026-05-07','TJ English Shelled Peas',0.1,false,'17 peas, or about 10% of one of the TJ English Shelled Peas packets, spilled out suddenly when opening as part of potatoes prep.'),
   ('2026-07-11','Gold potatoes 5 lb',0.03,false,'1 potato in the entire 5 lb pack (or about 1/30 of the whole pack) looked a bit diseased so I discarded it and did not use it for prep.'),
   ('2026-07-27','TJ Kale',0.1,false,'About 10% of the kale fell out of the packet and not in the pot during eggplant meal prep.'),
-  ('2026-08-22','Beefsteak tomato',1,false,'The tomato had whole-body spoilage and did not seem rescuable.');
+  ('2026-08-22','Beefsteak tomato',1,false,'The tomato had whole-body spoilage and did not seem rescuable.'),
+  ('2026-09-07','Beefsteak tomato',1,false,'The tomato had substantial spoilage and rather than try to rescue the unspoiled part, I deemed it safer to discard it entirely.');
   /* Double-check the date before committing */
