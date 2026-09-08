@@ -989,3 +989,9 @@ completing a complex project (ARK conjecture work) in the afternoon
 while also making a Berkeley Bowl trip for shopping (I wanted to
 finish the trip because Berkeley Bowl was closed the next day, Monday,
 for Labor Day).
+
+## 2026-09-07: skipped all exercises
+
+On Monday 2026-09-07, I skipped all exercises in order to fit in a
+Trader Joe's trip in the early afternoon and meal prep later in the
+day.
