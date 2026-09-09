@@ -493,7 +493,7 @@ Here's the breakdown in terms of our four nodes:
     insulin, but the combined effect of the pancreas, muscle, and
     adipose tissue is not enough to keep glucose in check. This also
     suggests that the liver isn't the only thing with problems:
-    perhaps the pancreas is not responding by overproducing effect, or
+    perhaps the pancreas is not responding by overproducing insulin, or
     perhaps there's also muscle and adipose insulin resistance feeding
     the problem.
 
