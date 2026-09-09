@@ -995,3 +995,15 @@ for Labor Day).
 On Monday 2026-09-07, I skipped all exercises in order to fit in a
 Trader Joe's trip in the early afternoon and meal prep later in the
 day.
+
+## 2026-09-08: skipped all exercises
+
+On Tuesday 2026-09-08, I skipped all exercises. This was due to a
+combination of complex tax work in the early afternoon, and some
+unexpected incoming day job tasks right when I had wrapped up and was
+getting ready to exercise.
+
+This is the third day in a row that I skipped all exercises, and
+reflects the outcome of a general pile-up of cyclic personal chores as
+well as several complicated high-intensity stream of work. It's
+important to not skip for the next few days.
