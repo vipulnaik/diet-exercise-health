@@ -1007,3 +1007,10 @@ This is the third day in a row that I skipped all exercises, and
 reflects the outcome of a general pile-up of cyclic personal chores as
 well as several complicated high-intensity stream of work. It's
 important to not skip for the next few days.
+
+## 2026-09-09: skipped strength exercises
+
+On Wednesday 2026-09-09, I skipped strength exercises due to
+heat-related exhausion (indoor temperature was around 88 degrees
+Fahrenheit, and outdoor temperature was even higher). I used the
+freed-up time to shave and take other cooldown actions.
