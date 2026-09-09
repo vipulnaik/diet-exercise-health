@@ -89,10 +89,19 @@ mg/dL for healthy individuals at all times, and ideally between 70
 mg/dL and 180 mg/dL. The delta between the maximum and the minimum
 level of glucose seen can get used up by the body within a matter of
 minutes, and exactly how many minutes varies a lot based on how much
-physical exertion is happening at the time. This means that the liver
-plays a very important role in making sure to top up glucose levels
-just enough to stay within the band, and adjust that rate of topping
-up based on the body's use of glucose.
+physical exertion is happening at the time. Moreover, in the
+postprandial state for a carbohydrate-heavy meal, a huge amount of
+glucose is being released into the bloodstream from the GI tract,
+that, per first pass metabolism, is seen by the liver before entering
+circulation, and without the liver taking it out of circulation,
+glucose levels in the bloodstream from such a meal could spike very
+high.
+
+This means that the liver plays a very important role in making sure
+to suppress or top up glucose levels just enough to stay within the
+band, adjusting dynamically based on the body's rate of use of glucose
+as well as (in the postprandial state) the rate at which glucose is
+coming in from the GI tract.
 
 ### Insulin (level can vary widely)
 
