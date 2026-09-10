@@ -1014,3 +1014,10 @@ On Wednesday 2026-09-09, I skipped strength exercises due to
 heat-related exhausion (indoor temperature was around 88 degrees
 Fahrenheit, and outdoor temperature was even higher). I used the
 freed-up time to shave and take other cooldown actions.
+
+## 2026-09-10: reduced jogging and skipped strength exercises
+
+On Thursday 2026-09-10, I did hand gripper exercises as
+usual. However, I did abridged jogging and skipped strength
+exercises. Both of these were due to heat-related exhaustion; the
+indoor temperature was about 89 degrees Fahrenheit.
