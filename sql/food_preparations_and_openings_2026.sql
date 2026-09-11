@@ -1014,12 +1014,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-04',2),
   ('2026-09-02','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-03',2),
   /* 2026-09-03 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-09-03','Eggplant',1,1,null,null),
-  ('2026-09-03','TJ Kale',1,1,null,null),
-  ('2026-09-03','TJ Carrots',1,1,null,null),
-  ('2026-09-03','Green bell pepper',4,1,null,null),
-  ('2026-09-03','Red bell pepper',2,1,null,null),
-  ('2026-09-03','Beefsteak tomato',8,1,null,null), /* 5 from old batch (finishing the old batch), 3 from new batch, 4 remaining in new batch; limited by space in pot */
+  ('2026-09-03','Eggplant',1,1,'2026-09-10',2),
+  ('2026-09-03','TJ Kale',1,1,'2026-09-10',2),
+  ('2026-09-03','TJ Carrots',1,1,'2026-09-10',2),
+  ('2026-09-03','Green bell pepper',4,1,'2026-09-10',2),
+  ('2026-09-03','Red bell pepper',2,1,'2026-09-10',2),
+  ('2026-09-03','Beefsteak tomato',8,1,'2026-09-10',2), /* 5 from old batch (finishing the old batch), 3 from new batch, 4 remaining in new batch; limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-03','TJ Miso Ginger Broth',1,1,null,null),
   ('2026-09-04','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-05',2),
@@ -1039,7 +1039,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-07','Beefsteak tomato',3,2,null,null), /* 3 from old batch, discarded remaining 1 from old batch; I did not touch the new batch which has 7 tomatoes */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-09','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
-  ('2026-09-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-09-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-09-10',2),
   ('2026-09-09','TJ Walnuts',1,1,null,null),
   /* 2026-09-10 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-09-10','Lundberg Sustainable California White Jasmine Rice',1,1,null,null);
