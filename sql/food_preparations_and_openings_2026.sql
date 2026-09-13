@@ -596,7 +596,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-05-14','TJ English Shelled Peas',2,2,'2026-05-19',1),
   ('2026-05-14','Beefsteak tomato',4,2,'2026-05-19',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-05-14','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with potatoes prep */
+  ('2026-05-14','Trader Giotto''s Olive Oil',1,2,'2026-07-11',1), /* opened with potatoes prep; finishing time backfilled as estimated, picking potatoes prep */
   ('2026-05-14','TJ Walnuts',1,2,'2026-05-18',1),
   ('2026-05-14','TJ Brazil Nuts',1,2,null,null),
   ('2026-05-14','TJ Almond Milk',1,2,'2026-05-19',2),
@@ -812,6 +812,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-11','TJ Broccoli Florets 12 oz',1,1,'2026-07-15',1),
   ('2026-07-11','Beefsteak tomato',4,1,'2026-07-15',1), /* limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
+  ('2026-07-11','Trader Giotto''s Olive Oil',1,1,null,null), /* backfilled/estimated as having been opened around the time of this potatoes prep*/
   ('2026-07-11','TJ Almond Milk',1,1,'2026-07-18',1),
   ('2026-07-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-13',2),
   ('2026-07-12','TJ Miso Ginger Broth',1,2,'2026-07-23',2),
