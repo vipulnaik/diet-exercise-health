@@ -1027,3 +1027,10 @@ indoor temperature was about 89 degrees Fahrenheit.
 On Sunday 2026-09-13, I skipped all exercises in order to fit meal
 prep after doing some hands-on computer work in the morning and early
 afternoon.
+
+## 2026-09-14: skipped strength exercises
+
+On Monday 2026-09-14, I skipped strength exercises due to heat-induced
+exhaustion after jogging (the indoor temperature was 80 degrees
+Fahrenheit), and also to conserve time given that I was generally
+backlogged. I did hand gripper exercises and indoor jogging as usual.
