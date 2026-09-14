@@ -1021,3 +1021,9 @@ On Thursday 2026-09-10, I did hand gripper exercises as
 usual. However, I did abridged jogging and skipped strength
 exercises. Both of these were due to heat-related exhaustion; the
 indoor temperature was about 89 degrees Fahrenheit.
+
+## 2026-09-13: skipped all exercises
+
+On Sunday 2026-09-13, I skipped all exercises in order to fit meal
+prep after doing some hands-on computer work in the morning and early
+afternoon.
