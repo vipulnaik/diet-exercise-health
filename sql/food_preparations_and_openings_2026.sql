@@ -725,7 +725,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-06-17 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-06-17','Lundberg Sustainable California White Jasmine Rice',1,2,'2026-06-22',1),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-06-17','TJ Cumin',1,2,null,null), /* opened with 2026-06-17 rice prep */
+  ('2026-06-17','TJ Cumin',1,2,'2026-09-13',1), /* opened with 2026-06-17 rice prep, finished with 2026-09-13 eggplant meal prep */
   ('2026-06-18','TJ Sauerkraut',1,1,'2026-07-06',1),
   ('2026-06-18','TJ Walnuts',1,1,'2026-06-22',2),
   ('2026-06-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-06-20',1),
@@ -1034,10 +1034,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-06','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-08',2),
   ('2026-09-07','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-08',2),
   /* 2026-09-07 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-09-07','Gold potatoes 5 lb',0.5,2,null,null),
-  ('2026-09-07','TJ Kale',1,2,null,null),
-  ('2026-09-07','TJ English Shelled Peas',2,2,null,null),
-  ('2026-09-07','Beefsteak tomato',3,2,null,null), /* 3 from old batch, discarded remaining 1 from old batch; I did not touch the new batch which has 7 tomatoes */
+  ('2026-09-07','Gold potatoes 5 lb',0.5,2,'2026-09-13',1),
+  ('2026-09-07','TJ Kale',1,2,'2026-09-13',1),
+  ('2026-09-07','TJ English Shelled Peas',2,2,'2026-09-13',1),
+  ('2026-09-07','Beefsteak tomato',3,2,'2026-09-13',1), /* 3 from old batch, discarded remaining 1 from old batch; I did not touch the new batch which has 7 tomatoes */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-09','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-11',2),
   ('2026-09-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-09-10',2),
@@ -1047,5 +1047,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-11','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-09-12',2),
   ('2026-09-11','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
-  ('2026-09-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
+  ('2026-09-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  /* 2026-09-13 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-09-13','Green bell pepper',4,1,null,null),
+  ('2026-09-13','Red bell pepper',4,1,null,null),
+  ('2026-09-13','TJ Kale',1,1,null,null),
+  ('2026-09-13','TJ Carrots',1,1,null,null),
+  ('2026-09-13','Beefsteak tomato',6,1,null,null); /* used up all 7 from old batch and discarded effectively 1 total across spoilt parts of 3 tomatoes; did not touch the new batch of 5 tomatoes */
   /* Double-check the date and meal index before committing */

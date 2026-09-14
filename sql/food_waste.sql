@@ -50,5 +50,6 @@ insert into food_waste(waste_date, food_type, quantity, after_preparation_or_ope
   ('2026-07-11','Gold potatoes 5 lb',0.03,false,'1 potato in the entire 5 lb pack (or about 1/30 of the whole pack) looked a bit diseased so I discarded it and did not use it for prep.'),
   ('2026-07-27','TJ Kale',0.1,false,'About 10% of the kale fell out of the packet and not in the pot during eggplant meal prep.'),
   ('2026-08-22','Beefsteak tomato',1,false,'The tomato had whole-body spoilage and did not seem rescuable.'),
-  ('2026-09-07','Beefsteak tomato',1,false,'The tomato had substantial spoilage and rather than try to rescue the unspoiled part, I deemed it safer to discard it entirely.');
+  ('2026-09-07','Beefsteak tomato',1,false,'The tomato had substantial spoilage and rather than try to rescue the unspoiled part, I deemed it safer to discard it entirely.'),
+  ('2026-09-13','Beefsteak tomato',1,false,'This is the total across parts of three tomatoes that had slight spoilage or softness; the rest of each tomato was intact.');
   /* Double-check the date before committing */
