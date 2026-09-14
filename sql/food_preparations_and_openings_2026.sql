@@ -1030,7 +1030,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-05','TJ Walnuts',1,2,'2026-09-09',1),
   ('2026-09-05','TJ Roasted Seaweed',1,2,null,null),
-  ('2026-09-06','TJ Almond Milk',1,1,null,null),
+  ('2026-09-06','TJ Almond Milk',1,1,'2026-09-13',2),
   ('2026-09-06','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-08',2),
   ('2026-09-07','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-08',2),
   /* 2026-09-07 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
@@ -1053,5 +1053,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-13','Red bell pepper',4,1,null,null),
   ('2026-09-13','TJ Kale',1,1,null,null),
   ('2026-09-13','TJ Carrots',1,1,null,null),
-  ('2026-09-13','Beefsteak tomato',6,1,null,null); /* used up all 7 from old batch and discarded effectively 1 total across spoilt parts of 3 tomatoes; did not touch the new batch of 5 tomatoes */
+  ('2026-09-13','Beefsteak tomato',6,1,null,null), /* used up all 7 from old batch and discarded effectively 1 total across spoilt parts of 3 tomatoes; did not touch the new batch of 5 tomatoes */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-09-13','TJ Almond Milk',1,2,null,null);
   /* Double-check the date and meal index before committing */
