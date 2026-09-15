@@ -10,7 +10,7 @@
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
 | Kite Hill Greek Style Plant-Based Yogurt           |                            3.0000 |                                    0.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
-| Lundberg Sustainable California White Basmati Rice |                            6.0000 |                                    0.0000 |
+| Lundberg Sustainable California White Basmati Rice |                            5.0000 |                                    1.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            0.0000 |                                    0.0000 |
 | Morton Iodized Sea Salt                            |                            1.0000 |                                    1.0000 |
 | Mr. East Kitchen veggie pho                        |                            0.0000 |                                    0.0000 |
@@ -25,7 +25,7 @@
 | TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
 | TJ Carrots                                         |                            0.0000 |                                    1.0000 |
 | TJ Cinnamon                                        |                            0.0000 |                                    1.0000 |
-| TJ Cumin                                           |                            3.0000 |                                    0.0000 |
+| TJ Cumin                                           |                            2.0000 |                                    1.0000 |
 | TJ English Shelled Peas                            |                            0.0000 |                                    0.0000 |
 | TJ Green Lentils                                   |                            0.0000 |                                    0.0000 |
 | TJ Kale                                            |                            0.0000 |                                    1.0000 |
