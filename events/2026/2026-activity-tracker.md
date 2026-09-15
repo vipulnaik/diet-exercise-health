@@ -150,3 +150,9 @@ old LiftIgniter office.
 
 On Saturday 2026-09-05, in the evening, I made a trip to Walgreens to
 buy toiletries.
+
+## 2026-09-14
+
+On Monday 2026-09-14, in the evening, I made a trip to Amazon Hub
+Locker. On the way back, I stopped at the Walgreens at 2801 Adeline St
+for toiletries purchase.
