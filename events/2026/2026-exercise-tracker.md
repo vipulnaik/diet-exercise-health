@@ -1034,3 +1034,11 @@ On Monday 2026-09-14, I skipped strength exercises due to heat-induced
 exhaustion after jogging (the indoor temperature was 80 degrees
 Fahrenheit), and also to conserve time given that I was generally
 backlogged. I did hand gripper exercises and indoor jogging as usual.
+
+## 2026-09-16: skipped all exercises
+
+On Wednesday 2026-09-16, I skipped all exercises, due to general
+fatigue arising from having stayed up late, lethargy that likely
+stemmed from the temperature drop, and a desire to shift my sleep
+cycle to earlier and save time in order to catch up on the huge
+backlog of work.
