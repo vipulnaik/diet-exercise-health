@@ -1005,7 +1005,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-30','TJ English Shelled Peas',2,1,'2026-09-05',2),
   ('2026-08-30','Beefsteak tomato',4,1,'2026-09-05',2), /* 2 from old batch (finishing old batch), 2 from new batch; 5 remaining from new batch */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-30','TJ Sauerkraut',1,1,null,null),
+  ('2026-08-30','TJ Sauerkraut',1,1,'2026-09-16',1),
   ('2026-08-31','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-01',1),
   /* 2026-08-31 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-08-31','Lundberg Sustainable California White Jasmine Rice',1,2,'2026-09-05',1),
@@ -1063,6 +1063,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-15','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-15','TJ Cumin',1,1,null,null), /* opened with rice prep */
-  ('2026-09-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-09-15','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-09-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-09-16',1),
+  ('2026-09-15','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-09-16','TJ Sauerkraut',1,1,null,null);
   /* Double-check the date and meal index before committing */
