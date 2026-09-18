@@ -1064,7 +1064,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-15','TJ Cumin',1,1,null,null), /* opened with rice prep */
   ('2026-09-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-09-16',1),
-  ('2026-09-15','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-09-15','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-17',2),
   ('2026-09-16','TJ Sauerkraut',1,1,null,null),
-  ('2026-09-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
+  ('2026-09-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-17',2),
+  ('2026-09-17','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
