@@ -1029,7 +1029,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-05','Lundberg Sustainable California White Basmati Rice',1,2,'2026-09-09',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-05','TJ Walnuts',1,2,'2026-09-09',1),
-  ('2026-09-05','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-09-05','TJ Roasted Seaweed',1,2,'2026-09-18',2),
   ('2026-09-06','TJ Almond Milk',1,1,'2026-09-13',2),
   ('2026-09-06','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-08',2),
   ('2026-09-07','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-08',2),
@@ -1075,5 +1075,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-18','Beefsteak tomato',7,1,null,null), /* 5 from old batch (finishing old batch), 2 from new batch, 3 remain from new batch */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-18','Trader Giotto''s Olive Oil',1,1,null,null), /* opened with potatoes prep */
-  ('2026-09-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-09-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-09-18','TJ Roasted Seaweed',1,2,null,null);
   /* Double-check the date and meal index before committing */
