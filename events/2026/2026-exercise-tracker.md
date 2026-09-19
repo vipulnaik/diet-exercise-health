@@ -1042,3 +1042,9 @@ fatigue arising from having stayed up late, lethargy that likely
 stemmed from the temperature drop, and a desire to shift my sleep
 cycle to earlier and save time in order to catch up on the huge
 backlog of work.
+
+## 2026-09-18: skipped all exercises
+
+On Friday 2026-09-18, I skipped all exercises to be able to fit meal
+prep in the afternoon and also do laundry later in the day (I was
+heavily backlogged on cyclic personal chores).
