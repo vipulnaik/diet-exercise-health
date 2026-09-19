@@ -812,7 +812,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-07-11','TJ Broccoli Florets 12 oz',1,1,'2026-07-15',1),
   ('2026-07-11','Beefsteak tomato',4,1,'2026-07-15',1), /* limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-07-11','Trader Giotto''s Olive Oil',1,1,null,null), /* backfilled/estimated as having been opened around the time of this potatoes prep*/
+  ('2026-07-11','Trader Giotto''s Olive Oil',1,1,'2026-09-18',1), /* backfilled/estimated as having been opened around the time of this potatoes prep; finished with 2026-09-18 potatoes prep*/
   ('2026-07-11','TJ Almond Milk',1,1,'2026-07-18',1),
   ('2026-07-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-07-13',2),
   ('2026-07-12','TJ Miso Ginger Broth',1,2,'2026-07-23',2),
@@ -1049,11 +1049,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-11','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-14',1),
   ('2026-09-12','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-14',2),
   /* 2026-09-13 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-09-13','Green bell pepper',4,1,null,null),
-  ('2026-09-13','Red bell pepper',4,1,null,null),
-  ('2026-09-13','TJ Kale',1,1,null,null),
-  ('2026-09-13','TJ Carrots',1,1,null,null),
-  ('2026-09-13','Beefsteak tomato',6,1,null,null), /* used up all 7 from old batch and discarded effectively 1 total across spoilt parts of 3 tomatoes; did not touch the new batch of 5 tomatoes */
+  ('2026-09-13','Green bell pepper',4,1,'2026-09-18',1),
+  ('2026-09-13','Red bell pepper',4,1,'2026-09-18',1),
+  ('2026-09-13','TJ Kale',1,1,'2026-09-18',1),
+  ('2026-09-13','TJ Carrots',1,1,'2026-09-18',1),
+  ('2026-09-13','Beefsteak tomato',6,1,'2026-09-18',1), /* used up all 7 from old batch and discarded effectively 1 total across spoilt parts of 3 tomatoes; did not touch the new batch of 5 tomatoes */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-13','TJ Almond Milk',1,2,null,null),
   ('2026-09-14','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-15',2),
@@ -1067,5 +1067,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-15','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-17',2),
   ('2026-09-16','TJ Sauerkraut',1,1,null,null),
   ('2026-09-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-17',2),
-  ('2026-09-17','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-09-17','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  /* 2026-09-18 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-09-18','Gold potatoes 5 lb',0.5,1,null,null),
+  ('2026-09-18','TJ Kale',1,1,null,null),
+  ('2026-09-18','TJ English Shelled Peas',2,1,null,null),
+  ('2026-09-18','Beefsteak tomato',7,1,null,null), /* 5 from old batch (finishing old batch), 2 from new batch, 3 remain from new batch */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-09-18','Trader Giotto''s Olive Oil',1,1,null,null), /* opened with potatoes prep */
+  ('2026-09-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
