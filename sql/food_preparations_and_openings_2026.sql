@@ -1077,5 +1077,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-18','Trader Giotto''s Olive Oil',1,1,null,null), /* opened with potatoes prep */
   ('2026-09-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   ('2026-09-18','TJ Roasted Seaweed',1,2,null,null),
-  ('2026-09-19','TJ Walnuts',1,1,null,null);
+  ('2026-09-19','TJ Walnuts',1,1,null,null),
+  /* 2026-09-19 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2026-09-19','Lundberg Sustainable California White Basmati Rice',1,2,null,null);
   /* Double-check the date and meal index before committing */
