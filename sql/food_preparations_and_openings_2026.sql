@@ -1081,5 +1081,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* 2026-09-19 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-09-19','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-09-19','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-09-19','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-09-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
