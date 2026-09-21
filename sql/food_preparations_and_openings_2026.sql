@@ -1075,7 +1075,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-18','Beefsteak tomato',7,1,null,null), /* 5 from old batch (finishing old batch), 2 from new batch, 3 remain from new batch */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-18','Trader Giotto''s Olive Oil',1,1,null,null), /* opened with potatoes prep */
-  ('2026-09-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-09-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-09-20',1),
   ('2026-09-18','TJ Roasted Seaweed',1,2,null,null),
   ('2026-09-19','TJ Walnuts',1,1,null,null),
   /* 2026-09-19 rice prep (second meal) (added turmeric, cumin, salt) */
