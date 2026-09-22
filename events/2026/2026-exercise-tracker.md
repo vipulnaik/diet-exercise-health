@@ -1048,3 +1048,8 @@ backlog of work.
 On Friday 2026-09-18, I skipped all exercises to be able to fit meal
 prep in the afternoon and also do laundry later in the day (I was
 heavily backlogged on cyclic personal chores).
+
+## 2026-09-21: skipped all exercises
+
+On Monday 2026-09-21, I skipped all exercises to fit a Trader Joe's
+trip in the afternoon as well as meal prep later in the day.
