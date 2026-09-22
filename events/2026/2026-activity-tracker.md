@@ -156,3 +156,10 @@ buy toiletries.
 On Monday 2026-09-14, in the evening, I made a trip to Amazon Hub
 Locker. On the way back, I stopped at the Walgreens at 2801 Adeline St
 for toiletries purchase.
+
+## 2026-09-21
+
+On Monday 2026-09-21, in the afternoon, I made a trip to downtown
+Berkeley. My first stop was at the Citibank branch to get
+quarters. After that, I headed to Trader Joe's for my usual food
+purchases, that I recorded [here](../../sql/food_purchases_2026.sql).
