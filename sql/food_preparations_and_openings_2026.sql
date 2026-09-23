@@ -1082,7 +1082,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-19','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-19','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-21',1),
-  ('2026-09-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
+  ('2026-09-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2026-09-22',2),
   ('2026-09-21','TJ Almond Milk',1,1,null,null),
   ('2026-09-21','TJ Miso Ginger Broth',1,1,null,null),
   /* 2026-09-21 eggplant meal prep (WITHOUT THE EGGPLANT!) (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
@@ -1092,5 +1092,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-21','TJ Carrots',1,2,null,null),
   ('2026-09-21','Beefsteak tomato',8,2,null,null), /* used up all 3 from old batch and 5 of 7 from new batch; 2 of 7 stowed away for future use */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-09-21','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-09-21','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-09-22','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null); /* vanilla */
   /* Double-check the date and meal index before committing */
