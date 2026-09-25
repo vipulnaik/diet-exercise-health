@@ -1069,17 +1069,17 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-16','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-17',2),
   ('2026-09-17','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-19',2),
   /* 2026-09-18 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-09-18','Gold potatoes 5 lb',0.5,1,null,null),
-  ('2026-09-18','TJ Kale',1,1,null,null),
-  ('2026-09-18','TJ English Shelled Peas',2,1,null,null),
-  ('2026-09-18','Beefsteak tomato',7,1,null,null), /* 5 from old batch (finishing old batch), 2 from new batch, 3 remain from new batch */
+  ('2026-09-18','Gold potatoes 5 lb',0.5,1,'2026-09-24',1),
+  ('2026-09-18','TJ Kale',1,1,'2026-09-24',1),
+  ('2026-09-18','TJ English Shelled Peas',2,1,'2026-09-24',1),
+  ('2026-09-18','Beefsteak tomato',7,1,'2026-09-24',1), /* 5 from old batch (finishing old batch), 2 from new batch, 3 remain from new batch */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-18','Trader Giotto''s Olive Oil',1,1,null,null), /* opened with potatoes prep */
   ('2026-09-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-09-20',1),
   ('2026-09-18','TJ Roasted Seaweed',1,2,null,null),
   ('2026-09-19','TJ Walnuts',1,1,null,null),
   /* 2026-09-19 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2026-09-19','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
+  ('2026-09-19','Lundberg Sustainable California White Basmati Rice',1,2,'2026-09-24',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-19','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-21',1),
   ('2026-09-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2026-09-22',2),
