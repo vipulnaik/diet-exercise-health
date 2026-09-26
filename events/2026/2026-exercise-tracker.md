@@ -1053,3 +1053,9 @@ heavily backlogged on cyclic personal chores).
 
 On Monday 2026-09-21, I skipped all exercises to fit a Trader Joe's
 trip in the afternoon as well as meal prep later in the day.
+
+## 2026-09-25: skipped all exercises
+
+On Friday 2026-09-25, I skipped all exercises to fit a downtown
+Berkeley trip (including Goodwill, Citibank, and Trader Joe's) in the
+afternoon while keeping the evening and night free for other items.
