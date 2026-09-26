@@ -1093,11 +1093,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-21','Beefsteak tomato',8,2,null,null), /* used up all 3 from old batch and 5 of 7 from new batch; 2 of 7 stowed away for future use */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-21','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-23',1),
-  ('2026-09-22','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null), /* vanilla */
+  ('2026-09-22','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-25',2), /* vanilla */
   ('2026-09-23','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-25',1),
   /* 2026-09-24 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-09-24','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-24','TJ Walnuts',1,2,null,null),
-  ('2026-09-25','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
+  ('2026-09-25','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  ('2026-09-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
