@@ -163,3 +163,11 @@ On Monday 2026-09-21, in the afternoon, I made a trip to downtown
 Berkeley. My first stop was at the Citibank branch to get
 quarters. After that, I headed to Trader Joe's for my usual food
 purchases, that I recorded [here](../../sql/food_purchases_2026.sql).
+
+## 2026-09-25
+
+On Friday 2026-09-25, in the afternoon, I made a trip to downtown
+Berkeley. My first stop was Goodwill, where I dropped off five pairs
+of torn socks. My next stop was Citibank, where I withdrew
+quarters. After that, I headed to Trader Joe's for my usual food
+purchases, that I recorded [here](../../sql/food_purchases_2026.sql).
