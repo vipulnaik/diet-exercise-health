@@ -1099,6 +1099,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-24','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-24','TJ Walnuts',1,2,null,null),
-  ('2026-09-25','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  ('2026-09-25','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-26',2),
   ('2026-09-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
