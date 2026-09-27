@@ -1059,3 +1059,10 @@ trip in the afternoon as well as meal prep later in the day.
 On Friday 2026-09-25, I skipped all exercises to fit a downtown
 Berkeley trip (including Goodwill, Citibank, and Trader Joe's) in the
 afternoon while keeping the evening and night free for other items.
+
+## 2026-09-27: skipped strength exercises
+
+On Sunday 2026-09-27, I skipped strength exercises due to delays
+induced by scheduling issues, and in order to not compound the delays
+too much. I was also feeling some heat-related exhaustion after indoor
+jogging. I did indoor jogging and hand gripper exercises as usual.
