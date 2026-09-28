@@ -1086,11 +1086,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-21','TJ Almond Milk',1,1,null,null),
   ('2026-09-21','TJ Miso Ginger Broth',1,1,null,null),
   /* 2026-09-21 eggplant meal prep (WITHOUT THE EGGPLANT!) (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-09-21','Orange bell pepper',4,2,null,null),
-  ('2026-09-21','Red bell pepper',4,2,null,null),
-  ('2026-09-21','TJ Kale',1,2,null,null),
-  ('2026-09-21','TJ Carrots',1,2,null,null),
-  ('2026-09-21','Beefsteak tomato',8,2,null,null), /* used up all 3 from old batch and 5 of 7 from new batch; 2 of 7 stowed away for future use */
+  ('2026-09-21','Orange bell pepper',4,2,'2026-09-27',2),
+  ('2026-09-21','Red bell pepper',4,2,'2026-09-27',2),
+  ('2026-09-21','TJ Kale',1,2,'2026-09-27',2),
+  ('2026-09-21','TJ Carrots',1,2,'2026-09-27',2),
+  ('2026-09-21','Beefsteak tomato',8,2,'2026-09-27',2), /* used up all 3 from old batch and 5 of 7 from new batch; 2 of 7 stowed away for future use */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-21','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-23',1),
   ('2026-09-22','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-25',2), /* vanilla */
@@ -1100,7 +1100,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-24','TJ Walnuts',1,2,null,null),
   ('2026-09-25','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-26',2),
-  ('2026-09-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,null,null),
+  ('2026-09-25','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2026-09-27',2),
   /* 2026-09-27 potatoes prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   /* UNUSUAL SITUATION: the potatoes were cut the previous day but I was not able to complete the potatoes prep due to unforeseen circumstances */
   ('2026-09-27','Gold potatoes 5 lb',0.5,1,null,null),
@@ -1108,5 +1108,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-27','TJ English Shelled Peas',2,1,null,null),
   ('2026-09-27','Beefsteak tomato',4,1,null,null), /* 2 from old batch (finishing old batch), 2 from new batch, 5 remain from new batch; he tomatoes in the new batch are much bigger */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-09-27','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
+  ('2026-09-27','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  ('2026-09-27','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null); /* vanilla */
   /* Double-check the date and meal index before committing */
