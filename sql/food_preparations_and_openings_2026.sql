@@ -1106,5 +1106,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-27','Gold potatoes 5 lb',0.5,1,null,null),
   ('2026-09-27','TJ Kale',1,1,null,null),
   ('2026-09-27','TJ English Shelled Peas',2,1,null,null),
-  ('2026-09-27','Beefsteak tomato',4,1,null,null); /* 2 from old batch (finishing old batch), 2 from new batch, 5 remain from new batch; he tomatoes in the new batch are much bigger */
+  ('2026-09-27','Beefsteak tomato',4,1,null,null), /* 2 from old batch (finishing old batch), 2 from new batch, 5 remain from new batch; he tomatoes in the new batch are much bigger */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-09-27','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
