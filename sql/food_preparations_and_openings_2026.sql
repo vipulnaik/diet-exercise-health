@@ -1083,8 +1083,8 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-19','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-21',1),
   ('2026-09-20','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2026-09-22',2),
-  ('2026-09-21','TJ Almond Milk',1,1,null,null),
-  ('2026-09-21','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-09-21','TJ Almond Milk',1,1,'2026-09-28',2),
+  ('2026-09-21','TJ Miso Ginger Broth',1,1,'2026-09-28',2),
   /* 2026-09-21 eggplant meal prep (WITHOUT THE EGGPLANT!) (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-09-21','Orange bell pepper',4,2,'2026-09-27',2),
   ('2026-09-21','Red bell pepper',4,2,'2026-09-27',2),
@@ -1096,7 +1096,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-22','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-09-25',2), /* vanilla */
   ('2026-09-23','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-25',1),
   /* 2026-09-24 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-09-24','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  ('2026-09-24','Lundberg Sustainable California White Basmati Rice',1,1,'2026-09-28',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-24','TJ Walnuts',1,2,null,null),
   ('2026-09-25','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-26',2),
@@ -1108,8 +1108,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-27','TJ English Shelled Peas',2,1,null,null),
   ('2026-09-27','Beefsteak tomato',4,1,null,null), /* 2 from old batch (finishing old batch), 2 from new batch, 5 remain from new batch; he tomatoes in the new batch are much bigger */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-09-27','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  ('2026-09-27','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-09-28',2),
   ('2026-09-27','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null), /* vanilla */
   /* 2026-09-28 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2026-09-28','Lundberg Sustainable California White Basmati Rice',1,2,null,null);
+  ('2026-09-28','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-09-28','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-09-28','TJ Almond Milk',1,2,null,null);
   /* Double-check the date and meal index before committing */
