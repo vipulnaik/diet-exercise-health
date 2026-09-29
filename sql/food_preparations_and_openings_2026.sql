@@ -930,7 +930,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-08-10','TJ Broccoli Florets 12 oz',1,1,'2026-08-16',2),
   ('2026-08-10','Beefsteak tomato',5,1,'2026-08-16',2), /* 3 from old batch, 2 from new batch, 5 remaining (all from new batch), limited by space in pot */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-08-10','TJ Turmeric',1,1,null,null), /* opened with 2026-08-10 potatoes prep */
+  ('2026-08-10','TJ Turmeric',1,1,'2026-09-28',2), /* opened with 2026-08-10 potatoes prep, finished with 2026-09-28 rice prep */
   ('2026-08-10','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-08-11',2),
   ('2026-08-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-08-12',1),
   ('2026-08-11','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-08-13',1),
@@ -1109,5 +1109,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-27','Beefsteak tomato',4,1,null,null), /* 2 from old batch (finishing old batch), 2 from new batch, 5 remain from new batch; he tomatoes in the new batch are much bigger */
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-27','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
-  ('2026-09-27','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null); /* vanilla */
+  ('2026-09-27','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null), /* vanilla */
+  /* 2026-09-28 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2026-09-28','Lundberg Sustainable California White Basmati Rice',1,2,null,null);
   /* Double-check the date and meal index before committing */
