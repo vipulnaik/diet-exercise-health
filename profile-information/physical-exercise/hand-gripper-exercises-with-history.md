@@ -238,8 +238,8 @@ the inner loop using the persistence mode per the outer loop.
 
 ### Exercise sequences by day
 
-The bulk of the sequences was designed on 2026-04-05. Minor changes
-were made along the way.
+The bulk of the sequences was designed on 2026-04-05 and became
+effective immediately. Minor changes were made along the way.
 
 The short/medium/long parentheticals are based on the typical amount
 of time the exercise sequence takes, based on the expected hold
