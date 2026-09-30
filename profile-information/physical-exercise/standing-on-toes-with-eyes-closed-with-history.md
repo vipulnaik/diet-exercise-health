@@ -61,36 +61,37 @@ frequency is once every 9 to 15 days.
 
 ### History of threshold durations
 
-Date of change | Baseline threshold duration (seconds) | Retry adjustment (seconds) (second try threshold minus first try threshold, difference of differences) | Number of rounds since last time (exclusive of start date, inclusive of end date)
--- | -- | -- | --
-2024-09-09 |  15 | N/A | unavailable
-2024-10-14 |  18 | N/A | unavailable
-2024-11-05 |  21 | N/A | unavailable
-2024-11-17 |  24 | N/A | unavailable
-2025-01-16 |  27 | N/A | >= 22 (recording started 2024-12-21)
-2025-02-03 |  30 | N/A | 8
-2025-03-06 |  35 | N/A | 17
-2025-04-12 |  50 | N/A | 8
-2025-06-02 |  60 | N/A | 10
-2025-06-22 |  65 | N/A | 3
-2025-11-11 |  80 | N/A | 12
-2025-12-13 |  90 | N/A | 3
-2025-12-28 | 105 | N/A | 1
-2026-02-24 | 115 | N/A | 5
-2026-03-24 | 125 | -20, 5 | 1
-2026-06-07 | 130 | -21, 4 | 10 (4 of these were redo rounds on two days, both of which were days where my first round succeeded on the second attempt)
-2026-07-31 | 140 | -21, 4 | 3
-2026-09-29 | 170 | -21, 4 | 2
+Date of change | Baseline threshold duration (seconds) | Baseline threshold duration increase since last time (seconds) | Retry adjustment (seconds) (second try threshold minus first try threshold, difference of differences) | Number of rounds since last time (exclusive of start date, inclusive of end date) | Increase in seconds per round | Days since last change | Increase in seconds per day
+-- | -- | -- | -- | -- | -- | -- | --
+2024-09-09 |  15 |  N/A (first threshold) | N/A | N/A (first threshold) | N/A (first threshold) | N/A (first threshold) | N/A (first threshold)
+2024-10-14 |  18 |  3 | N/A | unavailable | unavailable | 35 | 0.09
+2024-11-05 |  21 |  3 | N/A | unavailable | unavailable | 22 | 0.14
+2024-11-17 |  24 |  3 | N/A | unavailable | unavailable | 12 | 0.25
+2025-01-16 |  27 |  3 | N/A | >= 22 (recording started 2024-12-21) | unavailable | 60 | 0.05
+2025-02-03 |  30 |  3 | N/A |  8 | 0.38 | 18 | 0.17
+2025-03-06 |  35 |  5 | N/A | 17 | 0.29 | 31 | 0.16
+2025-04-12 |  50 | 15 | N/A |  8 | 1.88 | 37 | 0.41
+2025-06-02 |  60 | 10 | N/A | 10 | 1.00 | 51 | 0.20
+2025-06-22 |  65 |  5 | N/A |  3 | 1.67 | 20 | 0.25
+2025-11-11 |  80 | 15 | N/A | 12 | 1.25 | 142| 0.11
+2025-12-13 |  90 | 10 | N/A |  3 | 3.33 | 32 | 0.31
+2025-12-28 | 105 | 15 | N/A |  1 | 15.0 | 15 | 1.00
+2026-02-24 | 115 | 10 | N/A |  5 | 2.0  | 58 | 0.17
+2026-03-24 | 125 | 10 | -20, 5 | 1 | 10.0 | 28 | 0.36
+2026-06-07 | 130 |  5 | -21, 4 | 10 (4 of these were redo rounds on two days, both of which were days where my first round succeeded on the second attempt) | 0.50 | 75 | 0.07
+2026-07-31 | 140 | 10 | -21, 4 | 3 | 3.33 | 54 | 0.19
+2026-09-29 | 170 | 30 | -21, 4 | 2 | 15.0 | 60 | 0.50
 
 A few key insights that can be gleaned from the table:
 
 * The rate of threshold increase over time seems to be about 15 to 30
-  seconds per quarter, with progress slightly below that level early
-  on and in the period from 2025-06-22 to 2025-11-11. The seemingly
-  slow early progress early on might be explained by progress in
-  reducing retries. Overall, progress seems to fit a linear model
-  better than an exponential one, but more data points are needed for
-  clarity.
+  seconds per quarter (which translates to the increase in seconds per
+  day column ranging from 0.17 to 0.33, which indeed it does for most
+  part). Progress was slightly below that level early on and in the
+  period from 2025-06-22 to 2025-11-11. The seemingly slow early
+  progress early on might be explained by progress in reducing
+  retries. Overall, progress seems to fit a linear model better than
+  an exponential one, but more data points are needed for clarity.
 
 * At least since the time I have been logging individual rounds
   (2024-12-21), the linear rate of progress relative to number of
@@ -127,6 +128,13 @@ table:
   I wanted to be cautious and stay at under 20% for each incremental
   change so I have time to observe for a while if the new threshold
   works across days.
+
+* The big threshold increase from 2026-07-31 to 2026-09-29 was a
+  release of latent improvements in performance over the past few
+  months that had not been properly reflected in past thresholds due
+  to a few low-scorin attempts early in Q2 2026 that I wanted to get
+  far enough behind me to be sure that the improvements were genuine
+  enough to reflect in a binding threshold going forward.
 
 ### How the threshold durations are used
 
