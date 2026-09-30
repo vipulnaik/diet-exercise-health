@@ -60,7 +60,7 @@ directly interacting with the gripper being the distal interphalangeal
 joint (DIP joint).
 
 Metal grippers are symmetric, so there is no sidedness to specify. For
-the plastic hand gripper with adjutable resistance, the fingers always
+the plastic hand gripper with adjustable resistance, the fingers always
 go on the side meant for the fingers, which has ridges meant to place
 the fingers on.
 
@@ -330,19 +330,117 @@ hand on the inside) at the end.
 
 ## History
 
-### Initial purchase on 2023-07-05
+### History per exercise element
 
-On July 5, 2023, I placed an order for a set of 3 hand grippers: 100
-lb, 150 lb, and 200 lb. I picked the order up on July 8. However,
+This subsection is incomplete; it doesn't include all exercise
+elements currently or historically executed, and even for the elements
+it does include, it only covers key firsts and doesn't provide a
+performance trajectory.
+
+#### (standard grip, 100 lb, right hand)
+
+Current status: part of the Day 1 exercise sequence.
+
+First attempted: 2023-07-29; this and its left hand counterpart were
+the first things I tried.
+
+First success of single close: 2023-07-30 (one rep, sometimes two
+reps, but never more than two), comfortable and consistent as of
+2023-08-08.
+
+#### (standard grip, 100 lb, left hand)
+
+Current status: part of the Day 1 exercise sequence.
+
+First attempted: 2023-07-29; this and its right hand counterpart were
+the first things I tried.
+
+First success of single close: 2023-09-04 for comfortable and
+consistent close; it is not clear whether there was a prior one-off
+successful close.
+
+#### (standard grip, 150 lb, right hand)
+
+Current status: part of the Day 1 exercise sequence.
+
+First attempted: 2023-09-04, after success with comfortably and
+consistently closing 100 lb with each hand.
+
+First success of single close: 2023-09-06 for one-off close;
+consistent and comfortable by around 2023-10-23.
+
+#### (standard grip, 150 lb, left hand)
+
+Current status: part of the Day 1 exercise sequence.
+
+First attempted: 2023-09-04, after success with comfortably and
+consistently closing 100 lb with each hand.
+
+First success of single close: 2023-10-23 or a few days prior; the
+recorded date is 2023-10-23.
+
+#### (both-hands-wrapped grip, 150 lb, _)
+
+Current status: not included in any sequence. This was done
+sporadically early on when I was not able to close 150 lb with a
+single hand, and lost relevance once I could consistently and
+comfortably close 150 lb with each hand.
+
+First attempted: 2023-09-04.
+
+First success of single close: 2023-09-04 (on the first attempt
+itself).
+
+#### (standard grip, 200 lb, right hand)
+
+Current status: part of the Day 4 exercise sequence.
+
+First attempted: 2024-05-13.
+
+First success of single close: 2026-01-10; the rate of successful
+first close was around 50% over the next few months.
+
+#### (standard grip, 200 lb, left hand)
+
+Current status: part of the Day 4 exercise sequence.
+
+First attempted: 2024-05-13.
+
+First success of single close: N/A (I have not succeded at this yet).
+
+#### (both-hands-wrapped grip, 200 lb, right hand on the inside)
+
+Current status: part of the Day 4 exercise sequence.
+
+First attempted: 2024-05-13.
+
+First success of single close: 2024-05-13 (my records don't
+specifically call out the right hand as being on the inside, but given
+that this is the easier configuration and the one I would have
+gravitated to, it's probably the one I selected).
+
+#### (both-hands-wrapped grip, 200 lb, left hand on the inside)
+
+Current status: part of the Day 4 exercise sequence.
+
+First attempted: ??
+
+First success of single close: ??
+
+### History as recorded at various intermediate points
+
+#### Initial purchase on 2023-07-05
+
+On July 5, 2023, I placed an order for a [set of 3 metal hand
+grippers](https://www.amazon.com/dp/B01F422FT2?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1):
+100 lb, 150 lb, and 200 lb. I picked the order up on July 8. However,
 since I was still recovering from wisdom tooth removal at the time,
 and then had antibiotic-induced digestive issues, I did not
 immediately start using the hand grippers.
 
-### Initial use on 2023-07-29
+#### Initial use on 2023-07-29, plus observations from the first few days of use
 
 Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
-
-### Observations as of the first few days of using the 100 lb hand gripper
 
 * I can crush the hand gripper fully and consistently when I use both
   hands, with my left hand on one side and my right hand on the other
@@ -356,13 +454,13 @@ Eventually, on 2023-07-29, I started using the 100 lb hand gripper.
   fully). But even so I was not able to crush it on the second try in
   *most* cases, and never on the third try.
 
-### Update on 2023-08-08
+#### Update on 2023-08-08
 
 By this time I can consistently and comfortably crush the 100 lb hand
 gripper with my right hand. Also, I have been able to occasionally
 fully crush the hand gripper with my left hand, but not consistently.
 
-### Update on 2023-09-04
+#### Update on 2023-09-04
 
 I took a break for a few days before after my wisdom tooth removal
 (between Monday 2023-08-21 and Monday 2023-08-28). I resumed on
@@ -376,10 +474,10 @@ with the right hand.
 This led me to experiment (for the first time since I started using
 the hand gripper) with the 150 lb hand gripper. Unsurprisingly, I
 wasn't able to close this hand gripper with either hand (each hand
-individually was only able to partially close up to the "vertical"
-stage). With both hands together, I was able to close the 150 lb.
+individually was only able to partially close up to the parallel
+stage). With both hands wrapped, I was able to close the 150 lb.
 
-### Update on 2023-09-06
+#### Update on 2023-09-06
 
 For the first time ever, I was able to close the 150 lb hand gripper
 with my right hand. However, I was not able to repeat this feat
@@ -390,7 +488,24 @@ consistent close with my right hand.
 I felt pain in the area of my fingers that had pressed the gripper
 after closing this; it was clearly effortful.
 
-### Update on 2023-10-23 / 2023-10-24 / 2023-10-25
+#### 2023-10-13 flu shot and hand gripper use
+
+My [2023-10-13 flu shot](../events/2023/2023-10-13-flu-shot.md) was
+the first vaccine dose I received after starting hand
+grippers. Lacking experience around the interaction of hand gripper
+exercises and vaccines, I did a quick hand gripper test a few hours
+after the vaccine, and resumed my usual hand gripper exercises the
+next day. I believed that the longer time to recovery from soreness
+than usual, and the prolonged neck/shoulder fatigue, were at least
+partly due to this early hand gripper use.
+
+This experience would inform protocol refinement that would enforce
+hand gripper exercise pauses around the time of vaccine doses. The
+current protocol is available in the [best practices around vaccine
+appointments
+document](../../best-practices/best-practices-around-vaccine-appointments.md).
+
+#### Update on 2023-10-23 / 2023-10-24 / 2023-10-25
 
 I am now occasionally just about able to close the 150 lb hand gripper
 with my left hand. I can also now reasonably consistently close the
@@ -398,7 +513,7 @@ with my left hand. I can also now reasonably consistently close the
 comfortably close the 100 lb hand gripper with either hand, though
 with the left hand it still is a bit displaced sometimes.
 
-### Intermittently reduced right hand strength on 2023-10-27
+#### Intermittently reduced right hand strength on 2023-10-27
 
 On Friday 2023-10-27, I tried the hand gripper at 9 AM. I was able to
 comfortably close the 100 lb with both hands, but was not able to
@@ -419,7 +534,7 @@ hand.
 I tried again after a minute, and now I was just barely able to close
 the 150 lb with my right hand.
 
-### Update on 2024-03-17
+#### Update on 2024-03-17
 
 Starting this day, I am planning to do a daily practice of keeping the
 100 lb hand gripper closed for at least 5 consecutive seconds with
@@ -427,7 +542,7 @@ each hand separately. 5 is about what I can reasonably do right
 now. I'm hoping to increase it gradually to a larger amount, like 10
 seconds.
 
-### Update on 2024-05-07
+#### Update on 2024-05-07
 
 As of now, I am generally able to keep the 100 lb hand gripper closed
 in either hand for at least 10 seconds, and occasionally going up to
@@ -436,7 +551,7 @@ and I immediately close it back, in well under a second). For the 150
 lb, with my right hand, I am able to keep it closed for about 3-5
 seconds.
 
-### Update on 2024-05-13
+#### Update on 2024-05-13
 
 For the first time ever, I took out my 200 lb hand gripper and started
 trying to close it. After a few attempts, I was able to get it to the
@@ -444,7 +559,7 @@ parallel position with each hand individually, but no further. I was
 able to get it to close by wrapping one hand around another for the
 last portion (from parallel to close).
 
-### Update on 2024-08-02
+#### Update on 2024-08-02
 
 For the last few weeks, I have switched to a practice of doing the 150
 lb hand gripper and then the 100 lb hand gripper every morning, and
@@ -468,7 +583,7 @@ This is the sequence I have been following:
   20 seconds, but then I would not be able to do the 150 lb
   immediately aferward. That's why I start with the 150 lb.
 
-### Update on 2024-09-09
+#### Update on 2024-09-09
 
 The main change since the last update is a slight increase in the time
 I can stay closed with the 150 lb.
@@ -491,19 +606,21 @@ Here is the protocol as of this time:
   20 seconds, but then I would not be able to do the 150 lb
   immediately aferward. That's why I start with the 150 lb.
 
-### Update on 2024-09-22
+#### Update on 2024-09-22
 
 I have decided to make the bundle of 150 lb and 100 lb exercises (that
 are now at a maintain level) every alternate day, and on the other
 alternate day, try the 200 lb, which is what I am trying to build to.
 
-### Update on 2024-09-28
+#### Update on 2024-09-28
 
 For the building exercises, I've created a more elaborate exercise for
 the 200 lb, and added an exercise for 100 lb with specific fingers
-excluded.
+excluded. This was partly because I identified the muscle strain from
+attempting the 200 lb as the cause for my [2024-09-27 lower neck
+inflammation](../../events/2024/2024-09-27-onward-minor-inflammation-of-lower-neck.md).
 
-### Update on 2025-01-16
+#### Update on 2025-01-16
 
 I made a few protocol updates on 2025-01-16 reflecting recent
 improvements; I have now been recording privately my performance every
@@ -519,7 +636,7 @@ day, so I have a clearer picture of how well I am doing.
   lb with a finger excluded; this reflects the new process I have been
   following *de facto*.
 
-### Update on 2025-02-04
+#### Update on 2025-02-04
 
 I made a few minor protocol tweaks:
 
@@ -535,13 +652,13 @@ I made a few minor protocol tweaks:
   morning (though it may have just been the case that my hands have
   not been as cold recently as they used to be).
 
-### Update on 2025-02-28
+#### Update on 2025-02-28
 
 I increased the range of durations that I am able to keep the hand
 gripper closed with each hand, based on a review of data over the
 past few weeks.
 
-### Update on 2025-05-26
+#### Update on 2025-05-26
 
 In light of recent lower durations of hold, likely due to
 travel-related adjustment and fatigue, I have reduced the lower end of
@@ -549,7 +666,7 @@ the duration range in the protocol. I have also indicated that I now
 try the 150 lb with fingers excluded on alternate days (starting
 2025-05-21).
 
-### Update on 2025-07-09
+#### Update on 2025-07-09
 
 I reintroduced attempts to close 200 lb, and in the process switched
 from alternating between two protocols (close-and-hold with all
@@ -557,7 +674,7 @@ fingers, close-and-hold with specific fingers excluded) across two
 days to alternating between three protocols (those two and attempt to
 close 200 lb) across three days.
 
-### Update over the month of 2025-08 (written retroactively on 2025-10-18)
+#### Update over the month of 2025-08 (written retroactively on 2025-10-18)
 
 I updated the 200 lb protocol to not just closing as much as possible
 but also trying to hold at the maximum for as long as possible, and
@@ -566,13 +683,13 @@ happen on a single day for all parts of the protocol, but rather
 happened gradually through the month as I transitioned parts one by
 one.
 
-### Update on 2025-10-18
+#### Update on 2025-10-18
 
 I documented the updated current state of things for the 200 lb
 protocol (there are no meaningful changes to my performance for the
 other protocols).
 
-### Updates on 2025-12-20
+#### Updates on 2025-12-20
 
 On this day, I did testing with a new dynamometer and a hand gripper
 that came along with the dynamometer. I confirmed that the 60 kg
@@ -616,7 +733,7 @@ I made several updates to the protocol and current status:
   attempt, I do not have experience with it. The protocol may get
   refined over time.
 
-### Updates on 2025-12-29
+#### Updates on 2025-12-29
 
 I added the exercise (for both hands) of trying to close the 100 lb
 hand gripper excluding both my little finger and my index finger. For
@@ -634,7 +751,7 @@ I did not attempt the left hand on that date. 2025-12-29 was the first
 date I attempted both hands, and after that I decided to add this
 exercise to the protocol.
 
-### Update on 2026-01-10 regarding feat achieved on 2026-01-07
+#### Update on 2026-01-10 regarding feat achieved on 2026-01-07
 
 On Wednesday 2026-01-07, for the first time, I was able to fully
 closed the 200 lb hand gripper with my right hand. I kept it closed
@@ -655,7 +772,7 @@ I am not making any edits to the protocol as part of this update. My
 plan is to edit the protocol in a few months once I show a pattern of
 consistently closing the 200 lb hand gripper with my right hand.
 
-### Repetition swap-in exercise updates on 2026-03-10 (current caps and performance)
+#### Repetition swap-in exercise updates on 2026-03-10 (current caps and performance)
 
 On Tuesday 2026-03-10, I officially recorded updated caps for the
 repetition swap-in to reflect gradual updates that had been happening
@@ -667,7 +784,7 @@ this update, without spelling out the trajectory of cap evolution. I
 have also recorded my approximate performance as of the time of the
 update.
 
-### Updates on 2026-03-14
+#### Updates on 2026-03-14
 
 On Saturday 2026-03-14, I reviewed the documented extent-of-closing
 and duration ranges for all hand gripper exercises other than the
