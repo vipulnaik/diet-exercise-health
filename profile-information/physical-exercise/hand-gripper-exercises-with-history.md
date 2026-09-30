@@ -51,12 +51,13 @@ foundational terminology is needed to explain it.
 The grip pattern is the arrangement of how I hold the two sides of the
 gripper.
 
-The standard grip pattern is the ventral thenar eminence of one hand
-(the fleshy portion connecting the thumb to the palm) on one side and
-four fingers of the same hand on the other side. For all the fingers,
-the contact surface is the ventral side, and usually around the middle
-or distal phalanx, with the joint directly interacting with the
-gripper being the distal interphalangeal joint (DIP joint).
+The standard grip pattern is the four non-thumb fingers of the same
+hand on the other side and the ventral thenar eminence of the same
+hand (the fleshy portion connecting the thumb to the palm) on the
+other side. For all the fingers, the contact surface is the ventral
+side, and usually around the middle or distal phalanx, with the joint
+directly interacting with the gripper being the distal interphalangeal
+joint (DIP joint).
 
 Metal grippers are symmetric, so there is no sidedness to specify. For
 the plastic hand gripper with adjutable resistance, the fingers always
@@ -144,8 +145,8 @@ natural way. For instance:
   (thenar versus four fingers) of the right hand on the 150 lb hand
   gripper.
 
-* (standard excluding little finger, 100 lb, left hand) means use the
-  standard grip minus the little finger (so, thenar versus index,
+* (standard grip without little finger, 100 lb, left hand) means use
+  the standard grip minus the little finger (so, thenar versus index,
   middle, and ring fingers) of te left hand on the 100 lb hand
   gripper.
 
@@ -200,17 +201,24 @@ the inner loop using the persistence mode per the outer loop.
   given day is a long one, but time is at a premium on that day,
   swapping it with the next exercise sequence is fine.
 
-* The exercise sequence for each day is designed to officially give a
-  symmetric workout to the two hands. This means that for any exercise
-  element for a unilateral exercise, its mirror image exercise element
-  (that uses the other hand) should also appear in the same day's
-  exercise sequence. Similarly, for any exercise element for a
-  bilateral asymmetric exercise, its mirror image (that reverses the
-  roles of the two hands) should appear in the same day's exercise
-  sequence.
+* The exercise sequence for each day is designed (with a few
+  exceptions) to officially give a symmetric workout to the two
+  hands. This means that for any exercise element for a unilateral
+  exercise, its mirror image exercise element (that uses the other
+  hand) should also appear in the same day's exercise
+  sequence. Similarly, for any exercise element for a bilateral
+  asymmetric exercise, its mirror image (that reverses the roles of
+  the two hands) should appear in the same day's exercise sequence.
+
+  The one allowed asymmetry is outer repetitions: the number of outer
+  repetitions may not be equal across the two mirror image
+  exercises. Outer repetitions here means repetitions that are not
+  just repetitions within a repeat close element, but the same element
+  done a second time after another intervening element.
 
   However, since the two hands have different capabilities, the *de
-  facto* workout of the two hands might be different.
+  facto* workout of the two hands might be different even in the
+  absence of any asymmetry.
 
 * Within the exercise sequence for a day, for every unilateral
   exercise element, its right-hand version must appear before (though
@@ -228,180 +236,86 @@ the inner loop using the persistence mode per the outer loop.
   appears before the exercise element with the left hand on the
   inside.
 
-### First of 3-day cycle: 150 lb and 100 lb close-and-hold with all fingers (focus on maintaining)
+### Exercise sequences by day
 
-I do this sequence every alternating day in the morning, with the
-steps in quick succession. In all cases, I close (or get as far toward
-closed as I can) and hold (for as long as I can).
+The bulk of the sequences was designed on 2026-04-05. Minor changes
+were made along the way.
 
-* Right hand on 150 lb: I close and keep closed for about 19 to 40
-  seconds. I usually average about 22 to 30 seconds.
+The short/medium/long parentheticals are based on the typical amount
+of time the exercise sequence takes, based on the expected hold
+durations and/or repetition counts. The time taken is about the same
+for a given exercise element across the two persistence modes, though
+it tends to be a little bit higher for the repeat close persistence
+mode. Roughly, short is about 2 to 4 minutes including overhead,
+medium is about 3 to 7 minutes including overhead, and long is about 6
+to 10 minutes including overhead.
 
-* Left hand on 150 lb: I close and keep closed for about 12 to 30
-  seconds. I usually average about 17 to 23 seconds.
+#### Day 1: standard grip on 150 lb and 100 lb (short)
 
-* Right hand on 100 lb: I close and keep closed for about 25 to 55
-  seconds. I usually average about 30 to 40 seconds. If I were to
-  start with the 100 lb instead of doing the 150 lb first, I would be
-  able to do more, but then I would not be able to do the 150 lb
-  immediately aferward. That's why I start with the 150 lb.
+* (standard grip, 150 lb, right hand)
+* (standard grip, 150 lb, left hand)
+* (standard grip, 100 lb, right hand)
+* (standard grip, 100 lb, left hand)
 
-* Left hand on 100 lb: I close and keep closed for about 20 to 45
-  seconds. I usually average about 25 to 35 seconds. If I were to
-  start with the 100 lb instead of doing the 150 lb first, I would be
-  able to do over 20 seconds, but then I would not be able to do the
-  150 lb immediately aferward. That's why I start with the 150 lb.
+#### Day 2: standard grip without fingers on 150 lb and 100 lb (medium)
 
-#### Repetition swap-in for this cycle
+* (standard grip without little finger, 150 lb, right hand)
+* (standard grip without index finger, 150 lb, right hand)
+* (standard grip without little finger, 150 lb, left hand)
+* (standard grip without index finger, 150 lb, left hand)
+* (standard grip without little finger, 100 lb, right hand)
+* (standard grip without index finger, 100 lb, right hand)
+* (standard grip without little finger, 100 lb, left hand)
+* (standard grip without index finger, 100 lb, left hand)
+* (standard grip without both little finger and index finger, 100 lb, right hand)
+* (standard grip without both little finger and index finger, 100 lb, left hand)
 
-I occasionally swap into this day of the cycle the following
-variant. The first repetition where I fail to fully close is where I
-stop, and I record the number of successful repetitions and how far
-the final failed repetition got. I also set caps on the number of
-repetitions, so I stop after hitting the cap even if there were no
-failures; in such cases, I add `(capped)`.
+#### Day 3: pinch grip on 5 kg (medium)
 
-* Right hand on 150 lb: Hold and immediately release, and do
-  successive repetitions, as many as I can, with a cap of 15
-  repetitions. I am generally able to just about hit the cap or fall
-  slightly short of it.
+* (index finger versus thumb, 5 kg, right hand)
+* (middle finger versus thumb, 5 kg, right hand)
+* (ring finger versus thumb, 5 kg, right hand)
+* (little finger versus thumb, 5 kg, right hand)
+* (index finger versus thumb, 5 kg, left hand)
+* (middle finger versus thumb, 5 kg, left hand)
+* (ring finger versus thumb, 5 kg, left hand)
+* (little finger versus thumb, 5 kg, left hand)
 
-* Left hand on 150 lb: Hold and immediately release, and do successive
-  repetitions, as many as I can, with a cap of 15 repetitions. I am
-  generally able to do about 5 to 10 repetitions before failure.
+#### Day 4: standard and wrapped grip on 200 lb (short)
 
-* Right hand on 100 lb: Hold and immediately release, and do
-  successive repetitions, as many as I can, with a cap of 30
-  repetitions. I am generally able to do about 25 to 30 repetitions
-  before failure.
+* (standard grip, 200 lb, right hand)
+* (standard grip, 200 lb, left hand)
+* (both-hands-wrapped grip, 200 lb, right hand on the inside)
+* (both-hands-wrapped grip, 200 lb, left hand on the inside)
 
-* Left hand on 100 lb: Hold and immediately release, and do
-  successive repetitions, as many as I can, with a cap of 30
-  repetitions. I am generally able to do about 20 to 25 repetitions
-  before failure.
+In the special case that I am in the close-and-hold persistence mode,
+I do a second round of (both-hands-wrapped grip, 200 lb, right
+hand on the inside) at the end.
 
-My de facto swap-in is about half the time, so each variant of the
-first day of the cycle happens on about 1/6 of the days.
+#### Day 5: clasp grip and transfer (short)
 
-As of 2026-03-10, I don't plan to do repetition swap-ins for other
-exercises where the hold durations are not yet high enough, so that my
-focus is still on increasing hold durations first.
+* (clasp grip, 200 lb, N/A)
+* (clasp grip, 150 lb, N/A)
+* (clasp grip, 100 lb, N/A)
+* (nonstandard exercise element): transfer of 100 lb from right hand to left hand trying to open it as litle as possible
+* (nonstandard exercise element): transfer of 100 lb from left hand to right hand trying to open it as litle as possible
+* (nonstandard exercise element) (repeat): transfer of 100 lb from right hand to left hand trying to open it as litle as possible
 
-### Second of 3-day cycle: 150 lbs and 100 lb close-and-hold excluding specific fingers (focus on building)
+#### Day 6: single-finger curl grip (long)
 
-* Right hand on 150 lb: I try to close (or get as far toward closed as
-  I can) and hold (for as long as I can) excluding my little finger
-  and then separately excluding my index finger.
-
-  * Excluding the little finger: I close and keep closed for about 5
-    to 20 seconds.
-
-  * Excluding the index finger: I am not consistently able to close;
-    when I do succeed, I keep closed for about 0 to 8 seconds. If I
-    close part of the way, I am generally able to keep in that
-    position for about 0 to 8 seconds.
-
-* Left hand on 150 lb: I try to close (or get as far toward closed as
-  I can) and hold (for as long as I can) excluding my little finger
-  and then separately excluding my index finger.
-
-  * Excluding the little finger: I get somewhere between 1/2 and 5/6
-    of the way from parallel to fully closed and am able to hold for
-    about 0 to 5 seconds.
-
-  * Excluding the index finger: I get somewhere between parallel and
-    1/2 of the way from parallel to fully closed and am able to hold
-    for about 0 to 5 seconds.
-
-* Right hand on 100 lb with specific fingers excluded: I try to close
-  (or get as far toward closed as I can) and hold (for as long as I
-  can) excluding my little finger and index finger (together and
-  separately).
-
-  * Excluding both the little finger and index finger: I close and
-    keep closed for about 0 to 8 seconds.
-
-  * Excluding the little finger: I close and keep closed for 10 to 25
-    seconds.
-
-  * Excluding the index finger: I close and keep closed for about 10
-    to 25 seconds.
-
-* Left hand on 100 lb with specific fingers excluded: I try to close
-  (or get as far toward closed as I can) and hold (for as long as I
-  can) excluding my little finger and index finger (together and
-  separately).
-
-  * Excluding both the little finger and index finger: I try to go as
-    far as I can toward closing and hold for as long. I can usually go
-    1/2 or more of the way from parallel to fully closed and hold at
-    that position for 0 to 5 seconds.
-
-  * Excluding the little finger: I close and keep closed for about 5
-    to 20 seconds.
-
-  * Excluding the index finger: I close and keep closed for about 5 to
-    20 seconds.
-
-### Third of 3-day cycle: 200 lb close (focus on building -- very far from being able to do this)
-
-* Right hand on 200 lb: I try to close (or get as far toward closed as
-  I can) and hold (for as long as I can).
-
-  * I get somewhere between 5/6 of the way from parallel to fully
-    closed and fully closed, with a close-to-even split between the
-    extremes.
-
-  * I am able to hold for about 0 to 5 seconds (generally, the longer
-    hold duration of around 4 to 5 seconds is when I close 5/6, and
-    the shorter hold duration of around 3 to 4 seconds is when I close
-    fully)
-
-* Left hand on 200 lb: I try to close (or get as far toward closed as
-  I can) and hold (for as long as I can).
-
-  * I get somewhere between parallel and 1/2 of the way from parallel
-    to fully closed, with the "1/2 of the way" the modal occurrence.
-
-  * I am able to hold for about 0 to 5 seconds.
-
-* Both hands together on 200 lb with right hand on the inside: I try to
-  close the 200 lb with both hands together, with the right hand on
-  the inside, and hold closed for as long as possible. If I am able to
-  close successfully, I do a second attempt (after attempting the next
-  bullet point) and hold closed again for as long as possible.
-
-  As of 2026-03-14, I am usually able to close at least once, and
-  often twice. The first hold time is about 5 to 15 seconds, usually
-  over 8 seconds. The second hold time, if I succeed, is generally
-  somewhere between 0 seconds and 5 seconds.
-
-* Both hands together on 200 lb with left hand on the inside: I try to
-  close the 200 lb as far as possible with both hands, with the left
-  hand on the inside, and hold it at the maximum I was able to get it
-  to for as long as possible.
-
-  As of 2026-03-14, I am able to go anywhere from 1/3 to 3/4 of the
-  way from parallel to fully closed and hold for anywhere from 1 to 5
-  seconds. How far I can go depends inversely on how long I held the
-  previous round. I do very occasionally fully close with the left
-  hand on the inside, but in such cases my hold time is about 0
-  seconds.
-
-### Occasional break from cycle for dynamometer grip strength measurement
-
-Occasionally (about once every 1 to 2 weeks) I should take a break from
-hand gripper exercises and instead do dynamometer grip strength
-measurements. The process for these is documented in
-[dynamometer-grip-strength-with-history.md](dynamometer-grip-strength-with-history.md).
+* (index finger versus thenar, 5 kg, right hand)
+* (middle finger versus thenar, 5 kg, right hand)
+* (ring finger versus thenar, 5 kg, right hand)
+* (little finger versus thenar, 5 kg, right hand)
+* (index finger versus thenar, 5 kg, left hand)
+* (middle finger versus thenar, 5 kg, left hand)
+* (ring finger versus thenar, 5 kg, left hand)
+* (little finger versus thenar, 5 kg, left hand)
 
 ### Reasons for skipping
 
-* **Sickness or recent medical treatment**: See similar explanation
-  for jogging.
-
-* **Preemptive break to relax and conserve energy**: See similar
-  explanation for jogging.
+* **General reasons to skip exercises** including sickness, need to
+  conserve time, and need to conserve energy.
 
 * **Hand injury**: If I have a cut on one of the hands, I want to skip
   the hand gripper exercises for that hand to avoid putting stress
