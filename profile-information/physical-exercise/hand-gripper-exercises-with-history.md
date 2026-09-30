@@ -41,7 +41,192 @@ has been helpful occasionally for carrying complex, unwieldy loads
 (where it's not just the weight of the load but the awkward way it
 hangs which means I need to use grip strength).
 
-## Current protocol and status as of 2026-03-14
+## Terminological foundation for hand gripper protocol
+
+My hand gripper protocol is somewhat complicated, so a bunch of
+foundational terminology is needed to explain it.
+
+### Grip pattern
+
+The grip pattern is the arrangement of how I hold the two sides of the
+gripper.
+
+The standard grip pattern is the ventral thenar eminence of one hand
+(the fleshy portion connecting the thumb to the palm) on one side and
+four fingers of the same hand on the other side. For all the fingers,
+the contact surface is the ventral side, and usually around the middle
+or distal phalanx, with the joint directly interacting with the
+gripper being the distal interphalangeal joint (DIP joint).
+
+Metal grippers are symmetric, so there is no sidedness to specify. For
+the plastic hand gripper with adjutable resistance, the fingers always
+go on the side meant for the fingers, which has ridges meant to place
+the fingers on.
+
+Most grip patterns are obtained by modifying the standard grip pattern
+in one of these two ways, still keeping the key feature that all
+contact is for a single hand (i.e., they are all unilateral) and all
+contact surfaces are ventral:
+
+* The set of fingers in contact (on the fingers side) is reduced from
+  all four fingers to a subset of one to three specific fingers.
+
+* The thenar eminence side is replaced by the ventral thumb (the
+  distal phalanx or the IP joint area). This changes the kind of grip
+  involved from a curl grip to a pinch grip, something we will discuss
+  later.
+
+There are two bilateral grips:
+
+* The clasp grip is a bilateral symmetric grip. It involves both hands
+  clasped together, and uses the proximal ventral palms of the two
+  hands as the contact surfaces.
+
+* The both-hands-wrapped grip is a bilateral asymmetric grip. Here,
+  one hand is gripping the hand gripper directly and the other hand is
+  surrounding it, adding to the force but not directly in contact with
+  the hand gripper.
+
+### Gripper rating
+
+The gripper rating is the rated strength of the grip. This is an
+approximate estimate of the amount of force that needs to be applied
+separately on each side in order to get the gripper to a fully closed
+position; however, this estimate should be treated as a very
+approximate estimate.
+
+I have the following grippers:
+
+* [Metal gripper set purchased from
+  Amazon](https://www.amazon.com/dp/B01F422FT2?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1):
+  The grippers are symmetric, have rough surfaces, and are not
+  adjustable.
+
+  * 200 lb
+
+  * 150 lb
+
+  * 100 lb
+
+* Adjustable plastic gripper with range of 5 kg to 60 kg, purchased as
+  part of a [set with a dynamometer from
+  Amazon](https://www.amazon.com/dp/B0DJSPV6DQ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1). I
+  generally use this at the lowest rating (5 kg) but have also tried
+  the highest rating (60 kg, about 132 lb) as a sanity check on the
+  gripper rating for the metal gripper set.
+
+### Persistence mode
+
+I have two main persistence modes for grippers.
+
+* Close-and-hold persistence mode where I close the gripper and then
+  try to hold it closed for as long as possible. While the act of
+  closing uses dynamic grip strength, holding in a closed position
+  uses static grip strength, but it's still a form of static grip
+  strength building on a dynamic initialization, which is different
+  from static grip strength as directly measured by a dynamometer.
+
+* Repeated close persistence mode where I close the gripper and
+  immediately reopen it significantly (perhaps not all the way to
+  fully open, to save time, but usually close enough to all the way
+  that in terms of difficulty, it's not really different from fully
+  open). This tests the ability to repeatedly apply dynamic grip
+  strength, and more closely mirrors formal measurement of dynamic
+  grip strength.
+
+### Standard exercise element and readout
+
+A standard exercise element is a triple (grip pattern, gripper rating,
+handedness if unilateral or bilateral asymmetric) and is read the
+natural way. For instance:
+
+* (standard grip, 150 lb, right hand) means use the standard grip
+  (thenar versus four fingers) of the right hand on the 150 lb hand
+  gripper.
+
+* (standard excluding little finger, 100 lb, left hand) means use the
+  standard grip minus the little finger (so, thenar versus index,
+  middle, and ring fingers) of te left hand on the 100 lb hand
+  gripper.
+
+The exercise element definition leaves out the persistence mode. To
+actually *perform* an exercise element, a persistence mode must also
+be specified.
+
+The readout from an exercise element is based on the persistence mode.
+
+* For the close-and-hold persistence mode where the hand gripper was
+  successfully closed, the readout is the duration in which the hand
+  gripper was held in the closed position. If the hand gripper was not
+  successfully closed but meaningful partial progress was made, the
+  readout describes how far it got toward being closed, along with how
+  long it was held in that position.
+
+* For the repeated close persistence mode, the readout is the number
+  of times the hand gripper was successfully closed, along with
+  information on the first failed attempt after that, specifically how
+  far it got toward being successfully closed. In cases where the
+  repetitions were capped and did not reach failure, that fact should
+  be recorded.
+
+There are a few exercise elements (specifically, transfer exercises)
+that do not fit the above standard structure, and they are described
+separately.
+
+### Exercise sequence
+
+An exercise sequence is a sequence of exercise elements. Performing
+the exercise sequence means executing the exercise elements in
+sequence. Since the exercise elements do not specify a persistence
+mode, actually executing the exercise sequence requires an outer
+specification of a persistence mode.
+
+## Current protocol and status as of 2026-09-29
+
+### Two-loop structure
+
+The protocol involves an outer loop of size 2 (comprising the two
+persistence modes) and an inner loop of size 6 (comprising six
+different exercise sequences). The combined loop is of size 2 X 6 =
+12. On any given day, the goal is to execute the exercise sequence per
+the inner loop using the persistence mode per the outer loop.
+
+### High-level principles for design of exercise sequences by day
+
+* Each exercise sequence is designed to take somewhere between 2 and
+  10 minutes, but they are not all designed to be equal. For this
+  reason, swaps between exercise sequences due to time considerations
+  are permissible; for instance, if the exercise sequence due on a
+  given day is a long one, but time is at a premium on that day,
+  swapping it with the next exercise sequence is fine.
+
+* The exercise sequence for each day is designed to officially give a
+  symmetric workout to the two hands. This means that for any exercise
+  element for a unilateral exercise, its mirror image exercise element
+  (that uses the other hand) should also appear in the same day's
+  exercise sequence. Similarly, for any exercise element for a
+  bilateral asymmetric exercise, its mirror image (that reverses the
+  roles of the two hands) should appear in the same day's exercise
+  sequence.
+
+  However, since the two hands have different capabilities, the *de
+  facto* workout of the two hands might be different.
+
+* Within the exercise sequence for a day, for every unilateral
+  exercise element, its right-hand version must appear before (though
+  not necessarily immediately before) its left-hand version. The rest
+  of the arrangement depends on other convenience factors; not all
+  right hand exercises are before all left hand exercises, but they
+  are also not always alternating.
+
+* For bilateral asymmetric exercises, the hand order logic is
+  determined exercise-by-exercise, but the general idea will be to do
+  the version with more loading of and more dependence on the right
+  hand first. An example of a bilateral asymmetric exercise is the 200
+  lb both-hands-wrapped grip. The inner hand is more heavily loaded
+  here, so the exercise element with the right hand on the inside
+  appears before the exercise element with the left hand on the
+  inside.
 
 ### First of 3-day cycle: 150 lb and 100 lb close-and-hold with all fingers (focus on maintaining)
 
