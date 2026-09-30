@@ -1066,3 +1066,11 @@ On Sunday 2026-09-27, I skipped strength exercises due to delays
 induced by scheduling issues, and in order to not compound the delays
 too much. I was also feeling some heat-related exhaustion after indoor
 jogging. I did indoor jogging and hand gripper exercises as usual.
+
+## 2026-09-29: skipped all exercises
+
+On Tuesday 2026-09-29, I skipped all exercises. This was because of a
+long stretch in the morning and early afternoon when I wrapped up
+several day job items for the week in order to be able to switch gears
+after that. I decided to skip exercises so as to not delay the rest of
+my day too much.
