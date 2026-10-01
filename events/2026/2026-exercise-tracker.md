@@ -1074,3 +1074,9 @@ long stretch in the morning and early afternoon when I wrapped up
 several day job items for the week in order to be able to switch gears
 after that. I decided to skip exercises so as to not delay the rest of
 my day too much.
+
+## 2026-09-30: skipped all exercises
+
+On Wednesday 2026-09-30, I skipped all exercises. This was because of
+an unexpected number of time-sensitive items related to my day job
+that ended up taking the entire afternoon.
