@@ -42,8 +42,7 @@ There are four maxillary molars:
   case (and also in general) this is visible for first molars but
   mostly not visible for second molars. This is because first molars
   have more complex crown morphology with more deeply expressed
-  developmental grooves, since that explains why rather than just
-  describing what.
+  developmental grooves.
 
 ### Staining and plaque pattern
 
