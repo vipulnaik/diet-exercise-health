@@ -1080,3 +1080,10 @@ my day too much.
 On Wednesday 2026-09-30, I skipped all exercises. This was because of
 an unexpected number of time-sensitive items related to my day job
 that ended up taking the entire afternoon.
+
+## 2026-10-03: skipped jogging
+
+On Saturday 2026-10-03, I skipped jogging due both to heat and to
+generally being squeezed on time. Strength exercises were not due on
+that day. I did hand gripper exercises and my non-strength cycle
+exercise (humming with intermittent pauses) as usual.
