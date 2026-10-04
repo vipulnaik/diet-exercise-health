@@ -792,3 +792,20 @@ Planned changes going forward:
   brush against the surface. This gets us at least the minimal benefit
   that comes from flossing, though this is more about scraping debris
   than the brush/paste action, so it doesn't substitute for brushing.
+
+## 2026-10-04 (off-cycle floss pick pressure test)
+
+On Sunday 2026-10-04, past midnight from Saturday 2026-10-03, I did an
+off-cycle floss pick pressure test. This time, I was careful to only
+ramp up pressure *after* positioning the floss pick in contact with
+the papilla. The right mandibular interdental gaps were a bit more
+sore and hurt a little more, but there was no bleeding and the pain
+subsided in about 4 minutes.
+
+I did *not* end up making the change proposed after the previous floss
+pick pressure test of starting with the right mandibular interdental
+gaps when flossing. However, I do feel like I've been more careful to
+give good coverage to the right mandibular interdental gaps. It's not
+clear if the better result compared to last time is due to more care
+to only start applying pressure after positioning the floss pick in
+contact with the papilla.
