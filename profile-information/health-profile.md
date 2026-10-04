@@ -1992,7 +1992,7 @@ Three mechanisms are likely going on at the same time:
 
 ## Blood cell status
 
-Last substantive section update: May 25, 2026 (2026-05-25)
+Last substantive section update: August 25, 2026 (2026-08-25)
 
 This section covers the material that falls under hematology and is
 covered under a complete blood count (CBC) along with conceptually
