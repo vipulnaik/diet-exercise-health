@@ -507,13 +507,13 @@ execution log is [here](../logs/skin-checklist-log.md).
 
 ## Insulin sensitivity and glycemic control
 
+Last substantive section update: October 4, 2026 (2026-10-04)
+
 You can get full details
 [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql)
 of all test results for me so far of tests discussed in this section.
 
 ### Insulin sensitivity/resistance spectrum measurements and inferences about insulin resistance
-
-Last substantive section update: October 4, 2026 (2026-10-04)
 
 To understand this section, it may help to brush up on the [insulin
 resistance primer](../primers/insulin-resistance-primer.md). The
