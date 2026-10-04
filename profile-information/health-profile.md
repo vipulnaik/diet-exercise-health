@@ -1,6 +1,6 @@
 # Health profile
 
-Last major update: August 25, 2026 (2026-08-25)
+Last major update: October 4, 2026 (2026-10-04)
 
 NOTE (2025-09-22, updated 2026-05-25): I got [blood tests done on
 September 10, 2025](../events/2025/2025-09-10-blood-tests.md). I got
@@ -511,14 +511,21 @@ You can get full details
 [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/test_results.sql)
 of all test results for me so far of tests discussed in this section.
 
-### Insulin sensitivity/resistance spectrum measurements
+### Insulin sensitivity/resistance spectrum measurements and inferences about insulin resistance
 
-The spectrum from insulin sensitivity to insulin resistance measures
-how sensitive the body is to insulin for the purpose of controlling
-blood glucose. The more sensitive, the less insulin is needed to
-maintain normal blood glucose. As of 2025, my insulin sensitivity
-seems to be in the optimal range. I do not seem to have insulin
-resistance, and I plan to continue monitoring for this.
+Last substantive section update: October 4, 2026 (2026-10-04)
+
+To understand this section, it may help to brush up on the [insulin
+resistance primer](../primers/insulin-resistance-primer.md). The
+primer goes into detail into the four main players in insulin
+resistance: pancreas, liver, muscle, and adipose tissue.
+
+I first describe the main insulin resistance measurement I have, then
+after that I discuss what these mean for my insulin
+sensitivity/resistance spectrum as far as the main players are
+concerned. The TL;DR is that I score well on insulin sensitivity in
+all the measurements done so far, but muscle insulin resistance is not
+adequately covered by such measurements.
 
 #### Insulin resistance calculated using fasting insulin (HOMA-IR method)
 
@@ -556,8 +563,15 @@ and VLDL portions.
 
 The ratio of triglycerides to HDL cholesterol (known as the TG/HDL-C
 ratio) is considered an approximate measure of insulin resistance; a
-higher TG/HDL-C ratio indicates more insulin resistance. Roughly,
-ratios of 2 or lower are considered ideal; [this
+higher TG/HDL-C ratio indicates more insulin resistance. TG/HDL-C
+ratio can be thought as as a poor man's cousin of LP-IR. While LP-IR
+takes a detailed look at the size distribution of VLDL, LDL, and HDL
+particles, TG/HDL-C uses triglycerides as a crude proxy for VLDL and
+HDL-C as a crude proxy for HDL, while losing distributional
+information. The main advantage of the TG/HDL-C ratio in my case is
+that I have more measurements of it.
+
+Roughly, ratios of 2 or lower are considered ideal; [this
 paper](https://www.sciencedirect.com/science/article/abs/pii/S1933287421001197)
 suggests 2.6 or lower for men and 1.7 or lower for women. Ratios of 4
 or higher are considered high-risk.
@@ -568,13 +582,13 @@ TG/HDL-C ratio of 1 or less.
 Here are my five most recent readings and the calculated TG/HDL-C
 ratios:
 
-Reading date | Triglycerides (mg/dL) | HDL-C (mg/dL) | Ratio (less than 1 is optimal, less than 2 is decent, less than 2.6 is okay for males)
--- | -- | -- | --
-2025-09-10 (September 2025) | 57 | 55 | 1.04
-2024-12-13 (December 2024) | 56 | 66 | 0.85
-2024-09-03 (September 2024) | 89 | 46 | 1.93
-2021-06-30 (June 2021) | 124 | 46 | 2.70
-2017-11-12 (November 2017) | 79 | 51 | 1.55
+Reading date | Triglycerides (mg/dL) | HDL-C (mg/dL) | Ratio (less than 1 is optimal, less than 2 is decent, less than 2.6 is okay for males) | LP-IR if available
+-- | -- | -- | -- | --
+2025-09-10 (September 2025) | 57 | 55 | 1.04 | N/A
+2024-12-13 (December 2024) | 56 | 66 | 0.85 | < 25 (optimal range)
+2024-09-03 (September 2024) | 89 | 46 | 1.93 | N/A
+2021-06-30 (June 2021) | 124 | 46 | 2.70 | N/A
+2017-11-12 (November 2017) | 79 | 51 | 1.55 | N/A
 
 While the two most recent readings paint an "optimal" picture, the
 other readings paint a picture ranging from decent to slightly
@@ -585,6 +599,73 @@ Overall, it's clear that I do not have significant insulin resistance
 at this stage, but the picture is not quite as optimal as the HOMA-IR
 calculation suggests. Continued monitoring will help paint a clearer
 picture.
+
+#### Implications of these readings for the different kinds of insulin resistance
+
+Going over the four main players in insulin resistance:
+
+* Pancreas: The pancreas doesn't directly cause insulin resistance,
+  but insulin resistance can lead to loss of pancreatic function over
+  time. The normal fasting glucose and insulin readings described in
+  the HOMA-IR are evidence against pancreas damage; an observably
+  damaged pancreas would produce too little insulin and result in a
+  higher fasting glucose.
+
+* Liver: The good HOMA-IR readings speak most directly to hepatic
+  insulin resistance, and suggest that I don't have hepatic insulin
+  resistance at this stage. In fact, my hepatic insulin sensitivity
+  seems to be in the optimal range.
+
+* Muscle: This is the blind spot of the measurements done so far; none
+  of them give much clarity on muscle insulin resistance. The later
+  points in an oral glucose tolerance test (OGTT) (ideally with
+  insulin) would be most informative for muscle insulin resistance;
+  good muscle insulin sensitivity will show up in the form of a brief
+  and rapidly subsiding glucose peak, without needing a lot of insulin
+  to support it.
+
+  DEXA gives some relevant information, discussed in the next
+  subsubsection.
+
+* Adipose tissue: LP-IR and its cousin TG/HDL-C both paint a picture
+  of optimal adipose insulin sensitivity, at least if we consider only
+  the relatively recent TG/HDL-C readings. Further, the low visceral
+  fat reading (about 0.15 lb or 68 grams) from my November 2025 DEXA
+  scan is further corroboration.
+
+#### Muscle insulin resistance and insights from DEXA
+
+I don't have any direct functional biomarker measurement of muscle
+insulin resistance, like an OGTT or comparable CGM data. I do have
+anatomical data from DEXA, which gives information on *how much muscle
+mass* I have in various parts of my body.
+
+The November 2025 DEXA data shows that my total lean mass is on the
+low end, with about 1% of their population in an age range similar to
+mine having a lower BMI-L (in kg/m^2), and about 2% of their
+population in an age range similar to mine having a lower appendicular
+lean mass index (ALMI) (in kg/m^2). With muscle, greater quantity of
+muscle reduces the effective muscle insulin resistance, while adipose
+tissue has the opposite effect where more quantity increases the
+effective adipose insulin resistance. My low muscle mass, therefore,
+is a problem because it means that quantity isn't directly helping
+me. With that said, the percentile itself is misleadingly pessimistic,
+because the proportional difference between the 99th percentile and
+the 1st percentile is less than a factor of 2.
+
+The two main takeaways for now:
+
+* I should not extrapolate from my good measured liver and adipose
+  insulin sensitivity to muscle, because the quantitative picture from
+  DEXA is pointing in the opposite direction.
+
+* This is yet another reason to continue to do strength
+  exercises. Insulin sensitivity argues for more focus on leg muscle
+  than arm muscle, because there's more of the former, and it tends to
+  be better as a glucose sink. Of course, there are other
+  considerations (such as functional strength) to favor arm muscle
+  work, and insulin sensitivity doesn't dominate the picture, but as a
+  consideration it does push toward more leg strength work.
 
 #### Plan for followup measurements and actions
 
@@ -597,7 +678,7 @@ measurement:
   at roughly yearly granularity.
 
 * LP-IR calculation: I plan to get a NMR lipoprofile (that includes
-  the LP-IR score) about once a year. This wiill give a time series of
+  the LP-IR score) about once a year. This will give a time series of
   LP-IR at roughly yearly granularity.
 
 * TG/HDL-C ratio calculation: I plan to get a lipid panel (either a basic one or
