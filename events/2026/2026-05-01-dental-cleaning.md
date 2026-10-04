@@ -276,45 +276,251 @@ no meal to skip walnuts from.
 
 ## Appointment
 
-TODO This section is pending expansion based on notes recorded in
-Slack and Google Drive and a conversation with Claude.
+### Friday office situation and cleaning-only plan selection
 
-### List of items to discuss
+When I arrived for the appointment, I learned that the office is
+generally closed on Fridays except for special
+appointments. Therefore, none of the support staff were present, and
+only the hygienist doing the cleaning for me was present. I explained
+that my appointment had originally been scheduled for Wednesday but it
+was rescheduled by the office.
 
-Items:
+Since the administrative staff were not working, I was not able to
+officially execute the plan renewal. However, I did discuss the
+potential renewal options with the hygienist. The two plan options,
+also described [here](https://totalhealthdentalcare.com/membership),
+were:
 
-* General check-in on recession.
+* The $300/year cleaning-only plan (which offers cleanings twice a
+  year and unlimited exams and X-rays, but no discounts on more
+  advanced procedures. It is annual.
 
-* The recurrence of ulcers opposite my mandibular right canine led
-  Claude to suggest that perhaps the cusp tip has a sharp edge, which
-  contributes to ongoing trauma (causing recurrence and slowing down
-  healing). Claude suggests that if so, a targeted smoothing of the
-  cusp tip could permanently reduce the contribution of this
-  microtrauma, which would allow faster healing and reduce recurrence
-  in the long run.
+* The $600/year plan with a minimum two-year commitment, that
+  additionally gives discounts of 50% on additional procedures, up to
+  $2,000 in total discounts, and also offers ozone treatment.
 
-  A few related points:
+The hygienist said that the cleaning-only plan would be good enough
+for me given the condition of my teeth, so that was my tentative
+selection.
 
-  * The greater recession of the canines could be an indirect
-    contributor. It doesn't change the cusp tip shape directly, but it
-    could affect the contact angle in an unfavorable way.
+The renewal would go through next Tuesday (2026-05-05) after the
+administrative staff got in touch with me and confirmed the selection.
 
-  * The smoothing of the cusp tip is likely to be a quick one-time
-    procedure and not something that needs a refresh with every
-    cleaning.
+### Bitewing X-rays
 
-  * The evaluation can be done by the dentist in the exam. I should
-    just make sure to mention it to the hygienist at the start of the
-    appointment and then again to the dentist if the hygienist doesn't
-    bring it up.
+The hygienist started off by doing bitewing X-rays. This needed a few
+iterations. The hygienist thought this was because of tongue
+interference, though I don't think that was the only cause;
+awkwardness of the overall setup (due to which the machine got
+inadvertently moved) may have contributed. In any case, the X-rays did
+end up getting done. The hygienist didn't see anything wrong in the
+X-rays. The evaluation by the doctor was deferred as the doctor was
+not in.
 
-  * If cusp tip smoothing seems worth doing, it is likely to be doable
-    within the same visit, but it does need to be done by the dentist
-    rather than the hygienist, so depending on schedule it may not be
-    doable.
+I didn't hear back anything concerning from the doctor the next week,
+so I assume that everything was fine.
 
-  * If the procedure is indicated, it's likely to either be done for
-    free or have a minimal incremental cost.
+### Cleaning process
+
+#### Cleaning sequence (polish-first)
+
+In light of the staining, the hygienist chose the sequence of
+polishing first, then doing the scraping/scaling. Some of the
+hygienists in past dental cleanings have followed this order, while
+others have done scraping/scaling first, and in my experience the
+polish-first approach works better.
+
+The hygienist explained her reasoning for polishing first: it covers
+up the stains, which allows for calculus and plaque to be more easily
+identifiable and therefore allows for a more efficient scraping
+process. According to her, the polish-first approach is particularly
+useful for periodontal patients, with whom she has worked extensively.
+
+She also mentioned one other advantage of polish-first: the teeth
+don't have a bunch of awkward-feeling polish (grit) on them at leaving time
+(the polish settles in by the end of the appointment), so the patient is
+good to go.
+
+#### Redness and bleeding
+
+I did have a little bit of redness and bleeding in the areas
+identified early on by the hygienist as having plaque
+accumulation. However, the bleeding was much less than last time, and
+did not cause pain or interfere with the cleaning process. Most of
+this healed fairly quickly, as discussed in the later [minor injuries
+and impact](#minor-injuries-and-impact) subsection. I also have a
+later section TODO add this with a more thorough retrospective
+comparison with last time's cleaning, along with theories of what
+changed.
+
+### Hygienist feedback
+
+#### Plaque near roots for many of the tooth surfaces
+
+The hygienist, even on initial eyeballing, was able to identify soft
+plaque near the roots of several teeth, with the facial mandibular
+incisors as the surfaces she identified first, but she also later
+identified several lingual tooth surfaces.
+
+The hygienist said that this soft of soft plaque would have
+accumulated only recently, and should easily come off with proper
+brushing, so its presence suggests that there is scope for improvement
+in my brushing.
+
+She used a mirror and the scraping tool to scrape some of it off. The
+plaque was white and visually hard for me to distinguish from the
+enamel. My guess is that she wasn't directly seeing the plaque, but
+rather, noticing the redness/inflammation in the gingiva when it was
+subject to a bit of mechanical pressure, which was an indicator that
+there was plaque. The mechanical pressure had already been instigated
+somewhat by repeated biting down on bitewing X-rays.
+
+The areas where she identified plaque were also the ones with more
+micro-bleeding later during the cleaning.
+
+##### The "long teeth" point
+
+The hygienist said that I have long teeth, which means there is more
+risk of the brush strokes missing the portion of the tooth surfaces
+near the roots. I should therefore make sure to get enough brush
+strokes near the root.
+
+#### Mucocele diagnosis
+
+I pointed the hygienist to what I then called the "mouth ulcer" on my
+inner lower lip opposite my mandibular incisors and right mandibular
+canine. The hygienist inspected it and classified it as a mucocele,
+not a mouth ulcer.
+
+The hygienist was careful during the cleaning and successfully avoided
+aggravating it, so notifying the hygienist was directly helpful in
+terms of the success fo the cleaning, even setting aside the benefit
+of the corrected classification.
+
+According to the hygienist, aphthous ulcers are painful enough that
+rescheduling cleanings can make sense, but mucoceles generally aren't;
+my sense that it was not a blocker to getting cleaning as long as the
+area wasn't poked too much, therefore, was consistent with it being a
+mucocele. The hygienist mentioned that mucoceles are the sort of thing
+one is tempted to pop; they do eventually come off on their own but it
+can take a variable amount of time.
+
+This was a useful revelation that would inform
+further review of my historical classification, leading me to
+reclassify some (but not all) of the mouth lesions I had historically
+classified as mouth ulcers to mucoceles. The updated file is
+[here](https://github.com/vipulnaik/diet-exercise-health-private/blob/master/notes/non-specific-mouth-lesions.md)
+(it's a private file so most readers will not have access).
+
+A mucocele, also known as a mucous cyst, is a harmless, usually
+painless, fluid-filled swelling that occurs on the lips, gums, tongue,
+or roof/floor of the mouth. It may be caused by either a blocked or a
+ruptured salivary duct that causes mucus accumulation.
+
+The hygienist proposed the possibility that the presence of the
+mucocele might be dissuading me from brushing that area thoroughly,
+which might be contributing to soft plaque accumulation in that area
+(which was the site of the most obvious soft plaque accumulation, as
+discussed in the preceding subsubsection). After returning home and
+reflecting more, I feel like causation also ran in reverse:
+accumulation of soft plaque near the roots of the mandibualr incisors
+created an environment that led to the formation of the mucocele. This
+suggests a self-reinforcing feedback loop. Let's explore both angles.
+
+##### Soft plaque and calculus accumulation as a contributing factor to mucocele development
+
+Here is the general model I have developed, based on a mix of (very
+thin) data of my own and some theory as worked out with Claude in a
+[private Claude
+conversation](https://claude.ai/chat/c67c7f91-38ed-4248-bc2b-a9362508a047)
+(search `mucocele` and read the next few messages).
+
+* Soft plaque and calculus accumulation is a background factor that
+  affects the propensity for mucocele formation and persistence as
+  well as the extent to which it causes inconvenience and pain. This
+  would suggest that mucoceles are more likely to form as we get
+  further and further out from the last dental cleaning, and an
+  already-present mucocele is likely to reverse more quickly after a
+  dental cleaning.
+
+  My experience with the 2026-04-02 mucocele, shown in the 2026-05-01
+  dental cleaning, that reversed fairly quickly after the cleaning, is
+  evidence in favor of this.  However, the [mouth lesions
+  document](https://github.com/vipulnaik/diet-exercise-health-private/blob/master/notes/non-specific-mouth-lesions.md)
+  does not provide a lot of other support for this, compared to my
+  anecdotal impression. I believe one complicating factor is that some
+  mucoceles are small enough that they never cause the pain or
+  inconvenience that would lead me to record them, but I still carry a
+  general memory of having had them more toward the end of the period
+  between dental cleanings, and their going down after the dental
+  cleaning.
+
+* There is still a strong stochastic component and there's a strong
+  influence of recent exposures, including biting patterns and
+  exposure to spicy and acidic foods. These operate on top of the
+  background factor of soft plaque and calculus accumulation. This
+  means that a comparable exposure can do more damage if it's been
+  longer since the last dental cleaning, and the recovery trajectory
+  can be longer.
+
+More on the general factors affecting mucoceles and aphthous ulcers
+(the other kind of mouth lesion I believe I've had) is in the [mouth
+lesions
+document](https://github.com/vipulnaik/diet-exercise-health-private/blob/master/notes/non-specific-mouth-lesions.md)
+
+Based on this theory, the hypothesis is that increasing the
+thoroughness of brushing specifically near the roots of mandibular
+incisors and the right mandibular canine will reduce one contributing
+background factor for mucoceles, and I will be able to feel the
+difference, not only in terms of mucoceles worth recording as mouth
+lesions, but more generally when probing my inner lower lip with my
+tongue; such probing would feel smoother and wouldn't catch that many
+ridges and protrusions.
+
+As of 2026-10-03, it's about five months since the dental cleaning,
+and I have been making a point of being thorough with my brush strokes
+near the roots of the facial surfaces of the mandibular incisors and
+mandibular canine. It might just be placebo, but I feel like it has
+made a difference to my felt sense of comfort in the inner lower lip
+opposite those. The inner lower lip surface also feels very smooth
+compared to how I vaguely remember it feeling five months after a
+dental cleaning in the past. I don't have anything that feels like a
+mucocele.
+
+This isn't conclusive evidence, but it does tentatively support the
+theory I built above.
+
+##### The mucocele itself leads to avoidance of brushing of the area
+
+This is the other half of the feedback loop: the presence of the
+mucocele makes it more unpleasant to brush the area, which leads to
+fewer brush strokes of the area and therefore more plaque
+accumulation. The hygienist suggested this as something for me to
+think about, and I think it makes sense. However, the mucocele
+resolved fairly quickly after the dental cleaning, which made it hard
+to get a clear sense of the merit to the theory. It's something I hope
+to consider more if and when another mucocele develops, though if no
+mucocele develops, I win anyway.
+
+#### Strong teeth and no cavities or tendency for cavities
+
+According to the hygienist, based both on examination of the X-rays
+and the physical experience of cleaning (that included visual and
+pressure information) I have strong teeth and they have low propensity
+for cavities. She didn't see evidence of cavities in the X-rays.
+
+#### Staining on lingual surfaces
+
+The hygienist mentioned that staining was an issue on the
+lingual/palatal (inner) surfaces of teeth. I explained that there was
+lots of staining last time and not all of it came off, and rate of
+staining is down, as judged by me through photos. I mentioned kale and
+walnuts (that both have high iron content) as likely sources of
+staining.
+
+The hygienist mentioned that smokers get staining so fast that it's
+considered pointless even to try removing the stains; in her view, at
+least my sources of staining were otherwise healthy.
 
 ## Immediate aftermath
 
