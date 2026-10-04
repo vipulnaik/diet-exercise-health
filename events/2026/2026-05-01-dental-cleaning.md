@@ -423,7 +423,7 @@ which might be contributing to soft plaque accumulation in that area
 (which was the site of the most obvious soft plaque accumulation, as
 discussed in the preceding subsubsection). After returning home and
 reflecting more, I feel like causation also ran in reverse:
-accumulation of soft plaque near the roots of the mandibualr incisors
+accumulation of soft plaque near the roots of the mandibular incisors
 created an environment that led to the formation of the mucocele. This
 suggests a self-reinforcing feedback loop. Let's explore both angles.
 
