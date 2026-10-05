@@ -362,7 +362,7 @@ plaque near the roots of several teeth, with the facial mandibular
 incisors as the surfaces she identified first, but she also later
 identified several lingual tooth surfaces.
 
-The hygienist said that this soft of soft plaque would have
+The hygienist said that this soft plaque would have
 accumulated only recently, and should easily come off with proper
 brushing, so its presence suggests that there is scope for improvement
 in my brushing.
