@@ -469,7 +469,7 @@ lesions
 document](https://github.com/vipulnaik/diet-exercise-health-private/blob/master/notes/non-specific-mouth-lesions.md)
 
 Based on this theory, the hypothesis is that increasing the
-thoroughness of brushing specifically near the roots of mandibular
+thoroughness of brushing near the roots specifically of the facial surfaces of mandibular
 incisors and the right mandibular canine will reduce one contributing
 background factor for mucoceles, and I will be able to feel the
 difference, not only in terms of mucoceles worth recording as mouth
