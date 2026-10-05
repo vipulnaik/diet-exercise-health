@@ -1115,7 +1115,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-09-28','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-09-30',1),
   ('2026-09-28','TJ Almond Milk',1,2,null,null),
-  ('2026-09-29','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-09-29','TJ Miso Ginger Broth',1,1,'2026-10-04',2),
   ('2026-09-29','TJ Roasted Seaweed',1,2,null,null),
   ('2026-09-29','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,2,'2026-10-01',2),
   ('2026-09-30','TJ Walnuts',1,1,'2026-10-04',1),
