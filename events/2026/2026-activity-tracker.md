@@ -171,3 +171,9 @@ Berkeley. My first stop was Goodwill, where I dropped off five pairs
 of torn socks. My next stop was Citibank, where I withdrew
 quarters. After that, I headed to Trader Joe's for my usual food
 purchases, that I recorded [here](../../sql/food_purchases_2026.sql).
+
+## 2026-10-04
+
+On Sunday 2026-10-04, in the afternoon, I made an administrative trip
+related to taxes. I also stopped at Walgreens for toiletries purchases
+while I was out.

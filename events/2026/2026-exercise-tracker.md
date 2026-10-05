@@ -1087,3 +1087,8 @@ On Saturday 2026-10-03, I skipped jogging due both to heat and to
 generally being squeezed on time. Strength exercises were not due on
 that day. I did hand gripper exercises and my non-strength cycle
 exercise (humming with intermittent pauses) as usual.
+
+## 2026-10-04: skipped all exercises
+
+On Sunday 2026-10-04, I skipped all exercises to make time for an
+administrative trip related to tax work in the afternoon.
