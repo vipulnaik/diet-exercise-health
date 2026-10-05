@@ -809,3 +809,11 @@ give good coverage to the right mandibular interdental gaps. It's not
 clear if the better result compared to last time is due to more care
 to only start applying pressure after positioning the floss pick in
 contact with the papilla.
+
+## 2026-10-05 (off-cycle squeaky clean teeth test)
+
+On Monday 2026-10-05, past midnight from Sunday 2026-10-04, I did a
+squeaky clean teeth test after brushing teeth. Impressively, I was
+able to get a squeaky sound from all tooth surfaces (facial and
+lingual), including the facial surfaces of the mandibular incisors,
+that generally fail to squeak.
