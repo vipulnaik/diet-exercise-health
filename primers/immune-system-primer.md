@@ -180,3 +180,53 @@ primer.
 
   * The microbiome is another source of complexity when thinking about
     immune function, particularly in areas like the GI tract and skin.
+
+## Function, quantity, structure, and algorithm
+
+With the immune system, we are most interested in immune
+*function*. However, function is hard to quantify because it's an
+emergent, integrated property of the whole organism. The isolated
+functional behavior of specific cells or compounds they produce can be
+tested in the laboratory (for instance, whether something works as an
+antibody against a specific antigen can be tested in the laboratory)
+but such tests are not part of routine clinical assays. The clinical
+picture of function is based on some mix of history (how well did the
+person react to specific infections, injuries, or insults, and/or how
+often the person falls sick) and indirect interpretation of function
+from cruder measures.
+
+So, it is helpful to understand what knobs the immune system uses to
+achieve function. There are three.
+
+## Quantity
+
+Quantity is the crudest knob. As long as the immune component is
+effective at its function, and as long as more of it makes it more
+effective, increased quantity means more function. Tests like a
+complete blood count (CBC) are ideal for measuring the quantity knob.
+
+The quantity knob is the main directly available knob for natural
+immunity, such as neutrophils. For adaptive immunity, such as
+lymphocytes, the knob of structure is also available.
+
+### Structure
+
+Structural adaptation is a knob available on the adaptive immunity
+side. Memory B cells and memory T cells are created based on learnings
+from exposure to specific antigens.
+
+### Algorithm
+
+Algorithmic adaptation can be thought of as meta-adaptation: it
+involves an update to the algorithms that control the production of
+components of the immune system. For instance, a better adapted
+algorithm learns what sort of initial exposures should trigger
+significant increases in neutrophil levels, what exposures should
+trigger the production of specific memory B cells and memory T cells,
+and what sort are relatively safe. The algorithm is not accessible
+simply by looking at a sample of blood, because that only gives the
+quantity and structure at the time (and in the absence of exposure, it
+only gives the "standing preparedness" quantity and structure).
+
+The concept of "immunological imprinting" is worth digging into as one
+facet of how the immune algorithm layer evolves.
