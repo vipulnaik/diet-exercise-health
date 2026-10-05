@@ -2255,6 +2255,27 @@ Before proceeding, it's helpful to brush up using the [immune system
 primer](../primers/immune-system-primer.md) that provides a summary of
 high-level distinctions within immunity.
 
+A few other portions of the health profile that are helpful to connect
+with this subsection:
+
+* [Infectious diseases and
+  vaccines](#infectious-diseases-and-vaccines) is the section where I
+  discuss my history of infectious disease exposure and vaccines. That
+  section provides more substantiation of claims I make rather vaguely
+  in this subsection about my background infectious exposure rate
+  being low.
+
+* [Markers of internal
+  inflammation](#markers-of-internal-inflammation) covers measurements
+  such as C-reactive protein (CRP) and GlycA. These carry information
+  combining acute infectious exposures as well as systemic
+  inflammation. My values for both of these are on the low side, which
+  provides further substantiation that, *at the time of the blood
+  tests* (and probably also in general), my current / recent activity
+  levels were not high. This in turn means that the WBC measurements
+  are a reflection of standing preparedness rather than elevated
+  current or recent activity.
+
 #### Where WBCs and their CBC measurements fit in the immune system
 
 In terms of the various distinctions, here is a simplified
@@ -2316,18 +2337,20 @@ and microbiome`
 
 The table below gives my WBC measurements, along with the LabCorp
 reference range (not all tests were from LabCorp, but reference ranges
-are fairly similar by laboratory).
+are fairly similar by laboratory). C-reactive protein (CRP) is also
+included when available as a reference point to confirm low "current
+activity" of the immune system at the time.
 
-Reading date | WBC (1000/uL)
--- | --
-LabCorp reference range     | 3.4-10.8
-2025-09-10 (September 2025) | 4.1
-2025-01-22 (January 2025)   | 3.5
-2024-09-03 (September 2024) | 4
-2024-04-30 (April 2024)     | 5.1
-2021-06-30 (June 2021)      | 4.2
-2016-12-12 (December 2016)  | 4.3
-2005-06-15 (June 2005)      | 10.4
+Reading date | WBC (1000/uL) | C-reactive protein (mg/L)
+-- | -- | --
+LabCorp reference range     | 3.4-10.8 | 0-3, but < 1 considered optimal
+2025-09-10 (September 2025) | 4.1      | < 0.15
+2025-01-22 (January 2025)   | 3.5      | 0.24
+2024-09-03 (September 2024) | 4        | N/A
+2024-04-30 (April 2024)     | 5.1      | N/A
+2021-06-30 (June 2021)      | 4.2      | N/A
+2016-12-12 (December 2016)  | 4.3      | 0.21
+2005-06-15 (June 2005)      | 10.4     | N/A
 
 My 2005 reading was taken in Chennai, India while I was pursuing
 undergraduate studies. All other readings (2016 onward) were taken
