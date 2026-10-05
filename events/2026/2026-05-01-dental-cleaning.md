@@ -5,7 +5,7 @@ at 1 PM at Total Health Dental Care at 3017 Telegraph Avenue. The
 previous dental cleaning had been on
 [2025-10-22](../2025/2025-10-22-dental-cleaning.md).
 
-NOTE 2026-05-01: The document has not been updated meaningfully to
+NOTE 2026-10-05: The document is in the process of being updated to
 reflect the events of the dental cleaning and the learnings from
 it. The notes are in a [Slack self-chat log
 message](https://vipulscafe.slack.com/archives/D07J33LQEK0/p1777674977030969)
