@@ -81,13 +81,13 @@ Further notes:
   overhand and underhand dead hang to be close to uncorrelated (as
   opposed to being correlated positively or negatively).
 
-* The 2026-09-29 update is interesting in that the overhand dead range
-  didn't increase; in fact, the lower end stayed the same and the
-  upper end shrank from 60 t0 55. This is based on a review of recent
-  overhead dead hang performance that has almost always stayed in the
-  range of 40 to 55 oscillations. The upper end of 60 that I had set
-  on 2026-04-11 had been based on recent upward outlier performance
-  that has not been repeated.
+* The 2026-09-29 update is interesting in that the overhand dead hang
+  range didn't increase; in fact, the lower end stayed the same and
+  the upper end shrank from 60 t0 55. This is based on a review of
+  recent overhead dead hang performance that has almost always stayed
+  in the range of 40 to 55 oscillations. The upper end of 60 that I
+  had set on 2026-04-11 had been based on recent upward outlier
+  performance that has not been repeated.
 
 ### History of settings
 
