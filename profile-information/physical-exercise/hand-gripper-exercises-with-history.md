@@ -393,6 +393,8 @@ by India travel.
 
 Current status: part of the Day 1 exercise sequence.
 
+This first table provides important firsts for both hands.
+
 Feat | Date for right hand | Date for left hand
 -- | -- | --
 First attempt | 2023-09-04 | 2023-09-04
@@ -870,3 +872,14 @@ and 200 lb (even with all closing), there is still scope for greater
 extent-of-closing and consistency of achieving that extent-of-closing,
 and the improvements in the recent past have been on those fronts, as
 opposed to the durations themselves.
+
+### Switch to a more complicated combinatorial traversal on 2026-04-05
+
+On 2026-04-05, I formulated a more complicated combinatorial traversal
+of various hand gripper exercises with an outer loop of persistence
+modes (close-and-hold versus repeated close) and an inner loop that
+varied the gripper and grip pattern by day. This loop got gradually
+refined; it started at about 5 days in the inner loop (so 5 X 2 = 10
+total) and was expanded to 6 days in the inner loop (so 6 X 2 = 12
+total). The documentation was deferred to later, and finally done
+2026-09-29 with the version of the protocol at that time.
