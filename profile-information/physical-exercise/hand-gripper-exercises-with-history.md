@@ -873,7 +873,7 @@ extent-of-closing and consistency of achieving that extent-of-closing,
 and the improvements in the recent past have been on those fronts, as
 opposed to the durations themselves.
 
-### Switch to a more complicated combinatorial traversal on 2026-04-05
+#### Switch to a more complicated combinatorial traversal on 2026-04-05
 
 On 2026-04-05, I formulated a more complicated combinatorial traversal
 of various hand gripper exercises with an outer loop of persistence
