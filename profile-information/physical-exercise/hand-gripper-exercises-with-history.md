@@ -337,47 +337,87 @@ elements currently or historically executed, and even for the elements
 it does include, it only covers key firsts and doesn't provide a
 performance trajectory.
 
-#### (standard grip, 100 lb, right hand)
+We combine mirror image elements where applicable so that the
+left/right strength contrast can be more easily eyeballed.
+
+#### (standard grip, 100 lb, _)
 
 Current status: part of the Day 1 exercise sequence.
 
-First attempted: 2023-07-29; this and its left hand counterpart were
-the first things I tried.
+This first table provides important firsts for both hands.
 
-First success of single close: 2023-07-30 (one rep, sometimes two
-reps, but never more than two), comfortable and consistent as of
-2023-08-08.
+Feat/practice | Date for right hand | Date for left hand
+-- | -- | --
+First attempt | 2023-07-29 | 2023-07-29
+First successful single close | 2023-07-30 | 2023-09-04 or earlier
+Comfortable and consistent closing achieved | 2023-08-08 | 2023-09-04
+Beginning of regular close-and-hold practice | 2024-03-17 | 2024-03-17
+Beginning of repeated closing (repetition) practice | 2025-12-23 (based on decision 2025-12-20) | 2025-12-23 (based on decision 2025-12-20)
 
-#### (standard grip, 100 lb, left hand)
+This second table goes into recorded range updates for both the
+close-and-hold duration and the number of repetitions, based on
+recorded dates. Recording of individual attempts began on 2024-12-24,
+so estimates prior to that are based on general impressions from
+recent practice rather than a review of recorded data.
+
+It's also worth noting that I have historically done the 100 lb hand
+gripper exercises after the 150 lb hand gripper exercises, so my hands
+are somehat fatigued. Starting with 100 lb first would improve 100 lb
+performance, but would reduce 150 lb performance much more. I made the
+sequencing formal on 2024-08-02, although I was following it in spirit
+even prior to that.
+
+The "no change" dates are dates where there was no change to the 100
+lb ranges. The date is still included because some other hand gripper
+threshold was updated, which means I reflected on whether to update
+the ranges for these exercises and chose not to.
+
+Update date (describing recent trends) | Typical close-and-hold duration in right hand (seconds) | Typical close-and-hold duration in left hand (seconds) | Typical number of repetitions in right hand | Typical number of repetitions in left hand
+-- | -- | -- | -- | --
+2024-05-07 | 10 (occasionally up to 20) | 10 | N/A | N/A
+2024-08-02, no change 2024-09-09 | 10 to 20 (generally about 15) | 10 to 20 (generally about 15) | N/A | N/A
+2025-01-16 | 15 to 30 (generally about 20) | 15 to 30 (generally about 15) | N/A | N/A
+2025-02-04 | 20 to 35 | 15 to 30 | N/A | N/A
+2025-02-28 | 25 to 45 | 20 to 35 | N/A | N/A
+2025-05-26 | 20 to 45 | 15 to 35 | N/A | N/A
+2025-12-20 | 25 to 45 (usually 30 to 40) | 20 to 40 (usually 25 to 35) | N/A | N/A
+2026-03-10 | (no active update) | (no active update) | 25 to 30 (cap 30) | 20 to 25 (cap 30)
+2026-03-14 | 25 to 55 (usually 30 to 40) | 20 to 45 (usually 25 to 35) | (no active update) | (no active update)
+
+The 2025-05-26 row is unusual in that it describes a *reduction* in
+the lower end of the range. This is related to a general performance
+decline tied to hand muscle pain around April/May, perhaps exacerbated
+by India travel.
+
+#### (standard grip, 150 lb, _)
 
 Current status: part of the Day 1 exercise sequence.
 
-First attempted: 2023-07-29; this and its right hand counterpart were
-the first things I tried.
+Feat | Date for right hand | Date for left hand
+-- | -- | --
+First attempt | 2023-09-04 | 2023-09-04
+First successful single close | 2023-09-06 | 2023-10-23 or a few days earlier
+Comfortable and consistent closing achieved | 2023-10-23 or earlier | 2023-10-23
+Beginning of regular close-and-hold practice | some time between 2024-03-17 and 2024-05-07 | some time between 2024-03-17 and 2024-08-02
+Beginning of repeated closing (repetition) practice | 2025-12-23 (based on decision 2025-12-20) | 2025-12-23 (based on decision 2025-12-20)
 
-First success of single close: 2023-09-04 for comfortable and
-consistent close; it is not clear whether there was a prior one-off
-successful close.
+This second table goes into recorded range updates for both the
+close-and-hold duration and the number of repetitions, based on
+recorded dates. Recording of individual attempts began on 2024-12-24,
+so estimates prior to that are based on general impressions from
+recent practice rather than a review of recorded data.
 
-#### (standard grip, 150 lb, right hand)
-
-Current status: part of the Day 1 exercise sequence.
-
-First attempted: 2023-09-04, after success with comfortably and
-consistently closing 100 lb with each hand.
-
-First success of single close: 2023-09-06 for one-off close;
-consistent and comfortable by around 2023-10-23.
-
-#### (standard grip, 150 lb, left hand)
-
-Current status: part of the Day 1 exercise sequence.
-
-First attempted: 2023-09-04, after success with comfortably and
-consistently closing 100 lb with each hand.
-
-First success of single close: 2023-10-23 or a few days prior; the
-recorded date is 2023-10-23.
+Update date (describing recent trends) | Typical close-and-hold duration in right hand (seconds) | Typical close-and-hold duration in left hand (seconds) | Typical number of repetitions in right hand | Typical number of repetitions in left hand
+-- | -- | -- | -- | --
+2024-05-07 | 3 to 5 | N/A | N/A | N/A
+2024-08-02 | 4 to 10 | 4 to 10 | N/A | N/A
+2025-01-16 | 10 to 20 | 10 to 20 | N/A | N/A
+2025-02-04 | 15 to 25 | 10 to 20 | N/A | N/A
+2025-02-28 | 19 to 31 (usually 22 to 28) | 10 to 25 | N/A | N/A
+2025-05-26 | 15 to 31 (usually 15 to 25) | 7 to 25 | N/A | N/A
+2025-12-20 | 19 to 40 (usually 22 to 30) | 12 to 30 (usually 17 to 23) | N/A | N/A
+2026-03-10 | (no active update) | (no active update) | 15 or slightly less (cap 15) | 5 to 10 (cap 15)
+2026-03-14 | (no change) | (no change) | (no active update) | (no active update)
 
 #### (both-hands-wrapped grip, 150 lb, _)
 
@@ -731,7 +771,9 @@ I made several updates to the protocol and current status:
   occasionally, where instead of closing and holding, I do repeated
   closing. This is a new swap-in; other than an initial experimental
   attempt, I do not have experience with it. The protocol may get
-  refined over time.
+  refined over time. The first execution of this swap-in would be on
+  2025-12-23, covering both the 150 lb hand gripper and the 100 lg
+  hand gripper, each in both hands.
 
 #### Updates on 2025-12-29
 
