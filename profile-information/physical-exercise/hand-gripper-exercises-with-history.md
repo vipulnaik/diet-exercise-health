@@ -376,13 +376,13 @@ Update date (describing recent trends) | Typical close-and-hold duration in righ
 -- | -- | -- | -- | --
 2024-05-07 | 10 (occasionally up to 20) | 10 | N/A | N/A
 2024-08-02, no change 2024-09-09 | 10 to 20 (generally about 15) | 10 to 20 (generally about 15) | N/A | N/A
-2025-01-16 | 15 to 30 (generally about 20) | 15 to 30 (generally about 15) | N/A | N/A
-2025-02-04 | 20 to 35 | 15 to 30 | N/A | N/A
-2025-02-28 | 25 to 45 | 20 to 35 | N/A | N/A
-2025-05-26 | 20 to 45 | 15 to 35 | N/A | N/A
-2025-12-20 | 25 to 45 (usually 30 to 40) | 20 to 40 (usually 25 to 35) | N/A | N/A
-2026-03-10 | (no active update) | (no active update) | 25 to 30 (cap 30) | 20 to 25 (cap 30)
-2026-03-14 | 25 to 55 (usually 30 to 40) | 20 to 45 (usually 25 to 35) | (no active update) | (no active update)
+[2025-01-16](https://github.com/vipulnaik/diet-exercise-health/commit/30ff8c279b1fb2ef7d1c315aedb01dc8d1467ac2) | 15 to 30 (generally about 20) | 15 to 30 (generally about 15) | N/A | N/A
+[2025-02-04](https://github.com/vipulnaik/diet-exercise-health/commit/5bf580617038f39af77fd995bb8280defd6bce57) | 20 to 35 | 15 to 30 | N/A | N/A
+[2025-02-28](https://github.com/vipulnaik/diet-exercise-health/commit/f49d46000897275f9e5af30f40dca3a92a36fa82) | 25 to 45 | 20 to 35 | N/A | N/A
+[2025-05-26](https://github.com/vipulnaik/diet-exercise-health/commit/e8db407598d9104ed1fc6293760797a5fdfe87b6) | 20 to 45 | 15 to 35 | N/A | N/A
+[2025-12-20](https://github.com/vipulnaik/diet-exercise-health/commit/2887e0337318a62c276dd9ee131b4b07c63ff4ae) | 25 to 45 (usually 30 to 40) | 20 to 40 (usually 25 to 35) | N/A | N/A
+[2026-03-10](https://github.com/vipulnaik/diet-exercise-health/commit/a21b36269564c72239075bced9dc254452adbf14) | (no active update) | (no active update) | 25 to 30 (cap 30) | 20 to 25 (cap 30)
+[2026-03-14](https://github.com/vipulnaik/diet-exercise-health/commit/078e5ede9d3107f5bd774e2b1ceb78cafdc857ba) | 25 to 55 (usually 30 to 40) | 20 to 45 (usually 25 to 35) | (no active update) | (no active update)
 
 The 2025-05-26 row is unusual in that it describes a *reduction* in
 the lower end of the range. This is related to a general performance
@@ -413,13 +413,13 @@ Update date (describing recent trends) | Typical close-and-hold duration in righ
 -- | -- | -- | -- | --
 2024-05-07 | 3 to 5 | N/A | N/A | N/A
 2024-08-02 | 4 to 10 | 4 to 10 | N/A | N/A
-2025-01-16 | 10 to 20 | 10 to 20 | N/A | N/A
-2025-02-04 | 15 to 25 | 10 to 20 | N/A | N/A
-2025-02-28 | 19 to 31 (usually 22 to 28) | 10 to 25 | N/A | N/A
-2025-05-26 | 15 to 31 (usually 15 to 25) | 7 to 25 | N/A | N/A
-2025-12-20 | 19 to 40 (usually 22 to 30) | 12 to 30 (usually 17 to 23) | N/A | N/A
-2026-03-10 | (no active update) | (no active update) | 15 or slightly less (cap 15) | 5 to 10 (cap 15)
-2026-03-14 | (no change) | (no change) | (no active update) | (no active update)
+[2025-01-16](https://github.com/vipulnaik/diet-exercise-health/commit/30ff8c279b1fb2ef7d1c315aedb01dc8d1467ac2) | 10 to 20 | 10 to 20 | N/A | N/A
+[2025-02-04](https://github.com/vipulnaik/diet-exercise-health/commit/5bf580617038f39af77fd995bb8280defd6bce57) | 15 to 25 | 10 to 20 | N/A | N/A
+[2025-02-28](https://github.com/vipulnaik/diet-exercise-health/commit/f49d46000897275f9e5af30f40dca3a92a36fa82) | 19 to 31 (usually 22 to 28) | 10 to 25 | N/A | N/A
+[2025-05-26](https://github.com/vipulnaik/diet-exercise-health/commit/e8db407598d9104ed1fc6293760797a5fdfe87b6) | 15 to 31 (usually 15 to 25) | 7 to 25 | N/A | N/A
+[2025-12-20](https://github.com/vipulnaik/diet-exercise-health/commit/2887e0337318a62c276dd9ee131b4b07c63ff4ae) | 19 to 40 (usually 22 to 30) | 12 to 30 (usually 17 to 23) | N/A | N/A
+[2026-03-10](https://github.com/vipulnaik/diet-exercise-health/commit/a21b36269564c72239075bced9dc254452adbf14) | (no active update) | (no active update) | 15 or slightly less (cap 15) | 5 to 10 (cap 15)
+[2026-03-14](https://github.com/vipulnaik/diet-exercise-health/commit/078e5ede9d3107f5bd774e2b1ceb78cafdc857ba) | (no change) | (no change) | (no active update) | (no active update)
 
 #### (both-hands-wrapped grip, 150 lb, _)
 
