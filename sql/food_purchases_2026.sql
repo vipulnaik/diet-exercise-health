@@ -665,7 +665,19 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   /* 2026-10-02 (Friday) Berkeley Bowl; total cost $66.20; checkout at 7:35 PM; paid by credit card; 12 items in transaction of which 2 were Seventh Generation dish soap bottles so only 10 food items */
   ('2026-10-02','Lundberg Sustainable California White Basmati Rice',3,1),
   ('2026-10-02','Kite Hill Greek Style Plant-Based Yogurt',6,1), /* all of these were billed incorrectly as unsweeteneded (the next row) as the sales associate repeat-scanned the first item that happened to be the next row */
-  ('2026-10-02','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1);
+  ('2026-10-02','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1),
+  /* 2026-10-06 (Tuesday) Imm Thai Street Food takeout order placed 8:11 PM; total cost $17.89; paid by credit card */
+  ('2026-10-06','Imm Thai Street Food yellow curry tofu',1,1),
+  ('2026-10-06','Imm Thai Street Food white rice',1,1),
+  /* 2026-10-06 (Tuesday) Trader Joe's; total cost $31.81; checkout at 8:31 PM; paid by credit card; 19 items in transaction as counted, but 10 because I'm lumping the 10 potatoes as one 5 lb purchase; neither beefsteak tomato nor roma tomato was in stock, and since I had stock at home of tomatoes, I decided not to buy vine tomatoes */
+  ('2026-10-06','Ezekiel Sprouted Flourless Tortillas',2,1),
+  ('2026-10-06','TJ Miso Ginger Broth',1,1),
+  ('2026-10-06','TJ Turmeric',2,1),
+  ('2026-10-06','TJ Sauerkraut',1,1),
+  ('2026-10-06','TJ Broccoli Florets 12 oz',1,1),
+  ('2026-10-06','TJ Roasted Seaweed',1,1),
+  ('2026-10-06','TJ Kale',1,1),
+  ('2026-10-06','Gold potatoes 5 lb',1,1); /* purchased as 10 loose potatoes with the approximate total weight of a 5 lb pack, as the 5 lb pack was not available */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
