@@ -817,3 +817,12 @@ squeaky clean teeth test after brushing teeth. Impressively, I was
 able to get a squeaky sound from all tooth surfaces (facial and
 lingual), including the facial surfaces of the mandibular incisors,
 that generally fail to squeak.
+
+## 2026-10-06 (off-cycle fingernail scrape test)
+
+On Tuesday 2026-10-06, after brushing teeth between my first and second
+meals, I did a fingernail scrape test. The test did not turn up any
+clear amount of plaque, but there might have been a hint of plaque
+near my right mandibular premolars (the mandibular incisors were
+clean). I've been doing a good job with the mandibular incisors; a
+couple more strokes on the mandibular premolars may be desirable.
