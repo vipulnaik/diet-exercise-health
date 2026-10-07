@@ -1141,5 +1141,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-06','Imm Thai Street Food yellow curry tofu',1,2,null,null),
   ('2026-10-06','Imm Thai Street Food white rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
-  ('2026-10-06','TJ Almond Milk',1,2,null,null);
+  ('2026-10-06','TJ Almond Milk',1,2,null,null),
+  ('2026-10-06','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
