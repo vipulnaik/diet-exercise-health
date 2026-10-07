@@ -1092,3 +1092,8 @@ exercise (humming with intermittent pauses) as usual.
 
 On Sunday 2026-10-04, I skipped all exercises to make time for an
 administrative trip related to tax work in the afternoon.
+
+## 2026-10-06: skipped all exercises
+
+On Tuesday 2026-10-06, I skipped all exercises to make time for a
+Walgreens trip (with an administrative item).
