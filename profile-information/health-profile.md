@@ -1,6 +1,6 @@
 # Health profile
 
-Last major update: October 4, 2026 (2026-10-04)
+Last major update: October 7, 2026 (2026-10-07)
 
 NOTE (2025-09-22, updated 2026-05-25): I got [blood tests done on
 September 10, 2025](../events/2025/2025-09-10-blood-tests.md). I got
@@ -289,77 +289,166 @@ highlights:
 
 ## Dental status
 
-* I generally get dental checkups and cleaning done every 6-7
-  months. As of 2025, my dental care is handled by Total Health Dental
-  Care, and I go to the branch at 3017 Telegraph Avenue, Berkeley, CA
-  94705. The notes for the most recent appointment should reflect the
-  current status of my dental health. Look in the folder
-  `events/<year>` for files with the word `dental-cleaning` in them to
-  locate the most recent appointment. As of the last edit of this
-  document, [this](../events/2026/2026-05-01-dental-cleaning.md) is my
-  most recent appointment.
+Last substantive section update: October 7, 2026 (2026-10-07)
 
-* My dental hygiene practices are as follows:
+### Dental hygiene practices
 
-  * I brush teeth once in the morning (before eating) and once about 2
-    to 4 hours after each meal (I have two meals, so that's 3 times a
-    day brushing in total). I use an ultra soft toothbrush and change
-    it every 3 months.
+#### Swirling
 
-    I mostly use a stannous fluoride toothpaste (Colgate), though I
-    may on occasion use a sodium fluoride toothpaste when a stannous
-    fluoride toothpaste is unavailable.
+I swirl water in the mouth for about 50 to 80 seconds and swallow it
+about 10 to 20 minutes after each meal. This is a quick way of
+clearing large particles from the mouth, and serves as a stopgap until
+I can do a full floss and rinse for a thorougher cleaning. I log both
+the act and duration of swirling in Slack self-chat logs.
 
-    When brushing, I cover my front and back teeth (up to and going
-    slightly beyond the tooth-gum interface) with several strokes. I
-    do the back teeth first, then front teeth, then back teeth again,
-    in light of greater plaque and staining potential for back
-    teeth. I also cover my tongue and cheek, and do a final round
-    focused on the gums.
+Swirling is something that doesn't require access to a sink or special
+equipment, so it's a practice I can engage in even during the
+occasional instance of dining out or eating in a plane. In these
+conditions, I don't have access to, or find it inconvenient to, floss
+and rinse (so these are deferred till I am back home), so the swirl
+provides a bare minimum of dental hygiene.
 
-    About once every 2 to 5 days (aspirationally once every 2 days),
-    after regular brushing, I lightly brush my back teeth with a small
-    amount of baking soda toothpaste, to reduce staining of the back
-    teeth.
+#### Flossing and rinsing
 
-  * I swirl water in the mouth for about 30 seconds and swallow it
-    about 10 to 20 minutes after each meal. This is a quick way of
-    clearing large particles from the mouth, and serves as a stopgap
-    until I can do a full floss and rinse for a thorougher cleaning.
+##### Timing and frequency
 
-  * I floss and rinse (with saltwater) about 15 to 75 minutes
-    (aspirationally about 30 to 45 minutes) after the completion of
-    each meal, so I floss twice a day and rinse twice a day. I use an
-    interdental brush for flossing for one meal per day and a floss
-    pick (with handle) for flossing for the other meal. When using the
-    interdental brush, I floss before rinsing, whereas when using the
-    floss pick, I rinse before flossing. For rinsing, I use saltwater;
-    I don't use a mouthwash.
+I floss and rinse (with saltwater) about 25 to 120 minutes
+(aspirationally about 30 to 45 minutes, and usually within 70 minutes)
+after the completion of each meal, so I floss twice a day and rinse
+twice a day.
 
-* I execute the [dental self-exam
-  checklist](../checklists/dental-self-exam-checklist.md) every 2 to 4
-  months and also try to execute it before and after each dental
-  cleaning, time permitting. The execution log is
-  [here](../logs/dental-self-exam-checklist-log.md).
+##### Sequencing
 
-* I execute some parts of the dental self-exam checklist in isolation
-  more frequently:
+I use an interdental brush for flossing for one meal per day and a
+floss pick (with handle) for flossing for the other meal. When using
+the interdental brush, I floss before rinsing, whereas when using the
+floss pick, I rinse before flossing. For rinsing, I use saltwater; I
+don't use a mouthwash.
 
-  * I try to do an intra-oral mirror check of the back teeth about
-    once a week, though in practice it can be once every 1 to 2 weeks.
+##### Interdental brush specifics
 
-  * I try to do floss pick pressure testing (where I press a floss
-    pick moderately hard against each interdental gap) once every 3 to
-    4 weeks, since this is one part of the dental self-exam checklist
-    that seems good at flagging the development of issues in the
-    interdental gaps.
+An interdental brush generally lasts me about 2 to 4 rounds of
+flossing. I generally find that the interdental brush is able to fully
+get in the maxillary interdental gaps, but not the mandibular
+ones. For the mandibular interdental gaps, I run it along the facial
+and lingual sides of the interdental gap rather than piercing it
+through the gap.
 
-  * I try to do a "squeaky clean teeth" test where I rub my finger
-    against the teeth to see if they make a squeaky sound. This helps
-    provide another layer of confirmation of the cleanliness of teeth
-    beyond visual inspection.
+##### Floss pick specifics
 
-Some historical information:
+The floss pick is generally able to get into every interdental
+gap. However, the right mandibular gaps can sometimes pose resistance,
+and a bit of time may be needed to get through. Once within each
+interdental gap, I do every curved motions running along the side
+surfaces of both teeth in the gap as well as the papilla. I do not put
+a lot of force on the papilla.
+
+If the floss pick picks up any debris or blood, I make sure to run it
+under water before continuing to use it, or switch to another floss
+pick. I do not generally wash the floss pick if it doesn't directly
+catch any visible debris. My general experience is that while debris
+does occasionally come off with floss pick use, it comes off whne I
+spit afterward rather than directly landing on the floss pick.
+
+#### Brushing
+
+#### Timing and frequency
+
+I brush teeth once in the morning (usually after my morning bowel
+movement, and a few hours before eating) and once about 2 to 4 hours
+after each meal (I have two meals, so that's 3 times a day brushing in
+total).
+
+#### Toothbrush
+
+I use a (manual) ultra soft toothbrush and change it every 3 months. I
+change it sooner if I notice any dirt on it or notice the bristles
+fraying.
+
+#### Toothpaste for regular brushing
+
+I mostly use a stannous fluoride toothpaste (Colgate), though I may on
+occasion use a sodium fluoride toothpaste when a stannous fluoride
+toothpaste is unavailable.
+
+##### Sequencing within brushing
+
+When brushing, I cover all tooth surfaces (up to and going slightly
+beyond the tooth-gum interface) with several strokes. I use this
+sequence:
+
+* I start with the lingual (inner) tooth surfaces, generally doing
+  maxillary before mandibular.
+
+* I then do the proximal surfaces of the molars next to the now
+  removed wisdom teeth. These are the surfaces that would have been in
+  an interdental gap with the wisdom tooth, but now stand exposed.
+
+* I then proceed to the facial tooth surfaces, generally doing
+  maxillary before mandibular. I pay particular attention to the
+  mandibular incisors, making sure to cover them from several angles,
+  given their propensity for soft plaque accumulation.
+
+* I then return to the lingual surfaces for another round.
+
+* I then brush my tongue, then lightly cover the gumline (both lingual
+  and facial) a little bit further beyond the interface with the
+  tooth, and then also cover the inner lip and cheeks. The purpose
+  here is now a thorough cleaning the way it is for tooth surfaces,
+  but rather, some mix of providing a bit of mechanical action and
+  probing to get a sense of any unusual phenomena in the mouth.
+
+##### Baking soda toothpaste
+
+About once every 2 to 5 days (aspirationally once every 2 days), after
+regular brushing, I lightly brush all lingual surface with a small
+amount of baking soda toothpaste. This is to reduce staining on the
+lingual surfaces, which is a known proble.
+
+### Formal dental care
+
+I generally get dental checkups and cleaning done every 6 to 7
+months. As of 2026, my dental care is handled by Total Health Dental
+Care, and I go to the branch at 3017 Telegraph Avenue, Berkeley, CA
+94705. The notes for the most recent appointment should reflect the
+current status of my dental health. Look in the folder `events/<year>`
+for files with the word `dental-cleaning` in them to locate the most
+recent appointment. As of the last edit of this document,
+[this](../events/2026/2026-05-01-dental-cleaning.md) is my most recent
+appointment.
+
+### Periodic checks
+
+I execute the [dental self-exam
+checklist](../checklists/dental-self-exam-checklist.md) every 2 to 4
+months and also try to execute it before and after each dental
+cleaning, time permitting. The execution log is
+[here](../logs/dental-self-exam-checklist-log.md).
+
+I execute some parts of the dental self-exam checklist in isolation
+more frequently:
+
+* I try to do an intra-oral mirror check of the back teeth about
+  once a week, though in practice it can be once every 1 to 2 weeks.
+
+* I try to do floss pick pressure testing (where I press a floss pick
+  moderately hard against each interdental gap) once every 3 to 4
+  weeks, since this is one part of the dental self-exam checklist that
+  seems good at flagging the development of issues in the interdental
+  gaps.
+
+* I try to do a "squeaky clean teeth" test every few weeks where I rub
+  my finger against the teeth to see if they make a squeaky sound. I
+  execute this right after brushing teeth. This helps provide another
+  layer of confirmation of the cleanliness of teeth beyond visual
+  inspection.
+
+* I also try to do a "fingernail scrape" test every few weeks where I
+  use a fingernail to scrape the tooth surfaces after brushing to see
+  if it nets any soft plaque. This is particularly helpful at catching
+  soft plaque that is white and cannot easily be seen in the mirror.
+
+### Historical information
 
 * All four of my wisdom teeth have been removed. The removal was done
   in 2023: [overall doc](../events/2023/2023-wisdom-tooth-removal.md), [left
@@ -381,7 +470,7 @@ Some historical information:
 
 ## Eye status
 
-* I get eye exams every 1-2 years. As of 2025, I get my eye exams from
+* I get eye exams every 1-2 years. As of 2026, I get my eye exams from
   UC Berkeley Optometry. Look in the `events/<year>` folders for files
   with `eye-exam` in them to locate information on my eye exams. The
   most recent one is generally the one to pay attention to. As of the
@@ -466,7 +555,7 @@ Some historical information:
   [best practices around
   sound](../best-practices/best-practices-around-sound.md).
 
-* As of 2025, my hearing seems fine judged by minimum audible volume
+* As of 2026, my hearing seems fine judged by minimum audible volume
   and maximum frequency I can hear. My speech-in-noise hearing
   abilities may be a little worse than ideal, though I need to collect
   more benchmark data for it.
@@ -899,10 +988,9 @@ Lp(a) is significant for the following reasons:
 
 * On the other hand, PCSK9 inhibitors, a more expensive and more
   recent type of medication for high atherogenic particle
-  concentrations, do reduce Lp(a) somewhat. As of 2025, there is no
-  oral PCSK9 inhibitor, though there's one from Merck (called MK-0616)
-  that is under trial (see
-  [here](https://www.merck.com/news/merck-initiates-phase-3-clinical-program-for-oral-pcsk9-inhibitor-candidate-mk-0616/)).
+  concentrations, do reduce Lp(a) somewhat. As of 2026, there is one
+  oral PCSK9 inhibitor from Merck (Lippfendra, aka enlicitide
+  decanoate, aka MK-0616).
 
 * There are drugs under development called antisense oligonucleotides,
   that reduce Lp(a) significantly (to the tune of 80%). It remains to
@@ -2838,7 +2926,7 @@ Here are some highlights of my current diet:
   getting all of these. This was to the point that I haven't needed a
   microwave oven at all since 2022.
 
-* As of 2025, I have basically zero sugar-heavy foods or drinks.
+* As of 2026, I have basically zero sugar-heavy foods or drinks.
 
 * I have two meals a day on a typical day. My first meal is generally
   after my morning exercise (with a suitable waiting period in between
@@ -3375,7 +3463,7 @@ In the early 2010s, I had issues with falling asleep, and experimented
 with taking melatonin a few times to improve my sleep quality. I did
 not find clear improvement (but did not test extensively enough to get
 conclusive information). In any case, my sleep issues resolved
-themselves over time. As of 2025, I don't have any ongoing sleep
+themselves over time. As of 2026, I don't have any ongoing sleep
 issues (such as difficulty falling asleep, highly restless sleep,
 etc.)
 
