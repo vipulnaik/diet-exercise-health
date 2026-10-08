@@ -5,21 +5,20 @@ at 1 PM at Total Health Dental Care at 3017 Telegraph Avenue. The
 previous dental cleaning had been on
 [2025-10-22](../2025/2025-10-22-dental-cleaning.md).
 
-NOTE 2026-10-05: The document is in the process of being updated to
-reflect the events of the dental cleaning and the learnings from
-it. The notes are in a [Slack self-chat log
-message](https://vipulscafe.slack.com/archives/D07J33LQEK0/p1777674977030969)
-with further discussion in a [Claude
-chat](https://claude.ai/chat/0a67cd07-fdba-4d15-9531-7c9efd3e96eb). My
-plan is to mull over the information, perhaps do some of the potential
-followup experiments, and update this public document in about 1 to 2
-weeks.
+Discussion of the appointment and its aftermath happened in a [private
+Claude
+conversation](https://claude.ai/chat/0a67cd07-fdba-4d15-9531-7c9efd3e96eb)
+shortly after the appointment. I also had other private Claude
+conversations on related subjects, before and after the appointment,
+that are linked from the relevant parts of the document.
 
 Sections of this document:
 
 * [Prior preparation](#prior-preparation)
 * [Appointment](#appointment)
 * [Immediate aftermath](#immediate-aftermath)
+* [Retrospective comparison with the previous dental cleaning](#retrospective-comparison-with-the-previous-dental-cleaning)
+* [Later actions](#later-actions)
 
 ## Prior preparation
 
@@ -276,6 +275,33 @@ no meal to skip walnuts from.
 
 ## Appointment
 
+### Meta notes on documentation process
+
+After returning from the appointment (on 2026-05-01), I spent a few
+minutes writing a bullet point dump of items covered in the
+appointment. I saved this bullet dump in a Slack self-chat logs
+message (and would later also copy it to a Google Doc) with the
+expectation of using it as a starting point for updating the current
+document. I then shared the bullet points with Claude in a [new
+private
+conversation](https://claude.ai/chat/0a67cd07-fdba-4d15-9531-7c9efd3e96eb)
+and got its feedback on various aspects; these might have led me to
+edit the bullet point list a little bit, but not much. This blocked a
+bunch of immediate decisions on my end.
+
+The actual documentation work kept getting deferred due to other
+priorities. I finally worked on it on 2026-10-03 and 2026-10-07, about
+five months after the original dental cleaning. In the interim, I did
+do other stuff (including updating the [Immediate
+aftermath](#immediate-aftermath) section, executing the dental
+self-exam checklist, starting the [tooth surfaces
+document](../../profile-information/tooth-surfaces.md)), and doing
+various off-cycle executions (floss pick pressure test, squeaky clean
+teeth test, fingernail scrape test). When I finally worked on the
+documentation, I relied heavily on my bullet points but for the most
+part did not reference the Claude conversation directly for additional
+details.
+
 ### Friday office situation and cleaning-only plan selection
 
 When I arrived for the appointment, I learned that the office is
@@ -349,11 +375,13 @@ accumulation. However, the bleeding was much less than last time, and
 did not cause pain or interfere with the cleaning process. Most of
 this healed fairly quickly, as discussed in the later [minor injuries
 and impact](#minor-injuries-and-impact) subsection. I also have a
-later section TODO add this with a more thorough retrospective
-comparison with last time's cleaning, along with theories of what
-changed.
+later section doing a [retrospective comparison with the previous
+dental
+cleaning](#retrospective-comparison-with-the-previous-dental-cleaning)
+where I consider potential reasons for this dental cleaning being not
+as bad as last time's dental cleaning.
 
-### Hygienist feedback
+### Hygienist feedback (specific)
 
 #### Plaque near roots for many of the tooth surfaces
 
@@ -522,6 +550,89 @@ The hygienist mentioned that smokers get staining so fast that it's
 considered pointless even to try removing the stains; in her view, at
 least my sources of staining were otherwise healthy.
 
+#### Recession
+
+The hygienist didn't bring up recession, so I asked about it after the
+cleaning. The hygienist said the recession seemed stable. Her advice
+was to just make sure not to grind teeth and to keep maxillary and
+mandibular teeth separated at rest. Both of these I already do.
+
+### Hygienist feedback (general)
+
+This is general feedback that the hygienist gives based on her general
+preferences or opinions around dental practices, and is not heavily
+influenced by my situation, although the specific decision of what
+topics to discuss may be partly influenced by my situation.
+
+#### Toothbrush softness
+
+I mentioned to the hygienist that I had received more negative
+feedback about plaque accumulation since I switched from a soft
+toothbrush to an ultra soft toothbrush. I asked the hygienist if she
+recommended switching back to a soft toothbrush. The hygienist said
+that with proper technique, an ultra soft toothbrush should be no
+problem. The hygienist said she is generally a fan of ultra soft
+toothbrushes.
+
+She did mention that it is important to switch toothbrush regularly. I
+mentioned that I switch my toothbrush once every 3 months, which she
+considered fine.
+
+My own take after reflecting on this is that it's very possible that
+the soft toothbrush was covering up for poor technique somewhat by
+allowing the greater force of the strokes to remove plaque a bit more
+effectively. In other words, ultra soft toothbrushes are more
+technique-sensitive. However, soft toothbrushes also create slightly
+more recession risk, something I do have some of. An ultra soft
+toothbrush with good technique is the best of both worlds. Also, the
+costs are asymmetric: recession induced by a soft toothbrush cannot be
+easily reversed (without an expensive and painful gum grafting
+procedure) whereas a little extra plaque is easily reversed in a
+regular dental cleaning. Therefore, even if I haven't yet figured out
+the ideal set of techniques, sticking to an ultra soft toothbrush is
+better than moving to a soft toothbrush.
+
+#### Electric toothbrushes
+
+The hygienist recommends electric toothbrushes in general. After the
+dental cleaning, I did think a little bit about using an electric
+toothbrush at least some of the time, just like I use baking soda
+toothpaste some of the time on my lingual tooth surfaces. However, I
+didn't immediately follow up on this.
+
+#### Flossing
+
+The hygienist asked if I floss. I mentioned that I use interdental
+brushes and floss picks. The hygienist said she personally prefers
+thread flossing, but to each their own, as long as I am being regular
+enough and find it comfortable.
+
+According to the hygienist, flossing is more important than
+brushing when it comes to reducing pain and discomfort during a dental
+cleaning.
+
+#### Rinsing
+
+The hygienist asked if I use a mouthwash rinse. I said that I do
+saltwater rinsing, which the hygienist approved of. She mentioned that
+some mouthwashes can cause their own staining.
+
+#### Periodic checks framework
+
+I brought up my periodic checks framework, including things like floss
+pick pressure testing and taking photos. The hygienist didn't have any
+specific opinions on the practices; her take was along the lines of
+"if it works for you, great." This probably makes sense given that the
+periodic checks framework is somewhat complicated, sitting awkwardly
+in between daily routine and dental exams, and hygienists tend to
+focus on the simplest and highest-value items. Also, a lot of the
+technology enabling some of the periodic checks, such as intra-oral
+camera availability, is relatively new.
+
+### Scheduling of next appointment
+
+The next appointment was scheduled for Wednesday 2026-11-11 at 1 PM.
+
 ## Immediate aftermath
 
 ### Minor injuries and impact
@@ -593,3 +704,127 @@ I had started my sauerkraut pause on Tuesday 2026-04-28. In light of
 the two minor injuries, and out of general conservatism, I decided to
 extend the sauerkraut pause to one more day (2026-05-02) and resumed
 on 2026-05-03 with my first meal.
+
+## Retrospective comparison with the previous dental cleaning
+
+The [2025-10-22 dental
+cleaning](../2025/2025-10-22-dental-cleaning.md) had involved more
+bleeding (and general pain/unpleasantness) and I had received more
+negative hygienist feedback. It's worth thinking through what changed
+and what didn't in the interim.
+
+### What didn't change: the ultra soft toothbrush
+
+One major change prior to the previous (2025-10-22) dental cleaning
+was the switch to an ultra soft toothbrush, so there was a concern
+that perhaps the problem is with the ultra soft toothbrush. But my use
+of an ultra soft toothbrush didn't change with the 2026-05-01 dental
+cleaning, which suggests that the problems in 2025-10-22 were not due
+to an unfixable problem with the ultra soft toothbrush.
+
+As discussed in an earlier section, an ultra soft toothbrush is likely
+more technique-sensitive, and the improvement from 2025-10-22 to
+2026-05-01 reflects an improvement in technique.
+
+### Protocol and timing improvements to regular dental hygiene
+
+The [2025-10-22 dental cleaning section on changes to best practices
+going
+forward](../2025/2025-10-22-dental-cleaning.md#changes-to-best-practices-going-forward)
+goes over several improvements I implemented to the timing and
+protocol of dental hygienie activities shortly after the dental
+cleaning.
+
+I followed most of these consistently in the period between the dental
+cleanings, with the only one with some drift being the timing targets
+from end of meal to flossing and rinsing. You can see a detailed
+retrospective in the [2026-03-26 section of the dental self-exam
+checklist
+log](../../logs/dental-self-exam-checklist-log.md#2026-03-26). Reflecting
+more on this, I expect that the flossing thoroughness improvements
+were probably the most important as far as the pain and bleeding go,
+while the brushing improvements probably resulted in reversing most of
+the technique-sensitive decline that occurred upon the switch from a
+soft to an ultra soft toothbrush.
+
+After executing that checklist, I also started following more
+regularly the practice of swirling water in my mouth about 10 to 20
+minutes after my meal; this practice serves as a further stopgap until
+a more thorough floss and rinse.
+
+This swirling practice was only operational/effective for the last
+month in the 6-month interlude from 2025-10-22 to 2026-05-01, but
+would be effective for the entire duration of the 6-month interlude
+from the 2026-05-01 dental cleaning onward. Starting 2026-05-19, I
+also began recording the duration of swirling, and this duration has
+now increased to about 50 to 80 seconds instead of the original value
+of around 30 seconds. This suggests that any further benefits from
+swirling (including reduced sensitivity to delays in flossing and
+rinsing) will be more fully seen in the feedback with the 2026-11-11
+dental cleaning.
+
+### More regular execution of dental self-exam checklist items
+
+My full dental self-exam checklist execution was not as frequent as
+desired (2025-11-05, then 2026-03-26, then the few days leading up to
+the dental cleaning), but I did follow the practice of doing
+individual pieces of the dental self-exam checklist throughout the
+period, in particular floss pick pressure testing (and also one
+squeaky clean teeth test). The floss pick pressure testing, in
+particular, helped me identify interdental gaps where I might not be
+flossing well enough, redirecting me to focus more on those
+interdental gaps. You can see more details in the [dental self-exam
+checklist log](../../logs/dental-self-exam-checklist-log.md).
+
+In contrast, prior to the 2025-10-22 dental cleaning, the only dental
+self-exam checklist execution I did was *the day prior*,
+2025-10-21. This was too late to provide actionable feedback.
+
+### Recency of floss pick pressure testing causing trauma
+
+I did floss pick pressure testing one day prior to the 2025-10-22
+dental cleaning. The one-day gap meant that the trauma from the
+pressure testing may not have fully healed before the dental
+cleaning. In contrast, for the 2026-05-01, I did floss pick pressure
+testing on 2026-04-27 (past midnight from 2026-04-26), with a gap of a
+little over 4 days to the dental cleaning. Moreover, since I had been
+doing floss pick pressure testing regularly in the interim, I was
+confident that 4 days was enough (I ideally want a gap of 7
+days). Even though I couldn't complete the *entire* dental self-exam
+checklist at the time, I did prioritize wrapping up the floss pick
+pressure testing with enough days to spare.
+
+### Hygienist process differences
+
+The polish-before-scrape approach seems to work better for my teeth,
+and there may have also been other differences in the hygienist's
+process and skill level. This is probably a relatively minor factor on
+its own, but may have exacerbated the felt difference.
+
+### Other differences
+
+It is possible that specific events in the interlude leading up to the
+2025-10-22 dental cleaning had been particularly bad for my dental
+health. One possibility is the long-haul flights for my travel to and
+from India (that involved extended periods in cramped conditions
+without access to my usual dental hygiene practices), and the common
+cold I went down with after returning. My anecdotal impression is that
+these might have been particularly bad for staining. There were no
+comparable stressors in the period from 2025-10-22 to 2026-05-01.
+
+## Later actions
+
+### Dental self-exam checklist execution on 2026-05-17 and 2026-05-20
+
+I executed most of the dental self-exam checklist on 2026-05-17 and
+2026-05-20, though some of the reconciliation work was deferred (and
+was still not completed as of 2026-10-07 when writing this document)
+as I decided to use it as an occasion for mapping out all my tooth
+surfaces (see [here](../../profile-information/tooth-surfaces.md)),
+which turned out to be a time-consuming undertaking. More details of
+the checklist execution are
+[here](../../logs/dental-self-exam-checklist-log.md#2026-05-17-and-2026-05-20).
+
+### TODO preparatory steps for next time's dental cleaning
+
+Still pending. The cleaing is scheduled for 2026-11-11.
