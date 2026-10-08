@@ -683,17 +683,17 @@ section of the 2024-04-03 dental
 cleaning](../2024/2024-04-03-dental-cleaning.md#greater-saliva-production).
 
 During the 2026-05-01 dental cleaning, I was careful to not open my
-mouth unnecessarily and to close it during breaks. The 2026-05-01
-dental cleaning. The timing was favorable as far as the "talking the
-next day" concern goes: it was on Friday, so the next two days were
-the weekend, and I didn't have any work meetings where continuous
-talking is required; all my talking obligations (such as interactions
-at the grocery store) were brief, and spontaneous oral sound
-production (like singing) was within my control and had enough pauses
-and a limited degree of mouth opening (and hence limited exacerbation
-of mouth drying that can trigger the greater saliva production). I
-also did try to drink water deliberately, though I don't think I ended
-up drinking much more water than usual.
+mouth unnecessarily and to close it during breaks. The timing was
+favorable as far as the "talking the next day" concern goes: it was on
+Friday, so the next two days were the weekend, and I didn't have any
+work meetings where continuous talking is required; all my talking
+obligations (such as interactions at the grocery store) were brief,
+and spontaneous oral sound production (like singing) was within my
+control and had enough pauses and a limited degree of mouth opening
+(and hence limited exacerbation of mouth drying that can trigger the
+greater saliva production). I also did try to drink water
+deliberately, though I don't think I ended up drinking much more water
+than usual.
 
 It all worked out: I did not end up experiencing greater saliva
 production.
