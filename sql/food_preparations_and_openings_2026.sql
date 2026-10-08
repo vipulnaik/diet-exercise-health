@@ -1139,8 +1139,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-06','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   /* 2026-10-06 Imm Thai Street Food takeout */
   ('2026-10-06','Imm Thai Street Food yellow curry tofu',1,2,null,null),
-  ('2026-10-06','Imm Thai Street Food white rice',1,2,null,null),
+  ('2026-10-06','Imm Thai Street Food white rice',1,2,'2026-10-07',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-06','TJ Almond Milk',1,2,null,null),
-  ('2026-10-06','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-10-06','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  /* 2026-10-07 potatoes prep (first meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-10-07','Gold potatoes 5 lb',0.5,1,null,null), /* 4 potatoes out of 10 */
+  ('2026-10-07','TJ Kale',1,1,null,null),
+  ('2026-10-07','TJ Broccoli Florets 12 oz',1,1,null,null),
+  ('2026-10-07','Beefsteak tomato',5,1,null,null); /* no new batch as I hadn't been able to buy tomatoes in my Trader Joe's trip; used 5 of 6 old tomatoes with 1 left */
   /* Double-check the date and meal index before committing */
