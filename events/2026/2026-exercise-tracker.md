@@ -1097,3 +1097,9 @@ administrative trip related to tax work in the afternoon.
 
 On Tuesday 2026-10-06, I skipped all exercises to make time for a
 Walgreens trip (with an administrative item).
+
+## 2026-10-07: skipped all exercises
+
+On Wednesday 2026-10-07, I skipped all exercises to fit in some day
+job work in the late morning / early afternoon and also do potatoes
+prep later in the afternoon.
