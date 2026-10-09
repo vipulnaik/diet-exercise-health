@@ -1103,3 +1103,11 @@ Walgreens trip (with an administrative item).
 On Wednesday 2026-10-07, I skipped all exercises to fit in some day
 job work in the late morning / early afternoon and also do potatoes
 prep later in the afternoon.
+
+## 2026-10-08: skipped jogging and strength exercises
+
+On Thursday 2026-10-08, I skipped jogging and strength exercises due
+to a mix of day job work in the early afternoon and a scheduled
+catchup phone call conversation in the later afternoon. I did hand
+gripper exercises as usual, as these were easy to partly multiplex
+with the call.
