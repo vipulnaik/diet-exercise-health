@@ -3,13 +3,13 @@
 | Asha Tea House ginger honey tea                    |                            0.0000 |                                    0.0000 |
 | Beefsteak tomato                                   |                            1.0000 |                                   10.0000 |
 | Eggplant                                           |                            0.0000 |                                    0.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            1.0000 |                                    1.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    1.0000 |
 | Gold potatoes 5 lb                                 |                            0.5000 |                                    0.5000 |
 | Green bell pepper                                  |                            0.0000 |                                    4.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
-| Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    1.0000 |
-| Kite Hill Greek Style Plant-Based Yogurt           |                            3.0000 |                                    1.0000 |
-| Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            1.0000 |                                    0.0000 |
+| Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
+| Kite Hill Greek Style Plant-Based Yogurt           |                            3.0000 |                                    0.0000 |
+| Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    1.0000 |
 | Lundberg Sustainable California White Basmati Rice |                            7.0000 |                                    1.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            0.0000 |                                    0.0000 |
 | Morton Iodized Sea Salt                            |                            1.0000 |                                    1.0000 |
