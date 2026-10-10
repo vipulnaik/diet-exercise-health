@@ -1111,3 +1111,11 @@ to a mix of day job work in the early afternoon and a scheduled
 catchup phone call conversation in the later afternoon. I did hand
 gripper exercises as usual, as these were easy to partly multiplex
 with the call.
+
+## 2026-10-09: skipped all exercises
+
+On Friday 2026-10-09, I skipped all exercises. This was because I
+spent the afternoon on time-sensitive day job stuff plus United States
+tax work, and ended up running out of time to do exercise. I also
+didn't want to delay my meal consumption further so as to not disrupt
+my routine.
