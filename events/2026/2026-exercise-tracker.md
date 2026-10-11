@@ -1119,3 +1119,11 @@ spent the afternoon on time-sensitive day job stuff plus United States
 tax work, and ended up running out of time to do exercise. I also
 didn't want to delay my meal consumption further so as to not disrupt
 my routine.
+
+## 2026-10-10: skipped hand gripper and strength exercises
+
+On Saturday 2026-10-10, I got significantly delayed due to a bunch of
+tasks in the early afternoon. I didn't want to skip jogging, since I
+had skipped jogging for the past four days. However, due to the time
+constraint, I was not able to fit in hand gripper exercises and
+strength exercises.
