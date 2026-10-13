@@ -1127,3 +1127,9 @@ tasks in the early afternoon. I didn't want to skip jogging, since I
 had skipped jogging for the past four days. However, due to the time
 constraint, I was not able to fit in hand gripper exercises and
 strength exercises.
+
+## 2026-10-12: skipped all exercises
+
+On Monday 2026-10-12, I skipped all exercises. This was in order to
+fit in two cyclic personal chores with long time block commitment
+(eggplant meal prep and rice prep).
