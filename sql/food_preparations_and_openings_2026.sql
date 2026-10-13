@@ -1164,5 +1164,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-12','Roma tomato',4,1,null,null), /* actually vine tomatoes but entered as roma for convenience; used up all 4 */
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-12','TJ Almond Milk',1,1,null,null),
-  ('2026-10-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-10-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  /* 2026-10-12 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2026-10-12','Lundberg Sustainable California White Basmati Rice',1,2,null,null);
   /* Double-check the date and meal index before committing */
