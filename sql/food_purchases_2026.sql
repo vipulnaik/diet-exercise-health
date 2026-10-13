@@ -680,7 +680,7 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-10-06','Gold potatoes 5 lb',1,1), /* purchased as 10 loose potatoes with the approximate total weight of a 5 lb pack, as the 5 lb pack was not available */
   /* 2026-10-11 (Sunday) Trader Joe's; total cost $19.98; checkout at 8:38 PM; paid by credit card; 12 items in transaction by official count but 15 based on my converted count */
   ('2026-10-11','TJ Almond Milk',1,1),
-  ('2026-10-11','Beefsteak tomato',4,1), /* actually got tomatoes on the vine which was a set of 4, slightly smaller than beefsteak but close enough */
+  ('2026-10-11','Roma tomato',4,1), /* actually got tomatoes on the vine which was a set of 4; they are close enough in size and ingredients to roma tomatoes so I am using roma tomato */
   ('2026-10-11','Green bell pepper',4,1),
   ('2026-10-11','Red bell pepper',4,1),
   ('2026-10-11','TJ Carrots',1,1),

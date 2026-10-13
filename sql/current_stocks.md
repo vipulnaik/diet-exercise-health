@@ -1,7 +1,7 @@
 | food_type                                          | unopened_stock_at_estimation_time | partially_opened_stock_at_estimation_time |
 |----------------------------------------------------|-----------------------------------|-------------------------------------------|
 | Asha Tea House ginger honey tea                    |                            0.0000 |                                    0.0000 |
-| Beefsteak tomato                                   |                            5.0000 |                                    5.0000 |
+| Beefsteak tomato                                   |                            1.0000 |                                    5.0000 |
 | Eggplant                                           |                            0.0000 |                                    0.0000 |
 | Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    0.0000 |
 | Gold potatoes 5 lb                                 |                            0.5000 |                                    0.5000 |
@@ -16,7 +16,7 @@
 | Mr. East Kitchen veggie pho                        |                            0.0000 |                                    0.0000 |
 | Orange bell pepper                                 |                            0.0000 |                                    0.0000 |
 | Red bell pepper                                    |                            4.0000 |                                    0.0000 |
-| Roma tomato                                        |                            0.0000 |                                    0.0000 |
+| Roma tomato                                        |                            4.0000 |                                    0.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
 | TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
