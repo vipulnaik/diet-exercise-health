@@ -1144,10 +1144,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-06','TJ Almond Milk',1,2,'2026-10-12',1),
   ('2026-10-06','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-10-08',1),
   /* 2026-10-07 potatoes prep (first meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-10-07','Gold potatoes 5 lb',0.5,1,null,null), /* 4 potatoes out of 10 */
-  ('2026-10-07','TJ Kale',1,1,null,null),
-  ('2026-10-07','TJ Broccoli Florets 12 oz',1,1,null,null),
-  ('2026-10-07','Beefsteak tomato',5,1,null,null), /* no new batch as I hadn't been able to buy tomatoes in my Trader Joe's trip; used 5 of 6 old tomatoes with 1 left */
+  ('2026-10-07','Gold potatoes 5 lb',0.5,1,'2026-10-13',1), /* 4 potatoes out of 10 */
+  ('2026-10-07','TJ Kale',1,1,'2026-10-13',1),
+  ('2026-10-07','TJ Broccoli Florets 12 oz',1,1,'2026-10-13',1),
+  ('2026-10-07','Beefsteak tomato',5,1,'2026-10-13',1), /* no new batch as I hadn't been able to buy tomatoes in my Trader Joe's trip; used 5 of 6 old tomatoes with 1 left */
   /* 2026-10-08 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-10-08','Lundberg Sustainable California White Basmati Rice',1,1,'2026-10-12',1),
   /* new bottle/packet openings as the old ones finished */
