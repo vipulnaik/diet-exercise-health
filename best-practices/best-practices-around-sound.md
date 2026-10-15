@@ -330,23 +330,52 @@ tearing vegetables.
 
 ### Volume control
 
-For music with over-ear headphones, I generally use a volume of 1 to 4
-out of 16 on my Macbook Air, with the low end for highly produced pop
-music and the higher end for single-instrument instrumentals.
+Below is a list of range of volume on the Macbook Air.
 
-For podcast and speech content with over-ear headphones, I generally
-use a volume of 5 to 10 out of 16. The higher volume here reflects
-both the greater minimum audible volume for extraction of speech
-signals and the fact that speech is less heavily produced and has less
-dynamic range compression.
+Activity | Headphone type | Typical volume
+-- | -- | --
+listening to a podcast while away from computer | bone conduction | 7/16 (occasionally down to 6/16 when it's a bit more boisterous)
+rewatch / re-listen of a movie or web series I've watched before, while away from computer | bone conduction | 7/16 to 11/16 (position in range depends on the kind of show)
+shuffle music listening of a playlist while away from computer | bone conduction | 4/16 (occasionally down to 3/16)
+on-computer listening to a familiar song | over-ear | 1/16 or 2/16 (position in range depends on the kind of show and my mood and state)
+listening to a piano instrumental of a familiar song while away from computer and wanting to minimize cognitive stimulation | bone conduction | 1/16 or 2/16 (position in range epends on my mood and state)
+watching of a TV show or movie while on my computer | over-ear | 4/16 to 8/16 (position in range depends on the kind of show)
 
-With bone conduction headphones, I generally do an extra 2 or 3 points
-out of 16 relative to over-ear headphones for the same material.
+A note on the "kind of show" and how it affects the needed volume for
+both on-computer and off-computer listening. The majority of
+conversation-heavy shows are similar enough to podcasts in their
+volume needs, so a volume of around 4/16 to 5/16 with over-ear
+headphones and 7/16 with bone conduction headphones works. On the
+other hand, some shows, such as Game of Thrones or Kingdom (the Korean
+drama) have huge variation between quiet conversation scenes and loud,
+scary action scenes. For these shows, a volume of 9/16 is typically
+needed, and in some cases, the volume needs to be increased to
+11/16. This does tend to be a bit on the loud end for the scary action
+scenes, but the intelligibility of the conversations is a stricter
+constraint.
 
 While the Macbook Air volume controls, as interpreted by over-ear and
 bone conduction headphones, don't directly map to decibel levels, I'm
 reasonably confident that I rarely exceed 50 dB, and generally stay
 below 40 dB.
+
+### Recording volume whenever I start any afk listening or other bone conduction headphone listening
+
+I record the start of any afk listening with a Slack self-chat log
+message, and include in that recording the volume. This has several
+benefits:
+
+* It helps me reset volume deliberately, combating any ratchet effects
+  as documented in the next subsection and elsewhere in the
+  document. Thus, if I had to raise volume to 11/16 for one show, I
+  revisit whether I still need 11/16 for the next thing I am listening
+  to, or whether I can go down to 7/16.
+
+* It help me track my sound volume patterns, and it can be an
+  early sign of hearing loss.
+
+If I have to adjust the volume upward after starting afk listening, I
+record this increase in a Slack self-chat log message as well.
 
 ### Battling the volume ratchet effect
 
