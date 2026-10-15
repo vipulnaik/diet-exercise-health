@@ -244,12 +244,11 @@ mentioned, but with a different downstream benefit).
 The main disadvantage of bone conduction headphones is not related to
 damage or fatigue. Rather, in-ear or over-ear headphones shine for
 dedicated, other-blocking listening, with faithful representation of a
-wider range of frequencies. In-ear or over-ear headphones shine here
-(better representation of low and high frequencies), and therefore are
-ideal for finer appreciation of music or close listening to specific
-passages for nuances. The "other-blocking listening" is the occlusion
-effect showing up yet again, but in this context it becomes an
-*advantage* of in-ear or over-ear headphones.
+wider range of frequencies. They are therefore ideal for finer
+appreciation of music or close listening to specific passages for
+nuances. The "other-blocking listening" is the occlusion effect
+showing up yet again, but in this context it becomes an *advantage* of
+in-ear or over-ear headphones.
 
 #### Headphones versus room speakers
 
