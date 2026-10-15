@@ -226,9 +226,9 @@ Advantages of bone conduction headphones for peripheral fatigue:
   for comparable perceived loudness, so they create less total fatigue
   through that route.
 
-* Bone conduction headphones bypass the inner and middle ear, so they
+* Bone conduction headphones bypass the outer and middle ear, so they
   don't fatigue those parts of the ear, leading to less of some of the
-  inner and middle ear muscle fatigue. There are separate postural
+  outer and middle ear muscle fatigue. There are separate postural
   benefits and costs in terms of how they interact with the skin,
   which may or may not be favorable compared to normal headphones.
 
