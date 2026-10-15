@@ -35,7 +35,7 @@
 | TJ Roasted Seaweed                                 |                            1.0000 |                                    1.0000 |
 | TJ Sauerkraut                                      |                            1.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            4.0000 |                                    1.0000 |
-| TJ Walnuts                                         |                            8.0000 |                                    1.0000 |
+| TJ Walnuts                                         |                            7.0000 |                                    1.0000 |
 | TJ Whole Wheat Pita Bread                          |                            0.0000 |                                    0.0000 |
 | Trader Giotto's Olive Oil                          |                            3.0000 |                                    1.0000 |
 | Udupi Palace spinach masala dosa                   |                            0.0000 |                                    0.0000 |

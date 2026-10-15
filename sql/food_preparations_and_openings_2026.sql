@@ -1153,7 +1153,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-08','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-10-10',1),
   ('2026-10-08','Kite Hill Unsweetened Plain Almond Milk Yogurt',1,1,'2026-10-10',1),
-  ('2026-10-10','TJ Walnuts',1,1,null,null),
+  ('2026-10-10','TJ Walnuts',1,1,'2026-10-14',2),
   ('2026-10-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-10-12',1),
   /* 2026-10-12 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-10-12','Green bell pepper',4,1,null,null),
@@ -1169,5 +1169,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-12','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-12','TJ Roasted Seaweed',1,2,null,null),
-  ('2026-10-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-10-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-10-14','TJ Walnuts',1,2,null,null);
   /* Double-check the date and meal index before committing */
