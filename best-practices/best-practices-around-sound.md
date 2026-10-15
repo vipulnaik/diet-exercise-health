@@ -272,7 +272,7 @@ acoustics" due to their spatial separation from the ears:
   of spatial and temporal complexity of sound varies a lot based on
   exact position relative to the speakers. This means that slight
   repositioning can dramatically affect the intelligibility of the
-  sound. Combined with the fact of lack of volume control to
+  sound. Combine this with the fact of lack of volume control to
   compensate for these changes, and the central fatigue load adds up.
 
 #### Overall take
