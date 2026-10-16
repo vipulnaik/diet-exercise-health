@@ -19,8 +19,9 @@ appointment. I received an email about it shortly afterward.
 ### Creation of calendar event, reminders etc. on 2026-10-16 (past midnight from 2026-10-15)
 
 On Friday 2026-10-16, past midnight from Thursday 2026-10-15, I
-created the calendar event, on-call maintenance windows (overrides
-pending on colleague approval), and calendar reminders.
+created the calendar event, on-call maintenance windows (override
+created 2026-10-16 after waking up after receiving colleague
+approval), and calendar reminders.
 
 Here are the steps I took:
 
