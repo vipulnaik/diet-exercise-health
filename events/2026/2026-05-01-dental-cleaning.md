@@ -825,6 +825,7 @@ which turned out to be a time-consuming undertaking. More details of
 the checklist execution are
 [here](../../logs/dental-self-exam-checklist-log.md#2026-05-17-and-2026-05-20).
 
-### TODO preparatory steps for next time's dental cleaning
+### Preparatory steps for next time's dental cleaning
 
-Still pending. The cleaing is scheduled for 2026-11-11.
+See the [2026-11-11 dental cleaning
+document](2026-11-11-dental-cleaning.md).

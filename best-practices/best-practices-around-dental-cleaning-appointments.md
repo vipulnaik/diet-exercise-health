@@ -104,7 +104,7 @@ other medical appointments, vaccines, or blood tests.
 
   * Phase out cayenne pepper in prepared food: It should be half of
     usual quantity for preparations between two weeks and one week
-    before the appointment, and zero for preparations within one ween
+    before the appointment, and zero for preparations within one week
     before the appointment.
 
   * Stop having kimchi if I have an open bottle; don't open a new
@@ -118,13 +118,8 @@ other medical appointments, vaccines, or blood tests.
     the run-up to a dental cleaning appointment).
 
   * Decide (and set a reminder if the decision is positive) whether to
-    pausing sauerkraut about a week prior to the appointment in case
-    of existing or recent mouth ulcers: If I currently have mouth
-    ulcers, or have had them recently, consider pausing sauerkraut
-    about a week prior to the dental cleaning. NOTE: Further
-    information gleaned through the execution of the dental self-exam
-    checklist one week before the dental cleaning may lead me to
-    modify the decision.
+    pausing sauerkraut about a week prior to the appointment based on
+    current and recent state of mouth lesions and what aggravates them.
 
   * Decide (and set a reminder if the decision is positive) whether to
     pause walnuts about 5-6 days prior to the appointment. However,
@@ -142,9 +137,9 @@ other medical appointments, vaccines, or blood tests.
 * Reminder after the appointment to decide regarding resuming foods:
 
   * If I notice any injuries in the mouth, or I have had recent mouth
-    ulcers or mouth bites, I should keep the pauses on for a few days
-    (resume in order of walnuts, then sauerkraut, then cayenne
-    peepper, kimchi, etc.).
+    lesions that warrant more care, I should keep the pauses on for a
+    few days (resume in order of walnuts, then sauerkraut, then
+    cayenne peepper, kimchi, etc.).
 
   * If none of the above conditions apply, I can resume immediately
     (walnuts on the evening of, sauerkraut the next morning, and
@@ -285,7 +280,6 @@ within which I don't expect significant changes, so that it should
 still be a reasonable approximation to the starting state of my teeth
 after the cleaning. Delaying further runs the risk of picking up
 plaque accumulation and staining after the cleaning.
-
 
 ## Things to keep in mind during the appointment
 
