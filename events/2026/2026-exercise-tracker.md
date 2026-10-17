@@ -1133,3 +1133,12 @@ strength exercises.
 On Monday 2026-10-12, I skipped all exercises. This was in order to
 fit in two cyclic personal chores with long time block commitment
 (eggplant meal prep and rice prep).
+
+## 2026-10-16: skipped most exercises
+
+On Friday 2026-10-16, I didn't have strength exercises due, but I did
+have jogging, hand gripper exercises, and humming with intermittent
+pauses due. I did humming with intermittent pauses and skipped jogging
+and hand gripper exercises. This was to free up time for a Trader
+Joe's trip in the afternoon while also having time for potatoes prep
+in the evening (that would use ingredients purchased in the trip).
