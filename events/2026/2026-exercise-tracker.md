@@ -1142,3 +1142,9 @@ pauses due. I did humming with intermittent pauses and skipped jogging
 and hand gripper exercises. This was to free up time for a Trader
 Joe's trip in the afternoon while also having time for potatoes prep
 in the evening (that would use ingredients purchased in the trip).
+
+## 2026-10-17: skipped all exercises
+
+On Saturday 2026-10-17, I skipped all exercises in order to fit in a
+catch-up conversation with a collaborator in the early afternoon and
+then a Berkeley Bowl trip shortly after the end of the conversation.
