@@ -197,7 +197,7 @@ seen me the past few times. The new hygienist's name started with F; I
 didn't catch the full name.
 
 The hygienist skipped the mouthwash step and directly went to starting
-to clean my teeth with the scraper., with the air blower being used
+to clean my teeth with the scraper, with the air blower being used
 throughout.
 
 ### Dental examination: wisdom tooth healing and gum recession
