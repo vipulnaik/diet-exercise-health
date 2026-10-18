@@ -339,16 +339,16 @@ through the gap.
 The floss pick is generally able to get into every interdental
 gap. However, the right mandibular gaps can sometimes pose resistance,
 and a bit of time may be needed to get through. Once within each
-interdental gap, I do every curved motions running along the side
+interdental gap, I do several curved motions running along the side
 surfaces of both teeth in the gap as well as the papilla. I do not put
 a lot of force on the papilla.
 
 If the floss pick picks up any debris or blood, I make sure to run it
 under water before continuing to use it, or switch to another floss
-pick. I do not generally wash the floss pick if it doesn't directly
-catch any visible debris. My general experience is that while debris
-does occasionally come off with floss pick use, it comes off whne I
-spit afterward rather than directly landing on the floss pick.
+pick. I do not generally wash the floss pick between gaps if it doesn't
+directly catch any visible debris. My general experience is that while
+debris does occasionally come off with floss pick use, it comes off when
+I spit afterward rather than directly landing on the floss pick.
 
 #### Brushing
 
