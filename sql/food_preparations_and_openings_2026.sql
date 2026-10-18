@@ -1180,5 +1180,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-16','Beefsteak tomato',4,2,null,null), /* 4 of 8 tomatoes from new batch (no old batch); 4 tomatoes left */
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-10-17','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
+  ('2026-10-17','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  /* 2026-10-17 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2026-10-17','Lundberg Sustainable California White Basmati Rice',1,2,null,null);
   /* Double-check the date and meal index before committing */
