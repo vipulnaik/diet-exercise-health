@@ -1156,12 +1156,12 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-10','TJ Walnuts',1,1,'2026-10-14',2),
   ('2026-10-10','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-10-12',1),
   /* 2026-10-12 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-10-12','Green bell pepper',4,1,null,null),
-  ('2026-10-12','Red bell pepper',4,1,null,null),
-  ('2026-10-12','TJ Baby Spinach',1,1,null,null), /* used instead of kale as I purchased it due to no kale in stock */
-  ('2026-10-12','TJ Carrots',1,1,null,null),
-  ('2026-10-12','Beefsteak tomato',1,1,null,null), /* used up the 1 from old batch */
-  ('2026-10-12','Roma tomato',4,1,null,null), /* actually vine tomatoes but entered as roma for convenience; used up all 4 */
+  ('2026-10-12','Green bell pepper',4,1,'2026-10-17',2),
+  ('2026-10-12','Red bell pepper',4,1,'2026-10-17',2),
+  ('2026-10-12','TJ Baby Spinach',1,1,'2026-10-17',2), /* used instead of kale as I purchased it due to no kale in stock */
+  ('2026-10-12','TJ Carrots',1,1,'2026-10-17',2),
+  ('2026-10-12','Beefsteak tomato',1,1,'2026-10-17',2), /* used up the 1 from old batch */
+  ('2026-10-12','Roma tomato',4,1,'2026-10-17',2), /* actually vine tomatoes but entered as roma for convenience; used up all 4 */
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-12','TJ Almond Milk',1,1,null,null),
   ('2026-10-12','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-10-14',1),
