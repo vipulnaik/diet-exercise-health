@@ -428,7 +428,7 @@ cleaning, time permitting. The execution log is
 I execute some parts of the dental self-exam checklist in isolation
 more frequently:
 
-* I try to do an intra-oral mirror check of the back teeth about
+* I try to do an intra-oral mirror check of the lingual surfaces about
   once a week, though in practice it can be once every 1 to 2 weeks.
 
 * I try to do floss pick pressure testing (where I press a floss pick
