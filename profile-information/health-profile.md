@@ -345,10 +345,11 @@ a lot of force on the papilla.
 
 If the floss pick picks up any debris or blood, I make sure to run it
 under water before continuing to use it, or switch to another floss
-pick. I do not generally wash the floss pick between gaps if it doesn't
-directly catch any visible debris. My general experience is that while
-debris does occasionally come off with floss pick use, it comes off when
-I spit afterward rather than directly landing on the floss pick.
+pick. I do not generally wash the floss pick between gaps if it
+doesn't directly catch any visible debris. My general experience is
+that while debris does occasionally come off with floss pick use, it
+comes off when I spit afterward rather than directly landing on the
+floss pick.
 
 #### Brushing
 
