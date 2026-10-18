@@ -296,7 +296,7 @@ Last substantive section update: October 18, 2026 (2026-10-18)
 #### Swirling
 
 I swirl water in the mouth for about 50 to 80 seconds and swallow it
-about 10 to 20 minutes after each meal. This is a quick way of
+about 5 to 20 minutes after each meal. This is a quick way of
 clearing large particles from the mouth, and serves as a stopgap until
 I can do a full floss and rinse for a thorougher cleaning. I log both
 the act and duration of swirling in Slack self-chat logs.
