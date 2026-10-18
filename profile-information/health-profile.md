@@ -1,6 +1,6 @@
 # Health profile
 
-Last major update: October 7, 2026 (2026-10-07)
+Last major update: October 18, 2026 (2026-10-18)
 
 NOTE (2025-09-22, updated 2026-05-25): I got [blood tests done on
 September 10, 2025](../events/2025/2025-09-10-blood-tests.md). I got
@@ -289,7 +289,7 @@ highlights:
 
 ## Dental status
 
-Last substantive section update: October 7, 2026 (2026-10-07)
+Last substantive section update: October 18, 2026 (2026-10-18)
 
 ### Dental hygiene practices
 
@@ -456,6 +456,8 @@ more frequently:
 
 ### Historical information
 
+#### Major highlights
+
 * All four of my wisdom teeth have been removed. The removal was done
   in 2023: [overall doc](../events/2023/2023-wisdom-tooth-removal.md), [left
   side](../events/2023/2023-07-05-wisdom-tooth-removal-left-side.md), and [right
@@ -473,6 +475,21 @@ more frequently:
   pains](../events/2018/2018-12-head-neck-jaw-tooth-pain.md) that I experienced,
   including dental pain, and that also marked the start of my
   photosensitivity, may be worth reading.
+
+#### Interspersed timeline of dental hygiene practice changes, periodic check structure changes, dental cleanings, dental procedures, and other milestones
+
+TODO 2026-10-18: This table is still under construction.
+
+Date | Event type | Document link (if applicable) | Details
+-- | -- | -- | --
+2019-01-08 | Dentist visit for toothache diagnosis | [link](../events/2019/2019-01-08-dentist-visit.md) | This was a visit to the dentist to diagnose a toothache that was part of a broader head/neck/jaw/tooth pain encountered in December 2018; see [here](../events/2018/2018-12-head-neck-jaw-tooth-pain.md). I did not follow up on the deep cleaning recommendation until mid-2021, though it did lead me to stop consuming sugary hot chocolate, which was probably the most acute aggravator at the time.
+2021-08-11 | Dental cleaning | [link](../events/2021/2021-08-11-dental-cleaning-trip.md) | This was scheduled as a regular dental cleaning and exam, but the fact that they recommended deep cleaning again (despite my stopping of hot chocolate consumption and occasional interdental brush use) led me to decide to proceed to book followup appointments for that.
+2021-08-11 | Practice change (flossing) | N/A | I started regular daily interdental brush flossing after the 2021-08-11 dental cleaning appointment.
+2021-09-29 | Periodontal therapy | [link](../events/2021/2021-09-29-periodontal-therapy-first-appointment.md) | This was the first of two periodontal therapy appointments. This appointment was limited to the right side of the mouth (both facial and lingual sides and both maxillary and mandibular sides); the left side was for the second appointment.
+2021-09-29 | Practice change (rinsing) | N/A | I added regular rinsing after brushing. I began by rinsing with the alcoholic rinse given by the clinic, and once it was finished and my healing was complete, I switched to a saltwater rinse per the hygienist recommendation.
+2021-10-06 | Periodontal therapy | [link](../events/2021/2021-09-29-periodontal-therapy-first-appointment.md) | This was the second of two periodontal therapy appointments. This appointment was limited to the left side of the mouth (both facial and lingual sides and both maxillary and mandibular sides); the right side had been covered in the first appointment.
+2021-12-15 | Dental cleaning | [link](../events/2021/2021-12-15-periodontal-therapy-followup-appointment.md) | Framed as a periodontal therapy followup appointment, this was the start of a sequence of regular 6-month dental cleanings. The hygienist confirmed decent recovery after the periodontal therapy and provided dental hygiene recommendations.
+2021-12-15 | Practice change (flossing and rinsing) | N/A | Based on the hygienist recommendation, I switched my flossing and rinsing to shortly after each meal. This replaced my earlier practice of daily flossing and rinsing after brushing teeth. For flossing, I continued to use the interdental brush, but the timing changed and the frequency doubled. For rinsing, the timing changed to sooner after meals.
 
 ## Eye status
 
