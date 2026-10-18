@@ -403,7 +403,7 @@ sequence:
 About once every 2 to 5 days (aspirationally once every 2 days), after
 regular brushing, I lightly brush all lingual surface with a small
 amount of baking soda toothpaste. This is to reduce staining on the
-lingual surfaces, which is a known proble.
+lingual surfaces, which is a known problem.
 
 ### Formal dental care
 
