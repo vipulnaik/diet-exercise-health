@@ -1172,10 +1172,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-14','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-10-16',2),
   ('2026-10-14','TJ Walnuts',1,2,null,null),
   ('2026-10-15','TJ Miso Ginger Broth',1,1,null,null),
-  ('2026-10-16','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  ('2026-10-16','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-10-17',1),
   /* 2026-10-16 potatoes prep (second meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
   ('2026-10-16','Gold potatoes 5 lb',0.5,2,null,null), /* 4 potatoes out of 10 */
   ('2026-10-16','TJ Kale',1,2,null,null),
   ('2026-10-16','TJ Broccoli Florets 12 oz',1,2,null,null),
-  ('2026-10-16','Beefsteak tomato',4,2,null,null); /* 4 of 8 tomatoes from new batch (no old batch); 4 tomatoes left */
+  ('2026-10-16','Beefsteak tomato',4,2,null,null), /* 4 of 8 tomatoes from new batch (no old batch); 4 tomatoes left */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-10-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-10-17','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
