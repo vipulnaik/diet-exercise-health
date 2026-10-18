@@ -383,7 +383,7 @@ ear felt full, with puses of a few seconds in between to gauge the
 state of things. Once my left ear felt full, I capped the tube and lay
 it down. I kept my eyes closed for most of the process except when
 capping and uncapping, and mostly stayed lying down though I did tilt
-up a littl bit (while still keeping the left side up) when putting the
+up a little bit (while still keeping the left side up) when putting the
 tube down.
 
 I then continued to lay down on my right side, with my eyes closed for

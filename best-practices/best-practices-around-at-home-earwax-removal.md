@@ -31,8 +31,9 @@ document](best-practices-around-adding-a-topical-treatment-protocol.md).
 
 * Frequency range: I will limit to at most once a week in any given
   ear, and I should ideally target about once every 2 months per ear
-  in steady state. The more frequent application should only be in
-  cases where I suspect significant earwax buildup.
+  (or even less frequent) in steady state. The more frequent
+  application should only be in cases where I suspect significant
+  earwax buildup.
 
 * Minimum and maximum dose gap: Minimum gap of 1 week.
 
@@ -157,7 +158,9 @@ After I have brushed my teeth, I should begin preparation.
   bubbling to the surface of the ear, wipe the ear with the edge of
   the hand towel / dish towel while I continue to lie down, but gently
   and without pressing stuff inward; there should be a peak period of
-  about 2 to 5 minutes when most of the wax comes out
+  about 2 to 5 minutes when most of the wax comes out; also, consider
+  raising the head and rotating it upward briefly a few times to help
+  the ear drops percolate better
 
 * When the phone timer reaches 20 minutes, add another 10 minutes
 
@@ -177,7 +180,8 @@ After I have brushed my teeth, I should begin preparation.
 
 * If more earwax seems to be coming out, wipe this additional earwax
   with the hand towel / dish towel (use areas that don't already have
-  earwax)
+  earwax, and keep a clear distinction between the areas so that they
+  can be photographed separately)
 
 * Wash the syringe and tube with soap and water and leave them to dry
 
@@ -198,6 +202,9 @@ about 30 minutes after irrigation.
 
 ## Next day documentation
 
-* Fill in documentation the next day
+* Copy the photos over to GitHub, examine them
 
-* Copy the photos over to GitHub
+* Discuss with Claude if there are interesting findings to process
+
+* Record the ear drop application in
+  [ear_drop_applications.sql](../sql/ear_drop_applications.sql)
