@@ -355,10 +355,15 @@ floss pick.
 
 #### Timing and frequency
 
-I brush teeth once in the morning (usually after my morning bowel
-movement, and a few hours before eating) and once about 2 to 4 hours
-after each meal (I have two meals, so that's 3 times a day brushing in
-total).
+I brush teeth once in the morning / early afternoon (usually after my
+morning bowel movement, and a few hours before eating) and once about
+2 to 4 hours after each meal (I have two meals, so that's 3 times a
+day brushing in total). In some cases, if there is a very long gap
+between my morning / early afternoon brushing and my first meal
+(usually only when the gap is over 5 hours), I might brush again
+before my first meal. This second round of brushing is more
+perfunctory than my usual brushing. On such days, I therefore end up
+brushing 4 times a day instead of the usual 3.
 
 #### Toothbrush
 
