@@ -400,7 +400,7 @@ sequence:
 * I then brush my tongue, then lightly cover the gumline (both lingual
   and facial) a little bit further beyond the interface with the
   tooth, and then also cover the inner lip and cheeks. The purpose
-  here is now a thorough cleaning the way it is for tooth surfaces,
+  here is not a thorough cleaning the way it is for tooth surfaces,
   but rather, some mix of providing a bit of mechanical action and
   probing to get a sense of any unusual phenomena in the mouth.
 
