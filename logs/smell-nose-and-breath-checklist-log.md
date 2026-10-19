@@ -24,3 +24,14 @@ END OF CHECKLIST
   - In contrast, a more informal nasal cycle record while walking to and from Trader Joe's on 2026-04-07 suggested a faster nasal cycle of about 45 minutes to 1 hour. However, walking movement might cause temporary fluctuations in nasal airflow that superimpose on the broader nasal cycle. The seated record is more reliable.
 
 END OF CHECKLIST
+
+## 2026-10-19
+
+- [x] Confirm that I have experienced at least one incident of pronounced smell gradient upon return to apartment (`psgurta` in Slack self-chat logs) in the past 3 months
+- [x] Confirm that I have been regularly sniffing condiments (turmeric, cumin, cinnamon, and cayenne pepper / red pepper) for meal preparations and have had success doing so
+- [x] Confirm that I have been able to identify distinctive smells of fresh rice prep, potatoes prep, and eggplant meal prep
+- [x] Confirm recent breath counts in Slack self-chat logs and transcribe them into SQL at breath_counts.sql
+- [ ] Confirm recent completion of a nasal cycle record (within the last 45 days) or do one if there is no recent one
+  - This involves using Slack self-chat logs to record multiple checkpoints spaced about 10 minutes apart, where I use philtrum airflow (which side of the philtrum -- space between upper lip and nose -- the outbreath lands on) and sniff sound to estimate which side is dominant at each checkpoint
+
+END OF CHECKLIST
