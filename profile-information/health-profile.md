@@ -2915,7 +2915,7 @@ the [containing folder](../sql/).
 
 I also keep track of my food waste [here](../sql/food_waste.sql).
 
-Myy waste-adjusted food preparations and openings present a reasonably accurate
+My waste-adjusted food preparations and openings present a reasonably accurate
 picture of my food consumption. The queries at
 [food_preparations_and_openings_verification_queries.py](../python/food_preparations_and_openings_verification_queries.py)
 show how to aggregate the data to make inferences regarding nutrients;
