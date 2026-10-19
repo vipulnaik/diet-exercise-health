@@ -109,10 +109,17 @@ purpose of being a breath-focused meditation and giving me data on my
 breathing rate. More data can be found in [the SQL
 file](../sql/breath_counts.sql).
 
-The overall takeaway as of 2026-04-08 is that my respiratory rate
-(breathing rate) is about 9 to 11 breaths per minute while standing
-with light movement and walking, and around 13 to 15 breaths per
-minute during indoor jogging.
+The overall takeaway as of 2026-10-19 is that my respiratory rate
+(breathing rate) is as follows:
+
+* 8 to 11 breaths per minute while standing with light movement and
+  walking (measurements were taken during post-meal cleanup that
+  mostly included washing dishes with the occasional brief walk to
+  pick up or move a dish).
+
+* 12 to 15 breaths per minute during indoor jogging (which is
+  relatively slow due to indoor space limitations, and therefore not
+  cardiometabolically intense).
 
 All readings so far have involved fully nasal breathing patterns with
 all or almost all breaths at or near the tidal volume, i.e., no

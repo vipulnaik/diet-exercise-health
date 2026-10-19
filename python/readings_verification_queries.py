@@ -17,9 +17,9 @@ queries = [
     # Breath counts
     "select * from breath_counts where measurement_date > curdate();",
 
-    "select * from breath_counts where activity_mode != 'jogging' and not ((60 * breath_count) / time_period_in_seconds) between 8 and 12;",
+    "select *, ((60 * breath_count) / time_period_in_seconds) as respiratory_rate from breath_counts where activity_mode != 'jogging' and not ((60 * breath_count) / time_period_in_seconds) between 8 and 12;",
 
-    "select * from breath_counts where activity_mode = 'jogging' and not ((60 * breath_count) / time_period_in_seconds) between 13 and 17;",
+    "select *, ((60 * breath_count) / time_period_in_seconds) as respiratory_rate from breath_counts where activity_mode = 'jogging' and not ((60 * breath_count) / time_period_in_seconds) between 11 and 17;",
 
     # Pulse oximeter
     "select * from pulse_oximeter_readings where reading_date > curdate();",
