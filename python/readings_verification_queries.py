@@ -12,6 +12,8 @@ queries = [
 
     "select * from blood_pressure_readings where measurer = 'self' and not unusual_circumstances and not (heart_rate_bpm between 40 and 75);",
 
+    "select * from blood_pressure_readings where not (notes regexp concat(ambient_temperature_fahrenheit, ' degrees Fahrenheit'));",
+
     # Breath counts
     "select * from breath_counts where measurement_date > curdate();",
 

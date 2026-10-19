@@ -155,10 +155,15 @@ follows:
 
 * Stethoscope: 80 bpm on 2025-12-20
 
-* Blood pressure machine: 73 and 72 bpm on 2024-12-28
+* Blood pressure machine: 90 bpm and 84 bpm on 2026-10-19
+  (respectively 15 and 22 minutes after finishing jogging, with no
+  strength exercises in the interim)
 
 Since I don't generally take heart rate readings after exercise, the
-data points for this are much sparser.
+data points for this are much sparser. Moreover, the reading is highly
+sensitive to the duration of the gap between finishing exercise and
+taking the reading, as well as the level of intensity of the
+exercise. It is therefore difficult to compare readings.
 
 #### Heart rate after eating
 
@@ -212,6 +217,11 @@ My most recent at-home resting morning blood pressure readings (taken
 2026-10-19) were 99/64 and 93/58 respectively. NOTE: By "morning"
 here I mean before exercise, eating, or other significant activity. In
 some cases, the time of the readings was after noon.
+
+My post recent post-exercise blood pressure readings (taken 2026-10-19
+about 15 and 22 minutes respectively after finishing jogging, but
+without strength exercises in the interim) were 110/64 and 101/62
+respectively.
 
 My most recent afternoon blood
 pressure readings (taken 2024-12-14 about 2.5 hours after finishing a
