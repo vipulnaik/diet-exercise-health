@@ -1148,3 +1148,13 @@ in the evening (that would use ingredients purchased in the trip).
 On Saturday 2026-10-17, I skipped all exercises in order to fit in a
 catch-up conversation with a collaborator in the early afternoon and
 then a Berkeley Bowl trip shortly after the end of the conversation.
+
+## 2026-10-18: skipped strength exercises, plus short jogging-to-meal gap
+
+On Sunday 2026-10-18, I skipped strength exercises due to significant
+delays as a result of software installation and setup work. I was
+concerned about conserving time, and also very hungry after indoor
+jogging, so I didn't want to delay my meal by doing further
+exercises. Also, I had a gap of just 38 minutes between finishing
+jogging and starting my meal, which is lower than my typical gap of at
+least an hour.
