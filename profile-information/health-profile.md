@@ -137,13 +137,15 @@ I have three sources of information for heart rate:
 
 From 2023 to early 2025, my resting,seated heart rate was in the 42-60
 bpm range. However, from late 2025 onward, measurements of my resting,
-seated heart rate have generally been in the range of 60-70 bpm.
+seated heart rate have generally been in the range of 60-70 bpm. In
+the latter half of 2026, the range has shifted back down to around
+55-60 bpm.
 
-As of 2026-07-01, my most recent resting, seated heart rate estimates are as follows:
+As of 2026-10-19, my most recent resting, seated heart rate estimates are as follows:
 
 * Stethoscope: 66, 66, 63, and 69 bpm on 2026-04-08
 
-* Blood pressure machine: 60 bpm and 59 bpm on 2026-07-01
+* Blood pressure machine: 58 bpm and 56 bpm on 2026-10-19
 
 #### Heart rate after exercise
 
@@ -207,7 +209,7 @@ for a historical established temperature baseline.
 ### Blood pressure
 
 My most recent at-home resting morning blood pressure readings (taken
-2026-07-01) were 110/70 and 101/72 respectively. NOTE: By "morning"
+2026-10-19) were 99/64 and 93/58 respectively. NOTE: By "morning"
 here I mean before exercise, eating, or other significant activity. In
 some cases, the time of the readings was after noon.
 
