@@ -153,6 +153,18 @@ This portion is an audit of the quick tests and my regular sound habits.
 
 END OF SECTION: Audit portion
 
+There is some overlap between the items covered in the audit portion
+checklist above and frequency checks that I run as part of periodic
+Slack self-chat logs processing (which I do in two-week chunks with a
+lag of about a week from the end of the chunk to the processing
+time). However, I'm keeping this audit portion as a separate thing
+because the audit gives me more of an opportunity to examine trends
+and think through what's been happening, whereas the Slack self-chat
+logs frequency checks are more to flag things to me even without me
+thinking about them. What the Slack self-chat logs do is offer an
+early warning system and also provide a safety valve for the
+possibility that I skip or delay execution of the hearing checklist.
+
 ### Cycling portion
 
 These pieces require more active concentration as well as
