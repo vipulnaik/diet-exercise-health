@@ -312,10 +312,9 @@ provides a bare minimum of dental hygiene.
 
 ##### Timing and frequency
 
-I floss and rinse (with saltwater) about 25 to 120 minutes
-(aspirationally about 30 to 45 minutes, and usually within 70 minutes)
-after the completion of each meal, so I floss twice a day and rinse
-twice a day.
+I floss and rinse (with saltwater) about 25 to 135 minutes
+(aspirationally about 30 to 45 minutes) after the completion of each
+meal, so I floss twice a day and rinse twice a day.
 
 ##### Sequencing
 
