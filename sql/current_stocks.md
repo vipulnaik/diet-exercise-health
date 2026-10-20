@@ -23,7 +23,7 @@
 | TJ Baby Spinach                                    |                            0.0000 |                                    0.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
 | TJ Broccoli Florets 12 oz                          |                            0.0000 |                                    1.0000 |
-| TJ Carb Savvy Tortillas                            |                            1.0000 |                                    1.0000 |
+| TJ Carb Savvy Tortillas                            |                            0.0000 |                                    1.0000 |
 | TJ Carrots                                         |                            0.0000 |                                    0.0000 |
 | TJ Cinnamon                                        |                            0.0000 |                                    1.0000 |
 | TJ Cumin                                           |                            2.0000 |                                    1.0000 |
