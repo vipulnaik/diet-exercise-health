@@ -31,7 +31,9 @@ END OF CHECKLIST
 - [x] Confirm that I have been regularly sniffing condiments (turmeric, cumin, cinnamon, and cayenne pepper / red pepper) for meal preparations and have had success doing so
 - [x] Confirm that I have been able to identify distinctive smells of fresh rice prep, potatoes prep, and eggplant meal prep
 - [x] Confirm recent breath counts in Slack self-chat logs and transcribe them into SQL at breath_counts.sql
-- [ ] Confirm recent completion of a nasal cycle record (within the last 45 days) or do one if there is no recent one
-  - This involves using Slack self-chat logs to record multiple checkpoints spaced about 10 minutes apart, where I use philtrum airflow (which side of the philtrum -- space between upper lip and nose -- the outbreath lands on) and sniff sound to estimate which side is dominant at each checkpoint
+- [x] ~~Confirm recent completion of a nasal cycle record (within the last 45 days) or~~ do one if there is no recent one
+  - The data suggests a nasal cycle of around 5 to 7 hours. The transition from right to balanced and the next transition from left to balanced were separated by about 3 hours, with some measurement error.
+  - The time period included a mix of seated on computer, seated eating, and standing with light movement (post-meal cleanup, cleaning surfaces, sorting clothes).
+  - More information can be found by searching for `nasal cycle checkpoint` in Slack self-chat logs.
 
 END OF CHECKLIST
