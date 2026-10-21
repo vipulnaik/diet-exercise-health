@@ -40,6 +40,9 @@ queries = [
     "select * from stethoscope_heart_rate_measurements where measurement_date > curdate();",
 
     "select * from stethoscope_heart_rate_measurements where not unusual_circumstances and not (heart_rate_bpm between 40 and 70);",
+
+    # FoodMarble Aire 2 breath tests
+    "select * from foodmarble_aire_2_breath_tests where reading_date > curdate();",
 ]
 
 _connection = connection.connect()
