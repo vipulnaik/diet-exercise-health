@@ -13,7 +13,7 @@ duration.
 Many of these exercises are scheduled as part of the [balance exercise
 cycle](balance-exercise-cycle-with-history.md).
 
-## Goals and functional relevance of exercises.
+## Goals and functional relevance of exercises
 
 To a first approximation, reduced support standing exercises help
 improve both balance and strength.
@@ -100,6 +100,14 @@ The following are some typical patterns:
 Whether my eyes are open or closed is another parameter in the
 definition of a balance exercise.
 
+A small protocol clarification. For eyes-open exercise, the exercise
+starts as soon as I either arrange both legs in the desired support
+pattern, or arrange one leg and then lift the other leg off. On the
+other hand, for eyes-closed exercises, I generally take a few seconds
+to achieve the support pattern and liftoff, stabilize, then generally
+starting when the second counter is a multiple of 5, close my
+eyes. The duration is measured starting when I close my eyes.
+
 For every exercise, the eyes-closed version is harder than the
 eyes-open version, primarily because an important sensory input that
 influences balance is removed. The hardness of eyes-closed operates
@@ -120,3 +128,48 @@ because of the interplay between balance and strength. Therefore:
 * The ratio of the eyes-closed duration and the eyes-open duration is
   a good proxy for the relative roles of balance and strength for the
   exercise.
+
+### Shoes
+
+The default execution pattern for the exercises is at home, wearing
+socks but no shoes. For any exercise, a "with shoes" variant can be considered.
+
+The "with shoes" variant has the functional benefit that it more
+accurately measures and trains balance and strength in the outdoor
+context, where I am wearing shoes. This is particularly important for
+balance, where the specific skills being trained might be a little
+different with shoes on, since the feedback from the ground contact is
+transmitted differently through shoes.
+
+Against this, it has two disadvantages:
+
+* Since I don't wear shoes at home, this is limited to cases when I
+  am outdoors, and I generally have less discretionary outdoor time to
+  fit in exercises of variable length, since I can't multiplex with
+  other things I need to do and can't multiplex it with listening to
+  stuff.
+
+* Particularly the eyes-closed exercises are sufficiently hard that
+  they don't cross the stability threshold where I can use them for
+  training. The eyes-open exercises are better.
+
+* Outdoor environments vary in their evenness and other
+  characteristics, so differences in performance can be partly a
+  result of such variation. For instance, the waiting area for traffic
+  crossings tends to be a little slanted rather than flat, and this
+  reduces stability significantly. In contrast, indoor spaces like the
+  laundry room tend to be flatter and allow for longer durations.
+
+## Working through the sequence of events in a given exercise execution
+
+This section is intended to give a general sense of what happens when
+I am executing a given reduced support standing exercise.
+
+### Setup: identification of stable configuration
+
+I begin by setting up a configuration matching the support pattern
+that seems reasonably stable. In the eyes-open case, counting starts
+as soon as I achieve the support pattern (and liftoff of the other leg
+if it is a unilateral exercise). In the eyes-closed case, I take a few
+seconds after achieving the support pattern and liftoff before closing
+my eyes and starting the counting.
