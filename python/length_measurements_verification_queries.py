@@ -37,7 +37,9 @@ queries = [
     from length_measurements
     group by measurement_type, side;""",
 
-    "select * from length_measurements_min_and_max where largest_measurement > 1.25 * smallest_measurement;",
+    "select * from length_measurements_min_and_max where largest_measurement > 1.25 * smallest_measurement and not (measurement_type regexp 'hairline');",
+
+    "select * from length_measurements_min_and_max where largest_measurement > 1.25 * smallest_measurement + 1;",
 ]
 
 _connection = connection.connect()

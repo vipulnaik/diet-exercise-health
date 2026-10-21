@@ -272,8 +272,8 @@ was 124.4 lb; this translates to 56.4 kg.
 ### Waist size
 
 My official waist size, defined as the waist circumference measured
-with measuring tape after a normal exhalation is 28.3 inches (72
-cm). The waist circumference after normal inhalation is 29.5 inches
+with measuring tape after a normal exhalation is 29.5 inches (75
+cm). The waist circumference after normal inhalation is 30.3 inches
 (75 cm).
 
 More body measurements (including periodic waist circumference
@@ -1200,7 +1200,7 @@ for the IDF criteria as well.
   and 89 mg/dL (September 2024) are below the upper threshold of 150
   mg/dL.
 
-* Waist size: My official waist size (28.3 inches = 72 cm after normal
+* Waist size: My official waist size (29.5 inches = 75 cm after normal
   exhalation) is clearly below the NCEP ATP III / AHA threshold of 40
   inches. It's also below the reduced threshold of 90 cm for South
   Asian males in the IDF criteria.
