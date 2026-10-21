@@ -8,7 +8,7 @@
 | Green bell pepper                                  |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
-| Kite Hill Greek Style Plant-Based Yogurt           |                            5.0000 |                                    0.0000 |
+| Kite Hill Greek Style Plant-Based Yogurt           |                            4.0000 |                                    1.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Basmati Rice |                            7.0000 |                                    1.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            0.0000 |                                    0.0000 |
@@ -23,7 +23,7 @@
 | TJ Baby Spinach                                    |                            0.0000 |                                    0.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
 | TJ Broccoli Florets 12 oz                          |                            0.0000 |                                    1.0000 |
-| TJ Carb Savvy Tortillas                            |                            0.0000 |                                    1.0000 |
+| TJ Carb Savvy Tortillas                            |                            0.0000 |                                    0.0000 |
 | TJ Carrots                                         |                            0.0000 |                                    0.0000 |
 | TJ Cinnamon                                        |                            0.0000 |                                    1.0000 |
 | TJ Cumin                                           |                            2.0000 |                                    1.0000 |
