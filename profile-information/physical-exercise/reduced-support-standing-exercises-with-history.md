@@ -11,7 +11,10 @@ exercise. The proximal goal during the exercise is to maximize the
 duration.
 
 Many of these exercises are scheduled as part of the [balance exercise
-cycle](balance-exercise-cycle-with-history.md).
+cycle](balance-exercise-cycle-with-history.md). However, not every
+exercise in the balance exercise cycle is a reduced support standing
+exercise, and not every reduced support standing exercise is in the
+balance exercise cycle.
 
 ## Goals and functional relevance of exercises
 
@@ -79,9 +82,6 @@ The following are possibilities that have not been explored yet:
 * Medial side of foot
 
 * Lateral side of foot
-
-TODO: Table describing support pattern and its balance and strength
-implications
 
 ### Legs
 
@@ -173,3 +173,126 @@ as soon as I achieve the support pattern (and liftoff of the other leg
 if it is a unilateral exercise). In the eyes-closed case, I take a few
 seconds after achieving the support pattern and liftoff before closing
 my eyes and starting the counting.
+
+### Maintenance of stable configuration (honeymoon period)
+
+The honeymoon period is the initial period of a reduced support
+standing exercise, while I'm still within a stable configuration with
+no major challenge that causes me to almost lose balance.
+
+Exercises can roughly be divided into three categories (it's a
+multi-dimensional spectrum, but it's helpful to think of four
+categories):
+
+* (80%+ honeymoon period) Exercises where it's easy to start off with
+  a configuration that's highly stable, so that the honeymoon period
+  is maintained almost all the way to the end of the exercise, and the
+  thing that gives at the end is strength/endurance rather than
+  unexpected loss of balance. For instance, standing on toes (both
+  legs) is more like this than standing on one leg (flat). Eyes-open
+  exercises tend to be more like this than their eyes-closed
+  counterparts. Roughly speaking 80%+ of the exercise duration is
+  spent in the honeymoon period, and sudden loss of balance before
+  fatigue has already started setting in is rare.
+
+* (30-70% honeymoon period) Exercises where most configurations are at
+  least moderately stable, but there is a wide range of barely stable
+  configurations, and it is possible to randomly lose balance even
+  well before reaching the point of fatigue. After loss of balance,
+  the new configuration is on average likely to be less stable than
+  the original one, which is compounded by fatigue and makes it
+  effectively even less stable. For such exercises, the honeymoon
+  period is generally between 30% and 70% of the total exercise
+  duration, and can occasionally go even lower or even higher. An
+  example is standing on one leg (flat) with eyes closed.
+
+* (10-40% honeymoon period) Exercises where there are no moderately
+  stable configurations; all configurations are unstable to moderately
+  sized perturbations, but it is possible to "catch" oneself in many
+  cases. An example is standing on one leg toes with eyes open. The
+  honeymoon period tends to be relatively brief.
+
+* (concept of honeymoon period makes no sense) Exercises where even
+  the mildest perturbation to a configuration leads to loss of
+  balance. An example is standing on heels with eyes open. In some
+  sense, the entire duration is the honeymoon period, but in another
+  sense, there's no honeymoon period given the impending doom.
+
+### Support pattern maintenance after the end of the honeymoon period
+
+The honeymoon period ends with a loss of balance of some sort that
+gets caught quickly enough that the support pattern is
+maintained. However, two things happen:
+
+* Probabilistically, the new configuration is likely to be less stable
+  than the original one, since it was a reflexive recovery rather than
+  a carefully chosen one. It may or may not be possible to transition
+  to a more stable configuration.
+
+* The act of rapidly catching the loss of balance is more fatiguing
+  than the maintenance, so there's a marked increase in fatigue over
+  and above the gradual accumulation fatigue during the honeymoon
+  period.
+
+Both of these make the time after the honeymoon period more
+challenging and taxing for balance maintenance and more demanding of
+strength an endurance. This can lead to further losses of balance,
+that may or may not get caught. Each such loss of balance leads to a
+repeat of the two effects described above.
+
+## Other related exercises outside the scope of this document
+
+### Non-stationary exercises
+
+There are several related exercises that build on one of the support
+patterns described here and train a mix of balance and
+strength/endurance, but fall outside the scope of this document. A few
+categories:
+
+* Exercises involving back-and-forth between support patterns without
+  the whole body moving forward. These may be measured in either
+  repetitions or total duration or a mix. An example is repeated toe
+  raises followed by letdowns. The duration for which either pattern
+  is maintained is brief.
+
+* Exercises involving forward movement with a support pattern, such as
+  hopping (same full foot support pattern as standing-on-one-leg, but
+  now in service of forward movement) or tiptoe-walking (same toes
+  support pattern as standing on toes, but now in service of forward
+  movement). These can be thought of as walking-like exercises
+  (support pattern for at least one leg is active at all times, with
+  transitions involving both legs supported using the support pattern)
+  and running-like exercises (support pattern for at most one leg is
+  active at all times, with transitions involving both legs in the
+  air). These may be measured in repetitions or distance covered or a
+  mix.
+
+* Exercises involving doing something while in a support pattern, such
+  as tying shoelaces with one leg on the ground and the other leg (on
+  which shoelaces are being tied) raised.
+
+All the above kinds of exercises differ from our reduced support
+standing exercise in that their goal is to accomplish a particular
+movement. Our reduced support standing exercises have as their goal
+the avoidance of movement, and failing such avoidance, the
+counteracting of movement by compensatory movement and muscle
+activation to maintain the support pattern.
+
+### Exercises involving non-foot support
+
+The connotation of "standing" here is that all support is via parts of
+the feet. This excludes a bunch of other exercises:
+
+* Dead hang and pull-ups, as well as plank and push-ups. These
+  exercises involve having part or all of the body's weight supported
+  by the hands via the arms. These are not "standing" exercises in the
+  conventional sense.
+
+* Kneeling exercises, as these involve weight being supported via the
+  knees.
+
+* Seated exercises, that use a similar foot contact pattern as one of
+  the support patterns described above, but from a seated
+  position. This means that only part (and a variable part) of body
+  weight is supported via the feet, and there is no forced balance or
+  strength requirement imposed on the foot contact pattern.
