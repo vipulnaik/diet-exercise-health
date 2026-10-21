@@ -1,5 +1,11 @@
 # Balance exercise cycle (with history)
 
+NOTE: This document is focused on the mechanics of the cycle, rather
+than the logical structure of the exercises in the cycle and how they
+relate to each other (and to similar exercises not part of the
+cycle). For the latter, see the [reduced support standing exercises
+document](reduced-support-standing-exercises-with-history.md).
+
 ## Trigger for execution of cycle exercises: rice prep
 
 I generally execute the balance exercise cycle while waiting for water
@@ -40,11 +46,12 @@ substandard performance.
 * [Standing on toes with eyes
   closed](standing-on-toes-with-eyes-closed-with-history.md) (about 2 minutes)
 
+* [Standing on heels with eyes closed (with toe
+  support)](standing-on-heels-with-eyes-closed-with-toe-support-with-history.md)
+  (about 2 minutes)
+
 * [Standing on heels with eyes
   open](standing-on-heels-with-eyes-open-with-history.md) (about 2 minutes)
-
-* Standing on heels with eyes open (with toe support) (about 2
-  minutes) (document pending)
 
 * [Standing on one leg toes with eyes
   open](standing-on-one-leg-toes-with-eyes-open-with-history.md)
@@ -81,6 +88,11 @@ may make exceptions as follows:
 * [Standing on toes with eyes
   open](standing-on-toes-with-eyes-open-with-history.md) (about 4 to 6
   minutes) (swap-in for standing on toes with eyes closed)
+
+* [Standing on heels with eyes open (with toe
+  support)](standing-on-heels-with-eyes-open-with-toe-support-with-history.md)
+  (about 4 minutes) (swap-in for standing on heels with eyes closed
+  with toe support)
 
 ## History
 
