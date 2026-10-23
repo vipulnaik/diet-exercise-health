@@ -1187,7 +1187,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-10-20',1),
   ('2026-10-18','TJ Carb Savvy Tortillas',1,2,'2026-10-19',2),
   ('2026-10-18','TJ Almond Milk',1,2,null,null),
-  ('2026-10-19','TJ Walnuts',1,1,null,null),
+  ('2026-10-19','TJ Walnuts',1,1,'2026-10-22',2),
   ('2026-10-19','TJ Carb Savvy Tortillas',1,2,'2026-10-20',2),
   ('2026-10-20','TJ Sauerkraut',1,1,null,null),
   ('2026-10-20','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-10-22',1),
