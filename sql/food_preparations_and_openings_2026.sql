@@ -1174,15 +1174,15 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-15','TJ Miso Ginger Broth',1,1,'2026-10-21',2),
   ('2026-10-16','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-10-17',1),
   /* 2026-10-16 potatoes prep (second meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-10-16','Gold potatoes 5 lb',0.5,2,null,null), /* 4 potatoes out of 10 */
-  ('2026-10-16','TJ Kale',1,2,null,null),
-  ('2026-10-16','TJ Broccoli Florets 12 oz',1,2,null,null),
-  ('2026-10-16','Beefsteak tomato',4,2,null,null), /* 4 of 8 tomatoes from new batch (no old batch); 4 tomatoes left */
+  ('2026-10-16','Gold potatoes 5 lb',0.5,2,'2026-10-22',1), /* 4 potatoes out of 10 */
+  ('2026-10-16','TJ Kale',1,2,'2026-10-22',1),
+  ('2026-10-16','TJ Broccoli Florets 12 oz',1,2,'2026-10-22',1),
+  ('2026-10-16','Beefsteak tomato',4,2,'2026-10-22',1), /* 4 of 8 tomatoes from new batch (no old batch); 4 tomatoes left */
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-17','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-10-18',1),
   ('2026-10-17','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-10-18',1),
   /* 2026-10-17 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2026-10-17','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
+  ('2026-10-17','Lundberg Sustainable California White Basmati Rice',1,2,'2026-10-22',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-18','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-10-20',1),
   ('2026-10-18','TJ Carb Savvy Tortillas',1,2,'2026-10-19',2),
@@ -1190,6 +1190,16 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-19','TJ Walnuts',1,1,null,null),
   ('2026-10-19','TJ Carb Savvy Tortillas',1,2,'2026-10-20',2),
   ('2026-10-20','TJ Sauerkraut',1,1,null,null),
-  ('2026-10-20','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-10-21','TJ Roasted Seaweed',1,2,null,null);
+  ('2026-10-20','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-10-22',1),
+  ('2026-10-21','TJ Roasted Seaweed',1,2,null,null),
+  /* 2026-10-22 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
+  ('2026-10-22','Eggplant',1,1,null,null),
+  ('2026-10-22','TJ Kale',1,1,null,null),
+  ('2026-10-22','TJ Carrots',1,1,null,null),
+  ('2026-10-22','Green bell pepper',4,1,null,null),
+  ('2026-10-22','Red bell pepper',4,1,null,null), /* extra red bell peppers (purchased in last Trader Joe's trip) to make up for tomato shortfall as tomatoes were not in stock at my last Trader Joe's trip (so I only had the leftovers from the previous trip) */
+  ('2026-10-22','Beefsteak tomato',4,1,null,null), /* used up all 4 of old batch; no new batch as tomatoes were not in stock at my last Trader Joe's trip */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-10-22','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-10-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
   /* Double-check the date and meal index before committing */
