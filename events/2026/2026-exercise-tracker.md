@@ -1164,3 +1164,11 @@ least an hour.
 On Thursday 2026-10-22, I skipped all exercises to fit in eggplant
 meal prep in the early afternoon as well as rice prep later in the
 day.
+
+## 2026-10-23: skipped strength exercises
+
+On Friday 2026-10-23, I skipped strength exercises. This was because
+after jogging I got in the flow of some other work that took a little
+longer than expected, and while I could still have done strength
+exercises after that, I didn't want to delay my meal consumption too
+much.
