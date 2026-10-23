@@ -1158,3 +1158,9 @@ jogging, so I didn't want to delay my meal by doing further
 exercises. Also, I had a gap of just 38 minutes between finishing
 jogging and starting my meal, which is lower than my typical gap of at
 least an hour.
+
+## 2026-10-22: skipped all exercises
+
+On Thursday 2026-10-22, I skipped all exercises to fit in eggplant
+meal prep in the early afternoon as well as rice prep later in the
+day.
