@@ -1172,3 +1172,12 @@ after jogging I got in the flow of some other work that took a little
 longer than expected, and while I could still have done strength
 exercises after that, I didn't want to delay my meal consumption too
 much.
+
+## 2026-10-24: skipped jogging and strength exercises
+
+On Saturday 2026-10-24, I skipped jogging and strength exercises. This
+was because I spent a lot of time in the afternoon on software
+installation and setup work, and I ended up not having time for
+jogging and strength exercises. I was able to fit in hand gripper
+exercises, with part of it while the setup was going on and the rest
+after I closed the update session.
