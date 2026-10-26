@@ -669,7 +669,7 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   /* 2026-10-06 (Tuesday) Imm Thai Street Food takeout order placed 8:11 PM; total cost $17.89; paid by credit card */
   ('2026-10-06','Imm Thai Street Food yellow curry tofu',1,1),
   ('2026-10-06','Imm Thai Street Food white rice',1,1),
-  /* 2026-10-06 (Tuesday) Trader Joe's; total cost $31.81; checkout at 8:31 PM; paid by credit card; 19 items in transaction as counted, but 10 because I'm lumping the 10 potatoes as one 5 lb purchase; neither beefsteak tomato nor roma tomato was in stock, and since I had stock at home of tomatoes, I decided not to buy vine tomatoes */
+  /* 2026-10-06 (Tuesday) Trader Joe's; total cost $31.81; checkout at 8:31 PM; paid by credit card; 19 items in transaction as counted, but 10.25 because I'm lumping the 10 potatoes as 1.25 times a 5 lb purchase; neither beefsteak tomato nor roma tomato was in stock, and since I had stock at home of tomatoes, I decided not to buy vine tomatoes */
   ('2026-10-06','Ezekiel Sprouted Flourless Tortillas',2,1),
   ('2026-10-06','TJ Miso Ginger Broth',1,1),
   ('2026-10-06','TJ Turmeric',2,1),
@@ -705,7 +705,16 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-10-21','Green bell pepper',4,1),
   ('2026-10-21','TJ Carrots',1,1),
   ('2026-10-21','TJ Walnuts',2,1),
-  ('2026-10-21','TJ Kale',1,1);
+  ('2026-10-21','TJ Kale',1,1),
+  /* 2026-10-25 (Sunday) Trader Joe's; total cost $39.14; checkout at 8:29 PM; paid by credit card; the receipt showed 16 items in transaction, but this included an underbilling by 1 item and slight differences in counting conventions with my recording; the count per my conventions is 15.75 */
+  ('2026-10-25','Ezekiel Sprouted Flourless Tortillas',3,1), /* I was incorrectly billed for 2 */
+  ('2026-10-25','TJ Kale',1,1),
+  ('2026-10-25','TJ Miso Ginger Broth',1,1),
+  ('2026-10-25','TJ Walnuts',2,1),
+  ('2026-10-25','Roma tomato',6,1), /* actually, two packets of 3 vine tomatoes each, with roma tomato being a reasonable approximation of vine tomato */
+  ('2026-10-25','TJ Broccoli Florets 12 oz',1,1),
+  ('2026-10-25','TJ Roasted Seaweed',1,1),
+  ('2026-10-25','Gold potatoes 5 lb',0.75,1); /* 6 loose potatoes; by weight this is about 0.75 times a 5 lb pack */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
