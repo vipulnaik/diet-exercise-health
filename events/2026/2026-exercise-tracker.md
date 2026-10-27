@@ -1181,3 +1181,9 @@ installation and setup work, and I ended up not having time for
 jogging and strength exercises. I was able to fit in hand gripper
 exercises, with part of it while the setup was going on and the rest
 after I closed the update session.
+
+## 2026-10-26: skipped all exercises
+
+On Monday 2026-10-26, I skipped all exercises in order to fit in
+potatoes prep and rice prep in the day while also getting through a
+few day job items in the early afternoon.
