@@ -1,5 +1,7 @@
 # Reduced support standing exercises (with history)
 
+Last substantive document update: October 27, 2026 (2026-10-27) (see section [Completed and deferred document updates](#completed-and-deferred-document-updates) and revise that section if making significant updates)
+
 This is a unifying document covering a wide range of reduced support
 standing exercises, with outward links to individual exercises for
 more details.
@@ -19,6 +21,82 @@ balance exercise cycle.
 [Jump directly to the exercise list](#exercise-list) (this uses some
 jargon that is best understood by reading the document up to the
 point, but can be approximately understood even without that).
+
+## Completed and deferred document updates
+
+### Completed document updates
+
+The October 2026 initial round of work on this document had a limited
+set of goals:
+
+* Map out the key parameters, trade-offs, and considerations
+* List all the currently recorded reduced support standing exercises
+  viewed through the lens of the framework
+* Clean up duplicative content in the [exercise
+  routine](exercise-routine.md)
+
+With these steps done, the following benefits are unlocked:
+
+* I have identified some exercises that I have already started but
+  have been neglecting (specifically, the with-shoes variants and
+  one-leg toes eyes-closed) and can pay more attention to doing more
+  of these.
+
+* I have identified parameters that give me a framework to experiment
+  with additional exercises (for instance, medial foot and lateral
+  foot support, bilateral asymmetric exercises) and protocol changes
+  to existing exercises (such as switching an exercise with no retry
+  to one with a rigid threshold).
+
+* Incremental updates, including introduction of new exercises, as
+  well as updates to thresholds and duration ranges of individual
+  exercises, can be done in a way that is more streamlined and would not
+  require rework in the foreseeable future.
+
+* I have a portable framework that I can import into other
+  balance/strength exercise practices and associated documentation,
+  such as a planned future document on reduced support forward
+  movement exercises. The underlying ideas are mentioned in this
+  document, so I can pick them up when I next read this document,
+  without having to carry them in my head.
+
+### Deferred document updates
+
+The following are out of scope for the October 2026 update round, but
+I expect them to be part of future expansion rounds in 2027 and later.
+
+* Putting all the considerations together to form a more comprehensive
+  picture of the balance and strength implications of reduced support
+  standing exercises.
+
+* Understanding my own progress trajectory. The current exercise list
+  table gives the start date and current threshold or duration range,
+  but does not connect the general theory with my progress rates
+  across individual exercises.
+
+* Going deeper into the biomechanics, biophysics, anatomy, and
+  physiology, including mapping support patterns to the load on
+  various leg muscles, and how that connects to the balance and
+  strength implications and progress trajectory.
+
+* Linking with potential forthcoming documents such as the planned
+  document on reduced support forward movement exercises.
+
+There are a few main reasons for deferring these, beyond just being
+squeezed on time:
+
+* I don't expect what I write in these sections to meaningfully affect
+  my reduced support standing exercise practice for the next several
+  months; I already have enough to chew on and try. I expect this to
+  have more impact in the longer term either as I age or as I hit
+  performance ceilings and plateau with the current set of
+  exercises. Neither of these seems to be an imminent consideration
+  for at least the next 6 to 12 months.
+
+* I expect that the more I learn (both in terms of data on my own
+  progress and general health learning), the better I will be able to
+  flesh these out. Fleshing them out prematurely may mean wasted
+  rewrite effort as my mental model improves.
 
 ## Goals and functional relevance of exercises
 
