@@ -1,6 +1,6 @@
 # Health profile
 
-Last major update: October 18, 2026 (2026-10-18)
+Last major update: October 28, 2026 (2026-10-28)
 
 NOTE (2025-09-22, updated 2026-05-25): I got [blood tests done on
 September 10, 2025](../events/2025/2025-09-10-blood-tests.md). I got
@@ -308,7 +308,7 @@ highlights:
 
 ## Dental status
 
-Last substantive section update: October 18, 2026 (2026-10-18)
+Last substantive section update: October 28, 2026 (2026-10-28)
 
 ### Dental hygiene practices
 
@@ -398,8 +398,10 @@ toothpaste is unavailable.
 ##### Sequencing within brushing
 
 When brushing, I cover all tooth surfaces (up to and going slightly
-beyond the tooth-gum interface) with several strokes. I use this
-sequence:
+beyond the tooth-gum interface) with several strokes. I generally use
+this sequence, although I might in some cases do things a bit out of
+order. I might spit out toothpaste at various points in between if the
+froth and foam is getting in the way of brushing.
 
 * I start with the lingual (inner) tooth surfaces, generally doing
   maxillary before mandibular.
@@ -413,6 +415,13 @@ sequence:
   mandibular incisors, making sure to cover them from several angles,
   given their propensity for soft plaque accumulation.
 
+* I then do a quick round of the occlusal and incisal surfaces (the
+  surfaces for chewing and biting respectively, i.e., the surfaces of
+  the maxillary and mandibular teeth facing each other, and that trap
+  the food from above and below respectively when eating). The brush
+  is pointing downward (inferior) for the mandibular surfaces and
+  upward (superior) for the maxillary surfaces.
+
 * I then return to the lingual surfaces for another round.
 
 * I then brush my tongue, then lightly cover the gumline (both lingual
@@ -421,6 +430,15 @@ sequence:
   here is not a thorough cleaning the way it is for tooth surfaces,
   but rather, some mix of providing a bit of mechanical action and
   probing to get a sense of any unusual phenomena in the mouth.
+
+* I finally do a partial rinse. The goal of the rinse is not to rinse
+  out all toothpaste, as some of the benefit of the toothpaste comes
+  from it staying in the mouth. Rather, it is to bring it down to a
+  level where there isn't frothing and foaming, and a subsequent
+  swallow would not ingest much toothpaste. The rinse involves a few
+  quick spits and then taking in a bit of water from my cupped hand
+  and spitting it out immediately. it does not involve extensive
+  swirling of water in the mouth.
 
 ##### Baking soda toothpaste
 
@@ -496,10 +514,15 @@ more frequently:
 
 #### Interspersed timeline of dental hygiene practice changes, periodic check structure changes, dental cleanings, dental procedures, and other milestones
 
-TODO 2026-10-18: This table is still under construction.
+TODO 2026-10-28: This table is still under construction. In
+particular, the events after 2023-09-27 and before 2026-03-26 are
+currently missing, including several dental cleanings and introduction
+and refinement of the dental self-exam checklist. I expect to work on
+fleshing out the table further gradually.
 
 Date | Event type | Document link (if applicable) | Details
 -- | -- | -- | --
+2017-11-18 | Dentist visit (in India) | [link](../events/2017/2017-11-18-dentist-trip-in-india.md) | This was a periodic visit. While several dental issues were hinted at by the pain in the cleaning process, the lack of long-term relationship potential (I was visiting India and heading back) probably led to the doctor not investing enough effort in highlighting the importance of dental practices. This was somewhat of a missed opportunity for course correction.
 2019-01-08 | Dentist visit for toothache diagnosis | [link](../events/2019/2019-01-08-dentist-visit.md) | This was a visit to the dentist to diagnose a toothache that was part of a broader head/neck/jaw/tooth pain encountered in December 2018; see [here](../events/2018/2018-12-head-neck-jaw-tooth-pain.md). I did not follow up on the deep cleaning recommendation until mid-2021, though it did lead me to stop consuming sugary hot chocolate, which was probably the most acute aggravator at the time.
 2021-08-11 | Dental cleaning | [link](../events/2021/2021-08-11-dental-cleaning-trip.md) | This was scheduled as a regular dental cleaning and exam, but the fact that they recommended deep cleaning again (despite my stopping of hot chocolate consumption and occasional interdental brush use) led me to decide to proceed to book followup appointments for that.
 2021-08-11 | Practice change (flossing) | N/A | I started regular daily interdental brush flossing after the 2021-08-11 dental cleaning appointment.
@@ -516,6 +539,12 @@ Date | Event type | Document link (if applicable) | Details
 2023-09-22 | Gum area pain | [link](../events/2023/2023-09-22-upper-right-wisdom-tooth-gum-area-pain.md) | Pain in the gum area for tooth 1 (maxillary right wisdom tooth) that had been removed a month ago.
 2023-09-27 | Dental cleaning | [link](../events/2023/2023-09-27-dental-cleaning.md) | Dental cleaning that was delayed from the usual 6-month cadence to make room for the wisdom tooth removal. Healing was confirmed to be fine for the wisdom tooth removal, and the gum area pain was deemed to be just normal inflammation rather than being tied to the wisdom tooth healing. This was also the first time that recession risk was flagged, and based on the recommendation, I switched to consistently using soft toothbrushes.
 2023-09-27 | Practice change (brushing) | N/A (mentioned briefly at [link](../events/2023/2023-09-27-dental-cleaning.md#purchase-of-soft-toothbrushes)) | From this point onward, I began to consistently use soft toothbrushes to reduce further recession. Previously, I had not been particular about the toothbrush, so I had been more or less randomly switching around between soft and medium toothbrushes.
+[missing events in between] | | |
+2026-03-26 | Practice change (swirling) | N/A (mentioned briefly at [link](../logs/dental-self-exam-checklist-log.md#2026-03-26)) | The 2026-03-26 dental self-exam checklist execution surfaced that I had not been systematically following the practice (that I had decided on with the 2025-10-22 dental cleaning) of swirling water in my mouth shortly after each meal. I decided to formally start the practice and also to log it in Slack self-chat logs with `fswim` (finished swirling water in mouth) which would both serve as a reminder and allow me to audit adherence.
+2026-05-01 | Dental cleaning | [link](../events/2026/2026-05-01-dental-cleaning.md) | Dental cleaning at regular 6-month frequency; some issues, like soft plaque accumulation on specific surfaces including the facial mandibular incisors, were flagged, but overall the dental status was decent. This was also the appointment where my mouth lesion was classified as a mucocele by the hygienist rather than a mouth ulcer as I had been tentatively assuming.
+2026-05-19 | Practice change (swirling) (recording-only) | N/A (mentioned briefly at [link](../events/2026/2026-05-01-dental-cleaning.md#protocol-and-timing-improvements-to-regular-dental-hygiene)) | I began recording the duration for which I swirled water in mouth shortly after my meal, with a reference duration of 30 seconds. This was both for information purposes and to make sure I was swirling water for enough time.
+2026-10-18 | Documentation catch-up | N/A | I made several small updates to the documentation of my dental routine in the health profile document. Most of these were updates to time ranges (how long after meals I brush and floss). One change that affects practice as well is an increase in the swirling duration range from an original value of about 30 seconds to a new range of 50 to 80 seconds. This both reflects recent practice and sets guidance for future practice.
+2026-10-26 | Practice change (brushing) | N/A | On 2026-10-19, I watched a couple of brushing videos and noticed that it mentioned brushing the occlusal and incisal surfaces. Prior to this, my brushing focus had been on facial and lingual surfaces, and occlusal and incisal surfaces only got covered as a side-effect. In the days after the video, I began experimenting with doing a quick round of the occlusal and incisal surfaces. I made the practice formal on 2026-10-26 and updated the documentation on 2026-10-28.
 
 ## Eye status
 
