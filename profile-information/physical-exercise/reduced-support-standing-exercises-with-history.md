@@ -6,7 +6,7 @@ more details.
 
 Reduced support standing exercises are standing exercises that involve
 less support than both legs flat on the ground, and also require
-staying within the given suppot pattern for the duration of the
+staying within the given support pattern for the duration of the
 exercise. The proximal goal during the exercise is to maximize the
 duration.
 
@@ -46,8 +46,18 @@ Strength is improved because reduced support configurations channel
 the body weight over a smaller support area (maybe one leg instead of
 two, or just the toes or heels instead of the whole foot).
 
-The specific muscles involved depend on what part of the foot is in
-contact with the ground.
+Strength is also improved as a result of the specific bursts of
+strength needed when reacting to a loss of balance. The amount of
+strength needed depends on the extent of balance loss and how I react
+to it. This is bursty, brief use of high strength, whereas maintenance
+of stable configuration is about enduring for long duration at a
+somewhat lower strength level.
+
+The specific leg muscles involved depend on what part of the foot is
+in contact with the ground (the muscles are not just the muscles at
+the point of contact, but muscles of the heel and leg, but there's a
+mapping between what part of the foot is in contact and what leg
+muscles are most involved).
 
 ### The interplay between balance and strength
 
@@ -90,7 +100,8 @@ The following are some typical patterns:
 * Bilateral symmetric: Both legs are using the same support pattern.
 
 * Unilateral: I'm standing on just one leg using the specified support
-  pattern, with the other leg in the air (usually golded).
+  pattern, with the other leg in the air (usually folded with the knee
+  anterior to me of me and the foot within my coronal plane).
 
 * Bilateral asymmetric (not yet explored): I'm using a different
   support pattern for each leg.
