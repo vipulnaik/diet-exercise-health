@@ -23,13 +23,11 @@ contact.
 
 ### Build to / maintain consistent standing-on-toes-with-eyes-open with shoes on for about 3 minutes
 
-About 3 minutes on toes is reasonable. My first attempt was 208
-seconds, which is already above the threshold, so if that wasn't a
-fluke, then maintaining should be good enough.
+About 3 minutes on toes is reasonable. My second attempt on 2025-12-28
+was 208 seconds, which is already above the threshold, so if that
+wasn't a fluke, then maintaining should be good enough.
 
 ## History
 
-My first recorded execution was on 2025-12-28 in the laundry room
-while waiting for the dryer. It was about 208 seconds, estimated (I
-did not have a timer to measure, so I was using my sense of time,
-which is accurate up to about +/- 5%.
+My first recorded execution was on 2025-11-20 in the laundry room
+while waiting for the dryer, at about 120 seconds.
