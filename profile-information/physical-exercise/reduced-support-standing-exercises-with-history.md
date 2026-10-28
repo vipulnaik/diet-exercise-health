@@ -16,6 +16,10 @@ exercise in the balance exercise cycle is a reduced support standing
 exercise, and not every reduced support standing exercise is in the
 balance exercise cycle.
 
+[Jump directly to the exercise list](#exercise-list) (this uses some
+jargon that is best understood by reading the document up to the
+point, but can be approximately understood even without that).
+
 ## Goals and functional relevance of exercises
 
 To a first approximation, reduced support standing exercises help
@@ -500,10 +504,18 @@ hand before the left hand.
 
 This is a list of exercises with start dates included.
 
-Exercise | Support pattern | Legs | Eyes | Shoes | Start date | Retry policy | Threshold or duration range (seconds)
--- | -- | -- | -- | -- | -- | -- | --
-[one-leg eyes-closed](standing-on-one-leg-with-eyes-closed-with-history.md) | full foot | unilateral | closed | no | 2021-11 (approx) | rigid threshold | 115
-[one-leg eyes-open](standing-on-one-leg-with-eyes-open-with-history.md) | full foot | unilateral | open | no | 2021-11 (approx) | no retry | 360
-[toes eyes-closed](standing-on-toes-with-eyes-closed-with-history.md) | toes | bilateral symmetric | closed | no | 2024-09-09 | rigid threshold | 170
-[toes eyes-open](standing-on-toes-with-eyes-open-with-history.md) | toes | bilateral symmetric | open | no | 2025-02-18 | no retry | 300
-[one-leg toes eyes-open](standing-on-one-leg-toes-with-eyes-open-with-history.md) | toes | unilateral | open | no | 2025-06-22 | fuzzy budget | 25
+Exercise | Support pattern | Legs | Eyes | Shoes | Start date | Retry policy | Threshold or duration range (seconds) | Goal duration range (seconds)
+-- | -- | -- | -- | -- | -- | -- | -- | --
+[one-leg eyes-closed](standing-on-one-leg-with-eyes-closed-with-history.md) | full foot | unilateral | closed | no | 2021-11 (approx) | rigid threshold | 115 | achieved
+[one-leg eyes-open](standing-on-one-leg-with-eyes-open-with-history.md) | full foot | unilateral | open | no | 2021-11 (approx) | no retry | 360+ | achieved
+[toes eyes-closed](standing-on-toes-with-eyes-closed-with-history.md) | toes | bilateral symmetric | closed | no | 2024-09-09 | rigid threshold | 170 | achieved
+[toes eyes-open](standing-on-toes-with-eyes-open-with-history.md) | toes | bilateral symmetric | open | no | 2025-02-18 | no retry | 300+ | achieved
+[heels eyes-open](standing-on-heels-with-eyes-open-with-history.md) | heels | bilateral symmetric | open | no | 2025-06-20 | fuzzy budget | 8
+[one-leg toes eyes-open](standing-on-one-leg-toes-with-eyes-open-with-history.md) | toes | unilateral | open | no | 2025-06-22 | fuzzy budget | 25 | 45
+[one-leg eyes-closed shoes](standing-on-one-leg-with-eyes-closed-with-shoes-with-history.md) | full foot | unilateral | closed | yes | 2025-10-20 | fuzzy budget | 5 to 20 (on slightly uneven surfaces waiting for traffic lights) | 30
+[one-leg eyes-open shoes](standing-on-one-leg-with-eyes-open-with-shoes-with-history.md) | full foot | unilateral | open | yes | 2025-11-18 | no retry | 120+ (on flat indoor surfaces) | achieved
+[toes eyes-open shoes](standing-on-toes-with-eyes-open-with-shoes-with-history.md) | toes | bilateral symmetric | open | yes | 2025-11-20 | no retry | 180+ (on flat indoor surfaces) | achieved
+[toes eyes-closed shoes](standing-on-toes-with-eyes-closed-with-shoes-with-history.md) | toes | bilateral symmetric | closed | yes | 2025-12-29 | fuzzy budget | 15 (first attempt; on slightly uneven surfaces waiting for traffic lights) | TBD
+[one-leg toes eyes-closed](standing-on-one-leg-toes-with-eyes-closed-with-history.md) | toes | unilateral | closed | no | 2026-01-16 | fuzzy budget | 7 (aspirational threshold, actually achieved range about 4 to 5) | 15
+[heels eyes-open toe support](standing-on-heels-with-eyes-open-with-toe-support-with-history.md) | heels with toe support | bilateral symmetric | open | no | 2026-03-24 | no retry | 180 to 210 | TBD
+[heels eyes-closed toe support](standing-on-heels-with-eyes-closed-with-toe-support-with-history.md) | heels with toe support | bilateral symmetric | closed | no | 2026-09-19 | no retry | 70 (first attempt) | TBD

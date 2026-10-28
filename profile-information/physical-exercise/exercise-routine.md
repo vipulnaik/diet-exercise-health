@@ -31,13 +31,7 @@ Sections of this document:
 * [Jogging and return walking](#jogging-and-return-walking)
 * [Weight-lifting exercises](#weight-lifting-exercises)
 * [Push-ups](#push-ups)
-* [Standing-on-one-leg-with-eyes-closed exercise](#standing-on-one-leg-with-eyes-closed-exercise)
-* [Standing-on-one-leg-with-eyes-open exercise](#standing-on-one-leg-with-eyes-open-exercise)
-* [Standing-on-toes-with-eyes-closed exercise](#standing-on-toes-with-eyes-closed-exercise)
-* [Standing-on-toes-with-eyes-open exercise](#standing-on-toes-with-eyes-open-exercise)
-* [Standing-on-one-leg-toes-with-eyes-open exercise](#standing-on-one-leg-toes-with-eyes-open-exercise)
-* [Standing-on-one-leg-toes-with-eyes-closed exercise](#standing-on-one-leg-toes-with-eyes-closed-exercise)
-* [Standing-on-heels-with-eyes-open exercise](#standing-on-heels-with-eyes-open-exercise)
+* [Reduced support standing exercises](#reduced-support-standing-exercises)
 * [Dorsiflexion and plantar flexion exercises](#dorsiflexion-and-plantar-flexion-exercises)
 * [Hopping](#hopping)
 * [Hand gripper exercises](#hand-gripper-exercises)
@@ -196,8 +190,8 @@ push-ups over time. See [here](push-ups-with-history.md) for details.
 
 Goal of exercises: mostly maintain, with build for a few
 
-This covers a range of exercises. The full list is documented
-[here](reduced-support-standing-exercises-with-history.md).
+This covers a range of exercises. The exercise list is
+[here](reduced-support-standing-exercises-with-history.md#exercise-list).
 
 ## Dorsiflexion and plantar flexion exercises
 
