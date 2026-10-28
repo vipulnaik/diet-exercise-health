@@ -58,9 +58,9 @@ seconds) and 27 seconds on the left leg (on the first try)
 
 #### Settings 2025-06-22 to 2025-07-04
 
-I started doing this exercise on Friday 2025-06-20, generally as a
-followup to [standing on one leg with eyes
-closed](standing-on-one-leg-with-eyes-closed-with-history.md). The
+I started doing this exercise on Sunday 2025-06-22, generally as a
+followup to [standing on toes with eyes
+closed](standing-on-toes-with-eyes-closed-with-history.md). The
 stipulations regarding the conditions under which to do the
 standing-on-one-leg-with-eyes-closed exercise apply to this exercise
 as well.

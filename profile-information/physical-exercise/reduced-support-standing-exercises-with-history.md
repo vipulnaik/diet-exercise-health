@@ -283,7 +283,7 @@ categories:
   which shoelaces are being tied) raised.
 
 All the above kinds of exercises differ from our reduced support
-standing exercise in that their goal is to accomplish a particular
+standing exercises in that their goal is to accomplish a particular
 movement. Our reduced support standing exercises have as their goal
 the avoidance of movement, and failing such avoidance, the
 counteracting of movement by compensatory movement and muscle
@@ -307,3 +307,203 @@ the feet. This excludes a bunch of other exercises:
   position. This means that only part (and a variable part) of body
   weight is supported via the feet, and there is no forced balance or
   strength requirement imposed on the foot contact pattern.
+
+## Protocol parameters
+
+### Threshold durations and retry logic
+
+Some reduced support standing exercises are simply observational: I
+execute them and record the duration, and my document for the exercise
+gives the expected duration range. Failure to achieve a duration in
+the expected range does not lead me to retry the exercise.
+
+Other reduced support standing exercises have retry logic. I currently
+follow two kinds of retry logic, with the selection dependent on the
+exercise:
+
+* Rigid threshold-based retry: I retry until I achieve a threshold or
+  hit a maximum number of attempts, with the threshold needed itself
+  potentially reducing with each retry, taking into account fatige. I
+  do with for [one-leg
+  eyes-closed](standing-on-one-leg-with-eyes-closed-with-history.md)
+  and [toes
+  eyes-closed](standing-on-toes-with-eyes-closed-with-history.md).
+
+* Fuzzy budget-based retry: Try a few times, and record the top one or
+  two, with no fixed number of attempts but an approximate total time
+  budget, and the option of stopping at fewer attempts if I clear the
+  expected duration range early on. This is a slightly more informal
+  version of the retry logic. I do this for the [one-leg toes
+  eyes-closed](standing-on-one-leg-toes-with-eyes-closed-with-history.md)
+  exercise.
+
+#### The two potential benefits of duration ranges and retries
+
+Having known duration ranges that I am targeting, either just through
+informal knowledge or through partial enforcement via retries, can
+have two effects.
+
+* Late stage effort: When I am past the honeymoon period in a given
+  balance exercise and have had some losses of balance, the effort
+  needed to maintain balance increases, and that's also the time
+  period where the return per unit time is higher, because I'm
+  training under fatigue with greater strength and balance
+  requirements. This is the same idea as the strength exercise "train
+  a few reps short of failure" except that failure here is loss of
+  support pattern rather than the muscles giving way.
+
+  What a duration range or threshold does is give me motivation to
+  push through that late stage more than I otherwise would.
+
+  With a rigid threshold-based retry, the incentive is more concrete
+  and stronger: pushing through a few more seconds to get past the
+  threshold will save me a retry, which could be several more seconds
+  or minutes on the exercise. This effect is further compounded in
+  eyes-closed exercises by my not knowing exactly how much time has
+  passed, which means that I am incentivized to push until I am past
+  the threshold with enough margin to account for the lack of exact
+  measurement because my eyes are closed.
+
+* Retries themselves: On the days that I fail to hit the threshold on
+  the first try, I am often more fatigued or less on top of things to
+  begin with, so I'm already training under slightly adverse
+  conditions. Add on to that the fatigue from the first
+  try. Therefore, retries tend to be under more adverse conditions,
+  which often means that they are providing more training per unit
+  time. However, doing the exercise with too much fatigue, or setting
+  unusually high thresholds, can be a risk in and of itself. The
+  choice of attempt-specific thresholds has to balance that
+  consideration.
+
+  This retry benefit only incurs for exercises where I have a retry
+  policy, and it incurs much more cleanly and definitively for
+  exercises with rigid threshold-based retry rather than fuzzy
+  budget-based retry.
+
+#### Principles governing retry policy by exercise
+
+For exercises that are primarily bottlenecked on strength, and
+generally last 2 minutes or more per attempt, retries don't make
+sense. This is for several reasons:
+
+* The primary reason is that failure happens through
+  fatigue/exhaustion rather than loss of balance, and this
+  fatigue/exhaustion carries over to the next attempt, making it
+  effectively much shorter. For instance, if I typically go over 5
+  minutes, but I end up just doing 4 minutes 50 seconds in the first
+  attempt, a retry is very unlikely to get me all the way to 5 minutes
+  or even somewhere remotely close; the retry will probably flame out
+  in a minute or two. So, the retry just isn't feasible.
+
+* A secondary reason is that the motivational role in late stage
+  effort is more muted. While some willpower is needed to keep pushing
+  through, it's a less nuanced "keep going". In contrast,
+  balance-bottlenecked exercises seem to involve more sophisticated
+  self-talk of the form "I'm willing to get in an awkward and unstable
+  configuration for another 5 to 10 seconds so that I cross the
+  threshold" and the specific threshold and how far I am from it (as
+  judged approximately with eyes closed) can influence that self-talk.
+
+For exercises that are bottlenecked on both strength and balance
+without being heavily skewed to oen side, and generally last somewhere
+between 30 seconds and 4 minutes per attempt, the rigid
+threshold-based retry approach makes sense. The balance piece is the
+one that's most responsive to training under fatigue, including late
+stage effort and retries. At the same time, the durations are long
+enough and non-random enough that rigid thresholds do make sense to
+aim toward.
+
+For balance-bottlenecked exercises with 10-40% honeymoon period
+duration, and where each attempt is generally under a minute, the
+fuzzy budget-based retry, with duration ranges for reference, makes
+most sense. Since each attempt is short, packing several attempts
+within a time budget is feasible. Also, given the inherent instability
+of the exercise and the short honeymoon period, attempts can vary
+widely in duration, and rigid thresholds can become impossible to
+achieve on some days if the first few attempts went poorly, leading to
+exhaustion without hitting the goal.
+
+### Temperature and warmup
+
+Temperature and warmup (prior movement and activity of muscles) can
+play a role in the durations achieved with various exercises. Here are
+a few general observations:
+
+* More balance-bottlenecked exercises tend to be more sensitive to
+  temperature and warmup than more strength-bottlenecked exercises.
+
+* Generally speaking, temperatures below 20 degrees Celsius (68
+  degrees Fahrenheit) are ones where I start facing a mild performance
+  penalty for the more balance-bottlenecked exercises. To a first
+  approximation, the penalty varies linearly with temperature, though
+  the real picture is more complicated.
+
+* Moderate warmup, such as walking or light jogging, well below the
+  point of exhaustion, improves performance on exercises, with the
+  improvement stronger on more balance-bottlenecked exercises.
+
+#### Choice of when and where to do exercises (currently not influenced by temperature or warmup)
+
+As of 2026, the vast majority of reduced support standing exercises
+that I do regularly are part of the [balance exercise
+cycle](balance-exercise-cycle-with-history.md) (as either cycle
+exercises or occasional exercises). This is during interludes in rice
+prep while the water is filtering. It's almost always without any
+prior warmup, and the timing is not selected based on
+temperature. Some other reduced support standing exercises that
+require shoes are done opportunistically while outdoors, and these two
+do not involve temperature control or any warmup beyond walking.
+
+However, historically, early on in my execution of [one-leg
+eyes-closed
+exercises](standing-on-one-leg-toes-with-eyes-closed-with-history.md),
+I would execute them both before and after jogging. On cold days, I
+would often fail to hit thresholds before jogging but hit them
+consistently after jogging, which speaks to the role of both
+temperature and warmup.
+
+#### Threshold selection (currently influenced by temperature for some exercises, no explicit warmup term)
+
+The [one-leg eyes-closed
+exercises](standing-on-one-leg-toes-with-eyes-closed-with-history.md),
+which is relatively more balance-bottlenecked and hence
+temperature-sensitive, has temperature-based adjustment to its
+threshold. In contrast, the [toes eyes-closed
+exercise](standing-on-toes-with-eyes-closed-with-history.md) does not
+have temperature-based adjustment.
+
+### Leg comparison and sequencing
+
+For unilateral exercises as well as bilateral asymmetric exercises,
+the duration ranges (and thresholds if applicable) could in principle
+vary by leg. I do think there are slight qualitative differences
+between the legs. However, in practice, these differences are small
+compared to the randomness in attempts, and for simplicity, I have
+kept all details of the protocol, duration ranges, and thresholds
+symmetric between the legs.
+
+The one exercise where the difference is most palpable is the [one-leg
+eyes-open
+exercise](standing-on-one-leg-with-eyes-closed-with-history.md), where
+the right leg generally performs about 30 to 60 seconds better than
+the left leg. This suggests that the leg difference is highest on
+strength-bottlenecked exercises and much weaker (and even hard to put
+a direction on) on balance-bottlenecked exercises.
+
+The only sequencing note worth adding is that for unilateral
+exercises, I do the right leg before the left leg. This is consistent
+with my [hand gripper
+exercises](hand-gripper-exercises-with-history.md) of doing the right
+hand before the left hand.
+
+## Exercise list
+
+This is a list of exercises with start dates included.
+
+Exercise | Support pattern | Legs | Eyes | Shoes | Start date | Retry policy | Threshold or duration range (seconds)
+-- | -- | -- | -- | -- | -- | -- | --
+[one-leg eyes-closed](standing-on-one-leg-with-eyes-closed-with-history.md) | full foot | unilateral | closed | no | 2021-11 (approx) | rigid threshold | 115
+[one-leg eyes-open](standing-on-one-leg-with-eyes-open-with-history.md) | full foot | unilateral | open | no | 2021-11 (approx) | no retry | 360
+[toes eyes-closed](standing-on-toes-with-eyes-closed-with-history.md) | toes | bilateral symmetric | closed | no | 2024-09-09 | rigid threshold | 170
+[toes eyes-open](standing-on-toes-with-eyes-open-with-history.md) | toes | bilateral symmetric | open | no | 2025-02-18 | no retry | 300
+[one-leg toes eyes-open](standing-on-one-leg-toes-with-eyes-open-with-history.md) | toes | unilateral | open | no | 2025-06-22 | fuzzy budget | 25
