@@ -1187,3 +1187,10 @@ after I closed the update session.
 On Monday 2026-10-26, I skipped all exercises in order to fit in
 potatoes prep and rice prep in the day while also getting through a
 few day job items in the early afternoon.
+
+## 2026-10-27: skipped jogging and strength exercises
+
+On Tuesday 2026-10-27, I skipped jogging and strength exercises as I
+spent a lot of time in the afternoon working on day job stuff, and I
+didn't want to delay meal consumption too much (as had been happening
+for the past few days).
