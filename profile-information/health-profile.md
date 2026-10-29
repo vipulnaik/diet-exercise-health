@@ -621,7 +621,7 @@ Date | Event type | Document link (if applicable) | Details
 
 * I execute the [hearing
   checklist](../checklists/hearing-checklist.md) aspirationally every
-  2 months, with different parts that I cycle between, so each part
+  3 months, with different parts that I cycle between, so each part
   gets done at least once every 6 months. The execution log is
   [here](../logs/hearing-checklist-log.md). I also try to do quick
   tests of parts of the hearing checklist more frequently, for
