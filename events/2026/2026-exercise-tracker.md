@@ -1194,3 +1194,10 @@ On Tuesday 2026-10-27, I skipped jogging and strength exercises as I
 spent a lot of time in the afternoon working on day job stuff, and I
 didn't want to delay meal consumption too much (as had been happening
 for the past few days).
+
+## 2026-10-29: skipped all exercises
+
+On Thursday 2026-10-29, I skipped all exercises. This was due to a
+bunch of day job stuff in the morning and early afternoon (a meeting
+followed by some time-sensitive investigations) and plans for various
+personal chores later in the day.
