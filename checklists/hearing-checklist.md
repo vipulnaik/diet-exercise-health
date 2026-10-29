@@ -11,6 +11,12 @@ construction, and was also a key input to the parking lot section.
 
 ### Quick minimum audible volume and balance tests
 
+Current automated checking with Slack self-chat logs: I verify that I
+do at least 2 executions each of minimum audible volume and balance
+tests over the trailing 30-day period as of each sync. This is the
+total across over-ear headphones and bone conduction headphones and
+does not distinguish between them.
+
 For these pieces, I log in my Slack self-chat logs when I execute. I
 don't formally follow the checklist; I just do them whenever I happen
 to already be listening to the song in question and have a minute to
@@ -49,8 +55,12 @@ END OF SECTION: Quick minimum audible volume and balance tests
 
 ### Quick max frequency hearing test (intended only for over-ear headphones)
 
-This is the part of the long max frequency hearing test that is
-focused only on confirming that I can still hear till 20000 Hz.
+Current automated checking with Slack self-chat logs: I verify that I
+do at least 1 execution over the trailing 30-day period as of each
+sync.
+
+This quick test is focused only on confirming that I can still hear
+till 20000 Hz.
 
 Play https://www.youtube.com/watch?v=zUmbmssqHOY starting around 1:40
 to 1:50 (20 to 10 seconds prior to the end), listen to it with my eyes
@@ -70,9 +80,12 @@ END OF SECTION: Quick max frequency hearing test
 
 ### Quick tonal loss point test (intended only for over-ear headphones)
 
-This is a part of the long max frequency hearing test that is focused
-only on confirming that I can my tonal loss point is at or above 13000
-Hz.
+Current automated checking with Slack self-chat logs: I verify that I
+do at least 1 execution over the trailing 30-day period as of each
+sync.
+
+This quick test is focused only on confirming that I can my tonal loss
+point is at or above 13000 Hz.
 
 Play https://www.youtube.com/watch?v=zUmbmssqHOY starting 1:28 and
 make sure I can hear clear tonality in both left and right ear for a
@@ -122,6 +135,10 @@ accumulation, but more data is needed.
 END OF SECTION: Followup high-frequency balance disruption check
 
 ### Quick auditory reaction time test (intended only for over-ear headphones)
+
+Current automated checking with Slack self-chat logs: I verify that I
+do at least 1 execution over the trailing 21-day period as of each
+sync.
 
 Test to play: https://playback.fm/audio-reaction-time
 
@@ -208,94 +225,7 @@ https://www.resound.com/en-us/online-hearing-test
 
 END OF SECTION: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
 
-#### (2) Max frequency hearing test
-
-Do a max frequency hearing test using
-https://www.youtube.com/watch?v=zUmbmssqHOY
-
-This is a fuller version of the quick max frequency hearing test. It
-differs from the quick version in the following respects:
-
-* We start from the beginning frequencies so we get a clearer picture
-  of how the minimum audible volume changes with frequency.
-
-* We also record the point at which musical tonality is lost, which
-  tends to be way below the point at which the sound becomes inaudible
-  (current estimate of loss of musical tonality is about 13500 Hz at
-  max volume, whereas the sound stays audible to me right till the
-  end).
-
-over-ear headphones, left ear only:
-
-- [ ] Over-ear headphones, start the video, setting volume to half the max and balance to all on left ear
-- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
-- [ ] Estimate the point at which I lose all sense of musical tone
-  - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
-  - Pause the video if it is still playing
-  - Frequency estimate: ??
-- [ ] Reposition fingers, resume play, and close eyes, to now estimate the point at which I cannot hear anything at all
-  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
-  - Pause video if it is still playing (only *after* opening eyes)
-  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
-  - Final frequency estimate: ???
-
-over-ear headphones, right ear only:
-
-- [ ] Over-ear headphones, start the video, setting volume to half the max and balance to all on right ear
-- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
-- [ ] Estimate the point at which I lose all sense of musical tone
-  - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
-  - Pause the video if it is still playing
-  - Frequency estimate: ??
-- [ ] Reposition fingers, resume play, and close eyes, to now estimate the point at which I cannot hear anything at all
-  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
-  - Pause video if it is still playing (only *after* opening eyes)
-  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
-  - Final frequency estimate: ???
-
-Wrap up over-ear headphones:
-
-- [ ] Remember to set volume back to low and balance to neutral
-
-Bone conduction headphones, left ear:
-
-- [ ] Bone conduction headphones, start the video, setting volume to half the max and balance to all on left ear
-- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
-- [ ] Estimate the point at which I lose all sense of musical tone
-  - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
-  - Pause the video if it is still playing
-  - Frequency estimate: ??
-- [ ] Reposition fingers, resume play, and close eyes, to now estimate the point at which I cannot hear anything at all
-  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
-  - Pause video if it is still playing (only *after* opening eyes)
-  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
-  - Final frequency estimate: ???
-
-Bone conduction headphones, right ear:
-
-- [ ] Bone conduction headphones, start the video, setting volume to half the max and balance to all on right ear
-- [ ] Right before the GO point, put finger on space bar and fingers of right hand on volume controls, close eyes, and hit space bar; keep increasing volume as needed as the sound gets fainter and fainter
-- [ ] Estimate the point at which I lose all sense of musical tone
-  - Open eyes once I can no longer sense musical tone (and it just sounds like noise) even at max volume
-  - Pause the video if it is still playing
-  - Frequency estimate: ??
-- [ ] Reposition fingers, resume play, and close eyes, to now estimate the point at which I cannot hear anything at all
-  - IMPORTANT NOTE: Only open eyes when I definitely feel like I can't hear sound; if I feel a bit in doubt, keep eyes closed.
-  - Pause video if it is still playing (only *after* opening eyes)
-  - If video stopped, do I see the next video recommendations populate right as I open my eyes? That's confirmation that I stopped hearing the sound right when it finished playing. If they are already populated, that might mean that I was hearing phantom noises after the video stopped.
-  - If I paused the video before getting to 20 kHz, do play/pause testing to see if I can hear a clear play/pause difference, and use that to refine my estimate of max frequency
-  - Final frequency estimate: ???
-
-Wrap up bone conduction headphones:
-
-- [ ] Remember to set volume back to low so that I don't get a blast in my ears the next time I play using the headphones
-
-END OF SECTION: (2) Max frequency hearing test
-
-#### (3) Speech in noise test
+#### (2) Speech in noise test
 
 Run through and report results of
 https://www.medel.com/en-us/about-hearing/hearing-test/speech-in-noise
@@ -309,7 +239,7 @@ Adjust volume through the test for what lets me hear best.
 - [ ] Bone conduction headphones, right ear (okay to press against skin)
 - [ ] Bone conduction headphones, balanced (okay to press against skin)
 
-END OF SECTION: (3) Speech in noise test
+END OF SECTION: (2) Speech in noise test
 
 ## Parking lot: potential tests that did not make it to the regular checklist
 

@@ -155,6 +155,13 @@ around midnight).
 
 ### Advanced portion: (3) Speech in noise test
 
+RETROSPECTIVE NOTE 2026-10-28: At the time of execution, I had three
+cycling items and the speech in noise test was numbered (3). On
+2026-10-28, I removed cycling item (2) because I felt the quick
+versions of the test did an adequate job, so the number going forward
+for speech in noise is (2). I am not retrospectively editing this
+subsection beyond the note in the current paragraph.
+
 I am only doing (3) this time as I did (1) and (2) last time (I didn't
 have the full subdivision into (1), (2), and (3) at the time of last
 execution; I did the subdivision right after the execution. But the
