@@ -156,6 +156,14 @@ concerning and might call for a replay.
 
 ## More advanced portion of test with formal recording, that I should do formally at the periodic interval
 
+My target execution frequency for this more advanced portion is once
+every 3 months. However, my overall design is expected to be robust to
+an execution frequency of once every 6 months or so, keeping in mind
+that such executions would require me to do both of the items in the
+cycling portion. The audit portion itself is somewhat redundant with
+automated Slack self-chat logs checks, so doing it just once every 6
+months is fine (though once every 3 months is ideal).
+
 ### Audit portion
 
 This portion is an audit of the quick tests and my regular sound habits.
@@ -191,12 +199,10 @@ issue or suspected issue.
 
 By default, I should cycle between these test sets at every periodic
 checklist execution. Each test set is expected to take 15 to 30
-minutes. For instance, if I do the checklist every 2 months, and there
-are 3 test sets to cycle between, then I'll effectively do each test
-every 6 months. If I skip a 2-month execution, then at the next
-execution I should cover two test sets to make up. If I skip two or
-more consecutive 2-month executions, I should do all test sets at the
-next execution.
+minutes. For instance, if I do the checklist every 3 months (which is
+the ideal), I'll effectively do each test every 6 months. If I skip a
+3-month execution, then at the next execution I should do both test
+sets.
 
 Remember after each test set to return the volume and balance to
 normal. This is important to avoid getting a "blast" of noise when I
