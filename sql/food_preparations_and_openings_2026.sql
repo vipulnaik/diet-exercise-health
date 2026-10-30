@@ -1200,7 +1200,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-22','Red bell pepper',4,1,'2026-10-26',1), /* extra red bell peppers (purchased in last Trader Joe's trip) to make up for tomato shortfall as tomatoes were not in stock at my last Trader Joe's trip (so I only had the leftovers from the previous trip) */
   ('2026-10-22','Beefsteak tomato',4,1,'2026-10-26',1), /* used up all 4 of old batch; no new batch as tomatoes were not in stock at my last Trader Joe's trip */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-10-22','TJ Miso Ginger Broth',1,1,null,null),
+  ('2026-10-22','TJ Miso Ginger Broth',1,1,'2026-10-29',1),
   ('2026-10-22','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-10-23',1),
   /* 2026-10-22 rice prep (second meal) (added turmeric, cumin, salt) */
   ('2026-10-22','Lundberg Sustainable California White Basmati Rice',1,2,'2026-10-26',1),
@@ -1222,5 +1222,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-26','TJ Walnuts',1,2,null,null),
   ('2026-10-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-10-28',2),
-  ('2026-10-28','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
+  ('2026-10-28','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-10-29',1),
+  ('2026-10-29','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-10-29','TJ Miso Ginger Broth',1,1,null,null);
   /* Double-check the date and meal index before committing */
