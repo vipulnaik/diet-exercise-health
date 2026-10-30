@@ -714,7 +714,10 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-10-25','Roma tomato',6,1), /* actually, two packets of 3 vine tomatoes each, with roma tomato being a reasonable approximation of vine tomato */
   ('2026-10-25','TJ Broccoli Florets 12 oz',1,1),
   ('2026-10-25','TJ Roasted Seaweed',1,1),
-  ('2026-10-25','Gold potatoes 5 lb',0.75,1); /* 6 loose potatoes; by weight this is about 0.75 times a 5 lb pack */
+  ('2026-10-25','Gold potatoes 5 lb',0.75,1), /* 6 loose potatoes; by weight this is about 0.75 times a 5 lb pack */
+  /* 2026-10-29 (Thursday) Berkeley Bowl; total cost $87.48; checkout at 3:54 PM; paid by credit card; 16 items in transaction of which 4 were Seventh Generation dish soap bottles so only 12 food items */
+  ('2026-10-29','Lundberg Sustainable California White Basmati Rice',4,0),
+  ('2026-10-29','Kite Hill Greek Style Plant-Based Yogurt',8,0);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
