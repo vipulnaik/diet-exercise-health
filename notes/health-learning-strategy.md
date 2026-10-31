@@ -1,8 +1,48 @@
 # Health learning strategy
 
-Document written: November 26, 2024
+Document written: November 26, 2024 (2024-11-26)
 
-Document last updated: May 29, 2025
+Document last updated: May 29, 2025 (2025-05-29) (with the exception
+of TODO written 2026-10-30 with a list of things to incorporate in the
+next update when I have more time for it)
+
+TODO ideas from 2026-10-30; remember to flesh out the timeline based
+on history checks when actually writing this up, and obviously also
+incorporate incremental insights as of when I do the writing:
+
+* Mention the many other podcasters I've listened to regularly or
+  semi-regularly (Simon Hill, Lily Johnston, Matt Kaeberlein, Layne
+  Norton) and their relative strengths and weaknesses. I should add
+  these piecemeal into
+  https://github.com/vipulnaik/entertainment-and-self-education/blob/master/sql/ongoing_consumption.sql
+  first (over time) and then integrate the insights in this document.
+
+* Talk about the "saturation" phenomenon and my break / reduced volume
+  in both medical school curriculum education (Ninja Nerd) and afk
+  listening. For the latter, the use of the same time for re-listen
+  rewatches and for Dwarkesh / 80,000 Hours led to more slot
+  competition, a time supply issue versus just a fatigue issue. But
+  there's also fatigue arising from saturation and the backlog of
+  health documentation work meaning I have less "space" in my head to
+  store more concepts.
+
+* Also, talk about the relative saturation of stuff that is more
+  relevant to current normal-circumstance decisionmaking (diet,
+  exercise) and more of the energy going into topics with less direct
+  relevance (cancer, cell biology, experimental drugs and supplements,
+  late stage disease) that feel less immediately relevant and are
+  harder to motivate when I have a huge documentation backlog on the
+  normal circumstance stuff.
+
+* Discuss the role of Claude, both its pluses and why it hasn't been a
+  substitute for these forms of learning.
+
+* Talk about the forced Attia break with back catalog completion and
+  his self-exile after the Epstein stuff; this coincided with the afk
+  listening growth.
+
+* Mention the revised time targets (e.g., Ninja Nerd completion
+  probably now deferred to late 2027).
 
 This document provides the broad contours of the strategy I am using
 to learn about my health. The majority of this health learning is
