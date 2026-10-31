@@ -1126,7 +1126,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-01','TJ Carrots',1,2,'2026-10-08',1),
   ('2026-10-01','Beefsteak tomato',5,2,'2026-10-08',1), /* all 5 from old batch; did not use any of the new batch of 6 tomatoes */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-10-01','TJ Turmeric',1,2,null,null), /* opened with 2026-10-01 eggplant meal prep */
+  ('2026-10-01','TJ Turmeric',1,2,'2026-10-30',1), /* opened with 2026-10-01 eggplant meal prep, finished with 2026-10-30 eggplant meal prep */
   ('2026-10-02','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-10-04',1),
   ('2026-10-03','TJ Sauerkraut',1,1,'2026-10-20',1),
   /* 2026-10-03 rice prep (second meal) (added turmeric, cumin, salt) */
@@ -1207,7 +1207,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-23','TJ Walnuts',1,1,'2026-10-26',2),
   ('2026-10-23','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-10-25',1),
-  ('2026-10-24','TJ Almond Milk',1,1,null,null),
+  ('2026-10-24','TJ Almond Milk',1,1,'2026-10-30',1),
   ('2026-10-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-10-26',2),
   ('2026-10-25','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-10-26',1),
   /* 2026-10-26 potatoes prep (first meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
@@ -1225,5 +1225,15 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-28','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-10-29',1),
   ('2026-10-29','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   ('2026-10-29','TJ Miso Ginger Broth',1,1,null,null),
-  ('2026-10-29','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-10-29','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  /* 2026-10-30 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; cayenne pepper amount less than usual as I ramp down before dental cleaning) */
+  ('2026-10-30','Eggplant',1,1,null,null), /* bigger eggplant than usual */
+  ('2026-10-30','TJ Kale',1,1,null,null),
+  ('2026-10-30','TJ Carrots',1,1,null,null),
+  ('2026-10-30','Green bell pepper',4,1,null,null),
+  ('2026-10-30','Red bell pepper',2,1,null,null),
+  ('2026-10-30','Beefsteak tomato',4,1,null,null), /* used 4 of 8 from new batch (no old batch); 4 remaining from new batch; bigger tomatoes than usual, hence I needed fewer of them to fill the pot */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-10-30','TJ Turmeric',1,1,null,null), /* opened with 2026-10-30 eggplant meal prep */
+  ('2026-10-30','TJ Almond Milk',1,1,null,null);
   /* Double-check the date and meal index before committing */
