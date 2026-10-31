@@ -1201,3 +1201,9 @@ On Thursday 2026-10-29, I skipped all exercises. This was due to a
 bunch of day job stuff in the morning and early afternoon (a meeting
 followed by some time-sensitive investigations) and plans for various
 personal chores later in the day.
+
+## 2026-10-30: skipped all exercises
+
+On Friday 2026-10-30, I skipped all exercises. This was to fit in meal
+prep after some time-sensitive day job stuff while leaving time later
+in the day for a bunch of other tasks.
