@@ -7,8 +7,9 @@ exercises](reduced-support-standing-exercises-with-history.md) with
 parameters: toes as support pattern, unilateral, eyes open, and no
 shoes.
 
-The exercise is carried out with a "fuzzy budget" informed by
-threshold durations, as explained in the reduced support standing
+This exercise is carried out with a fuzzy budget-based retry policy
+informed by threshold durations. The general concept of fuzzy
+budget-based retry policy is explained in the reduced support standing
 exercises document.
 
 My current goal duration for this exercise (that I hope to eventually
@@ -39,20 +40,23 @@ frequency is once every 9 to 15 days.
 
 Date of change | Threshold duration | Threshold duration increase | Number of rounds since last time (exclusive of start date, inclusive of end date) | Increase in seconds per round | Days since last change | Increase in seconds per day
 -- | -- | -- | -- | -- | -- | --
-2025-06-26 (after starting 2025-06-22) | 10 | N/A | ?? | N/A | 4 (since start of exercise) | N/A
+2025-06-26 (after starting 2025-06-22) | 10 | N/A | 2 | N/A | 4 (since start of exercise) | N/A
+2025-11-11 | 20 | 10 |  8 | 1.25 | 138 | 0.07
+2026-01-16 | 25 |  5 |  6 | 0.83 |  66 | 0.08
+2026-10-31 | 30 |  5 | 21 | 0.24 | 288 | 0.02
 
-(table to be completed)
+A few notes not obvious from the table above:
 
-On 2025-06-26, I documented the exercise and set the threshold as 10
-seconds.
-
-On 2025-11-11, I increased the threshold to 20 seconds. As of this
-time, my maximum on each leg is somewhere betwen 12 seconds and 17
-seconds.
-
-On 2026-01-16, I increased the threshold to 25 seconds after getting
-30 seconds on the right leg (on the second try; the first try was 20
-seconds) and 27 seconds on the left leg (on the first try)
+* The actual performance relative to threshold has been improving over
+  time; essentially, as performance have improved, I've set
+  comparatively less ambitious thresholds, partly in light of time
+  budget considerations. For instance, the 2025-11-11 threshold of 20
+  seconds was set when my maximum on each leg was between 12 seconds
+  and 17 seconds, and the 2026-01-16 threshold of 25 seconds was set
+  shortly after crossing it once on each leg. In contrast, the
+  2026-10-31 threshold of 30 seconds was set after consistently
+  finding myself crossing 30 seconds on at least one try (and often on
+  both tries) on each leg.
 
 ### History of triggers for overall exercise
 

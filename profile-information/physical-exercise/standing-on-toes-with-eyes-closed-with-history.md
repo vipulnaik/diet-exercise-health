@@ -1,24 +1,38 @@
 # Standing on toes with eyes closed (with history)
 
-## Goal and functional relevance of exercise
+## Context and goals
 
-### Maintain standing-on-toes-with-eyes-closed duration at at least 170 seconds
+This exercise falls under the framework of [reduced support standing
+exercises](reduced-support-standing-exercises-with-history.md) with
+parameters: toes as support pattern, bilateral, eyes closed, and
+no shoes. The reduced support standing exercises document is the
+natural home for covering the general phenomena involved in such
+exercises as well as their goals and functional relevance.
 
-The ability to sustain weight on toes is important for balance, as we
-lift off from our toes, and when jogging, we are lifting off from the
-toes of just one foot. The eyes-closed version of the exercise just
-raises the stakes so as to get more bang per second of exercise.
+This exercise is carried out using a rigid threshold-based retry
+policy (with retry-based and temperature-based adjustments spelled out
+explicitly). The general concept of rigid threshold-based retry policy
+is explained in the reduced support standing exercises document.
 
-When I started standing-on-toes-with-eyes-closed on 2024-09-09, I set
-a threshold of 15 seconds. Even this threshold, I was not able to
-consistently clear on the first try, leading to me doing 3 or 5 tries
-on many days. As of 2026-09-29 the first attempt threshold (that I aim
-to hit most of the time on the first attempt) is 170 seconds.
+When I started this exercise on 2024-09-09, my threshold duration was
+15 seconds and I was not able to consistently clear the threshold
+(though I did clear it often enough for it to be a meaningful
+threshold).
 
-I don't have standard benchmarks for this, but I think a threshold of
-170 seconds is reasonable and I don't have plans to increase the
-threshold, though if my performance continues to improve organically,
-I may increase the threshold further.
+My initial goal/hope was to get to around 30 seconds and then maintain
+that duration. I increased the threshold duration to 30 seconds on
+2025-02-03, and at that point was not actively trying to
+improve. However, thanks to regular practice, I continued improving
+well beyond 30 seconds.
+
+As of 2026-09-29, my first attempt threshold is 170 seconds and I
+usually clear the threshold on the first try. I'm not looking to
+actively improve it further, but if my performance continues to
+organically improve, I expect to increase the threshold accordingly. I
+am also open to reducing the threshold in case of degradations in
+exercise performance. I will only be concerned in case of significant
+drops (on the order of 20 seconds or more) that do not recover in a
+few months.
 
 ## Protocol
 

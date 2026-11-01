@@ -1,78 +1,66 @@
 # Standing on one leg with eyes closed (with history)
 
-I've been doing exercises involving standing on one leg with eyes
-closed for a while (likely since at least November 2021 when I started
-weights), but on 2023-10-29 (and starting with information/practices
-that I started collecting 2023-10-28) I've decided to flesh out the
-practice and some variants of it.
+## Context and goals
 
-For the with-shoes variant of this exercise, see
-[here](standing-on-one-leg-with-eyes-closed-with-shoes-with-history.md).
+This exercise falls under the framework of [reduced support standing
+exercises](reduced-support-standing-exercises-with-history.md) with
+parameters: full foot as support pattern, unilateral, eyes closed, and
+no shoes. The reduced support standing exercises document is the
+natural home for covering the general phenomena involved in such
+exercises as well as their goals and functional relevance.
 
-## Goal and functional relevance of exercise
+This exercise is carried out using a rigid threshold-based retry
+policy (with retry-based and temperature-based adjustments spelled out
+explicitly). The general concept of rigid threshold-based retry policy
+is explained in the reduced support standing exercises document.
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 120 seconds (with adjustments for colder temperatures and retries)
+When I started this exercise (likely November 2021 or earlier), my
+threshold was 10 seconds and I was not able to consistently clear the
+threshold (though I did clear it often enough for it to be a
+meaningful threshold).
 
-Standing on one leg with eyes closed is a widely recommended balance
-exercise. Empirically, I have found that the exercise has helped
-improve my balance, but I am well past the point where it has any
-clear benefits on my day-to-day balance. So the next question is how I
-compare to age-based norms.
-
-According to
+Based on information at places such as
 [this](https://www.matassessment.com/blog/single-leg-balance-eyes-closed),
-the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
-seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
-(average of 18.3 seconds). As somebody in my late 30s / early 40s (as
-of 2026), my threshold is at least 120 seconds per leg with
-adjustments for colder temperatures and retries, and I usually clear
-the threshold on the first attempt.
+my initial implicit goal/hope as I ramped up my average duration and
+threshold was to get to around 30 seconds and then maintain that
+duration. I increased the threshold duration to 30 seconds on
+2024-09-09, and at that point was not actively trying to
+improve. However, thanks to regular practice, I continued improving
+well beyond 30 seconds.
 
-At this point, it's not clear that increasing the duration has
-real-world effects either in practice or in theory, so my plan is to
-sustain the minimum of 120 seconds for
-standing-on-one-leg-with-eyes-closed without trying to push the level
-up. Time considerations make it dificult to push the threshold too far
-up, even if I am eventually able to do clearly over 120 seconds.
+As of 2026-10-31, my first attempt threshold is 120 seconds (with
+adjustments for temperature and retries) and I usually clear the
+threshold on the first try for both legs. I'm not looking to actively
+improve it further, but if my performance continues to organically
+improve, I expect to increase the threshold accordingly. I am also
+open to reducing the threshold in case of degradations in exercise
+performance. I will only be concerned in case of significant drops (on
+the order of 20 seconds or more) that do not recover in a few months.
 
-In late 2025, I switched to doing these exercises along with rice
-prep, and multiplexed with listening to stuff, so the time is
-efficiently multiplexed and does not use up valuable time. With that
-said, the multiplexing is efficient only if I don't spend a *lot* of
-time standing on one leg and I don't have to do multiple repeat tries.
+## Protocol
 
-From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 120 seconds over a
-period of about 3 years, I think just being able to maintain
-at 120 seconds should be good enough.
-
-For the goal of improving balance more generally, doing other balance
-exercises, such as
-[standing-on-toes-with-eyes-closed](standing-on-toes-with-eyes-closed-with-history.md),
-is likely to have higher payoff.
-
-## Standing on one leg with eyes closed: standard version
-
-### Single iteration standard version, specific leg
+### Single iteration, specific leg
 
 The standard version of the exercise is as follows:
 
-* Lift and fold one leg with my eyes open, facing my laptop
+* Lift and fold one leg with my eyes open, facing my laptop (The foot
+  of the folded leg is in the coronal plane of the rest of my body,
+  with the knee pointed forward).
 
-* Wait a few seconds to stabilize
+* Wait a few seconds to stabilize.
 
 * When the seconds counter on my laptop hits a multiple of 5, close my
-  eyes, mentally noting the start time
+  eyes, mentally noting the start time.
 
 * Try to stay balanced for as long as possible until I get fatigued or
-  lose my balance
+  lose my balance.
 
 * When opening my eyes, immediately note the end time and calculate
-  the difference
+  the difference.
 
-### Full iteration standard version, single leg
+### Full sequence including retries
 
-### Threshold duration (currently 120 seconds with adjustments for colder temperatures and retries)
+#### Threshold duration (currently 120 seconds with adjustments for colder temperatures and retries)
 
 Starting 2026-10-31, the threshold duration is as follows:
 
@@ -108,7 +96,7 @@ Starting 2026-10-31, the threshold duration is as follows:
   time I do the exercise, which will allow me to make future updates
   to the baseline and to the temperature-based adjustment.
 
-### How the threshold durations are used
+#### How the threshold durations are used
 
 If I don't clear the threshold duration on my first attempt, I
 continue to do attempts until I clear the attempt-specific threshold
@@ -128,7 +116,7 @@ using the maximum makes sense and helps make sure I don't end up
 spending several minutes on this exercise. The median made sense in
 the past when the threshold was lower.
 
-### Full retry
+#### Full retry
 
 If I fail the full iteration, i.e., even after 5 attempts, I do not
 clear the threshold, this is likely due to temporary stability
@@ -157,6 +145,14 @@ through the cycle every 2 to 3 rice preps, so the approximate
 frequency is once every 9 to 15 days.
 
 ## History
+
+### Start of exercise and subsequent formalization
+
+I've been doing exercises involving standing on one leg with eyes
+closed for a while (likely since at least November 2021 when I started
+weights), but on 2023-10-29 (and starting with information/practices
+that I started collecting 2023-10-28) I fleshed out the protocol and
+from that point onward, updated the thresholds as I increased them.
 
 ### History of threshold durations
 
