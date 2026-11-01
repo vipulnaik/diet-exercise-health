@@ -38,16 +38,24 @@ I may increase the threshold further.
 My goal is to keep trying (up to 5 attempts) until I clear the
 attempt-specific threshold on at least one attempt.
 
-The sequence of attempt-specific thresholds is as follows: 170 seconds
-for the first try, 149 seconds for the second try, 132 seconds for the
-third try, 119 seconds for the fourth try, and 110 seconds for the fifth
-try. The sequence of thresholds is a quadratic sequence with initial
-first difference of -21 seconds and constant second difference of 4
-seconds (the second difference being constant and nonzero is what
-makes it a quadratic sequence). The first try threshold of 170 seconds
-represents what I should be able to achieve in a good starting state
-without fatigue, and the fifth try threshold of 110 seconds represents
-what I should be able to achieve even under adverse conditions.
+The sequence of attempt-specific thresholds is as follows:
+
+Attempt index | Threshold | First difference | Second difference
+-- | -- | --  | --
+1 | 170 | N/A | N/A
+2 | 149 | -21 | N/A
+3 | 132 | -17 | 4
+4 | 119 | -13 | 4
+5 | 110 |  -9 | 4
+
+I stop at the try where I meet or exceed the threshold for that try.
+The sequence of thresholds is a quadratic sequence with initial first
+difference of -21 seconds and constant second difference of 4 seconds
+(the second difference being constant and nonzero is what makes it a
+quadratic sequence). The first try threshold of 170 seconds represents
+what I should be able to achieve in a good starting state without
+fatigue, and the fifth try threshold of 110 seconds represents what I
+should be able to achieve even under adverse conditions.
 
 ## Triggers for overall exercise
 
@@ -63,7 +71,7 @@ frequency is once every 9 to 15 days.
 
 Date of change | Baseline threshold duration (seconds) | Baseline threshold duration increase since last time (seconds) | Retry adjustment (seconds) (second try threshold minus first try threshold, difference of differences) | Number of rounds since last time (exclusive of start date, inclusive of end date) | Increase in seconds per round | Days since last change | Increase in seconds per day
 -- | -- | -- | -- | -- | -- | -- | --
-2024-09-09 |  15 |  N/A (first threshold) | N/A | N/A (first threshold) | N/A (first threshold) | N/A (first threshold) | N/A (first threshold)
+2024-09-09 (start of exercise) |  15 |  N/A (first threshold) | N/A | N/A (first threshold) | N/A (first threshold) | N/A (first threshold) | N/A (first threshold)
 2024-10-14 |  18 |  3 | N/A | unavailable | unavailable | 35 | 0.09
 2024-11-05 |  21 |  3 | N/A | unavailable | unavailable | 22 | 0.14
 2024-11-17 |  24 |  3 | N/A | unavailable | unavailable | 12 | 0.25

@@ -1,24 +1,19 @@
 # Standing on one leg toes with eyes open (with history)
 
-## Goal and functional relevance of exercise
+## Context and goals
 
-This is an experimental exercise for which I was not able to obtain
-any standard benchmarks for comparison. So, I am uncertain about the
-goals and functional relevance.
+This exercise falls under the framework of [reduced support standing
+exercises](reduced-support-standing-exercises-with-history.md) with
+parameters: toes as support pattern, unilateral, eyes open, and no
+shoes.
 
-### Increasing the duration should help with balance and prediction of balance
+The exercise is carried out with a "fuzzy budget" informed by
+threshold durations, as explained in the reduced support standing
+exercises document.
 
-This is similar to [standing on heels with eyes
-open](standing-on-heels-with-eyes-open-with-history.md) in that there
-is very little surface area of contact so I need to get on the right
-footing and stay on that right footing in order to keep my center of
-gravity over that narrow area. This requires good balance and good
-prediction and estimation of balance.
-
-### Goal: build towards 45 seconds
-
-The goal is to build to where I can stand on one leg toes with eyes
-open for about 45 seconds for each leg.
+My current goal duration for this exercise (that I hope to eventually
+build to) is 45 seconds. My current threshold is 30 seconds, so there
+is still some way to go.
 
 ## Protocol
 
@@ -27,7 +22,8 @@ long as possible. I can do multiple tries and record the best try,
 though in some cases I might record the best two or three tries.
 
 I should generally do up to five tries on each leg. I can stop if I
-hit the threshold of 25 seconds on any try.
+hit the threshold of 30 seconds on any try, though I might continue to
+do a few more rounds anyway.
 
 ## Triggers for overall exercise
 
@@ -41,7 +37,11 @@ frequency is once every 9 to 15 days.
 
 ### History of threshold durations
 
-I started doing this exercise on Sunday 2025-06-22.
+Date of change | Threshold duration | Threshold duration increase | Number of rounds since last time (exclusive of start date, inclusive of end date) | Increase in seconds per round | Days since last change | Increase in seconds per day
+-- | -- | -- | -- | -- | -- | --
+2025-06-26 (after starting 2025-06-22) | 10 | N/A | ?? | N/A | 4 (since start of exercise) | N/A
+
+(table to be completed)
 
 On 2025-06-26, I documented the exercise and set the threshold as 10
 seconds.

@@ -11,7 +11,7 @@ For the with-shoes variant of this exercise, see
 
 ## Goal and functional relevance of exercise
 
-### Maintain standing-on-one-leg-with-eyes-closed for at least 115 seconds (with adjustments for colder temperatures and retries)
+### Maintain standing-on-one-leg-with-eyes-closed for at least 120 seconds (with adjustments for colder temperatures and retries)
 
 Standing on one leg with eyes closed is a widely recommended balance
 exercise. Empirically, I have found that the exercise has helped
@@ -24,16 +24,16 @@ According to
 the range for men ages 20-39 is 19.3 to 34.8 seconds (average of 21
 seconds) and the range for men ages 40-59 is 11.5 to 26.9 seconds
 (average of 18.3 seconds). As somebody in my late 30s / early 40s (as
-of 2026), my threshold is at least 115 seconds per leg with
+of 2026), my threshold is at least 120 seconds per leg with
 adjustments for colder temperatures and retries, and I usually clear
 the threshold on the first attempt.
 
 At this point, it's not clear that increasing the duration has
-real-world effects either in practice or in theory,so my plan is to
-sustain the minimum of 115 seconds for
+real-world effects either in practice or in theory, so my plan is to
+sustain the minimum of 120 seconds for
 standing-on-one-leg-with-eyes-closed without trying to push the level
 up. Time considerations make it dificult to push the threshold too far
-up, even if I am eventually able to do clearly over 115 seconds.
+up, even if I am eventually able to do clearly over 120 seconds.
 
 In late 2025, I switched to doing these exercises along with rice
 prep, and multiplexed with listening to stuff, so the time is
@@ -42,9 +42,9 @@ said, the multiplexing is efficient only if I don't spend a *lot* of
 time standing on one leg and I don't have to do multiple repeat tries.
 
 From my perspective, the key is to prevent age-induced decline. Given
-that I've increased the threshold from 10 seconds to 115 seconds over a
-period of about 2.5 years, I think just being able to maintain
-at 115 seconds should be good enough.
+that I've increased the threshold from 10 seconds to 120 seconds over a
+period of about 3 years, I think just being able to maintain
+at 120 seconds should be good enough.
 
 For the goal of improving balance more generally, doing other balance
 exercises, such as
@@ -72,19 +72,27 @@ The standard version of the exercise is as follows:
 
 ### Full iteration standard version, single leg
 
-### Threshold duration (currently 115 seconds with adjustments for colder temperatures and retries)
+### Threshold duration (currently 120 seconds with adjustments for colder temperatures and retries)
 
-Starting 2026-06-07, the threshold duration is as follows:
+Starting 2026-10-31, the threshold duration is as follows:
 
-* Baseline thresholds are as follows for the first five tries: 115
-  seconds, 94 seconds, 77 seconds, 64 seconds, and 55 seconds. I stop
-  at the try where I exceed the baseline threshold for that try. The
-  sequence of thresholds is a quadratic sequence with initial first
-  difference of -21 seconds and constant second difference of 4
+* Baseline thresholds are as follows for the first five tries are described in the table below.
+
+  Attempt index | Threshold | First difference | Second difference
+  -- | -- | --  | --
+  1 | 120 | N/A | N/A
+  2 |  99 | -21 | N/A
+  3 |  82 | -17 | 4
+  4 |  69 | -13 | 4
+  5 |  60 |  -9 | 4
+
+  I stop at the try where I meet or exceed the threshold for that
+  try. The sequence of thresholds is a quadratic sequence with initial
+  first difference of -21 seconds and constant second difference of 4
   seconds (the second difference being constant and nonzero is what
-  makes it a quadratic sequence). The first try threshold of 115
+  makes it a quadratic sequence). The first try threshold of 120
   seconds represents what I should be able to achieve in a good
-  starting state without fatigue, and the fifth try threshold of 55
+  starting state without fatigue, and the fifth try threshold of 60
   seconds represents what I should be able to achieve even under
   adverse conditions.
 
@@ -93,6 +101,7 @@ Starting 2026-06-07, the threshold duration is as follows:
   temperature is greater than 50 degrees Fahrenheit (10 degrees
   Celsius) and less than 68 degrees Fahrenheit, then subtract 2 times
   (68 minus temperature in degrees Fahrenheit) from the
+  attempt-specific baseline threshold to get the effective
   attempt-specific threshold.
 
 * I should also make a point of recording indoor temperature every
@@ -165,30 +174,31 @@ The original baseline of 10 seconds before 2023-10-28 applies from the
 time I started the exercise, which is at least November 2021. In other
 words, there was no threshold increase in the first two years.
 
-Date of change | Baseline threshold duration (seconds) | Temperature adjustment (downward per unit temperature) (/C and /F) | Retry adjustment (seconds) (second try threshold minus first try threshold, difference of differences) | Number of rounds since last time (exclusive of start date, inclusive of end date)
--- | -- | -- | -- | --
-original baseline (before 2023-10-28) |  10 |   N/A | N/A | unavailable
-2023-10-28 |  12 |          N/A | N/A | unavailable
-2023-11-18 |  14 |          N/A | N/A | unavailable
-2024-01-18 |  18 | 1/C = 0.56/F | N/A | unavailable
-2024-05-07 |  20 | 1/C = 0.56/F | N/A | unavailable
-2024-07-15 |  23 | 1/C = 0.56/F | N/A | unavailable
-2024-08-08 |  27 | 1/C = 0.56/F | N/A | unavailable
-2024-09-09 |  30 | 1/C = 0.56/F | N/A | unavailable
-2024-09-27 |  32 | 2/C = 1.11/F | N/A | unavailable
-2024-10-17 |  34 | 2/C = 1.11/F | N/A | unavailable
-2024-11-05 |  36 | 2/C = 1.11/F | N/A | unavailable
-2024-11-17 |  40 | 2/C = 1.11/F | N/A | unavailable
-2025-01-16 |  44 | 2/C = 1.11/F | N/A | >= 22 (recording started 2024-12-21)
-2025-01-21 |  50 | 2/C = 1.11/F | N/A | 4
-2025-02-03 |  60 | 3/C = 1.67/F | N/A | 4
-2025-03-03 |  66 | 3/C = 1.67/F | N/A | 11
-2025-04-12 |  75 | 3/C = 1.67/F | N/A | 9
-2025-06-22 |  80 | 3/C = 1.67/F | N/A | 13
-2025-11-11 |  90 | 3/C = 1.67/F | N/A | 13
-2025-12-25 | 100 | 3.6/C =  2/F | N/A | 4
-2026-03-29 | 110 | 3.6/C =  2/F | -20, 5 | 12 (a lot of these were redo rounds on the left leg; if limited to both-leg rounds the number falls to 7)
-2026-06-07 | 115 | 3.6/C =  2/F | -21, 4 | 4
+Date of change | Baseline threshold duration (seconds) | Temperature adjustment (downward per unit temperature) (/C and /F) | Retry adjustment (seconds) (second try threshold minus first try threshold, difference of differences) | Baseline threshold duration increase since last time (seconds) | Number of rounds since last time (exclusive of start date, inclusive of end date) | Increase in seconds per round | Days since last change | Increase in seconds per day
+-- | -- | -- | -- | -- | -- | -- | -- | --
+original baseline (before 2023-10-28) |  10 | N/A | N/A | N/A | N/A | N/A | N/A | N/A
+2023-10-28 |  12 |          N/A | N/A |  2 | unavailable | unavailable | unavailable | unavailable
+2023-11-18 |  14 |          N/A | N/A |  2 | unavailable | unavailable |  21 | 0.10
+2024-01-18 |  18 | 1/C = 0.56/F | N/A |  4 | unavailable | unavailable |  61 | 0.07
+2024-05-07 |  20 | 1/C = 0.56/F | N/A |  2 | unavailable | unavailable | 110 | 0.02
+2024-07-15 |  23 | 1/C = 0.56/F | N/A |  3 | unavailable | unavailable |  69 | 0.04
+2024-08-08 |  27 | 1/C = 0.56/F | N/A |  4 | unavailable | unavailable |  24 | 0.17
+2024-09-09 |  30 | 1/C = 0.56/F | N/A |  3 | unavailable | unavailable |  32 | 0.09
+2024-09-27 |  32 | 2/C = 1.11/F | N/A |  2 | unavailable | unavailable |  18 | 0.11
+2024-10-17 |  34 | 2/C = 1.11/F | N/A |  2 | unavailable | unavailable |  20 | 0.10
+2024-11-05 |  36 | 2/C = 1.11/F | N/A |  2 | unavailable | unavailable |  19 | 0.11
+2024-11-17 |  40 | 2/C = 1.11/F | N/A |  4 | unavailable | unavailable |  12 | 0.33
+2025-01-16 |  44 | 2/C = 1.11/F | N/A |  4 | >= 22 (recording started 2024-12-21) | unavailable | 60 | 0.07
+2025-01-21 |  50 | 2/C = 1.11/F | N/A |  6 |  4 | 1.50 |   5 | 1.20
+2025-02-03 |  60 | 3/C = 1.67/F | N/A | 10 |  4 | 2.50 |  13 | 0.77
+2025-03-03 |  66 | 3/C = 1.67/F | N/A |  6 | 11 | 0.55 |  28 | 0.21
+2025-04-12 |  75 | 3/C = 1.67/F | N/A |  9 |  9 | 1.00 |  40 | 0.23
+2025-06-22 |  80 | 3/C = 1.67/F | N/A |  5 | 13 | 0.38 |  71 | 0.07
+2025-11-11 |  90 | 3/C = 1.67/F | N/A | 10 | 13 | 0.77 | 142 | 0.07
+2025-12-25 | 100 | 3.6/C =  2/F | N/A | 10 |  4 | 2.50 |  44 | 0.23
+2026-03-29 | 110 | 3.6/C =  2/F | -20, 5 | 10 | 12 (a lot of these were redo rounds on the left leg; if limited to both-leg rounds the number falls to 7) | 0.83 | 94 | 0.11
+2026-06-07 | 115 | 3.6/C =  2/F | -21, 4 |  5 | 4 | 1.25 |  70 | 0.07
+2026-10-31 | 120 | 3.6/C =  2/F | -21, 4 |  5 | 6 | 0.83 | 146 | 0.03
 
 A few key insights that can be gleaned from the table:
 
@@ -209,12 +219,11 @@ A few key insights that can be gleaned from the table:
   with linear and exponential (geometric) fitting, from around July
   2024 to June 2025 (the earlier portion of that showing faster
   geometric growth and the later portion showing faster linear
-  growth). After June 2025, the linear rate of growth is about 10
-  seconds per quarter, and growth approximates linear better than
-  exponential. Remarkably, though, this is still comparable to or
-  faster than the linear rate of growth in the early period, and only
-  slower than the linear rate of growth in the first half of 2025,
-  which happened to be unusually fast.
+  growth). From June 2025 to March 2026, the linear rate of growth
+  about 10 seconds per quarter, and growth approximates linear better
+  than exponential. Even the linear rate of growth appears to have
+  slowed down after March 2026 to about 5 seconds per quarter, which
+  might be a sign of saturation or a temporary plateau.
 
 * At least since the time I have been logging individual rounds
   (2024-12-21), the linear rate of progress relative to number of
