@@ -1207,3 +1207,14 @@ personal chores later in the day.
 On Friday 2026-10-30, I skipped all exercises. This was to fit in meal
 prep after some time-sensitive day job stuff while leaving time later
 in the day for a bunch of other tasks.
+
+## 2026-11-01: skipped strength exercises
+
+On Sunday 2026-11-01, I skipped strength exercises. This was because
+some finances data entry I had initially expected would fill in a
+brief interlude between jogging and strength exercises ended up taking
+longer, and I decided to continue it given the momentum I had built
+rather than break for strength exercises. This is in the general
+context of having a large backlog of stuff and giving more priority to
+making progress with the backlog, even at the cost of skipping
+exercises a bit more frequently than usual.
