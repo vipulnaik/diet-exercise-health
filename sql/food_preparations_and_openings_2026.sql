@@ -1189,7 +1189,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-18','TJ Almond Milk',1,2,'2026-10-24',1),
   ('2026-10-19','TJ Walnuts',1,1,'2026-10-22',2),
   ('2026-10-19','TJ Carb Savvy Tortillas',1,2,'2026-10-20',2),
-  ('2026-10-20','TJ Sauerkraut',1,1,null,null),
+  ('2026-10-20','TJ Sauerkraut',1,1,'2026-10-31',1),
   ('2026-10-20','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-10-22',1),
   ('2026-10-21','TJ Roasted Seaweed',1,2,null,null),
   /* 2026-10-22 eggplant meal prep (first meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
@@ -1211,14 +1211,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-10-26',2),
   ('2026-10-25','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-10-26',1),
   /* 2026-10-26 potatoes prep (first meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-10-26','Gold potatoes 5 lb',0.5,1,null,null), /* 4 potatoes out of 10 */
-  ('2026-10-26','TJ Kale',1,1,null,null),
-  ('2026-10-26','TJ Broccoli Florets 12 oz',1,1,null,null),
-  ('2026-10-26','Roma tomato',6,1,null,null), /* all 6 tomatoes from new batch, nothing left */
+  ('2026-10-26','Gold potatoes 5 lb',0.5,1,'2026-10-31',1), /* 4 potatoes out of 10 */
+  ('2026-10-26','TJ Kale',1,1,'2026-10-31',1),
+  ('2026-10-26','TJ Broccoli Florets 12 oz',1,1,'2026-10-31',1),
+  ('2026-10-26','Roma tomato',6,1,'2026-10-31',1), /* all 6 tomatoes from new batch, nothing left */
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-26','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-10-28',1),
   /* 2026-10-26 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2026-10-26','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
+  ('2026-10-26','Lundberg Sustainable California White Basmati Rice',1,2,'2026-10-31',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-10-26','TJ Walnuts',1,2,null,null),
   ('2026-10-27','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-10-28',2),
@@ -1238,5 +1238,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-30','TJ Almond Milk',1,1,null,null),
   ('2026-10-30','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
   /* 2026-10-31 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-10-31','Lundberg Sustainable California White Basmati Rice',1,1,null,null);
+  ('2026-10-31','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-10-31','Ezekiel Sprouted Flourless Tortillas',1,1,null,null);
   /* Double-check the date and meal index before committing */
