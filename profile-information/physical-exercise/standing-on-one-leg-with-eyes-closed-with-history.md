@@ -422,7 +422,7 @@ said, some rice preps I might use for more niche occasional exercises,
 which might displace a few slots, so effectively this might be a
 little less frequent.
 
-### Slight tweak to settings documented 2025-11-24
+#### Slight tweak to settings documented 2025-11-24
 
 Rather than have specific exercise bundles to do in alternating rice
 preps, I've decided to just cycle through a list of exercises over
