@@ -273,7 +273,7 @@ table:
   in the [How the threshold durations are
   used](#how-the-threshold-durations-are-used) subsection.
 
-* The changes over time in the number of rounds is primary driven by
+* The changes over time in the number of rounds is primarily driven by
   changes in the triggers; see the later subsection [History of
   triggers for overall
   exercise](#history-of-triggers-for-overall-exercise) for more
