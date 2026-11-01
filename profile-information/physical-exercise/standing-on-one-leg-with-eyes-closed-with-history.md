@@ -207,7 +207,7 @@ A few key insights that can be gleaned from the table:
   long time to get enough data points to build confidence in a
   threshold update, and (b) the durations are longer and more subject
   to noise, which compounds the need for more data points. This is
-  unlikely to reverse, so most likely the update cadence will remain
+  unlikely to reverse, so most likely the update frequency will remain
   something like once every 2 to 4 months, with variable step sizes
   depending on progress.
 
