@@ -48,7 +48,7 @@ Date of change | Threshold duration | Threshold duration increase | Number of ro
 A few notes not obvious from the table above:
 
 * The actual performance relative to threshold has been improving over
-  time; essentially, as performance have improved, I've set
+  time; essentially, as performance has improved, I've set
   comparatively less ambitious thresholds, partly in light of time
   budget considerations. For instance, the 2025-11-11 threshold of 20
   seconds was set when my maximum on each leg was between 12 seconds
