@@ -1218,3 +1218,9 @@ rather than break for strength exercises. This is in the general
 context of having a large backlog of stuff and giving more priority to
 making progress with the backlog, even at the cost of skipping
 exercises a bit more frequently than usual.
+
+## 2026-11-03: skipped jogging
+
+On Tuesday 2026-11-03, I skipped jogging due to delays as a result of
+a complex day job task. I did hand gripper exercises and humming with
+intermittent pauses; strength exercises were not due on this day.
