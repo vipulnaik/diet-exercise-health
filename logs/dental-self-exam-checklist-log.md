@@ -826,3 +826,16 @@ clear amount of plaque, but there might have been a hint of plaque
 near my right mandibular premolars (the mandibular incisors were
 clean). I've been doing a good job with the mandibular incisors; a
 couple more strokes on the mandibular premolars may be desirable.
+
+## 2026-11-02 (squeaky clean teeth test in advance of full dental self-exam checklist)
+
+On Monday 2026-11-02, in advance of a planned execution of the full
+dental self-exam checklist ahead of my dental cleaning appointment on
+2026-11-11, I decided to knock off a few small pieces of it: the
+squeaky clean teeth test and fingernail scrape test.
+
+I got squeaks from all of the facial surfaces with some challenges
+with the mandibular incisors that only responded to specific
+angles. For the lingual surfaces, I could not get clear squeaks, which
+I suspect is because a few minutes had elapsed since I had brushedby
+teeth, but I got squeak-like responses.
