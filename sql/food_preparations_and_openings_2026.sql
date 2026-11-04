@@ -1211,7 +1211,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-25','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-10-26',2),
   ('2026-10-25','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-10-26',1),
   /* 2026-10-26 potatoes prep (first meal) (REPLACED PEAS WITH BROCCOLI for stock reasons) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-10-26','Gold potatoes 5 lb',0.5,1,'2026-10-31',1), /* 4 potatoes out of 10 */
+  ('2026-10-26','Gold potatoes 5 lb',0.55,1,'2026-10-31',1), /* 2 remaining loose potatoes from old batch and 2 of 6 from new batch; 6 remaining */
   ('2026-10-26','TJ Kale',1,1,'2026-10-31',1),
   ('2026-10-26','TJ Broccoli Florets 12 oz',1,1,'2026-10-31',1),
   ('2026-10-26','Roma tomato',6,1,'2026-10-31',1), /* all 6 tomatoes from new batch, nothing left */
@@ -1245,6 +1245,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-31','TJ Roasted Seaweed',1,2,null,null),
   ('2026-11-01','TJ Sauerkraut',1,1,null,null),
   ('2026-11-02','TJ Carb Savvy Tortillas',1,1,'2026-11-02',2),
-  ('2026-11-02','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
-  ('2026-11-03','TJ Carb Savvy Tortillas',1,1,null,null);
+  ('2026-11-02','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-11-03',2),
+  ('2026-11-03','TJ Carb Savvy Tortillas',1,1,'2026-11-03',2),
+  /* 2026-11-03 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt, skipped cayenne pepper in light of upcoming dental cleaning) */
+  ('2026-11-03','Gold potatoes 5 lb',0.45,2,null,null), /* 4 remaining loose potatoes out of 6 purchased */
+  ('2026-11-03','TJ Baby Spinach',1,2,null,null), /* used instead of kale as I purchased it due to no kale in stock */
+  ('2026-11-03','TJ Petite Peas',0.4,2,null,null), /* rough estimate subject to refinement */
+  ('2026-11-03','Beefsteak tomato',6,2,null,null), /* 4 from old batch, 2 out of 8 from new batch; 6 remaining from new batch */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-11-03','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null);
   /* Double-check the date and meal index before committing */
