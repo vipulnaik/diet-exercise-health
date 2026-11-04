@@ -297,9 +297,9 @@ hand on the inside) at the end.
 * (clasp grip, 200 lb, N/A)
 * (clasp grip, 150 lb, N/A)
 * (clasp grip, 100 lb, N/A)
-* (nonstandard exercise element): transfer of 100 lb from right hand to left hand trying to open it as litle as possible
-* (nonstandard exercise element): transfer of 100 lb from left hand to right hand trying to open it as litle as possible
-* (nonstandard exercise element) (repeat): transfer of 100 lb from right hand to left hand trying to open it as litle as possible
+* (nonstandard exercise element): transfer of 100 lb from right hand to left hand trying to open it as little as possible
+* (nonstandard exercise element): transfer of 100 lb from left hand to right hand trying to open it as little as possible
+* (nonstandard exercise element) (repeat): transfer of 100 lb from right hand to left hand trying to open it as little as possible
 
 #### Day 6: single-finger curl grip (long)
 
@@ -362,7 +362,7 @@ recent practice rather than a review of recorded data.
 
 It's also worth noting that I have historically done the 100 lb hand
 gripper exercises after the 150 lb hand gripper exercises, so my hands
-are somehat fatigued. Starting with 100 lb first would improve 100 lb
+are somewhat fatigued. Starting with 100 lb first would improve 100 lb
 performance, but would reduce 150 lb performance much more. I made the
 sequencing formal on 2024-08-02, although I was following it in spirit
 even prior to that.
@@ -617,13 +617,13 @@ This is the sequence I have been following:
   seconds (generally about 15 seconds); if I were to start with the
   100 lb instead of doing the 150 lb first, I would be able to do over
   20 seconds, but then I would not be able to do the 150 lb
-  immediately aferward. That's why I start with the 150 lb.
+  immediately afterward. That's why I start with the 150 lb.
 
 * Left hand on 100 lb: I close and keep closed for about 10-20
   seconds (generally about 15 seconds); if I were to start with the
   100 lb instead of doing the 150 lb first, I would be able to do over
   20 seconds, but then I would not be able to do the 150 lb
-  immediately aferward. That's why I start with the 150 lb.
+  immediately afterward. That's why I start with the 150 lb.
 
 #### Update on 2024-09-09
 
@@ -640,13 +640,13 @@ Here is the protocol as of this time:
   seconds (generally about 15 seconds); if I were to start with the
   100 lb instead of doing the 150 lb first, I would be able to do over
   20 seconds, but then I would not be able to do the 150 lb
-  immediately aferward. That's why I start with the 150 lb.
+  immediately afterward. That's why I start with the 150 lb.
 
 * Left hand on 100 lb: I close and keep closed for about 10-20
   seconds (generally about 15 seconds); if I were to start with the
   100 lb instead of doing the 150 lb first, I would be able to do over
   20 seconds, but then I would not be able to do the 150 lb
-  immediately aferward. That's why I start with the 150 lb.
+  immediately afterward. That's why I start with the 150 lb.
 
 #### Update on 2024-09-22
 
@@ -774,7 +774,7 @@ I made several updates to the protocol and current status:
   closing. This is a new swap-in; other than an initial experimental
   attempt, I do not have experience with it. The protocol may get
   refined over time. The first execution of this swap-in would be on
-  2025-12-23, covering both the 150 lb hand gripper and the 100 lg
+  2025-12-23, covering both the 150 lb hand gripper and the 100 lb
   hand gripper, each in both hands.
 
 #### Updates on 2025-12-29
