@@ -84,3 +84,37 @@ Here are the steps I took:
 
 * I set a calendar reminder for a week after the dental cleaning
   (2026-11-18) to execute the dental self-exam checklist.
+
+### Food pause decisions on 2026-10-28
+
+On Wednesday 2026-10-28, two weeks before the dental cleaning
+appointment, I thought through the food pause decisions.
+
+* I'm pausing intense spicy outside foods from now until after the
+  dental cleaning. This is a default behavior (I don't usually eat
+  outside food) so no special reminders are needed.
+
+  This is in line with my usual best practices.
+
+* My plan is to reduce cayenne pepper to about half the usual volume
+  with my next meal prep and then stop using it completely for the
+  meal prep after that.
+
+  UPDATE 2026-11-05: I followed this plan, as can be seen in the
+  comments for the meal preps in
+  [food_preparations_and_openings_2026.sql](../../sql/food_preparations_and_openings_2026.sql):
+
+  * 2026-10-30: less cayenne pepper than usual with eggplant meal prep
+
+  * 2026-11-03: no cayenne pepper with potatoes prep
+
+* I tentatively decided against doing any additional pausing of
+  sauerkraut and walnuts, unless additional symptoms emerged or there
+  were concerning findings form the dental self-exam checklist
+  execution the next week.
+
+### Verification that work calendar is clear (done 2026-10-28)
+
+On Wednesday 2026-10-28, I verified that my work calendar is clear
+(for meetings that require my presence and where I have influence over
+the meeting time) for the dental cleaning appointment.
