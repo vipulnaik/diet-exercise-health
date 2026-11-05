@@ -277,3 +277,20 @@ the test:
 
 For more, see the relevant subsection of the hearing checklist parking
 lot.
+
+## 2026-11-04 onward
+
+### Audit portion (2026-11-04 going past midnight into 2026-11-05)
+
+This portion is an audit of the quick tests and my regular sound habits.
+
+- [x] Check recent sound volume patterns by searching `/16` in Slack self-chat logs, summarize here, and confirm that these are within the guidelines in [best practices around sound](../best-practices/best-practices-around-sound.md)
+  - I made a slight edit to the volume control table including a slightly lower volume setting I occasionally use.
+- [x] Verify that I have been doing the quick minimum audible volume and balance tests regularly with over-ear headphones (search Slack self-chat logs for `lmlyd over-ear`)
+- [x] Verify that I have been doing the quick minimum audible volume and balance tests regularly with bone conduction headphones (search Slack self-chat logs for `lmlyd bone`)
+- [x] Verify that I have been doing the quick max freuqency hearing test regularly with over-ear headphones (search Slack self-chat logs for `quick max frequency`)
+- [x] Verify that I have been doing the quick tonal loss point test regularly with over-ear headphones (search Slack self-chat logs for `quick tonal loss`)
+- [x] Verify that I have been doing the quick auditory reaction time test regularly with over-ear headphones (search Slack self-chat logs for `auditory reaction time`)
+- [x] Verify that I have been doing shuffle music listening and that I have had success with song recognition (search Slack self-chat logs for `smld`) (this provides more practice and evaluation/verification of a bunch of auditory processing, which is used more heavily in music listening)
+
+END OF SECTION: Audit portion

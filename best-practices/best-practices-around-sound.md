@@ -334,7 +334,7 @@ Below is a list of range of volume on the Macbook Air.
 
 Activity | Headphone type | Typical volume
 -- | -- | --
-listening to a podcast while away from computer | bone conduction | 7/16 (occasionally down to 6/16 when it's a bit more boisterous)
+listening to a podcast while away from computer | bone conduction | 7/16 (occasionally down to 6/16 or 5/16 when it's a bit more boisterous)
 rewatch / re-listen of a movie or web series I've watched before, while away from computer | bone conduction | 7/16 to 11/16 (position in range depends on the kind of show)
 shuffle music listening of a playlist while away from computer | bone conduction | 4/16 (occasionally down to 3/16)
 on-computer listening to a familiar song | over-ear | 1/16 or 2/16 (position in range depends on the kind of show and my mood and state)
