@@ -1230,3 +1230,20 @@ intermittent pauses; strength exercises were not due on this day.
 On Wednesday 2026-11-04, I skipped strength exercises (dead hang and
 pull-ups) as I wanted to use my already-built momentum to make further
 progress on a day job task.
+
+## 2026-11-05: skipped jogging and strength exercises
+
+On Thursday 2026-11-05, I had a long list of things to do in the
+morning and early afternoon, including a bunch of small personal items
+(most of which were scheduled or carried over from previous days) and
+a lot of day job items (primarily addressing alerts, so not things I
+could have anticipated). The latter was what took a huge amount of
+time. I then also had to do cleanup for overnight rice prep, then deal
+with a few followup things that arose from my morning and early
+afternoon investigations.
+
+After doing hand gripper exercises, I reviewed the time situation and
+decided that it was more important to not delay my meal further than
+to get my jogging and strength exercises in (even though I did feel a
+strong desire to jog). So I skipped jogging and strength exercises and
+went straight to getting ready for my meal.
