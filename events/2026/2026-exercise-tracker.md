@@ -1224,3 +1224,9 @@ exercises a bit more frequently than usual.
 On Tuesday 2026-11-03, I skipped jogging due to delays as a result of
 a complex day job task. I did hand gripper exercises and humming with
 intermittent pauses; strength exercises were not due on this day.
+
+## 2026-11-04: skipped strength exercises
+
+On Wednesday 2026-11-04, I skipped strength exercises (dead hang and
+pull-ups) as I wanted to use my already-built momentum to make further
+progress on a day job task.
