@@ -8,7 +8,7 @@
 | Green bell pepper                                  |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
-| Kite Hill Greek Style Plant-Based Yogurt           |                            4.0000 |                                    1.0000 |
+| Kite Hill Greek Style Plant-Based Yogurt           |                            3.0000 |                                    1.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Basmati Rice |                            7.0000 |                                    1.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            0.0000 |                                    0.0000 |
@@ -19,7 +19,7 @@
 | Roma tomato                                        |                            0.0000 |                                    0.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
-| TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
+| TJ Almond Milk                                     |                            0.0000 |                                    1.0000 |
 | TJ Baby Spinach                                    |                            0.0000 |                                    1.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
 | TJ Broccoli Florets 12 oz                          |                            0.0000 |                                    0.0000 |
