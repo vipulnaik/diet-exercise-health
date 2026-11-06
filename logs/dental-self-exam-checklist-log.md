@@ -830,12 +830,54 @@ couple more strokes on the mandibular premolars may be desirable.
 ## 2026-11-02 (squeaky clean teeth test in advance of full dental self-exam checklist)
 
 On Monday 2026-11-02, in advance of a planned execution of the full
-dental self-exam checklist ahead of my dental cleaning appointment on
-2026-11-11, I decided to knock off a few small pieces of it: the
-squeaky clean teeth test and fingernail scrape test.
+dental self-exam checklist ahead of my [dental cleaning appointment on
+2026-11-11](../events/2026/2026-11-11-dental-cleaning.md), I decided
+to knock off a few small pieces of it: the squeaky clean teeth test
+and fingernail scrape test.
 
 I got squeaks from all of the facial surfaces with some challenges
 with the mandibular incisors that only responded to specific
 angles. For the lingual surfaces, I could not get clear squeaks, which
 I suspect is because a few minutes had elapsed since I had brushedby
 teeth, but I got squeak-like responses.
+
+The fingernail scrape test was not done fully enough to document, so
+rather than document a partial attempt my plan is to do it again.
+
+## 2026-11-05 (floss pick pressure testing in advance of full dental self-exam checklist)
+
+On Thursday 2026-11-05, in advance of a planned execution of the full
+dental self-exam checklist ahead of my [dental cleaning appointment on
+2026-11-11](../events/2026/2026-11-11-dental-cleaning.md), I decided
+to do the floss pick pressure test portion. The floss pick pressure
+test portion is particularly important to do sooner, both so that any
+prolonged pain or bleeding can fully heal by the time of the dental
+cleaning, and so that I can factor the results from it into the
+decision of whether to keep the dental cleaning on schedule or cancel
+or postpone it.
+
+Most of the pain subsided within about 5 minutes after finishing the
+floss pick pressure test. However, there were a few noteworthy
+aspects:
+
+* The right mandibular interdental gaps, which I did last, had their
+  pain last the longest, and I don't think this was just because they
+  were last in sequence; the absolute duration from when I put
+  pressure on those gaps to when the pain stopped was longer, and the
+  pain decline curve over time was slower. This might have to do with
+  some of these interdental gaps having had access issues and
+  therefore accumulating somewhat more inflammation than the rest of
+  the interdental gaps.
+
+* The central interdental gaps, both maxillary and mandibular, where
+  there's no access barrier (the floss pick goes straight through with
+  room to spare) were the ones with the most acute pain, but
+  relatively rapid recovery. One of these is the interdental gap next
+  to the recent [gumline
+  inflammation](../events/2026/2026-11-01-gumline-inflammation.md),
+  and while that gap did feel more acutely painful, it also healed
+  quickly.
+
+I swirled water in mouth and did a masseter massage shortly after the
+floss pick pressure test, in order to both recover more quickly and
+get more probative information.
