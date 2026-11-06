@@ -881,3 +881,21 @@ aspects:
 I swirled water in mouth and did a masseter massage shortly after the
 floss pick pressure test, in order to both recover more quickly and
 get more probative information.
+
+UPDATE 2026-11-06 (shortly past midnight from 2026-11-05): When I did
+end-of-day normal flossing with the floss pick (a few hours after my
+second meal), I noticed that the right mandibular interdental gaps
+were still somewhat sensitive (though the sensitivity was experienced
+only in the context of flossing and not in the intervening period,
+including during meal consumption). There was no bleeding and the
+slight discomfort subsided in a few minutes.
+
+## 2026-11-06 (fingernail scrape test in advance of full dental self-exam checklist)
+
+On Friday 2026-11-06, in advance of a planned execution of the full
+dental self-exam checklist ahead of my [dental cleaning appointment on
+2026-11-11](../events/2026/2026-11-11-dental-cleaning.md), I did the
+fingernail scrape test. Specifically, after brushing my teeth with
+normal toothpaste followed by a baking soda toothpaste round on the
+lingual surfaces, I did a fingernail scrape test to check for soft
+plaque. No soft plaque was found, so the test passed.
