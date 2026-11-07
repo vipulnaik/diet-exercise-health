@@ -1247,3 +1247,10 @@ decided that it was more important to not delay my meal further than
 to get my jogging and strength exercises in (even though I did feel a
 strong desire to jog). So I skipped jogging and strength exercises and
 went straight to getting ready for my meal.
+
+## 2026-11-07: skipped second phase of strength exercises
+
+On Saturday 2026-11-07, I did the first phase of strength exercises
+(all three exercise sets on 5 lbs, 8 lbs, and 10 lbs) but skipped the
+second phase of strength exercises to conserve time in light of
+already being somewhat delayed due to waking up late.
