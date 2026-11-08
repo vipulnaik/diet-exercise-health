@@ -1254,3 +1254,8 @@ On Saturday 2026-11-07, I did the first phase of strength exercises
 (all three exercise sets on 5 lbs, 8 lbs, and 10 lbs) but skipped the
 second phase of strength exercises to conserve time in light of
 already being somewhat delayed due to waking up late.
+
+## 2026-11-08: skipped all exercises
+
+On Sunday 2026-11-08, I skipped all exercises to fit in eggplant meal
+prep in the early afternoon and rice prep later in the day.
