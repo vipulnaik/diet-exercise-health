@@ -100,6 +100,7 @@ verify_food: verify_food_metadata verify_food_data
 
 .PHONY: reset_food_metadata
 reset_food_metadata:
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists atypical_food_preparation_quantity_reasons;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists food_types;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists broad_food_types;"
 
@@ -107,6 +108,7 @@ reset_food_metadata:
 read_food_metadata:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/broad_food_types.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_types.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/atypical_food_preparation_quantity_reasons.sql
 
 .PHONY: verify_food_metadata
 verify_food_metadata:
@@ -144,8 +146,11 @@ read_food_preparations_and_openings_data:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_upper_bounds.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_schema.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2024.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_atypical_quantities_2024.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2025.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_atypical_quantities_2025.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_2026.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/food_preparations_and_openings_atypical_quantities_2026.sql
 
 .PHONY: show_diff_food_purchases
 show_diff_food_purchases:
@@ -186,9 +191,9 @@ verify_food_data: verify_food_preparations_and_openings_data verify_interpolated
 
 .PHONY: verify_food_preparations_and_openings_data
 verify_food_preparations_and_openings_data:
-	grep 20 sql/food_preparations_and_openings_2024.sql | grep -v 2024; :
-	grep 20 sql/food_preparations_and_openings_2025.sql | grep -v 2025; :
-	grep 20 sql/food_preparations_and_openings_2026.sql | grep -v 2026; :
+	grep 20 sql/food_preparations_and_openings*_2024.sql | grep -v 2024; :
+	grep 20 sql/food_preparations_and_openings*_2025.sql | grep -v 2025; :
+	grep 20 sql/food_preparations_and_openings*_2026.sql | grep -v 2026; :
 	python3 python/food_preparations_and_openings_verification_queries.py
 
 .PHONY: verify_interpolated_food_data
