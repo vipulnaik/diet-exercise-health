@@ -1267,5 +1267,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-08','Red bell pepper',4,1,null,null),
   ('2026-11-08','TJ Kale',1,1,null,null),
   ('2026-11-08','TJ Carrots',1,1,null,null),
-  ('2026-11-08','Beefsteak tomato',3,1,null,null); /* used 3 out of 6 from old batch (no new batch); 3 remaining in old batch */
+  ('2026-11-08','Beefsteak tomato',3,1,null,null), /* used 3 out of 6 from old batch (no new batch); 3 remaining in old batch */
+  /* 2026-11-08 rice prep (second meal) (added turmeric, cumin, salt) */
+  ('2026-11-08','Lundberg Sustainable California White Basmati Rice',1,2,null,null);
   /* Double-check the date and meal index before committing */
