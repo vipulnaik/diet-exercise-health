@@ -221,11 +221,13 @@ https://www.resound.com/en-us/online-hearing-test
 - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
 - [ ] Switch balance back to the middle
 - [ ] Do the Resound online test and record results as you go along
+- [ ] Switch back to normal volume for the over-ear headphones (before unplugging them)
 - [ ] Put on bone conduction headphones
 - [ ] Make sure that the volume of the computer is set to max
 - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
 - [ ] Switch balance back to the middle
 - [ ] Do the Resound online test and record results as you go along
+- [ ] Switch back to normal volume for the bone conduction headphones (before disconnecting them)
 - [ ] Compare with previous results
   - [ ] If there is significant degradation compared to the previous results, schedule a followup test for a week later
 

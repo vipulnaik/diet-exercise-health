@@ -312,6 +312,7 @@ Air conduction done 2026-11-10 past midnight from 2026-11-09:
 - [x] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
 - [x] Switch balance back to the middle
 - [x] Do the Resound online test and record results as you go along
+- [x] Switch back to normal volume for the over-ear headphones (before unplugging them)
 
 Bone conduction and consolidation pending:
 
@@ -320,6 +321,7 @@ Bone conduction and consolidation pending:
 - [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
 - [ ] Switch balance back to the middle
 - [ ] Do the Resound online test and record results as you go along
+- [ ] Switch back to normal volume for the bone conduction headphones (before disconnecting them)
 - [ ] Compare with previous results
   - [ ] If there is significant degradation compared to the previous results, schedule a followup test for a week later
 
