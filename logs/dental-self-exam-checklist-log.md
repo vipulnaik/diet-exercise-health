@@ -670,9 +670,11 @@ Additional notes taken after taking and reviewing the photos:
   over a one-month period is low enough that local effects can
   dominate.
 
-## 2026-05-17 and 2026-05-20
+## 2026-05-17 and 2026-05-20 (with wrapping up and checkpointing on 2026-11-09)
 
-I did the photo-taking (and some of the photo classification) and the squeaky clean teeth test and fingernail scrape test on 2026-05-17 and the rest of the work on 2026-05-20.
+I did the photo-taking (and some of the photo classification) and the
+squeaky clean teeth test and fingernail scrape test on 2026-05-17 and
+the rest of the work on 2026-05-20.
 
 - [x] DONE 2026-05-17: Take the intra-oral camera out and plug it in to charge, so that it gets charged more by the time I am ready for the camera step
 - [x] DONE 2026-05-17: Examine teeth in mirror; look for things like stains, plaque, and recession
@@ -690,13 +692,13 @@ I did the photo-taking (and some of the photo classification) and the squeaky cl
   - [x] DONE 2026-05-20: Push inward (toward the lingual side) with a clean finger on the gumline part for each of the facial (labial or buccal, depending on location) surfaces of teeth
   - [x] DONE 2026-05-20: Push outward (toward the facial side) with a clean finger on the gumline part of each of the lingual (technically, lingual or palatal, depending on location) surfaces of teeth
 - [x] DONE 2026-05-17: Disconnect intra-oral camera from charger, put it on, and connect the phone to its wi-fi network
-- [ ] IN PROGRESS (photos taken 2026-05-17, classification started 2026-05-17 and to be continued 2026-05-20): Take photos of facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (facial/lingual) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
+- [x] DONE 2026-11-09 (photos taken 2026-05-17, classification started 2026-05-17, eventually stopped at whatever was done as of 2026-11-09): Take photos of facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (facial/lingual) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
   - All lingual (technically, lingual or palatal, depending on location) surfaces of teeth before all facial (labial or buccal, depending on location) surfaces of teeth
   - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
   - Within each, left, then middle, then right
   - The location to save in GitHub should be in the `diet-exercise-health-private` repo in `self-photos/dental/<YYYY-MM-DD>`
   - Also save in my Google Drive in `self-photos/dental/<YYYY-MM-DD>`
-- [ ] IN PROGRESS (comparison started 2026-05-17 for some of the photos classified at that time): Compare these photos with the previous photos
+- [x] DONE 2026-11-09 (comparison started 2026-05-17 for some of the photos classified at that time, some further comparison done 2026-11-09 at wrap-up time): Compare these photos with the previous photos
 
 END OF CHECKLIST
 
@@ -918,13 +920,13 @@ plaque. No soft plaque was found, so the test passed.
   - [x] Push inward (toward the lingual side) with a clean finger on the gumline part for each of the facial (labial or buccal, depending on location) surfaces of teeth
   - [x] Push outward (toward the facial side) with a clean finger on the gumline part of each of the lingual (technically, lingual or palatal, depending on location) surfaces of teeth
 - [x] Disconnect intra-oral camera from charger, put it on, and connect the phone to its wi-fi network
-- [ ] PARTIALLY DONE: Take photos of facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (facial/lingual) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
+- [ ] PARTIALLY DONE 2026-11-09: Take photos of facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (facial/lingual) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
   - All lingual (technically, lingual or palatal, depending on location) surfaces of teeth before all facial (labial or buccal, depending on location) surfaces of teeth
   - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
   - Within each, left, then middle, then right
   - The location to save in GitHub should be in the `diet-exercise-health-private` repo in `self-photos/dental/<YYYY-MM-DD>`
   - Also save in my Google Drive in `self-photos/dental/<YYYY-MM-DD>`
-- [ ] Compare these photos with the previous photos
+- [ ] PARTIALLY DONE 2026-11-09 (done for all photos taken so far): Compare these photos with the previous photos
 
 END OF CHECKLIST
 
@@ -950,9 +952,10 @@ For the photos:
   surfaces, and rather than keep retrying, I stowed things away since
   it was already getting late.
 
-* Photo labels are done in Google Drive for the photos taken, pending
-  review and GitHub sync. I still haven't done the GitHub sync for the
-  previous set of photos; I'm hoping to do a surface-by-surface
-  comparison, confirm the labels, and then do both. All of these can
-  be done after the dental cleaning (it's the taking of photos that I
-  want to make sure is completed prior to the dental cleaning).
+* I did an initial round of photo labeling directly in Google
+  Drive. Subsequently, I downloaded these photos and the photos for
+  2026-05-17 and saved them to GitHub. After downloading, I made
+  additional name corrections and also wrote a shell script that does
+  some sanity checks on photo names. I did a few visual comparisons to
+  confirm consistency between the photos taken 2026-11-09, 2026-05-17,
+  and 2026-04-29.
