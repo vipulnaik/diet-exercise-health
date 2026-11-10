@@ -1259,3 +1259,9 @@ already being somewhat delayed due to waking up late.
 
 On Sunday 2026-11-08, I skipped all exercises to fit in eggplant meal
 prep in the early afternoon and rice prep later in the day.
+
+## 2026-11-10: skipped strength exercises
+
+On Tuesday 2026-11-10, I skipped strength exercises to be able to fit
+taking intra-oral camera photos before my meal (while my teeth were
+still clean).
