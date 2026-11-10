@@ -406,9 +406,9 @@ froth and foam is getting in the way of brushing.
 * I start with the lingual (inner) tooth surfaces, generally doing
   maxillary before mandibular.
 
-* I then do the proximal surfaces of the molars next to the now
-  removed wisdom teeth. These are the surfaces that would have been in
-  an interdental gap with the wisdom tooth, but now stand exposed.
+* I then do the distal surfaces of the molars next to the now removed
+  wisdom teeth. These are the surfaces that would have been in an
+  interdental gap with the wisdom tooth, but now stand exposed.
 
 * I then proceed to the facial tooth surfaces, generally doing
   maxillary before mandibular. I pay particular attention to the
