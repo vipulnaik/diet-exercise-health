@@ -178,4 +178,13 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, co
   ('2026-03-27',1,'bone','right',500,6,'faint and barely audible at 6; when I pressed the headphone to my skin I could hear more clearly at 6 but still couldn''t hear at 5'),
   ('2026-03-27',1,'bone','right',1000,8,'faint and clear at 8; when I pressed the headphone to my skin I could hear at 7'),
   ('2026-03-27',1,'bone','right',2000,8,'faint and barely audible at 8; when I pressed the headphone to my skin I could hear at 7'),
-  ('2026-03-27',1,'bone','right',4000,8,'faint and barely audible at 8; when I pressed the headphone to my skin I could hear at 7');
+  ('2026-03-27',1,'bone','right',4000,8,'faint and barely audible at 8; when I pressed the headphone to my skin I could hear at 7'),
+  /* 2026-11-10 12:03 AM test -- air */
+  ('2026-11-10',1,'air','left',500,1,'faint and barely audible at 1, faint and clear at 2'),
+  ('2026-11-10',1,'air','left',1000,2,'faint and barely audible at 2, faint and clear at 3, very clear at 4'),
+  ('2026-11-10',1,'air','left',2000,2,'faint at 2, clear at 3'),
+  ('2026-11-10',1,'air','left',4000,1,'clear at 1'),
+  ('2026-11-10',1,'air','right',500,3,'faint and barely audible at 3, somewhat clearer at 4 but not super-clear until 5'),
+  ('2026-11-10',1,'air','right',1000,3,'faint and barely audible at 3, somewhat clearer at 4 but not super-clear until 5'),
+  ('2026-11-10',1,'air','right',2000,2,'clear at 2; some vague energy sense at 1 but not clear enough to be identifiable as a sound of the expected texture and ending after a few seconds'),
+  ('2026-11-10',1,'air','right',4000,1,'clear at 1');

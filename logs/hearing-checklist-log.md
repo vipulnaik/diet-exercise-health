@@ -294,3 +294,33 @@ This portion is an audit of the quick tests and my regular sound habits.
 - [x] Verify that I have been doing shuffle music listening and that I have had success with song recognition (search Slack self-chat logs for `smld`) (this provides more practice and evaluation/verification of a bunch of auditory processing, which is used more heavily in music listening)
 
 END OF SECTION: Audit portion
+
+### Cycling portion
+
+#### (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz) (air conduction done 2026-11-10 past midnight from 2026-11-09)
+
+Run through and record results in SQL for online hearing test at
+https://www.resound.com/en-us/online-hearing-test
+
+**Night time is preferred due to less ambient noise. Wait for troughs
+  in outdoor noise to confirm readings.**
+
+Air conduction done 2026-11-10 past midnight from 2026-11-09:
+
+- [x] Put on over-ear headphones
+- [x] Make sure that the volume of the computer is set to max
+- [x] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+- [x] Switch balance back to the middle
+- [x] Do the Resound online test and record results as you go along
+
+Bone conduction and consolidation pending:
+
+- [ ] Put on bone conduction headphones
+- [ ] Make sure that the volume of the computer is set to max
+- [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+- [ ] Switch balance back to the middle
+- [ ] Do the Resound online test and record results as you go along
+- [ ] Compare with previous results
+  - [ ] If there is significant degradation compared to the previous results, schedule a followup test for a week later
+
+END OF SECTION: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
