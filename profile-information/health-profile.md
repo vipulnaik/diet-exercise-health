@@ -456,7 +456,7 @@ Care, and I go to the branch at 3017 Telegraph Avenue, Berkeley, CA
 current status of my dental health. Look in the folder `events/<year>`
 for files with the word `dental-cleaning` in them to locate the most
 recent appointment. As of the last edit of this document,
-[this](../events/2026/2026-05-01-dental-cleaning.md) is my most recent
+[this](../events/2026/2026-11-11-dental-cleaning.md) is my most recent
 appointment.
 
 ### Periodic checks
@@ -545,6 +545,7 @@ Date | Event type | Document link (if applicable) | Details
 2026-05-19 | Practice change (swirling) (recording-only) | N/A (mentioned briefly at [link](../events/2026/2026-05-01-dental-cleaning.md#protocol-and-timing-improvements-to-regular-dental-hygiene)) | I began recording the duration for which I swirled water in mouth shortly after my meal, with a reference duration of 30 seconds. This was both for information purposes and to make sure I was swirling water for enough time.
 2026-10-18 | Documentation catch-up | N/A | I made several small updates to the documentation of my dental routine in the health profile document. Most of these were updates to time ranges (how long after meals I brush and floss). One change that affects practice as well is an increase in the swirling duration range from an original value of about 30 seconds to a new range of 50 to 80 seconds. This both reflects recent practice and sets guidance for future practice.
 2026-10-26 | Practice change (brushing) | N/A | On 2026-10-19, I watched a couple of brushing videos and noticed that it mentioned brushing the occlusal and incisal surfaces. Prior to this, my brushing focus had been on facial and lingual surfaces, and occlusal and incisal surfaces only got covered as a side-effect. In the days after the video, I began experimenting with doing a quick round of the occlusal and incisal surfaces. I made the practice formal on 2026-10-26 and updated the documentation on 2026-10-28.
+2026-11-11 | Dental cleaning | [link](../events/2026/2026-11-11-dental-cleaning.md) | Dental cleaning at regular 6-month frequency; relatively clean slate; documentation pending
 
 ## Eye status
 

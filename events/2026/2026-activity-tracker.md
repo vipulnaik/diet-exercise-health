@@ -187,3 +187,13 @@ also stopped on the way for a brief administrative task.
 
 On Friday 2026-10-09, in the late afternoon, I made a brief
 administrative trip related to taxes.
+
+## 2026-11-11
+
+On Wednesday 2026-11-11, in the early afternoon, I made a trip to
+Total Health Dental Care at 3017 Telegraph Ave for a dental cleaning
+appointment. Appointment details are
+[here](2026-11-11-dental-cleaning.md) (details not yet added as of
+2026-11-11, but they will be added to this document eventually). On
+the way back, I stopped at the Walgreens at 2801 Adeline St for
+toiletries purchases.

@@ -1,9 +1,12 @@
 # 2026-11-11: dental cleaning
 
-I have a dental cleaning appointment scheduled for Wednesday
+I had a dental cleaning appointment scheduled for Wednesday
 2026-11-11 at 1 PM at Total Health Dental Care at 3017 Telegraph
 Avenue. The previous dental cleaning was on
-[2026-05-01](2026-05-01-dental-cleaning.md)
+[2026-05-01](2026-05-01-dental-cleaning.md).
+
+The appointment completed successfully. Documentation of the
+appointment, and some aspects of prior preparation, is still pending.
 
 Sections of this document:
 
