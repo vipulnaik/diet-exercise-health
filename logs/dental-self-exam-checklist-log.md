@@ -902,7 +902,7 @@ normal toothpaste followed by a baking soda toothpaste round on the
 lingual surfaces, I did a fingernail scrape test to check for soft
 plaque. No soft plaque was found, so the test passed.
 
-## 2026-11-09 (primary checklist execution)
+## 2026-11-09 and 2026-11-10(primary checklist execution)
 
 - [x] Take the intra-oral camera out and plug it in to charge, so that it gets charged more by the time I am ready for the camera step
 - [x] Examine teeth in mirror; look for things like stains, plaque, and recession
@@ -920,13 +920,13 @@ plaque. No soft plaque was found, so the test passed.
   - [x] Push inward (toward the lingual side) with a clean finger on the gumline part for each of the facial (labial or buccal, depending on location) surfaces of teeth
   - [x] Push outward (toward the facial side) with a clean finger on the gumline part of each of the lingual (technically, lingual or palatal, depending on location) surfaces of teeth
 - [x] Disconnect intra-oral camera from charger, put it on, and connect the phone to its wi-fi network
-- [ ] PARTIALLY DONE 2026-11-09: Take photos of facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (facial/lingual) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
+- [x] DONE 2026-11-09 for lingual, distal, and occlusal surfaces (plus zoom-out views), 2026-11-10 for facial surfaces: Take photos of facial (labial or buccal, depending on location) and lingual (technically, lingual or palatal, depending on location) surfaces of teeth using the intraoral camera and save to GitHub in the following order (there should be a total of at least 12 photos, with at least one photo captured for each of (facial/lingual) X (top/bottom) X (left/middle/right), but potentially more than one where possible and marking individual teeth in the file name where clear enough)
   - All lingual (technically, lingual or palatal, depending on location) surfaces of teeth before all facial (labial or buccal, depending on location) surfaces of teeth
   - Within each, all upper (maxillary) teeth before all lower (mandibular) teeth
   - Within each, left, then middle, then right
   - The location to save in GitHub should be in the `diet-exercise-health-private` repo in `self-photos/dental/<YYYY-MM-DD>`
   - Also save in my Google Drive in `self-photos/dental/<YYYY-MM-DD>`
-- [ ] PARTIALLY DONE 2026-11-09 (done for all photos taken so far): Compare these photos with the previous photos
+- [x] DONE 2026-11-09 for lingual, distal, and occlusal surfaces (plus zoom-out views), 2026-11-10 for facial surfaces: Compare these photos with the previous photos
 
 END OF CHECKLIST
 
@@ -946,11 +946,10 @@ Observations from mirror check and intra-oral mirror check:
 
 For the photos:
 
-* I did the lingual surfaces, proximal surfaces, and occlusal surfaces
-  plus zoom-out views. The facial surfaces are pending. There were
-  issues with the wi-fi connection as of when I got to the facial
-  surfaces, and rather than keep retrying, I stowed things away since
-  it was already getting late.
+* I did the lingual surfaces, distal surfaces, and occlusal surfaces
+  plus zoom-out views on 2026-11-09, then paused due to running out of
+  time plus wi-fi issues with the camera (likely due to battery
+  running low). I did the facial surfaces on 2026-11-10.
 
 * I did an initial round of photo labeling directly in Google
   Drive. Subsequently, I downloaded these photos and the photos for
@@ -959,3 +958,68 @@ For the photos:
   some sanity checks on photo names. I did a few visual comparisons to
   confirm consistency between the photos taken 2026-11-09, 2026-05-17,
   and 2026-04-29.
+
+Overall takes:
+
+* There are no dramatic surprises; the pattern of plaque and staining
+  seems fairly consistent with previous sets of photos, including both
+  the photos taken before and after dental cleanings. The other
+  non-photo checks also pass.
+
+* The photo quality this time is better for some surfaces and about
+  the same for others. For the lingual surfaces and facial maxillary
+  surfaces, photo quality matches or slightly exceeds last time. The
+  facial mandibular surfaces are the ones with significant
+  improvement. I also covered the occlusal surfaces and distal
+  surfaces explicitly for the first time.
+
+* My coverage of the right side has improved somewhat with the
+  practice update of using the right hand when holding the camera
+  while on the right side. The difference is particularly pronounced
+  for the molars, and mild for incisors and canines.
+
+* The contrast issue (where a more uniform plaque or staining can
+  appear like no plaque or staining) and slight differences in
+  lighting and angles make a quantity comparison hard to do.
+
+* I think the fuzzy plaque is somewhat worse than in the photos taken
+  shortly after the dental cleaning, but staining is hard to evaluate
+  and doesn't show a consistent pattern, which might just reflect the
+  comparison limitations documented in the above bullet point.
+
+* I'm hoping to, at some point, finish work on the [tooth surfaces
+  document](../profile-information/tooth-surfaces.md), but it's not a
+  current priority as it is not decision-relevant in the near term.
+
+* I also used this opportunity to institutionalize frequency checks in
+  Slack self-chat logs for the quick checks (intra-oral mirror check,
+  floss pick pressure testing, squeaky clean teeth test, and
+  fingernail scrape test). My tentative plan is to remove the dental
+  self-exam checklist from my month change checklist and limit it to
+  before and after dental cleanings, but use the Slack self-chat logs
+  frequency checks to make sure I am being regular about the quick
+  tests. If the quick tests flag issues, or if there are other
+  deviations to my dental health routine or other health issues, that
+  could be a reason to execute the dental self-exam checklist outside
+  the context of a dental cleaning.
+
+  I'm also planning to refine my notes on the photo-taking process as follows:
+
+  * Mention the switch to right hand for right side
+
+  * Institutionalize the practice of stopping after each sequence
+    (e.g., after finishing lingual mandibular), recording in a Slack
+    self-chat logs message, and uploading and renaming files with the
+    correct labels before proceeding. This practice made the process
+    feel much better. It also has the advantage that if I do discover
+    some issue, such as a missed or ambiguous tooth surface, I still
+    have the camera around and can check it when I put the camera on
+    for the next sequence.
+
+  * Institutionalize expectations around orientation so that I don't
+    have to recalculate it or reference past messages each time.
+
+  However, I'm going to hold off on the checklist revamp until after
+  the dental cleaning and the post-cleaning checklist execution. For
+  now, the practice improvements live as implicit knowledge along with
+  notes in this execution log.
