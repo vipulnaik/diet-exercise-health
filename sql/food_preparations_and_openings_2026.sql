@@ -1273,5 +1273,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-08','TJ Walnuts',1,2,null,null),
   ('2026-11-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-11-11',1),
-  ('2026-11-09','TJ Roasted Seaweed',1,2,null,null);
+  ('2026-11-09','TJ Roasted Seaweed',1,2,null,null),
+  ('2026-11-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
+  ('2026-11-11','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
