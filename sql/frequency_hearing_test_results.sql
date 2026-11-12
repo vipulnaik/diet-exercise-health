@@ -187,4 +187,13 @@ insert into frequency_hearing_test_results(test_date, index_within_test_date, co
   ('2026-11-10',1,'air','right',500,3,'faint and barely audible at 3, somewhat clearer at 4 but not super-clear until 5'),
   ('2026-11-10',1,'air','right',1000,3,'faint and barely audible at 3, somewhat clearer at 4 but not super-clear until 5'),
   ('2026-11-10',1,'air','right',2000,2,'clear at 2; some vague energy sense at 1 but not clear enough to be identifiable as a sound of the expected texture and ending after a few seconds'),
-  ('2026-11-10',1,'air','right',4000,1,'clear at 1');
+  ('2026-11-10',1,'air','right',4000,1,'clear at 1'),
+  /* 2026-11-12 12:44 AM test -- bone */
+  ('2026-11-12',1,'bone','left',500,6,'clear at 6; at 5 I could hear most of the times when I stepped down from 6 but I was never able to hear stepping up from 4'),
+  ('2026-11-12',1,'bone','left',1000,7,'clear at 7; at 6 I could hear some of the times when I stepped down from 7 but I was never able to hear stepping up from 5'),
+  ('2026-11-12',1,'bone','left',2000,7,'clear at 7; at 6 I could hear some of the times when I stepped down from 7 but I was never able to hear stepping up from 5'),
+  ('2026-11-12',1,'bone','left',4000,7,'clear at 7; at 6 I could hear some of the times when I stepped down from 7 but I was never able to hear stepping up from 5'),
+  ('2026-11-12',1,'bone','right',500,6,'clear at 6; at 5 I could hear most of the times when I stepped down from 6 but I was never able to hear stepping up from 4'),
+  ('2026-11-12',1,'bone','right',1000,7,'clear at 7; at 6 I could hear some of the times when I stepped down from 7 but I was never able to hear stepping up from 5'),
+  ('2026-11-12',1,'bone','right',2000,7,'clear at 7; at 6 I could hear most of the times when I stepped down from 7, and I also heard 5 briefly when stepping down from 7 via 6, but I was never able to hear 5 or 6 when stepping up from 4'),
+  ('2026-11-12',1,'bone','right',4000,7,'clear at 7; at 6 I could hear most of the times when I stepped down from 7, and I also heard 5 briefly when stepping down from 7 via 6, but I was never able to hear 5 or 6 when stepping up from 4');

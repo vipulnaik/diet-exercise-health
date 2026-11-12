@@ -288,7 +288,7 @@ This portion is an audit of the quick tests and my regular sound habits.
   - I made a slight edit to the volume control table including a slightly lower volume setting I occasionally use.
 - [x] Verify that I have been doing the quick minimum audible volume and balance tests regularly with over-ear headphones (search Slack self-chat logs for `lmlyd over-ear`)
 - [x] Verify that I have been doing the quick minimum audible volume and balance tests regularly with bone conduction headphones (search Slack self-chat logs for `lmlyd bone`)
-- [x] Verify that I have been doing the quick max freuqency hearing test regularly with over-ear headphones (search Slack self-chat logs for `quick max frequency`)
+- [x] Verify that I have been doing the quick max frequency hearing test regularly with over-ear headphones (search Slack self-chat logs for `quick max frequency`)
 - [x] Verify that I have been doing the quick tonal loss point test regularly with over-ear headphones (search Slack self-chat logs for `quick tonal loss`)
 - [x] Verify that I have been doing the quick auditory reaction time test regularly with over-ear headphones (search Slack self-chat logs for `auditory reaction time`)
 - [x] Verify that I have been doing shuffle music listening and that I have had success with song recognition (search Slack self-chat logs for `smld`) (this provides more practice and evaluation/verification of a bunch of auditory processing, which is used more heavily in music listening)
@@ -297,7 +297,7 @@ END OF SECTION: Audit portion
 
 ### Cycling portion
 
-#### (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz) (air conduction done 2026-11-10 past midnight from 2026-11-09)
+#### (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz) (air conduction done 2026-11-10 past midnight from 2026-11-09, bone conduction done 2026-11-12 past midnight from 2026-12-11)
 
 Run through and record results in SQL for online hearing test at
 https://www.resound.com/en-us/online-hearing-test
@@ -316,13 +316,67 @@ Air conduction done 2026-11-10 past midnight from 2026-11-09:
 
 Bone conduction and consolidation pending:
 
-- [ ] Put on bone conduction headphones
-- [ ] Make sure that the volume of the computer is set to max
-- [ ] Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
-- [ ] Switch balance back to the middle
-- [ ] Do the Resound online test and record results as you go along
-- [ ] Switch back to normal volume for the bone conduction headphones (before disconnecting them)
-- [ ] Compare with previous results
-  - [ ] If there is significant degradation compared to the previous results, schedule a followup test for a week later
+- [x] Put on bone conduction headphones
+- [x] Make sure that the volume of the computer is set to max
+- (skipped because bone conduction headphones structurally have to have correct left/right orientation to be put on) Check that the left speaker is on the left ear and the right speaker is on the right ear (this might require temporary balance adjustment)
+- [x] (verified instead of switching) Switch balance back to the middle
+- [x] Do the Resound online test and record results as you go along
+- [x] Switch back to normal volume for the bone conduction headphones (before disconnecting them)
+
+- [x] Compare with previous results
+  - (N/A) If there is significant degradation compared to the previous results, schedule a followup test for a week later
+
+Overall observations:
+
+* The thresholds for air conduction and bone conduction both matched
+  last time closely. For air conduction, the left ear was somewhat
+  better than the right ear. For bone conduction, both ears were
+  almost exactly the same.
+
+* This was also the first time I explicitly observed and documented
+  hearing threshold hysteresis when using bone conduction, where I was
+  able to hear at some volume levels when descending to them but not
+  when ascending to them. I discussed this with Claude in a [private
+  chat](https://claude.ai/chat/e0898dd2-526d-49cc-b36b-b7b8f81e5489)
+  and it explained its understanding of hearing threshold hysteresis
+  in the conversation. Claude also said:
+
+  > This is why clinical audiometry uses a fixed procedure, the
+  > Hughson-Westlake method: drop 10 dB after a response, rise 5 dB
+  > after a miss, and take the lowest level heard on at least half of
+  > the ascending runs. It deliberately uses ascending runs to avoid
+  > the optimistic bias of descending ones.
+
+  The volumes I recorded were the volumes that were audible when
+  ascending.
+
+  I did not observe the same effect for air conduction (i.e., with
+  over-ear headphones).
+
+  I am not sure whether I have encountered this effect before. Some of
+  the notes for past measurements do allude to somewhat similar ideas,
+  but none of them clearly talks about ascending and descending runs
+  giving different readings. Specifically, the distinction in question
+  is whether, after hearing something at a volume of 6, I can hear it
+  if I immediately decend to a volume of 5, but if I then come back up
+  to 5 from 4, even with the memory of the sound, I can't hear it. In
+  other words, even a gap of a few seconds is enough to break my
+  ability to perceive the sound. None of the past notes clearly
+  identify this nuance, though some of them do talk of being able to
+  hear a sound at a lower volume after familiarizing myself with it at
+  a higher volume (with no clear indication of whether I was able to
+  perceive the sound in a subsequent ascending run).
+
+  I ended up using the ascending run volumes for the official SQL
+  value, and I plan to do the same going forward.
+
+  I also did a quick informal rerun of air conduction (without
+  recording) confirming similar results to the recorded results, and
+  confirming that the ascending / descending run issue wasn't
+  observable, likely because I was already able to reliably hear at
+  the lowest volume in many cases, and in others, the primary
+  bottleneck was more general noise of both kinds (natural fluctuation
+  in hearing ability and environmental noise) rather than a hysteresis
+  effect from the immediately preceding sound.
 
 END OF SECTION: (1) Frequency-specific hearing test in the normal frequency range (500 Hz to 4000 Hz)
