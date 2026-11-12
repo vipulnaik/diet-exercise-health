@@ -3,8 +3,8 @@
 | Asha Tea House ginger honey tea                    |                            0.0000 |                                    0.0000 |
 | Beefsteak tomato                                   |                            3.0000 |                                    3.0000 |
 | Eggplant                                           |                            0.0000 |                                    0.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            0.0000 |                                    0.0000 |
-| Gold potatoes 5 lb                                 |                            0.0000 |                                    0.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            2.0000 |                                    0.0000 |
+| Gold potatoes 5 lb                                 |                            0.7500 |                                    0.0000 |
 | Green bell pepper                                  |                            0.0000 |                                    4.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
@@ -16,7 +16,7 @@
 | Mr. East Kitchen veggie pho                        |                            0.0000 |                                    0.0000 |
 | Orange bell pepper                                 |                            0.0000 |                                    0.0000 |
 | Red bell pepper                                    |                            0.0000 |                                    4.0000 |
-| Roma tomato                                        |                            0.0000 |                                    0.0000 |
+| Roma tomato                                        |                            4.0000 |                                    0.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
 | TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
@@ -29,11 +29,11 @@
 | TJ Cumin                                           |                            3.0000 |                                    1.0000 |
 | TJ English Shelled Peas                            |                            0.0000 |                                    0.0000 |
 | TJ Green Lentils                                   |                            0.0000 |                                    0.0000 |
-| TJ Kale                                            |                            0.0000 |                                    1.0000 |
+| TJ Kale                                            |                            1.0000 |                                    1.0000 |
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
 | TJ Miso Ginger Broth                               |                            1.0000 |                                    1.0000 |
 | TJ Petite Peas                                     |                            0.6000 |                                    0.0000 |
-| TJ Roasted Seaweed                                 |                            1.0000 |                                    1.0000 |
+| TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
 | TJ Sauerkraut                                      |                            2.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            4.0000 |                                    1.0000 |
 | TJ Walnuts                                         |                            7.0000 |                                    1.0000 |

@@ -745,7 +745,13 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-11-07','TJ Kale',1,1),
   ('2026-11-07','TJ Carrots',1,1),
   ('2026-11-07','TJ Cumin',1,1),
-  ('2026-11-07','TJ Turmeric',1,1);
+  ('2026-11-07','TJ Turmeric',1,1),
+  /* 2026-11-11 (Wednesday) Trader Joe's; total cost $18.19; checkout at 8:13 PM; paid by debit card; 11 items in transaction per the official count, but 8.75 per my count (see comments below) */
+  ('2026-11-11','Gold potatoes 5 lb',0.75,1), /* 6 loose potatoes that are approximately equal to 0.75 times a 5 lb pack */
+  ('2026-11-11','Ezekiel Sprouted Flourless Tortillas',2,1),
+  ('2026-11-11','TJ Kale',1,1),
+  ('2026-11-11','TJ Roasted Seaweed',1,1),
+  ('2026-11-11','Roma tomato',4,1); /* set of 4 vine tomatoes each of which is about the size of a roma tomato, and counted as 1 item in the Trader Joe's receipt */
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
