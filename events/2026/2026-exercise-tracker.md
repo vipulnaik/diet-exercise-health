@@ -1265,3 +1265,16 @@ prep in the early afternoon and rice prep later in the day.
 On Tuesday 2026-11-10, I skipped strength exercises to be able to fit
 taking intra-oral camera photos before my meal (while my teeth were
 still clean).
+
+## 2026-11-11: skipped all exercises
+
+On Wednesday 2026-11-11, I skipped all exercises to fit in a [dental
+cleaning appointment](2026-11-11-dental-cleaning.md) in the early
+afternoon.
+
+## 2026-11-12: skipped all exercises
+
+On Thursday 2026-11-12, I skipped all exercises to fit in a Berkeley
+Bowl trip in the early afternoon as well as potatoes prep for my
+second meal, after spending time on day job stuff in the morning and
+early afternoon.
