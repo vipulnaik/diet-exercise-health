@@ -51,5 +51,6 @@ insert into food_waste(waste_date, food_type, quantity, after_preparation_or_ope
   ('2026-07-27','TJ Kale',0.1,false,'About 10% of the kale fell out of the packet and not in the pot during eggplant meal prep.'),
   ('2026-08-22','Beefsteak tomato',1,false,'The tomato had whole-body spoilage and did not seem rescuable.'),
   ('2026-09-07','Beefsteak tomato',1,false,'The tomato had substantial spoilage and rather than try to rescue the unspoiled part, I deemed it safer to discard it entirely.'),
-  ('2026-09-13','Beefsteak tomato',1,false,'This is the total across parts of three tomatoes that had slight spoilage or softness; the rest of each tomato was intact.');
+  ('2026-09-13','Beefsteak tomato',1,false,'This is the total across parts of three tomatoes that had slight spoilage or softness; the rest of each tomato was intact.'),
+  ('2026-11-12','TJ Petite Peas',0.05,false,'I didn''t thaw the pack (that had been placed in the freezer) in advance of potatoes prep, so it was lumpy at the time of addition to the pot, and didn''t respond well to forced thawing. A few peas scattered to the floor and the countertop.');
   /* Double-check the date before committing */

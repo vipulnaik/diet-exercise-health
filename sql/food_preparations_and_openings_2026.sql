@@ -1259,7 +1259,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-04','TJ Walnuts',1,2,'2026-11-08',2),
   ('2026-11-05','TJ Miso Ginger Broth',1,1,'2026-11-12',1),
-  ('2026-11-05','TJ Almond Milk',1,2,null,null),
+  ('2026-11-05','TJ Almond Milk',1,2,'2026-11-12',2),
   ('2026-11-05','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-11-07',2),
   ('2026-11-07','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-11-09',1),
   /* 2026-11-08 eggplant meal prep (WITHOUT THE EGGPLANT!) (first meal) (added olive oil, turmeric, cumin, cinnamon, and salt; skipped cayenne pepper in light of upcoming dental cleaning) */
@@ -1269,11 +1269,21 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-08','TJ Carrots',1,1,null,null),
   ('2026-11-08','Beefsteak tomato',3,1,null,null), /* used 3 out of 6 from old batch (no new batch); 3 remaining in old batch */
   /* 2026-11-08 rice prep (second meal) (added turmeric, cumin, salt) */
-  ('2026-11-08','Lundberg Sustainable California White Basmati Rice',1,2,null,null),
+  ('2026-11-08','Lundberg Sustainable California White Basmati Rice',1,2,'2026-11-12',2),
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-08','TJ Walnuts',1,2,null,null),
   ('2026-11-09','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-11-11',1),
   ('2026-11-09','TJ Roasted Seaweed',1,2,null,null),
   ('2026-11-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,null,null),
-  ('2026-11-11','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-11-11','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-12',2),
+  /* 2026-11-12 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt; skipped cayenne pepper in light of dental cleaning done yesterday) */
+  ('2026-11-12','Gold potatoes 5 lb',0.5,2,null,null), /* 4 loose potatoes out of 6 purchased */
+  ('2026-11-12','TJ Kale',1,2,null,null),
+  ('2026-11-12','TJ Petite Peas',0.55,2,null,null), /* remainder from whatever I used in the 2026-11-03 prep and about 0.05 of the packet that fell out because I didn't thaw in advance so it was lumpy and didn't respond well to thawing */
+  ('2026-11-12','Beefsteak tomato',3,2,null,null), /* all from old batch */
+  ('2026-11-12','Roma tomato',4,2,null,null), /* actually vine tomatoes; all from new batch */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-11-12','TJ Miso Ginger Broth',1,2,null,null),
+  ('2026-11-12','TJ Almond Milk',1,2,null,null),
+  ('2026-11-12','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
   /* Double-check the date and meal index before committing */
