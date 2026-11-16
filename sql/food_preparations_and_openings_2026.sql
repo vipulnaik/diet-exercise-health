@@ -1074,7 +1074,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-09-18','TJ English Shelled Peas',2,1,'2026-09-24',1),
   ('2026-09-18','Beefsteak tomato',7,1,'2026-09-24',1), /* 5 from old batch (finishing old batch), 2 from new batch, 3 remain from new batch */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-09-18','Trader Giotto''s Olive Oil',1,1,null,null), /* opened with potatoes prep */
+  ('2026-09-18','Trader Giotto''s Olive Oil',1,1,'2026-11-12',2), /* opened with 2026-09-18 potatoes prep, finished with 2026-11-12 potatoes prep and I did not open a new bottle with the finishing prep */
   ('2026-09-18','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-09-20',1),
   ('2026-09-18','TJ Roasted Seaweed',1,2,'2026-09-29',2),
   ('2026-09-19','TJ Walnuts',1,1,'2026-09-24',2),
@@ -1292,5 +1292,14 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-13','TJ Walnuts',1,1,null,null),
   ('2026-11-13','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-11-15',1),
   ('2026-11-15','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
-  ('2026-11-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null);
+  ('2026-11-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  /* 2026-11-15 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; I resumed cayenne pepper after pause around dental cleaning) */
+  ('2026-11-15','Eggplant',1,2,null,null), /* bigger eggplant than usual */
+  ('2026-11-15','TJ Kale',1,2,null,null),
+  ('2026-11-15','TJ Carrots',1,2,null,null),
+  ('2026-11-15','Green bell pepper',4,2,null,null),
+  ('2026-11-15','Red bell pepper',2,2,null,null),
+  ('2026-11-15','Beefsteak tomato',6,2,null,null), /* used 6 of 7 from new batch (no old batch); 1 remaining from new batch */
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-11-15','Trader Giotto''s Olive Oil',1,2,null,null); /* opened with 2026-11-15 eggplant meal prep (the old bottle was already finished) */
   /* Double-check the date and meal index before committing */
