@@ -1278,3 +1278,10 @@ On Thursday 2026-11-12, I skipped all exercises to fit in a Berkeley
 Bowl trip in the early afternoon as well as potatoes prep for my
 second meal, after spending time on day job stuff in the morning and
 early afternoon.
+
+## 2026-11-16: skipped strength exercises
+
+On Monday 2026-11-16, I skipped strength exercises after jogging to
+conserve time and energy and not delay my meal and subsequent
+activities too much (after a couple of days of delays stacking on each
+other). I did hand gripper exercises and jogging as usual.
