@@ -1243,7 +1243,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-10-31','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-11-01',2),
   ('2026-10-31','TJ Walnuts',1,2,'2026-11-04',2),
   ('2026-10-31','TJ Roasted Seaweed',1,2,'2026-11-09',2),
-  ('2026-11-01','TJ Sauerkraut',1,1,null,null),
+  ('2026-11-01','TJ Sauerkraut',1,1,'2026-11-16',1),
   ('2026-11-02','TJ Carb Savvy Tortillas',1,1,'2026-11-02',2),
   ('2026-11-02','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-11-03',2),
   ('2026-11-03','TJ Carb Savvy Tortillas',1,1,'2026-11-03',2),
@@ -1291,7 +1291,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-13','TJ Walnuts',1,1,null,null),
   ('2026-11-13','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-11-15',1),
-  ('2026-11-15','Ezekiel Sprouted Flourless Tortillas',1,1,null,null),
+  ('2026-11-15','Ezekiel Sprouted Flourless Tortillas',1,1,'2026-11-16',1),
   ('2026-11-15','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   /* 2026-11-15 eggplant meal prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt; I resumed cayenne pepper after pause around dental cleaning) */
   ('2026-11-15','Eggplant',1,2,null,null), /* bigger eggplant than usual */
@@ -1301,5 +1301,6 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-15','Red bell pepper',2,2,null,null),
   ('2026-11-15','Beefsteak tomato',6,2,null,null), /* used 6 of 7 from new batch (no old batch); 1 remaining from new batch */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-11-15','Trader Giotto''s Olive Oil',1,2,null,null); /* opened with 2026-11-15 eggplant meal prep (the old bottle was already finished) */
+  ('2026-11-15','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with 2026-11-15 eggplant meal prep (the old bottle was already finished) */
+  ('2026-11-16','TJ Sauerkraut',1,1,null,null);
   /* Double-check the date and meal index before committing */
