@@ -1285,3 +1285,13 @@ On Monday 2026-11-16, I skipped strength exercises after jogging to
 conserve time and energy and not delay my meal and subsequent
 activities too much (after a couple of days of delays stacking on each
 other). I did hand gripper exercises and jogging as usual.
+
+## 2026-11-17: skipped strength exercises
+
+On Tuesday 2026-11-17, I skipped strength exercises after jogging to
+confirm time and energy and not delay my meal and subsequent
+activities. The context was that I wanted to make a Trader Joe's
+shopping trip after doing rice prep earlier in the day, so that the
+shopping trip finished before the rain starting tomorrow. So, things
+were tight for the day. I did hand gripper exercises and jogging as
+usual.
