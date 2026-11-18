@@ -1295,3 +1295,7 @@ shopping trip after doing rice prep earlier in the day, so that the
 shopping trip finished before the rain starting tomorrow. So, things
 were tight for the day. I did hand gripper exercises and jogging as
 usual.
+
+I ended up changing my mind about the Trader Joe's trip, but I still
+think skipping strength exercises was a good idea since it allowed me
+to fit in other time-sensitive stuff in the day.
