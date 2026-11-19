@@ -1277,11 +1277,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-11','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-11-13',1),
   ('2026-11-11','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-12',2),
   /* 2026-11-12 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, and salt; skipped cayenne pepper in light of dental cleaning done yesterday) */
-  ('2026-11-12','Gold potatoes 5 lb',0.5,2,null,null), /* 4 loose potatoes out of 6 purchased */
-  ('2026-11-12','TJ Kale',1,2,null,null),
-  ('2026-11-12','TJ Petite Peas',0.55,2,null,null), /* remainder from whatever I used in the 2026-11-03 prep and about 0.05 of the packet that fell out because I didn't thaw in advance so it was lumpy and didn't respond well to thawing */
-  ('2026-11-12','Beefsteak tomato',3,2,null,null), /* all from old batch */
-  ('2026-11-12','Roma tomato',4,2,null,null), /* actually vine tomatoes; all from new batch */
+  ('2026-11-12','Gold potatoes 5 lb',0.5,2,'2026-11-18',1), /* 4 loose potatoes out of 6 purchased */
+  ('2026-11-12','TJ Kale',1,2,'2026-11-18',1),
+  ('2026-11-12','TJ Petite Peas',0.55,2,'2026-11-18',1), /* remainder from whatever I used in the 2026-11-03 prep and about 0.05 of the packet that fell out because I didn't thaw in advance so it was lumpy and didn't respond well to thawing */
+  ('2026-11-12','Beefsteak tomato',3,2,'2026-11-18',1), /* all from old batch */
+  ('2026-11-12','Roma tomato',4,2,'2026-11-18',1), /* actually vine tomatoes; all from new batch */
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-12','TJ Miso Ginger Broth',1,2,null,null),
   ('2026-11-12','TJ Almond Milk',1,2,null,null),
