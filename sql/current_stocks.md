@@ -3,7 +3,7 @@
 | Asha Tea House ginger honey tea                    |                            0.0000 |                                    0.0000 |
 | Beefsteak tomato                                   |                            8.0000 |                                    6.0000 |
 | Eggplant                                           |                            0.0000 |                                    1.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            2.0000 |                                    0.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            1.0000 |                                    1.0000 |
 | Gold potatoes 5 lb                                 |                            1.2500 |                                    0.0000 |
 | Green bell pepper                                  |                            0.0000 |                                    4.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
@@ -19,7 +19,7 @@
 | Roma tomato                                        |                            0.0000 |                                    0.0000 |
 | Russet potatoes 3 lb                               |                            0.0000 |                                    0.0000 |
 | Russet potatoes 5 lb                               |                            0.0000 |                                    0.0000 |
-| TJ Almond Milk                                     |                            2.0000 |                                    1.0000 |
+| TJ Almond Milk                                     |                            1.0000 |                                    1.0000 |
 | TJ Baby Spinach                                    |                            0.0000 |                                    0.0000 |
 | TJ Brazil Nuts                                     |                            0.0000 |                                    1.0000 |
 | TJ Broccoli Florets 12 oz                          |                            0.0000 |                                    0.0000 |
@@ -33,7 +33,7 @@
 | TJ Kimchi                                          |                            0.0000 |                                    0.0000 |
 | TJ Miso Ginger Broth                               |                            2.0000 |                                    1.0000 |
 | TJ Petite Peas                                     |                            2.0000 |                                    0.0000 |
-| TJ Roasted Seaweed                                 |                            2.0000 |                                    1.0000 |
+| TJ Roasted Seaweed                                 |                            2.0000 |                                    0.0000 |
 | TJ Sauerkraut                                      |                            1.0000 |                                    1.0000 |
 | TJ Turmeric                                        |                            4.0000 |                                    1.0000 |
 | TJ Walnuts                                         |                            9.0000 |                                    1.0000 |
