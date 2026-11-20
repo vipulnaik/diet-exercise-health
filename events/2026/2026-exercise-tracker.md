@@ -1299,3 +1299,10 @@ usual.
 I ended up changing my mind about the Trader Joe's trip, but I still
 think skipping strength exercises was a good idea since it allowed me
 to fit in other time-sensitive stuff in the day.
+
+## 2026-11-19: skipped all exercises
+
+On Thursday 2026-11-19, I skipped all exercises. This was because of a
+long catch-up with work colleagues (done impromptu but displacing a
+potential future scheduled meeting, and generally when I do these long
+catch-ups I do skip exercises).
