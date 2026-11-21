@@ -467,7 +467,7 @@ insert into food_types(short_name, long_name, url,
   /* notes column */ 'I used the Nutrition Facts at https://www.amazon.com/Food-Life-Tortillas-Ezekiel-Sprouted/dp/B004T36LDO?th=1 (which per quick eyeballing match up with the physical item, but I did not check that every nutrient matches). This reports calories, weight, and nutrient amounts per tortilla, so I multiplied by 6 to get the estimates for the whole packet. The nutrition label also includes a few nutrients that were not in the food types schema as of data entry time: thiamin (vitamin B1) at 0.2 mg / tortilla, niacin (vitamin B3) at 3 mg / tortilla, folate at 25mcg / tortilla, selenium at 23 mcg / tortilla, and manganese at 1.4 mg / tortilla. In addition to wheat, the tortilla also includes sesame seeds, soybeans, barley, millet, lentils, and spelt, all of them sprouted. The name "Ezekiel 4:9" alludes to the eponymous Bible verse Ezekiel 4:9-17 that starts: "Take wheat and barley, beans and lentils, millet and spelt; put them in a storage jar and use them to make bread for yourself."'),
 
   ('TJ English Shelled Peas','Trader Joe''s English Shelled Peas','http://exploringtraderjoes.blogspot.com/2015/01/trader-joes-english-peas.html',
-  /* consumption mode */ 'continuous primary',
+  /* consumption mode */ 'continuous secondary',
   /* prepared versus opened */ 'prepared',
   /* calories, weight, and volume */ 240, 288, null,
   /* broad food type */ 'Pea',
@@ -1166,6 +1166,7 @@ insert into food_types(short_name, long_name, url,
 
 /* Spices, condiments, and seasonings -- these don't have nutritional information to speak of, or it's very hard to abstract out the nutritional information */
 insert into food_types(short_name, long_name, url, consumption_mode, prepared_versus_opened, broad_food_type, notes) values
+  ('TJ Petite Peas','Trader Joe''s Petite Peas',null,'continuous primary','prepared','Pea','Replacement for TJ English Shelled Peas'),
   ('Lemon','Lemon',null,'occasional','seasoning',null,'I just squeeze drops from the lemon rather than having the whole lemon, so any nutritional information for the whole lemon would be misleading.'),
   ('Himalayan Fine Pink Salt','Himalayan Fine Pink Salt',null,'occasional','seasoning','Table salt','I bought this as a one-off for saltwater rinsing for the Portland trip, so including it in nutritional information would be misleading.'),
   ('TJ Turmeric','Trader Joe''s Turmeric Powder 2 oz','https://www.amazon.com/Trader-Joes-Turmeric-2-Pack/dp/B00JU4BQ1Y','continuous primary','seasoning','Condiment','I use this turmeric powder for seasoning my prepared meals.'),

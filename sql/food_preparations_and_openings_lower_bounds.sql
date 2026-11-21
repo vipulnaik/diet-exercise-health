@@ -10,7 +10,7 @@ insert into food_preparations_and_openings_lower_bounds(food_type, num_days, qua
   /* For rice, I should eventually switch to a broad food type verification query */
   -- ('Lundberg Sustainable California White Basmati Rice',12,1.85),
   ('TJ Kale',10,2),
-  ('TJ English Shelled Peas',18,3),
+  ('TJ Petite Peas',18,0.75),
   ('Beefsteak tomato',14,8),
   -- ('Roma tomato',14,12),
   ('TJ Almond Milk',10,1),
