@@ -1306,3 +1306,11 @@ On Thursday 2026-11-19, I skipped all exercises. This was because of a
 long catch-up with work colleagues (done impromptu but displacing a
 potential future scheduled meeting, and generally when I do these long
 catch-ups I do skip exercises).
+
+## 2026-11-20: skipped all exercises
+
+On Friday 2026-11-20, I skipped all exercises. My initial hope had
+been to fit in both potatoes prep and regular laundry later in the
+day. However, I got delayed doing a few other things from my backlog,
+so I ended up just doing potatoes prep, but nonetheless the skipping
+of exercises helped conserve time.
