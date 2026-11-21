@@ -1304,11 +1304,11 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-15','Trader Giotto''s Olive Oil',1,2,null,null), /* opened with 2026-11-15 eggplant meal prep (the old bottle was already finished) */
   ('2026-11-16','TJ Sauerkraut',1,1,null,null),
   /* 2026-11-17 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-11-17','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  ('2026-11-17','Lundberg Sustainable California White Basmati Rice',1,1,'2026-11-20',1),
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-11-19',1),
   ('2026-11-18','TJ Walnuts',1,2,null,null),
   ('2026-11-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   ('2026-11-19','TJ Almond Milk',1,2,null,null),
-  ('2026-11-19','Ezekiel Sprouted Flourless Tortillas',1,2,null,null);
+  ('2026-11-19','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-20',1);
   /* Double-check the date and meal index before committing */
