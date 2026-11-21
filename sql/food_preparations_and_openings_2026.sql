@@ -1310,5 +1310,5 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-18','TJ Walnuts',1,2,null,null),
   ('2026-11-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
   ('2026-11-19','TJ Almond Milk',1,2,null,null),
-  ('2026-11-19','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-20',1);
+  ('2026-11-19','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-20',1); /* a couple of small pieces that were accidentally left were added to eggplant meal prep to finish with second meal on 2026-11-20 */
   /* Double-check the date and meal index before committing */
