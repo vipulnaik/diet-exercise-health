@@ -902,7 +902,7 @@ normal toothpaste followed by a baking soda toothpaste round on the
 lingual surfaces, I did a fingernail scrape test to check for soft
 plaque. No soft plaque was found, so the test passed.
 
-## 2026-11-09 and 2026-11-10(primary checklist execution)
+## 2026-11-09 and 2026-11-10 (primary checklist execution)
 
 - [x] Take the intra-oral camera out and plug it in to charge, so that it gets charged more by the time I am ready for the camera step
 - [x] Examine teeth in mirror; look for things like stains, plaque, and recession
