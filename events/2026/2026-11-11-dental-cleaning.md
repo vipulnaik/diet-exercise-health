@@ -142,10 +142,14 @@ up doing it on 2026-11-05, six days before the dental
 cleaning. Fortunately, it went well and I recovered quickly.
 
 The most time-intensive part is the photos, and I did those in two
-sessions, one each on Monday 2026-11-09 and Tuesday 2026-11-10. I also
-used the time to streamline the process somewhat, though I deferred
-updating the official checklist to the post-cleaning checklist
-execution.
+sessions, one each on Monday 2026-11-09 and Tuesday 2026-11-10. In
+addition to tackling this round of photos, I also wrapped up a few
+pending items from the last round (the photos taken after the
+2026-05-01 dental cleaning). I also used the time to streamline the
+process somewhat and add a verification script to make sure I used
+anatomically correct and consistent naming going forward. I deferred
+updating the checklist itself (to reflect the new process) to the
+planned checklist execution after the dental cleaning.
 
 ### Fermentable food reduction (24 hours prior to the appointment) (sort-of done)
 
