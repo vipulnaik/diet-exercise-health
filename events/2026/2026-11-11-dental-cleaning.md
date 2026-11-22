@@ -127,3 +127,41 @@ the meeting time) for the dental cleaning appointment.
 On Friday 2026-11-06, after reviewing the situation so far (including
 the partly completed dental self-exam checklist execution, including
 the floss pick pressure test), I decided against cancellation.
+
+### Dental self-exam checklist (primarily done 2026-11-09 and 2026-11-10, with some pieces done in advance)
+
+Things were somewhat busy in the week prior to the dental cleaning,
+but I still wanted to get the dental self-exam checklist done. I did
+several of the smaller pieces as standalone items, logging them to the
+[dental self-exam checklist
+log](../../logs/dental-self-exam-checklist-log.md) each within a day
+or so of its execution. In particular, the floss pick pressure test
+was something I wanted to make sure I finished about a week before the
+dental cleaning (to give myself adequate recovery time), and I ended
+up doing it on 2026-11-05, six days before the dental
+cleaning. Fortunately, it went well and I recovered quickly.
+
+The most time-intensive part is the photos, and I did those in two
+sessions, one each on Monday 2026-11-09 and Tuesday 2026-11-10. I also
+used the time to streamline the process somewhat, though I deferred
+updating the official checklist to the post-cleaning checklist
+execution.
+
+### Fermentable food reduction (24 hours prior to the appointment) (sort-of done)
+
+I try to reduce fermentable food consumption in the 24 hours prior to
+the appointment. I adhered to this somewhat, partly by chance.
+
+* I didn't have a meal in the morning before my dental cleaning
+  appointment, so only the meals the previous day (2026-11-10) were
+  relevant. On 2026-11-10, I started my first meal a little after 3 PM
+  and started my second meal a little before 9 PM, so both are within
+  the 24 hours prior to my appointment.
+
+* I did have some sauerkraut for my first meal on 2026-11-10 and not
+  the second, as is customary for me (I have sauerkraut only with the
+  first meal). I didn't have any other highly fermentable foods mostly
+  because I didn't have preparation or stock for them, including
+  tortillas and potatoes/peas prep. If I had had these in stock, I
+  would have had to make a deliberate decision to pause or reduce my
+  consumption of them.
