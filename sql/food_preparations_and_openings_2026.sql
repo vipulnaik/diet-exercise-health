@@ -1308,7 +1308,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-11-19',1),
   ('2026-11-18','TJ Walnuts',1,2,null,null),
-  ('2026-11-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-11-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-11-21',1),
   ('2026-11-19','TJ Almond Milk',1,2,null,null),
   ('2026-11-19','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-20',1), /* a couple of small pieces that were accidentally left were added to eggplant meal prep to finish with second meal on 2026-11-20 */
   /* 2026-11-20 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
@@ -1318,7 +1318,10 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-20','Beefsteak tomato',5,2,null,null), /* 1 from old batch (finishing old batch), 4 of 7 from new batch, 3 remaining in new batch */
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-20','TJ Roasted Seaweed',1,2,null,null),
-  ('2026-11-20','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-11-20','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-21',1),
   /* 2026-11-21 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-11-21','Lundberg Sustainable California White Basmati Rice',1,1,null,null);
+  ('2026-11-21','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-11-21','Kite Hill Greek Style Plant-Based Yogurt',1,1,null,null),
+  ('2026-11-21','TJ Miso Ginger Broth',1,1,null,null);
   /* Double-check the date and meal index before committing */
