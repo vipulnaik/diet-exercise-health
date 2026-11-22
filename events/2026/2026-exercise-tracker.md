@@ -1314,3 +1314,9 @@ been to fit in both potatoes prep and regular laundry later in the
 day. However, I got delayed doing a few other things from my backlog,
 so I ended up just doing potatoes prep, but nonetheless the skipping
 of exercises helped conserve time.
+
+## 2026-11-22: skipped strength exercises
+
+On Sunday 2026-11-22, I skipped strength exercises to conserve time
+and move my schedule to earlier after a few long days. I did hand
+gripper exercises and indoor jogging as usual.
