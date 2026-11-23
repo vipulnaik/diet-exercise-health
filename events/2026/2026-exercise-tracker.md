@@ -1320,3 +1320,10 @@ of exercises helped conserve time.
 On Sunday 2026-11-22, I skipped strength exercises to conserve time
 and move my schedule to earlier after a few long days. I did hand
 gripper exercises and indoor jogging as usual.
+
+## 2026-11-23: skipped all exercises
+
+On Monday 2026-11-23, I skipped all exercises because I woke up late
+(despite sleeping early), a few day job items ended up taking more
+time than expected, and I wanted to fit in various chores later in the
+day, so I wanted to conserve time.
