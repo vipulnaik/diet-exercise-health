@@ -197,3 +197,8 @@ appointment. Appointment details are
 2026-11-11, but they will be added to this document eventually). On
 the way back, I stopped at the Walgreens at 2801 Adeline St for
 toiletries purchases.
+
+## 2026-11-23
+
+On Monday 2026-11-23, in the evening, I made a trip to the Amazon Hub
+Locker at ASUC Berkeley to pick up packages.
