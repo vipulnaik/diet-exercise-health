@@ -1327,3 +1327,9 @@ On Monday 2026-11-23, I skipped all exercises because I woke up late
 (despite sleeping early), a few day job items ended up taking more
 time than expected, and I wanted to fit in various chores later in the
 day, so I wanted to conserve time.
+
+## 2026-11-24: skipped all exercises
+
+On Tuesday 2026-11-24, I skipped all exercises in order to fit in a
+Trader Joe's trip in the early afternoon (so that I got stocked up
+before rain later in the evening) and meal prep in the evening.
