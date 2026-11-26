@@ -3,14 +3,14 @@
 | Asha Tea House ginger honey tea                    |                            0.0000 |                                    0.0000 |
 | Beefsteak tomato                                   |                           10.0000 |                                    5.0000 |
 | Eggplant                                           |                            1.0000 |                                    0.0000 |
-| Ezekiel Sprouted Flourless Tortillas               |                            3.0000 |                                    0.0000 |
+| Ezekiel Sprouted Flourless Tortillas               |                            2.0000 |                                    1.0000 |
 | Gold potatoes 5 lb                                 |                            0.7500 |                                    0.5000 |
 | Green bell pepper                                  |                            4.0000 |                                    0.0000 |
 | Imm Thai Street Food white rice                    |                            0.0000 |                                    0.0000 |
 | Imm Thai Street Food yellow curry tofu             |                            0.0000 |                                    0.0000 |
-| Kite Hill Greek Style Plant-Based Yogurt           |                            2.0000 |                                    1.0000 |
+| Kite Hill Greek Style Plant-Based Yogurt           |                            1.0000 |                                    1.0000 |
 | Kite Hill Unsweetened Plain Almond Milk Yogurt     |                            0.0000 |                                    0.0000 |
-| Lundberg Sustainable California White Basmati Rice |                            5.0000 |                                    1.0000 |
+| Lundberg Sustainable California White Basmati Rice |                            5.0000 |                                    0.0000 |
 | Lundberg Sustainable California White Jasmine Rice |                            1.0000 |                                    0.0000 |
 | Morton Iodized Sea Salt                            |                            1.0000 |                                    1.0000 |
 | Mr. East Kitchen veggie pho                        |                            0.0000 |                                    0.0000 |
