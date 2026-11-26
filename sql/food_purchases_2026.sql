@@ -773,7 +773,18 @@ insert into food_purchases(purchase_date, food_type, quantity, number_of_meals_c
   ('2026-11-19','TJ Walnuts',4,1),
   ('2026-11-19','Beefsteak tomato',7,1),
   ('2026-11-19','TJ Kale',1,1),
-  ('2026-11-19','TJ Petite Peas',2,1);
+  ('2026-11-19','TJ Petite Peas',2,1),
+  /* 2026-11-24 (Tuesday) Trader Joe's; total cost $39.19; checkout at 3:42 PM; paid by credit card; 22 items in transaction but I was billed for 21 */
+  ('2026-11-24','Ezekiel Sprouted Flourless Tortillas',3,0),
+  ('2026-11-24','TJ Miso Ginger Broth',1,0),
+  ('2026-11-24','TJ Sauerkraut',1,0),
+  ('2026-11-24','Beefsteak tomato',7,0), /* I was incorrectly billed for 6 */
+  ('2026-11-24','Red bell pepper',2,0),
+  ('2026-11-24','Eggplant',1,0),
+  ('2026-11-24','Green bell pepper',4,0),
+  ('2026-11-24','TJ Carrots',1,0),
+  ('2026-11-24','TJ Roasted Seaweed',1,0),
+  ('2026-11-24','TJ Kale',1,0);
   /* after entering a batch of data for a purchase:
   (a) eyeball for correct format
   (b) double-check date and C-s search to confirm correctness
