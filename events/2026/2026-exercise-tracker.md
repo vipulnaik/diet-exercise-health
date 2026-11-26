@@ -1333,3 +1333,11 @@ day, so I wanted to conserve time.
 On Tuesday 2026-11-24, I skipped all exercises in order to fit in a
 Trader Joe's trip in the early afternoon (so that I got stocked up
 before rain later in the evening) and meal prep in the evening.
+
+## 2026-11-25: reduced jogging and skipped strength exercises
+
+On Wednesday 2026-11-25, I did hand gripper exercises as usual (albeit
+with reduced performance) and reduced indoor jogging. I skipped
+strength exercises. All these deviations were tied to my generally not
+feelig great, and tied to my sore throat. See
+[here](2026-11-23-onward-sore-throat.md) for more information.

@@ -92,7 +92,8 @@ Sections of this document:
 
 ## Ongoing incidents
 
-I have no ongoing incidents.
+As of November 2026, I have an ongoing sore throat incident documented
+[here](../events/2026/2026-11-23-onward-sore-throat.md).
 
 You can see the list of incidents for 2026 in the [events/2026
 folder](../events/2026). Similar incidents for past years can be
