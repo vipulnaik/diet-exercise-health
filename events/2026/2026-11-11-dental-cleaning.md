@@ -6,11 +6,13 @@ Avenue. The previous dental cleaning was on
 [2026-05-01](2026-05-01-dental-cleaning.md).
 
 The appointment completed successfully. Documentation of the
-appointment, and some aspects of prior preparation, is still pending.
+appointment, and its immediate aftermath, is still pending.
 
 Sections of this document:
 
 * [Prior preparation](#prior-preparation)
+* [Appointment](#appointment)
+* [Immediate aftermath](#immediate-aftermath)
 
 ## Prior preparation
 
@@ -151,7 +153,7 @@ anatomically correct and consistent naming going forward. I deferred
 updating the checklist itself (to reflect the new process) to the
 planned checklist execution after the dental cleaning.
 
-### Fermentable food reduction (24 hours prior to the appointment) (sort-of done)
+### Fermentable food reduction (24 hours prior to the appointment) and intense food reduction (sauerkraut and walnuts) (sort-of done)
 
 I try to reduce fermentable food consumption in the 24 hours prior to
 the appointment. I adhered to this somewhat, partly by chance.
@@ -169,3 +171,91 @@ the appointment. I adhered to this somewhat, partly by chance.
   tortillas and potatoes/peas prep. If I had had these in stock, I
   would have had to make a deliberate decision to pause or reduce my
   consumption of them.
+
+### Face shaving leading up to the appointment (done across 2026-11-09, 2026-11-10, and 2026-11-11)
+
+The reminders included a normal face shaving reminder for the evening
+before and a thorough face shaving reminder for the morning of the
+appointment. Instead, I ended up doing a round of normal face shaving
+two days before (on Monday 2026-11-09), then an additional thorough
+round the day before (on Tuesday 2026-11-10) including scissors
+trimming of hair close to the lip that I aim to do about once a month,
+and finally, a thorough face shaving the morning of to catch the
+slight overnight stubble.
+
+### Shopping reminder for before the appointment (rejected)
+
+I had a shopping reminder for two days prior to the appointment (on
+Monday 2026-11-09). However, for various scheduling reasons, it was
+more convenient to defer shopping to after the appointment, and given
+that I didn't expect the dental cleaning to meaningfully reduce my
+ability to do shopping, that's what I chose. I ended up making a
+Trader Joe's trip in the evening on Wednesday 2026-11-11.
+
+### Packing/prep the night before the appointment (2026-11-10)
+
+This was relatively straightforward and I executed it the night before
+the appointment.
+
+### Skipping of exercise the morning of the appointment (2026-11-11)
+
+I skipped exercise the morning of the appointment (Wednesday
+2026-11-11).
+
+## Appointment
+
+This section is pending.
+
+## Immediate aftermath
+
+### Post-appointment evaluation and sauerkraut pause decision
+
+Since I had not had my first meal prior to the appointment, I was
+going to have it after the appointment. I needed to decide whether to
+pause sauerkraut and walnuts for that meal, and how long to continue
+that pause (I had a calendar reminder prompting me to make the
+decision).
+
+Based on the dental cleaning itself being free of bleeding and pain,
+and my mouth comfort being good, I determined that there was no need
+to pause walnuts.
+
+However, some of the mouth drying effects, the swallowing of the
+irrigation, and the general taste/feel in the mouth led me to, out of
+an abundance of caution, pause sauerkraut consumption for just the one
+day (2026-11-11). I resumed sauerkraut the next day (2026-11-12).
+
+### Slight bleeding during floss pick flossing that night
+
+On Thursday 2026-11-12, slightly past midnight from Wednesday
+2026-11-11 (the day of the appointment), during floss pick flossing
+after my second meal, I noticed a little bit of bleeding from one or
+more of the right mandibular interdental gaps (either the one between
+the two right mandibular molars or the one between the right
+mandibular molar and premolar, probably the former). The dental
+instrument use on the area has likely caused micro-injuries that were
+exacerbated by the floss pick contact. These are interdental gaps that
+need some effort for the floss pick to get in, so that process itself
+can lead to a stronger impact from the floss pick, so it is more
+likely to take a micro-injury to a bleeding state.
+
+### Reduced talking and increased hydration for about the next two days (from 2026-11-11 to 2026-11-13)
+
+To deal with the slight mouth drying and reduce the risk of throat
+irritation and excess salivation, I was careful to deliberately drink
+water regularly and also limit my talking for the next two days
+(including being careful not to talk too much in a work meeting on
+Thursday 2026-11-12). The caution to reduce talking and drink more
+water was present as calendar reminders on 2026-11-12 and 2026-11-13.
+
+I ended up not experiencing excess salivation or throat irritation.
+
+### Head/neck/shoulder soreness check the next day (2026-11-12)
+
+As the extended period in the dental chair can lead to
+head/neck/shoulder soreness, Per a calendar reminder to do so, I
+checked the next day (Thursday 2026-11-12) and felt that I was fine
+overall. For unrelated scheduling reasons, I skipped all exercises on
+Thursday 2026-11-12, so I didn't need to make a determination of
+whether to do strength exercises at full load. On Friday 2026-11-13, I
+did do strength exercises at full load and did not have any trouble.
