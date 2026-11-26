@@ -505,6 +505,52 @@ widely in duration, and rigid thresholds can become impossible to
 achieve on some days if the first few attempts went poorly, leading to
 exhaustion without hitting the goal.
 
+### Technical implementation details of rigid thresholds
+
+#### Quadratic sequence structure of attempt-specific thresholds
+
+For the exercises where I have implemented rigid thresholds, the
+sequence of attempt-specific thresholds is a quadratic sequence, i.e.,
+the difference of differences is a constant. Each attempt has a lower
+threshold than the preceding attempt, but the extent by which it is
+lower reduces by a specific amount from one attempt to the next.
+
+#### Trailing partial sum criterion
+
+I implement the following trailing partial sum criterion to avoid edge
+cases and gaming possibilities for the thresholds.
+
+To be able to end at attempt *n*, I not only need to achieve the
+attempt-specific thresold for attempt *n*, but also, for any *m*
+between 1 and *n*, I need that the trailing partial sum of
+attempt-specific thresholds from *m* to *n* (so a total of *n - m + 1*
+summands) is at or above the attempt-specific threshold for attempt
+*m*.
+
+For instance, to succeed at the second attempt, not only do I need the
+threshold for the second attempt to be achieved in the second attempt,
+I also need that the total of my durations for the first two attempts
+to achieve (meet or exceed) the threshold for the first attempt.
+
+This addresses two things:
+
+* Early loss of balance without meaningful fatigue accumulation: I
+  sometimes lose balance for random reasons early on in an
+  attempt. This early loss of balance does not have the fatigue
+  implications that should cause me to significantly shorten my second
+  attempt threshold. The trailing partial sum criterion mitigates
+  somewhat here.
+
+* Deliberate throws of attempts: Without the trailing partial sum
+  criterion, I am incentivized to throw the first few attempts early
+  and then get to the last attempt with a reduced threshold, which
+  both saves me time and makes it easier. The trailing partial sum
+  criterion mitigates the incentive to deliberately throw, at least
+  very early on, and makes sure that deliberate throws cost at least
+  as much time as not throwing. With that said, they don't fully
+  address deliberate throws midway through an attempt once I am past
+  the successive attempt difference.
+
 ### Temperature and warmup
 
 Temperature and warmup (prior movement and activity of muscles) can

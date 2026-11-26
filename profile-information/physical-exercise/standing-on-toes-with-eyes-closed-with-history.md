@@ -71,6 +71,9 @@ what I should be able to achieve in a good starting state without
 fatigue, and the fifth try threshold of 110 seconds represents what I
 should be able to achieve even under adverse conditions.
 
+I also need to pass the [trailing partial sum
+criterion](reduced-support-standing-exercises.md#trailing-partial-sum-criterion).
+
 ## Triggers for overall exercise
 
 The practice 2025-11-24 onward is to do this exercise during rice

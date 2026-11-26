@@ -84,6 +84,9 @@ Starting 2026-10-31, the threshold duration is as follows:
   seconds represents what I should be able to achieve even under
   adverse conditions.
 
+  I also need to pass the [trailing partial sum
+  criterion](reduced-support-standing-exercises.md#trailing-partial-sum-criterion).
+
 * If the indoor temperature at time of exercise is 68 degrees
   Fahrenheit (20 degrees Celsius) or higher, no adjustment. If the
   temperature is greater than 50 degrees Fahrenheit (10 degrees
