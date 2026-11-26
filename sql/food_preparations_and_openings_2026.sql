@@ -1309,13 +1309,13 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-17','Kite Hill Greek Style Plant-Based Yogurt',1,2,'2026-11-19',1),
   ('2026-11-18','TJ Walnuts',1,2,'2026-11-22',1),
   ('2026-11-19','Kite Hill Greek Style Plant-Based Yogurt',1,1,'2026-11-21',1),
-  ('2026-11-19','TJ Almond Milk',1,2,null,null),
+  ('2026-11-19','TJ Almond Milk',1,2,'2026-11-25',1),
   ('2026-11-19','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-20',1), /* a couple of small pieces that were accidentally left were added to eggplant meal prep to finish with second meal on 2026-11-20 */
   /* 2026-11-20 potatoes prep (second meal) (added olive oil, turmeric, cumin, cinnamon, cayenne pepper, and salt) */
-  ('2026-11-20','Gold potatoes 5 lb',0.5,2,null,null), /* 2 remaining loose potatoes from earlier purchase and then the rest taken from the 5 lbs pack purchased the preceding day */
-  ('2026-11-20','TJ Kale',1,2,null,null),
-  ('2026-11-20','TJ Petite Peas',0.5,2,null,null),
-  ('2026-11-20','Beefsteak tomato',5,2,null,null), /* 1 from old batch (finishing old batch), 4 of 7 from new batch, 3 remaining in new batch */
+  ('2026-11-20','Gold potatoes 5 lb',0.5,2,'2026-11-25',1), /* 2 remaining loose potatoes from earlier purchase and then the rest taken from the 5 lbs pack purchased the preceding day */
+  ('2026-11-20','TJ Kale',1,2,'2026-11-25',1),
+  ('2026-11-20','TJ Petite Peas',0.5,2,'2026-11-25',1),
+  ('2026-11-20','Beefsteak tomato',5,2,'2026-11-25',1), /* 1 from old batch (finishing old batch), 4 of 7 from new batch, 3 remaining in new batch */
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-20','TJ Roasted Seaweed',1,2,null,null),
   ('2026-11-20','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-21',1),
@@ -1338,5 +1338,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   /* new bottle/packet openings as the old ones finished */
   ('2026-11-24','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
   /* 2026-11-25 rice prep (first meal) (added turmeric, cumin, salt) */
-  ('2026-11-25','Lundberg Sustainable California White Basmati Rice',1,1,null,null);
+  ('2026-11-25','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
+  /* new bottle/packet openings as the old ones finished */
+  ('2026-11-25','TJ Almond Milk',1,1,null,null);
   /* Double-check the date and meal index before committing */
