@@ -182,7 +182,10 @@ better creates what I call the volume ratchet effect: a tendency to
 keep raising the volume on sound to make it sound better, particularly
 for the good parts, and then forget to turn the volume down.
 
-### Music versus podcasts: the key differences
+### Music, podcasts/talking head videos, and TV shows/movies: the key differences
+
+Of the three categories (music, podcasts/talking head videos, and TV
+shows/movies), music tends to require the lowest listening volumes:
 
 * Music has a fundamentally lower extraction threshold than speech due
   to greater redundancy in presentation.
@@ -190,8 +193,37 @@ for the good parts, and then forget to turn the volume down.
 * Dynamic range compression for music further makes the music feel
   louder at a given volume.
 
-Combined, these considerations mean that music is better listened to
-at lower volumes than speech.
+Among podcasts and TV shows/movies, podcasts / talking head videos
+with clear sound editing (recorded indoors with professional recording
+equipment and with noise reduction applied, as is the case for most
+podcasts I listen to) tend to require somewhat lower listening volume
+than TV shows/movies. This is for a few reasons:
+
+* Generally, well-edited podcasts/talking head videos tend to have
+  just one or two speakers, speaking at a roughly constant volume,
+  with very little background noise. In contrast, TV shows and movies
+  often have people speaking at different volumes and in different
+  tones (as the volume and tone are themselves conveying valuable
+  information) and in the presence of various kinds of deliberately
+  added environmental sounds and sometimes background music as well.
+
+* I also tend to listen to podcasts/talking head videos only in
+  languages I am very familiar with (usually English, sometimes Hindi,
+  and only occasionally other languages like Korean) whereas the
+  majority of my TV show/movie listening is in languages I still have
+  only elementary proficiency in (Korean) or even worse (Japanese and
+  Kannada). Since my limited proficiency means my error correction
+  capabilities are less advanced, the volume needs to be high enough
+  for me to hear all syllables.
+
+Even within TV shows/movies, there can be variation driven by the kind
+of show. Some high-variance period and action dramas, such as Game of
+Thrones or Kingdom (the Korean drama) have huge variation between
+quiet conversation scenes and loud, scary action scenes. These shows
+tend to need slightly higher listening volumes. On the other hand,
+conversation-heavy shows (including most legal, political, medical,
+and family dramas) work fine at the lower end of the listening range
+for TV shows/movies.
 
 ### Sound characteristics and their relationship to damage and fatigue
 
@@ -312,6 +344,66 @@ raising the need for volume.
 
 ## My specific practices
 
+### Protection against loud sounds
+
+While I am not exposed to loud sounds at a range that would cause
+hearing loss (per the principles described earlier in the document), I
+do have occasional exposure to loud sounds that can cause or
+exacerbate fatigue, particularly in context of increased sound
+sensitivity such as when I have head/neck/shoulder soreness. Below, I
+describe some practices I try to adhere to on a best-effort basis
+(i.e., I adhere as much as I can, but may not always do them).
+
+#### Covering ears with hands for brief loud noises (like sirens and trains)
+
+Where feasible, I try to cover my ears with my hands when I start
+hearing a loud noise, such as a siren or an approaching train. These
+sounds are both loud and high-pitched, and they have a relatively
+predictable profile in terms of duration. The estimated reduction in
+sound volume from covering is about 15 to 20 dB, which means I still
+hear the sound clearly enough to know when it has ended.
+
+* When I am indoors and seated at my computer, and not in a call or
+  using headphones, I don't need any situational awareness, so this
+  action is relatively free other than the few seconds where I don't
+  have use of hands to do work. In some cases, this doesn't break my
+  flow because I still have stuff to read on my current screen.
+
+  I log these to Slack self-chat logs as `hands over ears for siren`
+  or using the acronym `hoefs`.
+
+* When I am indoors and already have headphones on, I don't use hands
+  over ears, as the headphones over comparable occlusive protection
+  (however, I still prefer hands when I don't alreadyh ave headphones
+  on, because it's much quicker to put hands on than headphones, and
+  many of the loud sounds offer very short notice).
+
+* When I am outdoors, I cover ears with hands if not directly walking
+  in traffic (such as crossing the street) and, to the extent
+  possible, I stop or slow down so that the reduced situational
+  awareness doesn't hurt me.
+
+A few useful facts for specific sounds:
+
+* Sirens tend to cluster in time, as multiple fire trucks, police
+  vehicles, and ambulances or emergency vehicles descend on a
+  scene. Therefore, it's important to be vigilant for a few minutes
+  after an initial siren. Switching to some kind of work that needs
+  hands less, where feasible, can be helpful.
+
+* Train sounds (while on the platform) can be predicted based on
+  display messages about arriving and departing trains.
+
+#### Other options
+
+* I do have earplugs, but do not use them normally. However, they
+  would be an option in case of extended periods of loud sounds.
+
+* I have considered getting headphones with active noise cancellation;
+  however, my current sound exposure profile doesn't make it
+  worthwhile. It's something I may consider if I have to travel by
+  train frequently, or if there is loud construction near where I live
+
 ### Sound delivery format
 
 I use bone conduction headphones exclusively for listening when on the
@@ -330,36 +422,21 @@ tearing vegetables.
 
 ### Volume control
 
-Below is a list of range of volume on the Macbook Air.
+Below is a list of volume ranges by activity on the Macbook Air.
 
 Activity | Headphone type | Typical volume
 -- | -- | --
-listening to a podcast while away from computer | bone conduction | 7/16 (occasionally down to 6/16 or 5/16 when it's a bit more boisterous)
-rewatch / re-listen of a movie or web series I've watched before, while away from computer | bone conduction | 7/16 to 11/16 (position in range depends on the kind of show)
+listening to a podcast/talking head video while away from computer | bone conduction | 5/16 or 6/16 (for indoor, professionally recorded, noise-reduced, uniform speaker volume); up to 7/16 for outdoor recordings, variable volume, moving around, more environmental noise
+rewatch / re-listen of a movie or web series I've watched before, while away from computer | bone conduction | 7/16 for most dramas; can go up to 9/16 to 11/16 for high-variance period and action dramas
 shuffle music listening of a playlist while away from computer | bone conduction | 4/16 (occasionally down to 3/16)
 on-computer listening to a familiar song | over-ear | 1/16 or 2/16 (position in range depends on the kind of show and my mood and state)
 listening to a piano instrumental of a familiar song while away from computer and wanting to minimize cognitive stimulation | bone conduction | 1/16 or 2/16 (position in range epends on my mood and state)
-watching of a TV show or movie while on my computer | over-ear | 4/16 to 8/16 (position in range depends on the kind of show)
+watching of a TV show or movie while on my computer | over-ear | 4/16 to 6/16 for most dramas; can go up to 8/16 for high-variance period and action dramas
 
-A note on the "kind of show" and how it affects the needed volume for
-both on-computer and off-computer listening. The majority of
-conversation-heavy shows are similar enough to podcasts in their
-volume needs, so a volume of around 4/16 to 5/16 with over-ear
-headphones and 7/16 with bone conduction headphones works. On the
-other hand, some shows, such as Game of Thrones or Kingdom (the Korean
-drama) have huge variation between quiet conversation scenes and loud,
-scary action scenes. For these shows, a volume of 9/16 is typically
-needed, and in some cases, the volume needs to be increased to
-11/16. This does tend to be a bit on the loud end for the scary action
-scenes, but the intelligibility of the conversations is a stricter
-constraint.
+The conceptual reasons explaining the relative volumes are covered in
+earlier sections.
 
-While the Macbook Air volume controls, as interpreted by over-ear and
-bone conduction headphones, don't directly map to decibel levels, I'm
-reasonably confident that I rarely exceed 50 dB, and generally stay
-below 40 dB.
-
-### Recording volume whenever I start any afk listening or other bone conduction headphone listening
+### Recording my listening volume whenever I start any afk listening or other bone conduction headphone listening
 
 I record the start of any afk listening with a Slack self-chat log
 message, and include in that recording the volume. This has several
@@ -385,6 +462,18 @@ mechanisms to express my enthusiasm for that portion of the
 music. Unlike raising volume, that can have a ratchet effect if not
 promptly reversed, humming naturally stops once the exciting part
 ends.
+
+### Skin press for bone conduction headphones during brief periods of high ambient noise
+
+I set the volume for bone conduction headphones so that they allow for
+effective listening within the normal range of ambient noise. In some
+cases, ambient noise increases temporarily, either due to factors I
+control (such as running water or flushing) or factors outside my
+control (a loud siren). In such cases, I press the bone conduction
+headphones against my skin. I generally do this using my shoulder and
+only on one side, so that I don't have to make use of my hands that
+might be dirty, wet, or occupied. Once the sound stops, I stop the
+skin press. This practice avoids another source of volume ratchet.
 
 ### Opting out of optional listening in noisy environments
 
