@@ -1336,7 +1336,7 @@ insert into food_preparations_and_openings(preparation_or_opening_date, food_typ
   ('2026-11-24','Red bell pepper',2,2,null,null),
   ('2026-11-24','Beefsteak tomato',5,2,null,null), /* 3 from old batch (finishing old batch), 2 of 7 from new batch, 5 remaining in new batch */
   /* new bottle/packet openings as the old ones finished */
-  ('2026-11-24','Ezekiel Sprouted Flourless Tortillas',1,2,null,null),
+  ('2026-11-24','Ezekiel Sprouted Flourless Tortillas',1,2,'2026-11-26',1),
   /* 2026-11-25 rice prep (first meal) (added turmeric, cumin, salt) */
   ('2026-11-25','Lundberg Sustainable California White Basmati Rice',1,1,null,null),
   /* new bottle/packet openings as the old ones finished */
