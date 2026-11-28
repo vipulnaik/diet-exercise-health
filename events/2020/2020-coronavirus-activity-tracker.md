@@ -117,7 +117,7 @@ See also https://github.com/vipulnaik/daily-updates/issues/142
 ## Sunday April 12
 
 * 9:01 AM to 9:13 AM: During this period, I was in the Walgreens
-  store. I bought a flask and face tissues. I checked out using my
+  store. I bought a flask and facial tissues. I checked out using my
   phone number and debit card; the sales clerk was female and somebody
   I had not seen before. The transaction happened at 9:11 AM.
 

@@ -207,7 +207,7 @@ tasks. Some of the stops were:
 ## 2025-06-23
 
 On Monday 2025-06-23, in the morning, I made a trip to Walgreens for
-toiletries shopping (specifically, to stock back up on face tissues
+toiletries shopping (specifically, to stock back up on facial tissues
 after the depletion due to my recent respiratory infection).
 
 ## 2025-07-03

@@ -44,7 +44,7 @@ fingerprint/power key if applicable.
 This is to make sure that if there is any leakage it hits the paper
 towels first and minimizes the mess on the table.
 
-### Get a few face tissues handy
+### Get a few facial tissues handy
 
 Keep these handy on the table nearby for use to easily wipe stuff including my face or the kit if there is any leakage.
 

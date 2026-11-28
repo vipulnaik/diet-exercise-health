@@ -6,7 +6,7 @@ On Wednesday 2025-09-03, I had just gotten out of Walgreens. I
 remembered that I needed to double-check my pockets, so to free up one
 hand, I was moving one of my bags from the other hand.
 
-The bags were a bit overfilled with face tissue packs, so the carrying
+The bags were a bit overfilled with facial tissue packs, so the carrying
 handles of the two bags were farther apart than usual. This made the
 manipulation a little harder than usual, so there was a moment in
 between where I felt like I had lost control of one bag (though I

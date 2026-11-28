@@ -441,7 +441,7 @@ Here is the summary:
 
 ## Summary statistics of interest
 
-### Nose-blowing and face tissue use
+### Nose-blowing and facial tissue use
 
 I started recording nose-blowing frequency on Thursday 2025-06-12; the
 runny nose starting on Wednesday 2025-06-11.
@@ -538,39 +538,39 @@ Here is the recorded frequency of sneezing starting 2025-06-12:
 Overall, the frequency of sneezing is a little higher than usual but
 within the range of usual.
 
-#### Turnover of face tissues
+#### Turnover of facial tissues
 
 Command used in my Slack self-chat logs folder:
 
 ```
-grep -E "^2025-|face tissue pack replaced" 2025/2025-06-*.txt
+grep -E "^2025-|facial tissue pack replaced" 2025/2025-06-*.txt
 ```
 
-I generally turn over a pack of face tissues (Puffs, usually with
+I generally turn over a pack of facial tissues (Puffs, usually with
 Vicks) once every 5 to 9 days. For comparison, I turned over packs of
-face tissues much more quickly over this period.
+facial tissues much more quickly over this period.
 
 This can be a better measure than nose-blowing frequency because it
 better accounts for the magnitude of congestion that I needed to
-remove, by weighting by the number of face tissues used.
+remove, by weighting by the number of facial tissues used.
 
-* 2025-06-11: Replaced face tissue pack once
+* 2025-06-11: Replaced facial tissue pack once
 
-* 2025-06-12: Replaced face tissue pack twice
+* 2025-06-12: Replaced facial tissue pack twice
 
-* 2025-06-13: Replaced face tissue pack once
+* 2025-06-13: Replaced facial tissue pack once
 
-* 2025-06-14: Replaced face tissue pack once
+* 2025-06-14: Replaced facial tissue pack once
 
-* 2025-06-16: Replaced face tissue pack once
+* 2025-06-16: Replaced facial tissue pack once
 
-* 2025-06-18: Replaced face tissue pack once
+* 2025-06-18: Replaced facial tissue pack once
 
-* 2025-06-22: Replaced face tissue pack once
+* 2025-06-22: Replaced facial tissue pack once
 
-* 2025-06-27: Replaced face tissue pack once
+* 2025-06-27: Replaced facial tissue pack once
 
-* 2025-07-05: Replaced face tissue pack once
+* 2025-07-05: Replaced facial tissue pack once
 
 This paints a picture of a somewhat more gradual recovery, with peak
 congestion around 2025-06-12 (multiple packs used per day), then a

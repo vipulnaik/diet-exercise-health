@@ -500,7 +500,7 @@ Symptom differences:
 * The congestion in June 2025 was significant enough to affect my
   sense of taste and smell.
 
-* Peak nose-blowing frequency and face tissues pack turnover appear
+* Peak nose-blowing frequency and facial tissues pack turnover appear
   to have been higher in June 2025.
 
 * The impact on exercise appears to have been more significant in June

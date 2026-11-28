@@ -136,7 +136,7 @@ the evening before going jogging; this is generally at least two hours
 after a meal). The process is as follows:
 
 * I do a normal expiration (exhalation) and then immediately cover my
-  nostrils wit my fingers (using face tissues so that my fingers
+  nostrils wit my fingers (using facial tissues so that my fingers
   aren't directly touching my nose) to hold my breath.
 
 * I then keep my nostrils closed for as long as I can get myself
