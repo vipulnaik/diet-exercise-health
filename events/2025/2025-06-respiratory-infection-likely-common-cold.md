@@ -96,7 +96,7 @@ masking while in the store, except briefly for half a minute at the
 exit (the putting-on was outside the store). I already had the sore
 throat symptom at this point, so I didn't get the infection here. I
 also consider it very unlikely that I passed it to anybody, given that
-I didn't have transmission-increasing symptoms (cough, running nose,
+I didn't have transmission-increasing symptoms (cough, runny nose,
 etc.) at this point, and given that I was in the store briefly and
 masked up while in the store, and was not in proximity to any specific
 individual for more than a couple of minutes.

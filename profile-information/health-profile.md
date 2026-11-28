@@ -3641,10 +3641,10 @@ sensitivity of some of the data (including the ability to infer date
 of birth / place of birth from the timing of some of the vaccine
 series).
 
-### Common cold and sore throat / running nose
+### Common cold and sore throat / runny nose
 
 In November 2026, I had an incident involving a sore throat and
-running nose that I believe to be due to the common cold. Details of
+runny nose that I believe to be due to the common cold. Details of
 the incident are
 [here](../events/2026/2026-11-23-onward-respiratory-infection-likely-common-cold.md). The
 source of the infection is mysterious.
