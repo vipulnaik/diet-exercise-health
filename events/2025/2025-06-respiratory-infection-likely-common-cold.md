@@ -543,7 +543,7 @@ within the range of usual.
 Command used in my Slack self-chat logs folder:
 
 ```
-grep -E "^2025-|face tissues" 2025/2025-06-*.txt
+grep -E "^2025-|face tissue pack replaced" 2025/2025-06-*.txt
 ```
 
 I generally turn over a pack of face tissues (Puffs, usually with
@@ -554,23 +554,23 @@ This can be a better measure than nose-blowing frequency because it
 better accounts for the magnitude of congestion that I needed to
 remove, by weighting by the number of face tissues used.
 
-* 2025-06-11: Replaced face tissues pack once
+* 2025-06-11: Replaced face tissue pack once
 
-* 2025-06-12: Replaced face tissues pack twice
+* 2025-06-12: Replaced face tissue pack twice
 
-* 2025-06-13: Replaced face tissues pack once
+* 2025-06-13: Replaced face tissue pack once
 
-* 2025-06-14: Replaced face tissues pack once
+* 2025-06-14: Replaced face tissue pack once
 
-* 2025-06-16: Replaced face tissues pack once
+* 2025-06-16: Replaced face tissue pack once
 
-* 2025-06-18: Replaced face tissues pack once
+* 2025-06-18: Replaced face tissue pack once
 
-* 2025-06-22: Replaced face tissues pack once
+* 2025-06-22: Replaced face tissue pack once
 
-* 2025-06-27: Replaced face tissues pack once
+* 2025-06-27: Replaced face tissue pack once
 
-* 2025-07-05: Replaced face tissues pack once
+* 2025-07-05: Replaced face tissue pack once
 
 This paints a picture of a somewhat more gradual recovery, with peak
 congestion around 2025-06-12 (multiple packs used per day), then a
