@@ -227,7 +227,7 @@ timing-wise.
   [standing-on-toes-with-eyes-closed
   exercise](../../profile-information/physical-exercise/standing-on-toes-with-eyes-closed-with-history.md)
   and [standing-on-heels-with-eyes-closed-with-toe-support
-  exercise](../../profile-information/physical-exercise/standing-on-heels-with-eyes-closed-with-toe-support.md). My
+  exercise](../../profile-information/physical-exercise/standing-on-heels-with-eyes-closed-with-toe-support-with-history.md). My
   performance on the former was atypical, with the first attempt
   lasting only 22 seconds. The second attempt of 194 seconds cleared
   the threshold (149 seconds for second attempt, but it also cleared
