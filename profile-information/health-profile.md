@@ -92,8 +92,9 @@ Sections of this document:
 
 ## Ongoing incidents
 
-As of November 2026, I have an ongoing sore throat incident documented
-[here](../events/2026/2026-11-23-onward-sore-throat.md).
+As of November 2026, I have an ongoing respiratory infection (likely
+common cold) documented
+[here](../events/2026/2026-11-23-onward-respiratory-infection-likely-common-cold.md).
 
 You can see the list of incidents for 2026 in the [events/2026
 folder](../events/2026). Similar incidents for past years can be
@@ -3641,6 +3642,12 @@ of birth / place of birth from the timing of some of the vaccine
 series).
 
 ### Common cold and sore throat / running nose
+
+In November 2026, I had an incident involving a sore throat and
+running nose that I believe to be due to the common cold. Details of
+the incident are
+[here](../events/2026/2026-11-23-onward-respiratory-infection-likely-common-cold.md). The
+source of the infection is mysterious.
 
 In June 2025, I had an incident involving a sore throat and running
 nose that I believe to be due to the common cold. Details of the

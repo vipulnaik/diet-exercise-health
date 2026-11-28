@@ -1334,10 +1334,12 @@ On Tuesday 2026-11-24, I skipped all exercises in order to fit in a
 Trader Joe's trip in the early afternoon (so that I got stocked up
 before rain later in the evening) and meal prep in the evening.
 
-## 2026-11-25: reduced jogging and skipped strength exercises
+## 2026-11-25 onward: reduced and skipped exercises on light of respiratory infection
 
-On Wednesday 2026-11-25, I did hand gripper exercises as usual (albeit
-with reduced performance) and reduced indoor jogging. I skipped
-strength exercises. All these deviations were tied to my generally not
-feelig great, and tied to my sore throat. See
-[here](2026-11-23-onward-sore-throat.md) for more information.
+Starting Wednesday 2026-11-25, I deviated from my normal exercise
+routine, skipping exercises on some days, reducing my indoor jogging
+duration on others, and skipping strength exercises on most days. My
+performance on some hand gripper exercises and some reduced support
+standing exercises also declined, while others were unaffected. More
+details are in the
+[document](2026-11-23-onward-respiratory-infection-likely-common-cold.md).
